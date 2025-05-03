@@ -1,0 +1,14 @@
+---
+title: "23-тє сесійне засідання Броварської міської ради – ВІДЕО"
+date: 2012-11-02
+categories: 
+  - "video"
+tags: 
+  - "brovarska-miska-rada"
+  - "videozapis-sesiyi"
+  - "sesiya"
+---
+
+**Подія:** Чергове 23-тє сесійне засідання Броварської міської ради **Дата:** 13.09.2012 **Камера:** [Павло Різаненко](http://rizanenko.org "Павло Різаненко")
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/l44hDB6-dEg" frameborder="0" allowfullscreen></iframe>
