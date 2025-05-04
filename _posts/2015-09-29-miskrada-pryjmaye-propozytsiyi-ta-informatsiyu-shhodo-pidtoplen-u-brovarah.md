@@ -1,6 +1,9 @@
 ---
 title: "Міськрада приймає пропозиції та інформацію щодо підтоплень у Броварах"
 date: 2015-09-29
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

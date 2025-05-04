@@ -1,6 +1,9 @@
 ---
 title: "Чому я ставлю прокуратуру на \"счётчик\""
 date: 2012-11-23
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"
 tags: 

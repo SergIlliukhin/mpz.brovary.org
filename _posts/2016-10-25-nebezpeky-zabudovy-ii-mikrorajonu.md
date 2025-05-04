@@ -1,6 +1,9 @@
 ---
 title: "НЕБЕЗПЕКИ ЗАБУДОВИ ІІ-го ЖИТЛОВОГО РАЙОНУ"
 date: 2016-10-25
+author: 
+  username: "nikitchina"
+  display_name: "Ірина Нікітчина"
 categories: 
   - "kolonka-avtora"
 tags: 

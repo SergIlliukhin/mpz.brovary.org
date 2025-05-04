@@ -1,6 +1,9 @@
 ---
 title: "Місцеві вибори у Броварах - 2015"
 date: 2015-09-16
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 ---
 
 \[vc\_row full\_width="" parallax="" parallax\_image=""\]\[vc\_column width="1/1"\]\[vc\_column\_text\]

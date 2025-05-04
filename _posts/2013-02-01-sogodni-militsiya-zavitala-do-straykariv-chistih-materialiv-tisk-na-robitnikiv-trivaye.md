@@ -1,6 +1,9 @@
 ---
 title: "Сьогодні до страйкарів «Чистих матеріалів» завітала міліція. Тиск на робітників триває"
 date: 2013-02-01
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 tags: 
   - "vibir-redaktsiyi"
   - "kerivnitstvo"

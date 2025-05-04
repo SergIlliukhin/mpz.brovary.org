@@ -1,6 +1,9 @@
 ---
 title: "У нового прокурора Броварів вимагають знайти та покарати винних за зниклі печатки ДВК"
 date: 2014-09-30
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

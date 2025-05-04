@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 13 серпня відбудеться засідання комісії, відповідальної за декомунізацію Броварів"
 date: 2015-08-11
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

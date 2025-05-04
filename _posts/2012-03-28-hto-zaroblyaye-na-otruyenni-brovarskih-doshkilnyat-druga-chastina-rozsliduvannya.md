@@ -1,6 +1,9 @@
 ---
 title: "Хто заробляє на отруєнні броварських дошкільнят? Друга частина розслідування."
 date: 2012-03-28
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "rozsliduvannya"
 tags: 

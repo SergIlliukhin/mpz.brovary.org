@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: Польське товариство \"Родина\" запрошує на концерт \"Родинні зустрічі\""
 date: 2016-11-28
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Три кроки справжнього патріота: Броварський 5-й загін охорони і оборони запрошує охочих на курси"
 date: 2015-09-01
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

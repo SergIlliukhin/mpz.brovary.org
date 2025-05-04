@@ -1,6 +1,9 @@
 ---
 title: "«Народний контроль» з'ясував, хто і як охороняє громадський порядок у Броварах"
 date: 2015-06-24
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

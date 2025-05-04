@@ -1,6 +1,9 @@
 ---
 title: "Сапожко назвав лідерів громадянського суспільства у Броварах: Вшивкін, Драпей, Сердюк і Шуляк"
 date: 2015-02-09
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

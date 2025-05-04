@@ -1,6 +1,9 @@
 ---
 title: "Броварчани домовились щодня збиратись на Майдані Свободи о 12:00"
 date: 2014-02-19
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "brovari-vstavay"

@@ -1,6 +1,9 @@
 ---
 title: "«Драконівський» 2012-ий у Броварах. Частина друга"
 date: 2013-01-10
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

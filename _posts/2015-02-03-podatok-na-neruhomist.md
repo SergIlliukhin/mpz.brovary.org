@@ -1,6 +1,9 @@
 ---
 title: "Броварська міськрада затвердила остаточні ставки податку на нерухомість"
 date: 2015-02-03
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 tags: 
   - "brovary"
   - "brovarska-miska-rada"

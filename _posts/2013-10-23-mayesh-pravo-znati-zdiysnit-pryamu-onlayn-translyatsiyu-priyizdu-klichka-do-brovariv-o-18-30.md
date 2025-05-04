@@ -1,6 +1,9 @@
 ---
 title: "“Маєш право знати” здійснить пряму онлайн-трансляцію приїзду Кличка до Броварів"
 date: 2013-10-23
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

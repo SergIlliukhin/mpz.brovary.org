@@ -1,6 +1,9 @@
 ---
 title: "Погіршення життя чиновників-«тітушок» вже сьогодні"
 date: 2013-08-18
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

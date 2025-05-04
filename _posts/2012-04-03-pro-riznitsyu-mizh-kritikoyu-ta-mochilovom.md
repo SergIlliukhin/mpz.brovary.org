@@ -1,6 +1,9 @@
 ---
 title: "Про різницю між критикою та \"мочиловом\""
 date: 2012-04-03
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

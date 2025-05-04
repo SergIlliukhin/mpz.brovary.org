@@ -1,6 +1,9 @@
 ---
 title: "Азаров переміг Федоренка та Сапожка у «запливі без води» на відкритті басейну в Броварах. ВІДЕО"
 date: 2012-09-10
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "aktsiyi-zahodi"
 tags: 

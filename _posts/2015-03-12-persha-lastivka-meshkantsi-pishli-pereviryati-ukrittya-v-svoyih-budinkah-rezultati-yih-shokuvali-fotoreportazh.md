@@ -1,6 +1,9 @@
 ---
 title: "Мешканці ЖК \"Купава\" перевірили укриття у своїх будинках. Побачене шокувало - ФОТО"
 date: 2015-03-12
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 tags: 
   - "bomboshovishhe"
   - "vibir-redaktsiyi"

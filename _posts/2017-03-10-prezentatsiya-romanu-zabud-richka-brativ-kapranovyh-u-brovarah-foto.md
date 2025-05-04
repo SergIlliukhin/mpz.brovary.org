@@ -1,6 +1,9 @@
 ---
 title: "Презентація роману «Забудь-річка» братів Капранових у Броварах - ФОТО"
 date: 2017-03-10
+author: 
+  username: "krokos"
+  display_name: "Владислава Крокос"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

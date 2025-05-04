@@ -1,6 +1,9 @@
 ---
 title: "Ремонти, проведені у ЗОШ № 6, викликали чимало запитань у громадських інспекторів"
 date: 2015-04-28
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "hromada"
 tags: 

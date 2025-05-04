@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 10 жовтня у Броварах проходитиме \"День Голландії\""
 date: 2015-10-08
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

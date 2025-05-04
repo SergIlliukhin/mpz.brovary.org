@@ -1,6 +1,9 @@
 ---
 title: "Сапожко скликає 43 чергову сесію Броварської міськради на 27 лютого"
 date: 2014-02-05
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

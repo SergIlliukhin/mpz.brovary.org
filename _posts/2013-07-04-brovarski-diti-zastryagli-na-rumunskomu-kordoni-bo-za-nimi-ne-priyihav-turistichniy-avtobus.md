@@ -1,6 +1,9 @@
 ---
 title: "Броварські діти застрягли на румунському кордоні, бо за ними не приїхав туристичний автобус"
 date: 2013-07-04
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 tags: 
   - "bolgariya"
   - "brovary"

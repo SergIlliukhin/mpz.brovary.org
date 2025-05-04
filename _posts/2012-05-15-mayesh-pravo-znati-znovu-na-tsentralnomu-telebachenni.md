@@ -1,6 +1,9 @@
 ---
 title: "«Маєш право знати» знову на центральному телебаченні!"
 date: 2012-05-15
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "video"
 tags: 

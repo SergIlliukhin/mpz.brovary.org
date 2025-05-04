@@ -1,6 +1,9 @@
 ---
 title: "Депутати планують остаточно забрати басейн у школярів"
 date: 2013-01-29
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"
 tags: 

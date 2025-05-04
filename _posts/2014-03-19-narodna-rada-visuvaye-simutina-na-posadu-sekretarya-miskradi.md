@@ -1,6 +1,9 @@
 ---
 title: "Народна рада висунула Сімутіна на посаду секретаря міськради та виставила йому 5 вимог"
 date: 2014-03-19
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "brovarska-miska-rada"
   - "brovarska-narodna-rada"

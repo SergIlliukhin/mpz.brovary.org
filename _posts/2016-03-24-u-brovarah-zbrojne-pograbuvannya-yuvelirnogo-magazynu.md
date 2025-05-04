@@ -1,6 +1,9 @@
 ---
 title: "У Броварах - збройне пограбування ювелірного магазину"
 date: 2016-03-24
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

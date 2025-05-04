@@ -1,6 +1,9 @@
 ---
 title: "Е-декларації броварських прокурорів: свої помешкання й автівки мають не всі"
 date: 2016-11-02
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "rozsliduvannya"
   - "vlada"

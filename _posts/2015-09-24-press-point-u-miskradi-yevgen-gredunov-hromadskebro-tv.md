@@ -1,6 +1,9 @@
 ---
 title: "Press point у міськраді. Євген Гредунов. – HromadskeBro.tv"
 date: 2015-09-24
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

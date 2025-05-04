@@ -1,6 +1,9 @@
 ---
 title: "Спортивні змагання у Броварах - до Дня народження Шухевича 30 червня"
 date: 2015-06-22
+author: 
+  username: "sokil"
+  display_name: ""Сокіл""
 categories: 
   - "kolonka-avtora"
 tags: 

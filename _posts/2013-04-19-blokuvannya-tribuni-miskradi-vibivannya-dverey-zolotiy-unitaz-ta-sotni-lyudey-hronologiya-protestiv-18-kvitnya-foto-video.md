@@ -1,6 +1,9 @@
 ---
 title: "Блокування трибуни та \"золотий\" унітаз: хронологія протесту 18 квітня. ФОТО, ВІДЕО"
 date: 2013-04-19
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "aktsiyi-zahodi"
 tags: 

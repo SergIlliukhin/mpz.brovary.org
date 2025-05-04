@@ -1,6 +1,9 @@
 ---
 title: "13 серпня відбудеться судилище над районними Броварськими свободівцями"
 date: 2013-08-12
+author: 
+  username: "svoboda"
+  display_name: "Прес-служба ВО Свобода"
 categories: 
   - "announce"
   - "kolonka-avtora"

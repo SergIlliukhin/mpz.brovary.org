@@ -1,6 +1,9 @@
 ---
 title: "Чи можна у Броварах подати заяву про реєстрацію шлюбу онлайн?"
 date: 2015-08-05
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

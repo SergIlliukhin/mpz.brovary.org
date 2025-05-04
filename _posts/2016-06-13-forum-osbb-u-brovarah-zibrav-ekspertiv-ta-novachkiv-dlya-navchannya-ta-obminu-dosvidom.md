@@ -1,6 +1,9 @@
 ---
 title: "Форум ОСББ у Броварах зібрав експертів та новачків для навчання та обміну досвідом"
 date: 2016-06-13
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

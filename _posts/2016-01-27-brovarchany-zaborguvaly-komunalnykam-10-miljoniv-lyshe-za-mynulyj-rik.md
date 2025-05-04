@@ -1,6 +1,9 @@
 ---
 title: "Броварчани заборгували комунальникам 10 мільйонів лише за минулий рік"
 date: 2016-01-27
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

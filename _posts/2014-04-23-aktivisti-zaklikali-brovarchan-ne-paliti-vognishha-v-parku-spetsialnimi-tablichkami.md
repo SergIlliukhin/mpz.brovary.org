@@ -1,6 +1,9 @@
 ---
 title: "Активісти закликали броварчан не палити вогнища на єврейському кладовищі"
 date: 2014-04-23
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "yevreyske-kladovishhe"
   - "brovary"

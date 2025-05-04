@@ -1,6 +1,9 @@
 ---
 title: "Захворіти на холеру чи гепатит можна, поплававши у броварських озерах – СЕС"
 date: 2016-07-01
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

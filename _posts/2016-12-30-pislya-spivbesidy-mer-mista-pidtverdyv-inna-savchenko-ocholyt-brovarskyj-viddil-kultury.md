@@ -1,6 +1,9 @@
 ---
 title: "Після співбесіди мер міста підтвердив: Інна Савченко очолить броварський відділ культури"
 date: 2016-12-30
+author: 
+  username: "ulitenko"
+  display_name: "Ірина Улітенко"
 categories: 
   - "vlada"
   - "aktsiyi-zahodi"

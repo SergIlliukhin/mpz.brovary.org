@@ -1,6 +1,9 @@
 ---
 title: "Читачів «МПЗ» найбільше цікавить, чи буде Різаненко і надалі активно діяти у Броварах"
 date: 2012-12-14
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "intervyu"
   - "brovary"

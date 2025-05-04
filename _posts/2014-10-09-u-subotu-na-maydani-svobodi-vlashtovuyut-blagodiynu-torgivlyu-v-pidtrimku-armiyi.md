@@ -1,6 +1,9 @@
 ---
 title: "У суботу на Майдані Свободи влаштують благодійний ярмарок на підтримку армії"
 date: 2014-10-09
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

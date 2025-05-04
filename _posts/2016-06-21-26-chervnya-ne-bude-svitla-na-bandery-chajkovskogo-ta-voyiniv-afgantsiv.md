@@ -1,6 +1,9 @@
 ---
 title: "26 червня не буде світла на Бандери, Чайковського та Воїнів-афганців"
 date: 2016-06-21
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

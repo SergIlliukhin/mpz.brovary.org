@@ -1,6 +1,9 @@
 ---
 title: "Олег Янчинський: «Через півроку Броварський відділ поліції запрацює на повну»"
 date: 2016-12-20
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "interview"
   - "vlada"

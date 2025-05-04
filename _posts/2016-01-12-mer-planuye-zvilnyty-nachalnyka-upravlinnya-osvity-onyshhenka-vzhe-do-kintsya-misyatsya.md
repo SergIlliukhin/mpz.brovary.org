@@ -1,6 +1,9 @@
 ---
 title: "Мер обіцяє звільнити начальника управління освіти Онищенка вже цього місяця"
 date: 2016-01-12
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

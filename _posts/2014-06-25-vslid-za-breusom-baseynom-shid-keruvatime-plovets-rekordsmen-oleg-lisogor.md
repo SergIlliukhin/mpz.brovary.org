@@ -1,6 +1,9 @@
 ---
 title: "Вслід за Бреусом: басейном «Схід» керуватиме плавець-рекордсмен Олег Лісогор"
 date: 2014-06-25
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "vibir-redaktsiyi"
   - "novini"

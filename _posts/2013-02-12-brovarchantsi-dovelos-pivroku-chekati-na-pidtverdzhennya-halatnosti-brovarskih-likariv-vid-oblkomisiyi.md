@@ -1,6 +1,9 @@
 ---
 title: "Броварчанці довелось півроку чекати на підтвердження халатності броварських лікарів від облкомісії"
 date: 2013-02-12
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 tags: 
   - "bila-halatnist"
   - "bugar"

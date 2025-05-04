@@ -1,6 +1,9 @@
 ---
 title: "Сьогодні в Броварах горіло в лісі по вул. Соборній"
 date: 2017-03-06
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

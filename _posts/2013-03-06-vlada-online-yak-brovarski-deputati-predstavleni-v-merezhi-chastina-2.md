@@ -1,6 +1,9 @@
 ---
 title: "Влада online: як броварські депутати представлені в Мережі. Частина 2"
 date: 2013-03-06
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "rozsliduvannya"
 tags: 

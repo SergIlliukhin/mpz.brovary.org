@@ -1,6 +1,9 @@
 ---
 title: "\"Правий сектор\" зареєстрував свого кандидата у виборчому окрузі № 97"
 date: 2014-10-01
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

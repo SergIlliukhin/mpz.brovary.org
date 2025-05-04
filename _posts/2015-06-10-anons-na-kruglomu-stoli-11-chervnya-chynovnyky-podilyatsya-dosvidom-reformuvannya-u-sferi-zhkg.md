@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: На «круглому столі» 11 червня чиновники поділяться досвідом реформування у сфері ЖКГ"
 date: 2015-06-10
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

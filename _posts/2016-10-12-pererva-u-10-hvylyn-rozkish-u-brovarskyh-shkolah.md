@@ -1,6 +1,9 @@
 ---
 title: "Перерва у 10 хвилин - розкіш у броварських школах"
 date: 2016-10-12
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "rozsliduvannya"
   - "brovary"

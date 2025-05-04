@@ -1,6 +1,9 @@
 ---
 title: "Молодший корпус броварського садочку \"Зірочка\" під загрозою закриття"
 date: 2016-11-04
+author: 
+  username: "ulitenko"
+  display_name: "Ірина Улітенко"
 categories: 
   - "brovary"
   - "novyny"

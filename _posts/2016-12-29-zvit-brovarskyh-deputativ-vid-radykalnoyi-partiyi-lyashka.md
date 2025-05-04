@@ -1,6 +1,9 @@
 ---
 title: "Звіт броварських депутатів від Радикальної партії Ляшка"
 date: 2016-12-29
+author: 
+  username: "onikienko"
+  display_name: "Вікторія Оникієнко"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

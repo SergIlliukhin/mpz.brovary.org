@@ -1,6 +1,9 @@
 ---
 title: "Просте і насущне запитання"
 date: 2012-08-08
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

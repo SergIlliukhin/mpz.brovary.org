@@ -1,6 +1,9 @@
 ---
 title: "39 адрес: у Броварах проведуть капітальні ремонти дворових доріг"
 date: 2016-06-08
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

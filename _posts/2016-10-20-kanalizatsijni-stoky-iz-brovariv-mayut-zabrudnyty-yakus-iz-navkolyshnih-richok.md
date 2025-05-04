@@ -1,6 +1,9 @@
 ---
 title: "Каналізаційні стоки з Броварів мають забруднити якусь із навколишніх річок?"
 date: 2016-10-20
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "kolonka-avtora"
 tags: 

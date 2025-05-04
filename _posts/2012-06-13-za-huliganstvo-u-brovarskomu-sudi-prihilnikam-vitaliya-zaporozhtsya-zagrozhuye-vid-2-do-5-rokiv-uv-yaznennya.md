@@ -1,6 +1,9 @@
 ---
 title: "За «хуліганство» у броварському суді прихильникам Віталія Запорожця загрожує від 2 до 5 років ув’язнення"
 date: 2012-06-13
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "vitaliy-zaporozhets"
   - "vibir-redaktsiyi"

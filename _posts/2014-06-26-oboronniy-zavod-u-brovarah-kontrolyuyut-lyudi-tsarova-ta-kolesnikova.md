@@ -1,6 +1,9 @@
 ---
 title: "Оборонний завод у Броварах контролюють люди Царьова та Колеснікова"
 date: 2014-06-26
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "rozsliduvannya"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Броварчани поновили стенд Небесної сотні на Майдані Свободи"
 date: 2014-05-12
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "vandali"
   - "vibir-redaktsiyi"

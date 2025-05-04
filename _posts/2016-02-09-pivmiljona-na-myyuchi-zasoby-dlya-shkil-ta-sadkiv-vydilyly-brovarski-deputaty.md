@@ -1,6 +1,9 @@
 ---
 title: "Півмільйона на миючі засоби для шкіл та садків виділили броварські депутати"
 date: 2016-02-09
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

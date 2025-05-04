@@ -1,6 +1,9 @@
 ---
 title: "Броварських депутатів - в Ялту!"
 date: 2013-09-20
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 ---

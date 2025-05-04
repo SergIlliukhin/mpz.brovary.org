@@ -1,6 +1,9 @@
 ---
 title: "Разом з опаленням із осель броварчан пропаде і гаряча вода?"
 date: 2015-04-09
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 tags: 
   - "brovary"
   - "brovariteplovodoenergiya"

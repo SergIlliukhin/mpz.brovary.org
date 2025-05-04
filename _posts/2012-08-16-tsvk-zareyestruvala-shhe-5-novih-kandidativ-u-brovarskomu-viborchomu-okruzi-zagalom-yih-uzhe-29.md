@@ -1,6 +1,9 @@
 ---
 title: "ЦВК зареєструвала ще 5 нових кандидатів у броварському виборчому окрузі, загалом їх уже 29"
 date: 2012-08-16
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"
   - "vibori"

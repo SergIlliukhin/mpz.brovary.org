@@ -1,6 +1,9 @@
 ---
 title: "Здоровий глузд чи популізм для громади?"
 date: 2016-10-22
+author: 
+  username: "cherepejnik"
+  display_name: "Леонід Черепейнік"
 categories: 
   - "kolonka-avtora"
 ---

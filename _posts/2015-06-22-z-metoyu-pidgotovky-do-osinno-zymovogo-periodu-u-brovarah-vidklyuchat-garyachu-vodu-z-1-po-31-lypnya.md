@@ -1,6 +1,9 @@
 ---
 title: "\"З метою підготовки до осінньо-зимового періоду\" у Броварах відключать гарячу воду з 1 по 31 липня"
 date: 2015-06-22
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

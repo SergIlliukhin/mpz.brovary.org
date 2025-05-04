@@ -1,6 +1,9 @@
 ---
 title: "Як зупинити мажорський \"безпредел\" у Броварах?"
 date: 2013-03-18
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

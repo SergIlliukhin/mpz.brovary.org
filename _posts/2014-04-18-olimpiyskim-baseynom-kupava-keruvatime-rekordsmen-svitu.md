@@ -1,6 +1,9 @@
 ---
 title: "Олімпійським басейном «Купава» керуватиме рекордсмен світу"
 date: 2014-04-18
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "vibir-redaktsiyi"
   - "novini"

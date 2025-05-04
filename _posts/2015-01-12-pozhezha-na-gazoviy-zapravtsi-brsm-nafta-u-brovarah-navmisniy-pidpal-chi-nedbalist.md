@@ -1,6 +1,9 @@
 ---
 title: "Пожежа на газовій заправці «БРСМ-Нафта» у Броварах: навмисний підпал чи недбалість?"
 date: 2015-01-12
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 tags: 
   - "brovary"
   - "brsm"

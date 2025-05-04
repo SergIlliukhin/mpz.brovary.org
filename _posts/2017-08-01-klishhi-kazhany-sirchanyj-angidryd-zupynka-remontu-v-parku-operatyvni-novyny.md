@@ -1,6 +1,9 @@
 ---
 title: "Кліщі, кажани, сірчаний ангідрид і зупинка ремонту в парку - оперативні новини"
 date: 2017-08-01
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

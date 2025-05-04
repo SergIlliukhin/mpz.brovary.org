@@ -1,6 +1,9 @@
 ---
 title: "Наступного тижня мешканці броварського Масиву сидітимуть без світла"
 date: 2016-05-06
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

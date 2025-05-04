@@ -1,6 +1,9 @@
 ---
 title: "Е-декларації: Семенов оприлюднив, Бойко зареєстрований російською, Кочубея досі нема"
 date: 2017-06-07
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "rozsliduvannya"
   - "vlada"

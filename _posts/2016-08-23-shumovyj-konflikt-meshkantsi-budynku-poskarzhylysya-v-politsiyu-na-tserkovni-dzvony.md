@@ -1,6 +1,9 @@
 ---
 title: "Шумовий конфлікт: мешканці будинку поскаржилися в поліцію на церковні дзвони"
 date: 2016-08-23
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

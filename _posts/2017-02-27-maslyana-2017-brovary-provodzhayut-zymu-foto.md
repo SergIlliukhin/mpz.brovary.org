@@ -1,6 +1,9 @@
 ---
 title: "Масляна-2017: Бровари проводжають зиму - ФОТО"
 date: 2017-02-27
+author: 
+  username: "krokos"
+  display_name: "Владислава Крокос"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

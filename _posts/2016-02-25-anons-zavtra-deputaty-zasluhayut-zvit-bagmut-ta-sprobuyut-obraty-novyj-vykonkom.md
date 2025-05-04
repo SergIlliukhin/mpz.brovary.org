@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: завтра депутати заслухають звіт Багмут та спробують обрати новий виконком"
 date: 2016-02-25
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

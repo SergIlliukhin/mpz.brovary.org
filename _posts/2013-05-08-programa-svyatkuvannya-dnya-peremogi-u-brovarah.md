@@ -1,6 +1,9 @@
 ---
 title: "Програма святкування Дня Перемоги у Броварах: хода ветеранів та феєрверк"
 date: 2013-05-08
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Броварські страйкарі зайняли перший поверх міськради та просять підтримки. ВІДЕО"
 date: 2013-02-06
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

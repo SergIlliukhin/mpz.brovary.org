@@ -1,6 +1,9 @@
 ---
 title: "Броварську молодь запрошують стати «The Best другом» для дітей, постраждалих від війни на Сході"
 date: 2014-12-29
+author: 
+  username: "onikienko"
+  display_name: "Вікторія Оникієнко"
 tags: 
   - "vibir-redaktsiyi"
   - "novini"

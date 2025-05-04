@@ -1,6 +1,9 @@
 ---
 title: "Невідомі вкрали іграшки з приймальні депутатів Іваненків у Броварах"
 date: 2017-02-01
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Броварські добровольці віддячили своїм юним благодійникам"
 date: 2014-12-26
+author: 
+  username: "Lisova"
+  display_name: "Лідія Стрельченко"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Суд заарештував 94 гектари земель колишнього радіопередавального центру у Броварах"
 date: 2015-10-21
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

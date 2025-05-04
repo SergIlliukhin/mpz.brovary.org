@@ -1,6 +1,9 @@
 ---
 title: "Міс Бровари Таня Лучко: «Я не казала, що мер Сапожко - мільярдер»"
 date: 2013-10-01
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "interview"
 tags: 

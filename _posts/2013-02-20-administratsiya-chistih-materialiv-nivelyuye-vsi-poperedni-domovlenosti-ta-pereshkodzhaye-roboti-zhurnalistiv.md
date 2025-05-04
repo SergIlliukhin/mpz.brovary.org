@@ -1,6 +1,9 @@
 ---
 title: "Адміністрація «Чистих матеріалів» нівелює всі попередні домовленості та перешкоджає роботі журналістів"
 date: 2013-02-20
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 tags: 
   - "vibir-redaktsiyi"
   - "deshha"

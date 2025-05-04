@@ -1,6 +1,9 @@
 ---
 title: "Броварський медіадесант на акції \"Вставай, Україно!\": онлайн-репортаж з \"гарячої точки\""
 date: 2013-05-17
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "aktsiya-protestu"
   - "vibir-redaktsiyi"

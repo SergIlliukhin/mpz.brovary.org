@@ -1,6 +1,9 @@
 ---
 title: "У Броварах відбувся марш страйкуючих працівників «Чистих матеріалів»"
 date: 2013-01-31
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "aktsiyi-zahodi"
 tags: 

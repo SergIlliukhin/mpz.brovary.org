@@ -1,6 +1,9 @@
 ---
 title: "На «Купаву» виділили ще 2,7 мільйони"
 date: 2014-07-02
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "breus"
   - "viddil-kapitalnogo-budivnitstva"

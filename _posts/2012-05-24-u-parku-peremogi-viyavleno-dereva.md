@@ -1,6 +1,9 @@
 ---
 title: "У парку Перемоги виявлено дерева! ДОКУМЕНТ"
 date: 2012-05-24
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"
 tags: 

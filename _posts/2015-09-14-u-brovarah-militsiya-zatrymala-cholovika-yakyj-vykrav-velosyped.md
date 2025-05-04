@@ -1,6 +1,9 @@
 ---
 title: "У Броварах міліція затримала чоловіка, який викрав велосипед"
 date: 2015-09-14
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

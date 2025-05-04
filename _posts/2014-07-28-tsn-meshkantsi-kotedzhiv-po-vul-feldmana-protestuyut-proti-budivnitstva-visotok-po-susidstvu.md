@@ -1,6 +1,9 @@
 ---
 title: "ТСН: Мешканці котеджів по вул. Фельдмана протестують проти будівництва висоток по сусідству"
 date: 2014-07-28
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

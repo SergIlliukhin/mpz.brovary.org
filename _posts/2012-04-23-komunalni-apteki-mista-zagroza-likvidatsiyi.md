@@ -1,6 +1,9 @@
 ---
 title: "Комунальні аптеки міста: загроза ліквідації"
 date: 2012-04-23
+author: 
+  username: "malofienko"
+  display_name: "Віктор Малофієнко"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Чисте місто починається з тебе!"
 date: 2016-03-23
+author: 
+  username: "vtorma"
+  display_name: "Бровари Вторма"
 categories: 
   - "kolonka-avtora"
 tags: 

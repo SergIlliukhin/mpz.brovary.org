@@ -1,6 +1,9 @@
 ---
 title: "Броварський \"в'язень Банкової\": що змінилось за рік після побиття та арешту?"
 date: 2014-12-01
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 tags: 
   - "bankova"
   - "brovary"

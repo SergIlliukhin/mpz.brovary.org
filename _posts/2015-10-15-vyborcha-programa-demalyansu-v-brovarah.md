@@ -1,6 +1,9 @@
 ---
 title: "Виборча програма ДемАльянсу в Броварах"
 date: 2015-10-15
+author: 
+  username: "demalliance"
+  display_name: "ДемАльянс Бровари"
 categories: 
   - "kolonka-avtora"
 tags: 

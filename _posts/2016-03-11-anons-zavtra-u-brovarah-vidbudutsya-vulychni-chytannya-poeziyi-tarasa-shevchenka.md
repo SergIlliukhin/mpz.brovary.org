@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: Завтра у Броварах відбудуться вуличні читання поезії Тараса Шевченка"
 date: 2016-03-11
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

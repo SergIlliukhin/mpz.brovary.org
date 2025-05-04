@@ -1,6 +1,9 @@
 ---
 title: "У складі броварської ОВК знову заміни: від фракції «БЮТ-Батьківщина» та УНП"
 date: 2012-09-19
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "vibori-2012"
   - "zamina"

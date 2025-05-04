@@ -1,6 +1,9 @@
 ---
 title: "У Броварах знову горіла трава: на ділянці у півгектара - ФОТО"
 date: 2017-03-28
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

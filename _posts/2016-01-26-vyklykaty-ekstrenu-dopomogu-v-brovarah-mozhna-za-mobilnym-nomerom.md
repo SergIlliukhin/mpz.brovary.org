@@ -1,6 +1,9 @@
 ---
 title: "Екстрену допомогу в Броварах можна викликати за номером мобільного"
 date: 2016-01-26
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

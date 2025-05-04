@@ -1,6 +1,9 @@
 ---
 title: "Через відсутність освітлення та тротуарів на вулиці Симоненка збивають мешканців"
 date: 2015-07-23
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "brovary"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Скільки заробив мер та його заступники у минулому році: аналіз декларацій про доходи"
 date: 2015-04-07
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "andryeyev"
   - "brovary"

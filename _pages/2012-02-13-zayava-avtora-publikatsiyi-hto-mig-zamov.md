@@ -1,6 +1,9 @@
 ---
 title: "Заява автора публікації \"Хто міг замовити напад на Різаненка?\""
 date: 2012-02-13
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 ---
 
 \[caption id="attachment\_1190" align="alignleft" width="208" caption="Андрій Качор"\][![](https://mpz.brovary.org/wp-content/uploads/2012/02/x_36f27217.jpg "x_36f27217")](https://mpz.brovary.org/wp-content/uploads/2012/02/x_36f27217.jpg)\[/caption\]

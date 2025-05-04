@@ -1,6 +1,9 @@
 ---
 title: "Сьогодні без світла сидітимуть навчальні заклади та житлові будинки Старого міста"
 date: 2016-04-21
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

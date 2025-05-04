@@ -1,6 +1,9 @@
 ---
 title: "ДЕНЦ «Камелія» отримала нове приміщення в новобудові ЖК «Палладіум» - ФОТО"
 date: 2017-06-09
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

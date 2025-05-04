@@ -1,6 +1,9 @@
 ---
 title: "Броварчани протестують проти будівництва на Симоненка-Чорновола: знесли огорожу - ФОТО"
 date: 2016-10-06
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

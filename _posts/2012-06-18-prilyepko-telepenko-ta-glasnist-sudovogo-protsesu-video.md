@@ -1,6 +1,9 @@
 ---
 title: "Прилєпко, Телепенько та гласність судового процесу (ВІДЕО)"
 date: 2012-06-18
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"
 tags: 

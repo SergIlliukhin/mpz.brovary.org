@@ -1,6 +1,9 @@
 ---
 title: "Броварські посадовці планують збільшити тариф на обслуговування водо- та тепломереж майже в 3 рази"
 date: 2012-12-28
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 tags: 
   - "brovary"
   - "brovariteplovodoenergiya"

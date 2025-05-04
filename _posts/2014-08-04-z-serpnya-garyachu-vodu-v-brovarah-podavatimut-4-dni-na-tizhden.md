@@ -1,6 +1,9 @@
 ---
 title: "З серпня гарячу воду в Броварах подаватимуть 4 дні на тиждень"
 date: 2014-08-04
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "brovariteplovodoenergiya"
   - "vibir-redaktsiyi"

@@ -1,6 +1,9 @@
 ---
 title: "Уроки благодійності: школярі \"взяли під опіку\" броварських дітей з особливими потребами"
 date: 2015-04-24
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "hromada"
 tags: 

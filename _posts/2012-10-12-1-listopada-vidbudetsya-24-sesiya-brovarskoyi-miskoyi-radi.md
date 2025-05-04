@@ -1,6 +1,9 @@
 ---
 title: "1 листопада відбудеться 24 чергова сесія Броварської міської ради"
 date: 2012-10-12
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

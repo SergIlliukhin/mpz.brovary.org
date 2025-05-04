@@ -1,6 +1,9 @@
 ---
 title: "Результати опитування в парку: ТАК - зоні релаксу, НІ - пам'ятникам та кафе - ФОТО"
 date: 2016-06-29
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

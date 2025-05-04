@@ -1,6 +1,9 @@
 ---
 title: "Бровари та всю Київську область залишили без гарячої води - через відключення газу для тепломереж"
 date: 2013-04-24
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 tags: 
   - "brovary"
   - "vidklyuchennya"

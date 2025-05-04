@@ -1,6 +1,9 @@
 ---
 title: "Міністр молоді та спорту Дмитро Булатов знову приїжджає в \"Купаву\""
 date: 2014-04-10
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

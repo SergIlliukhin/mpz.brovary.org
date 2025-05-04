@@ -1,6 +1,9 @@
 ---
 title: "Електоральна географія 97 округу: секрет «срібла» Семеняки та урок беззаперечної перемоги від Різаненка"
 date: 2012-10-31
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 categories: 
   - "rozsliduvannya"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "У Сапожка - нова земельна ділянка, а Голубовський розлучився: мерія оприлюднила декларації"
 date: 2016-04-06
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "rozsliduvannya"
   - "vlada"

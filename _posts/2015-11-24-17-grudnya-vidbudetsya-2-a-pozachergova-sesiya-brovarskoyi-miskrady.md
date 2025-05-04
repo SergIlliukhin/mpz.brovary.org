@@ -1,6 +1,9 @@
 ---
 title: "17 грудня відбудеться 2-а позачергова сесія Броварської міськради"
 date: 2015-11-24
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

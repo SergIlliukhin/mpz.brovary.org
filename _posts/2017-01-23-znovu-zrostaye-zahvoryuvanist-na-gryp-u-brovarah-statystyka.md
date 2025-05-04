@@ -1,6 +1,9 @@
 ---
 title: "Знову зростає захворюваність на грип у Броварах – статистика"
 date: 2017-01-23
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

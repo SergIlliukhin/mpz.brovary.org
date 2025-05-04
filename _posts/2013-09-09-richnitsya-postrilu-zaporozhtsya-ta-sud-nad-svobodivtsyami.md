@@ -1,6 +1,9 @@
 ---
 title: "Річниця пострілу Запорожця та суд над свободівцями"
 date: 2013-09-09
+author: 
+  username: "svoboda"
+  display_name: "Прес-служба ВО Свобода"
 categories: 
   - "announce"
   - "kolonka-avtora"

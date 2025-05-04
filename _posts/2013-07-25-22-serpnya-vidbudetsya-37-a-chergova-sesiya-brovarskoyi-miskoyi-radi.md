@@ -1,6 +1,9 @@
 ---
 title: "22 серпня відбудеться 37-а чергова сесія Броварської міської ради"
 date: 2013-07-25
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

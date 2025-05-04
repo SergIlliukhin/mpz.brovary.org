@@ -1,6 +1,9 @@
 ---
 title: "Директор VS учителька: конфлікт у ЗОШ №3 сягнув апогею"
 date: 2017-02-14
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "hromada"
   - "brovary"

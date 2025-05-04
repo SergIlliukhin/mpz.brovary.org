@@ -1,6 +1,9 @@
 ---
 title: "Безкоштовний тренінг із дизайну відбудеться 28 січня у Броварах"
 date: 2017-01-26
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

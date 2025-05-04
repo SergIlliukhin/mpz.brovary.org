@@ -1,6 +1,9 @@
 ---
 title: "Як спортивний майданчик перетворився на платну автопарковку замість шести тенісних кортів?"
 date: 2012-11-22
+author: 
+  username: "kalistratos"
+  display_name: "Олександр Рудка"
 categories: 
   - "kolonka-avtora"
 tags: 

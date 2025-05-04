@@ -1,6 +1,9 @@
 ---
 title: "Мінус 21: броварський виконком надав черговий дозвіл на зрізання дерев"
 date: 2017-07-04
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

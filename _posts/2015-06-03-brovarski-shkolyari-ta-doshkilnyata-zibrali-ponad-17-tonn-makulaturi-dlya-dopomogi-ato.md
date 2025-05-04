@@ -1,6 +1,9 @@
 ---
 title: "Броварські школярі та дошкільнята зібрали понад 17 тонн макулатури для допомоги АТО"
 date: 2015-06-03
+author: 
+  username: "komarovskyj"
+  display_name: "Комаровський Олексій"
 categories: 
   - "hromada"
 tags: 

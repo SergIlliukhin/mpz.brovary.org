@@ -1,6 +1,9 @@
 ---
 title: "Явка на цьогорічних місцевих виборах у Броварах становила майже 43%"
 date: 2015-10-25
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Броварський парк \"Перемога\" довірили ремонтувати відомим тендерним махінаторам"
 date: 2017-05-25
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "rozsliduvannya"
   - "vlada"

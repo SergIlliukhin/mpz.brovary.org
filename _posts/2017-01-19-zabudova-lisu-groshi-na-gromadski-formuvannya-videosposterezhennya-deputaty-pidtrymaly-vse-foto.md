@@ -1,6 +1,9 @@
 ---
 title: "Забудова лісу, гроші на громадські формування, відеоспостереження – депутати підтримали все – ФОТО"
 date: 2017-01-19
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "vlada"
   - "aktsiyi-zahodi"

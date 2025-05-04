@@ -1,6 +1,9 @@
 ---
 title: "Із активістів зняли обвинувачення за виконання патріотичних пісень"
 date: 2014-03-20
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "batyuk"
   - "brovary"

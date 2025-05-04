@@ -1,6 +1,9 @@
 ---
 title: "Пам'ятник самим собі: міліціонери-чорнобильці встановили меморіал ліквідаторам аварії на ЧАЕС"
 date: 2015-04-29
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
 tags: 

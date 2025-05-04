@@ -1,6 +1,9 @@
 ---
 title: "Сапер Фатєєв: «Після втрати ніг не хотілося жити. Але я буду жити, на зло ворогам!»"
 date: 2016-04-15
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 categories: 
   - "interview"
   - "hromada"

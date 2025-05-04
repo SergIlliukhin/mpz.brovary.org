@@ -1,6 +1,9 @@
 ---
 title: "У Броварах запрацював Координаційний центр допомоги нашим військовим на Сході"
 date: 2014-06-20
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "amunitsiya"
   - "ato"

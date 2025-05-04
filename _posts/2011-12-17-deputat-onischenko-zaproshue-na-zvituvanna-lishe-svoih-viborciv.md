@@ -1,6 +1,9 @@
 ---
 title: "Депутат Онищенко запрошує на звітування лише своїх виборців"
 date: 2011-12-17
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Розвідник «Лютий»: «Якби ми доповідали про все, що робили на війні – хрін би ми щось зробили»"
 date: 2016-03-25
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 categories: 
   - "interview"
   - "hromada"

@@ -1,6 +1,9 @@
 ---
 title: "Міськрада зареєструвала звернення по громадських слуханнях щодо збереження Парку Сосновий"
 date: 2016-11-08
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

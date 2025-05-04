@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 16 листопада відбудуться збори ГО \"Особлива родина\""
 date: 2015-11-14
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

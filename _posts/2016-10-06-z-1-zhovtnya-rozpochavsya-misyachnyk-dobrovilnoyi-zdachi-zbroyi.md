@@ -1,6 +1,9 @@
 ---
 title: "З 1 жовтня розпочався місячник добровільної здачі зброї"
 date: 2016-10-06
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

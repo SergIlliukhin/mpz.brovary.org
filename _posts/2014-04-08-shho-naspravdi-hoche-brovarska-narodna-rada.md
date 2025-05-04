@@ -1,6 +1,9 @@
 ---
 title: "Що насправді хоче Броварська Народна Рада?"
 date: 2014-04-08
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 categories: 
   - "kolonka-avtora"
 tags: 

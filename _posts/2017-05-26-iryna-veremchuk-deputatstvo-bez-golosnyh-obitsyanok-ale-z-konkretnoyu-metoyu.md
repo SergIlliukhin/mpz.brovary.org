@@ -1,6 +1,9 @@
 ---
 title: "Ірина Веремчук: депутатство без голосних обіцянок, але з конкретною метою"
 date: 2017-05-26
+author: 
+  username: "mizina"
+  display_name: "Дарина Мізіна"
 categories: 
   - "interview"
   - "hromada"

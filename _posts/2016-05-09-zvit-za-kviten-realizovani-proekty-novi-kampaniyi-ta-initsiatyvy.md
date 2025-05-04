@@ -1,6 +1,9 @@
 ---
 title: "Звіт за квітень: реалізовані проекти, нові кампанії та ініціативи"
 date: 2016-05-09
+author: 
+  username: "demalliance"
+  display_name: "ДемАльянс Бровари"
 categories: 
   - "kolonka-avtora"
 tags: 

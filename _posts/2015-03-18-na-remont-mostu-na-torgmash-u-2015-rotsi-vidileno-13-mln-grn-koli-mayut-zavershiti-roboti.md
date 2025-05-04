@@ -1,6 +1,9 @@
 ---
 title: "На ремонт мосту на Торгмаш у 2015 році виділено 13 млн грн. Коли мають завершити роботи?"
 date: 2015-03-18
+author: 
+  username: "onikienko"
+  display_name: "Вікторія Оникієнко"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

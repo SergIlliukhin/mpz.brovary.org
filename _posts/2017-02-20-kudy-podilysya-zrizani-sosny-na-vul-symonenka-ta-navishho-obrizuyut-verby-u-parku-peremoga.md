@@ -1,6 +1,9 @@
 ---
 title: "Куди поділися зрізані сосни на вул. Симоненка та навіщо обрізують верби у парку «Перемога»?"
 date: 2017-02-20
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

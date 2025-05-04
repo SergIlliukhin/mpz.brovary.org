@@ -1,6 +1,9 @@
 ---
 title: "Під час акції «Дайте дорогу!» влада провела показовий «обряд покращення ями»"
 date: 2013-05-20
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "aktsiyi-zahodi"
 tags: 

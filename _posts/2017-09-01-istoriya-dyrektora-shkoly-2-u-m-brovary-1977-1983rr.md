@@ -1,6 +1,9 @@
 ---
 title: "Історія директора школи №2 у м.Бровари (1977-1983рр)"
 date: 2017-09-01
+author: 
+  username: "Scientific_view"
+  display_name: "Ольга Романенко"
 categories: 
   - "kolonka-avtora"
 ---

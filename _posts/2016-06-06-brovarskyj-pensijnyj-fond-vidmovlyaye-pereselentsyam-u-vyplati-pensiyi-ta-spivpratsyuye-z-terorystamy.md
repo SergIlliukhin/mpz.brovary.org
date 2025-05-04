@@ -1,6 +1,9 @@
 ---
 title: "Броварський пенсійний фонд відмовляє переселенцям у виплаті пенсії та співпрацює з терористами?"
 date: 2016-06-06
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

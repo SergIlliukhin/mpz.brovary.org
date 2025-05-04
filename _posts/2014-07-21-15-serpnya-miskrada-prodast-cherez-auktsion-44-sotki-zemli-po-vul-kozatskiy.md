@@ -1,6 +1,9 @@
 ---
 title: "15 серпня міськрада продасть через аукціон 44 сотки землі по вул. Козацькій"
 date: 2014-07-21
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "auktsion"
   - "brovary"

@@ -1,6 +1,9 @@
 ---
 title: "Військова частина А2299 просить допомогти автозапчастинами"
 date: 2014-03-19
+author: 
+  username: "samooborona"
+  display_name: "Броварська Самооборона"
 categories: 
   - "kolonka-avtora"
 tags: 

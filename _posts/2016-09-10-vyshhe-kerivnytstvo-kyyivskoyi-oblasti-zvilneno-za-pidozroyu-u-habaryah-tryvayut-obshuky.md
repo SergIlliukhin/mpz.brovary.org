@@ -1,6 +1,9 @@
 ---
 title: "Вище керівництво Київської області звільнено за підозрою у хабарях"
 date: 2016-09-10
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

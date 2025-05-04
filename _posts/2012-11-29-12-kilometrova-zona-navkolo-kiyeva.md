@@ -1,6 +1,9 @@
 ---
 title: "12-кілометрова зона навколо Києва"
 date: 2012-11-29
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 ---

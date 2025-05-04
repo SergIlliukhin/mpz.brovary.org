@@ -1,6 +1,9 @@
 ---
 title: "Дві пожежі за один ранок: у Броварах горіли гараж-склад і приватний будинок - ФОТО, ВІДЕО"
 date: 2015-06-12
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

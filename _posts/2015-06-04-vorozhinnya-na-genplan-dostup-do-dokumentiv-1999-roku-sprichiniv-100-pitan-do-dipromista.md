@@ -1,6 +1,9 @@
 ---
 title: "Ворожіння на Генплан: доступ до документів 1999 року спричинив \"100 питань до \"Діпроміста\""
 date: 2015-06-04
+author: 
+  username: "komarovskyj"
+  display_name: "Комаровський Олексій"
 categories: 
   - "announce"
   - "hromada"

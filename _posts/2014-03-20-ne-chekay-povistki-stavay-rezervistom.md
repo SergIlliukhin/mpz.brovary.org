@@ -1,6 +1,9 @@
 ---
 title: "Не чекай повістки - ставай резервістом!"
 date: 2014-03-20
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 ---

@@ -1,6 +1,9 @@
 ---
 title: "Писанка — витончений символ Великодня - ФОТО"
 date: 2017-04-07
+author: 
+  username: "jacyv"
+  display_name: "Світлана Яцив"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

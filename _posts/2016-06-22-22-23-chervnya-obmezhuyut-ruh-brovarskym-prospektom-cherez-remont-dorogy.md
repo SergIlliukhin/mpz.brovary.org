@@ -1,6 +1,9 @@
 ---
 title: "22-23 червня обмежують рух Броварським проспектом через ремонт дороги"
 date: 2016-06-22
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Саботаж декомунізації: за 9 місяців демонтували лише одну меморіальну табличку – ФОТОРЕПОРТАЖ"
 date: 2016-02-25
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "brovary"
   - "novyny"

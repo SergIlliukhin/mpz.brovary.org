@@ -1,6 +1,9 @@
 ---
 title: "Страйкарі «Чистих матеріалів» просять втрутитися у конфлікт США"
 date: 2013-02-18
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "aktsiyi-zahodi"
 tags: 

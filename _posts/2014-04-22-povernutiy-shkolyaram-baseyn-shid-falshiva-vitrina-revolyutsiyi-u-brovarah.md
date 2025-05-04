@@ -1,6 +1,9 @@
 ---
 title: "«Повернутий громаді»  басейн «Схід» - фальшива «вітрина революції» у Броварах"
 date: 2014-04-22
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "rozsliduvannya"
 tags: 

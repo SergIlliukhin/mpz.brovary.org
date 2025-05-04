@@ -1,6 +1,9 @@
 ---
 title: "На звання «Почесного громадянина Броварів» крім Лисенка та Дворянець розглядають ще 3 кандидатури"
 date: 2014-09-12
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "antonina-dvoryanets"
   - "vibir-redaktsiyi"

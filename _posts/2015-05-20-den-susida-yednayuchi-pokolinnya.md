@@ -1,6 +1,9 @@
 ---
 title: "День Сусіда: Єднаючи покоління"
 date: 2015-05-20
+author: 
+  username: "cherednik"
+  display_name: "Юрій Чередник"
 categories: 
   - "kolonka-avtora"
 ---

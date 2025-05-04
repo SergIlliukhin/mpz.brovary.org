@@ -1,6 +1,9 @@
 ---
 title: "Створення комунального підприємства \"Броварипарксервіс\" - чиїсь бізнес-інтереси?"
 date: 2017-03-16
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "vlada"
   - "novyny"

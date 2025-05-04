@@ -1,6 +1,9 @@
 ---
 title: "Батальйону \"Бровари-5\" - один рік! - ФОТОРЕПОРТАЖ"
 date: 2015-09-18
+author: 
+  username: "onikienko"
+  display_name: "Вікторія Оникієнко"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

@@ -1,6 +1,9 @@
 ---
 title: "Сьогодні у «Прометеї» благодійний концерт, де збиратимуть кошти для пораненого бійця"
 date: 2016-02-12
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "brovary"

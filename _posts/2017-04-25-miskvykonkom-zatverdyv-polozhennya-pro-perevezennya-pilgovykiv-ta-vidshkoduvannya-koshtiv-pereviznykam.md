@@ -1,6 +1,9 @@
 ---
 title: "Міськвиконком затвердив Положення про перевезення пільговиків"
 date: 2017-04-25
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "vlada"
   - "novyny"

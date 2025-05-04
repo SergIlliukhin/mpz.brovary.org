@@ -1,6 +1,9 @@
 ---
 title: "Бандою Багмутів займеться обласна депутатська комісія"
 date: 2013-05-14
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

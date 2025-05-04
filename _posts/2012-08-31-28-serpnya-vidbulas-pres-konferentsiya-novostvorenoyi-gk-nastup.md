@@ -1,6 +1,9 @@
 ---
 title: "«Наступ» закликає припинити будь-яку співпрацю з владою та отримати громадську «Амністію»"
 date: 2012-08-31
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 tags: 
   - "amnistiya"
   - "vibir-redaktsiyi"

@@ -1,6 +1,9 @@
 ---
 title: "Через трагедію в Княжичах звільнено 7 офіцерів поліції - ВІДЕО"
 date: 2017-01-18
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

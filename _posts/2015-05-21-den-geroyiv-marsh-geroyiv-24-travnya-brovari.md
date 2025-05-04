@@ -1,6 +1,9 @@
 ---
 title: "День героїв - Марш героїв. 24 травня. Бровари"
 date: 2015-05-21
+author: 
+  username: "sokil"
+  display_name: ""Сокіл""
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Склад окружної виборчої комісії №97"
 date: 2012-09-18
+author: 
+  username: "admin"
+  display_name: "admin"
 ---
 
 \[table\]

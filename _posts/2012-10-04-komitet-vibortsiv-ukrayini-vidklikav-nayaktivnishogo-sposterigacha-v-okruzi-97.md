@@ -1,6 +1,9 @@
 ---
 title: "Комітет виборців України відкликав найактивнішого спостерігача в окрузі №97"
 date: 2012-10-04
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"
   - "vibori-2012"

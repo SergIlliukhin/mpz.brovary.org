@@ -1,6 +1,9 @@
 ---
 title: "Завершився другий сезон всеміської зарядки \"Я - за здоровий спосіб життя!\""
 date: 2013-10-30
+author: 
+  username: "mobi"
+  display_name: "Марина Рубайло"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Бюджетні слухання почалися звітом відділу капбудівництва"
 date: 2016-11-08
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "vlada"
   - "novyny"

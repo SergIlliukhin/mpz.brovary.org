@@ -1,6 +1,9 @@
 ---
 title: "У лісництві влаштували велозмагання на честь героїв Чорнобиля. ФОТОРЕПОРТАЖ"
 date: 2016-04-28
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

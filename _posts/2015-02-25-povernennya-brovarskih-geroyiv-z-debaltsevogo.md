@@ -1,6 +1,9 @@
 ---
 title: "Повернення броварських героїв з Дебальцевого - ВІДЕО"
 date: 2015-02-25
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

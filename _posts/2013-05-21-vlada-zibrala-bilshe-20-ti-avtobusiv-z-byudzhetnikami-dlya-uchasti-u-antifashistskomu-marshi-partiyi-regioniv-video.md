@@ -1,6 +1,9 @@
 ---
 title: "Влада Броварів відрядила 20 автобусів з «бюджетниками» на «антифашистський марш» у Києві + ВІДЕО"
 date: 2013-05-21
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "video"
 tags: 

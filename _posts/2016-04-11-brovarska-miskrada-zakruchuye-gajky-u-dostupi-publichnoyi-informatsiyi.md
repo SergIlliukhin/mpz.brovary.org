@@ -1,6 +1,9 @@
 ---
 title: "Броварська міськрада «закручує гайки» у доступі до публічної інформації"
 date: 2016-04-11
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "kolonka-avtora"
 tags: 

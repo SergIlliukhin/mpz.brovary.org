@@ -1,6 +1,9 @@
 ---
 title: "День молоді у Броварах: водяна битва, мапа ідей, денс батл, автослалом, екстрим-виступи та квести"
 date: 2015-06-25
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

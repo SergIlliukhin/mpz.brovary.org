@@ -1,6 +1,9 @@
 ---
 title: "Мешканці Броварів не добирають слів: \"Місто тоне у г...ні\" - ФОТО, ВІДЕО"
 date: 2016-10-19
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

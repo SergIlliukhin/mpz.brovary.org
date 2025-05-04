@@ -1,6 +1,9 @@
 ---
 title: "У Броварах зірвався \"бліцкриґ\" влади, яка влаштувала судилище над свободівцями"
 date: 2013-05-28
+author: 
+  username: "svoboda"
+  display_name: "Прес-служба ВО Свобода"
 categories: 
   - "kolonka-avtora"
 tags: 

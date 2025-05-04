@@ -1,6 +1,9 @@
 ---
 title: "Хто з переселенців має отримувати виплати, у Броварах тепер визначатиме нова комісія"
 date: 2016-07-05
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

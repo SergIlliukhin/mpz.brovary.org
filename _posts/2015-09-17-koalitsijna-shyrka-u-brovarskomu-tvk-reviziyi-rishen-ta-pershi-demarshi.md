@@ -1,6 +1,9 @@
 ---
 title: "Коаліційна «ширка» у броварському ТВК, ревізії рішень та перші демарші"
 date: 2015-09-17
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "rozsliduvannya"
   - "vlada"

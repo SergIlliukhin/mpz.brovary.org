@@ -1,6 +1,9 @@
 ---
 title: "Сепаратизм у Броварах: надумана паніка чи реальна загроза?"
 date: 2014-05-06
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "rozsliduvannya"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 27 грудня відзвітуються депутати від фракції \"Єдність\" та Максим Семенов"
 date: 2016-12-22
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

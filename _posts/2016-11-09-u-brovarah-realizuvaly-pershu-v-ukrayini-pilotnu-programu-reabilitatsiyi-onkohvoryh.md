@@ -1,6 +1,9 @@
 ---
 title: "У Броварах реалізували першу в Україні пілотну програму реабілітації онкохворих"
 date: 2016-11-09
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

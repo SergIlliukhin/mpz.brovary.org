@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: Броварський центр зайнятості запрошує на ярмарок вакансій"
 date: 2015-09-10
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

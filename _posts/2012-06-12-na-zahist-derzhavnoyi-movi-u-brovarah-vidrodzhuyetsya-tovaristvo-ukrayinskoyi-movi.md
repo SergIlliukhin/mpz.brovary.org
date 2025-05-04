@@ -1,6 +1,9 @@
 ---
 title: "Для захисту державної мови у Броварах відроджується «Товариство української мови»"
 date: 2012-06-12
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "brovaryi"

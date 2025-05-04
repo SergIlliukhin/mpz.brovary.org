@@ -1,6 +1,9 @@
 ---
 title: "Учитель правознавства Галина Шанюк: \"Таке враження, що державі не потрібні грамотні й підковані люди\""
 date: 2015-12-08
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "interview"
   - "brovary"

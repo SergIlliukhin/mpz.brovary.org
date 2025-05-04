@@ -1,6 +1,9 @@
 ---
 title: "«Brain Event» продовжує розвивати: як написати дебютну книгу - поради від... економіста"
 date: 2015-06-26
+author: 
+  username: "molodda"
+  display_name: "Молодь ДемАльянсу"
 categories: 
   - "kolonka-avtora"
 tags: 

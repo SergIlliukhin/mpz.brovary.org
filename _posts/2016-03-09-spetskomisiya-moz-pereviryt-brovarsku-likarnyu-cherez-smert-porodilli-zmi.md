@@ -1,6 +1,9 @@
 ---
 title: "Спецкомісія МОЗ перевірить броварську лікарню через смерть породіллі – ЗМІ"
 date: 2016-03-09
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

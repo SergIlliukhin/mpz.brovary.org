@@ -1,6 +1,9 @@
 ---
 title: "Броварські школярі їздитимуть у маршрутках зі знижкою 50%, а проїзд може стати 4 грн"
 date: 2017-04-11
+author: 
+  username: "krokos"
+  display_name: "Владислава Крокос"
 categories: 
   - "brovary"
   - "novyny"

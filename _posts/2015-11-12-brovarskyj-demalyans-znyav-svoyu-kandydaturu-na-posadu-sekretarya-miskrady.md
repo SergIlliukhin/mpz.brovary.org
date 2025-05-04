@@ -1,6 +1,9 @@
 ---
 title: "Броварський \"ДемАльянс\" зняв свою кандидатуру на посаду секретаря міськради"
 date: 2015-11-12
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

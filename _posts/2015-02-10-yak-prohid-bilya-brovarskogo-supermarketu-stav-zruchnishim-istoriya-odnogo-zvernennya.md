@@ -1,6 +1,9 @@
 ---
 title: "Як прохід біля броварського супермаркету став зручнішим: історія одного звернення"
 date: 2015-02-10
+author: 
+  username: "onikienko"
+  display_name: "Вікторія Оникієнко"
 tags: 
   - "andriy-kachor"
   - "brovary"

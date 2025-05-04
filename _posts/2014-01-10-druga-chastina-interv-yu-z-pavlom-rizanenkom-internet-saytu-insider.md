@@ -1,6 +1,9 @@
 ---
 title: "Друга частина інтерв'ю з Павлом Різаненком на інтернет-сайті INSIDER"
 date: 2014-01-10
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "yevromaydan"
   - "intervyu"

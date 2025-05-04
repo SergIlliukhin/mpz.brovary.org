@@ -1,6 +1,9 @@
 ---
 title: "Пробіг і шаховий турнір - до дня народження Євгена Коновальця 14 червня"
 date: 2015-06-09
+author: 
+  username: "sokil"
+  display_name: ""Сокіл""
 categories: 
   - "announce"
   - "kolonka-avtora"

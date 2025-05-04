@@ -1,6 +1,9 @@
 ---
 title: "У Броварах на місцеві вибори витратять майже 1 мільйон гривень з бюджету"
 date: 2015-10-05
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

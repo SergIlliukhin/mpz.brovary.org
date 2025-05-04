@@ -1,6 +1,9 @@
 ---
 title: "Сапожко заявив, що у Броварах збудують новий стадіон за кошти УЄФА"
 date: 2015-03-16
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "igor-sapozhko"
   - "brovary"

@@ -1,6 +1,9 @@
 ---
 title: "Уроки Грузії для броварчан: Вахтанг Кіпіані розповів секрети успіху країни Саакашвілі"
 date: 2012-10-08
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 tags: 
   - "brovary"
   - "brovaryi"

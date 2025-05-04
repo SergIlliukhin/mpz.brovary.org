@@ -1,6 +1,9 @@
 ---
 title: "Мирна акція «Страта судді» закінчилась побиттям та затриманнями її учасників міліцією"
 date: 2012-09-05
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "aktsiyi-zahodi"
 tags: 

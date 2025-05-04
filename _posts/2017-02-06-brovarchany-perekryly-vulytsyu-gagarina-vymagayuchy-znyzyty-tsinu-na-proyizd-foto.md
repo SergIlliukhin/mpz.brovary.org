@@ -1,6 +1,9 @@
 ---
 title: "Броварчани перекрили вулицю Гагаріна, вимагаючи знизити ціну на проїзд – ФОТО"
 date: 2017-02-06
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

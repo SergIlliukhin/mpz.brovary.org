@@ -1,6 +1,9 @@
 ---
 title: "Броварська міська рада"
 date: 2013-04-07
+author: 
+  username: "admin"
+  display_name: "admin"
 ---
 
 **Броварська міська рада I скликання**

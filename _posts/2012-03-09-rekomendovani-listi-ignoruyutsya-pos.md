@@ -1,6 +1,9 @@
 ---
 title: "Рекомендовані листи ігноруються посадовцями?"
 date: 2012-03-09
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"
 tags: 

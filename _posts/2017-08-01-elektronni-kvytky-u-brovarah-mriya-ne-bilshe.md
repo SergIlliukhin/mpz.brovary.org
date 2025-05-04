@@ -1,6 +1,9 @@
 ---
 title: "Електронні квитки у Броварах - мрія, не більше"
 date: 2017-08-01
+author: 
+  username: "mizina"
+  display_name: "Дарина Мізіна"
 categories: 
   - "vlada"
   - "novyny"

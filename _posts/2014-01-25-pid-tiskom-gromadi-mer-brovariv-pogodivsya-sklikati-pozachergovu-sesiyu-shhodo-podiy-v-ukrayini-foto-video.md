@@ -1,6 +1,9 @@
 ---
 title: "Під тиском громади мер Броварів погодився скликати позачергову сесію щодо подій в Україні - ФОТО, ВІДЕО"
 date: 2014-01-25
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 categories: 
   - "aktsiyi-zahodi"
 tags: 

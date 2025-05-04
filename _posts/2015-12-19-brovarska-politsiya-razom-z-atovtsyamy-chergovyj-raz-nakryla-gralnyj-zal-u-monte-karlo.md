@@ -1,6 +1,9 @@
 ---
 title: "Броварська поліція разом з АТОвцями черговий раз накрила гральний зал у \"Монте Карло\""
 date: 2015-12-19
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "brovary"
   - "novyny"

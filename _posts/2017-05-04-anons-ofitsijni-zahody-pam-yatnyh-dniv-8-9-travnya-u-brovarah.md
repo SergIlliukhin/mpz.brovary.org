@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: Офіційні заходи до пам’ятних днів 8 і 9 травня у Броварах"
 date: 2017-05-04
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

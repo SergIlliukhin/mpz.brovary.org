@@ -1,6 +1,9 @@
 ---
 title: "«Маєш право знати» оголошує конкурс інтернет-приколів!"
 date: 2012-05-15
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"
   - "demotivatori"

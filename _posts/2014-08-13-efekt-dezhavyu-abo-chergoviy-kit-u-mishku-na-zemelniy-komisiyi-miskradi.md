@@ -1,6 +1,9 @@
 ---
 title: "Ефект дежавю, або черговий \"кіт у мішку\" на земельній комісії міськради"
 date: 2014-08-13
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 categories: 
   - "kolonka-avtora"
 tags: 

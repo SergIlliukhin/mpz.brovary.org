@@ -1,6 +1,9 @@
 ---
 title: "Всеукраїнський диктант національної єдності в Броварах"
 date: 2013-11-06
+author: 
+  username: "udar"
+  display_name: "УДАР"
 categories: 
   - "kolonka-avtora"
 tags: 

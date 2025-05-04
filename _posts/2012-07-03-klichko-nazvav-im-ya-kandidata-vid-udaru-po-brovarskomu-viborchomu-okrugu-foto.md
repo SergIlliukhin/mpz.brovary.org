@@ -1,6 +1,9 @@
 ---
 title: "Кличко назвав ім’я майбутнього кандидата від УДАРу по броварському виборчому округу"
 date: 2012-07-03
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "vibir-redaktsiyi"
   - "gromadskiy-zahist-kiyivshhini"

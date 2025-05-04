@@ -1,6 +1,9 @@
 ---
 title: "Дим та сморід у Броварах є, а скарг немає?"
 date: 2016-07-26
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "На Бровари насувається інтернет-катастрофа? ФОТО, ВІДЕО"
 date: 2012-06-19
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "rozsliduvannya"
   - "video"

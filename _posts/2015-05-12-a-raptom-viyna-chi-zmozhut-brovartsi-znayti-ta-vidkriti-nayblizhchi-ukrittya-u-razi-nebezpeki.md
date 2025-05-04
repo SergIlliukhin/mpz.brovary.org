@@ -1,6 +1,9 @@
 ---
 title: "А раптом війна: чи зможуть броварці знайти та відкрити найближчі укриття у разі небезпеки?"
 date: 2015-05-12
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "brovary"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Особливі діти висадили ще 40 дерев у парку \"Перемога\" - ФОТО"
 date: 2017-04-14
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "hromada"
   - "novyny"

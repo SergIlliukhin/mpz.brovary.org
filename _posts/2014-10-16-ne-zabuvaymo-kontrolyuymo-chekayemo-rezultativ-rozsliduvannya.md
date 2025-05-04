@@ -1,6 +1,9 @@
 ---
 title: "Не забуваємо, контролюємо, чекаємо результатів розслідування"
 date: 2014-10-16
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 ---

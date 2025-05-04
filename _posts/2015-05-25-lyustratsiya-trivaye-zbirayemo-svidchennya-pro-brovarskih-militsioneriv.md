@@ -1,6 +1,9 @@
 ---
 title: "Люстрація триває. Збираємо свідчення про броварських міліціонерів"
 date: 2015-05-25
+author: 
+  username: "gromradapolice"
+  display_name: "Громадська рада при міліції"
 categories: 
   - "kolonka-avtora"
 tags: 

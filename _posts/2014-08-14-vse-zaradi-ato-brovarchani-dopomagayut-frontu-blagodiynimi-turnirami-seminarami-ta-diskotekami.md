@@ -1,6 +1,9 @@
 ---
 title: "Все заради АТО: броварчани допомагають фронту благодійними турнірами та… дискотеками!"
 date: 2014-08-14
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "aktsiyi-zahodi"
 tags: 

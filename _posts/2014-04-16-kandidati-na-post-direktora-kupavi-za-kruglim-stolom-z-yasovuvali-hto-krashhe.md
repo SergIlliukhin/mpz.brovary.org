@@ -1,6 +1,9 @@
 ---
 title: "Кандидати на пост директора \"Купави\" за круглим столом з'ясовували, хто кращий"
 date: 2014-04-16
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 categories: 
   - "video"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Активні батьки допомагають вирішувати проблеми у броварській освіті - ВІДЕО"
 date: 2015-12-24
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

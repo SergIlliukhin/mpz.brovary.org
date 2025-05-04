@@ -1,6 +1,9 @@
 ---
 title: "Скільки має коштувати закордонний паспорт у Броварах?"
 date: 2012-03-28
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"
 tags: 

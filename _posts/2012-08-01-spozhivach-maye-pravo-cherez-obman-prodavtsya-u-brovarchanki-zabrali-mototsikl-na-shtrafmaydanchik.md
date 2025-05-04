@@ -1,6 +1,9 @@
 ---
 title: "«Споживач має право»: через обман продавця у броварчанки забрали мотоцикл на «штрафмайданчик»"
 date: 2012-08-01
+author: 
+  username: "serzhov"
+  display_name: "Сергій Севрук"
 categories: 
   - "kolonka-avtora"
 tags: 

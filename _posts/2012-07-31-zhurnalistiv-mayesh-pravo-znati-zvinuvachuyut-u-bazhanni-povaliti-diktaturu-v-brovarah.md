@@ -1,6 +1,9 @@
 ---
 title: "Журналістів \"Маєш право знати\" звинувачують у бажанні \"повалити диктатуру в Броварах\""
 date: 2012-07-31
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Бути на своєму місці: що роблять бійці броварського загону оборони й охорони уже майже рік"
 date: 2015-08-28
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

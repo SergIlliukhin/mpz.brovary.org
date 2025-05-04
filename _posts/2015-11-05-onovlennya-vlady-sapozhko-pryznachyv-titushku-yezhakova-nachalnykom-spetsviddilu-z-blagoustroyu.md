@@ -1,6 +1,9 @@
 ---
 title: "Оновлення влади: Сапожко призначив «тітушку» Єжакова начальником спецвідділу з благоустрою"
 date: 2015-11-05
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

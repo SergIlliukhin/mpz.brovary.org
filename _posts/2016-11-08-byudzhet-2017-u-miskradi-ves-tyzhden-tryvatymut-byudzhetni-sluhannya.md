@@ -1,6 +1,9 @@
 ---
 title: "Бюджет-2017: у міськраді весь тиждень триватимуть бюджетні слухання"
 date: 2016-11-08
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Ольга Гончар: \"Бровари  - це більше, ніж спальний район Києва\""
 date: 2017-01-27
+author: 
+  username: "onikienko"
+  display_name: "Вікторія Оникієнко"
 categories: 
   - "interview"
   - "hromada"

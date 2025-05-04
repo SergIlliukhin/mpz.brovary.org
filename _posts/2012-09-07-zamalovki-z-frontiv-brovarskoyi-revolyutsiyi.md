@@ -1,6 +1,9 @@
 ---
 title: "Замальовки з фронтів броварської революції"
 date: 2012-09-07
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 ---

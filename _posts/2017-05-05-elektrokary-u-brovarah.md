@@ -1,6 +1,9 @@
 ---
 title: "Електрокари у Броварах"
 date: 2017-05-05
+author: 
+  username: "mizina"
+  display_name: "Дарина Мізіна"
 categories: 
   - "rozsliduvannya"
   - "brovary"

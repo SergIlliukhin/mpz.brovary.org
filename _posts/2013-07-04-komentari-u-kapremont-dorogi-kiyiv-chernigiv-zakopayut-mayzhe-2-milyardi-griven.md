@@ -1,6 +1,9 @@
 ---
 title: "«Коментарі»: У капремонт дороги Київ-Чернігів закопають майже 2 мільярди гривень"
 date: 2013-07-04
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "dorogi"

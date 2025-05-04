@@ -1,6 +1,9 @@
 ---
 title: "Спеціальне відеопослання Сапожка з Маямі!"
 date: 2013-04-15
+author: 
+  username: "udar"
+  display_name: "УДАР"
 categories: 
   - "kolonka-avtora"
   - "video"

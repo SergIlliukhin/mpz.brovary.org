@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 3 грудня у броварській лікарні можна буде здати кров за оплату"
 date: 2015-12-02
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

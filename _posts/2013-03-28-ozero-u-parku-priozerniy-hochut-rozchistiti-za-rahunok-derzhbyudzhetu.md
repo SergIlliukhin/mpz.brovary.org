@@ -1,6 +1,9 @@
 ---
 title: "Озеро у парку Приозерний хочуть розчистити за рахунок держбюджету"
 date: 2013-03-28
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 tags: 
   - "novini"
   - "ozero"

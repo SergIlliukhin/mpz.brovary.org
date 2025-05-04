@@ -1,6 +1,9 @@
 ---
 title: "Тиша на МПЗ - що далі?"
 date: 2012-05-21
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"
 tags: 

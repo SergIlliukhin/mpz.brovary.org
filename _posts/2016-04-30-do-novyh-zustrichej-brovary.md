@@ -1,6 +1,9 @@
 ---
 title: "До нових зустрічей, Бровари!"
 date: 2016-04-30
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 ---

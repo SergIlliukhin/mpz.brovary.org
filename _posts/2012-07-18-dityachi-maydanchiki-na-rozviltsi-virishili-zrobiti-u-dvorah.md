@@ -1,6 +1,9 @@
 ---
 title: "Дитячі майданчики на Розвилці вирішили зробити у дворах"
 date: 2012-07-18
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 categories: 
   - "aktsiyi-zahodi"
 tags: 

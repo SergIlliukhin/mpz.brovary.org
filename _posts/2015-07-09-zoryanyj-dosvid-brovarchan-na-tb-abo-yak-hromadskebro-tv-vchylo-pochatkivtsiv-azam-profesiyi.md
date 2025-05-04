@@ -1,6 +1,9 @@
 ---
 title: "Зоряний досвід броварчан на ТБ, або Як HromadskeBro.tv вчило початківців азам професії"
 date: 2015-07-09
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

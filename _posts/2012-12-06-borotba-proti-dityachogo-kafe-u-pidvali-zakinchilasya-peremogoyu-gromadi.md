@@ -1,6 +1,9 @@
 ---
 title: "Боротьба проти дитячого кафе у підвалі закінчилася перемогою громади"
 date: 2012-12-06
+author: 
+  username: "serzhov"
+  display_name: "Сергій Севрук"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

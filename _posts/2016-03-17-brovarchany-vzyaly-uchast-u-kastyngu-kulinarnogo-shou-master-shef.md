@@ -1,6 +1,9 @@
 ---
 title: "Як відбувся кастинг \"Майстер Шефу\" у Броварах, - ФОТОРЕПОРТАЖ"
 date: 2016-03-17
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

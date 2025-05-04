@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: Офіційні заходи на День Соборності у Броварах"
 date: 2017-01-20
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

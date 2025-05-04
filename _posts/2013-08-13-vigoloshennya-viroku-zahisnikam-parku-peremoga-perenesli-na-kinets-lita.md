@@ -1,6 +1,9 @@
 ---
 title: "Оголошення вироку захисникам парку «Перемога» перенесли на кінець літа"
 date: 2013-08-13
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "vibir-redaktsiyi"
   - "novini"

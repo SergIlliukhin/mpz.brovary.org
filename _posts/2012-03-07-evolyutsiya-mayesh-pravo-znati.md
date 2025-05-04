@@ -1,6 +1,9 @@
 ---
 title: "Еволюція Маєш Право Знати"
 date: 2012-03-07
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"
 tags: 

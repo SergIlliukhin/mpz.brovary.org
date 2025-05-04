@@ -1,6 +1,9 @@
 ---
 title: "Напади на депутатів і перешкоджання журналістській діяльності вертаються у Бровари? - ВІДЕО"
 date: 2016-12-14
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "У Броварах День Незалежності відзначатимуть... \"святковим\" ярмарком продовольчих товарів"
 date: 2013-08-23
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 tags: 
   - "brovary"
   - "viddil-kulturi"

@@ -1,6 +1,9 @@
 ---
 title: "На 3-й школі відкрили меморіальну дошку бійцю Аркадію Голубу – ФОТО"
 date: 2016-10-17
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

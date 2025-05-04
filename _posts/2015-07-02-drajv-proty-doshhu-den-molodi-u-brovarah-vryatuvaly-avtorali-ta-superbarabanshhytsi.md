@@ -1,6 +1,9 @@
 ---
 title: "Драйв проти дощу: День молоді у Броварах врятували авторалі та супербарабанщиці"
 date: 2015-07-02
+author: 
+  username: "komarovskyj"
+  display_name: "Комаровський Олексій"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

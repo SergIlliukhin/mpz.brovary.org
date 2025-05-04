@@ -1,6 +1,9 @@
 ---
 title: "Prozorro не дає броварським чиновникам працювати \"по-старому\" - ФОТО"
 date: 2016-11-14
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "vlada"
   - "aktsiyi-zahodi"

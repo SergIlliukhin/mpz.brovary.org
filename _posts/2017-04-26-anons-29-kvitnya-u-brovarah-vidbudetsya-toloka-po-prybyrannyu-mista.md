@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 29 квітня у Броварах відбудеться толока по прибиранню міста"
 date: 2017-04-26
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

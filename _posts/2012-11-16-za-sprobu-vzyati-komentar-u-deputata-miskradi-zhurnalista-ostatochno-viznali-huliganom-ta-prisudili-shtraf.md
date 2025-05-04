@@ -1,6 +1,9 @@
 ---
 title: "За спробу взяти коментар у депутата міськради журналіста остаточно визнали хуліганом та присудили штраф"
 date: 2012-11-16
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "apeplyatsiya"
   - "brovary"

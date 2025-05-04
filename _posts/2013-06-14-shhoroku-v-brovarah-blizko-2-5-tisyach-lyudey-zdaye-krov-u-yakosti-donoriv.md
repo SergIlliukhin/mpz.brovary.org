@@ -1,6 +1,9 @@
 ---
 title: "Щороку в Броварах близько 2,5 тисяч людей здає кров у якості донорів"
 date: 2013-06-14
+author: 
+  username: "veta"
+  display_name: "Єлизавета Ковальчук"
 tags: 
   - "brovary"
   - "btsrl"

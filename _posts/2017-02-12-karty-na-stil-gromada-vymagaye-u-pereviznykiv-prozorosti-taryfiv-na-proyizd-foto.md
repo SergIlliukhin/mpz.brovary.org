@@ -1,6 +1,9 @@
 ---
 title: "Карти на стіл: громада вимагає у перевізників прозорості тарифів на проїзд - ФОТО"
 date: 2017-02-12
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "vlada"
   - "aktsiyi-zahodi"

@@ -1,6 +1,9 @@
 ---
 title: "Громадська рада добиватиметься нових садочків та шкіл, а також прозорості коштів і внесків"
 date: 2015-07-20
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

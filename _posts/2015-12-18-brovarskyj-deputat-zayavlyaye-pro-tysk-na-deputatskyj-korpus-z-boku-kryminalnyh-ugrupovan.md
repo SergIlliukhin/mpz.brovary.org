@@ -1,6 +1,9 @@
 ---
 title: "Броварський депутат заявляє про тиск на депутатський корпус з боку кримінальних угруповань"
 date: 2015-12-18
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "vlada"
   - "novyny"

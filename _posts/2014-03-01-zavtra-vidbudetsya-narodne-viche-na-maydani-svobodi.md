@@ -1,6 +1,9 @@
 ---
 title: "Завтра відбудеться Народне Віче на Майдані Свободи"
 date: 2014-03-01
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "announce"
 tags: 

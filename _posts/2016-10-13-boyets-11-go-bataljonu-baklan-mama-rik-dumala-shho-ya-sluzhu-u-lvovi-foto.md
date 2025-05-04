@@ -1,6 +1,9 @@
 ---
 title: "Боєць 11-го батальйону «Баклан»: «Мама рік думала, що я служу у Львові» - ФОТО"
 date: 2016-10-13
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 categories: 
   - "interview"
   - "hromada"

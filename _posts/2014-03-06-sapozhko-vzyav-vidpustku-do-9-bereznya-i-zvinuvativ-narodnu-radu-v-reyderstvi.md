@@ -1,6 +1,9 @@
 ---
 title: "Сапожко взяв відпустку до 9 березня і написав статтю в \"Браму\""
 date: 2014-03-06
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "brovarska-miska-rada"
   - "brovarska-narodna-rada"

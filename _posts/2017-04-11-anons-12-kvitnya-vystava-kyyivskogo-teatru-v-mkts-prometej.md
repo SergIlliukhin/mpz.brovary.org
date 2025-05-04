@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 12 квітня - вистава київського театру в МКЦ \"Прометей\""
 date: 2017-04-11
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

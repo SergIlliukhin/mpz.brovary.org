@@ -1,6 +1,9 @@
 ---
 title: "Активісти подали свої пропозиції щодо Концепції розташування МАФів у Броварах"
 date: 2015-08-03
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "10 жовтня у центрі Броварів відбудеться Міжрайонний ярмарок вакансій та професій"
 date: 2013-10-04
+author: 
+  username: "centrzaynyatosti"
+  display_name: "Центр зайнятості"
 categories: 
   - "kolonka-avtora"
 tags: 

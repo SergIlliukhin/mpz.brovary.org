@@ -1,6 +1,9 @@
 ---
 title: "Фінішна пряма виборів у Броварах: регіонали готуються до реваншу"
 date: 2014-10-22
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

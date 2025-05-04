@@ -1,6 +1,9 @@
 ---
 title: "Зицпредседатель Фунт"
 date: 2012-09-06
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"
 tags: 

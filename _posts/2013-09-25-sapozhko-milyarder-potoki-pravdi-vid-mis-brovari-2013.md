@@ -1,6 +1,9 @@
 ---
 title: "«Сапожко – мільярдер!» - страшна правда від Міс Бровари 2013"
 date: 2013-09-25
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

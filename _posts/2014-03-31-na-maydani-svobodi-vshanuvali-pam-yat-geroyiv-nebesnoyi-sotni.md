@@ -1,6 +1,9 @@
 ---
 title: "На Майдані Свободи вшанували пам'ять Героїв Небесної Сотні"
 date: 2014-03-31
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

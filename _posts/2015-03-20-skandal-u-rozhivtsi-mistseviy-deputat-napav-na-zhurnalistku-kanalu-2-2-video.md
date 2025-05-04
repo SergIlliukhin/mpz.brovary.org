@@ -1,6 +1,9 @@
 ---
 title: "Скандал у Рожівці: місцевий депутат напав на журналістку каналу 2+2 – ВІДЕО"
 date: 2015-03-20
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

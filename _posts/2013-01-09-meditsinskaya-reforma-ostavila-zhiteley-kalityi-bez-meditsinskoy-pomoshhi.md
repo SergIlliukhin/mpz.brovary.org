@@ -1,6 +1,9 @@
 ---
 title: "Медична реформа залишила мешканців Калити без медичної допомоги (рос.)"
 date: 2013-01-09
+author: 
+  username: "smirnova"
+  display_name: "Ирина Смирнова"
 categories: 
   - "kolonka-avtora"
 tags: 

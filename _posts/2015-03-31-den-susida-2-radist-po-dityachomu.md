@@ -1,6 +1,9 @@
 ---
 title: "День Сусіда 2: Радість по-дитячому"
 date: 2015-03-31
+author: 
+  username: "balabaev"
+  display_name: "Андрій Балабаєв"
 categories: 
   - "kolonka-avtora"
 ---

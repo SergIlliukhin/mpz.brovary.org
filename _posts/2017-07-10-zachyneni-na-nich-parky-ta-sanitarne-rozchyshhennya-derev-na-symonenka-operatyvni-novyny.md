@@ -1,6 +1,9 @@
 ---
 title: "Зачинені на ніч парки та «санітарне розчищення дерев» на Симоненка - оперативні новини"
 date: 2017-07-10
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "brovary"
   - "novyny"

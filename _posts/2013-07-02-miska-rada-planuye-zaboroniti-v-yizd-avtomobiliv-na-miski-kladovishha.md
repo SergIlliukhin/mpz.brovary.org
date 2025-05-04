@@ -1,6 +1,9 @@
 ---
 title: "Міська рада планує заборонити в'їзд автомобілів на броварські кладовища"
 date: 2013-07-02
+author: 
+  username: "serzhov"
+  display_name: "Сергій Севрук"
 tags: 
   - "brovary"
   - "brovarska-miska-rada"

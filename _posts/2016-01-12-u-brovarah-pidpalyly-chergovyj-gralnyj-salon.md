@@ -1,6 +1,9 @@
 ---
 title: "У Броварах підпалили черговий гральний салон?"
 date: 2016-01-12
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

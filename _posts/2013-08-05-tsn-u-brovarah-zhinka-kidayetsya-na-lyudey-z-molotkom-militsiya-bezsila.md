@@ -1,6 +1,9 @@
 ---
 title: "ТСН: У Броварах жінка кидається на людей з молотком. Міліція безсила"
 date: 2013-08-05
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

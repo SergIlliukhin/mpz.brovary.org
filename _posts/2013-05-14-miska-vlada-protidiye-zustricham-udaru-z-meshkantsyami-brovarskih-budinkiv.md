@@ -1,6 +1,9 @@
 ---
 title: "Міська влада протидіє зустрічам УДАРу з мешканцями броварських будинків"
 date: 2013-05-14
+author: 
+  username: "udar"
+  display_name: "УДАР"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "10 вересня \"5 канал\" покаже історичний фільм про Броварі"
 date: 2016-09-07
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "kolonka-avtora"
 ---

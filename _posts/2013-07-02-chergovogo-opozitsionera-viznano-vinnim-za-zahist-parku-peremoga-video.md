@@ -1,6 +1,9 @@
 ---
 title: "Ще одного опозиціонера визнали винним за захист парку «Перемога» - ВІДЕО"
 date: 2013-07-02
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "batyuk"
   - "vibir-redaktsiyi"

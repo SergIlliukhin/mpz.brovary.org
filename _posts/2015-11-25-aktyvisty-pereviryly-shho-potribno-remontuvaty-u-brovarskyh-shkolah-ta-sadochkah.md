@@ -1,6 +1,9 @@
 ---
 title: "Активісти перевірили: що потрібно ремонтувати у броварських школах та садочках"
 date: 2015-11-25
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

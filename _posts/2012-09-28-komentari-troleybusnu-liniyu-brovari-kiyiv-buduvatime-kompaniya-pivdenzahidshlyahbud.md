@@ -1,6 +1,9 @@
 ---
 title: "«Коментарі»: Тролейбусну лінію «Бровари-Київ» будуватиме компанія «Південьзахідшляхбуд»"
 date: 2012-09-28
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

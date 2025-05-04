@@ -1,6 +1,9 @@
 ---
 title: "\"1+1\": замість тролейбусної лінії броварчани отримали зруйновані вулиці і повалені дерева"
 date: 2013-04-18
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "В Новий рік – без вибухів. ФОТО та ВІДЕО спроби «зачистки» незаконних точок продажу петард"
 date: 2014-12-30
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"
   - "vibuhi"

@@ -1,6 +1,9 @@
 ---
 title: "50% пільги на комунпослуги для воїнів АТО"
 date: 2014-12-11
+author: 
+  username: "simutin"
+  display_name: "Роман Сімутін"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Людмила Кулініч: \"Я збираюся займатися соціальними, освітніми та земельними питаннями\""
 date: 2017-02-13
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "interview"
   - "vlada"

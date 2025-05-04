@@ -1,6 +1,9 @@
 ---
 title: "Журналісти «ZIK» зробили підбірку випадків халатності броварських лікарів. ВІДЕОСЮЖЕТ"
 date: 2016-06-03
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

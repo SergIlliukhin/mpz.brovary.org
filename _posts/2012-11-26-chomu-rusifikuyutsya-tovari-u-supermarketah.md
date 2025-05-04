@@ -1,6 +1,9 @@
 ---
 title: "\"Русифіковані\" товари у броварських супермаркетах: громадський рейд"
 date: 2012-11-26
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "aktsiyi-zahodi"
 tags: 

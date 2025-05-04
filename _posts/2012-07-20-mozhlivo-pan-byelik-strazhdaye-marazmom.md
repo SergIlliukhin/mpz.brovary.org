@@ -1,6 +1,9 @@
 ---
 title: "Можливо пан Бєлік страждає маразмом?.."
 date: 2012-07-20
+author: 
+  username: "plakhovalex"
+  display_name: "Олександр Плахов"
 categories: 
   - "kolonka-avtora"
 tags: 

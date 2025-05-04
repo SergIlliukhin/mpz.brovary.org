@@ -1,6 +1,9 @@
 ---
 title: "«Бровари-Майдан» щодня збирає допомогу для протестів у столиці та інформує про актуальні події"
 date: 2013-12-09
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "yevromaydan"
   - "informatsiyno-mobilizatsiyniy-tsentr"

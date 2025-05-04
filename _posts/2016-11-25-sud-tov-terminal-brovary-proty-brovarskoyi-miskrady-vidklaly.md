@@ -1,6 +1,9 @@
 ---
 title: "Суд ТОВ \"Термінал Бровари\" проти Броварської міськради - відклали"
 date: 2016-11-25
+author: 
+  username: "ulitenko"
+  display_name: "Ірина Улітенко"
 categories: 
   - "vlada"
   - "novyny"

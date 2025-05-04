@@ -1,6 +1,9 @@
 ---
 title: "Депутати виділили ще 14 мільйонів на ремонт мосту на Торгмаш"
 date: 2016-03-10
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "vlada"
   - "novyny"

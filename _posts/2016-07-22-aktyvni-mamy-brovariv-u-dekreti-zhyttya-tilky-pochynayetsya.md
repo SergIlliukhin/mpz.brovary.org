@@ -1,6 +1,9 @@
 ---
 title: "Активні мами Броварів: у декреті життя тільки починається"
 date: 2016-07-22
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "interview"
   - "hromada"

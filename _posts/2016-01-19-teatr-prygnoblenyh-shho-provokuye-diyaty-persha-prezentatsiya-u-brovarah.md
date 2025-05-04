@@ -1,6 +1,9 @@
 ---
 title: "\"Театр пригноблених\", що провокує діяти: перша презентація у Броварах"
 date: 2016-01-19
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

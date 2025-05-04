@@ -1,6 +1,9 @@
 ---
 title: "Перевірка броварських ринків: на «Ниві» - обважують і обраховують, на «Пекарні» - антисанітарія"
 date: 2017-06-27
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

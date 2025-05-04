@@ -1,6 +1,9 @@
 ---
 title: "До Броварів перенесли комунальний заклад \"Київський обласний центр розвитку туризму\""
 date: 2015-10-09
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

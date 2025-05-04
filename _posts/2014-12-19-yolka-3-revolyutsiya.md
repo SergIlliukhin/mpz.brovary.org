@@ -1,6 +1,9 @@
 ---
 title: "Йолка-3. Революція."
 date: 2014-12-19
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

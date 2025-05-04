@@ -1,6 +1,9 @@
 ---
 title: "На розгляд депутатів винесли перейменування 24-х броварських вулиць і провулків - СПИСОК"
 date: 2015-11-27
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "vlada"
   - "novyny"

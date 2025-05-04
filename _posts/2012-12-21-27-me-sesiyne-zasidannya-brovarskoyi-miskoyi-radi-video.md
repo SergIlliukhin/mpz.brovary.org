@@ -1,6 +1,9 @@
 ---
 title: "27-ме сесійне засідання Броварської міської ради – ВІДЕО"
 date: 2012-12-21
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Активістам розповіли про \"внутрішню кухню влади\" та навчили \"перчити\" запитами, зверненнями та протестами"
 date: 2015-04-08
+author: 
+  username: "onikienko"
+  display_name: "Вікторія Оникієнко"
 categories: 
   - "aktsiyi-zahodi"
 tags: 

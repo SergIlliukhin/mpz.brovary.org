@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 25 червня жінки Броварів розмовлятимуть про бізнес та красу"
 date: 2017-06-21
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "hromada"

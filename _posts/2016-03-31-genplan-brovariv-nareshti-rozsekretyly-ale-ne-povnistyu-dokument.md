@@ -1,6 +1,9 @@
 ---
 title: "Генплан Броварів нарешті розсекретили, але не повністю, - ДОКУМЕНТ"
 date: 2016-03-31
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

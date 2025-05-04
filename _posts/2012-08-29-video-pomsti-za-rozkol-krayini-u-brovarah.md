@@ -1,6 +1,9 @@
 ---
 title: "Відео «Помсти за розкол країни» у Броварах"
 date: 2012-08-29
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "kolonka-avtora"
   - "video"

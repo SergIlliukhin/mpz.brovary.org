@@ -1,6 +1,9 @@
 ---
 title: "У Броварах з 1 липня тарифи на тепло та гарячу воду зростуть на 30 %"
 date: 2014-04-22
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"
   - "komunalni-tarifi"

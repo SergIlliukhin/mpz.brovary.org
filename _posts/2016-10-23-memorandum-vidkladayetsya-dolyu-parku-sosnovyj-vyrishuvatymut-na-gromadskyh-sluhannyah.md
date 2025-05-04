@@ -1,6 +1,9 @@
 ---
 title: "Меморандум відкладається. Долю Парку Сосновий вирішуватимуть на громадських слуханнях - ВІДЕО"
 date: 2016-10-23
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "hromada"
   - "novyny"

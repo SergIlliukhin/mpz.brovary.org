@@ -1,6 +1,9 @@
 ---
 title: "Бровари приєднались до всеукраїнського флешмобу \"Майбутнє проти війни\""
 date: 2014-03-10
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

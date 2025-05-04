@@ -1,6 +1,9 @@
 ---
 title: "Окружна комісія провела жеребкування членів ДВК та утворила 135 виборчих дільниць"
 date: 2014-10-14
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

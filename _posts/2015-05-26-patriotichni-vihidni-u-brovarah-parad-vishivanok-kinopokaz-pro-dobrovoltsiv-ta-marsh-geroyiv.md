@@ -1,6 +1,9 @@
 ---
 title: "Патріотичні вихідні у Броварах: Парад вишиванок, кінопоказ про добровольців та Марш героїв"
 date: 2015-05-26
+author: 
+  username: "komarovskyj"
+  display_name: "Комаровський Олексій"
 categories: 
   - "hromada"
 tags: 

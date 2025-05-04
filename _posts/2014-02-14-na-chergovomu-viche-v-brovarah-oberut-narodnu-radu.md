@@ -1,6 +1,9 @@
 ---
 title: "Цієї суботи у Броварах на Віче оберуть місцеву Народну Раду"
 date: 2014-02-14
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

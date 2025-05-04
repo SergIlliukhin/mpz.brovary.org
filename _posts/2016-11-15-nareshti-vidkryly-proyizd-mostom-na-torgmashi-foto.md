@@ -1,6 +1,9 @@
 ---
 title: "Нарешті відкрили проїзд мостом на Торгмаші – ФОТО"
 date: 2016-11-15
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

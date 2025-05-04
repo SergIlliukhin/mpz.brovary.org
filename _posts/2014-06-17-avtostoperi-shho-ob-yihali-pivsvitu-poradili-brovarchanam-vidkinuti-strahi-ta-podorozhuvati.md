@@ -1,6 +1,9 @@
 ---
 title: "Автостопери, що об'їхали півсвіту, порадили броварчанам відкинути страхи та подорожувати"
 date: 2014-06-17
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "avtostop"
   - "anna-dumanska"

@@ -1,6 +1,9 @@
 ---
 title: "Управління ЖКГ терміново шукає охочих взяти грошей на підтримання ОСББ і ЖБК"
 date: 2016-06-30
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

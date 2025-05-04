@@ -1,6 +1,9 @@
 ---
 title: "«БравоKids – Весна»: ФОТОРЕПОРТАЖ з дитячого фестивалю в «Терміналі»"
 date: 2016-04-18
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

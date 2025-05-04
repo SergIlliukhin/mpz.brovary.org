@@ -1,6 +1,9 @@
 ---
 title: "Будинки-смердючки на вул. Димитрова не дають броварчанам ні дихати, ні жити"
 date: 2015-07-27
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "rozsliduvannya"
   - "brovary"

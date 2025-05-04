@@ -1,6 +1,9 @@
 ---
 title: "Ми хочемо зробити Бровари чистим, комфортним та безпечним веломістом. Долучайтесь!"
 date: 2014-07-23
+author: 
+  username: "demalliance"
+  display_name: "ДемАльянс Бровари"
 categories: 
   - "kolonka-avtora"
 tags: 

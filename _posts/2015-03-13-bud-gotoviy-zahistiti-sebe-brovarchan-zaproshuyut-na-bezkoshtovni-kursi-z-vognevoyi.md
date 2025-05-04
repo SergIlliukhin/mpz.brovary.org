@@ -1,6 +1,9 @@
 ---
 title: "Будь готовий до захисту: броварчан запрошують на безкоштовні курси з «вогневої»"
 date: 2015-03-13
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

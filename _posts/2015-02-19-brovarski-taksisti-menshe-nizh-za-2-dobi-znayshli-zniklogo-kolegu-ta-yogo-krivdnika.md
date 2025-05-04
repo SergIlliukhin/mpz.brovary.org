@@ -1,6 +1,9 @@
 ---
 title: "Броварські таксисти менше ніж за 2 доби знайшли зниклого колегу та його кривдника"
 date: 2015-02-19
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

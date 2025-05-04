@@ -1,6 +1,9 @@
 ---
 title: "Заява броварської міської організації партії \"Батьківщина\" у зв'язку із політичною кризою у Броварах"
 date: 2015-12-21
+author: 
+  username: "batkivshchyna"
+  display_name: "Батьківщина"
 categories: 
   - "kolonka-avtora"
 ---

@@ -1,6 +1,9 @@
 ---
 title: "У 2016-17 рр. в Броварах висадили 130 дерев. Дозволили зрізати більше 660"
 date: 2017-03-29
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

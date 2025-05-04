@@ -1,6 +1,9 @@
 ---
 title: "Сапожко відмовляється називати ім’я свого висуванця у секретарі міськради"
 date: 2016-02-02
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

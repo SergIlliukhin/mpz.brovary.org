@@ -1,6 +1,9 @@
 ---
 title: "У Броварах перейменують ще кілька вулиць та демонтують пам’ятні дошки комуністичним ідолам. ОНОВЛЕНО"
 date: 2016-05-30
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

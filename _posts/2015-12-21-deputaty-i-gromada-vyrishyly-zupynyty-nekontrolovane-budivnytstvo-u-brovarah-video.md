@@ -1,6 +1,9 @@
 ---
 title: "Депутати і громада вирішили зупинити неконтрольоване будівництво у Броварах - ВІДЕО"
 date: 2015-12-21
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

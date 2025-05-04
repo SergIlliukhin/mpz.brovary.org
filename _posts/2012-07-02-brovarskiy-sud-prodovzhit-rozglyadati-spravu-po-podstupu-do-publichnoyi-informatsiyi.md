@@ -1,6 +1,9 @@
 ---
 title: "Броварський суд продовжить розглядати справу по доступу до публічної інформації"
 date: 2012-07-02
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

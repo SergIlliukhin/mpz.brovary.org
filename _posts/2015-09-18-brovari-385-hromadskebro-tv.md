@@ -1,6 +1,9 @@
 ---
 title: "Броварі 385 - HromadskeBro.tv"
 date: 2015-09-18
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

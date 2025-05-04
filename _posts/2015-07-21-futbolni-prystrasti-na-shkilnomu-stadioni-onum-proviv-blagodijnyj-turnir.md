@@ -1,6 +1,9 @@
 ---
 title: "Футбольні пристрасті на шкільному стадіоні: ОНУМ провів благодійний турнір"
 date: 2015-07-21
+author: 
+  username: "komarovskyj"
+  display_name: "Комаровський Олексій"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

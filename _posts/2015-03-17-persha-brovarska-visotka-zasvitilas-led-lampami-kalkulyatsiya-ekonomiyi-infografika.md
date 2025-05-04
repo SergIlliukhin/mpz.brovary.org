@@ -1,6 +1,9 @@
 ---
 title: "Перша броварська висотка засвітилась LED-лампами. Калькуляція економії - ІНФОГРАФІКА"
 date: 2015-03-17
+author: 
+  username: "pecheritsia"
+  display_name: "Анастасія Печериця"
 tags: 
   - "led-osvitlennya"
   - "andriy-sauk"

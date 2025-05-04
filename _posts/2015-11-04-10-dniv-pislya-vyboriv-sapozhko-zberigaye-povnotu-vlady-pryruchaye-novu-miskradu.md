@@ -1,6 +1,9 @@
 ---
 title: "10 днів після виборів: Сапожко зберігає повноту влади і «приручає» нову міськраду"
 date: 2015-11-04
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "rozsliduvannya"
   - "vlada"

@@ -1,6 +1,9 @@
 ---
 title: "У Броварах з'явились вулиці на честь Степана Бандери, Небесної Сотні та героїв АТО"
 date: 2015-12-25
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "vlada"
   - "novyny"

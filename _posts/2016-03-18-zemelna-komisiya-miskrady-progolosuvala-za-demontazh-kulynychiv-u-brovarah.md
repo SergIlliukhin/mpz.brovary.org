@@ -1,6 +1,9 @@
 ---
 title: "Земельна комісія міськради проголосувала за демонтаж «Кулиничів» у Броварах"
 date: 2016-03-18
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

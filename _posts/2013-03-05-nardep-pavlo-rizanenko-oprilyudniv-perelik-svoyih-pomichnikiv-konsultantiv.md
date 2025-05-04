@@ -1,6 +1,9 @@
 ---
 title: "Нардеп Павло Різаненко оприлюднив перелік своїх помічників-консультантів"
 date: 2013-03-05
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "batyuk"
   - "verhovna-rada-ukrayini"

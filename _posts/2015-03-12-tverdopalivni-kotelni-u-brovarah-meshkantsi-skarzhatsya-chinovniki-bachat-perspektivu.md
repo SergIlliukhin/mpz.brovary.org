@@ -1,6 +1,9 @@
 ---
 title: "Твердопаливні котельні у Броварах: мешканці скаржаться, чиновники бачать перспективу"
 date: 2015-03-12
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

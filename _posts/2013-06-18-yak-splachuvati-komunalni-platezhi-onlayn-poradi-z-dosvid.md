@@ -1,6 +1,9 @@
 ---
 title: "Як сплачувати комунальні платежі онлайн - поради з досвіду"
 date: 2013-06-18
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"
 tags: 

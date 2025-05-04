@@ -1,6 +1,9 @@
 ---
 title: "Броварська низина Світлощина в часи беззаконня"
 date: 2016-11-01
+author: 
+  username: "malofienko"
+  display_name: "Віктор Малофієнко"
 categories: 
   - "kolonka-avtora"
 ---

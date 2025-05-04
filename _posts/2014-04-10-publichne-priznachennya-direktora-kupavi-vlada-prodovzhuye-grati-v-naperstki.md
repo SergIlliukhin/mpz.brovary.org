@@ -1,6 +1,9 @@
 ---
 title: "«Публічне» призначення директора «Купави»: влада продовжує «грати в наперстки»?"
 date: 2014-04-10
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "rozsliduvannya"
 tags: 

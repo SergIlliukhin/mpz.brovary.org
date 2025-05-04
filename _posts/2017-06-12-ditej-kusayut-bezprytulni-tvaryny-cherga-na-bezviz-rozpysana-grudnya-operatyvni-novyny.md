@@ -1,6 +1,9 @@
 ---
 title: "Дітей кусають безпритульні тварини, а черга на безвіз розписана до грудня, - оперативні новини"
 date: 2017-06-12
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "brovary"
   - "novyny"

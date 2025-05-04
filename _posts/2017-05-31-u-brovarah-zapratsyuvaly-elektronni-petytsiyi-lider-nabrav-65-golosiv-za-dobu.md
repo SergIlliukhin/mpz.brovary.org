@@ -1,6 +1,9 @@
 ---
 title: "У Броварах запрацювали електронні петиції. Лідер набрав 65 голосів за добу"
 date: 2017-05-31
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

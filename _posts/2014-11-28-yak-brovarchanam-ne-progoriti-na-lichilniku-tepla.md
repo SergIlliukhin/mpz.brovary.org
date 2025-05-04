@@ -1,6 +1,9 @@
 ---
 title: "Як броварчанам не прогоріти на лічильниках тепла: секрети економії енергоресурсів"
 date: 2014-11-28
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 tags: 
   - "brovary"
   - "brovariteplovodoenergiya"

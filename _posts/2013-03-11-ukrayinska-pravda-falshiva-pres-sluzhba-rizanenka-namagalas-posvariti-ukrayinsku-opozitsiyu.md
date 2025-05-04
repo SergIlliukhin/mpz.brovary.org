@@ -1,6 +1,9 @@
 ---
 title: "\"Українська правда\": Фальшива прес-служба Різаненка намагалась посварити українську опозицію"
 date: 2013-03-11
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"
   - "novini"

@@ -1,6 +1,9 @@
 ---
 title: "Як діти-переселенці звикають у Броварах до нового життя"
 date: 2014-10-30
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

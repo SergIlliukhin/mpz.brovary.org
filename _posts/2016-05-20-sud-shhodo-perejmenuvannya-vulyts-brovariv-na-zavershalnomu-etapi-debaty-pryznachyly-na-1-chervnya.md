@@ -1,6 +1,9 @@
 ---
 title: "Суд щодо перейменування вулиць Броварів на завершальному етапі, дебати призначили на 1 червня"
 date: 2016-05-20
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
   - "aktsiyi-zahodi"

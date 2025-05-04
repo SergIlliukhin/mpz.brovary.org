@@ -1,6 +1,9 @@
 ---
 title: "Комунальні аптеки Броварів: під загрозою зникнення чи на шляху до відродження?"
 date: 2015-07-29
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "rozsliduvannya"
   - "brovary"

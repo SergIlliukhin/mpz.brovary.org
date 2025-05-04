@@ -1,6 +1,9 @@
 ---
 title: "Броварський \"Народний контроль\" вирішив викорінити корупцію у медицині"
 date: 2014-06-05
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 tags: 
   - "brovary"
   - "brovarskiy-narodniy-kontrol"

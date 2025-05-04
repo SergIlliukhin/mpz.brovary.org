@@ -1,6 +1,9 @@
 ---
 title: "У броварській книгарні знайшли «сепаратистську» літературу – ФОТО"
 date: 2017-01-15
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

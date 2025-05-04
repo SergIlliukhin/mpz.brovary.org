@@ -1,6 +1,9 @@
 ---
 title: "Дітей у броварському лісі покусали кліщі - виявлено хворобу Лайма, - оперативні новини"
 date: 2017-05-29
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "brovary"
   - "novyny"

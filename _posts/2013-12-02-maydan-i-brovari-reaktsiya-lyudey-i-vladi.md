@@ -1,6 +1,9 @@
 ---
 title: "Майдан і Бровари: реакція людей і влади"
 date: 2013-12-02
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

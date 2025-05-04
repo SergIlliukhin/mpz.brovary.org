@@ -1,6 +1,9 @@
 ---
 title: "У парку на Пекарні понівечили радянський пам'ятник - ФОТО"
 date: 2015-01-16
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 tags: 
   - "brovary"
   - "vandalizm"

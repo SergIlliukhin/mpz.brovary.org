@@ -1,6 +1,9 @@
 ---
 title: "В молодших класах броварських шкіл скасували заняття через морози"
 date: 2017-02-09
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

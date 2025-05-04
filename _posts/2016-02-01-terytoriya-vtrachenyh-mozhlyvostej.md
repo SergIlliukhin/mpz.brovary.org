@@ -1,6 +1,9 @@
 ---
 title: "Територія втрачених можливостей?"
 date: 2016-02-01
+author: 
+  username: "nikitchina"
+  display_name: "Ірина Нікітчина"
 categories: 
   - "kolonka-avtora"
 ---

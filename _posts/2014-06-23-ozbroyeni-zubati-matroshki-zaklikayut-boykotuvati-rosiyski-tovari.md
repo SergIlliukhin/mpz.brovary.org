@@ -1,6 +1,9 @@
 ---
 title: "Озброєні зубаті матрьошки закликають бойкотувати російські товари - ФОТО"
 date: 2014-06-23
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "kolonka-avtora"
 tags: 

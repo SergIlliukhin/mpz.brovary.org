@@ -1,6 +1,9 @@
 ---
 title: "Дві сотні броварчан пройшлись містом у вишиванках, співаючи гімн та \"Воїнів світла\""
 date: 2014-07-01
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

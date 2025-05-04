@@ -1,6 +1,9 @@
 ---
 title: "На Київщині діятиме єдина диспетчерська служба екстреної меддопомоги"
 date: 2016-09-21
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

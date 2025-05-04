@@ -1,6 +1,9 @@
 ---
 title: "Молодь Броварів пообіцяла ніколи не забути \"кіборгів\" із Крут"
 date: 2015-01-30
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 categories: 
   - "aktsiyi-zahodi"
 tags: 

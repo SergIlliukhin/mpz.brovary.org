@@ -1,6 +1,9 @@
 ---
 title: "У рубрики \"Споживач має право\" з'явилась своя сторінка у мережі Facebook"
 date: 2013-08-01
+author: 
+  username: "serzhov"
+  display_name: "Сергій Севрук"
 categories: 
   - "kolonka-avtora"
 tags: 

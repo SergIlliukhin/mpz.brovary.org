@@ -1,6 +1,9 @@
 ---
 title: "На Симоненка поліція та люди припинили незаконне будівництво"
 date: 2016-04-19
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

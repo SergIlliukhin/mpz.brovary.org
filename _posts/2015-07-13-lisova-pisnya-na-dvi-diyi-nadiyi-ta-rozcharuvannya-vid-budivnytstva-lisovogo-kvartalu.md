@@ -1,6 +1,9 @@
 ---
 title: "«Лісова пісня» на дві дії: надії та розчарування від будівництва «Лісового кварталу»"
 date: 2015-07-13
+author: 
+  username: "simutin"
+  display_name: "Роман Сімутін"
 categories: 
   - "kolonka-avtora"
 ---

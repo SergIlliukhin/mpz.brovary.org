@@ -1,6 +1,9 @@
 ---
 title: "200 будинків кооперативу «Яблуневий сад» відімкнуть від електрики під Новий рік. ОНОВЛЕНО"
 date: 2016-12-19
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "brovary"
   - "novyny"

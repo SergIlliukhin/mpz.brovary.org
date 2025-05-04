@@ -1,6 +1,9 @@
 ---
 title: "Азаров піде з політики через свого масажиста?"
 date: 2012-10-20
+author: 
+  username: "pavriz"
+  display_name: "Павло Різаненко"
 categories: 
   - "kolonka-avtora"
 tags: 

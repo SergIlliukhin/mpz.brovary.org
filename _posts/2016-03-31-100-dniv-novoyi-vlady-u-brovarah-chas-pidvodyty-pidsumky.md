@@ -1,6 +1,9 @@
 ---
 title: "100+ днів нової влади у Броварах. Час підводити підсумки"
 date: 2016-03-31
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

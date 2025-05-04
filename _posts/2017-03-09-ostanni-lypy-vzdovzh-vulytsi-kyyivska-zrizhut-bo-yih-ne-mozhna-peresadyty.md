@@ -1,6 +1,9 @@
 ---
 title: "Останні липи вздовж вулиці Київська зріжуть, бо їх не можна пересадити? - ФОТО"
 date: 2017-03-09
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

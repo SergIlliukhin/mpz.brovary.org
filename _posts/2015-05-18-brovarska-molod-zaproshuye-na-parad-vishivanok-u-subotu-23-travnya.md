@@ -1,6 +1,9 @@
 ---
 title: "Броварська молодь запрошує у суботу, 23 травня, на Парад вишиванок"
 date: 2015-05-18
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

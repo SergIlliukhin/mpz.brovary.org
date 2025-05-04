@@ -1,6 +1,9 @@
 ---
 title: "Чотири брехні одного губернатора"
 date: 2013-03-12
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
   - "video"

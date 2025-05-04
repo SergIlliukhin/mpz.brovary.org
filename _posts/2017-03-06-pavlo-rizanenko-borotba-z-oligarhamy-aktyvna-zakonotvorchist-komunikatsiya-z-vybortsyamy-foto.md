@@ -1,6 +1,9 @@
 ---
 title: "Павло Різаненко: боротьба з олігархами, активна законотворчість, комунікація з виборцями - ФОТО"
 date: 2017-03-06
+author: 
+  username: "mizina"
+  display_name: "Дарина Мізіна"
 categories: 
   - "vlada"
   - "aktsiyi-zahodi"

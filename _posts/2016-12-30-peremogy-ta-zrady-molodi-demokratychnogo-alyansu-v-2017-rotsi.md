@@ -1,6 +1,9 @@
 ---
 title: "Перемоги та зради Молоді Демократичного Альянсу за 2016 рік"
 date: 2016-12-30
+author: 
+  username: "molodda"
+  display_name: "Молодь ДемАльянсу"
 categories: 
   - "kolonka-avtora"
 ---

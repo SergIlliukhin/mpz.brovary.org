@@ -1,6 +1,9 @@
 ---
 title: "Групова психотерапія в Броварах - бути чи не бути?"
 date: 2014-12-16
+author: 
+  username: "pecheritsia"
+  display_name: "Анастасія Печериця"
 categories: 
   - "kolonka-avtora"
 tags: 

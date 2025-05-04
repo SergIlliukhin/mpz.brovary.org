@@ -1,6 +1,9 @@
 ---
 title: "Підтримуйте наших хлопців!"
 date: 2014-06-20
+author: 
+  username: "plaksya"
+  display_name: "Юрій Плакся"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Завтра депутати вирішуватимуть долю земельних ділянок учасникам АТО"
 date: 2015-02-26
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "announce"
 tags: 

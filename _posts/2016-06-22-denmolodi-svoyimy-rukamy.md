@@ -1,6 +1,9 @@
 ---
 title: "#ДеньМолоді своїми руками"
 date: 2016-06-22
+author: 
+  username: "berestovyj"
+  display_name: "Олег Берестовий"
 categories: 
   - "kolonka-avtora"
 ---

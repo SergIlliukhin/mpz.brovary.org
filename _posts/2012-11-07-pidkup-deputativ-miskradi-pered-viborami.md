@@ -1,6 +1,9 @@
 ---
 title: "Непослідовність Сапожка, або як здобувається \"депутатська лояльність\" у міськраді"
 date: 2012-11-07
+author: 
+  username: "zaharevych"
+  display_name: "Євген Захаревич"
 categories: 
   - "kolonka-avtora"
 tags: 

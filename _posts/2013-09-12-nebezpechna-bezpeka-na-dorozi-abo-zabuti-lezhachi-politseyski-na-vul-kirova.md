@@ -1,6 +1,9 @@
 ---
 title: "Небезпечна безпека на дорозі, або забуті \"лежачі поліцейські\" на вул. Кірова"
 date: 2013-09-12
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 categories: 
   - "kolonka-avtora"
 tags: 

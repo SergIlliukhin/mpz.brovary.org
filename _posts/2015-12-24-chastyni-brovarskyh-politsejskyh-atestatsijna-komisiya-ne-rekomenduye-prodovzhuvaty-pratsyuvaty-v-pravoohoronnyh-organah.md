@@ -1,6 +1,9 @@
 ---
 title: "Частині броварських правоохоронців комісія не рекомендує працювати в новій поліції"
 date: 2015-12-24
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "hromada"
   - "novyny"

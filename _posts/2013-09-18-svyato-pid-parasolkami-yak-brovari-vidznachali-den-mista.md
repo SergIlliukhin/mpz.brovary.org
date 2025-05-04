@@ -1,6 +1,9 @@
 ---
 title: "Свято під парасольками: як Бровари відзначали День міста"
 date: 2013-09-18
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 tags: 
   - "boks"
   - "brovary"

@@ -1,6 +1,9 @@
 ---
 title: "Створення унікальних розвиваючих книжок об'єднує броварську родину"
 date: 2016-08-04
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "interview"
   - "hromada"

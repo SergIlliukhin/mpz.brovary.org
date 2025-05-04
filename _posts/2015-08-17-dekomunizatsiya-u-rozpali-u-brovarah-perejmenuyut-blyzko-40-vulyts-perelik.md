@@ -1,6 +1,9 @@
 ---
 title: "Декомунізація у розпалі: у Броварах перейменують близько 40 вулиць - ПЕРЕЛІК"
 date: 2015-08-17
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "vlada"
   - "aktsiyi-zahodi"

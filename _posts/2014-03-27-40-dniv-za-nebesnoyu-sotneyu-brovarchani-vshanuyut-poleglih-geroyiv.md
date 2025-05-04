@@ -1,6 +1,9 @@
 ---
 title: "40 днів за Небесною Сотнею: броварчани вшанують полеглих героїв"
 date: 2014-03-27
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "announce"
 tags: 

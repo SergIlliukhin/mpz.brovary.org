@@ -1,6 +1,9 @@
 ---
 title: "Із Сингапуру до Броварів - за коханням і роботою. Історія Джейк’ю Фу"
 date: 2017-07-14
+author: 
+  username: "onikienko"
+  display_name: "Вікторія Оникієнко"
 categories: 
   - "interview"
   - "hromada"

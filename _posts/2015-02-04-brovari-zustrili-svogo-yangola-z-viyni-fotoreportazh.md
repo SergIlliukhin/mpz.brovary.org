@@ -1,6 +1,9 @@
 ---
 title: "Бровари зустріли свого «янгола» з війни - ФОТОРЕПОРТАЖ"
 date: 2015-02-04
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "ato"
   - "brovary"

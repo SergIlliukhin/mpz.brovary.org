@@ -1,6 +1,9 @@
 ---
 title: "Ціна броварської безкоштовної медицини для дітей: експеримент з аналізами"
 date: 2012-10-01
+author: 
+  username: "serzhov"
+  display_name: "Сергій Севрук"
 categories: 
   - "kolonka-avtora"
 tags: 

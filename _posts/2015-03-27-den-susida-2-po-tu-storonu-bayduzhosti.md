@@ -1,6 +1,9 @@
 ---
 title: "День Сусіда-2: По ту сторону байдужості"
 date: 2015-03-27
+author: 
+  username: "simutin"
+  display_name: "Роман Сімутін"
 categories: 
   - "announce"
   - "kolonka-avtora"

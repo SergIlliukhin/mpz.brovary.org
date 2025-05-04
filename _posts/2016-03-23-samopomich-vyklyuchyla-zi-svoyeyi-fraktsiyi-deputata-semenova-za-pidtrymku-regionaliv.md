@@ -1,6 +1,9 @@
 ---
 title: "«Самопоміч» виключила зі своєї фракції депутата Семенова за підтримку «регіоналів»"
 date: 2016-03-23
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

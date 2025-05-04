@@ -1,6 +1,9 @@
 ---
 title: "Броварська організація ВО\"Свобода\" запрошує до співпраці"
 date: 2014-04-02
+author: 
+  username: "svoboda"
+  display_name: "Прес-служба ВО Свобода"
 categories: 
   - "kolonka-avtora"
 ---

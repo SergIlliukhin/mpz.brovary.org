@@ -1,6 +1,9 @@
 ---
 title: "Як у Броварах проходив кінопоказ \"Відкритого доступу\" - ВІДЕОСЮЖЕТ"
 date: 2013-09-05
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

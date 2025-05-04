@@ -1,6 +1,9 @@
 ---
 title: "Роботодавці самостійно розраховують квоту для працевлаштування громадян з додатковими гарантіями"
 date: 2014-01-14
+author: 
+  username: "centrzaynyatosti"
+  display_name: "Центр зайнятості"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Музей крізь сльози"
 date: 2012-08-06
+author: 
+  username: "Lisova"
+  display_name: "Лідія Стрельченко"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Озброєні охоронці: у Броварах хочуть створити комунальне підприємство \"Муніципальна варта\""
 date: 2017-07-27
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "vlada"
   - "aktsiyi-zahodi"

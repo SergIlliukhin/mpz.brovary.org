@@ -1,6 +1,9 @@
 ---
 title: "Графік засідань постійних комісій в рамках 14-ї чергової сесії міськради"
 date: 2016-05-10
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

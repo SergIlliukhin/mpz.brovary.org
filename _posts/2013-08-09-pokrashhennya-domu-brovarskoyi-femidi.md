@@ -1,6 +1,9 @@
 ---
 title: "Покращення дому броварської Феміди"
 date: 2013-08-09
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

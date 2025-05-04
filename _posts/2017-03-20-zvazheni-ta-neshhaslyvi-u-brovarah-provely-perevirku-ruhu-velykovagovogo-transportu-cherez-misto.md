@@ -1,6 +1,9 @@
 ---
 title: "Зважені та нещасливі. У Броварах провели перевірку руху великовагового транспорту через місто"
 date: 2017-03-20
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

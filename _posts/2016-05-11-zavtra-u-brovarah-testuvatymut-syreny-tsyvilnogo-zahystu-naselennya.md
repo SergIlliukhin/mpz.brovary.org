@@ -1,6 +1,9 @@
 ---
 title: "Завтра у Броварах тестуватимуть сирени цивільного захисту населення"
 date: 2016-05-11
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

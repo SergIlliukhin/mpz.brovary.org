@@ -1,6 +1,9 @@
 ---
 title: "21 та 24 листопада в старому місті Броварів вимикатимуть світло"
 date: 2016-11-19
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

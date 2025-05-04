@@ -1,6 +1,9 @@
 ---
 title: "Створюємо бібліотеку для бійців АТО у Броварах"
 date: 2015-04-30
+author: 
+  username: "samopomich"
+  display_name: "Самопоміч"
 categories: 
   - "kolonka-avtora"
 tags: 

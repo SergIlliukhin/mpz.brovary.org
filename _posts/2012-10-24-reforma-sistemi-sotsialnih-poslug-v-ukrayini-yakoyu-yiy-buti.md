@@ -1,6 +1,9 @@
 ---
 title: "Реформа системи соціальних  послуг в Україні: якою їй бути?"
 date: 2012-10-24
+author: 
+  username: "nemchina"
+  display_name: "Тетяна Немчина"
 categories: 
   - "kolonka-avtora"
 tags: 

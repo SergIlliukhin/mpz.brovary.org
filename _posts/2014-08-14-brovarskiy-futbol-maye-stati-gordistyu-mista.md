@@ -1,6 +1,9 @@
 ---
 title: "Броварський футбол має стати гордістю міста!"
 date: 2014-08-14
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 ---

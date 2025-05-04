@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: Графік звітувань директорів шкіл та садочків у Броварах"
 date: 2017-05-19
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

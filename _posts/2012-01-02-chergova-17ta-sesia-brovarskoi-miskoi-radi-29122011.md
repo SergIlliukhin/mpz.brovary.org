@@ -1,6 +1,9 @@
 ---
 title: "Огляд: 17-та сесія Броварської міської ради 29.12.2011"
 date: 2012-01-02
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "twitter"
   - "andriyevskyj"

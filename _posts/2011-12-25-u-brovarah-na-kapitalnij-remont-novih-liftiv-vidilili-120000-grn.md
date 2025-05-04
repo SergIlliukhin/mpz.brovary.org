@@ -1,6 +1,9 @@
 ---
 title: "У Броварах на капітальний ремонт нових ліфтів виділили 120000 грн"
 date: 2011-12-25
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "rozsliduvannya"
 tags: 

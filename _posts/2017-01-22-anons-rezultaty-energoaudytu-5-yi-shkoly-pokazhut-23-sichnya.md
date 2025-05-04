@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: Результати енергоаудиту 5-ї школи покажуть 23 січня"
 date: 2017-01-22
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Екскурсія за міліцейські ґрати: броварським школярам показали, як працюють правоохоронці"
 date: 2015-03-20
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 tags: 
   - "asotsiatsiya-batkiv"
   - "brovary"

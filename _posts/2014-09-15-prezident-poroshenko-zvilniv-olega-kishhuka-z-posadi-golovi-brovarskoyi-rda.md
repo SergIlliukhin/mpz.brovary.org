@@ -1,6 +1,9 @@
 ---
 title: "Президент Порошенко звільнив Олега Кищука з посади голови броварської РДА"
 date: 2014-09-15
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "vibir-redaktsiyi"
   - "novini"

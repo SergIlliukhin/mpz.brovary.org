@@ -1,6 +1,9 @@
 ---
 title: "Земля селянам!"
 date: 2012-08-16
+author: 
+  username: "svoboda"
+  display_name: "Прес-служба ВО Свобода"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Виконком визначив, як часто у Броварах мають вивозити сміття, прибирати двори та мити під'їзди"
 date: 2013-04-04
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 tags: 
   - "brovary"
   - "vykonkom"

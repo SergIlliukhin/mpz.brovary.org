@@ -1,6 +1,9 @@
 ---
 title: "Броварські «регіонали» виступили на захист «бойовика» Сергія Стягова - ВІДЕО"
 date: 2013-07-11
+author: 
+  username: "udar"
+  display_name: "УДАР"
 categories: 
   - "kolonka-avtora"
 tags: 

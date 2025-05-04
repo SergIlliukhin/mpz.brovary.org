@@ -1,6 +1,9 @@
 ---
 title: "В Мережі з’явились мобільні номери броварських депутатів?"
 date: 2013-02-21
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "internet"
   - "brovary"

@@ -1,6 +1,9 @@
 ---
 title: "Хто поставив броварські бібліотеки під загрозу виселення?"
 date: 2012-12-26
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "rozsliduvannya"
 tags: 

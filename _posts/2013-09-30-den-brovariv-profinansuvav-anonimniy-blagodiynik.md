@@ -1,6 +1,9 @@
 ---
 title: "День Броварів профінансував анонімний благодійник?"
 date: 2013-09-30
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

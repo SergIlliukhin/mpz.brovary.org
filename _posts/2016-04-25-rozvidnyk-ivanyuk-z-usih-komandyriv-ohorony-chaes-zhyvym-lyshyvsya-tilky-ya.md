@@ -1,6 +1,9 @@
 ---
 title: "Розвідник Іванюк: «З усіх командирів охорони ЧАЕС живим лишився тільки я»"
 date: 2016-04-25
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "interview"
   - "hromada"

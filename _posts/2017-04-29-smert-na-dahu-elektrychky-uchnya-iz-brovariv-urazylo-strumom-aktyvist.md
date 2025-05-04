@@ -1,6 +1,9 @@
 ---
 title: "Смерть на даху електрички: учня із Броварів уразило струмом"
 date: 2017-04-29
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

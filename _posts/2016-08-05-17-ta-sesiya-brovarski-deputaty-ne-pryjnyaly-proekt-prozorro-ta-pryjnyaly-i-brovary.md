@@ -1,6 +1,9 @@
 ---
 title: "17-та сесія: броварські депутати не прийняли проект Prozorro та прийняли І-Бровари"
 date: 2016-08-05
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "vlada"
   - "aktsiyi-zahodi"

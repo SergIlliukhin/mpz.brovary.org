@@ -1,6 +1,9 @@
 ---
 title: "Бровари проти «Гулівера»: битва за місто на полі бою площею 95 гектарів"
 date: 2014-11-17
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "rozsliduvannya"
 tags: 

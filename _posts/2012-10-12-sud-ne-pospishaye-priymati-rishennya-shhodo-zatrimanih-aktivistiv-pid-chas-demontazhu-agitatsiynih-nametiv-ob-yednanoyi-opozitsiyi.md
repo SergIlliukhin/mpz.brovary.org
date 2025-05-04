@@ -1,6 +1,9 @@
 ---
 title: "На підставі незаконного рішення виконкому броварських опозиціонерів визнають винними та присуджують штрафи"
 date: 2012-10-12
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 tags: 
   - "agitatsiya"
   - "batkivshhina"

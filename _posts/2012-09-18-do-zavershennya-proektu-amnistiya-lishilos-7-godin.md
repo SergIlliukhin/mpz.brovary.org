@@ -1,6 +1,9 @@
 ---
 title: "До завершення проекту Амністія лишилось 7 годин"
 date: 2012-09-18
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

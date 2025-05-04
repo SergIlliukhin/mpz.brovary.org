@@ -1,6 +1,9 @@
 ---
 title: "Лідія Стрельченко: “Зараз моя мета — наша перемога” - ФОТО"
 date: 2016-10-28
+author: 
+  username: "jacyv"
+  display_name: "Світлана Яцив"
 categories: 
   - "interview"
   - "hromada"

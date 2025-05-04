@@ -1,6 +1,9 @@
 ---
 title: "15 лютого броварські страйкарі пікетуватимуть Посольство США"
 date: 2013-02-14
+author: 
+  username: "svoboda"
+  display_name: "Прес-служба ВО Свобода"
 categories: 
   - "announce"
   - "kolonka-avtora"

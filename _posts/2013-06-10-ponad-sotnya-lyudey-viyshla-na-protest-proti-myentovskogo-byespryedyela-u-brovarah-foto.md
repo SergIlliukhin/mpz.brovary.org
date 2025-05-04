@@ -1,6 +1,9 @@
 ---
 title: "Понад сотня людей вийшла на протест проти «мєнтовського бєспрєдєла» у Броварах - ФОТО"
 date: 2013-06-10
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "aktsiyi-zahodi"
 tags: 

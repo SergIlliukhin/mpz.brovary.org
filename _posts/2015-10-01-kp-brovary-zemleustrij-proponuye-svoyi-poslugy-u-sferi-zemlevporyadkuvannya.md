@@ -1,6 +1,9 @@
 ---
 title: "КП \"Бровари-Землеустрій\" пропонує свої послуги у сфері землевпорядкування"
 date: 2015-10-01
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

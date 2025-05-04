@@ -1,6 +1,9 @@
 ---
 title: "Прокладання комунікацій до новобудови на вул. Київській може обвалити багатоповерхівку"
 date: 2013-09-24
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "alyans-novobud"
   - "brovary"

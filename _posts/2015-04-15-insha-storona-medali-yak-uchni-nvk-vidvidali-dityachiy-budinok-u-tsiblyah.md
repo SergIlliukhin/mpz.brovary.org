@@ -1,6 +1,9 @@
 ---
 title: "Інша сторона \"медалі\": як учні НВК відвідали дитячий будинок у Циблях"
 date: 2015-04-15
+author: 
+  username: "batky_brovary"
+  display_name: "Асоціація батьків Броварів"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Офіційна заява щодо виключення Максима Семенова із фракції"
 date: 2016-03-23
+author: 
+  username: "samopomich"
+  display_name: "Самопоміч"
 categories: 
   - "kolonka-avtora"
 ---

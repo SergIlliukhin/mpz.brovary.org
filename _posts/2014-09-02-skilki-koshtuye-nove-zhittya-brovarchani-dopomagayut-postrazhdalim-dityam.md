@@ -1,6 +1,9 @@
 ---
 title: "Скільки коштує нове життя? Броварчани допомагають постраждалим дітям"
 date: 2014-09-02
+author: 
+  username: "shvec_yana"
+  display_name: "Швець Яна"
 tags: 
   - "blagodiyniy-yarmarok"
   - "brovary"

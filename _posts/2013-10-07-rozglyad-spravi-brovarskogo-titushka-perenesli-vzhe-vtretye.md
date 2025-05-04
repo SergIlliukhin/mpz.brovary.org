@@ -1,6 +1,9 @@
 ---
 title: "Розгляд справи броварського «тітушка» перенесли вже втретє"
 date: 2013-10-07
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "guseynova"
   - "kichinska"

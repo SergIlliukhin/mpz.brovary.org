@@ -1,6 +1,9 @@
 ---
 title: "Питання про саморозпуск Верховної Ради та призначення перевиборів має бути вирішене вже завтра"
 date: 2014-07-02
+author: 
+  username: "udar"
+  display_name: "УДАР"
 categories: 
   - "kolonka-avtora"
 ---

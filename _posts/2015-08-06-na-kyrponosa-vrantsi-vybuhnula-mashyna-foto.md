@@ -1,6 +1,9 @@
 ---
 title: "На Кирпоноса вранці вибухнула машина - ФОТО"
 date: 2015-08-06
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

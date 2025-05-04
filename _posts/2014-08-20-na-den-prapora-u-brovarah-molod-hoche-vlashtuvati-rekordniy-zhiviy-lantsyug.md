@@ -1,6 +1,9 @@
 ---
 title: "На День прапора у Броварах молодь хоче влаштувати рекордний Живий Ланцюг"
 date: 2014-08-20
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

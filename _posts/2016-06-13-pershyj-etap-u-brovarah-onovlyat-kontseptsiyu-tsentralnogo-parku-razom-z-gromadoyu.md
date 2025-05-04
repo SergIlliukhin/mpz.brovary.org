@@ -1,6 +1,9 @@
 ---
 title: "Перший етап: у Броварах оновлять концепцію центрального парку разом із громадою"
 date: 2016-06-13
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "hromada"
   - "novyny"

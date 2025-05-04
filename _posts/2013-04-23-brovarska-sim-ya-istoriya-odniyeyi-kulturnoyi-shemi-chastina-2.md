@@ -1,6 +1,9 @@
 ---
 title: "Броварська «Сім’я»: історія однієї «культурної» схеми. Частина 2"
 date: 2013-04-23
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "rozsliduvannya"
 tags: 

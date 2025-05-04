@@ -1,6 +1,9 @@
 ---
 title: "Як приймають дітей до спеціалізованих шкіл Броварів"
 date: 2017-02-07
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

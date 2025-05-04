@@ -1,6 +1,9 @@
 ---
 title: "Очільник броварської освіти назвав чутки про закриття школи № 1 брехнею"
 date: 2013-04-17
+author: 
+  username: "veta"
+  display_name: "Єлизавета Ковальчук"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

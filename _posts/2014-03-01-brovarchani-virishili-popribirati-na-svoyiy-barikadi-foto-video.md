@@ -1,6 +1,9 @@
 ---
 title: "Броварчани вирішили поприбирати на своїй барикаді - ФОТО, ВІДЕО"
 date: 2014-03-01
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 tags: 
   - "yevromaydan"
   - "barikada"

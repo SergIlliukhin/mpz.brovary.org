@@ -1,6 +1,9 @@
 ---
 title: "До Дня Незалежності у Броварах стартував проект «Літопис краю»"
 date: 2012-08-28
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "gazeta"

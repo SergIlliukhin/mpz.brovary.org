@@ -1,6 +1,9 @@
 ---
 title: "На День Соборності України броварська молодь запрошує на Живий ланцюг єдності"
 date: 2015-01-19
+author: 
+  username: "onikienko"
+  display_name: "Вікторія Оникієнко"
 categories: 
   - "announce"
 tags: 

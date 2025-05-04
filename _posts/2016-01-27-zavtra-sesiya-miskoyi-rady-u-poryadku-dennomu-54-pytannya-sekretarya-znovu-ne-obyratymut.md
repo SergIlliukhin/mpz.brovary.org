@@ -1,6 +1,9 @@
 ---
 title: "Завтра – сесія міської ради: у порядку денному 54 питання, секретаря знову не обиратимуть"
 date: 2016-01-27
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

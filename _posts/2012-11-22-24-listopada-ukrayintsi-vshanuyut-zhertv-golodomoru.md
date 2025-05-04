@@ -1,6 +1,9 @@
 ---
 title: "24 листопада українці вшанують жертв Голодомору"
 date: 2012-11-22
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "kolonka-avtora"
 tags: 

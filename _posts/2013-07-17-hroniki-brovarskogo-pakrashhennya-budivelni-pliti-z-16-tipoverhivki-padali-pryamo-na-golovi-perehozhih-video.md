@@ -1,6 +1,9 @@
 ---
 title: "Після комунального «покращення» будівельні плити стали падати прямо на голови броварчан"
 date: 2013-07-17
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "brovary"
   - "budivelniki"

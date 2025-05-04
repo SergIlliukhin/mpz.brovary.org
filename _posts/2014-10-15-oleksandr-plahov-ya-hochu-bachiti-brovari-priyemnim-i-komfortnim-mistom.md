@@ -1,6 +1,9 @@
 ---
 title: "Олександр Плахов: \"Я хочу бачити Бровари приємним і комфортним містом\""
 date: 2014-10-15
+author: 
+  username: "pecheritsia"
+  display_name: "Анастасія Печериця"
 categories: 
   - "interview"
 tags: 

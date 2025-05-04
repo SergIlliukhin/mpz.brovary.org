@@ -1,6 +1,9 @@
 ---
 title: "У міліції пояснили, чому не вирішується проблема розпиття алкоголю та куріння у громадських місцях"
 date: 2015-06-15
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

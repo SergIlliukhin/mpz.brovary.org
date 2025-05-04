@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 21 листопада в Броварах вистава «Майстер і Маргарита»"
 date: 2016-11-10
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 1 квітня броварський біговий клуб організовує громадське прибирання"
 date: 2017-03-30
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

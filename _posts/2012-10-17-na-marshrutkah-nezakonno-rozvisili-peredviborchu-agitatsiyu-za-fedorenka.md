@@ -1,6 +1,9 @@
 ---
 title: "На маршрутках незаконно розвісили передвиборчу агітацію за Федоренка"
 date: 2012-10-17
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "kolonka-avtora"
 tags: 

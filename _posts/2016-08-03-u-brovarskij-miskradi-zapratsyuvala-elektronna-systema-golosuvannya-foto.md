@@ -1,6 +1,9 @@
 ---
 title: "У Броварській міськраді запрацювала електронна система голосування - ФОТО"
 date: 2016-08-03
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "vlada"
   - "aktsiyi-zahodi"

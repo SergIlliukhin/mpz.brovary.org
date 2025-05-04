@@ -1,6 +1,9 @@
 ---
 title: "Завтра молодь вшанує пам'ять героїв Небесної сотні на Майдані Свободи"
 date: 2016-02-19
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

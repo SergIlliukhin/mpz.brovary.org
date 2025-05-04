@@ -1,6 +1,9 @@
 ---
 title: "Начальник управління освіти Онищенко: «Корупцію у бідній країні подолати неможливо»"
 date: 2015-12-04
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

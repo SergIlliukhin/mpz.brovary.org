@@ -1,6 +1,9 @@
 ---
 title: "Сьогодні депутати ухвалили бюджет-2016 та перейменували 70 броварських вулиць"
 date: 2015-12-25
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "vlada"
   - "aktsiyi-zahodi"

@@ -1,6 +1,9 @@
 ---
 title: "Brovary Basketball 2014"
 date: 2014-03-20
+author: 
+  username: "mobi"
+  display_name: "Марина Рубайло"
 categories: 
   - "kolonka-avtora"
 ---

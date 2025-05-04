@@ -1,6 +1,9 @@
 ---
 title: "Будні броварських журналістів: жодних зручностей і незаконні перешкоди"
 date: 2012-06-20
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 categories: 
   - "kolonka-avtora"
 tags: 

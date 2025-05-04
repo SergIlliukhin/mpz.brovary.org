@@ -1,6 +1,9 @@
 ---
 title: "Вища земельна математика, або Як розділити на дві сотні бійців АТО десять ділянок"
 date: 2015-06-15
+author: 
+  username: "komarovskyj"
+  display_name: "Комаровський Олексій"
 categories: 
   - "vlada"
   - "aktsiyi-zahodi"

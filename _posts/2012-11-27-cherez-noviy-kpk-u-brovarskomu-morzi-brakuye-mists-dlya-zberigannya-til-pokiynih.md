@@ -1,6 +1,9 @@
 ---
 title: "Через новий КПК у броварському морзі бракує місць для зберігання тіл покійних"
 date: 2012-11-27
+author: 
+  username: "serzhov"
+  display_name: "Сергій Севрук"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

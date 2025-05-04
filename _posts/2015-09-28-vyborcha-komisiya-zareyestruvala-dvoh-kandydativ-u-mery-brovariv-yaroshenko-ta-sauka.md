@@ -1,6 +1,9 @@
 ---
 title: "Виборча комісія зареєструвала двох кандидатів у мери Броварів - Ярошенко та Саука"
 date: 2015-09-28
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

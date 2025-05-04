@@ -1,6 +1,9 @@
 ---
 title: "Вчора ввечері на вул. Короленка сталося ДТП, через яке перекрили рух - ФОТО"
 date: 2015-06-11
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

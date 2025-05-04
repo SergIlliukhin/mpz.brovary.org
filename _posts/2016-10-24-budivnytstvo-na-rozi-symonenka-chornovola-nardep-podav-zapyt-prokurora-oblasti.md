@@ -1,6 +1,9 @@
 ---
 title: "Будівництво на розі Симоненка-Чорновола: нардеп подав запит до прокурора області"
 date: 2016-10-24
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "hromada"
   - "novyny"

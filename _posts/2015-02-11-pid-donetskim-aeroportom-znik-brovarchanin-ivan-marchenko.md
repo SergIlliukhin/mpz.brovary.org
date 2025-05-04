@@ -1,6 +1,9 @@
 ---
 title: "Під донецьким аеропортом зник броварчанин Іван Марченко"
 date: 2015-02-11
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "90-batalyon"
   - "95-aeromobilna-brigada"

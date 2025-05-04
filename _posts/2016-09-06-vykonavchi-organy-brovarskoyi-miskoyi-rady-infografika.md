@@ -1,6 +1,9 @@
 ---
 title: "Виконавчі органи Броварської міської ради - ІНФОГРАФІКА"
 date: 2016-09-06
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "rozsliduvannya"
   - "vlada"

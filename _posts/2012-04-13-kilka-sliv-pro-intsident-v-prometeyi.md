@@ -1,6 +1,9 @@
 ---
 title: "Кілька слів про інцидент в \"Прометеї\""
 date: 2012-04-13
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Як святкували Водохреща в Броварах. ФОТОРЕПОРТАЖ"
 date: 2016-01-21
+author: 
+  username: "onikienko"
+  display_name: "Вікторія Оникієнко"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

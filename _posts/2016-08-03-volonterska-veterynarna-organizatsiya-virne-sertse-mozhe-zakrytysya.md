@@ -1,6 +1,9 @@
 ---
 title: "Волонтерська ветеринарна організація «Вірне серце» може закритися"
 date: 2016-08-03
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "hromada"
   - "novyny"

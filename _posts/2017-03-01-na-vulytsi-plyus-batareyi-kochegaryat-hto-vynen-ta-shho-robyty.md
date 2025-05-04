@@ -1,6 +1,9 @@
 ---
 title: "На вулиці «плюс», а батареї «кочегарять». Хто винен та що робити?"
 date: 2017-03-01
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

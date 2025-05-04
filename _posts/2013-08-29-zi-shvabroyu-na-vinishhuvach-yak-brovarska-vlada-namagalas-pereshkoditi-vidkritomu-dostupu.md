@@ -1,6 +1,9 @@
 ---
 title: "Зі шваброю на винищувач: як броварська влада намагалась перешкодити кінопоказу"
 date: 2013-08-29
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "aktsiyi-zahodi"
 tags: 

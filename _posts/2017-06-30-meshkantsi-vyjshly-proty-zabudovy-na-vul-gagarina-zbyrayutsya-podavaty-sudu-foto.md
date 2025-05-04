@@ -1,6 +1,9 @@
 ---
 title: "Мешканці вийшли проти забудови на вул. Гагаріна, збираються подавати до суду – ФОТО"
 date: 2017-06-30
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

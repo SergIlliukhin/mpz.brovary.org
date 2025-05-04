@@ -1,6 +1,9 @@
 ---
 title: "Пильні та рішучі батьки змусили чиновників змінити свої плани щодо 6 школи"
 date: 2014-08-06
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 tags: 
   - "bnvo"
   - "brovary"

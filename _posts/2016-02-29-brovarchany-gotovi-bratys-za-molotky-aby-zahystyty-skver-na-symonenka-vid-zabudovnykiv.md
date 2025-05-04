@@ -1,6 +1,9 @@
 ---
 title: "Броварчани готові братись за молотки, аби захистити сквер на Симоненка від забудовників"
 date: 2016-02-29
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "hromada"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Навіщо міська влада паплюжить Блаженнішого Любомира Гузара?"
 date: 2012-03-27
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

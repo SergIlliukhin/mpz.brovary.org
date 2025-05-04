@@ -1,6 +1,9 @@
 ---
 title: "Очільник броварської поліції Олег Янчинський: «Нам не вистачає людей»"
 date: 2016-12-19
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "interview"
   - "vlada"

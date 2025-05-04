@@ -1,6 +1,9 @@
 ---
 title: "Чому ми починаємо з прокурора?"
 date: 2014-05-16
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 ---

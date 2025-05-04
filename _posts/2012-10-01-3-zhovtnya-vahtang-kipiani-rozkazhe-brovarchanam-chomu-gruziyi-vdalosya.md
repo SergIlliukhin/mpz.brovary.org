@@ -1,6 +1,9 @@
 ---
 title: "3 жовтня Вахтанг Кіпіані розкаже броварчанам, «чому Грузії вдалося»"
 date: 2012-10-01
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

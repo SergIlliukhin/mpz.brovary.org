@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: Сьогодні в Києві розкажуть про репресії з боку мера Броварів"
 date: 2015-07-16
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "«Свобода» відгукнулась на заклик УДАРУ: націоналісти долучаться до протесту в Броварах"
 date: 2013-04-17
+author: 
+  username: "udar"
+  display_name: "УДАР"
 categories: 
   - "kolonka-avtora"
 tags: 

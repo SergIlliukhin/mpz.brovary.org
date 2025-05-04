@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: \"Броварський народний контроль\" запрошує активних броварчан до співпраці"
 date: 2015-09-02
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

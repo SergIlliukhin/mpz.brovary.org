@@ -1,6 +1,9 @@
 ---
 title: "Броварська ТВК зареєструвала 23 кандидата в депутати та кандидата в мери від Демократичного альянсу"
 date: 2015-09-26
+author: 
+  username: "demalliance"
+  display_name: "ДемАльянс Бровари"
 categories: 
   - "kolonka-avtora"
 tags: 

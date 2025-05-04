@@ -1,6 +1,9 @@
 ---
 title: "Де в Броварах можна купити новорічну ялинку"
 date: 2016-12-24
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

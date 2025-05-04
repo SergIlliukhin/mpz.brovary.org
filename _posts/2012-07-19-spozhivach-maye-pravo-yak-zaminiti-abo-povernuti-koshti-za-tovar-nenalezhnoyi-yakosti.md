@@ -1,6 +1,9 @@
 ---
 title: "«Споживач має право»: як замінити або повернути кошти за товар неналежної якості"
 date: 2012-07-19
+author: 
+  username: "serzhov"
+  display_name: "Сергій Севрук"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Реформа системи вивезення сміття з приватного сектору Броварів вийшла на фінішну пряму"
 date: 2013-07-30
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

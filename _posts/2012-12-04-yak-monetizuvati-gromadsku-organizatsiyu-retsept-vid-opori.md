@@ -1,6 +1,9 @@
 ---
 title: "Як монетизувати громадську організацію: рецепт від «ОПОРИ»"
 date: 2012-12-04
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

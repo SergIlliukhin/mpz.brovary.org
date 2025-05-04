@@ -1,6 +1,9 @@
 ---
 title: "Майстер-класи від \"Бест Друга\" тривають: теплі листівки для найрідніших"
 date: 2015-05-05
+author: 
+  username: "molodda"
+  display_name: "Молодь ДемАльянсу"
 categories: 
   - "kolonka-avtora"
 tags: 

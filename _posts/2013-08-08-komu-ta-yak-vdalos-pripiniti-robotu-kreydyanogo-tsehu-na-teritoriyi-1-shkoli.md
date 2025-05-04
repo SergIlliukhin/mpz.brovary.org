@@ -1,6 +1,9 @@
 ---
 title: "Кому та як вдалось припинити роботу крейдяного цеху на території 1 школи?"
 date: 2013-08-08
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 categories: 
   - "rozsliduvannya"
 tags: 

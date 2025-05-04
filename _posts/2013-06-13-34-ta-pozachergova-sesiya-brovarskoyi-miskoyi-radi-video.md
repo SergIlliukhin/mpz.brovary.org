@@ -1,6 +1,9 @@
 ---
 title: "34-та позачергова сесія Броварської міської ради – ВІДЕО"
 date: 2013-06-13
+author: 
+  username: "simutin"
+  display_name: "Роман Сімутін"
 categories: 
   - "video"
 tags: 

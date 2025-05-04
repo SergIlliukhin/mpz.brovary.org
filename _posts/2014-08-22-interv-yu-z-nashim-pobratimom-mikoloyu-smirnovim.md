@@ -1,6 +1,9 @@
 ---
 title: "Інтерв'ю з нашим броварським побратимом Миколою Смірновим"
 date: 2014-08-22
+author: 
+  username: "svoboda"
+  display_name: "Прес-служба ВО Свобода"
 categories: 
   - "kolonka-avtora"
 tags: 

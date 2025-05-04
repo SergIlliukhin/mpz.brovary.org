@@ -1,6 +1,9 @@
 ---
 title: "У Броварах міліція жорстоко побила учасників акції на підтримку народного месника Віталія Запорожця"
 date: 2012-09-05
+author: 
+  username: "svoboda"
+  display_name: "Прес-служба ВО Свобода"
 categories: 
   - "kolonka-avtora"
 tags: 

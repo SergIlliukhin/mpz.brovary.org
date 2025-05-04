@@ -1,6 +1,9 @@
 ---
 title: "\"Думала, що її як жінку не чіпатимуть...\" - чоловік Антоніни Дворянець про її загибель від рук \"Беркута\""
 date: 2014-03-29
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "antonina-dvoryanets"
   - "vibir-redaktsiyi"

@@ -1,6 +1,9 @@
 ---
 title: "Броварський гурт поїхав в тур Англією разом з Duran Duran та Seal. ВІДЕО"
 date: 2016-02-25
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

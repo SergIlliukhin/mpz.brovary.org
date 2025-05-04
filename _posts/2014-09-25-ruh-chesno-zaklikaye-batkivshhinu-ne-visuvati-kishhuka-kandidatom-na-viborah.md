@@ -1,6 +1,9 @@
 ---
 title: "Рух «Чесно» закликає «Батьківщину» зняти Кищука з виборів"
 date: 2014-09-25
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

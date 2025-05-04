@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: День Соборності у Броварах відзначать живим ланцюгом та вшануванням полеглих за Україну"
 date: 2016-01-21
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "hromada"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Екзіт-пол у день виборів у 97 окрузі проведуть провідні соціологічні компанії - TNS, GFK та SOCIS"
 date: 2012-10-23
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "gfk"
   - "socis"

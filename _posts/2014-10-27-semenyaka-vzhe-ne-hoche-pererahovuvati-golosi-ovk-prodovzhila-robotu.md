@@ -1,6 +1,9 @@
 ---
 title: "Семеняка вже не хоче перераховувати голоси. ОВК продовжила роботу"
 date: 2014-10-27
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"
   - "vibori"

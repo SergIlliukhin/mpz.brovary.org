@@ -1,6 +1,9 @@
 ---
 title: "Громадську раду при виконкомі створять чиновники і ветерани"
 date: 2016-01-18
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "hromada"
   - "novyny"

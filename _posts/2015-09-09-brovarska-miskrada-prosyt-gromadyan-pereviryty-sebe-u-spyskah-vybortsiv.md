@@ -1,6 +1,9 @@
 ---
 title: "Броварська міськрада просить громадян перевірити себе у списках виборців"
 date: 2015-09-09
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

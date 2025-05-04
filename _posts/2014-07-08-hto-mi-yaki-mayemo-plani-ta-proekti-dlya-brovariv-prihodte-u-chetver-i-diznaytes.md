@@ -1,6 +1,9 @@
 ---
 title: "Хто ми, які маємо плани та проекти для Броварів? Приходьте у четвер і дізнайтесь!"
 date: 2014-07-08
+author: 
+  username: "demalliance"
+  display_name: "ДемАльянс Бровари"
 categories: 
   - "kolonka-avtora"
 tags: 

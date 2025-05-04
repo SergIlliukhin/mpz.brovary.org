@@ -1,6 +1,9 @@
 ---
 title: "Бутафорія та шизофренія передвиборчої кампанії на Торгмаші"
 date: 2013-05-31
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 ---

@@ -1,6 +1,9 @@
 ---
 title: "Планові тимчасові відключення електрики у травні – ГРАФІК"
 date: 2017-05-03
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Янукович в Броварах.  День захисту дітей не сподобався Президенту"
 date: 2012-06-04
+author: 
+  username: "kravec"
+  display_name: "Юрій Кравець"
 categories: 
   - "kolonka-avtora"
 tags: 

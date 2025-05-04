@@ -1,6 +1,9 @@
 ---
 title: "7 жовтня до Броварів приїдуть кандидати від партії Гриценка"
 date: 2014-10-06
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

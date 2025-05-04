@@ -1,6 +1,9 @@
 ---
 title: "Федоренко частував молодь алкоголем та просив по 50 гривень за… «рінгтон».ФОТО, ВІДЕО"
 date: 2012-06-25
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

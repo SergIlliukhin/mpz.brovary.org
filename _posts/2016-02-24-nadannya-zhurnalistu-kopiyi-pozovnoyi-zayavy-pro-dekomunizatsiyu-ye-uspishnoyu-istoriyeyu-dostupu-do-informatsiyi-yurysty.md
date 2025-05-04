@@ -1,6 +1,9 @@
 ---
 title: "Броварський журналіст \"переміг\" суд, вимагаючи доступ до інформації"
 date: 2016-02-24
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: Завтра у Броварах навчатимуть створювати веб-сайти"
 date: 2016-05-30
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

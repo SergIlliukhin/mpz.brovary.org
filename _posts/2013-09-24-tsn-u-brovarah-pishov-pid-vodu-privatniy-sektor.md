@@ -1,6 +1,9 @@
 ---
 title: "ТСН: У Броварах пішов під воду приватний сектор - ВІДЕО"
 date: 2013-09-24
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Оприлюднено графік відключення електрики у Броварах"
 date: 2014-12-10
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"
   - "novini"

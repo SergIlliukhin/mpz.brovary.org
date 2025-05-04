@@ -1,6 +1,9 @@
 ---
 title: "Система «Prozorro»: як без «відкатів» заробляти на державному тендері"
 date: 2016-06-10
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

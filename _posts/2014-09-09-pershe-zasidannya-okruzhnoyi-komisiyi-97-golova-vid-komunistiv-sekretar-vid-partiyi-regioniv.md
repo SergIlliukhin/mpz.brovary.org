@@ -1,6 +1,9 @@
 ---
 title: "Перше засідання окружної комісії №97: голова - від комуністів, секретар - від Партії регіонів"
 date: 2014-09-09
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "26-zhovtnya-2014-roku"
   - "vibir-redaktsiyi"

@@ -1,6 +1,9 @@
 ---
 title: "Хто отримує найбільше коштів від управління ЖКГ в Броварах?"
 date: 2016-09-28
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "rozsliduvannya"
   - "vlada"

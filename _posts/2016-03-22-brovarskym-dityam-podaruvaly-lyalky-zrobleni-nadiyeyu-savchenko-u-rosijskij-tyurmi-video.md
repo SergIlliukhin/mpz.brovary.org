@@ -1,6 +1,9 @@
 ---
 title: "Броварським дітям подарували ляльки, зроблені Надією Савченко у російській тюрмі, - ВІДЕО"
 date: 2016-03-22
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "hromada"
   - "novyny"

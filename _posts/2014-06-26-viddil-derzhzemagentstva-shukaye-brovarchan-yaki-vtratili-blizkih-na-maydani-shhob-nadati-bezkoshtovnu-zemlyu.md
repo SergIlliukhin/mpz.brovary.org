@@ -1,6 +1,9 @@
 ---
 title: "Відділ Держземагентства шукає броварчан, які втратили близьких на Майдані, щоб надати безкоштовно землю"
 date: 2014-06-26
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "bezkoshtovna-zemlya"
   - "brovary"

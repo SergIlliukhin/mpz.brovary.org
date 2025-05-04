@@ -1,6 +1,9 @@
 ---
 title: "Народна Рада розповіла керівництву Київщини, чому Сапожко має піти у відставку"
 date: 2014-03-12
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 categories: 
   - "video"
 tags: 

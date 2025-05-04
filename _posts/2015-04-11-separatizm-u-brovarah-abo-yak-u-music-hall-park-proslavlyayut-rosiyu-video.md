@@ -1,6 +1,9 @@
 ---
 title: "Сепаратизм у Броварах, або Як у «Music Hall Park» прославляють Росію - ВІДЕО"
 date: 2015-04-11
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "kolonka-avtora"
 tags: 

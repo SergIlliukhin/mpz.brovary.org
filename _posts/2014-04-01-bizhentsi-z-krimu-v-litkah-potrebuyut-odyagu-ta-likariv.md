@@ -1,6 +1,9 @@
 ---
 title: "Біженці з Криму в Літках потребують одягу та лікарів"
 date: 2014-04-01
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "bizhentsi"
   - "vibir-redaktsiyi"

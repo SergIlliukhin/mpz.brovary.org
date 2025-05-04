@@ -1,6 +1,9 @@
 ---
 title: "«Brain Event» набирає обертів: у Броварах презентували відверте дослідження про українських жінок"
 date: 2015-06-04
+author: 
+  username: "leshchyk"
+  display_name: "Ольга Лещик"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

@@ -1,6 +1,9 @@
 ---
 title: "Бюджетний запит відділу молоді та спорту БМР"
 date: 2016-11-21
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

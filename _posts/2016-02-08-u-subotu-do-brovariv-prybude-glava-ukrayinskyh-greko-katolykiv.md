@@ -1,6 +1,9 @@
 ---
 title: "У суботу до Броварів прибуде глава українських греко-католиків"
 date: 2016-02-08
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "brovary"

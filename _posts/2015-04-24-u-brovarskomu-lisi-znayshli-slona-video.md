@@ -1,6 +1,9 @@
 ---
 title: "У броварському лісі знайшли слона - ВІДЕО"
 date: 2015-04-24
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 categories: 
   - "kolonka-avtora"
 tags: 

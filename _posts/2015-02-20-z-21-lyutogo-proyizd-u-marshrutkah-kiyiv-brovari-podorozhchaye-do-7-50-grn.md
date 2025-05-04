@@ -1,6 +1,9 @@
 ---
 title: "З 21 лютого проїзд у маршрутках Київ-Бровари подорожчає до 7.50 грн"
 date: 2015-02-20
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 tags: 
   - "brovary"
   - "brovarski-marshrutki"

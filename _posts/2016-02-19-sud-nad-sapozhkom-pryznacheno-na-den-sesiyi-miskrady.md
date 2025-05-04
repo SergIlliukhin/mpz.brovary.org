@@ -1,6 +1,9 @@
 ---
 title: "Суд над Сапожком призначено на день сесії міськради"
 date: 2016-02-19
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

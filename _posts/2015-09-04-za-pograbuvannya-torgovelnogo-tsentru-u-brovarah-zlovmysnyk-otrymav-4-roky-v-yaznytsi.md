@@ -1,6 +1,9 @@
 ---
 title: "За пограбування торговельного центру у Броварах зловмисник отримав 4 роки в'язниці"
 date: 2015-09-04
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

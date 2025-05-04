@@ -1,6 +1,9 @@
 ---
 title: "Броварські «хоумскулери»: чому батьки все частіше навчають дітей вдома, а не в школі?"
 date: 2016-02-03
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "hromada"
   - "novyny"

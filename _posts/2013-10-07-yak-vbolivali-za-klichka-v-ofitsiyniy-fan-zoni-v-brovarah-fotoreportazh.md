@@ -1,6 +1,9 @@
 ---
 title: "Як вболівали за Кличка в офіційній фан-зоні в Броварах. Фоторепортаж."
 date: 2013-10-07
+author: 
+  username: "udar"
+  display_name: "УДАР"
 categories: 
   - "kolonka-avtora"
 tags: 

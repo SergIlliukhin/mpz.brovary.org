@@ -1,6 +1,9 @@
 ---
 title: "Рік за Небесною Сотнею: на Майдані Свободи відкриють меморіал полеглим героям"
 date: 2015-02-18
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "announce"
 tags: 

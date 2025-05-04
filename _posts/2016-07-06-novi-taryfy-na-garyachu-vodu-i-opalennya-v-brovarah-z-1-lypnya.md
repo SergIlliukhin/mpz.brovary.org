@@ -1,6 +1,9 @@
 ---
 title: "Нові тарифи на гарячу воду і опалення в Броварах з 1 липня"
 date: 2016-07-06
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

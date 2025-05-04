@@ -1,6 +1,9 @@
 ---
 title: "ЗAБУДУВАТИ НЕМОЖЛИВО ЗБЕРЕГТИ"
 date: 2016-09-14
+author: 
+  username: "nikitchina"
+  display_name: "Ірина Нікітчина"
 categories: 
   - "kolonka-avtora"
 tags: 

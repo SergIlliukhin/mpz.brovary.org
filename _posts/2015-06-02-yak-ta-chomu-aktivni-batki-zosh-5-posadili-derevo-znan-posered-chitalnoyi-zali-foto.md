@@ -1,6 +1,9 @@
 ---
 title: "Як та чому активні батьки ЗОШ № 5 посадили «Дерево знань» посеред читальної зали? - ФОТО"
 date: 2015-06-02
+author: 
+  username: "komarovskyj"
+  display_name: "Комаровський Олексій"
 categories: 
   - "hromada"
 tags: 

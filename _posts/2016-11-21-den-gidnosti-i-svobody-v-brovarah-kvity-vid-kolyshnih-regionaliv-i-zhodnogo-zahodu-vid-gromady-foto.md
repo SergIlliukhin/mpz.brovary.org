@@ -1,6 +1,9 @@
 ---
 title: "День Гідності і Свободи в Броварах: квіти від колишніх «регіоналів» і жодного заходу від громади - ФОТО"
 date: 2016-11-21
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "brovary"
   - "novyny"

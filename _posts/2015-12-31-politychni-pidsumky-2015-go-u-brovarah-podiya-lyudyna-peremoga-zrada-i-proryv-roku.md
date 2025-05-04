@@ -1,6 +1,9 @@
 ---
 title: "Політичні підсумки 2015-го у Броварах: Подія, Людина, Перемога, Зрада і Прорив року"
 date: 2015-12-31
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

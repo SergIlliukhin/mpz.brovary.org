@@ -1,6 +1,9 @@
 ---
 title: "Броварські депутати хочуть заборонити журналістам пересуватись по залі під час сесій"
 date: 2013-08-19
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 tags: 
   - "brusenska"
   - "vibir-redaktsiyi"

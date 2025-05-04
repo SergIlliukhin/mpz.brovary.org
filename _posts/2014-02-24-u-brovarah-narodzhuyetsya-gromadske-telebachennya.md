@@ -1,6 +1,9 @@
 ---
 title: "У Броварах народжується громадське телебачення"
 date: 2014-02-24
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 ---

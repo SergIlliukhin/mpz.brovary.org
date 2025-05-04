@@ -1,6 +1,9 @@
 ---
 title: "Депутати не підтримали петицію Пилипа Духлія про заборону будівництва АЗС та автомийок"
 date: 2017-08-15
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

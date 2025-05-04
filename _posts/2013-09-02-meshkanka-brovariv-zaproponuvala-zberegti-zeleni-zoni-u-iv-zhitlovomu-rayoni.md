@@ -1,6 +1,9 @@
 ---
 title: "Мешканка Броварів запропонувала зберегти зелені зони у ІV житловому районі"
 date: 2013-09-02
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "4-zhitloviy-rayon"
   - "brovary"

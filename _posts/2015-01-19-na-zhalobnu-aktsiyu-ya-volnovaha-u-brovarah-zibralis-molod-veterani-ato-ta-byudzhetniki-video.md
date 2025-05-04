@@ -1,6 +1,9 @@
 ---
 title: "На жалобну акцію «Я – Волноваха» у Броварах зібрались молодь, ветерани АТО та бюджетники - ВІДЕО"
 date: 2015-01-19
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "aktsiya-zhalobi"
   - "brovary"

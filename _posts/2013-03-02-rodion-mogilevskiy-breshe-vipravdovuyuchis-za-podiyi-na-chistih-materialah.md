@@ -1,6 +1,9 @@
 ---
 title: "Родіон Могилевський бреше, виправдовуючись за події на «Чистих матеріалах». ВІДЕО"
 date: 2013-03-02
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "kolonka-avtora"
   - "video"

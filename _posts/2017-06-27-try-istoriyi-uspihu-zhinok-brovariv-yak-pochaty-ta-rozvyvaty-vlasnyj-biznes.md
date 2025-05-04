@@ -1,6 +1,9 @@
 ---
 title: "Три історії успіху жінок Броварів: як почати та розвивати власний бізнес - ФОТО"
 date: 2017-06-27
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

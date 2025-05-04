@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 3 вересня відбудеться другий благодійний ярмарок «Мамин Hand Made»"
 date: 2016-08-30
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

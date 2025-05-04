@@ -1,6 +1,9 @@
 ---
 title: "Ігор Похвіщев: \"Любов до країни виявляється не в словах, а в корисних речах, які ти робиш\""
 date: 2017-03-03
+author: 
+  username: "jacyv"
+  display_name: "Світлана Яцив"
 categories: 
   - "interview"
   - "hromada"

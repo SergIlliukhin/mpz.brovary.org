@@ -1,6 +1,9 @@
 ---
 title: "Флеш-моб для Кобзаря, або Як поезія Шевченка заполонила вулиці Броварів"
 date: 2015-03-11
+author: 
+  username: "molodda"
+  display_name: "Молодь ДемАльянсу"
 categories: 
   - "kolonka-avtora"
 tags: 

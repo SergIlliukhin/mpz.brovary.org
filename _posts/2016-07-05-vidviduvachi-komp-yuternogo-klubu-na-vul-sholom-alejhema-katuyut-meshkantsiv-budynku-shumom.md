@@ -1,6 +1,9 @@
 ---
 title: "Відвідувачі комп’ютерного клубу «катують» мешканців будинку шумом?"
 date: 2016-07-05
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

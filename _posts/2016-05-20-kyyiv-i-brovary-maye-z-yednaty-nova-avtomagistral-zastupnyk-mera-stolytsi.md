@@ -1,6 +1,9 @@
 ---
 title: "Київ і Бровари має з’єднати нова автомагістраль – заступник мера столиці"
 date: 2016-05-20
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

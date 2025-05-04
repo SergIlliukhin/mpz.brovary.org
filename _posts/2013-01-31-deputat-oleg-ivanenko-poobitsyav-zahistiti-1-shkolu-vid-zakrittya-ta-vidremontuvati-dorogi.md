@@ -1,6 +1,9 @@
 ---
 title: "Депутат Олег Іваненко пообіцяв захистити 1 школу від закриття та відремонтувати дороги"
 date: 2013-01-31
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 tags: 
   - "ivanenko"
   - "brovary"

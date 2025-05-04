@@ -1,6 +1,9 @@
 ---
 title: "У броварської ОВК новий голова - уже четвертий: Юліан Волошин"
 date: 2012-09-26
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "bratstvo"
   - "brovary"

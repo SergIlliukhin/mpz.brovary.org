@@ -1,6 +1,9 @@
 ---
 title: "Толока «по-сусідськи», або Як броварчани святково провели «День сусіда»"
 date: 2015-03-24
+author: 
+  username: "simutin"
+  display_name: "Роман Сімутін"
 categories: 
   - "kolonka-avtora"
 ---

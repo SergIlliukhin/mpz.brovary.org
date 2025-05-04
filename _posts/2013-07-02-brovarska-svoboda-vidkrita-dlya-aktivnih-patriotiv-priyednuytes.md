@@ -1,6 +1,9 @@
 ---
 title: "Броварська \"Свобода\" відкрита для активних патріотів. Приєднуйтесь!"
 date: 2013-07-02
+author: 
+  username: "svoboda"
+  display_name: "Прес-служба ВО Свобода"
 categories: 
   - "kolonka-avtora"
 tags: 

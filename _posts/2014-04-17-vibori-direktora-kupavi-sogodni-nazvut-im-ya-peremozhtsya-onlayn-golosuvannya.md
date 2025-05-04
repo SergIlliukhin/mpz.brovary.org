@@ -1,6 +1,9 @@
 ---
 title: "«Вибори» директора «Купави»: сьогодні назвуть ім’я переможця онлайн-голосування"
 date: 2014-04-17
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "announce"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Держслужбовець у Броварах викрав авто у колишньої жінки?"
 date: 2017-08-07
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

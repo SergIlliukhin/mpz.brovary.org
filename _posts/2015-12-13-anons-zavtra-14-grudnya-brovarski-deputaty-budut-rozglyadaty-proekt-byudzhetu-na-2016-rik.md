@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: Завтра, 14 грудня, броварські депутати будуть розглядати проект бюджету на 2016 рік"
 date: 2015-12-13
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

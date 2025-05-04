@@ -1,6 +1,9 @@
 ---
 title: "Скільки коштуватиме батькам естетичне виховання дитини?"
 date: 2016-07-08
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

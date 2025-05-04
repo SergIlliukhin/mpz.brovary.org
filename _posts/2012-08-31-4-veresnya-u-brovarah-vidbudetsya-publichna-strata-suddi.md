@@ -1,6 +1,9 @@
 ---
 title: "4 вересня у Броварах відбудеться публічна страта судді"
 date: 2012-08-31
+author: 
+  username: "kohanivsky"
+  display_name: "Микола Коханівський"
 categories: 
   - "announce"
   - "kolonka-avtora"

@@ -1,6 +1,9 @@
 ---
 title: "За відчуження 95 гектарів броварської землі екс-чиновнику Держземагенства загрожує тюрма"
 date: 2016-07-06
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "hromada"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "На Бровари насувається гонконзський грип, але поки що ситуація контрольована"
 date: 2016-11-28
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

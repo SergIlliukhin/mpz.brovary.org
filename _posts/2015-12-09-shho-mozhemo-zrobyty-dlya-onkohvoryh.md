@@ -1,6 +1,9 @@
 ---
 title: "Що ми можемо зробити для онкохворих?"
 date: 2015-12-09
+author: 
+  username: "simutin"
+  display_name: "Роман Сімутін"
 categories: 
   - "kolonka-avtora"
 ---

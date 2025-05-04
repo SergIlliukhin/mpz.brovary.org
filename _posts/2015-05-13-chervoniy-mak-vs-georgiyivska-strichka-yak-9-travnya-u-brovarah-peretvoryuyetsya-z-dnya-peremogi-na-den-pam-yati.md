@@ -1,6 +1,9 @@
 ---
 title: "Червоний мак VS георгіївська стрічка: як «День перемоги» у Броварах перетворюється на «День пам’яті»"
 date: 2015-05-13
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "brovary"
 tags: 

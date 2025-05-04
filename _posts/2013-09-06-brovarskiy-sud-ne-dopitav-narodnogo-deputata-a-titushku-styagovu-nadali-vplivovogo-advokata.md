@@ -1,6 +1,9 @@
 ---
 title: "Броварський суд не допитав народного депутата, а «тітушку»-Стягову надали впливового адвоката"
 date: 2013-09-06
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"
   - "kichinska"

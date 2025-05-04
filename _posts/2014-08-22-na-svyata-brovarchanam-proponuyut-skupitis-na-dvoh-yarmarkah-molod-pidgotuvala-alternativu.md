@@ -1,6 +1,9 @@
 ---
 title: "На свята броварчанам пропонують скупитись на двох ярмарках. Молодь підготувала альтернативу"
 date: 2014-08-22
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

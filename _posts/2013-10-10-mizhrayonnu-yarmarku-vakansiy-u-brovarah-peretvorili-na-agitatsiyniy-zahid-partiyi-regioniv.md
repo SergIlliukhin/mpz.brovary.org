@@ -1,6 +1,9 @@
 ---
 title: "Міжрайонну ярмарку вакансій у Броварах перетворили на агітаційний захід Партії регіонів"
 date: 2013-10-10
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "adminresurs"
   - "viter"

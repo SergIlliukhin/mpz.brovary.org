@@ -1,6 +1,9 @@
 ---
 title: "Ми обурені жорстоким побиттям журналістки Тетяни Чорновол та вимагаємо справедливості!"
 date: 2013-12-25
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"
   - "zhurnalist"

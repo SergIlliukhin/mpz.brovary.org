@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 10 червня відбудеться благодійний ярмарок «Мамин Хенд Мейд #3»"
 date: 2017-06-08
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

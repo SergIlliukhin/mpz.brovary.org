@@ -1,6 +1,9 @@
 ---
 title: "Надмір емоцій перетворив публічне обговорення Генплану Броварів у неконструктивний діалог"
 date: 2014-06-18
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 tags: 
   - "vibir-redaktsiyi"
   - "genplan"

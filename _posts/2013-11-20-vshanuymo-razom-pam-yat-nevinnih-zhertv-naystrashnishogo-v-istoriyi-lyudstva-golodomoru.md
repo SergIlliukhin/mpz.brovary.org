@@ -1,6 +1,9 @@
 ---
 title: "Вшануймо разом пам'ять невинних жертв найстрашнішого в історії людства Голодомору"
 date: 2013-11-20
+author: 
+  username: "udar"
+  display_name: "УДАР"
 categories: 
   - "kolonka-avtora"
 tags: 

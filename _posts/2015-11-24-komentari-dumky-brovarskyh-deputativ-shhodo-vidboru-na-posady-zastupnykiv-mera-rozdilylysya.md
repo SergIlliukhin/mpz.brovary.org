@@ -1,6 +1,9 @@
 ---
 title: "Коментарі: Думки броварських депутатів щодо відбору на посади заступників мера розділилися"
 date: 2015-11-24
+author: 
+  username: "komarovskyj"
+  display_name: "Комаровський Олексій"
 categories: 
   - "vlada"
   - "novyny"

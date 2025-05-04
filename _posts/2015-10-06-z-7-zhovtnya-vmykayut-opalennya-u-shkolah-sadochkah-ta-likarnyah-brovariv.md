@@ -1,6 +1,9 @@
 ---
 title: "З 7 жовтня вмикають опалення у школах, садочках та лікарнях Броварів"
 date: 2015-10-06
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

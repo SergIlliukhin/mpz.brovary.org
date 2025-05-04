@@ -1,6 +1,9 @@
 ---
 title: "Спартанський стрітбол в Броварах"
 date: 2015-07-30
+author: 
+  username: "mobi"
+  display_name: "Марина Рубайло"
 categories: 
   - "kolonka-avtora"
 ---

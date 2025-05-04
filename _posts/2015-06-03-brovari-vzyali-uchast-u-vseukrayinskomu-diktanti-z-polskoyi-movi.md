@@ -1,6 +1,9 @@
 ---
 title: "Бровари взяли участь у всеукраїнському диктанті з польської мови"
 date: 2015-06-03
+author: 
+  username: "rodzina"
+  display_name: ""Родина""
 categories: 
   - "kolonka-avtora"
 tags: 

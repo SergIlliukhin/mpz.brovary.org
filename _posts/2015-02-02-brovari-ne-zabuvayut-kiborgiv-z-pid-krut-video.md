@@ -1,6 +1,9 @@
 ---
 title: "Бровари не забувають «кіборгів» з-під Крут - ВІДЕО"
 date: 2015-02-02
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

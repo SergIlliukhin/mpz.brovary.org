@@ -1,6 +1,9 @@
 ---
 title: "На змагання з велотріалу в Броварах з’їхались учасники з усієї країни"
 date: 2014-08-08
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "vibir-redaktsiyi"
   - "novini"

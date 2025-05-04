@@ -1,6 +1,9 @@
 ---
 title: "На підтримку свого виробника: у Броварах з’являться  МАФи броварського хлібзаводу?"
 date: 2017-07-11
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

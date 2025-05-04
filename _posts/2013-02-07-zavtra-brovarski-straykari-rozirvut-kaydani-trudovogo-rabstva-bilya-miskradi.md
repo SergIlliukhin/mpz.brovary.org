@@ -1,6 +1,9 @@
 ---
 title: "Завтра броварські страйкарі розірвуть „кайдани трудового рабства” біля міськради"
 date: 2013-02-07
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Хто з міських очільників найзаможніший: аналіз декларацій про доходи у 2012 році"
 date: 2013-06-04
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 categories: 
   - "rozsliduvannya"
 tags: 

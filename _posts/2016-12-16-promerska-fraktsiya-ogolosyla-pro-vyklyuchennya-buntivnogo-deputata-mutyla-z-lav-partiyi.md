@@ -1,6 +1,9 @@
 ---
 title: "Промерська фракція оголосила про виключення \"бунтівного\" депутата Мутила з лав партії"
 date: 2016-12-16
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "vlada"
   - "novyny"

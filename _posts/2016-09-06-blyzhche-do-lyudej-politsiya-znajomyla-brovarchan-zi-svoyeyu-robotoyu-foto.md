@@ -1,6 +1,9 @@
 ---
 title: "Ближче до людей: поліція знайомила броварчан зі своєю роботою - ФОТО"
 date: 2016-09-06
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

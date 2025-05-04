@@ -1,6 +1,9 @@
 ---
 title: "Влада хоче змінити статус гуртожитку по вул.Шевченка, 12-А"
 date: 2012-10-31
+author: 
+  username: "nemchina"
+  display_name: "Тетяна Немчина"
 categories: 
   - "kolonka-avtora"
 tags: 

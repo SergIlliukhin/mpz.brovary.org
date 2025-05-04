@@ -1,6 +1,9 @@
 ---
 title: "На Броварському КПП звели посилений блокпост"
 date: 2015-02-09
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "blokpost"
   - "brovary"

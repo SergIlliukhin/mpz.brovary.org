@@ -1,6 +1,9 @@
 ---
 title: "«Самопоміч» відкрила можливий список кандидатів на місцевих виборах у Броварах"
 date: 2015-08-31
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "hromada"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Прокуратура підозрює головного броварського анестезіолога в смерті пацієнта"
 date: 2016-10-24
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

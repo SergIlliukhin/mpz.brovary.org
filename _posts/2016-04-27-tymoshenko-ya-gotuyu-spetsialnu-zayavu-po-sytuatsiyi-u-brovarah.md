@@ -1,6 +1,9 @@
 ---
 title: "Тимошенко: «Я готую спеціальну заяву по ситуації у Броварах»"
 date: 2016-04-27
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "aktsiyi-zahodi"

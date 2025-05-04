@@ -1,6 +1,9 @@
 ---
 title: "Читачі \"МПЗ\" вважають, що Ратніков відтягував голоси на виборах, а страйкарям бракує юристів"
 date: 2013-03-13
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "mayesh-pravo-znati"
   - "novini"

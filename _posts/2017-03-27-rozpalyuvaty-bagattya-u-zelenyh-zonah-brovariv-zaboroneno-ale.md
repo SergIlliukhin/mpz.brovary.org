@@ -1,6 +1,9 @@
 ---
 title: "Розпалювати багаття у зелених зонах Броварів заборонено. Але..."
 date: 2017-03-27
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

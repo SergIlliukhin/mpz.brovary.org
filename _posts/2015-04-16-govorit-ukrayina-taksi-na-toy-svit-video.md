@@ -1,6 +1,9 @@
 ---
 title: "\"Говорить Україна\": Таксі на той світ - ВІДЕО"
 date: 2015-04-16
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

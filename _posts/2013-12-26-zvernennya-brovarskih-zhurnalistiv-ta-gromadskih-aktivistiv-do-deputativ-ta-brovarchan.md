@@ -1,6 +1,9 @@
 ---
 title: "Звернення броварських журналістів та активістів до депутатів та броварчан"
 date: 2013-12-26
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 ---

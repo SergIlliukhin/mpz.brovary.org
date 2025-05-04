@@ -1,6 +1,9 @@
 ---
 title: "Диктант національної єдності у Броварах перетворився на урок краєзнавства"
 date: 2013-11-12
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "brovary"
   - "brovaryi"

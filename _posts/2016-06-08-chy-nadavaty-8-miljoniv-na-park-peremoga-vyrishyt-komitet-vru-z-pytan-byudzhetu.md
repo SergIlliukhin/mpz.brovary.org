@@ -1,6 +1,9 @@
 ---
 title: "Чи надавати 8 мільйонів на парк «Перемога», вирішить Комітет ВРУ з питань бюджету"
 date: 2016-06-08
+author: 
+  username: "pavriz"
+  display_name: "Павло Різаненко"
 categories: 
   - "kolonka-avtora"
 tags: 

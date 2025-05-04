@@ -1,6 +1,9 @@
 ---
 title: "Будівництво доріг-2017: багаторічна Київська, \"Алея кохання\", асфальтування вулиць приватного сектору"
 date: 2017-03-22
+author: 
+  username: "tkachuk"
+  display_name: "Вікторія Ткачук"
 categories: 
   - "rozsliduvannya"
   - "vlada"

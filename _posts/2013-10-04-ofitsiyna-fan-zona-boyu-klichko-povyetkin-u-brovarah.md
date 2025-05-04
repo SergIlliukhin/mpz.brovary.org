@@ -1,6 +1,9 @@
 ---
 title: "Офіційна фан-зона бою «Кличко-Повєткін» у Броварах!"
 date: 2013-10-04
+author: 
+  username: "udar"
+  display_name: "УДАР"
 categories: 
   - "kolonka-avtora"
 tags: 

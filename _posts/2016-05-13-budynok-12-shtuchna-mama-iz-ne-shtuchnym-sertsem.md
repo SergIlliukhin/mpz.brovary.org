@@ -1,6 +1,9 @@
 ---
 title: "Будинок №12. Сім'ї бувають різними. «Штучна» мама зі справжнім серцем."
 date: 2016-05-13
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "hromada"
   - "brovary"

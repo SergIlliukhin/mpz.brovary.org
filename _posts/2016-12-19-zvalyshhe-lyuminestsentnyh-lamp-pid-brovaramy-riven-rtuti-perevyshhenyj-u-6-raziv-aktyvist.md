@@ -1,6 +1,9 @@
 ---
 title: "Звалище люмінесцентних ламп під Броварами: рівень ртуті перевищений у 6 разів – ФОТО"
 date: 2016-12-19
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

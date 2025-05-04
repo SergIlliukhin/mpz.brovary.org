@@ -1,6 +1,9 @@
 ---
 title: "У Броварах намагаються повернути старі назви двом вулицям"
 date: 2016-11-28
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "vlada"
   - "novyny"

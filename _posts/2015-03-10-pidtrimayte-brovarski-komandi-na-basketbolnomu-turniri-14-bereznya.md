@@ -1,6 +1,9 @@
 ---
 title: "Підтримайте броварські команди на баскетбольному турнірі 14 березня"
 date: 2015-03-10
+author: 
+  username: "mobi"
+  display_name: "Марина Рубайло"
 categories: 
   - "announce"
   - "kolonka-avtora"

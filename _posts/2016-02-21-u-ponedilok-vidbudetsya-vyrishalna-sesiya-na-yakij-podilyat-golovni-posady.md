@@ -1,6 +1,9 @@
 ---
 title: "Завтра - вирішальна сесія, на якій поділять головні посади"
 date: 2016-02-21
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Проблема броварського «порошкового» заводу вийшла на рівень Верховної Ради"
 date: 2014-07-21
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "vibir-redaktsiyi"
   - "novini"

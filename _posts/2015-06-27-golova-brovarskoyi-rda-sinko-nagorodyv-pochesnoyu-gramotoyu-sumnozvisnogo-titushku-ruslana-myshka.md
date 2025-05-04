@@ -1,6 +1,9 @@
 ---
 title: "Голова Броварської РДА Сінько урочисто нагородив сумнозвісного «тітушку» Руслана Мишка"
 date: 2015-06-27
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

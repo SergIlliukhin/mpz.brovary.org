@@ -1,6 +1,9 @@
 ---
 title: "Дорога в нікуди"
 date: 2015-09-16
+author: 
+  username: "vetrinskiy"
+  display_name: "Юрій Ветринський"
 categories: 
   - "kolonka-avtora"
 ---

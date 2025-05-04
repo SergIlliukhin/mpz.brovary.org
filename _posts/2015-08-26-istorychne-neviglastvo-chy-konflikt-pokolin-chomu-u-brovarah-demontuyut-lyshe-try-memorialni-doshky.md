@@ -1,6 +1,9 @@
 ---
 title: "Історичне невігластво чи конфлікт поколінь: чому у Броварах демонтують лише три меморіальні дошки?"
 date: 2015-08-26
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "vlada"
   - "aktsiyi-zahodi"

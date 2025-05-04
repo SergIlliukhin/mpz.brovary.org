@@ -1,6 +1,9 @@
 ---
 title: "Велосипедні Бровари: статистика велоруху весною та восени 2015 року"
 date: 2015-10-09
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "hromada"
   - "novyny"

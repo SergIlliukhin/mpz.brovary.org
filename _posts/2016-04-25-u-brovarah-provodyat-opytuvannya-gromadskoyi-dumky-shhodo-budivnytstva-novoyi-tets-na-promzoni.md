@@ -1,6 +1,9 @@
 ---
 title: "У Броварах проводять опитування громадської думки щодо будівництва нової ТЕЦ на Промзоні"
 date: 2016-04-25
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

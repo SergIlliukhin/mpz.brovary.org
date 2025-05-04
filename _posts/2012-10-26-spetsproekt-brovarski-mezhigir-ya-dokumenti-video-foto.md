@@ -1,6 +1,9 @@
 ---
 title: "Спецпроект «Наступу»: Броварські «Межигір’я» (документи, відео, фото)"
 date: 2012-10-26
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "rozsliduvannya"
 tags: 

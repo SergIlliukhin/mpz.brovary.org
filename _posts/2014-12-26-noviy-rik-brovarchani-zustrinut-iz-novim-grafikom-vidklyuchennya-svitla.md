@@ -1,6 +1,9 @@
 ---
 title: "Новий рік броварчани зустрінуть із новим графіком відключення світла"
 date: 2014-12-26
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 tags: 
   - "brovary"
   - "vidklyuchennya-elektroenergiyi"

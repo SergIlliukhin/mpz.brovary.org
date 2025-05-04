@@ -1,6 +1,9 @@
 ---
 title: "Децентралізація ще не завершена: влада активізує процес утворення ОТГ"
 date: 2017-02-16
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Е-декларації броварських депутатів: остання частина. Троє проігнорували декларування"
 date: 2017-05-30
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "rozsliduvannya"
   - "vlada"

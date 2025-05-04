@@ -1,6 +1,9 @@
 ---
 title: "Гальмуючи роботу Штабу по генплану, влада загнала себе у глухий кут"
 date: 2015-05-20
+author: 
+  username: "nikitchina"
+  display_name: "Ірина Нікітчина"
 categories: 
   - "kolonka-avtora"
 tags: 

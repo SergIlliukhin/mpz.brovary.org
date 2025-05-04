@@ -1,6 +1,9 @@
 ---
 title: "Маршрутка №9 змінює схему свого руху"
 date: 2016-09-16
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

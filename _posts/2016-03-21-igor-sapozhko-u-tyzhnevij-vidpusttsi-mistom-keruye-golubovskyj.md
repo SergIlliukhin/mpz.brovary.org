@@ -1,6 +1,9 @@
 ---
 title: "Ігор Сапожко у тижневій відпустці, містом керує Голубовський"
 date: 2016-03-21
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

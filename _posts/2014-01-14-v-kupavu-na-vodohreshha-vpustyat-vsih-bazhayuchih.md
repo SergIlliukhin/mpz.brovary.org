@@ -1,6 +1,9 @@
 ---
 title: "У «Купаву» на Водохреща обіцяють впустити всіх бажаючих"
 date: 2014-01-14
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "baseyn"
   - "brovary"

@@ -1,6 +1,9 @@
 ---
 title: "Мер Сапожко балотуватиметься в парламент від партії Ляшка?"
 date: 2014-09-11
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

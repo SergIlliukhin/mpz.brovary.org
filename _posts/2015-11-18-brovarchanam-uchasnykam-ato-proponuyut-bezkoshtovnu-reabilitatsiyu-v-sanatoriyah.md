@@ -1,6 +1,9 @@
 ---
 title: "Броварчанам-учасникам АТО пропонують безкоштовну реабілітацію в санаторіях"
 date: 2015-11-18
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

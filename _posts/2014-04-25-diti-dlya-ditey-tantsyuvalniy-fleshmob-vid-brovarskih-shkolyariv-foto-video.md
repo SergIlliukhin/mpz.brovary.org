@@ -1,6 +1,9 @@
 ---
 title: "\"Діти для дітей\": танцювальний флешмоб від броварських школярів - ФОТО, ВІДЕО"
 date: 2014-04-25
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 categories: 
   - "video"
 tags: 

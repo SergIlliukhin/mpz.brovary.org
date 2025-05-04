@@ -1,6 +1,9 @@
 ---
 title: "Міліція звинувачує захисників парку «Перемога» у криміналі"
 date: 2013-06-04
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 tags: 
   - "vibir-redaktsiyi"
   - "goncharuk"

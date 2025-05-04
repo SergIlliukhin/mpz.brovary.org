@@ -1,6 +1,9 @@
 ---
 title: "У суботу – автопробіг вулицями міста та мирна протестна хода!"
 date: 2014-01-31
+author: 
+  username: "udar"
+  display_name: "УДАР"
 categories: 
   - "kolonka-avtora"
 ---

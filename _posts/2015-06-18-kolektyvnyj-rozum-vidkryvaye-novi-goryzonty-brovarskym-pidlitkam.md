@@ -1,6 +1,9 @@
 ---
 title: "\"Колективний розум\" відкриває нові горизонти броварським підліткам"
 date: 2015-06-18
+author: 
+  username: "samopomich"
+  display_name: "Самопоміч"
 categories: 
   - "kolonka-avtora"
 ---

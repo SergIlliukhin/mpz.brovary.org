@@ -1,6 +1,9 @@
 ---
 title: "Палити не можна - заборонити VS Палити - не можна заборонити"
 date: 2015-11-01
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "brovary"
   - "novyny"

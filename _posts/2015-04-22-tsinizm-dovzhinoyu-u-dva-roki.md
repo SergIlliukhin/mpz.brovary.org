@@ -1,6 +1,9 @@
 ---
 title: "Цинізм довжиною у два  роки"
 date: 2015-04-22
+author: 
+  username: "simutin"
+  display_name: "Роман Сімутін"
 categories: 
   - "kolonka-avtora"
 ---

@@ -1,6 +1,9 @@
 ---
 title: "Замість зупинки навпроти \"Терміналу\" броварчанам підсунули м'ясний кіоск \"П’ятачок\""
 date: 2013-04-26
+author: 
+  username: "serzhov"
+  display_name: "Сергій Севрук"
 tags: 
   - "pyatachok"
   - "brovary"

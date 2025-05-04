@@ -1,6 +1,9 @@
 ---
 title: "Навіщо влада наражає людей на небезпеку?"
 date: 2013-03-20
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "kolonka-avtora"
 tags: 

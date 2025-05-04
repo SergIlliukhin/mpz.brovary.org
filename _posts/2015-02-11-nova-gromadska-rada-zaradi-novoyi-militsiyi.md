@@ -1,6 +1,9 @@
 ---
 title: "Нова громадська рада - заради нової міліції"
 date: 2015-02-11
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Броварських вояків нагородили у міськраді - ФОТО"
 date: 2017-03-28
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

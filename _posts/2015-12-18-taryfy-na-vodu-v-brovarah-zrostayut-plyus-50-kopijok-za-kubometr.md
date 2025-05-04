@@ -1,6 +1,9 @@
 ---
 title: "Тарифи на воду в Броварах зростають: плюс 50 копійок за кубометр"
 date: 2015-12-18
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

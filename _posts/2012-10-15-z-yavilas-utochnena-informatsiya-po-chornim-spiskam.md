@@ -1,6 +1,9 @@
 ---
 title: "З'явилась уточнена інформація по Чорним спискам"
 date: 2012-10-15
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 ---

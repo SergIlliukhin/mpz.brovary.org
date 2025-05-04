@@ -1,6 +1,9 @@
 ---
 title: "Гаражний конфлікт: меморандум про порозуміння сподіваються підписати вже 10 березня"
 date: 2017-03-06
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

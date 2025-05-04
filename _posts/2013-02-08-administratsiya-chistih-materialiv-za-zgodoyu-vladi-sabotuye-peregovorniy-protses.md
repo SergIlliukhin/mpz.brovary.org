@@ -1,6 +1,9 @@
 ---
 title: "Адміністрація «Чистих матеріалів» за згодою влади саботує переговорний процес?"
 date: 2013-02-08
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 tags: 
   - "andryeyev"
   - "bmr"

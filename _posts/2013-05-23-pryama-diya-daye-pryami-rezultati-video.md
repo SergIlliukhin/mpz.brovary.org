@@ -1,6 +1,9 @@
 ---
 title: "Пряма дія дає прямі результати! ВІДЕО"
 date: 2013-05-23
+author: 
+  username: "udar"
+  display_name: "УДАР"
 categories: 
   - "kolonka-avtora"
   - "video"

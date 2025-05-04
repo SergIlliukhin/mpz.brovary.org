@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 11 квітня активісти саджатимуть дерева, шукають добровольців"
 date: 2017-04-10
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

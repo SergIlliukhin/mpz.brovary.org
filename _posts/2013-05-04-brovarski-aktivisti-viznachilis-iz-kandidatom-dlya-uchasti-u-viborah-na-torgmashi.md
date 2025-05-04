@@ -1,6 +1,9 @@
 ---
 title: "Броварські активісти визначились із кандидатом для участі у виборах на Торгмаші"
 date: 2013-05-04
+author: 
+  username: "demalliance"
+  display_name: "ДемАльянс Бровари"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "У Броварах на прикладі ОСББ на Декабристів, 44 вчили, як ефективно управляти будинком"
 date: 2015-07-22
+author: 
+  username: "komarovskyj"
+  display_name: "Комаровський Олексій"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

@@ -1,6 +1,9 @@
 ---
 title: "З лопатами у руках броварчани вийшли на захист своєї багатоповерхівки на вул. Грушевського"
 date: 2012-09-17
+author: 
+  username: "serzhov"
+  display_name: "Сергій Севрук"
 tags: 
   - "brovary"
   - "budivnitstvo-dityachogo-kafe"

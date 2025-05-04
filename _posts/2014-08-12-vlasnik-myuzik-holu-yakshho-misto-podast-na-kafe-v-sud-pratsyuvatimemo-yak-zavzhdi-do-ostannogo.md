@@ -1,6 +1,9 @@
 ---
 title: "Власник «Мюзік Холу»: «Якщо місто подасть на кафе в суд – працюватимемо, як завжди. До останнього»"
 date: 2014-08-12
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 ---

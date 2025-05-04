@@ -1,6 +1,9 @@
 ---
 title: "У скільки обійшлися батькам випускні в броварських дитсадках?"
 date: 2016-06-01
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

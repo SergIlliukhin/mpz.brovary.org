@@ -1,6 +1,9 @@
 ---
 title: "Бійка на Чорновола: троє молодиків напали на подружжя у весільному салоні - ФОТО, ВІДЕО"
 date: 2015-08-14
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

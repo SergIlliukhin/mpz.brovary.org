@@ -1,6 +1,9 @@
 ---
 title: "У Броварах скасували «комендантську годину» для 16-річних підлітків"
 date: 2014-05-27
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "brovarska-miska-rada"
   - "vibir-redaktsiyi"

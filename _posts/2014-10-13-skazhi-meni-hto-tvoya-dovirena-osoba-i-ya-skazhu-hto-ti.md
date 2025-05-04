@@ -1,6 +1,9 @@
 ---
 title: "Скажи мені хто твоя довірена особа, і я скажу хто ти"
 date: 2014-10-13
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "rozsliduvannya"
 tags: 

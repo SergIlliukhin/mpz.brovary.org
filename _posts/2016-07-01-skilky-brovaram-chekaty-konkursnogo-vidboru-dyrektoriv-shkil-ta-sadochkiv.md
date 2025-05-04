@@ -1,6 +1,9 @@
 ---
 title: "Скільки Броварам чекати конкурсного відбору директорів шкіл та садочків?"
 date: 2016-07-01
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

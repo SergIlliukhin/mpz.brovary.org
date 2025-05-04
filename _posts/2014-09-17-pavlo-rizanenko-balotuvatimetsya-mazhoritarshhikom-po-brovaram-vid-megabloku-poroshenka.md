@@ -1,6 +1,9 @@
 ---
 title: "Павло Різаненко балотуватиметься в окрузі №97 від мегаблоку Порошенка"
 date: 2014-09-17
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

@@ -1,6 +1,9 @@
 ---
 title: "Заклик до України!"
 date: 2013-06-14
+author: 
+  username: "svoboda"
+  display_name: "Прес-служба ВО Свобода"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Броварчани мають відновити меморіал Небесній сотні!"
 date: 2014-08-27
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

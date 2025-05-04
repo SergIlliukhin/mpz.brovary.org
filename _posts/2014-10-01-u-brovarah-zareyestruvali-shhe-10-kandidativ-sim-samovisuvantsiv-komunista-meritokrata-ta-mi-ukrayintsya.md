@@ -1,6 +1,9 @@
 ---
 title: "У Броварах зареєстрували ще 10 кандидатів: сім \"самовисуванців\", комуніста, мерітократа та \"ми-українця\""
 date: 2014-10-01
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

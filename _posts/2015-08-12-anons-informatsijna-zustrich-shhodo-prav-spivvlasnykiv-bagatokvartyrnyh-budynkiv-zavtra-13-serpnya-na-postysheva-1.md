@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: Завтра на вул. Постишева, 1 розкажуть про права співвласників багатоквартирних будинків"
 date: 2015-08-12
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

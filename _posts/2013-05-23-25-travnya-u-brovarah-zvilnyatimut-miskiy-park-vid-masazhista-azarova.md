@@ -1,6 +1,9 @@
 ---
 title: "25 травня у Броварах звільнятимуть міський парк від масажиста Азарова"
 date: 2013-05-23
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

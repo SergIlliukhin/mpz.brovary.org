@@ -1,6 +1,9 @@
 ---
 title: "Сьогодні на \"земельній комісії\" говорили про самозахоплення ділянок і благодійні внески"
 date: 2015-12-08
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

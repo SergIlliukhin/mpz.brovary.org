@@ -1,6 +1,9 @@
 ---
 title: "Броварчани залишились без гарячої води через борги \"тепломережі\" перед \"облгазом\""
 date: 2012-04-18
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "brovariteplovodoenergiya"

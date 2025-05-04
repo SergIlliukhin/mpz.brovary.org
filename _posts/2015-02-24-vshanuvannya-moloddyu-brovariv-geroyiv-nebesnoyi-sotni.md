@@ -1,6 +1,9 @@
 ---
 title: "Броварська молодь вшанувала пам'ять героїв Небесної Сотні"
 date: 2015-02-24
+author: 
+  username: "annadrana"
+  display_name: "Драна Анна"
 categories: 
   - "aktsiyi-zahodi"
 tags: 

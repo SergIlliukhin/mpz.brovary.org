@@ -1,6 +1,9 @@
 ---
 title: "Семиполки: “Нет! произволу дельцов от ЖКХ и  местного самоуправления”"
 date: 2013-03-24
+author: 
+  username: "bruhov"
+  display_name: "Володимир Брюхов"
 categories: 
   - "kolonka-avtora"
 tags: 

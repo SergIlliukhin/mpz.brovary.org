@@ -1,6 +1,9 @@
 ---
 title: "Антикафе “88 Free Space” тимчасово закривається"
 date: 2016-11-17
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

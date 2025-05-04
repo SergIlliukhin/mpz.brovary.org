@@ -1,6 +1,9 @@
 ---
 title: "Журнал відвідувань сесій: як броварські депутати ходять на роботу"
 date: 2012-09-12
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 categories: 
   - "rozsliduvannya"
 tags: 

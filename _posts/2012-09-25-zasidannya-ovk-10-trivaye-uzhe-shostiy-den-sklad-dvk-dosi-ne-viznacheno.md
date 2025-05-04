@@ -1,6 +1,9 @@
 ---
 title: "Десяте засідання ОВК триває уже шостий день, склад ДВК досі не визначено"
 date: 2012-09-25
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

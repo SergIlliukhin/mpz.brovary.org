@@ -1,6 +1,9 @@
 ---
 title: "У випадку військових дій броварчанам радять рити «окопчики» і не розраховувати на сховища"
 date: 2014-04-07
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 categories: 
   - "kolonka-avtora"
 tags: 

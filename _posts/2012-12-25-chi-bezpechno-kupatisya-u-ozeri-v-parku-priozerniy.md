@@ -1,6 +1,9 @@
 ---
 title: "Чи безпечно купатися в озері у парку «Приозерний»?"
 date: 2012-12-25
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

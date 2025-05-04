@@ -1,6 +1,9 @@
 ---
 title: "У Броварах працівники міліції затримали серійних крадіїв велосипедів, - МВС"
 date: 2015-07-07
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

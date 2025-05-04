@@ -1,6 +1,9 @@
 ---
 title: "Броварські просвітяни запрошують на Тарасову толоку"
 date: 2013-07-31
+author: 
+  username: "sereda"
+  display_name: "Валерій Середа"
 categories: 
   - "kolonka-avtora"
 tags: 

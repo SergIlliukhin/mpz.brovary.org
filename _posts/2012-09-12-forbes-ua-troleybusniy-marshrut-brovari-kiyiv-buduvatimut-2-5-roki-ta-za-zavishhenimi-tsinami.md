@@ -1,6 +1,9 @@
 ---
 title: "Forbes.Ua: Тролейбусний маршрут Бровари-Київ будуватимуть 2,5 роки та за завищеними цінами"
 date: 2012-09-12
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "byudzhet"

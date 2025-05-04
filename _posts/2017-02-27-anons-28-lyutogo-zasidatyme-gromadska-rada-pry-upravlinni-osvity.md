@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 28 лютого засідатиме Громадська рада при управлінні освіти"
 date: 2017-02-27
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "hromada"

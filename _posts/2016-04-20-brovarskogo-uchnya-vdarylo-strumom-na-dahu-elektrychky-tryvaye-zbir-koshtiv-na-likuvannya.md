@@ -1,6 +1,9 @@
 ---
 title: "Броварського учня вдарило струмом на даху електрички: триває збір коштів на лікування"
 date: 2016-04-20
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Візит Азарова 20 жовтня: виводимо нападників та перешкоджальників «на чисту воду». ФОТО. ВІДЕО"
 date: 2012-12-13
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "kolonka-avtora"
 tags: 

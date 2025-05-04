@@ -1,6 +1,9 @@
 ---
 title: "Броварчани навідались до маєтку головного міського \"регіонала\" та сформували Народну Раду"
 date: 2014-02-17
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 categories: 
   - "aktsiyi-zahodi"
 tags: 

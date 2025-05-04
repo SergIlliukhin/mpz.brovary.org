@@ -1,6 +1,9 @@
 ---
 title: "Сальмонела під «венским» соусом, або історія про масове отруєння на весіллі з багатьма невідомими"
 date: 2013-07-16
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 categories: 
   - "rozsliduvannya"
 tags: 

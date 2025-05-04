@@ -1,6 +1,9 @@
 ---
 title: "Влада готувала зрежисований штурм та погром броварської мерії?"
 date: 2014-01-30
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "vibir-redaktsiyi"
   - "novini"

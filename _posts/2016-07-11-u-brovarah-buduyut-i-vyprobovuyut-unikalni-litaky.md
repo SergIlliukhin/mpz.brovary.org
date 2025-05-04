@@ -1,6 +1,9 @@
 ---
 title: "У Броварах будують і випробовують унікальні літаки"
 date: 2016-07-11
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

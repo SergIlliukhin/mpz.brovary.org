@@ -1,6 +1,9 @@
 ---
 title: "Броварчанину, побитому на Банковій, не надають належної медичної допомоги. Громада обурена"
 date: 2014-01-08
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

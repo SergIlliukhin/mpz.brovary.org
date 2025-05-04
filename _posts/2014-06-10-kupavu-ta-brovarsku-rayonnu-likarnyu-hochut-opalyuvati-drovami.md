@@ -1,6 +1,9 @@
 ---
 title: "«Купаву» та броварську районну лікарню хочуть опалювати дровами"
 date: 2014-06-10
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "alternativni-vidi-paliva"
   - "btsrl"

@@ -1,6 +1,9 @@
 ---
 title: "Сергій Лещенко: Різаненко єдиний узгоджений з Порошенком кандидат по мажоритарному округу"
 date: 2014-09-03
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"
   - "vibori"

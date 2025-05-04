@@ -1,6 +1,9 @@
 ---
 title: "На честь Запорожця у Броварах «застрелили» «Президента», «міського голову» та «губернатора»"
 date: 2013-09-11
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "aktsiyi-zahodi"
 tags: 

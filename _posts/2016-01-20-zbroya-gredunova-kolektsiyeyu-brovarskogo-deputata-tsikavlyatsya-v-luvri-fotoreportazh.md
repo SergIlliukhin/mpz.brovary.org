@@ -1,6 +1,9 @@
 ---
 title: "Зброя Гредунова: колекцією броварського депутата цікавляться в Луврі. ФОТОРЕПОРТАЖ"
 date: 2016-01-20
+author: 
+  username: "onikienko"
+  display_name: "Вікторія Оникієнко"
 categories: 
   - "interview"
   - "brovary"

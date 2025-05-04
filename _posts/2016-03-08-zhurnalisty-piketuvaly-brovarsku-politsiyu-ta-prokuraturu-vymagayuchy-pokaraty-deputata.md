@@ -1,6 +1,9 @@
 ---
 title: "Журналісти пікетували броварську поліцію та прокуратуру, вимагаючи покарати депутата"
 date: 2016-03-08
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "novyny"
   - "aktsiyi-zahodi"

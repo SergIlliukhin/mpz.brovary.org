@@ -1,6 +1,9 @@
 ---
 title: "Щоночі у вихідні спільні патрулі поліції та Нацгвардії охоронятимуть Бровари  – ФОТО"
 date: 2016-10-21
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

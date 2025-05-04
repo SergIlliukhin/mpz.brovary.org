@@ -1,6 +1,9 @@
 ---
 title: "Більшість мешканців Торгмашу не знає, хто балотується у їхньому окрузі до міськради + ВІДЕО"
 date: 2013-05-22
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 categories: 
   - "video"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Щоб відстояти права школярів броварчани принесуть завтра на сесію басейн"
 date: 2013-02-20
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

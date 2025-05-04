@@ -1,6 +1,9 @@
 ---
 title: "Вагою 2 кг і ціною 1 000 грн: Броварам презентували книгу про історію міста"
 date: 2016-03-23
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

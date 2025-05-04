@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: Збори громади щодо будівництва у ІІ мікрорайоні"
 date: 2017-05-31
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

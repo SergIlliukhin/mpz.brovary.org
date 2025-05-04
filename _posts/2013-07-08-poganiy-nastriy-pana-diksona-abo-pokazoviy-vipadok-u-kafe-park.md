@@ -1,6 +1,9 @@
 ---
 title: "Поганий настрій пана Діксона, або показовий випадок у кафе «Парк»"
 date: 2013-07-08
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 categories: 
   - "kolonka-avtora"
 tags: 

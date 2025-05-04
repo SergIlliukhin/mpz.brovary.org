@@ -1,6 +1,9 @@
 ---
 title: "13 вересня відбудеться 23 сесія Броварської міської ради"
 date: 2012-08-14
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

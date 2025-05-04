@@ -1,6 +1,9 @@
 ---
 title: "З-під \"Терміналу\" у Броварах вкрали іномарку Хюндай"
 date: 2015-09-14
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

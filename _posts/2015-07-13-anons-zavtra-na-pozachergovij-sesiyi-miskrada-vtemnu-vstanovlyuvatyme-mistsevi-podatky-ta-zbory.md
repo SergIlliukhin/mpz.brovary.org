@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: Завтра на позачерговій сесії міськрада \"втемну\" встановлюватиме місцеві податки та збори"
 date: 2015-07-13
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

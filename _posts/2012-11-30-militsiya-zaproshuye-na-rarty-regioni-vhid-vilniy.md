@@ -1,6 +1,9 @@
 ---
 title: "Міліція запрошує на рarty «Регіони».  Вхід вільний!"
 date: 2012-11-30
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

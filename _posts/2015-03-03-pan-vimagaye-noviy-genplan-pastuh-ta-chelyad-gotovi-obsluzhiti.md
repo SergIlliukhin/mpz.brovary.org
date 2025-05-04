@@ -1,6 +1,9 @@
 ---
 title: "Пан вимагає новий генплан: пастух та челядь готові обслужити"
 date: 2015-03-03
+author: 
+  username: "simutin"
+  display_name: "Роман Сімутін"
 categories: 
   - "kolonka-avtora"
 tags: 

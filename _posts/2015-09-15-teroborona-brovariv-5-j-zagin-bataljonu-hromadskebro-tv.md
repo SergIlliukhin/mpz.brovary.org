@@ -1,6 +1,9 @@
 ---
 title: "Тероборона Броварів. 5-й загін батальйону - HromadskeBro.tv"
 date: 2015-09-15
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

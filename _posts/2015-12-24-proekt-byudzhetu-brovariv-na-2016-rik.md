@@ -1,6 +1,9 @@
 ---
 title: "Проект бюджету Броварів на 2016 рік"
 date: 2015-12-24
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

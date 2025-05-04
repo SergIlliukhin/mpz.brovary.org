@@ -1,6 +1,9 @@
 ---
 title: "Перші підсумки паралельного підрахунку голосів у Броварах - від \"Самопомочі\""
 date: 2015-10-26
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

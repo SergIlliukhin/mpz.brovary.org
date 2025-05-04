@@ -1,6 +1,9 @@
 ---
 title: "Допоможи обрати найкращий концепт будівлі документ-сервісу \"ГОТОВО\" у Броварах"
 date: 2016-11-03
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

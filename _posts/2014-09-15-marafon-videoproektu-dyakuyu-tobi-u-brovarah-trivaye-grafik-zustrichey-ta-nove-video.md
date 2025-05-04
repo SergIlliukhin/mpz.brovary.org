@@ -1,6 +1,9 @@
 ---
 title: "Марафон відеопроекту \"Дякую тобі!\" у Броварах триває: графік зустрічей та нове відео"
 date: 2014-09-15
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "video"

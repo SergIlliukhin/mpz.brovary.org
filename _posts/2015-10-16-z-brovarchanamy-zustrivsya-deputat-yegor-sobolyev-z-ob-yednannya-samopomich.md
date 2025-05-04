@@ -1,6 +1,9 @@
 ---
 title: "З броварчанами зустрівся депутат Єгор Соболєв з \"Об'єднання \"Самопоміч\""
 date: 2015-10-16
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

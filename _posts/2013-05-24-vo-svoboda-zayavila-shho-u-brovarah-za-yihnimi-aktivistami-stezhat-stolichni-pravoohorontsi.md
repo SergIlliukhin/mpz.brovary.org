@@ -1,6 +1,9 @@
 ---
 title: "ВО «Свобода» заявила, що у Броварах за їхніми активістами стежать столичні правоохоронці"
 date: 2013-05-24
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 tags: 
   - "vibir-redaktsiyi"
   - "militsiya"

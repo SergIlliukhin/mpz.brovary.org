@@ -1,6 +1,9 @@
 ---
 title: "Як голосували Бровари - ФОТОРЕПОРТАЖ"
 date: 2014-10-26
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

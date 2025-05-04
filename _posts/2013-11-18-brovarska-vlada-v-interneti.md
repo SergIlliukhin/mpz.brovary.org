@@ -1,6 +1,9 @@
 ---
 title: "Броварська влада в Інтернеті: відсутність діалогу, брак оперативності, інформація не по суті"
 date: 2013-11-18
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 categories: 
   - "rozsliduvannya"
 tags: 

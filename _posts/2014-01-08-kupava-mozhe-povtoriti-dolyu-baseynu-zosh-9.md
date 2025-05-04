@@ -1,6 +1,9 @@
 ---
 title: "«Купава» може повторити долю басейну ЗОШ №9"
 date: 2014-01-08
+author: 
+  username: "udar"
+  display_name: "УДАР"
 categories: 
   - "kolonka-avtora"
 ---

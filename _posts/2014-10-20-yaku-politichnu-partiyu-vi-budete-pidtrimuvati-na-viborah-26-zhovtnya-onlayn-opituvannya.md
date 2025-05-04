@@ -1,6 +1,9 @@
 ---
 title: "Яку політичну партію ви будете підтримувати на виборах 26 жовтня? Онлайн-опитування"
 date: 2014-10-20
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "97-okrug"
   - "brovary"

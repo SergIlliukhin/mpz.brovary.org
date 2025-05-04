@@ -1,6 +1,9 @@
 ---
 title: "Після автопробігу протестувальники \"підсвітили\" броварський офіс Партії регіонів фаєрами"
 date: 2014-02-02
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 categories: 
   - "aktsiyi-zahodi"
 tags: 

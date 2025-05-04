@@ -1,6 +1,9 @@
 ---
 title: "Виконком зменшив з 13 до 10 кількість пільгових поїздок у приміських комунальних автобусах"
 date: 2013-01-17
+author: 
+  username: "serzhov"
+  display_name: "Сергій Севрук"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

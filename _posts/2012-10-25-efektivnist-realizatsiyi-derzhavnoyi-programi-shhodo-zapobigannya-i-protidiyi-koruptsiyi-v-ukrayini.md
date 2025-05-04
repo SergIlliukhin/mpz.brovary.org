@@ -1,6 +1,9 @@
 ---
 title: "Ефективність реалізації Державної програми щодо запобігання і протидії корупції в Україні"
 date: 2012-10-25
+author: 
+  username: "nemchina"
+  display_name: "Тетяна Немчина"
 categories: 
   - "kolonka-avtora"
 tags: 

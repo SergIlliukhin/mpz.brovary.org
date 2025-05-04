@@ -1,6 +1,9 @@
 ---
 title: "Гаряча вода у Броварах з'явиться не раніше жовтня, - чиновники"
 date: 2016-04-21
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

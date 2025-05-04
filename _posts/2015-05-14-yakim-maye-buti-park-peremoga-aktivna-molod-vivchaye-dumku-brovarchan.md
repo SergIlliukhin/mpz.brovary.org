@@ -1,6 +1,9 @@
 ---
 title: "Яким має бути парк «Перемога»: активна молодь вивчає думку броварчан"
 date: 2015-05-14
+author: 
+  username: "onikienko"
+  display_name: "Вікторія Оникієнко"
 categories: 
   - "hromada"
 tags: 

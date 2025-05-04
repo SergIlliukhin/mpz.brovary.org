@@ -1,6 +1,9 @@
 ---
 title: "Заява автора публікації “Хто міг замовити напад на Різаненка?”"
 date: 2012-02-13
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

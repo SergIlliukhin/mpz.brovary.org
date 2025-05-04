@@ -1,6 +1,9 @@
 ---
 title: "Сапожко запроваджує цензуру в Інтернеті?"
 date: 2012-10-10
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

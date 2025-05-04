@@ -1,6 +1,9 @@
 ---
 title: "Виконком, ЦНАП, \"Купава\", \"З турботою про кожного\", громадські формування: скільки ще потрібно грошей?"
 date: 2016-11-16
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "vlada"
   - "aktsiyi-zahodi"

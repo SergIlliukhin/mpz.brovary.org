@@ -1,6 +1,9 @@
 ---
 title: "У Броварах не вистачає присяжних судити кримінальні справи"
 date: 2016-09-13
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "rozsliduvannya"
   - "hromada"

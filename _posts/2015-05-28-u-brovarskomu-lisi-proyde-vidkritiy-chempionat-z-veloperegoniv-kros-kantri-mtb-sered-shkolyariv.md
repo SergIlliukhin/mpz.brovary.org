@@ -1,6 +1,9 @@
 ---
 title: "У броварському лісі пройде відкритий чемпіонат з велоперегонів крос-кантрі (МТБ) серед школярів"
 date: 2015-05-28
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "hromada"

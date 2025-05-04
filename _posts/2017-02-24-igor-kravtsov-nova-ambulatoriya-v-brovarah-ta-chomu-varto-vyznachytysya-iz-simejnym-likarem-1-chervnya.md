@@ -1,6 +1,9 @@
 ---
 title: "Ігор Кравцов: \"Нова амбулаторія в Броварах та чому варто визначитися із сімейним лікарем до 1 червня\""
 date: 2017-02-24
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Міська влада відмовилась обговорювати з громадою розмір податку на нерухомість"
 date: 2015-01-29
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "ivanenko"
   - "vibir-redaktsiyi"

@@ -1,6 +1,9 @@
 ---
 title: "Таблички зі старими назвами вулиць у Броварах демонтують вже наступного тижня"
 date: 2016-04-15
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

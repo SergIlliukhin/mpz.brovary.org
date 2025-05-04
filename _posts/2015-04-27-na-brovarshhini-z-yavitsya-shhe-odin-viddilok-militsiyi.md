@@ -1,6 +1,9 @@
 ---
 title: "На Броварщині з'явиться ще один відділок міліції?"
 date: 2015-04-27
+author: 
+  username: "gromradapolice"
+  display_name: "Громадська рада при міліції"
 categories: 
   - "kolonka-avtora"
   - "brovary"

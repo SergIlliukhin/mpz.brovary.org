@@ -1,6 +1,9 @@
 ---
 title: "Могилу видатного лікаря Ісаака Фельдмана обіцяють впорядкувати вже цієї весни"
 date: 2013-03-29
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 tags: 
   - "yevreyske-kladovishhe"
   - "vibir-redaktsiyi"

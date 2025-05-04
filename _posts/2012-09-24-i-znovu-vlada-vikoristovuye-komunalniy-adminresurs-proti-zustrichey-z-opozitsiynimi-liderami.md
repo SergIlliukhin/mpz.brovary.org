@@ -1,6 +1,9 @@
 ---
 title: "І знову влада використовує \"комунальний адмінресурс\" проти зустрічей з опозиційними лідерами"
 date: 2012-09-24
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 categories: 
   - "kolonka-avtora"
 tags: 

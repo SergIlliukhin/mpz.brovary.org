@@ -1,6 +1,9 @@
 ---
 title: "Свято Холі у Броварах: фарбую всіх, хто не сховався - ФОТО"
 date: 2017-06-19
+author: 
+  username: "krokos"
+  display_name: "Владислава Крокос"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

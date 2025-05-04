@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: У Броварах на \"Спартаку\" відбудеться турнір зі стрітболу \"Street Sparta\""
 date: 2015-07-22
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

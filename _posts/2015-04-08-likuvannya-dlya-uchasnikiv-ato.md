@@ -1,6 +1,9 @@
 ---
 title: "Лікування для учасників АТО"
 date: 2015-04-08
+author: 
+  username: "samopomich"
+  display_name: "Самопоміч"
 categories: 
   - "kolonka-avtora"
 tags: 

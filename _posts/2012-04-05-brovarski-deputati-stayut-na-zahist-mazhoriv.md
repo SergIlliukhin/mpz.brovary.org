@@ -1,6 +1,9 @@
 ---
 title: "Броварські депутати стають на захист мажорів. ВІДЕО"
 date: 2012-04-05
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Стадіон, ліцей, театр: штаб по розробці змін до генплану Броварів нарешті перейшов до суті"
 date: 2015-06-26
+author: 
+  username: "komarovskyj"
+  display_name: "Комаровський Олексій"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

@@ -1,6 +1,9 @@
 ---
 title: "Броварські \"свободівці\" подарували краєзнавчому музею портрет Романа Шухевича"
 date: 2013-07-04
+author: 
+  username: "svoboda"
+  display_name: "Прес-служба ВО Свобода"
 categories: 
   - "kolonka-avtora"
 tags: 

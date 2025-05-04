@@ -1,6 +1,9 @@
 ---
 title: "Волонтери вимагають більше місця для бійців АТО в лікарні. Броварські медики: \"Не за рахунок інших хворих\""
 date: 2015-11-23
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

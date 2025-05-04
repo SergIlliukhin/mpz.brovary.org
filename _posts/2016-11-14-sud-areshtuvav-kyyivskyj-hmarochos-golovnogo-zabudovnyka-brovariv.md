@@ -1,6 +1,9 @@
 ---
 title: "Суд арештував київський хмарочос головного забудовника Броварів"
 date: 2016-11-14
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

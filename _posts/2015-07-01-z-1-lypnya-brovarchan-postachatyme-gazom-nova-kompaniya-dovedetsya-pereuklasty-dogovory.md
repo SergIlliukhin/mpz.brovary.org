@@ -1,6 +1,9 @@
 ---
 title: "З 1 липня броварчанам постачатиме газ нова компанія. Доведеться переукласти договори"
 date: 2015-07-01
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

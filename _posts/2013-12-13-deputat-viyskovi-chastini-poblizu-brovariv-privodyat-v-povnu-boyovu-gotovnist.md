@@ -1,6 +1,9 @@
 ---
 title: "Депутат: Військові частини поблизу Броварів приводять в повну бойову готовність"
 date: 2013-12-13
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "armiya"
   - "boyova-gotovnist"

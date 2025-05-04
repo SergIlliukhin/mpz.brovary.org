@@ -1,6 +1,9 @@
 ---
 title: "У суботу зірки української естради приїдуть у Бровари на два благодійні концерти для армії"
 date: 2014-08-28
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

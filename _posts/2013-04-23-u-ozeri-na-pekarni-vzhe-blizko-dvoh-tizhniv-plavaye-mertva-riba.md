@@ -1,6 +1,9 @@
 ---
 title: "В озері на Пекарні вже близько двох тижнів плаває мертва риба"
 date: 2013-04-23
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 tags: 
   - "vibir-redaktsiyi"
   - "ekologiya"

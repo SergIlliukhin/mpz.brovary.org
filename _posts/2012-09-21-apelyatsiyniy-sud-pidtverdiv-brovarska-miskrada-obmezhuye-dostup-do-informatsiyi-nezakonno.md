@@ -1,6 +1,9 @@
 ---
 title: "Апеляційний суд підтвердив: броварська міськрада обмежує доступ до інформації незаконно"
 date: 2012-09-21
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "illyuhin"
   - "apelyatsiya"

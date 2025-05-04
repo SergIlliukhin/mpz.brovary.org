@@ -1,6 +1,9 @@
 ---
 title: "Психолог розповіла броварчанам, як тримати внутнішню рівновагу в цей складний для країни час"
 date: 2014-09-09
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 tags: 
   - "blagodiynist"
   - "brovary"

@@ -1,6 +1,9 @@
 ---
 title: "1TV: Броварчанин виграв навчання у Школі образотворчих мистецтв у Парижі"
 date: 2013-10-14
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

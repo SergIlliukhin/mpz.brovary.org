@@ -1,6 +1,9 @@
 ---
 title: "Броварчан закликають не купувати російське «зубатими матрьошками»"
 date: 2013-09-23
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "kolonka-avtora"
 tags: 

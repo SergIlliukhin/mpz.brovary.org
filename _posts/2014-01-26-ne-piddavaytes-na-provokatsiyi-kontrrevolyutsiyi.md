@@ -1,6 +1,9 @@
 ---
 title: "Не піддавайтесь на провокації контрреволюції!"
 date: 2014-01-26
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Напередодні Дня Конституції броварчанам розкажуть, як \"змінити майбутнє\""
 date: 2014-06-25
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

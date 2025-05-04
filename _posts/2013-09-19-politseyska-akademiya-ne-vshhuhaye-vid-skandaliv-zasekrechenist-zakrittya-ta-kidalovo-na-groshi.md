@@ -1,6 +1,9 @@
 ---
 title: "Поліцейська академія у Броварах залишилась без абітурієнтів та... студентів?"
 date: 2013-09-19
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "rozsliduvannya"
 tags: 

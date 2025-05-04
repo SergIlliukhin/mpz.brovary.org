@@ -1,6 +1,9 @@
 ---
 title: "Нові котельні доводять броварчан до кипіння: люди вимагають припинити \"травлю\" їдким димом"
 date: 2016-02-19
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

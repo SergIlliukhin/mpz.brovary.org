@@ -1,6 +1,9 @@
 ---
 title: "Оброблено 100% протоколів: Різаненко вдруге поспіль переміг на виборах у 97 окрузі"
 date: 2014-10-30
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

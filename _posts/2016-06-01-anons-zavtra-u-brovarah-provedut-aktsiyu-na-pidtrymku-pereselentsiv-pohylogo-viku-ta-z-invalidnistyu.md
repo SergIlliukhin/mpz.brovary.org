@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: Завтра у Броварах проведуть акцію на підтримку переселенців похилого віку та з інвалідністю"
 date: 2016-06-01
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

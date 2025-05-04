@@ -1,6 +1,9 @@
 ---
 title: "У Броварах стартував проект «5 вимог малого та середнього бізнесу до політиків і влади»"
 date: 2012-07-31
+author: 
+  username: "nemchina"
+  display_name: "Тетяна Немчина"
 categories: 
   - "kolonka-avtora"
 tags: 

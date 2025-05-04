@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 15-ту сесію міськради перенесли на 7 червня"
 date: 2016-06-01
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "vlada"

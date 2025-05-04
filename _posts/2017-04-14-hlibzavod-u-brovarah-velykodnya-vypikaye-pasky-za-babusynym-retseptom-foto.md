@@ -1,6 +1,9 @@
 ---
 title: "Хлібзавод у Броварах до Великодня випікає паски за «бабусиним» рецептом - ФОТО"
 date: 2017-04-14
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

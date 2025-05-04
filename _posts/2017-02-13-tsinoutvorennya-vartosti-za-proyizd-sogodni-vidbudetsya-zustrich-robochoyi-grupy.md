@@ -1,6 +1,9 @@
 ---
 title: "Ціноутворення вартості за проїзд: сьогодні відбудеться зустріч робочої групи"
 date: 2017-02-13
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

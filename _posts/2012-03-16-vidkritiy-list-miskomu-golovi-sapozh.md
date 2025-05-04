@@ -1,6 +1,9 @@
 ---
 title: "Відкритий лист міському голові Сапожку І.В."
 date: 2012-03-16
+author: 
+  username: "stretovich"
+  display_name: "Дмитро Стретович"
 categories: 
   - "kolonka-avtora"
 tags: 

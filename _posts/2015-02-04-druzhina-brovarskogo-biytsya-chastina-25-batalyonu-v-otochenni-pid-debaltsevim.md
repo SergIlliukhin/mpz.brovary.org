@@ -1,6 +1,9 @@
 ---
 title: "Дружина броварського бійця: частина 25 батальйону в оточенні під Дебальцевим"
 date: 2015-02-04
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "25-batalyon"
   - "brovarchani-na-fronti"

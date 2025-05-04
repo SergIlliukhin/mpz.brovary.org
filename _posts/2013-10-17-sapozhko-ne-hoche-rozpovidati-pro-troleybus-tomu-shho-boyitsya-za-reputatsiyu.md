@@ -1,6 +1,9 @@
 ---
 title: "Сапожко приховує інформацію про тролейбус, оскільки боїться за репутацію"
 date: 2013-10-17
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "illyuhin"
   - "viddil-kapitalnogo-budivnitstva"

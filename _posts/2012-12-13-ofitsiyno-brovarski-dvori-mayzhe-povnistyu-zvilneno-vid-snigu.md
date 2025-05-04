@@ -1,6 +1,9 @@
 ---
 title: "Офіційно: броварські двори майже повністю звільнено від снігу"
 date: 2012-12-13
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 ---

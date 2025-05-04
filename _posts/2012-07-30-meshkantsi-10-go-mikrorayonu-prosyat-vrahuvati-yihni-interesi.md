@@ -1,6 +1,9 @@
 ---
 title: "Мешканці 10-го мікрорайону подали владі свої пропозиції щодо нового детального плану території"
 date: 2012-07-30
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 tags: 
   - "vibir-redaktsiyi"
   - "gogolya"

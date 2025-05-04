@@ -1,6 +1,9 @@
 ---
 title: "2 вересня у парку «Перемога» відбудеться зустріч з «афганцем» Віктором Капшуком"
 date: 2012-08-31
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

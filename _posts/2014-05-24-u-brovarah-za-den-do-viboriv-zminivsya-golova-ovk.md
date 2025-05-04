@@ -1,6 +1,9 @@
 ---
 title: "У Броварах за день до виборів змінився голова ОВК"
 date: 2014-05-24
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

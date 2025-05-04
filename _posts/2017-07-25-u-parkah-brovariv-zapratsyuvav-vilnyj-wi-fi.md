@@ -1,6 +1,9 @@
 ---
 title: "У парках Броварів запрацював вільний Wi-Fi"
 date: 2017-07-25
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

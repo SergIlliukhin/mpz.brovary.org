@@ -1,6 +1,9 @@
 ---
 title: "Волонтери безкоштовно передають Броварам комплекс для прибирання за собаками"
 date: 2016-06-17
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

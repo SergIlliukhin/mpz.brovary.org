@@ -1,6 +1,9 @@
 ---
 title: "Броварській освіті теж потрібно півмільярда гривень"
 date: 2016-11-10
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "vlada"
   - "aktsiyi-zahodi"

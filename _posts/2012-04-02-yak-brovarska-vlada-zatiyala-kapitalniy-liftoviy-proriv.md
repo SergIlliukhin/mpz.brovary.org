@@ -1,6 +1,9 @@
 ---
 title: "Як броварська влада затіяла капітальний ліфтовий прорив"
 date: 2012-04-02
+author: 
+  username: "kravec"
+  display_name: "Юрій Кравець"
 categories: 
   - "kolonka-avtora"
 tags: 

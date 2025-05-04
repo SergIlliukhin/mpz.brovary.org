@@ -1,6 +1,9 @@
 ---
 title: "Для прокладання тролейбусу \"Бровари-Київ\" зріжуть ще 77 дерев"
 date: 2012-11-06
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 tags: 
   - "vibir-redaktsiyi"
   - "dereva"

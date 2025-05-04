@@ -1,6 +1,9 @@
 ---
 title: "10 чашок кави для УБД: двоє хлопців після повернення з АТО відкрили у Броварах кав’ярню"
 date: 2016-02-16
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "hromada"
   - "brovary"

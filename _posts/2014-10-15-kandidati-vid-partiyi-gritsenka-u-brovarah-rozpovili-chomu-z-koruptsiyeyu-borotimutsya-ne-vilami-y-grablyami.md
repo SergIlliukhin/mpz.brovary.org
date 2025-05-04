@@ -1,6 +1,9 @@
 ---
 title: "Кандидати від партії Гриценка у Броварах розповіли, чому з корупцією боротимуться не вилами"
 date: 2014-10-15
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 tags: 
   - "agitatsiya"
   - "brovary"

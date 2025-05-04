@@ -1,6 +1,9 @@
 ---
 title: "«Броварська ФЕДОРама» або як раб Божий Сергій вогонь благодатний діставав"
 date: 2012-04-30
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Податок на нерухомість: скільки мають платити броварчани?"
 date: 2015-01-14
+author: 
+  username: "simutin"
+  display_name: "Роман Сімутін"
 categories: 
   - "kolonka-avtora"
 tags: 

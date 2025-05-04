@@ -1,6 +1,9 @@
 ---
 title: "Втретє замість дитячого майданчика мешканці «хрущівок» отримали багатоповерхівку"
 date: 2012-05-22
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 tags: 
   - "brovary"
   - "brovaryi"

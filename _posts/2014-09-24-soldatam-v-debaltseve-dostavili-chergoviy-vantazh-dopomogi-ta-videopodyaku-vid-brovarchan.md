@@ -1,6 +1,9 @@
 ---
 title: "Солдатам в Дебальцеве доставили черговий вантаж допомоги та відеоподяку від броварчан"
 date: 2014-09-24
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "11-batalyon-teritorialnoyi-oboroni"
   - "25-batalyon"

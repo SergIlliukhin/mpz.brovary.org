@@ -1,6 +1,9 @@
 ---
 title: "\"Геть весняні артефакти!\": фотокампанія проти ям та калюж на броварських дорогах"
 date: 2013-04-03
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

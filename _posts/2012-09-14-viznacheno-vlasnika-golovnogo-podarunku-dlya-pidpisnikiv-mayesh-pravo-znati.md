@@ -1,6 +1,9 @@
 ---
 title: "Визначено власника головного подарунку для підписників \"Маєш право знати\""
 date: 2012-09-14
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "mayesh-pravo-znati"
   - "novini"

@@ -1,6 +1,9 @@
 ---
 title: "Стартувало громадське обговорення: у Броварах хочуть перейменувати три вулиці"
 date: 2016-07-01
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "hromada"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "РЕМ: У Броварах світло вимикатимуть у різні години протягом доби без попередження"
 date: 2014-12-03
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 tags: 
   - "brovary"
   - "brovarskiy-rem"

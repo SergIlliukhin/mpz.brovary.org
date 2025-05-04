@@ -1,6 +1,9 @@
 ---
 title: "Недобудова на Петлюри, 21-Б: депутати просять поліцію прискорити розслідування"
 date: 2017-07-07
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

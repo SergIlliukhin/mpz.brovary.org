@@ -1,6 +1,9 @@
 ---
 title: "Відеосюжет про акцію проти брехливої преси"
 date: 2012-03-05
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"
   - "video"

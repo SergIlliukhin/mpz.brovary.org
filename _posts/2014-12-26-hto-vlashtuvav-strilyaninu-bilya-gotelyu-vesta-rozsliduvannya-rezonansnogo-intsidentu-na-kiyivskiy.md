@@ -1,6 +1,9 @@
 ---
 title: "Хто влаштував стрілянину біля готелю «Веста»? Розслідування резонансного інциденту на Київський"
 date: 2014-12-26
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "rozsliduvannya"
 tags: 

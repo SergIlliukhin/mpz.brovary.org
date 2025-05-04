@@ -1,6 +1,9 @@
 ---
 title: "Доступ до Генплану за 10 тис грн: чи погодиться влада на новий варіант зняття грифу \"ДСК\"?"
 date: 2015-05-05
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

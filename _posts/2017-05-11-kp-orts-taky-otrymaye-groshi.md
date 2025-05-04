@@ -1,6 +1,9 @@
 ---
 title: "КП \"ОРЦ\" таки отримає гроші"
 date: 2017-05-11
+author: 
+  username: "mizina"
+  display_name: "Дарина Мізіна"
 categories: 
   - "vlada"
   - "novyny"

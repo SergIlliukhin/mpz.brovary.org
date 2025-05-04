@@ -1,6 +1,9 @@
 ---
 title: "Нападника на Андрія Качора спіймали у парку завдяки пильності броварчан - ВІДЕО"
 date: 2013-05-27
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

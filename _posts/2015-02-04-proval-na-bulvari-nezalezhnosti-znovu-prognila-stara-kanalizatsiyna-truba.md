@@ -1,6 +1,9 @@
 ---
 title: "Провал на бульварі Незалежності: знову прогнила стара каналізаційна труба"
 date: 2015-02-04
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

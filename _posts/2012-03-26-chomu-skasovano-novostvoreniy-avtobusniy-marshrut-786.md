@@ -1,6 +1,9 @@
 ---
 title: "Чому скасовано новостворений автобусний маршрут №786?"
 date: 2012-03-26
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 categories: 
   - "kolonka-avtora"
 tags: 

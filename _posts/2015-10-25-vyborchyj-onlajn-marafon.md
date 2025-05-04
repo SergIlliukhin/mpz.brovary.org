@@ -1,6 +1,9 @@
 ---
 title: "Онлайн-марафон \"День виборів\""
 date: 2015-10-25
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "aktsiyi-zahodi"

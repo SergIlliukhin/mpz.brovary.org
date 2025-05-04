@@ -1,6 +1,9 @@
 ---
 title: "Новонароджених можна реєструвати в Броварському пологовому будинку"
 date: 2016-07-27
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

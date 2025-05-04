@@ -1,6 +1,9 @@
 ---
 title: "В Броварській гімназії ім. С.І. Олійника призупинили навчання до кінця тижня"
 date: 2016-12-06
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Рятувати Землю – легко!"
 date: 2015-02-23
+author: 
+  username: "samopomich"
+  display_name: "Самопоміч"
 categories: 
   - "kolonka-avtora"
 tags: 

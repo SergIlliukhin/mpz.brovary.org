@@ -1,6 +1,9 @@
 ---
 title: "26 жовтня \"Наступ\" запрошує на Фестиваль політичного трагікомічного кіно"
 date: 2012-10-25
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

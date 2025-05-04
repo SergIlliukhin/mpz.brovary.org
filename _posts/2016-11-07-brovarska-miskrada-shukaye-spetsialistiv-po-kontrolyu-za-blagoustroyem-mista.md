@@ -1,6 +1,9 @@
 ---
 title: "Броварська міськрада шукає спеціалістів по контролю за благоустроєм міста"
 date: 2016-11-07
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

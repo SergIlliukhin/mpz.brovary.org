@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: Безкоштовно навчати броварчан німецької буде новий мовний клуб. Перше заняття - 8 червня"
 date: 2017-06-08
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

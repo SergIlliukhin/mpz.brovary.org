@@ -1,6 +1,9 @@
 ---
 title: "Завтра у Броварах відкриватимуть басейн \"Купава\" - після майже 7 років реконструкції"
 date: 2014-01-07
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "azarov"
   - "baseyn"

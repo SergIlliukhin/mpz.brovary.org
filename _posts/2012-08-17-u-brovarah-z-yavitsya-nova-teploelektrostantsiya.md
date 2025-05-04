@@ -1,6 +1,9 @@
 ---
 title: "У Броварах з’явиться нова теплоелектростанція?"
 date: 2012-08-17
+author: 
+  username: "zaharevych"
+  display_name: "Євген Захаревич"
 categories: 
   - "kolonka-avtora"
 tags: 

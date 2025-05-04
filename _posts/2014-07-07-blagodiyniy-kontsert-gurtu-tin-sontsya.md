@@ -1,6 +1,9 @@
 ---
 title: "Благодійний концерт гурту «Тінь Сонця» - для збору коштів броварським військовим"
 date: 2014-07-07
+author: 
+  username: "svoboda"
+  display_name: "Прес-служба ВО Свобода"
 categories: 
   - "announce"
   - "kolonka-avtora"

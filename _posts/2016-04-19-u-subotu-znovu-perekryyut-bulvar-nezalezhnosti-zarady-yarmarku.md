@@ -1,6 +1,9 @@
 ---
 title: "У суботу знову перекриють бульвар Незалежності заради ярмарку"
 date: 2016-04-19
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

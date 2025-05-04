@@ -1,6 +1,9 @@
 ---
 title: "Де-жавю у «Прометеї»: «Батьківщина» та Кищук переймають досвід Партії регіонів"
 date: 2014-09-29
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

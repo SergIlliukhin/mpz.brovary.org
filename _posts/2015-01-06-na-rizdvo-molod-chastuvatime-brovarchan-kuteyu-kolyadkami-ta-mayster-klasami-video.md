@@ -1,6 +1,9 @@
 ---
 title: "На Різдво молодь частуватиме броварчан кутею, колядками та майстер-класами - ВІДЕО"
 date: 2015-01-06
+author: 
+  username: "onikienko"
+  display_name: "Вікторія Оникієнко"
 categories: 
   - "announce"
 tags: 

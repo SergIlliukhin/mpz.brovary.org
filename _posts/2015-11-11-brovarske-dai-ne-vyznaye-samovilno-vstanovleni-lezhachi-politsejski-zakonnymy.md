@@ -1,6 +1,9 @@
 ---
 title: "Броварська ДАІ не визнає самовільно встановлені \"лежачі поліцейські\" законними"
 date: 2015-11-11
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

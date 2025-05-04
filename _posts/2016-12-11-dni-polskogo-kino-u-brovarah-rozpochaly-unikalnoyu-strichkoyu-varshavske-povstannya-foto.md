@@ -1,6 +1,9 @@
 ---
 title: "Дні польського кіно у Броварах розпочали унікальною стрічкою \"Варшавське повстання\" - ФОТО"
 date: 2016-12-11
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

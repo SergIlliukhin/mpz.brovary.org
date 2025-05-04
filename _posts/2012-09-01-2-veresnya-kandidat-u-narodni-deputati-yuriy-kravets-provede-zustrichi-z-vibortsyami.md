@@ -1,6 +1,9 @@
 ---
 title: "2 вересня кандидат у народні депутати Юрій Кравець проведе зустрічі з виборцями"
 date: 2012-09-01
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

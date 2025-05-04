@@ -1,6 +1,9 @@
 ---
 title: "Громадська рада при освіті проголосувала за \"стабільність та добробут\""
 date: 2016-03-04
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

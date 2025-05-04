@@ -1,6 +1,9 @@
 ---
 title: "«Герої» нашого часу: хто збирає броварських «тітушок» на антимайдан Партії регіонів - АУДІО"
 date: 2013-12-19
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "rozsliduvannya"
 tags: 

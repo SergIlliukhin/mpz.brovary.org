@@ -1,6 +1,9 @@
 ---
 title: "Сапожко прийматиме своїх радників на постійну службу без конкурсу"
 date: 2012-12-17
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

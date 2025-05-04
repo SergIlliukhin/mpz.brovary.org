@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: Як відзначатимуть день міста Бровари - спортивні змагання, ярмарки та фестиваль"
 date: 2015-09-16
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

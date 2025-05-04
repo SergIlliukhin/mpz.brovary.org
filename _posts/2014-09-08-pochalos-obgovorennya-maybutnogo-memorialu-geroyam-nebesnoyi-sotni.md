@@ -1,6 +1,9 @@
 ---
 title: "Почалось обговорення майбутнього меморіалу героям Небесної сотні"
 date: 2014-09-08
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 ---

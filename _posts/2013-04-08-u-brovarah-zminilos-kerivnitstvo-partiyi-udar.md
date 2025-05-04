@@ -1,6 +1,9 @@
 ---
 title: "У Броварах змінилось керівництво партії УДАР"
 date: 2013-04-08
+author: 
+  username: "udar"
+  display_name: "УДАР"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "На посаду начальника управління освіти офіційно претендує лише один кандидат - Олександра Олексієнко"
 date: 2016-02-23
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "hromada"
   - "novyny"

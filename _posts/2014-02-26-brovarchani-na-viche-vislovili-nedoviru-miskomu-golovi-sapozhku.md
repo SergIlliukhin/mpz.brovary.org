@@ -1,6 +1,9 @@
 ---
 title: "Броварчани на віче висловили недовіру міському голові Сапожку. ВІДЕО. ФОТО"
 date: 2014-02-26
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 categories: 
   - "video"
 tags: 

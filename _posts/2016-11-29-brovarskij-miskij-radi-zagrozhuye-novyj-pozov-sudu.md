@@ -1,6 +1,9 @@
 ---
 title: "Броварській міській раді загрожує новий позов до суду"
 date: 2016-11-29
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

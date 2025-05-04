@@ -1,6 +1,9 @@
 ---
 title: "Карантин у броварських школах продовжено щонайменше до лютого"
 date: 2016-01-26
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

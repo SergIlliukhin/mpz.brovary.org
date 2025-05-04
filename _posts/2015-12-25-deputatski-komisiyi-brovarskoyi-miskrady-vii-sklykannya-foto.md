@@ -1,6 +1,9 @@
 ---
 title: "Депутатські комісії Броварської міськради VII скликання - ФОТО"
 date: 2015-12-25
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

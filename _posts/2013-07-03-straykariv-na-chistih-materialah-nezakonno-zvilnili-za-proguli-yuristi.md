@@ -1,6 +1,9 @@
 ---
 title: "Страйк на \"Чистих матеріалах\": Post Scriptum"
 date: 2013-07-03
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 tags: 
   - "apelyatsiya"
   - "vibir-redaktsiyi"

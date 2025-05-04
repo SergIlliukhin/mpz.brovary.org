@@ -1,6 +1,9 @@
 ---
 title: "Суд оштрафував організатора грального бізнесу в кафе «Монте Карло» на 170 тис. грн"
 date: 2013-08-05
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

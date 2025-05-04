@@ -1,6 +1,9 @@
 ---
 title: "ДержФінІнспекція перевірить діяльність КП \"Оздоровчо-реабілітаційний центр\""
 date: 2013-03-26
+author: 
+  username: "serzhov"
+  display_name: "Сергій Севрук"
 tags: 
   - "baseyn-dityam"
   - "brovary"

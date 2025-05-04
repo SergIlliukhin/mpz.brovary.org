@@ -1,6 +1,9 @@
 ---
 title: "У Держземагентстві Броварського району зупинився час"
 date: 2015-03-19
+author: 
+  username: "poroshenko-brovary"
+  display_name: "БПП "Солідарність""
 categories: 
   - "kolonka-avtora"
 ---

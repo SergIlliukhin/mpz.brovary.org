@@ -1,6 +1,9 @@
 ---
 title: "Позачергова 29-та сесія: ремонт СШ №5 за 13 мільйонів - \"парк №2\" не пройшов"
 date: 2017-06-08
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "vlada"
   - "aktsiyi-zahodi"

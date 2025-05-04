@@ -1,6 +1,9 @@
 ---
 title: "Фотомонтаж у Броварській Панорамі"
 date: 2012-03-11
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"
 tags: 

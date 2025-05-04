@@ -1,6 +1,9 @@
 ---
 title: "Звернення громадян: як подати скаргу чи надати пропозицію до Броварської міської ради"
 date: 2016-12-08
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "rozsliduvannya"
   - "vlada"

@@ -1,6 +1,9 @@
 ---
 title: "Проїзд по Петлюри відкриють у середині вересня"
 date: 2017-08-16
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

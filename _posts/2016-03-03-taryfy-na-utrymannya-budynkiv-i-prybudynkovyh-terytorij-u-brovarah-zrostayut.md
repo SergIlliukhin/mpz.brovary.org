@@ -1,6 +1,9 @@
 ---
 title: "Броварські ЖЕКи знову підвищують тарифи"
 date: 2016-03-03
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

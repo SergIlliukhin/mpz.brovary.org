@@ -1,6 +1,9 @@
 ---
 title: "Жеребцову таємно усунули від керівництва комунальним басейном"
 date: 2013-08-12
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 tags: 
   - "vibir-redaktsiyi"
   - "dobash"

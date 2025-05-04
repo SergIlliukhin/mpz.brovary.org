@@ -1,6 +1,9 @@
 ---
 title: "У броварській міськраді – масова бійка та сльозогінний газ, депутати стрибали з вікон другого поверху. ФОТО, ВІДЕО"
 date: 2016-03-18
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "vlada"
   - "aktsiyi-zahodi"

@@ -1,6 +1,9 @@
 ---
 title: "Діти мої, діти, куди вас подіти?"
 date: 2013-01-08
+author: 
+  username: "svoboda"
+  display_name: "Прес-служба ВО Свобода"
 categories: 
   - "kolonka-avtora"
 tags: 

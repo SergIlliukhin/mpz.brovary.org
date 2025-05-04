@@ -1,6 +1,9 @@
 ---
 title: "Засідання робочої депутатської групи щодо регламентних питань - ВІДЕО"
 date: 2015-12-02
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

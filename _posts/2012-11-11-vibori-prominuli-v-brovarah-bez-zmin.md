@@ -1,6 +1,9 @@
 ---
 title: "Вибори проминули. В Броварах без змін."
 date: 2012-11-11
+author: 
+  username: "kohanivsky"
+  display_name: "Микола Коханівський"
 categories: 
   - "kolonka-avtora"
 tags: 

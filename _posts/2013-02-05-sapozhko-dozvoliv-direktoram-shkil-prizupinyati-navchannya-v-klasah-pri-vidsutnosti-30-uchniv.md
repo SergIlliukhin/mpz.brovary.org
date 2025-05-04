@@ -1,6 +1,9 @@
 ---
 title: "Сапожко дозволив директорам шкіл призупиняти навчання в класах при відсутності 30 % учнів"
 date: 2013-02-05
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

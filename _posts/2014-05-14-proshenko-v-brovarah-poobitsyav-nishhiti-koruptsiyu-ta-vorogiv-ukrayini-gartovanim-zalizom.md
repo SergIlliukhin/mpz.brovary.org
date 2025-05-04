@@ -1,6 +1,9 @@
 ---
 title: "Порошенко в Броварах пообіцяв нищити корупцію та ворогів України «гартованим залізом»"
 date: 2014-05-14
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "vibir-redaktsiyi"
   - "vibori-2014"

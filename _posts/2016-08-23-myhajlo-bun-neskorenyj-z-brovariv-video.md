@@ -1,6 +1,9 @@
 ---
 title: "Михайло Бунь - \"нескорений\" з Броварів. ВІДЕО"
 date: 2016-08-23
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "83 роковини трагедії. «Броварці-лушпайники»: ті, котрі бачили голод в лице"
 date: 2016-11-26
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

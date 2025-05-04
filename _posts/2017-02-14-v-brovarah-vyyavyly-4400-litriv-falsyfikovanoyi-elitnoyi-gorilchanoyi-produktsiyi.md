@@ -1,6 +1,9 @@
 ---
 title: "В Броварах виявили 4400 літрів фальсифікованої елітної горілчаної продукції"
 date: 2017-02-14
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

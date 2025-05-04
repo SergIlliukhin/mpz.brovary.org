@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 5 лютого в ТРЦ «Термінал» пройде дитячий фестиваль «БравоKids.Зима»"
 date: 2017-01-30
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "«Мерський хліб без масла», або Водевіль про премії Сапожка і його заступників"
 date: 2015-03-18
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 categories: 
   - "kolonka-avtora"
 tags: 

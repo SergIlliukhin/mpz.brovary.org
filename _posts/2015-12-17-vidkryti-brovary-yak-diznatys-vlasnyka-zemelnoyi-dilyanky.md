@@ -1,6 +1,9 @@
 ---
 title: "Відкриті Бровари: як дізнатись власника земельної ділянки?"
 date: 2015-12-17
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 categories: 
   - "brovary"
   - "novyny"

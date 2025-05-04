@@ -1,6 +1,9 @@
 ---
 title: "«Пан Мудрість» і «Музика перемоги»: програма заходів від міськради до 8 і 9 травня"
 date: 2015-05-05
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "brovary"

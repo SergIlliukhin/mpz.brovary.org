@@ -1,6 +1,9 @@
 ---
 title: "30 років після вибуху: перелік заходів у Броварах до роковин катастрофи на ЧАЕС"
 date: 2016-04-22
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

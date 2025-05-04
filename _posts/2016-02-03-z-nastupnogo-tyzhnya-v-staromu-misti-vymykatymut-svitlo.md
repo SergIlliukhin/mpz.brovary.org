@@ -1,6 +1,9 @@
 ---
 title: "З наступного тижня на Пекарні та Розвилці почнуть вимикати світло"
 date: 2016-02-03
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

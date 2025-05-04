@@ -1,6 +1,9 @@
 ---
 title: "Чому місто повинно  втрачати мільйони?!?"
 date: 2016-10-26
+author: 
+  username: "cherepejnik"
+  display_name: "Леонід Черепейнік"
 categories: 
   - "kolonka-avtora"
 ---

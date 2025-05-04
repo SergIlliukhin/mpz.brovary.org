@@ -1,6 +1,9 @@
 ---
 title: "Цього літа виконком надав дозволи на зрізання 156 дерев у Броварах"
 date: 2015-07-23
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

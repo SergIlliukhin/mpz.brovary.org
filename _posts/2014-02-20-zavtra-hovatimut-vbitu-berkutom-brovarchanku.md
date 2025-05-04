@@ -1,6 +1,9 @@
 ---
 title: "Сьогодні у Броварах ховатимуть жінку, яку вбили на барикадах"
 date: 2014-02-20
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

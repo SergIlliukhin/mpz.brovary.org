@@ -1,6 +1,9 @@
 ---
 title: "\"За\" і \"проти\" перейменування броварських вулиць: розпочалися судові баталії"
 date: 2016-03-29
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

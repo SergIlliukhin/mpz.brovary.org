@@ -1,6 +1,9 @@
 ---
 title: "Звернення Віталія Запорожця до земляків (з текстом оригіналу)"
 date: 2012-06-14
+author: 
+  username: "svoboda"
+  display_name: "Прес-служба ВО Свобода"
 categories: 
   - "kolonka-avtora"
 tags: 

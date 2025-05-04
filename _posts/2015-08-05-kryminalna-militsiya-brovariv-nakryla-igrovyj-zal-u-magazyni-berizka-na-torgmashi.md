@@ -1,6 +1,9 @@
 ---
 title: "У Броварах міліція та активісти \"накрили\" ігровий зал на Торгмаші"
 date: 2015-08-05
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

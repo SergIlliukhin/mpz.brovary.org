@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 3 червня закликають допомогти почистити озеро в парку «Перемога»"
 date: 2017-05-19
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

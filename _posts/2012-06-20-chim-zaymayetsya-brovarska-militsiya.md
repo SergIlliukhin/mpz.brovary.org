@@ -1,6 +1,9 @@
 ---
 title: "Чим займається броварська міліція?"
 date: 2012-06-20
+author: 
+  username: "gorbatenko"
+  display_name: "Сергій Горбатенко"
 categories: 
   - "kolonka-avtora"
 tags: 

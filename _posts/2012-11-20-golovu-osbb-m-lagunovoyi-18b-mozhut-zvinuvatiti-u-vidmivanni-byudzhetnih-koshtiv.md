@@ -1,6 +1,9 @@
 ---
 title: "Голову ОСББ \"Лагунової 18б\" можуть звинуватити у нецільовому використанні бюджетних коштів"
 date: 2012-11-20
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

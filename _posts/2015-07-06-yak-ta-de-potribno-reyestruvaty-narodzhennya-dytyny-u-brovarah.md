@@ -1,6 +1,9 @@
 ---
 title: "Як та де потрібно реєструвати народження дитини у Броварах?"
 date: 2015-07-06
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 categories: 
   - "rozsliduvannya"
   - "brovary"

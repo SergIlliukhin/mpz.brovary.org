@@ -1,6 +1,9 @@
 ---
 title: "Сайт «Маєш Право Знати» змушений залишити Україну"
 date: 2012-08-14
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 tags: 
   - "vibir-redaktsiyi"
   - "mayesh-pravo-znati"

@@ -1,6 +1,9 @@
 ---
 title: "Анна Калина про політику та роботу голови ОСББ: \"Я дуже енергійна, а ще в мене хронічна алергія на брехню\""
 date: 2017-06-09
+author: 
+  username: "tkachuk"
+  display_name: "Вікторія Ткачук"
 categories: 
   - "interview"
   - "hromada"

@@ -1,6 +1,9 @@
 ---
 title: "Координаційний центр допомоги броварським військовим оголошує свої потреби"
 date: 2015-11-05
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

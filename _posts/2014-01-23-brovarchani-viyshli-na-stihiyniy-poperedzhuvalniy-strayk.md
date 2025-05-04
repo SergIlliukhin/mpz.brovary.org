@@ -1,6 +1,9 @@
 ---
 title: "Броварчани підтримали попереджувальний страйк"
 date: 2014-01-23
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "aktsiyi-zahodi"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Новим начальником міліції Київщини став заступник командира батальйону «Азов»"
 date: 2014-10-31
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "avakov"
   - "vibir-redaktsiyi"

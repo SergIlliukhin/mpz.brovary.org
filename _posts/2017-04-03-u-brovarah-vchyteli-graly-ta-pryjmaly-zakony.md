@@ -1,6 +1,9 @@
 ---
 title: "У Броварах вчителі грали та приймали закони - ФОТО"
 date: 2017-04-03
+author: 
+  username: "mizina"
+  display_name: "Дарина Мізіна"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

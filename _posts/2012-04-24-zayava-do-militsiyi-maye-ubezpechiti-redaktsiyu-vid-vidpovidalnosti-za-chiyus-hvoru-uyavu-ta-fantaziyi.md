@@ -1,6 +1,9 @@
 ---
 title: "Фальсифікаторів газети відтепер шукатиме броварська міліція"
 date: 2012-04-24
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 categories: 
   - "kolonka-avtora"
 tags: 

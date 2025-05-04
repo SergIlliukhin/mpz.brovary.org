@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 18 січня відбудуться збори новоствореної ГО «ЕКО Бровари»"
 date: 2017-01-17
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

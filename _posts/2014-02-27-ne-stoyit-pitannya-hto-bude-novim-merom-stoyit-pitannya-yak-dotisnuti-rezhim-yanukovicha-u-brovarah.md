@@ -1,6 +1,9 @@
 ---
 title: "Не стоїть питання - хто буде новим мером. Стоїть питання - як дотиснути режим Януковича у Броварах!"
 date: 2014-02-27
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 ---

@@ -1,6 +1,9 @@
 ---
 title: "\"Лікарські таємниці\" знову шукали порушення у броварській лікарні - ВІДЕО"
 date: 2016-06-09
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

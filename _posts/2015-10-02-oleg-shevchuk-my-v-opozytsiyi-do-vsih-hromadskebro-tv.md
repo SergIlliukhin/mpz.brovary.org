@@ -1,6 +1,9 @@
 ---
 title: "Олег Шевчук: \"Ми в опозиції до всіх\" – HromadskeBro.tv"
 date: 2015-10-02
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

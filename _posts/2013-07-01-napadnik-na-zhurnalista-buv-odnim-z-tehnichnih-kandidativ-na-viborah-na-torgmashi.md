@@ -1,6 +1,9 @@
 ---
 title: "Нападник на журналіста був одним з технічних кандидатів на виборах на Торгмаші"
 date: 2013-07-01
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "kolonka-avtora"
 tags: 

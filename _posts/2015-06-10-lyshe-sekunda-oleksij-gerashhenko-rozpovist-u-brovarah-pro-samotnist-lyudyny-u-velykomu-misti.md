@@ -1,6 +1,9 @@
 ---
 title: "«Лише секунда»: Олексій Геращенко розповість у Броварах про самотність людини у великому місті"
 date: 2015-06-10
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

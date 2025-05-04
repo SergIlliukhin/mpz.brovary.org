@@ -1,6 +1,9 @@
 ---
 title: "Цього року на Київщині збудують 3 школи і 5 садочків. У Броварах - жодного"
 date: 2016-02-11
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

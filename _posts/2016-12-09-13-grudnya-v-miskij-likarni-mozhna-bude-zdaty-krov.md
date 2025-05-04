@@ -1,6 +1,9 @@
 ---
 title: "13 грудня в міській лікарні можна буде здати кров"
 date: 2016-12-09
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "3 та 7 листопада десять броварських вулиць залишаться без світла"
 date: 2016-10-31
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

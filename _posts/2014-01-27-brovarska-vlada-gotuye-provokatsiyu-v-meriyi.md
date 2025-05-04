@@ -1,6 +1,9 @@
 ---
 title: "Броварська влада готує провокацію в мерії?"
 date: 2014-01-27
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "aktsiya-protestu"
   - "brovary"

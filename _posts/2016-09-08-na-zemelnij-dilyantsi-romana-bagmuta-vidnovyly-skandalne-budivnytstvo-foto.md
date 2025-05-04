@@ -1,6 +1,9 @@
 ---
 title: "На земельній ділянці Романа Багмута відновили скандальне будівництво – ФОТО"
 date: 2016-09-08
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

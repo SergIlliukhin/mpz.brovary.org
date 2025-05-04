@@ -1,6 +1,9 @@
 ---
 title: "Обурені депутати просять Сапожка  «виключити участь регіоналів» у жалобі за Небесною сотнею"
 date: 2016-02-18
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "hromada"
   - "novyny"

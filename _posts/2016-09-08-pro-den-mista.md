@@ -1,6 +1,9 @@
 ---
 title: "Про День Міста"
 date: 2016-09-08
+author: 
+  username: "ostapkovych"
+  display_name: "Олександр Остапкович"
 categories: 
   - "kolonka-avtora"
 ---

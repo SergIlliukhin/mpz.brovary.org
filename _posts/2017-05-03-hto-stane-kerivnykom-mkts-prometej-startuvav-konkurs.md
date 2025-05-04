@@ -1,6 +1,9 @@
 ---
 title: "Хто стане керівником МКЦ «Прометей»? Стартував конкурс"
 date: 2017-05-03
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

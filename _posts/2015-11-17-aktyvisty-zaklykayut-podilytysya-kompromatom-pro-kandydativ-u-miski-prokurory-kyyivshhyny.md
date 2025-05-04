@@ -1,6 +1,9 @@
 ---
 title: "Активісти закликають поділитися компроматом про кандидатів у міські прокурори Київщини"
 date: 2015-11-17
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

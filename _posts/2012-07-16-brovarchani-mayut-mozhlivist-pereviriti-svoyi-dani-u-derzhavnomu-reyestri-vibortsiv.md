@@ -1,6 +1,9 @@
 ---
 title: "Броварчани мають можливість перевірити свої дані у Державному реєстрі виборців"
 date: 2012-07-16
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "vibori"
   - "vibortsi"

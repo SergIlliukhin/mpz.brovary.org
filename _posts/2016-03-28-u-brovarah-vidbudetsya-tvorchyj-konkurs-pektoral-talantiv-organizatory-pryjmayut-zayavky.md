@@ -1,6 +1,9 @@
 ---
 title: "У Броварах відбудеться творчий конкурс «Пектораль талантів», організатори приймають заявки"
 date: 2016-03-28
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "announce"
 tags: 

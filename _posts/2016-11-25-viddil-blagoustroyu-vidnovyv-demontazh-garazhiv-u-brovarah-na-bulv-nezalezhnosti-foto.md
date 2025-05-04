@@ -1,6 +1,9 @@
 ---
 title: "Відділ благоустрою відновив демонтаж гаражів у Броварах на бульв. Незалежності – ФОТО"
 date: 2016-11-25
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "brovary"
   - "novyny"

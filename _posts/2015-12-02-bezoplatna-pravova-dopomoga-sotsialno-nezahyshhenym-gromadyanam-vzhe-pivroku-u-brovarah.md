@@ -1,6 +1,9 @@
 ---
 title: "Безоплатна правова допомога соціально незахищеним громадянам: вже півроку у Броварах"
 date: 2015-12-02
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

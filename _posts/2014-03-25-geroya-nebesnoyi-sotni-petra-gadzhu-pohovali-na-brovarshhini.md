@@ -1,6 +1,9 @@
 ---
 title: "На Броварщині поховали Героя Небесної сотні Петра Гаджу"
 date: 2014-03-25
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "brovarskiy-rayon"
   - "gogoliv"

@@ -1,6 +1,9 @@
 ---
 title: "Броварські депутати знехтували вимогами виборців та не підтримали Євромайдан"
 date: 2013-12-27
+author: 
+  username: "udar"
+  display_name: "УДАР"
 categories: 
   - "kolonka-avtora"
 tags: 

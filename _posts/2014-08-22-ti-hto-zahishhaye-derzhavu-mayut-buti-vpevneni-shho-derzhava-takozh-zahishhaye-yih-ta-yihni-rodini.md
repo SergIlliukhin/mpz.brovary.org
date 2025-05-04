@@ -1,6 +1,9 @@
 ---
 title: "Ті, хто захищає державу, мають бути впевнені, що держава також захищає їх та їхні родини"
 date: 2014-08-22
+author: 
+  username: "pavriz"
+  display_name: "Павло Різаненко"
 categories: 
   - "kolonka-avtora"
 tags: 

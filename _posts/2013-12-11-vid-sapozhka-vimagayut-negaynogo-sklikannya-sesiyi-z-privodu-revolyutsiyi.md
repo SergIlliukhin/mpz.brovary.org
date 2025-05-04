@@ -1,6 +1,9 @@
 ---
 title: "Від Сапожка вимагають негайного скликання сесії з приводу революції"
 date: 2013-12-11
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "yevromaydan"
   - "vibir-redaktsiyi"

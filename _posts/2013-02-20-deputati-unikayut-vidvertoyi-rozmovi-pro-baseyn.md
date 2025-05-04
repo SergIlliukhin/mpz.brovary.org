@@ -1,6 +1,9 @@
 ---
 title: "Депутати уникають відвертої розмови про басейн"
 date: 2013-02-20
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "andriyevskyj"
   - "baseyn-dityam"

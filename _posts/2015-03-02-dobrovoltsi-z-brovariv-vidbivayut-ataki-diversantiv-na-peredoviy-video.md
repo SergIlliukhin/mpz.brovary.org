@@ -1,6 +1,9 @@
 ---
 title: "Добровольці з Броварів відбивають атаки диверсантів на передовій - ВІДЕО"
 date: 2015-03-02
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

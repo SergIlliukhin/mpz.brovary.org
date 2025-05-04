@@ -1,6 +1,9 @@
 ---
 title: "Смерть породіллі: броварські лікарі сплутали апендицит із панкреатитом?"
 date: 2016-03-04
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

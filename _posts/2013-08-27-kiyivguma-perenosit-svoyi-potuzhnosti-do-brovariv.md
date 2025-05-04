@@ -1,6 +1,9 @@
 ---
 title: "\"Київгума\" переносить свої потужності до Броварів"
 date: 2013-08-27
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

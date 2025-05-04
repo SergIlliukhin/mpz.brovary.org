@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: На майстер-класі з акторської майстерності у Броварах вчитимуть імпровізувати"
 date: 2015-07-01
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

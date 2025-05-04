@@ -1,6 +1,9 @@
 ---
 title: "Голосування за Громадський бюджет 2017 завершено"
 date: 2017-07-28
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

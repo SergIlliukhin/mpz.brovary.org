@@ -1,6 +1,9 @@
 ---
 title: "Депутати нарешті зібрались на сесію, проте до компромісу не готові"
 date: 2014-04-07
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "baseyn-shid"
   - "vibir-redaktsiyi"

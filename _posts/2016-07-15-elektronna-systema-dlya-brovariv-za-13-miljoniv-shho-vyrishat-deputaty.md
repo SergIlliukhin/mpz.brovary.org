@@ -1,6 +1,9 @@
 ---
 title: "Електронна система для Броварів за 13 мільйонів - що вирішать депутати?"
 date: 2016-07-15
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "vlada"
   - "novyny"

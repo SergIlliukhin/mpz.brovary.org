@@ -1,6 +1,9 @@
 ---
 title: "Активісти \"Відсічі\" промоніторили мовну ситуацію у маркуванні товарів броварських супермаркетів"
 date: 2012-12-27
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Беремо і робимо наше місто кращим! Приєднуйтесь!"
 date: 2015-02-04
+author: 
+  username: "samopomich"
+  display_name: "Самопоміч"
 categories: 
   - "kolonka-avtora"
 tags: 

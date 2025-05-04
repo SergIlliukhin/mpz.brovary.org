@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 4 серпня відбудеться чергова сесія Броварської міської ради"
 date: 2016-07-07
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "vlada"

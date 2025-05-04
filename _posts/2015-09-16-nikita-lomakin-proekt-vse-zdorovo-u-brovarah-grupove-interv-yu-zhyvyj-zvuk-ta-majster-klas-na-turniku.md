@@ -1,6 +1,9 @@
 ---
 title: "Нікіта Ломакін і проект «Все здорово» у Броварах: групове інтерв’ю, «живий звук» та майстер-клас на турніку"
 date: 2015-09-16
+author: 
+  username: "komarovskyj"
+  display_name: "Комаровський Олексій"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

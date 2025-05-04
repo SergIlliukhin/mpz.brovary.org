@@ -1,6 +1,9 @@
 ---
 title: "Броварчан дезінформували про вибори депутатів міськради"
 date: 2014-05-14
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "viddil-vedennya-derzhreyestru-vibortsiv"
   - "vibir-redaktsiyi"

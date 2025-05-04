@@ -1,6 +1,9 @@
 ---
 title: "Павло Різаненко: «Мало де в Україні є така активна громада, як у Броварах»"
 date: 2016-02-26
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "aktsiyi-zahodi"

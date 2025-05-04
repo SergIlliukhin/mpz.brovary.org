@@ -1,6 +1,9 @@
 ---
 title: "На Розвилці відкрили храм на честь Святого Тарасія - ФОТО"
 date: 2015-09-14
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

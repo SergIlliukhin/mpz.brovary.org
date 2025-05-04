@@ -1,6 +1,9 @@
 ---
 title: "Суд залишив позовну заяву \"Альянс Новобуд\" без розгляду"
 date: 2017-06-29
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "hromada"
   - "novyny"

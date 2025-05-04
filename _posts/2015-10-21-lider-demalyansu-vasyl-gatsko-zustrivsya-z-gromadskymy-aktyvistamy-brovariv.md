@@ -1,6 +1,9 @@
 ---
 title: "Лідер «ДемАльянсу» Василь Гацько зустрівся з громадськими активістами Броварів"
 date: 2015-10-21
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

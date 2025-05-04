@@ -1,6 +1,9 @@
 ---
 title: "Відкрито безкоштовну конференц-залу для громадських активістів"
 date: 2015-09-14
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

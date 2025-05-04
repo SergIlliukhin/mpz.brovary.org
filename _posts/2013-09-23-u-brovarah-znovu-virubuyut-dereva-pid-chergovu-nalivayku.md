@@ -1,6 +1,9 @@
 ---
 title: "Біля гастроному «Тандем» на місці зрубаних дерев зводять чергову «наливайку»?"
 date: 2013-09-23
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "vibir-redaktsiyi"
   - "virubka-derev"

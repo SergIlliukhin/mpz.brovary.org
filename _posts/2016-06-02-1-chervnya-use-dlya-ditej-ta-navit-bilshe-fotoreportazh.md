@@ -1,6 +1,9 @@
 ---
 title: "1 червня: усе для дітей та навіть більше - ФОТОРЕПОРТАЖ"
 date: 2016-06-02
+author: 
+  username: "onikienko"
+  display_name: "Вікторія Оникієнко"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

@@ -1,6 +1,9 @@
 ---
 title: "Підтоплення Броварів: озера, що роблять у місті \"погоду\""
 date: 2016-02-29
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "hromada"
   - "brovary"

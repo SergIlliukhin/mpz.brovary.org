@@ -1,6 +1,9 @@
 ---
 title: "Ми йдемо на вибори!"
 date: 2012-08-07
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"
 tags: 

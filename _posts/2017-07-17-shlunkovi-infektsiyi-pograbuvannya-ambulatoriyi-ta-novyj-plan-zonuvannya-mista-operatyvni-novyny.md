@@ -1,6 +1,9 @@
 ---
 title: "Шлункові інфекції, пограбування амбулаторії та новий план зонування міста — оперативні новини"
 date: 2017-07-17
+author: 
+  username: "mizina"
+  display_name: "Дарина Мізіна"
 categories: 
   - "brovary"
   - "novyny"

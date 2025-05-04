@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 1 червня у Броварах відбудеться захід для родин із «особливими» дітьми"
 date: 2016-05-31
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

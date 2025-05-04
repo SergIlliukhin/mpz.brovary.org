@@ -1,6 +1,9 @@
 ---
 title: "У парку \"Перемога\" відкрився  майданчик для особливої малечі"
 date: 2016-06-22
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

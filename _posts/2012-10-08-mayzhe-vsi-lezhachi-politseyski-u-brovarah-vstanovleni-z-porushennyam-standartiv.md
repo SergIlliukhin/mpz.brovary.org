@@ -1,6 +1,9 @@
 ---
 title: "Майже всі «лежачі поліцейські» у Броварах встановлені з порушенням ДСТУ"
 date: 2012-10-08
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 categories: 
   - "rozsliduvannya"
 tags: 

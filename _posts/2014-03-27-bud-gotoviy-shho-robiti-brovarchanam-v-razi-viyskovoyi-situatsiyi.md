@@ -1,6 +1,9 @@
 ---
 title: "Будь готовий! Що робити броварчанам в разі військової ситуації"
 date: 2014-03-27
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "viyna"
   - "vibir-redaktsiyi"

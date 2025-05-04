@@ -1,6 +1,9 @@
 ---
 title: "На 86 «лежачих поліцейських» у Броварах витрачено майже 830 тис. грн"
 date: 2012-08-06
+author: 
+  username: "serzhov"
+  display_name: "Сергій Севрук"
 categories: 
   - "rozsliduvannya"
 tags: 

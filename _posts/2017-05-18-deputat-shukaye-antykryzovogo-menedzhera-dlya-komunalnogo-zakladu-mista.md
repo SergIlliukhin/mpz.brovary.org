@@ -1,6 +1,9 @@
 ---
 title: "Депутат шукає антикризового менеджера для комунального закладу міста"
 date: 2017-05-18
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

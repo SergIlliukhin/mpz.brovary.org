@@ -1,6 +1,9 @@
 ---
 title: "Стартувало онлайн-опитування кандидатур на посаду директора \"Купави\""
 date: 2014-04-09
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "breus"
   - "brovary"

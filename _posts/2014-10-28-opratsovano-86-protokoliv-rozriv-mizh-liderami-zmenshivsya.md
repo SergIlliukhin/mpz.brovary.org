@@ -1,6 +1,9 @@
 ---
 title: "Опрацьовано 86% протоколів: розрив між лідерами зменшився"
 date: 2014-10-28
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

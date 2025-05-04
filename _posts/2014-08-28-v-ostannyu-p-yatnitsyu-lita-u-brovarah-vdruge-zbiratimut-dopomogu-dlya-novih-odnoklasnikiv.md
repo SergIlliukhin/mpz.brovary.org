@@ -1,6 +1,9 @@
 ---
 title: "В останню п'ятницю літа у Броварах вдруге збиратимуть допомогу для \"нових однокласників\""
 date: 2014-08-28
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

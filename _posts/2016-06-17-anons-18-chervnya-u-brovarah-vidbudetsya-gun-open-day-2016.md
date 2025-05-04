@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 18 червня у Броварах відбудеться Gun Open Day-2016"
 date: 2016-06-17
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Саботаж броварських виборів триває: голова комісії Грицай утік за кордон"
 date: 2013-01-30
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

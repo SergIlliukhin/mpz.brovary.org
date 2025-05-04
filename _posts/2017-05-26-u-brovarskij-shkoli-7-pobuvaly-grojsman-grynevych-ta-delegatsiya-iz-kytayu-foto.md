@@ -1,6 +1,9 @@
 ---
 title: "У броварській школі №7 побували Гройсман, Гриневич та делегація із Китаю - ФОТО"
 date: 2017-05-26
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

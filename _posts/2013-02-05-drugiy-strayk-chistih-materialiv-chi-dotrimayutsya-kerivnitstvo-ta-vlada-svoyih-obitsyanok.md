@@ -1,6 +1,9 @@
 ---
 title: "Другий страйк «Чистих матеріалів»: чи дотримаються керівництво та влада своїх обіцянок?"
 date: 2013-02-05
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "aktsiyi-zahodi"
 tags: 

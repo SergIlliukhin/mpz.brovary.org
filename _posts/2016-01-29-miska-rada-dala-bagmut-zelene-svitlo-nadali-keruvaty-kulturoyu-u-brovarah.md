@@ -1,6 +1,9 @@
 ---
 title: "Міськрада дала Багмут «зелене світло» і надалі керувати культурою у Броварах"
 date: 2016-01-29
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

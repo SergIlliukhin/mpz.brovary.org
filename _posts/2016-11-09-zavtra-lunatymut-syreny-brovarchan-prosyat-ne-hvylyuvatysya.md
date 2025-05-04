@@ -1,6 +1,9 @@
 ---
 title: "Завтра лунатимуть сирени - броварчан просять не хвилюватися"
 date: 2016-11-09
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Через бездіяльність поліції розслідувати сутички у міськраді буде прокуратура"
 date: 2016-04-18
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "vlada"
   - "aktsiyi-zahodi"

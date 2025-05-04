@@ -1,6 +1,9 @@
 ---
 title: "Кому заважають дерева на вулиці Воз'єдання?"
 date: 2012-04-18
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"
 tags: 

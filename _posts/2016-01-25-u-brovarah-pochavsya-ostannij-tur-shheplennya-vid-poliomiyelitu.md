@@ -1,6 +1,9 @@
 ---
 title: "У Броварах почався останній тур щеплення від поліомієліту"
 date: 2016-01-25
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

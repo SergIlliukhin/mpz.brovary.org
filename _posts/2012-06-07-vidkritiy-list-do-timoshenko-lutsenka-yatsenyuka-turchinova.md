@@ -1,6 +1,9 @@
 ---
 title: "Відкритий лист до Тимошенко, Луценка, Яценюка, Турчинова"
 date: 2012-06-07
+author: 
+  username: "kravec"
+  display_name: "Юрій Кравець"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Первинна ланка медицини в Броварах: хто фінансує та чи мають платити пацієнти?"
 date: 2015-04-15
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 tags: 
   - "byudzhet-mista-2015"
   - "vibir-redaktsiyi"

@@ -1,6 +1,9 @@
 ---
 title: "Після масажиста кандидатом від ПР у Броварах буде хірург"
 date: 2013-05-07
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

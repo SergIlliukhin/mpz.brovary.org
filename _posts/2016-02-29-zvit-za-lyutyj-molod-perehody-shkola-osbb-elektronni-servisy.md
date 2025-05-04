@@ -1,6 +1,9 @@
 ---
 title: "Звіт за лютий: молодь, переходи, школа ОСББ, електронні сервіси"
 date: 2016-02-29
+author: 
+  username: "demalliance"
+  display_name: "ДемАльянс Бровари"
 categories: 
   - "kolonka-avtora"
 tags: 

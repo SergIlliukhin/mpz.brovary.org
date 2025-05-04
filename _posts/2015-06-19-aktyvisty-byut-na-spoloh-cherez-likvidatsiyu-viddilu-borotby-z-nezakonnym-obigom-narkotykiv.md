@@ -1,6 +1,9 @@
 ---
 title: "У Броварах ліквідували сектор боротьби з незаконним обігом наркотиків. Активісти б'ють на сполох!"
 date: 2015-06-19
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

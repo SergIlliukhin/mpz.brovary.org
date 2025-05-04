@@ -1,6 +1,9 @@
 ---
 title: "Влада каже, що велодоріжок у Броварах немає. Почнемо з велопарковок!"
 date: 2014-08-20
+author: 
+  username: "demalliance"
+  display_name: "ДемАльянс Бровари"
 categories: 
   - "kolonka-avtora"
 tags: 

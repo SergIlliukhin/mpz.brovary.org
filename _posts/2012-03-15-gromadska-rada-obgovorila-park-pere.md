@@ -1,6 +1,9 @@
 ---
 title: "Громадська рада обговорила питання зменшення території Парку Перемога"
 date: 2012-03-15
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"
   - "video"

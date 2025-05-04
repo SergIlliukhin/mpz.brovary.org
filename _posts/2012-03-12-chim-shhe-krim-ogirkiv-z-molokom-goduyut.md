@@ -1,6 +1,9 @@
 ---
 title: "Чим ще, крім огірків з молоком, годують малечу в броварських дитсадках?"
 date: 2012-03-12
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Міський голова звітуватиме «у лютому» і лише перед трудовими колективами"
 date: 2012-02-22
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

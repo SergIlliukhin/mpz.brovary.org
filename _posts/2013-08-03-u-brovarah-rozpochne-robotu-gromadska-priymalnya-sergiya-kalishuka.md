@@ -1,6 +1,9 @@
 ---
 title: "У Броварах розпочне роботу громадська приймальня Сергія Калішука"
 date: 2013-08-03
+author: 
+  username: "svoboda"
+  display_name: "Прес-служба ВО Свобода"
 categories: 
   - "kolonka-avtora"
 tags: 

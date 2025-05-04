@@ -1,6 +1,9 @@
 ---
 title: "Броварська церква перегородила прохід до пам'ятника жертвам Голодомору"
 date: 2013-05-16
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 tags: 
   - "vibir-redaktsiyi"
   - "genotsid"

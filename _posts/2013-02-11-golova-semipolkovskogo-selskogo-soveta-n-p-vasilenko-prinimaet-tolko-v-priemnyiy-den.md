@@ -1,6 +1,9 @@
 ---
 title: "Голова Семиполковского сельского совета Н.П. Василенко  принимает только в приемный день...."
 date: 2013-02-11
+author: 
+  username: "bruhov"
+  display_name: "Володимир Брюхов"
 categories: 
   - "kolonka-avtora"
 tags: 

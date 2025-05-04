@@ -1,6 +1,9 @@
 ---
 title: "Засудили ще одного учасника акції «Страта судді»"
 date: 2012-11-13
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 tags: 
   - "vibir-redaktsiyi"
   - "volchenko"

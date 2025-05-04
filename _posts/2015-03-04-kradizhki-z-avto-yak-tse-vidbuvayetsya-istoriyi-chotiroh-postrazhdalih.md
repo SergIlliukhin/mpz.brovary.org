@@ -1,6 +1,9 @@
 ---
 title: "Як відбуваються крадіжки з автомобілів у Броварах: історії чотирьох постраждалих"
 date: 2015-03-04
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

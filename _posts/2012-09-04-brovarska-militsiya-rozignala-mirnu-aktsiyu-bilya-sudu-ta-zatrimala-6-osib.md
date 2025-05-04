@@ -1,6 +1,9 @@
 ---
 title: "Броварська міліція розігнала мирну акцію біля суду та затримала 6 осіб - ВІДЕО"
 date: 2012-09-04
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 categories: 
   - "kolonka-avtora"
   - "video"

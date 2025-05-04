@@ -1,6 +1,9 @@
 ---
 title: "26 квітня всіх броварчан запрошують на загальноміський суботник у лісі"
 date: 2014-04-22
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

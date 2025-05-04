@@ -1,6 +1,9 @@
 ---
 title: "Яких терористів боїться мер Броварів Сапожко? ФОТО, ВІДЕО"
 date: 2012-06-08
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

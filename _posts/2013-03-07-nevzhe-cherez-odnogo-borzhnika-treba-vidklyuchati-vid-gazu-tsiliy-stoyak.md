@@ -1,6 +1,9 @@
 ---
 title: "Невже через одного боржника треба відключати від газу цілий стояк?"
 date: 2013-03-07
+author: 
+  username: "cherednik"
+  display_name: "Юрій Чередник"
 categories: 
   - "kolonka-avtora"
 tags: 

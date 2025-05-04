@@ -1,6 +1,9 @@
 ---
 title: "Його нарешті добудували: у Броварах відкрився новий Будинок дитячої та юнацької творчості"
 date: 2016-09-19
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

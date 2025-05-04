@@ -1,6 +1,9 @@
 ---
 title: "Більшість з 14 радників Сапожка – діти сталінської епохи"
 date: 2013-03-14
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 tags: 
   - "vibir-redaktsiyi"
   - "mer-brovariv"

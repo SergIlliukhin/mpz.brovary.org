@@ -1,6 +1,9 @@
 ---
 title: "«Помста за розкол країни» триває у Броварах"
 date: 2012-10-24
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "aktsiyi-zahodi"
 tags: 

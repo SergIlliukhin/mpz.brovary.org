@@ -1,6 +1,9 @@
 ---
 title: "ОБЕРЕЖНО! До друку готується чергова фальшивка \"Маєш право знати\"!"
 date: 2012-05-15
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"
   - "novini"

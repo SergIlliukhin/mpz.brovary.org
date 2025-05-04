@@ -1,6 +1,9 @@
 ---
 title: "Відкритий Університет Майдану проведе у Броварах Школу свідомого громадянина"
 date: 2015-06-16
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

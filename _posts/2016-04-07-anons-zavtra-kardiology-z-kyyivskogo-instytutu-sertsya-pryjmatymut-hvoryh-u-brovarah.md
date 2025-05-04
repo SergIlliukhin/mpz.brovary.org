@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: Завтра кардіологи з Київського Інституту Серця прийматимуть хворих у Броварах"
 date: 2016-04-07
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Громадська рада при поліції «проекзаменувала» нового т.в.о. начальника  поліції Олега Янчинського"
 date: 2015-12-04
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

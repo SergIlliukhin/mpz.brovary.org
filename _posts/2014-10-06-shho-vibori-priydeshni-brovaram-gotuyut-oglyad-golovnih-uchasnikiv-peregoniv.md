@@ -1,6 +1,9 @@
 ---
 title: "Що вибори прийдешні Броварам готують: огляд головних учасників перегонів"
 date: 2014-10-06
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "rozsliduvannya"
 tags: 

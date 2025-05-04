@@ -1,6 +1,9 @@
 ---
 title: "Народовладдя-онлайн: почнімо з «Купави»?"
 date: 2014-04-14
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 ---

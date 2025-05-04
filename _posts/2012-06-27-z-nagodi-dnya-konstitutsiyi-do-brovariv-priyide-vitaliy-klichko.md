@@ -1,6 +1,9 @@
 ---
 title: "З нагоди Дня Конституції до Броварів приїде Віталій Кличко"
 date: 2012-06-27
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "brovaryi"

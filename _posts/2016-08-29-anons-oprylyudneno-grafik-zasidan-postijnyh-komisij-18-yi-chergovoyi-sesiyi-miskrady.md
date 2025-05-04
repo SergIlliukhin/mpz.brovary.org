@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: Оприлюднено графік засідань постійних комісій 18-ї чергової сесії міськради"
 date: 2016-08-29
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

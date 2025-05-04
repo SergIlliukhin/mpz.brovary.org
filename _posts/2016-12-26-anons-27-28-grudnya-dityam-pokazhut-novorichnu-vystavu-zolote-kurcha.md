@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 27 і 28 грудня дітям покажуть новорічну виставу \"Золоте курча\""
 date: 2016-12-26
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

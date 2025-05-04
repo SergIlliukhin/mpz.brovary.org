@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 11 травня у Броварах відбудеться 28-ма чергова сесія міськради"
 date: 2017-04-07
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "vlada"

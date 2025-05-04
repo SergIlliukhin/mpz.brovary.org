@@ -1,6 +1,9 @@
 ---
 title: "Сапожко ставить ультиматум, депутати тримають позиції. У міськраді - новий виток політичної кризи"
 date: 2016-02-24
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "aktsiyi-zahodi"

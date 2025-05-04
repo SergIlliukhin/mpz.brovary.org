@@ -1,6 +1,9 @@
 ---
 title: "25 вересня Віталій Кличко і Павло Різаненко проведуть зустріч з виборцями у Великій Димерці"
 date: 2012-09-24
+author: 
+  username: "udar"
+  display_name: "УДАР"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "«Є така професія - рятувати людей»: історія загиблого вогнеборця Андрія Ступаківського"
 date: 2015-03-31
+author: 
+  username: "onikienko"
+  display_name: "Вікторія Оникієнко"
 tags: 
   - "istoriya-geroya"
   - "andriy-stupakivskiy"

@@ -1,6 +1,9 @@
 ---
 title: "Поліція приховує інформацію щодо розслідування злочинів Антимайдану в Броварах"
 date: 2016-04-27
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Самовисуванець Остапкович зняв свою кандидатуру на користь Саука – HromadskeBro.tv"
 date: 2015-10-05
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
   - "novyny"

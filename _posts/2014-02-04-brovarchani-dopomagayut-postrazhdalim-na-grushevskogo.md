@@ -1,6 +1,9 @@
 ---
 title: "Броварчани допомагають постраждалим на Грушевського"
 date: 2014-02-04
+author: 
+  username: "udar"
+  display_name: "УДАР"
 categories: 
   - "kolonka-avtora"
 tags: 

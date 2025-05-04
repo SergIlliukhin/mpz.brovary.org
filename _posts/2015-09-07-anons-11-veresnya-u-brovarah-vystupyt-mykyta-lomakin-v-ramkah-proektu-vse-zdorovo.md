@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 11 вересня у Броварах виступить Микита Ломакін в рамках проекту \"ВСЕ ЗДОРОВО\""
 date: 2015-09-07
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

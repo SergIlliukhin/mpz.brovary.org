@@ -1,6 +1,9 @@
 ---
 title: "Бровари-Слов'янськ: перший марш-кидок дорогою допомоги"
 date: 2014-07-18
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

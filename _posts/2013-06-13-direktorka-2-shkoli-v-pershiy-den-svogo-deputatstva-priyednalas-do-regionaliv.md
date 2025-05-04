@@ -1,6 +1,9 @@
 ---
 title: "Директорка 2 школи в перший день свого депутатства приєдналась до «регіоналів»"
 date: 2013-06-13
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "vibir-redaktsiyi"
   - "dovibori"

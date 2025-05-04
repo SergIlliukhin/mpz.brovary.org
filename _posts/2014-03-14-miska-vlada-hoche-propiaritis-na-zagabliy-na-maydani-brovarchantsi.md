@@ -1,6 +1,9 @@
 ---
 title: "Міська влада хоче пропіаритись на загиблій на Майдані броварчанці?"
 date: 2014-03-14
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 categories: 
   - "kolonka-avtora"
 tags: 

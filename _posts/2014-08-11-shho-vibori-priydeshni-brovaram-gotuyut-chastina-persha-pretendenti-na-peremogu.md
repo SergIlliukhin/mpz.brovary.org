@@ -1,6 +1,9 @@
 ---
 title: "Що вибори прийдешні Броварам готують. Частина перша: претенденти на перемогу"
 date: 2014-08-11
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

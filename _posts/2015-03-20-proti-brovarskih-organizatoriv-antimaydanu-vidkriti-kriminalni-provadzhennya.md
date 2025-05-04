@@ -1,6 +1,9 @@
 ---
 title: "Проти броварських організаторів Антимайдану відкриті кримінальні провадження"
 date: 2015-03-20
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "antimaydan"
   - "vibir-redaktsiyi"

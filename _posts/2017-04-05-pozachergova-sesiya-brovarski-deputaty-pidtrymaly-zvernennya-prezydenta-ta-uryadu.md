@@ -1,6 +1,9 @@
 ---
 title: "Позачергова сесія: Броварські депутати підтримали звернення до Президента та Уряду"
 date: 2017-04-05
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "vlada"
   - "aktsiyi-zahodi"

@@ -1,6 +1,9 @@
 ---
 title: "Справа броварської менеджерки-шахрайки прокуратурою направлена до суду"
 date: 2016-08-30
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

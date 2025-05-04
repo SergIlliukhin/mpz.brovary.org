@@ -1,6 +1,9 @@
 ---
 title: "Дитяча лікарня розвалюється через нові багатоповерхівки поряд?"
 date: 2017-05-10
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

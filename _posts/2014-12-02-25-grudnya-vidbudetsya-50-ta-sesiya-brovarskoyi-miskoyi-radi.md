@@ -1,6 +1,9 @@
 ---
 title: "25 грудня відбудеться 50-та чергова сесія Броварської міської ради"
 date: 2014-12-02
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Прибирання озера в парку: дайвери знайшли на дні автомобільні покришки та склянки - ФОТО"
 date: 2017-06-06
+author: 
+  username: "tkachuk"
+  display_name: "Вікторія Ткачук"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

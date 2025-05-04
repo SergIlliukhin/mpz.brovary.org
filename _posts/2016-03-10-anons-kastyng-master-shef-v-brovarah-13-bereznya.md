@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: Кастинг \"Мастер Шеф\" в Броварах 13 березня"
 date: 2016-03-10
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "brovary"

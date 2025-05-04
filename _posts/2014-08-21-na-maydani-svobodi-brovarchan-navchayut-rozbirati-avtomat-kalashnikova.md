@@ -1,6 +1,9 @@
 ---
 title: "На Майдані Свободи навчають розбирати автомат Калашникова в обмін на допопогу для АТО"
 date: 2014-08-21
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 categories: 
   - "video"
 tags: 

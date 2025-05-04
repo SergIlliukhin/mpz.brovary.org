@@ -1,6 +1,9 @@
 ---
 title: "Суддя Телепенько заборонив відеозйомку суду проти броварської влади. ВІДЕО"
 date: 2012-06-14
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "video"
 tags: 

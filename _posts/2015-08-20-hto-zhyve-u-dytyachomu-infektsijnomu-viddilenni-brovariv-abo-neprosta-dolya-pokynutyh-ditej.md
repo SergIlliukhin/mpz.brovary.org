@@ -1,6 +1,9 @@
 ---
 title: "Хто живе у дитячому інфекційному відділенні Броварів, або Непроста доля покинутих дітей"
 date: 2015-08-20
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

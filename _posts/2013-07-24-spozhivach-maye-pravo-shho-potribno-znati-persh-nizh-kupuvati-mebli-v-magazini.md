@@ -1,6 +1,9 @@
 ---
 title: "\"Споживач має право\": що потрібно знати, перш ніж купувати меблі в магазині"
 date: 2013-07-24
+author: 
+  username: "serzhov"
+  display_name: "Сергій Севрук"
 categories: 
   - "kolonka-avtora"
 tags: 

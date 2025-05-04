@@ -1,6 +1,9 @@
 ---
 title: "У місті стартує акція \"Зробимо Бровари чистими 2016\""
 date: 2016-03-23
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

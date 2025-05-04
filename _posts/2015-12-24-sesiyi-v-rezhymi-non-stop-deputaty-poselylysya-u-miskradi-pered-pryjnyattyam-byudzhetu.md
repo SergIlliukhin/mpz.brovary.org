@@ -1,6 +1,9 @@
 ---
 title: "Сесії в режимі non-stop: депутати «поселилися» у міськраді перед прийняттям бюджету"
 date: 2015-12-24
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "vlada"
   - "aktsiyi-zahodi"

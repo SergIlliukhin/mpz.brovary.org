@@ -1,6 +1,9 @@
 ---
 title: "Антиалкогольний рейд: активісти зловили «на гарячому» адміністрацію кафе «Music Hall»"
 date: 2014-07-25
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "music-hall"
   - "alkogol"

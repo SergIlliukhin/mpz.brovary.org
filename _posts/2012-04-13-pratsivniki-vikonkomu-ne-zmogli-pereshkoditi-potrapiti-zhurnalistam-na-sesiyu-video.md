@@ -1,6 +1,9 @@
 ---
 title: "Радник Сапожка не змогла перешкодити журналістам потрапити на сесію. ВІДЕО"
 date: 2012-04-13
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

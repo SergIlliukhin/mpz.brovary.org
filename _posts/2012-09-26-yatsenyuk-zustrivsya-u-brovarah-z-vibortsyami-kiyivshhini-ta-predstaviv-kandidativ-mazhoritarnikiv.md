@@ -1,6 +1,9 @@
 ---
 title: "Яценюк зустрівся у Броварах з виборцями Київщини та представив кандидатів-мажоритарників"
 date: 2012-09-26
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 tags: 
   - "agitatsiya"
   - "brovary"

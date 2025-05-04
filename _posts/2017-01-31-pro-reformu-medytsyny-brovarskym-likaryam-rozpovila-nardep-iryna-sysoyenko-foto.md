@@ -1,6 +1,9 @@
 ---
 title: "Про реформу медицини броварським лікарям розповіла нардеп Ірина Сисоєнко – ФОТО"
 date: 2017-01-31
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "vlada"
   - "aktsiyi-zahodi"

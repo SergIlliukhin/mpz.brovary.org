@@ -1,6 +1,9 @@
 ---
 title: "Броварчанам пообіцяли винагороду за доведення корупції Ігоря Сапожка"
 date: 2013-06-11
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 tags: 
   - "50-tisyach-za-mera-koruptsionera"
   - "illyuhin"

@@ -1,6 +1,9 @@
 ---
 title: "У пам'ять про Шухевича броварські патріоти пройшлись по «мінному полю»"
 date: 2015-07-06
+author: 
+  username: "komarovskyj"
+  display_name: "Комаровський Олексій"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

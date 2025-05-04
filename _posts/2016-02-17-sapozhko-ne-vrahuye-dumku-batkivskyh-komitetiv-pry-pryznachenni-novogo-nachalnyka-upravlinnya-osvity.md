@@ -1,6 +1,9 @@
 ---
 title: "Сапожко не врахує думку батьківських комітетів при призначенні нового начальника управління освіти"
 date: 2016-02-17
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Форум ОСББ Києва і Київської області: чому і навіщо?"
 date: 2016-06-10
+author: 
+  username: "sauk"
+  display_name: "Андрій Саук"
 categories: 
   - "kolonka-avtora"
 ---

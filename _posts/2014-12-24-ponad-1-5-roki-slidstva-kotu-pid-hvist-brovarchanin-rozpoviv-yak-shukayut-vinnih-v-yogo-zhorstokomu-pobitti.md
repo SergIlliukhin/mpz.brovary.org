@@ -1,6 +1,9 @@
 ---
 title: "Броварчанин, якого ледь не вбили, майже два роки не може добитись правди від слідства"
 date: 2014-12-24
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 categories: 
   - "rozsliduvannya"
 tags: 

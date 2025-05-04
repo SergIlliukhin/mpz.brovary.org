@@ -1,6 +1,9 @@
 ---
 title: "Чи безпечно пити воду з приватних колодязів, - броварська СЕС"
 date: 2017-02-21
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

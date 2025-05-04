@@ -1,6 +1,9 @@
 ---
 title: "Суд відкрив громаді доступ до генплану та іншої містобудівної документації Броварів"
 date: 2013-06-13
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 tags: 
   - "vibir-redaktsiyi"
   - "generalniy-plan"

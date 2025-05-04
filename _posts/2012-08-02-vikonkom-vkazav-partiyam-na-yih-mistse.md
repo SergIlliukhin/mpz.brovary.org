@@ -1,6 +1,9 @@
 ---
 title: "Виконком вказав партіям на їх місце"
 date: 2012-08-02
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 tags: 
   - "varta"
   - "vibori"

@@ -1,6 +1,9 @@
 ---
 title: "За 36 місць у Броварській міськраді змагатимуться 465 кандидатів від 16 політичних партій"
 date: 2015-10-01
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Спекотний День Молоді в Броварах! - ФОТО"
 date: 2016-06-30
+author: 
+  username: "onikienko"
+  display_name: "Вікторія Оникієнко"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

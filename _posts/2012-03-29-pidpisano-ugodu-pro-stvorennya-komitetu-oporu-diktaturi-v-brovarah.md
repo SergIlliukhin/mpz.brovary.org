@@ -1,6 +1,9 @@
 ---
 title: "Підписано Угоду про створення Комітету Опору Диктатурі в Броварах"
 date: 2012-03-29
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "batkivshhina"
   - "vibir-redaktsiyi"

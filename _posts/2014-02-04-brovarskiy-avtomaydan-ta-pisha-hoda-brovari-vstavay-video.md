@@ -1,6 +1,9 @@
 ---
 title: "Броварський автомайдан та піша хода \"Бровари, вставай\" - ВІДЕО"
 date: 2014-02-04
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

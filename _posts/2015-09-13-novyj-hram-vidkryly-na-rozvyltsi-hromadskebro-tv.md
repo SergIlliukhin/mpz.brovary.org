@@ -1,6 +1,9 @@
 ---
 title: "Новий храм відкрили на Розвилці - HromadskeBro.tv"
 date: 2015-09-13
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

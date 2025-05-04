@@ -1,6 +1,9 @@
 ---
 title: "Вивезення сміття та енергозбереження - про що говорили на \"комунальній комісії\""
 date: 2015-12-02
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

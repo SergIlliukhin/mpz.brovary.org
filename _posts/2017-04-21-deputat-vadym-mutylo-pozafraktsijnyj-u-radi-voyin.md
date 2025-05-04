@@ -1,6 +1,9 @@
 ---
 title: "Депутат Вадим Мутило: і позафракційний у раді воїн"
 date: 2017-04-21
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "interview"
   - "hromada"

@@ -1,6 +1,9 @@
 ---
 title: "Громадська рада при управлінні освіти прозвітувала за 2 роки роботи і склала свої повноваження"
 date: 2017-05-12
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

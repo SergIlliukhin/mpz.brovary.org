@@ -1,6 +1,9 @@
 ---
 title: "Неочікуване промо"
 date: 2012-04-17
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

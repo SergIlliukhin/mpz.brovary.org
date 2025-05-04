@@ -1,6 +1,9 @@
 ---
 title: "Броварського суддю... судитимуть за репресії активістів"
 date: 2015-06-05
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

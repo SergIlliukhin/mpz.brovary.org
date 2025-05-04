@@ -1,6 +1,9 @@
 ---
 title: "Створюємо реєстр броварських «спортсменів»-бойовиків, які нападають на журналістів та активістів"
 date: 2013-05-28
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "rozsliduvannya"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Як досягти значної економії енергоресурсів? Приклад ОСББ \"Симоненка, 2-А\""
 date: 2015-05-03
+author: 
+  username: "sauk"
+  display_name: "Андрій Саук"
 categories: 
   - "kolonka-avtora"
 tags: 

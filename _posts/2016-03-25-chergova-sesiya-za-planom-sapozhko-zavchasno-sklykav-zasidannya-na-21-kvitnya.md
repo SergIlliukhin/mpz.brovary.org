@@ -1,6 +1,9 @@
 ---
 title: "Чергова сесія за планом: Сапожко «завчасно» скликав засідання на 21 квітня"
 date: 2016-03-25
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
 tags: 

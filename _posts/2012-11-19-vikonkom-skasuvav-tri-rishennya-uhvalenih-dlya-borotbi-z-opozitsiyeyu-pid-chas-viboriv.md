@@ -1,6 +1,9 @@
 ---
 title: "Виконком скасував три рішення, ухвалених для боротьби з опозицією під час виборів"
 date: 2012-11-19
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 tags: 
   - "agitatsiya"
   - "brovary"

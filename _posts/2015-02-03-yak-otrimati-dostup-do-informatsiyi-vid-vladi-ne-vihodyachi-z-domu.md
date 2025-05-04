@@ -1,6 +1,9 @@
 ---
 title: "Як отримати доступ до інформації від влади, не виходячи з дому"
 date: 2015-02-03
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "rozsliduvannya"
 tags: 

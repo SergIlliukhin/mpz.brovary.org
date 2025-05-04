@@ -1,6 +1,9 @@
 ---
 title: "Військовий стан на МПЗ"
 date: 2012-10-21
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"
 tags: 

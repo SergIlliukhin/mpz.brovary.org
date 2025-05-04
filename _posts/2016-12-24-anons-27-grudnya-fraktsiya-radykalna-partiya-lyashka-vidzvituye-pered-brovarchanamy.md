@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 27 грудня фракція \"Радикальна партія Ляшка\" відзвітує перед броварчанами"
 date: 2016-12-24
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

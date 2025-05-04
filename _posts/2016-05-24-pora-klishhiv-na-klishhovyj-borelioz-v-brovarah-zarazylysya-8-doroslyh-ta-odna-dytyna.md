@@ -1,6 +1,9 @@
 ---
 title: "Пора кліщів: на кліщовий бореліоз у Броварах заразилися 8 дорослих та одна дитина"
 date: 2016-05-24
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

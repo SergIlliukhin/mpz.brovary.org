@@ -1,6 +1,9 @@
 ---
 title: "Броварчани вийшли на мітинг проти підвищення тарифів на комунальні послуги"
 date: 2013-04-01
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "aktsiyi-zahodi"
 tags: 

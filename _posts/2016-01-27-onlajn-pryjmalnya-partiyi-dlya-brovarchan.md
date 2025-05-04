@@ -1,6 +1,9 @@
 ---
 title: "Онлайн-приймальня партії для броварчан!"
 date: 2016-01-27
+author: 
+  username: "batkivshchyna"
+  display_name: "Батьківщина"
 categories: 
   - "kolonka-avtora"
 tags: 

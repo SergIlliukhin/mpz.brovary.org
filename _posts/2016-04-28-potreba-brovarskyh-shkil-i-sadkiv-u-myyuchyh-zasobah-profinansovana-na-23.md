@@ -1,6 +1,9 @@
 ---
 title: "Потреба броварських шкіл і садків у миючих засобах профінансована на 23%"
 date: 2016-04-28
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Процес пішов: члени броварської ОВК з виборів Президента прийняли присягу"
 date: 2014-04-17
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "vibir-redaktsiyi"
   - "vibori-prezidenta"

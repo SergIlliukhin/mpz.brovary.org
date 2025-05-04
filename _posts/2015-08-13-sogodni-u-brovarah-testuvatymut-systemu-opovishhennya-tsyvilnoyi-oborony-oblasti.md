@@ -1,6 +1,9 @@
 ---
 title: "Сьогодні у Броварах тестуватимуть систему оповіщення цивільної оборони області"
 date: 2015-08-13
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

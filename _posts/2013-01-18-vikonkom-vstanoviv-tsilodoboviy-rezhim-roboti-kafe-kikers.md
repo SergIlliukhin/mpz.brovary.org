@@ -1,6 +1,9 @@
 ---
 title: "Виконком встановив цілодобовий режим роботи кафе «Кікерс»"
 date: 2013-01-18
+author: 
+  username: "serzhov"
+  display_name: "Сергій Севрук"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

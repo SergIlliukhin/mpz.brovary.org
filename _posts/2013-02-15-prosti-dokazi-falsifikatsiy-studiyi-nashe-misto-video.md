@@ -1,6 +1,9 @@
 ---
 title: "Прості докази фальсифікацій студії \"Наше місто\". ВІДЕО"
 date: 2013-02-15
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 ---

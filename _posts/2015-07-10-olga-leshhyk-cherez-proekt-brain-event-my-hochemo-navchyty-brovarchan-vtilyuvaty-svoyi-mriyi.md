@@ -1,6 +1,9 @@
 ---
 title: "Ольга Лещик: Через проект \"Brain Event\" ми хочемо навчити броварчан втілювати свої мрії"
 date: 2015-07-10
+author: 
+  username: "onikienko"
+  display_name: "Вікторія Оникієнко"
 categories: 
   - "interview"
   - "hromada"

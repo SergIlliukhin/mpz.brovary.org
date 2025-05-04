@@ -1,6 +1,9 @@
 ---
 title: "Щоденне пограбування, котре ми не помічаємо"
 date: 2016-01-31
+author: 
+  username: "cherednik"
+  display_name: "Юрій Чередник"
 categories: 
   - "kolonka-avtora"
 tags: 

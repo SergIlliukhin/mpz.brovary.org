@@ -1,6 +1,9 @@
 ---
 title: "12 мільйонів гривень витратять на добудову поліклініки на Шевченка - ОНОВЛЕНО"
 date: 2015-10-09
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

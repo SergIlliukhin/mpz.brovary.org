@@ -1,6 +1,9 @@
 ---
 title: "Країна готується до війни, а мер Броварів пішов у відпустку"
 date: 2014-03-01
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "У Броварах пам’ять жертв Голодомору вшанували свічками, фотокартинами та фільмом"
 date: 2013-11-25
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 categories: 
   - "aktsiyi-zahodi"
 tags: 

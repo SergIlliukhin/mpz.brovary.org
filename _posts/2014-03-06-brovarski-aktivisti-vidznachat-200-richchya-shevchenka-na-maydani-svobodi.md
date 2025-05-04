@@ -1,6 +1,9 @@
 ---
 title: "Броварські активісти відзначать 200-річчя Шевченка на Майдані Свободи"
 date: 2014-03-06
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "announce"
 tags: 

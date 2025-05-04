@@ -1,6 +1,9 @@
 ---
 title: "Громрада при управлінні освіти: миючі засоби, оренда у школах, інклюзія, психологічний супровід батьків та дітей"
 date: 2017-03-06
+author: 
+  username: "tkachuk"
+  display_name: "Вікторія Ткачук"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

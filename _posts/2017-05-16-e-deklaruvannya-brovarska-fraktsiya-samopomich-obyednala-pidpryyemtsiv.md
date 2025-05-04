@@ -1,6 +1,9 @@
 ---
 title: "Е-декларування: броварська фракція \"Самопоміч\" об'єднала підприємців"
 date: 2017-05-16
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "rozsliduvannya"
   - "vlada"

@@ -1,6 +1,9 @@
 ---
 title: "За чим звертаються броварчани до міської ради?"
 date: 2017-02-02
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

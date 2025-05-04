@@ -1,6 +1,9 @@
 ---
 title: "«Батьківщину» фінансують із фіктивних джерел, у справі фігурують броварчани, - рух \"ЧЕСНО\""
 date: 2017-03-25
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "rozsliduvannya"
   - "vlada"

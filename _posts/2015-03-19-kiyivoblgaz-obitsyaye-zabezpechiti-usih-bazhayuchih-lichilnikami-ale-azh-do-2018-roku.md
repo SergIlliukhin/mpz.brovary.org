@@ -1,6 +1,9 @@
 ---
 title: "«Київоблгаз» обіцяє забезпечити усіх бажаючих лічильниками, але аж до 2018 року"
 date: 2015-03-19
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "lichilniki"
   - "novini"

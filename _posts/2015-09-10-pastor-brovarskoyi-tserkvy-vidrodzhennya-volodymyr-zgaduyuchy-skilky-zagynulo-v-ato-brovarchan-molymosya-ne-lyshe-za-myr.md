@@ -1,6 +1,9 @@
 ---
 title: "Капелан Володимир з Броварів : «Згадуючи, скільки загинуло в АТО броварчан, молимося не лише за мир»"
 date: 2015-09-10
+author: 
+  username: "komarovskyj"
+  display_name: "Комаровський Олексій"
 categories: 
   - "interview"
   - "hromada"

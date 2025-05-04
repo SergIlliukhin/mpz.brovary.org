@@ -1,6 +1,9 @@
 ---
 title: "7 червня відбудеться 21 чергова сесія Броварської міської ради"
 date: 2012-06-06
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

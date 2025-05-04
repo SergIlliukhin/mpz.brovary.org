@@ -1,6 +1,9 @@
 ---
 title: "Звіт за 180 днів, або півроку роботи"
 date: 2016-06-16
+author: 
+  username: "cherepejnik"
+  display_name: "Леонід Черепейнік"
 categories: 
   - "kolonka-avtora"
 ---

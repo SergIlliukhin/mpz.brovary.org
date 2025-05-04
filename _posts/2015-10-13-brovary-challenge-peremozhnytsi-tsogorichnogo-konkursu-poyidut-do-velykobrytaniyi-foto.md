@@ -1,6 +1,9 @@
 ---
 title: "Brovary Challenge: переможниці цьогорічного конкурсу поїдуть до Великобританії - ФОТО"
 date: 2015-10-13
+author: 
+  username: "onikienko"
+  display_name: "Вікторія Оникієнко"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

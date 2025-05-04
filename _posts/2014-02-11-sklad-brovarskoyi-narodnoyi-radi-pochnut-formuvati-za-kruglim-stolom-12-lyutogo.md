@@ -1,6 +1,9 @@
 ---
 title: "Склад Броварської Народної ради почнуть формувати за круглим столом 12 лютого"
 date: 2014-02-11
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

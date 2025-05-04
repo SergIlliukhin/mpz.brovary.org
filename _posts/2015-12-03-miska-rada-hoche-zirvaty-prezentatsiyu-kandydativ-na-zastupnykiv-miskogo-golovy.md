@@ -1,6 +1,9 @@
 ---
 title: "Міська рада хоче зірвати презентацію кандидатів на заступників міського голови?"
 date: 2015-12-03
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

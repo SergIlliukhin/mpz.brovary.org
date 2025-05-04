@@ -1,6 +1,9 @@
 ---
 title: "Внутрішній фронт. Частина І: броварчани займають позиції перед головною битвою за місто"
 date: 2014-11-26
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 ---

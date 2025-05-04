@@ -1,6 +1,9 @@
 ---
 title: "Вночі невідомі в масках підпалили приміщення на Петлюри, 21 - ФОТО"
 date: 2016-09-07
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

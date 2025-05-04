@@ -1,6 +1,9 @@
 ---
 title: "\"Визначали, визначаємо і будемо визначати…\", або пивний фестиваль замість Алеї спортивної слави"
 date: 2013-09-09
+author: 
+  username: "mobi"
+  display_name: "Марина Рубайло"
 categories: 
   - "kolonka-avtora"
 tags: 

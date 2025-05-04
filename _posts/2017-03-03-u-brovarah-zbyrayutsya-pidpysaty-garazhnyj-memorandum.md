@@ -1,6 +1,9 @@
 ---
 title: "У Броварах збираються підписати гаражний Меморандум"
 date: 2017-03-03
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

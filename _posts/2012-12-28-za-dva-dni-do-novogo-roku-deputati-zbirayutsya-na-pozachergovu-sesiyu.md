@@ -1,6 +1,9 @@
 ---
 title: "За два дні до Нового Року депутати збираються на позачергову сесію"
 date: 2012-12-28
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

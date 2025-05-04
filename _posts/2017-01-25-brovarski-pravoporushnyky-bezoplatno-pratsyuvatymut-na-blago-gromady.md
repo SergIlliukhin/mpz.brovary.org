@@ -1,6 +1,9 @@
 ---
 title: "Броварські правопорушники безоплатно працюватимуть на благо громади"
 date: 2017-01-25
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Броварська влада таємно підвищила тарифи на ЖКГ?"
 date: 2013-03-27
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "vibir-redaktsiyi"
   - "novini"

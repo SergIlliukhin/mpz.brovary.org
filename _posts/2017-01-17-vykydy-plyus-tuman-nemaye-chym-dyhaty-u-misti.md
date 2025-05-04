@@ -1,6 +1,9 @@
 ---
 title: "Викиди плюс туман = немає чим дихати у місті"
 date: 2017-01-17
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

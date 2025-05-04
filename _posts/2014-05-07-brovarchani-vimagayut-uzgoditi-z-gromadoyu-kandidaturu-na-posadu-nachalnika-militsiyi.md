@@ -1,6 +1,9 @@
 ---
 title: "Броварчани вимагають узгодити з громадою кандидатуру на посаду начальника міліції"
 date: 2014-05-07
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovarska-narodna-rada"
   - "vibir-redaktsiyi"

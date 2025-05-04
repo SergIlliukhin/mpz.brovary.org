@@ -1,6 +1,9 @@
 ---
 title: "Завтра у міськраді почнуть створювати Громадську раду при виконкомі"
 date: 2016-02-08
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "hromada"
   - "novyny"

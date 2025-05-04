@@ -1,6 +1,9 @@
 ---
 title: "Короткометражку про декомунізацію у Броварах покажуть на міжнародному кінофестивалі – ВІДЕО"
 date: 2016-07-20
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

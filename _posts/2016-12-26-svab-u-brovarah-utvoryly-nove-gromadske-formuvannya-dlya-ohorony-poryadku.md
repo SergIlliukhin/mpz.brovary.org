@@ -1,6 +1,9 @@
 ---
 title: "«СВАБ»: у Броварах утворили нове громадське формування для охорони порядку"
 date: 2016-12-26
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "hromada"
   - "novyny"

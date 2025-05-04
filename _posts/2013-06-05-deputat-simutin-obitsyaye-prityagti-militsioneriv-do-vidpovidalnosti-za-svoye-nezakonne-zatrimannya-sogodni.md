@@ -1,6 +1,9 @@
 ---
 title: "Голову броварського \"УДАРу\" Романа Сімутіна затримали та судять за \"непокору міліції\""
 date: 2013-06-05
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

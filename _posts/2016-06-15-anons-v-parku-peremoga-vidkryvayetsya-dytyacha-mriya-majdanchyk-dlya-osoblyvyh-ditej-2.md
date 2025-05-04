@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: В парку \"Перемога\" відкривається \"Дитяча Мрія\" - майданчик для особливих дітей"
 date: 2016-06-15
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

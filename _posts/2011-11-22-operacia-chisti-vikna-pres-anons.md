@@ -1,6 +1,9 @@
 ---
 title: "Операція \"Чисті вікна\""
 date: 2011-11-22
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "novini"
   - "pres-anons"

@@ -1,6 +1,9 @@
 ---
 title: "У вокальному талант-шоу \"Голос. Діти 3\" перемогла броварчанка Еліна Іващенко - ВІДЕО"
 date: 2016-12-05
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "hromada"
   - "novyny"

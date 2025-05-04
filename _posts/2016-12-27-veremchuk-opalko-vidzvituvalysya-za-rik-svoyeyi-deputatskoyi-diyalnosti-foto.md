@@ -1,6 +1,9 @@
 ---
 title: "Веремчук і Опалько відзвітувалися за рік своєї депутатської діяльності - ФОТО"
 date: 2016-12-27
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

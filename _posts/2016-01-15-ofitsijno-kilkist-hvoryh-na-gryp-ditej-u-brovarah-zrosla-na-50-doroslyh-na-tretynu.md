@@ -1,6 +1,9 @@
 ---
 title: "Офіційно: кількість хворих на грип дітей у Броварах зросла на 50%, дорослих – на третину"
 date: 2016-01-15
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

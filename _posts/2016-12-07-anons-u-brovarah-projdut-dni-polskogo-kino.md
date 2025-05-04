@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: У Броварах пройдуть Дні польського кіно"
 date: 2016-12-07
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

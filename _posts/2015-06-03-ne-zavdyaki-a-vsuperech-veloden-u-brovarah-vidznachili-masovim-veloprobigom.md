@@ -1,6 +1,9 @@
 ---
 title: "Не завдяки, а всупереч: Велодень у Броварах відзначили масовим велопробігом"
 date: 2015-06-03
+author: 
+  username: "komarovskyj"
+  display_name: "Комаровський Олексій"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

@@ -1,6 +1,9 @@
 ---
 title: "Небайдужі броварчани закликали зайнятись ділом, а не язиком"
 date: 2012-06-03
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "kolonka-avtora"
 tags: 

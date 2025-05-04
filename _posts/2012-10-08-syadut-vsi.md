@@ -1,6 +1,9 @@
 ---
 title: "Сядуть всі - ВІДЕО"
 date: 2012-10-08
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"
   - "video"

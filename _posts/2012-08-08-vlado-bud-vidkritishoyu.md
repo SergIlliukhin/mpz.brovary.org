@@ -1,6 +1,9 @@
 ---
 title: "Владо, будь відкритішою!"
 date: 2012-08-08
+author: 
+  username: "serzhov"
+  display_name: "Сергій Севрук"
 categories: 
   - "kolonka-avtora"
 tags: 

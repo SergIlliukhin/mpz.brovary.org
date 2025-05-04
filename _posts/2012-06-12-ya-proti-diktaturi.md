@@ -1,6 +1,9 @@
 ---
 title: "Я - проти диктатури"
 date: 2012-06-12
+author: 
+  username: "kravec"
+  display_name: "Юрій Кравець"
 categories: 
   - "kolonka-avtora"
 tags: 

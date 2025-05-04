@@ -1,6 +1,9 @@
 ---
 title: "Ідеалісти, що роблять «неможливе»: 10 фактів про команду «ДемАльянсу»"
 date: 2015-10-22
+author: 
+  username: "demalliance"
+  display_name: "ДемАльянс Бровари"
 categories: 
   - "kolonka-avtora"
 tags: 

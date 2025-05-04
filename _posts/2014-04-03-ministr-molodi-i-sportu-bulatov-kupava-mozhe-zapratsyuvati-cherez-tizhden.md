@@ -1,6 +1,9 @@
 ---
 title: "Міністр молоді і спорту Булатов: \"Купава\" може запрацювати через тиждень"
 date: 2014-04-03
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 categories: 
   - "video"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Задля допомоги фронту броварські патріоти організовують \"аукціон побачень\""
 date: 2014-11-12
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

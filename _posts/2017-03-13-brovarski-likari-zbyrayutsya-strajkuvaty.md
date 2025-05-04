@@ -1,6 +1,9 @@
 ---
 title: "Броварські лікарі збираються страйкувати?"
 date: 2017-03-13
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

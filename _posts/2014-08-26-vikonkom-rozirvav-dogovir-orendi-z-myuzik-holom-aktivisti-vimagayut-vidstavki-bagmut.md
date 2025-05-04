@@ -1,6 +1,9 @@
 ---
 title: "Виконком розірвав договір оренди з «Мюзік Холом». Активісти вимагають відставки Багмут"
 date: 2014-08-26
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

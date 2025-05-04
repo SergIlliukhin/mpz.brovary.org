@@ -1,6 +1,9 @@
 ---
 title: "Молодий броварчанин убив одного та порізав двох людей через розлитий чай"
 date: 2016-02-05
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Слідство заворушилось? Міліція розшукує постраждалих у шахрайстві з поліцейською академією"
 date: 2014-03-20
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 tags: 
   - "akademiya"
   - "vibir-redaktsiyi"

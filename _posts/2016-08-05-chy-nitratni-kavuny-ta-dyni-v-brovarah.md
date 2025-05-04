@@ -1,6 +1,9 @@
 ---
 title: "Чи «нітратні» в Броварах кавуни та дині ?"
 date: 2016-08-05
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

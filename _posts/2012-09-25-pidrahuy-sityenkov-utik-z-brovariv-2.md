@@ -1,6 +1,9 @@
 ---
 title: "Підрахуй Ситєнков утік з Броварів!"
 date: 2012-09-25
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

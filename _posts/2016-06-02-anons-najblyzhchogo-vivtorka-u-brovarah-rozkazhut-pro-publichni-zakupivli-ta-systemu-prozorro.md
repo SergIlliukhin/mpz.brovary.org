@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: Найближчого вівторка у Броварах розкажуть про публічні закупівлі та систему «Prozorro»"
 date: 2016-06-02
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

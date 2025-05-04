@@ -1,6 +1,9 @@
 ---
 title: "14-та позачергова сесія: депутати обрали нового секретаря"
 date: 2016-06-01
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "vlada"
   - "aktsiyi-zahodi"

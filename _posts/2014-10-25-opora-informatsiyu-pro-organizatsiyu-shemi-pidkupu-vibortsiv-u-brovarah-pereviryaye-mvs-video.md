@@ -1,6 +1,9 @@
 ---
 title: "ОПОРА: Інформацію про системний підкуп виборців у Броварах перевіряє МВС - ВІДЕО"
 date: 2014-10-25
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "barishivka"
   - "barishivskiy-rayon"

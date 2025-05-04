@@ -1,6 +1,9 @@
 ---
 title: "У навчальних закладах Броварів встановили 30 «тривожних кнопок»"
 date: 2015-10-06
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

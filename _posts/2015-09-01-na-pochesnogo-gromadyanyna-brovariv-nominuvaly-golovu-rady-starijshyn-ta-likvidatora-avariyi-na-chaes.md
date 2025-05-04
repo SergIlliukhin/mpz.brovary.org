@@ -1,6 +1,9 @@
 ---
 title: "На \"почесного громадянина\" Броварів номінували голову Ради старійшин та ліквідатора аварії на ЧАЕС"
 date: 2015-09-01
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "17-18 вересня частково обмежать рух Броварським проспектом"
 date: 2016-09-16
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

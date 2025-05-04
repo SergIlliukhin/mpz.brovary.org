@@ -1,6 +1,9 @@
 ---
 title: "Глава УГКЦ Святослав освятив накупольні хрести нового броварського храму, - ФОТО, ВІДЕО"
 date: 2016-02-15
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

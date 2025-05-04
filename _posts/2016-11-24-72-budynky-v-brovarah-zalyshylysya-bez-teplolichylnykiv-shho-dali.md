@@ -1,6 +1,9 @@
 ---
 title: "72 будинки в Броварах залишилися без теплолічильників: що далі?"
 date: 2016-11-24
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

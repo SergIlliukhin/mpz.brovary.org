@@ -1,6 +1,9 @@
 ---
 title: "Виборчі дільниці одномандатного виборчого округу №97"
 date: 2012-09-28
+author: 
+  username: "admin"
+  display_name: "admin"
 ---
 
 **Персональний склад дільничих виборчих комісій округу №97 (перша версія)** 1) [ДВК Баришівки та Баришівського району](https://mpz.brovary.org/wp-content/uploads/2012/11/DVK_1_Baryshivka.pdf) 2) [ДВК Броварського району](https://mpz.brovary.org/wp-content/uploads/2012/11/DVK_2_Brovary_region.pdf) 3) [ДВК м. Березань](https://mpz.brovary.org/wp-content/uploads/2012/11/DVK_3_Berezan.pdf) 4) [ДВК м. Бровари](https://mpz.brovary.org/wp-content/uploads/2012/11/DVK_4_Brovary.pdf) **[Загальний перелік складу ДВК округу № 97](https://mpz.brovary.org/wp-content/uploads/2012/11/DVK_total.pdf)**

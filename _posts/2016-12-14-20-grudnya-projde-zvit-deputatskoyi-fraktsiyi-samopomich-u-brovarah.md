@@ -1,6 +1,9 @@
 ---
 title: "20 грудня пройде звіт депутатської фракції \"Самопоміч\" у Броварах"
 date: 2016-12-14
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

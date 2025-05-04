@@ -1,6 +1,9 @@
 ---
 title: "Бомбосховища Броварів: міськрада приховує, а суд умиває руки"
 date: 2015-02-17
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 tags: 
   - "biliy"
   - "bmr"

@@ -1,6 +1,9 @@
 ---
 title: "У суботу на стадіоні \"Спартак\" ФК \"Бровари\" зіграє з ФК \"Бориспіль\""
 date: 2014-04-17
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

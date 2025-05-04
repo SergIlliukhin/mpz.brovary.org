@@ -1,6 +1,9 @@
 ---
 title: "Кома, яка вирішила долю, кому ж із учасників бойових дій «положена» земля під гаражі"
 date: 2017-06-15
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "vlada"
   - "aktsiyi-zahodi"

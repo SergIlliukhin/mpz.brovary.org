@@ -1,6 +1,9 @@
 ---
 title: "На підтримку кандидата в нардепи Олега Іваненка пройде автопробіг по Броварах та району"
 date: 2012-08-29
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

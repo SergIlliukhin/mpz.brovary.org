@@ -1,6 +1,9 @@
 ---
 title: "13 квітня на зборах громади броварчани вирішуватимуть проблему підтоплення \"старого міста\""
 date: 2013-04-11
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

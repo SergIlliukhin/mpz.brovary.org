@@ -1,6 +1,9 @@
 ---
 title: "«Порошковий» завод на межі страйку: вимагають виплати зарплат та звільнити з посад людей Царьова"
 date: 2014-06-23
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "vibir-redaktsiyi"
   - "garnyk"

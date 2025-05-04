@@ -1,6 +1,9 @@
 ---
 title: "Як нам врятувати басейн? Перші кроки"
 date: 2013-02-19
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

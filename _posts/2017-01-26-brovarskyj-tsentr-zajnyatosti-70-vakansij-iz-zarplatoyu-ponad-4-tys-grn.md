@@ -1,6 +1,9 @@
 ---
 title: "Броварський центр зайнятості: 70% вакансій із зарплатою понад 4 тис грн"
 date: 2017-01-26
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

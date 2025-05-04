@@ -1,6 +1,9 @@
 ---
 title: "Микола Клименко відсьогодні став головою Броварської РДА"
 date: 2017-02-13
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

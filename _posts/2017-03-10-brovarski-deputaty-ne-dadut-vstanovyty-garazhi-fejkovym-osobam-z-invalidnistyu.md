@@ -1,6 +1,9 @@
 ---
 title: "Броварські депутати не дадуть встановити гаражі фейковим особам з інвалідністю"
 date: 2017-03-10
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

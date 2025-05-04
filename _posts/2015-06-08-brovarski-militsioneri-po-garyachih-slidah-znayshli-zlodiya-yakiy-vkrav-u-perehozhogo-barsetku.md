@@ -1,6 +1,9 @@
 ---
 title: "Броварські міліціонери за \"гарячими слідами\" знайшли злодія, який вкрав у перехожого барсетку"
 date: 2015-06-08
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
 tags: 

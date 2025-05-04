@@ -1,6 +1,9 @@
 ---
 title: "\"Народний контроль\" з'ясував, що лише 8% відвідувачів поліклініки задоволені якістю послуг"
 date: 2015-04-16
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "bagnyuk"
   - "brovarskiy-narodniy-kontrol"

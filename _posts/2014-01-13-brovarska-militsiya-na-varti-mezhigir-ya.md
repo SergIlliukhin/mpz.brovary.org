@@ -1,6 +1,9 @@
 ---
 title: "Броварська міліція на варті Межигір’я"
 date: 2014-01-13
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 ---

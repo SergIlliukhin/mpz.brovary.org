@@ -1,6 +1,9 @@
 ---
 title: "Тривалі події навколо «Чистих матеріалів» не приносять суттєвих результатів"
 date: 2013-02-15
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 tags: 
   - "andryeyev"
   - "vibir-redaktsiyi"

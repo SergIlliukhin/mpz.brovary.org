@@ -1,6 +1,9 @@
 ---
 title: "Скандал у броварському морзі: депутат порушує монополію поховальної фірми \"Петро Великий\"?"
 date: 2017-07-31
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "vlada"
   - "aktsiyi-zahodi"

@@ -1,6 +1,9 @@
 ---
 title: "ІІ Фестиваль «SOS Family Fest»"
 date: 2016-04-21
+author: 
+  username: "SOSKid"
+  display_name: "СОС Дитяче містечко"
 categories: 
   - "kolonka-avtora"
 ---

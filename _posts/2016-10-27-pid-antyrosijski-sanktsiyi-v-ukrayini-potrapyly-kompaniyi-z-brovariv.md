@@ -1,6 +1,9 @@
 ---
 title: "Під антиросійські санкції в Україні потрапили компанії з Броварів"
 date: 2016-10-27
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

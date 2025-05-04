@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 1 жовтня активісти проведуть юридичний лікбез для переселенців"
 date: 2016-09-29
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

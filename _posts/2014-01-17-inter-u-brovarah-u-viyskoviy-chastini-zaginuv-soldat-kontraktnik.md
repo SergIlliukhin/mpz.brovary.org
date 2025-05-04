@@ -1,6 +1,9 @@
 ---
 title: "\"Інтер\": У Броварах у військовій частині убили солдата-контрактника"
 date: 2014-01-17
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "inter"
   - "brovary"

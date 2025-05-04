@@ -1,6 +1,9 @@
 ---
 title: "У твердопаливній котельні на Симоненка встановлено додатковий фільтр для очищення повітря"
 date: 2015-09-11
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

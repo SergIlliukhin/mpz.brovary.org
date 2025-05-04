@@ -1,6 +1,9 @@
 ---
 title: "\"УДАРівці\" впевнені, що зможуть зупинити фальсифікації на виборах в окрузі № 97"
 date: 2012-10-01
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 tags: 
   - "vibir-redaktsiyi"
   - "vibori-2012"

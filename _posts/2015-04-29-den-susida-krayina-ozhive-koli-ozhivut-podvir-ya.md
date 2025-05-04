@@ -1,6 +1,9 @@
 ---
 title: "День Сусіда: Країна оживе, коли оживуть подвір'я"
 date: 2015-04-29
+author: 
+  username: "kuznecov"
+  display_name: "Кузнєцов Володимир"
 categories: 
   - "kolonka-avtora"
 tags: 

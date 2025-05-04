@@ -1,6 +1,9 @@
 ---
 title: "Сапожка викликають на Банкову по справі знищення Радіопередавального центру"
 date: 2016-04-20
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

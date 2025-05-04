@@ -1,6 +1,9 @@
 ---
 title: "Створено громадський реєстр публічної інформації Броварської міської ради"
 date: 2012-03-26
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"
   - "vykonkom"

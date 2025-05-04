@@ -1,6 +1,9 @@
 ---
 title: "У Броварах амброзія росте біля дитячих майданчиків та у центральному парку"
 date: 2012-09-07
+author: 
+  username: "serzhov"
+  display_name: "Сергій Севрук"
 tags: 
   - "alergiya"
   - "ambroziya"

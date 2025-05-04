@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: Сьогодні у Броварах говоритимуть про важливість безбар'єрної інфраструктурі в місті"
 date: 2015-12-01
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

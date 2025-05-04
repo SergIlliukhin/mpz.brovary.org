@@ -1,6 +1,9 @@
 ---
 title: "Як лікувати \"ускладнення\" від тривалої імітації демократії? Починати з себе!"
 date: 2014-05-07
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 categories: 
   - "kolonka-avtora"
 tags: 

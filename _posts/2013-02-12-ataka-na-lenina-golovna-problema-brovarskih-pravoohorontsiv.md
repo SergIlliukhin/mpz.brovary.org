@@ -1,6 +1,9 @@
 ---
 title: "Атака на Леніна - головна проблема броварських правоохоронців"
 date: 2013-02-12
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

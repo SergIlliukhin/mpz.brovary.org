@@ -1,6 +1,9 @@
 ---
 title: "Семиполки проти підвищення тарифів"
 date: 2013-02-07
+author: 
+  username: "bruhov"
+  display_name: "Володимир Брюхов"
 categories: 
   - "kolonka-avtora"
 ---

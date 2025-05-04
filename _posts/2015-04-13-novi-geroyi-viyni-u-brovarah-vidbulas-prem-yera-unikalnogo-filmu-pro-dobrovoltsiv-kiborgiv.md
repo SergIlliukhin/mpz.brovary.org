@@ -1,6 +1,9 @@
 ---
 title: "Нові герої війни: у Броварах відбулась прем'єра унікального фільму про добровольців-кіборгів"
 date: 2015-04-13
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "vibir-redaktsiyi"
   - "dobrovoltsi-bozhoyi-choti"

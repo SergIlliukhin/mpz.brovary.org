@@ -1,6 +1,9 @@
 ---
 title: "Три сотні броварчан об’єднались у живий ланцюг заради миру в Україні"
 date: 2014-04-17
+author: 
+  username: "veta"
+  display_name: "Єлизавета Ковальчук"
 categories: 
   - "aktsiyi-zahodi"
 tags: 

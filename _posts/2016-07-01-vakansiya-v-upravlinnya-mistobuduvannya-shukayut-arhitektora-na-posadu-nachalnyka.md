@@ -1,6 +1,9 @@
 ---
 title: "Вакансія: в управління містобудування шукають архітектора на посаду начальника"
 date: 2016-07-01
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Пропозиції щодо перейменування вулиць у Броварах винесено на громадське обговорення"
 date: 2015-06-26
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "hromada"
   - "novyny"

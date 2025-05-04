@@ -1,6 +1,9 @@
 ---
 title: "Волонтери фонду «Чотири лапи» простерилізували 230 безпритульних тварин у Броварах. Що далі?"
 date: 2015-05-28
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
 tags: 

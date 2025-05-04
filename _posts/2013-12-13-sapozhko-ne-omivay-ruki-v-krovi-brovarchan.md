@@ -1,6 +1,9 @@
 ---
 title: "Сапожко, не омивай руки в крові броварчан!"
 date: 2013-12-13
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 ---

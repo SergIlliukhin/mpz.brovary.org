@@ -1,6 +1,9 @@
 ---
 title: "Броварські валютні позичальники об’єднуються задля захисту власних прав"
 date: 2015-02-10
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 tags: 
   - "bakatova"
   - "vatyuta"

@@ -1,6 +1,9 @@
 ---
 title: "Розстріл поліцейських у Княжичах: запитань більше, ніж відповідей – ВІДЕО"
 date: 2016-12-21
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "video"
   - "novyny"

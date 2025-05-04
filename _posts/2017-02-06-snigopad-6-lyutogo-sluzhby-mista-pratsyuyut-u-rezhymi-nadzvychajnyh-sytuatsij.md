@@ -1,6 +1,9 @@
 ---
 title: "Снігопад 6 лютого: служби міста працюють у режимі надзвичайних ситуацій"
 date: 2017-02-06
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

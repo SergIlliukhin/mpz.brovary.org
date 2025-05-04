@@ -1,6 +1,9 @@
 ---
 title: "«Розкіш» спокійного сну на бульварі Незалежності або «Гудбай, Багмут!»"
 date: 2014-08-13
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 ---

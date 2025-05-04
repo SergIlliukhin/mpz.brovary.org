@@ -1,6 +1,9 @@
 ---
 title: "Як за 6 хвилин «наговорити» на судовий позов. Бліц-тренінг від Рибакової - ВІДЕО"
 date: 2015-03-31
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

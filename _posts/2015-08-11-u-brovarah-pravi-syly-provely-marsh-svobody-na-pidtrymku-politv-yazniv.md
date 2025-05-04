@@ -1,6 +1,9 @@
 ---
 title: "У Броварах «праві» сили провели Марш Свободи на підтримку політв’язнів"
 date: 2015-08-11
+author: 
+  username: "komarovskyj"
+  display_name: "Комаровський Олексій"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

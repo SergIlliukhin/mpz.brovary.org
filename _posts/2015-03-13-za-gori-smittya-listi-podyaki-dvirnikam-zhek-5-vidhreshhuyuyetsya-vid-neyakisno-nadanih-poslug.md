@@ -1,6 +1,9 @@
 ---
 title: "За гори сміття - листи подяки двірникам: ЖЕК № 5 відхрещуюється від неякісно наданих послуг"
 date: 2015-03-13
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

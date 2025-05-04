@@ -1,6 +1,9 @@
 ---
 title: "Звернення Народної Ради у зв'язку з іноземною інтервенцією на територію України"
 date: 2014-03-02
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 categories: 
   - "kolonka-avtora"
 tags: 

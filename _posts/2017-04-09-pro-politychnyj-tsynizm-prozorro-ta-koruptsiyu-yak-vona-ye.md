@@ -1,6 +1,9 @@
 ---
 title: "Про політичний цинізм, Прозорро та корупцію, як вона є"
 date: 2017-04-09
+author: 
+  username: "sauk"
+  display_name: "Андрій Саук"
 categories: 
   - "kolonka-avtora"
 ---

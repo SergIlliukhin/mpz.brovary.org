@@ -1,6 +1,9 @@
 ---
 title: "Конкурс на вивезення сміття у Броварах «розіграли» фірми батька і сина"
 date: 2017-07-04
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "rozsliduvannya"
   - "vlada"

@@ -1,6 +1,9 @@
 ---
 title: "Тушонка з ботулізмом, 4 ДТП за день, черги під час медогляду дітей - оперативні новини"
 date: 2017-07-24
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

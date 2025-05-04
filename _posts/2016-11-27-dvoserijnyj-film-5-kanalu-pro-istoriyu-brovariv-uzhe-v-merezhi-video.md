@@ -1,6 +1,9 @@
 ---
 title: "Двосерійний фільм «5 каналу» про історію Броварів уже в мережі – ВІДЕО"
 date: 2016-11-27
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "kolonka-avtora"
 tags: 

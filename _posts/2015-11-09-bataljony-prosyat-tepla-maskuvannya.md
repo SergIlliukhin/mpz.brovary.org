@@ -1,6 +1,9 @@
 ---
 title: "Батальйони просять тепла і маскування"
 date: 2015-11-09
+author: 
+  username: "koorcentr"
+  display_name: "Коордцентр допомоги військовим"
 categories: 
   - "kolonka-avtora"
 ---

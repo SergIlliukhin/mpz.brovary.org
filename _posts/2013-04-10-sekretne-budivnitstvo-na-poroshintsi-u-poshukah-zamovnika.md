@@ -1,6 +1,9 @@
 ---
 title: "«Секретне» будівництво на Порошинці: у пошуках замовника"
 date: 2013-04-10
+author: 
+  username: "veta"
+  display_name: "Єлизавета Ковальчук"
 categories: 
   - "rozsliduvannya"
 tags: 

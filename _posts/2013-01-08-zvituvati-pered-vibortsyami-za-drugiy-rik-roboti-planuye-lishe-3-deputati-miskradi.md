@@ -1,6 +1,9 @@
 ---
 title: "Звітувати перед виборцями за другий рік роботи планує лише 3 депутати міськради?"
 date: 2013-01-08
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 tags: 
   - "ivanenko"
   - "brovary"

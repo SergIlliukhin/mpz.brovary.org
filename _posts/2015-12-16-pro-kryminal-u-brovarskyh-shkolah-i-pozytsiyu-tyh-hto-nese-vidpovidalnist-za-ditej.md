@@ -1,6 +1,9 @@
 ---
 title: "Кримінал у броварських школах: хто несе відповідальність?"
 date: 2015-12-16
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "rozsliduvannya"
   - "brovary"

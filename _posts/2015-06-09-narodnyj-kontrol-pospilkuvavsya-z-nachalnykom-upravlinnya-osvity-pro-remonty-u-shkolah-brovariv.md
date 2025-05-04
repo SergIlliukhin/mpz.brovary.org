@@ -1,6 +1,9 @@
 ---
 title: "\"Народний контроль\" розпитали начальника управління освіти про ремонти у школах Броварів"
 date: 2015-06-09
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

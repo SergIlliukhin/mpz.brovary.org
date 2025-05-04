@@ -1,6 +1,9 @@
 ---
 title: "Цієї суботи броварчани вирішили прибрати житловий масив, а наступної візьмуться за чистоту в лісі"
 date: 2014-03-28
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 categories: 
   - "announce"
 tags: 

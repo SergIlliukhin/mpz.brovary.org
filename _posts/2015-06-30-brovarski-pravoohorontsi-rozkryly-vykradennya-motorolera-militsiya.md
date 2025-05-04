@@ -1,6 +1,9 @@
 ---
 title: "Броварська міліція розкрила викрадення моторолера - знайшли у ремонтній майстерні"
 date: 2015-06-30
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

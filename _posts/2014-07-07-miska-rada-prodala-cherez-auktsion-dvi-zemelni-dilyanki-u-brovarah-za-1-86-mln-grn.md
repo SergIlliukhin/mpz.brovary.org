@@ -1,6 +1,9 @@
 ---
 title: "Міська рада продала через аукціон дві земельні ділянки у Броварах за 1,86 млн грн"
 date: 2014-07-07
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "auktsion"
   - "brovariinvestbud"

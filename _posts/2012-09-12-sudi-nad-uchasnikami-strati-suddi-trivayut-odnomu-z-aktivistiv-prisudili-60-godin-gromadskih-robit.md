@@ -1,6 +1,9 @@
 ---
 title: "«Кату продажної судді» присудили 60 годин громадських робіт"
 date: 2012-09-12
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 tags: 
   - "vitaliy-zaporozhets"
   - "vibir-redaktsiyi"

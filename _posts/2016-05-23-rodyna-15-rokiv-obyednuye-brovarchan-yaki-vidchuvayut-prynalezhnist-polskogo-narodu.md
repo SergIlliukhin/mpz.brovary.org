@@ -1,6 +1,9 @@
 ---
 title: "\"Родина\": 15 років об'єднує броварчан, які відчувають приналежність до польського народу"
 date: 2016-05-23
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

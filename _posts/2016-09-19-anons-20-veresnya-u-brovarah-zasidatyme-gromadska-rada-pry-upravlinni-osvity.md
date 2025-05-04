@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 20 вересня у Броварах засідатиме Громадська рада при управлінні освіти"
 date: 2016-09-19
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

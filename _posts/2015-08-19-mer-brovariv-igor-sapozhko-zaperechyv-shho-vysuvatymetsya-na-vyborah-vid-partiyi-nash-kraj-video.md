@@ -1,6 +1,9 @@
 ---
 title: "Мер Броварів заперечив, що висуватиметься на виборах від партії «Наш край» - ВІДЕО"
 date: 2015-08-19
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

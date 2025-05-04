@@ -1,6 +1,9 @@
 ---
 title: "З правосуддям на \"ти\""
 date: 2015-03-27
+author: 
+  username: "balabaev"
+  display_name: "Андрій Балабаєв"
 categories: 
   - "kolonka-avtora"
 tags: 

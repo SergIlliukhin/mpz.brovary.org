@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 19 лютого - Діалог про Громадський бюджет участі на реальних прикладах"
 date: 2017-02-17
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

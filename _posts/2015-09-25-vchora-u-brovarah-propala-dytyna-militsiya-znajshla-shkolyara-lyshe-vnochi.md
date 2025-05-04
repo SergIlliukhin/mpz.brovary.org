@@ -1,6 +1,9 @@
 ---
 title: "Вчора у Броварах пропала дитина: міліція знайшла школяра лише вночі"
 date: 2015-09-25
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

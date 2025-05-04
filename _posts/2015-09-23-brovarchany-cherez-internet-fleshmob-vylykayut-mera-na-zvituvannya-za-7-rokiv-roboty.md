@@ -1,6 +1,9 @@
 ---
 title: "Броварчани через інтернет-флешмоб викликають мера на звітування за 7 років роботи"
 date: 2015-09-23
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "hromada"
   - "novyny"

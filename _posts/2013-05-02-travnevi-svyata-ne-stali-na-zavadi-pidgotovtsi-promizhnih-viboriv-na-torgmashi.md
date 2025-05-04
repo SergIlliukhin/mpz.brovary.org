@@ -1,6 +1,9 @@
 ---
 title: "Травневі свята не завадили підготовці проміжних виборів на Торгмаші"
 date: 2013-05-02
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 tags: 
   - "vibir-redaktsiyi"
   - "vibori"

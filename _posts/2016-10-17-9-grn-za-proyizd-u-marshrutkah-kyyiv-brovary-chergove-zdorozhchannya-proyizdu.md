@@ -1,6 +1,9 @@
 ---
 title: "9 грн за проїзд: у маршрутках «Київ – Бровари» - чергове здорожчання проїзду"
 date: 2016-10-17
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

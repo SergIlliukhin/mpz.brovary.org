@@ -1,6 +1,9 @@
 ---
 title: "Броварського суддю Батюка притягатимуть за справу проти автомайданівця Качора"
 date: 2017-04-11
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "hromada"
   - "novyny"

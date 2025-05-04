@@ -1,6 +1,9 @@
 ---
 title: "Мовчати стало неможливо - балотуємося в депутати!!?"
 date: 2012-08-14
+author: 
+  username: "bazir"
+  display_name: "Анатолій Базір"
 categories: 
   - "kolonka-avtora"
 tags: 

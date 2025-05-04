@@ -1,6 +1,9 @@
 ---
 title: "Виконком: До 22 липня проїзд по вулиці Сєрова на Пекарні буде перекритий – ОНОВЛЕНО"
 date: 2016-07-14
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

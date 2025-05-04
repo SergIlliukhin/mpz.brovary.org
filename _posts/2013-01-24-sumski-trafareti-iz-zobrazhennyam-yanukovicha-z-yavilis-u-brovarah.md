@@ -1,6 +1,9 @@
 ---
 title: "«Сумські трафарети» із зображенням Януковича з’явились у Броварах"
 date: 2013-01-24
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "video"
 tags: 

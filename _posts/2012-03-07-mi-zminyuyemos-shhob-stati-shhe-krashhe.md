@@ -1,6 +1,9 @@
 ---
 title: "Ми змінюємось, щоб стати ще краще!"
 date: 2012-03-07
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

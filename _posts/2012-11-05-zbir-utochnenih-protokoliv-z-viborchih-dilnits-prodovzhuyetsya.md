@@ -1,6 +1,9 @@
 ---
 title: "ОВК продовжує збирати уточнені протоколи з виборчих дільниць"
 date: 2012-11-05
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "vibori-2012"
   - "novini"

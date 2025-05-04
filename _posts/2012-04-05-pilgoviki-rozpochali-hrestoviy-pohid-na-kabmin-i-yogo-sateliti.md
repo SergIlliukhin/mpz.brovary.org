@@ -1,6 +1,9 @@
 ---
 title: "Пільговики розпочали «хрестовий похід» на Кабмін і його сателіти"
 date: 2012-04-05
+author: 
+  username: "kravec"
+  display_name: "Юрій Кравець"
 categories: 
   - "kolonka-avtora"
 tags: 

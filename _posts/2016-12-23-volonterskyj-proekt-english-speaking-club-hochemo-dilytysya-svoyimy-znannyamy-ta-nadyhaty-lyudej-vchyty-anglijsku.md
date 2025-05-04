@@ -1,6 +1,9 @@
 ---
 title: "Волонтерський проект English Speaking Club: \"Ми хочемо ділитися своїми знаннями та надихати людей вчити англійську\""
 date: 2016-12-23
+author: 
+  username: "ulitenko"
+  display_name: "Ірина Улітенко"
 categories: 
   - "interview"
   - "hromada"

@@ -1,6 +1,9 @@
 ---
 title: "ЦВК за вказівкою влади йде на відверту брехню та порушення"
 date: 2012-08-13
+author: 
+  username: "kravec"
+  display_name: "Юрій Кравець"
 categories: 
   - "kolonka-avtora"
 tags: 

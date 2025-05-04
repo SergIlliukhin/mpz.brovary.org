@@ -1,6 +1,9 @@
 ---
 title: "Броварська влада планує обмежити використання  системи електронних закупівель ProZorro"
 date: 2016-11-23
+author: 
+  username: "demalliance"
+  display_name: "ДемАльянс Бровари"
 categories: 
   - "kolonka-avtora"
 ---

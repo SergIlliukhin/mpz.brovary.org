@@ -1,6 +1,9 @@
 ---
 title: "Директорів шкіл обиратимуть за конкурсом, - Громадська рада"
 date: 2016-05-26
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "В Броварах пройшла лекція президентки \"Let's Do It, Ukraine!\""
 date: 2016-12-20
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

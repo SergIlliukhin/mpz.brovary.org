@@ -1,6 +1,9 @@
 ---
 title: "Як броварські регіонали паркову зону захоплювали"
 date: 2012-01-03
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "andreyev"
   - "bazyshyn"

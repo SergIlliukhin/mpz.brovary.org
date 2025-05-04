@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: Перспективи домашнього навчання обговорюватимуть броварські хоумскулери в цю суботу"
 date: 2016-01-28
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

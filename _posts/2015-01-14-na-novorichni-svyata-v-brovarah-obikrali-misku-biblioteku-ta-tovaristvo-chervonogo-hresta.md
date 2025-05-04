@@ -1,6 +1,9 @@
 ---
 title: "На новорічні свята в Броварах обікрали міську бібліотеку та Товариство Червоного Хреста"
 date: 2015-01-14
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 tags: 
   - "biblioteka"
   - "brovary"

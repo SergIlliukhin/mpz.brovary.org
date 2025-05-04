@@ -1,6 +1,9 @@
 ---
 title: "Броварська влада піарить сепаратистську символіку?"
 date: 2014-05-05
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 categories: 
   - "kolonka-avtora"
 tags: 

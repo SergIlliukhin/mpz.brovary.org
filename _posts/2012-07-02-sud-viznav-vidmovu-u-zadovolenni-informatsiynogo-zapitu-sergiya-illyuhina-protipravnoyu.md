@@ -1,6 +1,9 @@
 ---
 title: "Суд визнав відмову у задоволенні запиту на інформацію Сергія Іллюхіна протиправною"
 date: 2012-07-02
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "illyuhin"
   - "vibir-redaktsiyi"

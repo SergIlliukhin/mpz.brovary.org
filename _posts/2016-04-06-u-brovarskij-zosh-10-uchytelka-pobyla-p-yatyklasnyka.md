@@ -1,6 +1,9 @@
 ---
 title: "Скандал у броварській освіті: у ЗОШ №10 учителька побила п’ятикласника"
 date: 2016-04-06
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "hromada"
   - "brovary"

@@ -1,6 +1,9 @@
 ---
 title: "Броварчан почав навчати фрілансу відомий блогер Пилип Духлій"
 date: 2016-04-08
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

@@ -1,6 +1,9 @@
 ---
 title: "Починаємо проект \"Бровари - безпечне місто\""
 date: 2015-04-21
+author: 
+  username: "samopomich"
+  display_name: "Самопоміч"
 categories: 
   - "kolonka-avtora"
 tags: 

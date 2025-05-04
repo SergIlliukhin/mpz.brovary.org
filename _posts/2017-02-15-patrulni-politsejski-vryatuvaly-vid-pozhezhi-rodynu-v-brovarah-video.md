@@ -1,6 +1,9 @@
 ---
 title: "Патрульні поліцейські врятували від пожежі родину в Броварах - ВІДЕО"
 date: 2017-02-15
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

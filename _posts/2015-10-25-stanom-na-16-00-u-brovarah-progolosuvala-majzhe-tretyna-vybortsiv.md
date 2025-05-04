@@ -1,6 +1,9 @@
 ---
 title: "Станом на 16:00 у Броварах проголосувала майже третина виборців"
 date: 2015-10-25
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Броварська освіта в цифрах: третина дітей у садочках - \"понаднормові\", школярів масово переводять на другу зміну"
 date: 2015-08-26
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "rozsliduvannya"
   - "brovary"

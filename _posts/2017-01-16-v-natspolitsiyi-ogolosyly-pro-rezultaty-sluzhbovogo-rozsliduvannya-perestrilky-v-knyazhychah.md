@@ -1,6 +1,9 @@
 ---
 title: "В Нацполіції оголосили про результати службового розслідування перестрілки в Княжичах"
 date: 2017-01-16
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Міська влада визначилася, коли відкриють проїзд по вул. Петлюри"
 date: 2017-07-18
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Броварські школярі гулятимуть тиждень після Великодня"
 date: 2015-04-06
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "kanikuli"
   - "novini"

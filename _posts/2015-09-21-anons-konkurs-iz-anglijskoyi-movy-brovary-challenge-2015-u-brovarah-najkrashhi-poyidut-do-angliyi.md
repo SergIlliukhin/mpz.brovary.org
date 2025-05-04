@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: Конкурс із англійської мови «Brovary Challenge 2015» у Броварах - найкращі поїдуть до Англії"
 date: 2015-09-21
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

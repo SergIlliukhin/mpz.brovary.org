@@ -1,6 +1,9 @@
 ---
 title: "Міська рада планує витратити 14 мільйонів на капремонт 46-ти броварських будинків"
 date: 2016-03-25
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

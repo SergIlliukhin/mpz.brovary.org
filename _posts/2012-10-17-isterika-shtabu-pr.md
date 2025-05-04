@@ -1,6 +1,9 @@
 ---
 title: "Істерика штабу ПР"
 date: 2012-10-17
+author: 
+  username: "pavriz"
+  display_name: "Павло Різаненко"
 categories: 
   - "kolonka-avtora"
 tags: 

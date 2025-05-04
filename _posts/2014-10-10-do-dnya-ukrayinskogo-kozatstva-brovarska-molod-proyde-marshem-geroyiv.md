@@ -1,6 +1,9 @@
 ---
 title: "До дня Українського козацтва броварська молодь пройде по місту Маршем героїв"
 date: 2014-10-10
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

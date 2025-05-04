@@ -1,6 +1,9 @@
 ---
 title: "STOP репресії: до Броварів приїде Віталій КЛИЧКО"
 date: 2013-10-15
+author: 
+  username: "udar"
+  display_name: "УДАР"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Страйкарі за підтримки нардепів сіли за стіл переговорів з керівництвом \"Чистих матеріалів\""
 date: 2013-02-04
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "andryeyev"
   - "brusenska"

@@ -1,6 +1,9 @@
 ---
 title: "Сьогодні засідання броварської ОВК проведе вкотре оновлений голова - Максим Ситєнков"
 date: 2012-09-11
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"
   - "vibori-2012"

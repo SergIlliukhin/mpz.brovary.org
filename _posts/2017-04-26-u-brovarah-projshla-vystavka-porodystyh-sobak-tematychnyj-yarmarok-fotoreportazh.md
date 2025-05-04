@@ -1,6 +1,9 @@
 ---
 title: "У Броварах пройшла виставка породистих собак і тематичний ярмарок - ФОТО"
 date: 2017-04-26
+author: 
+  username: "krokos"
+  display_name: "Владислава Крокос"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

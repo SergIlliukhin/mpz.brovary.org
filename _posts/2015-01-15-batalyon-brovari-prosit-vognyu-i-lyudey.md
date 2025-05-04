@@ -1,6 +1,9 @@
 ---
 title: "Батальйон «Бровари» просить вогню… і людей - ВІДЕО"
 date: 2015-01-15
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

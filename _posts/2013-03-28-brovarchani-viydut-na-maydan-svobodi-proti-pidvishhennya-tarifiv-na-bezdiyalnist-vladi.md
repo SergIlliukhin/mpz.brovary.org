@@ -1,6 +1,9 @@
 ---
 title: "Броварчани вийдуть на Майдан Свободи проти «підвищення тарифів на бездіяльність влади»"
 date: 2013-03-28
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "announce"
 tags: 

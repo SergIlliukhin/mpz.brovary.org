@@ -1,6 +1,9 @@
 ---
 title: "Міст на Торгмаш так і не відкрили до чергової обіцяної дати – ФОТО"
 date: 2016-11-04
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "brovary"
   - "novyny"

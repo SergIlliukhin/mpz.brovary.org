@@ -1,6 +1,9 @@
 ---
 title: "Інтернет-сайт INSIDER опублікував інтерв'ю з нардепом Павлом Різаненком"
 date: 2014-01-08
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "yevromaydan"
   - "intervyu"

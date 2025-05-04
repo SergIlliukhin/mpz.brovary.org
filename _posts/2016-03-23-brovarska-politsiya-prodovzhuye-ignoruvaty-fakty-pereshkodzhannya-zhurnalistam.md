@@ -1,6 +1,9 @@
 ---
 title: "Броварська поліція продовжує ігнорувати факти перешкоджання журналістам"
 date: 2016-03-23
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

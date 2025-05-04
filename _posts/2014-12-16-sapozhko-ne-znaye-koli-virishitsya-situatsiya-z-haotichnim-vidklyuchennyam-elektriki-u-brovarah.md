@@ -1,6 +1,9 @@
 ---
 title: "Сапожко пояснив, чому вуличні ліхтарі працюють вдень і вимикаються увечері"
 date: 2014-12-16
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"
   - "vulichne-osvitlennya"

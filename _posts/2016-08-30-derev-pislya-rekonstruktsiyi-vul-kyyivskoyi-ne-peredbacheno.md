@@ -1,6 +1,9 @@
 ---
 title: "Дерев після реконструкції вул.Київської - не передбачено!"
 date: 2016-08-30
+author: 
+  username: "cherepejnik"
+  display_name: "Леонід Черепейнік"
 categories: 
   - "kolonka-avtora"
 ---

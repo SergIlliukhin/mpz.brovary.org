@@ -1,6 +1,9 @@
 ---
 title: "Броварська районна організація ВО \"Свобода\" проведе акцію  на підтримку  побратимів"
 date: 2013-07-04
+author: 
+  username: "svoboda"
+  display_name: "Прес-служба ВО Свобода"
 categories: 
   - "announce"
   - "kolonka-avtora"

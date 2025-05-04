@@ -1,6 +1,9 @@
 ---
 title: "«Чистий четвер» не вдався: демонтаж незаконних гаражів біля НВК знову перенесли"
 date: 2015-05-15
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "brovary"
 tags: 

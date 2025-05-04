@@ -1,6 +1,9 @@
 ---
 title: "Тіло загиблого на Донбасі Віталія Шевченка сьогодні привезуть до Броварів"
 date: 2015-06-05
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "announce"
   - "brovary"

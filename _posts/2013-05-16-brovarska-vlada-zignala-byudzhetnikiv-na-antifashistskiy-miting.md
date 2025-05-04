@@ -1,6 +1,9 @@
 ---
 title: "Броварська влада зігнала бюджетників на «антифашистський» мітинг"
 date: 2013-05-16
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "bagmut"
   - "kuznetsov"

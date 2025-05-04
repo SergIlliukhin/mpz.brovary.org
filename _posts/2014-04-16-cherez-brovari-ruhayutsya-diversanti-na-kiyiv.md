@@ -1,6 +1,9 @@
 ---
 title: "Через Бровари рухаються диверсанти на Київ?"
 date: 2014-04-16
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "vibir-redaktsiyi"
   - "novini"

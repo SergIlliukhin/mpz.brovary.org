@@ -1,6 +1,9 @@
 ---
 title: "Інтернет-марафон \"Віктор Янукович: 2 роки умовно\""
 date: 2012-02-25
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

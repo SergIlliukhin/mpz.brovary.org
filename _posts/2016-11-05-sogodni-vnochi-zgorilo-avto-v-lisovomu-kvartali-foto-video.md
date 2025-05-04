@@ -1,6 +1,9 @@
 ---
 title: "Сьогодні вночі згоріло авто в «Лісовому кварталі» - ФОТО, ВІДЕО"
 date: 2016-11-05
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

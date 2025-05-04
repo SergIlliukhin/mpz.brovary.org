@@ -1,6 +1,9 @@
 ---
 title: "Броварські патрулі підсилять представниками тероборони міста"
 date: 2015-11-11
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

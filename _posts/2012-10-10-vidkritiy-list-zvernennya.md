@@ -1,6 +1,9 @@
 ---
 title: "Відкритий лист-звернення!"
 date: 2012-10-10
+author: 
+  username: "kozak35"
+  display_name: "Віктор Юров"
 categories: 
   - "kolonka-avtora"
 tags: 

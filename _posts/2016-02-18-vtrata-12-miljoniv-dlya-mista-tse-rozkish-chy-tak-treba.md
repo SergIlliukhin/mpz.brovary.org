@@ -1,6 +1,9 @@
 ---
 title: "Втрата 12 мільйонів для міста - це розкіш чи так і треба!?"
 date: 2016-02-18
+author: 
+  username: "simutin"
+  display_name: "Роман Сімутін"
 categories: 
   - "kolonka-avtora"
 ---

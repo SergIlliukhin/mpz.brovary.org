@@ -1,6 +1,9 @@
 ---
 title: "Недитячі пристрасті через дитячі атракціони: перша спроба публічних дебатів у Броварах"
 date: 2015-06-16
+author: 
+  username: "onikienko"
+  display_name: "Вікторія Оникієнко"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

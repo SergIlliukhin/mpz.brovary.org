@@ -1,6 +1,9 @@
 ---
 title: "Вакансії у Броварах і районі - міськрайонний Центр зайнятості"
 date: 2016-01-14
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

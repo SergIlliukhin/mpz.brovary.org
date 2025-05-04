@@ -1,6 +1,9 @@
 ---
 title: "Завтра вранці броварських депутатів скликають на позачергову сесію. Порядок денний досі не відомий!"
 date: 2013-11-27
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 tags: 
   - "brovarska-miska-rada"
   - "vibir-redaktsiyi"

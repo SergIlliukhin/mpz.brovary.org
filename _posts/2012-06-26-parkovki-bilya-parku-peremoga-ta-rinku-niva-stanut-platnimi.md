@@ -1,6 +1,9 @@
 ---
 title: "Парковки біля парку «Перемога» та ринку «Нива» стануть платними"
 date: 2012-06-26
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 categories: 
   - "rozsliduvannya"
 tags: 

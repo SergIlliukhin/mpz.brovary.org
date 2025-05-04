@@ -1,6 +1,9 @@
 ---
 title: "Чоловік зі скальпелем погрожував працівницям управління соцзахисту суїцидом"
 date: 2017-06-09
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

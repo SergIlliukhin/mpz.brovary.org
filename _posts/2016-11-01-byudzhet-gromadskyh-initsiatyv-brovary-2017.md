@@ -1,6 +1,9 @@
 ---
 title: "Бюджет громадських ініціатив. Бровари - 2017!"
 date: 2016-11-01
+author: 
+  username: "berestovyj"
+  display_name: "Олег Берестовий"
 categories: 
   - "kolonka-avtora"
 ---

@@ -1,6 +1,9 @@
 ---
 title: "Броварчанам вдалось у мирний спосіб вигнати \"тітушок\" з міськради - ФОТО, ВІДЕО"
 date: 2014-01-28
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 categories: 
   - "aktsiyi-zahodi"
 tags: 

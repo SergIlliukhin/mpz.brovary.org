@@ -1,6 +1,9 @@
 ---
 title: "Розпочато голосування за \"Громадський бюджет-2017\""
 date: 2017-07-07
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

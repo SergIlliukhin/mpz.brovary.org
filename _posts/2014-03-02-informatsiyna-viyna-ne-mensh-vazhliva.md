@@ -1,6 +1,9 @@
 ---
 title: "Інформаційна війна не менш важлива!"
 date: 2014-03-02
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

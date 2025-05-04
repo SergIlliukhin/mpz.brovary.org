@@ -1,6 +1,9 @@
 ---
 title: "Смітники на Незалежності: хотіли як краще, а вийшло як завжди"
 date: 2013-09-18
+author: 
+  username: "iovenko"
+  display_name: "Наталя Іовенко"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Майбутній гастроном збурив мешканців прилеглих будинків"
 date: 2014-05-20
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "bicheviy"
   - "brovary"

@@ -1,6 +1,9 @@
 ---
 title: "Броварське вище училище фізичної культури: як стати чемпіоном"
 date: 2017-01-20
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

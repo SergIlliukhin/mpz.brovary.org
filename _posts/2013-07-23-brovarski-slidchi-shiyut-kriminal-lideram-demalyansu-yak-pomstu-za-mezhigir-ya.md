@@ -1,6 +1,9 @@
 ---
 title: "Броварські слідчі «шиють» кримінал учасникам акцій під Межигір’ям - ВІДЕО"
 date: 2013-07-23
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "avtomobil"
   - "brovary"

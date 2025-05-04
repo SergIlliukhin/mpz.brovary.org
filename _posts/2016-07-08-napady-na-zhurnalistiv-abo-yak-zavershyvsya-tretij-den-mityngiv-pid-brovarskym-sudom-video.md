@@ -1,6 +1,9 @@
 ---
 title: "Напади на журналістів, або Як завершився третій день мітингів під броварським судом – ВІДЕО"
 date: 2016-07-08
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

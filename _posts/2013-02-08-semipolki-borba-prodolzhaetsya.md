@@ -1,6 +1,9 @@
 ---
 title: "Семиполки Борьба продолжается...."
 date: 2013-02-08
+author: 
+  username: "bruhov"
+  display_name: "Володимир Брюхов"
 categories: 
   - "kolonka-avtora"
 tags: 

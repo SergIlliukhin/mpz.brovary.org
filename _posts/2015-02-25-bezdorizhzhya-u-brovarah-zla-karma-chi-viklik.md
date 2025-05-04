@@ -1,6 +1,9 @@
 ---
 title: "Бездоріжжя у Броварах - зла карма чи виклик?"
 date: 2015-02-25
+author: 
+  username: "ivanenko"
+  display_name: "Олег Іваненко"
 categories: 
   - "kolonka-avtora"
 ---

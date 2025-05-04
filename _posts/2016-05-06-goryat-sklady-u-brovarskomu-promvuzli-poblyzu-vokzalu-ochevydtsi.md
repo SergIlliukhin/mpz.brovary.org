@@ -1,6 +1,9 @@
 ---
 title: "Горять склади у броварському Промвузлі поблизу вокзалу  – очевидці [ОНОВЛЕНО]"
 date: 2016-05-06
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

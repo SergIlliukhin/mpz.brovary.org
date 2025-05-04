@@ -1,6 +1,9 @@
 ---
 title: "Про заяву броварської міської ради щодо визнання Росії агресором, про депутатів і мера «патріотів»"
 date: 2015-02-02
+author: 
+  username: "simutin"
+  display_name: "Роман Сімутін"
 categories: 
   - "kolonka-avtora"
 ---

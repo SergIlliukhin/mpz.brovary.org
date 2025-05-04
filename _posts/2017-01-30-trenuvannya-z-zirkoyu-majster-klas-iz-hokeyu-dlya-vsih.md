@@ -1,6 +1,9 @@
 ---
 title: "\"Тренування з зіркою\": Сергій Варламов провів майстер-клас із хокею в \"Терміналі\" - ФОТО"
 date: 2017-01-30
+author: 
+  username: "nakonechna"
+  display_name: "Наталія Наконечна"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

@@ -1,6 +1,9 @@
 ---
 title: "Власники прибрали 5 гаражів біля НВК. Решту влада обіцяє демонтувати до кінця літа"
 date: 2015-05-21
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "brovary"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "З наступного тижня у Броварах вимикатимуть світло – міськвиконком"
 date: 2016-06-02
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Броварські чиновники виправдовуються на сесії за сюжети на \"1+1\""
 date: 2012-12-26
+author: 
+  username: "serzhov"
+  display_name: "Сергій Севрук"
 categories: 
   - "video"
 tags: 

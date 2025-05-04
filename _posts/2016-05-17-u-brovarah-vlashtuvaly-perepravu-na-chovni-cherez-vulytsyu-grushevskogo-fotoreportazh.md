@@ -1,6 +1,9 @@
 ---
 title: "У Броварах влаштували переправу на човні через вулицю Грушевського – ФОТОРЕПОРТАЖ"
 date: 2016-05-17
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "aktsiyi-zahodi"
 tags: 

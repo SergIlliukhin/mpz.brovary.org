@@ -1,6 +1,9 @@
 ---
 title: "6 серпня відбудеться 56-а чергова сесія Броварської міської ради"
 date: 2015-07-09
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

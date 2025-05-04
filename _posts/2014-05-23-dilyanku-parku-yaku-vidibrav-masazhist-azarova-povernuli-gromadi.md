@@ -1,6 +1,9 @@
 ---
 title: "Ділянку парку, яку відібрав \"масажист Азарова\", повернули громаді"
 date: 2014-05-23
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"
   - "novini"

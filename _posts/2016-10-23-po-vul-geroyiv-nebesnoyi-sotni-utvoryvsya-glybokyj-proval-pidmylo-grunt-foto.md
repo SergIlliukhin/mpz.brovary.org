@@ -1,6 +1,9 @@
 ---
 title: "По вул. Героїв Небесної Сотні утворився глибокий провал, підмило ґрунт – ФОТО"
 date: 2016-10-23
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

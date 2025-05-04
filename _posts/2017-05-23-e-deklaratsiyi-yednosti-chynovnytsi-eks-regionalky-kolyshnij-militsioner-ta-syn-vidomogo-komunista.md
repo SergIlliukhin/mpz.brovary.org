@@ -1,6 +1,9 @@
 ---
 title: "Е-декларації «Єдності»: чиновниці-«екс-регіоналки», колишній міліціонер та син відомого комуніста"
 date: 2017-05-23
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "rozsliduvannya"
   - "vlada"

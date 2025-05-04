@@ -1,6 +1,9 @@
 ---
 title: "Небезпечні люки на броварських дорогах: огляд проблемних місць"
 date: 2012-08-21
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 tags: 
   - "blagoustriy"
   - "brovary"

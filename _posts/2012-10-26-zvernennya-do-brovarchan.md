@@ -1,6 +1,9 @@
 ---
 title: "Звернення до броварчан"
 date: 2012-10-26
+author: 
+  username: "anonymous"
+  display_name: "Anonymous"
 categories: 
   - "kolonka-avtora"
 ---

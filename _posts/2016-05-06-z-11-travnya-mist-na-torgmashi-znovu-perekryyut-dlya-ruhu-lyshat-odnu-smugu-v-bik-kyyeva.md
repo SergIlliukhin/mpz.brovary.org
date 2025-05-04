@@ -1,6 +1,9 @@
 ---
 title: "З 11 травня міст на Торгмаші знову перекриють: для руху лишать одну смугу в бік Києва"
 date: 2016-05-06
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

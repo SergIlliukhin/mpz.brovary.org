@@ -1,6 +1,9 @@
 ---
 title: "Мешканці багатоповерхівки на Грушевського, 3 відстояли свою прибудинкову територію"
 date: 2013-03-18
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 tags: 
   - "bmr"
   - "brovarska-miska-rada"

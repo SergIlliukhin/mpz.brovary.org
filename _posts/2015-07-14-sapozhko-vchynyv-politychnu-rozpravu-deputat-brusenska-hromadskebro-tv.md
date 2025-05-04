@@ -1,6 +1,9 @@
 ---
 title: "\"Сапожко вчинив політичну розправу\" - депутат Брусенська - HromadskeBro.tv"
 date: 2015-07-14
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

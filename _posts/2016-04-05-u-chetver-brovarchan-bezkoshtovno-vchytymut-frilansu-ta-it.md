@@ -1,6 +1,9 @@
 ---
 title: "У четвер броварчан безкоштовно вчитимуть фрілансу та IT"
 date: 2016-04-05
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

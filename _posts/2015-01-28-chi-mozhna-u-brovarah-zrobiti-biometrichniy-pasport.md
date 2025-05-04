@@ -1,6 +1,9 @@
 ---
 title: "Чи можна у Броварах зробити біометричний паспорт?"
 date: 2015-01-28
+author: 
+  username: "onikienko"
+  display_name: "Вікторія Оникієнко"
 categories: 
   - "kolonka-avtora"
 tags: 

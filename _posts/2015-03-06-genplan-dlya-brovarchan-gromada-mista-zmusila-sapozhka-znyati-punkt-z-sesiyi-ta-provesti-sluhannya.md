@@ -1,6 +1,9 @@
 ---
 title: "Генплан - для броварчан! Громада змусила Сапожка зняти проект рішення з сесії та провести слухання"
 date: 2015-03-06
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "ivanenko"
   - "inter-profit"

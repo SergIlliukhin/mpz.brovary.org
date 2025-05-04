@@ -1,6 +1,9 @@
 ---
 title: "Портрет броварської міліції: фото дільничих інспекторів міста та району"
 date: 2012-07-17
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "brovaryi"

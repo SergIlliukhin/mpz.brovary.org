@@ -1,6 +1,9 @@
 ---
 title: "На інформатизацію медзакладів Броварів виділили кошти. Що з цього буде?"
 date: 2016-12-20
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "vlada"
   - "aktsiyi-zahodi"

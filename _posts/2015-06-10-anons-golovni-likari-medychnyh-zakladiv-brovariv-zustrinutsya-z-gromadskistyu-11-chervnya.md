@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: Головні лікарі медичних закладів Броварів зустрінуться з громадськістю 11 червня"
 date: 2015-06-10
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Броварське суспільне мовлення: шанс другий і останній"
 date: 2015-11-18
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

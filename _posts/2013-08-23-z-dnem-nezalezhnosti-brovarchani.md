@@ -1,6 +1,9 @@
 ---
 title: "З Днем Незалежності, броварчани! Відеопривітання"
 date: 2013-08-23
+author: 
+  username: "udar"
+  display_name: "УДАР"
 categories: 
   - "kolonka-avtora"
 tags: 

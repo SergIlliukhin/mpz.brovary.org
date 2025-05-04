@@ -1,6 +1,9 @@
 ---
 title: "До двох тисяч слів"
 date: 2014-01-13
+author: 
+  username: "sereda"
+  display_name: "Валерій Середа"
 categories: 
   - "kolonka-avtora"
 tags: 

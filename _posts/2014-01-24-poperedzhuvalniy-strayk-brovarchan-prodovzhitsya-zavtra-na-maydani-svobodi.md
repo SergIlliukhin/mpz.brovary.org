@@ -1,6 +1,9 @@
 ---
 title: "Попереджувальний страйк броварчан продовжиться завтра на Майдані Свободи"
 date: 2014-01-24
+author: 
+  username: "udar"
+  display_name: "УДАР"
 categories: 
   - "kolonka-avtora"
 tags: 

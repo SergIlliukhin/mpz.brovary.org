@@ -1,6 +1,9 @@
 ---
 title: "У Броварському РЕМ розповіли, чи будуть відключати світло у години пік"
 date: 2014-09-05
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 tags: 
   - "vibir-redaktsiyi"
   - "ekonomiya"

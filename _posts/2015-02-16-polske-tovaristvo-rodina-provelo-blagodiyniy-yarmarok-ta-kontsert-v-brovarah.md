@@ -1,6 +1,9 @@
 ---
 title: "Польське товариство «Родина» провело благодійний ярмарок та концерт в Броварах"
 date: 2015-02-16
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "aktsiyi-zahodi"
 tags: 

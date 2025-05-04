@@ -1,6 +1,9 @@
 ---
 title: "У відповідь на звернення працівників ДНЗ «Колосок»"
 date: 2012-03-23
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "5 березня броварчани протестуватимуть проти «генерального дерибану» міста"
 date: 2015-03-03
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "announce"
 tags: 

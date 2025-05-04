@@ -1,6 +1,9 @@
 ---
 title: "Зроблено за місяць: знайомство, перший діалог, навчання, онлайн-петиції та новий офіс"
 date: 2015-11-25
+author: 
+  username: "demalliance"
+  display_name: "ДемАльянс Бровари"
 categories: 
   - "kolonka-avtora"
 tags: 

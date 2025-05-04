@@ -1,6 +1,9 @@
 ---
 title: "На могилі засновника першої броварської лікарні встановили новий пам’ятник"
 date: 2013-05-13
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 tags: 
   - "vibir-redaktsiyi"
   - "vshanuvannya"

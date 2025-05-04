@@ -1,6 +1,9 @@
 ---
 title: "Перше засідання броварської ОВК пройшло з другої спроби, усупереч перешкодам влади та без голови"
 date: 2012-08-30
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 tags: 
   - "vibir-redaktsiyi"
   - "vibori"

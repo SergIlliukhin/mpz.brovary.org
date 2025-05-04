@@ -1,6 +1,9 @@
 ---
 title: "Громадська рада: електронна черга в садочки, батьківські внески, бюджетні подання"
 date: 2015-11-30
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

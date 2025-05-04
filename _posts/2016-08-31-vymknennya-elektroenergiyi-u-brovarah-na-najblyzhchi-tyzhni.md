@@ -1,6 +1,9 @@
 ---
 title: "Вимкнення електроенергії у Броварах на найближчі тижні"
 date: 2016-08-31
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

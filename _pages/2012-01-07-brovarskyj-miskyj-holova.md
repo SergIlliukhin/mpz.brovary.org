@@ -1,6 +1,9 @@
 ---
 title: "Міський голова"
 date: 2012-01-07
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 ---
 
 #### Сапожко Ігор Васильович

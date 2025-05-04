@@ -1,6 +1,9 @@
 ---
 title: "Попри перешкоду акція-реквієм, присвячена Голодомору, відбулась"
 date: 2013-11-25
+author: 
+  username: "udar"
+  display_name: "УДАР"
 categories: 
   - "kolonka-avtora"
 tags: 

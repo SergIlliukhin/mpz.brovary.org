@@ -1,6 +1,9 @@
 ---
 title: "В день штурму Майдану Сапожко видав «Беркуту» нові квартири"
 date: 2014-07-10
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "berkut"
   - "vibir-redaktsiyi"

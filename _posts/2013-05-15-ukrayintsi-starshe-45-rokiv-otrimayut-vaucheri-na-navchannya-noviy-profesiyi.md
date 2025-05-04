@@ -1,6 +1,9 @@
 ---
 title: "Українці старше 45 років отримають ваучери на навчання новій професії"
 date: 2013-05-15
+author: 
+  username: "centrzaynyatosti"
+  display_name: "Центр зайнятості"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Попутники VS маршрутники: хто виграє і хто втрачає від \"нелегального\" проїзду до столиці"
 date: 2015-04-17
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 tags: 
   - "nelegali"
   - "avtoperevizniki"

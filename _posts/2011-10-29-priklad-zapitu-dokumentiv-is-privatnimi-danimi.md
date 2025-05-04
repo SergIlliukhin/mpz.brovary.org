@@ -1,6 +1,9 @@
 ---
 title: "Приклад запиту документів із приватними даними"
 date: 2011-10-29
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "priklad-zapitu"
   - "prikladi-zapitiv"

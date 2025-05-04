@@ -1,6 +1,9 @@
 ---
 title: "Броварські «мобільні» патрульні: АТОвці -«дружинники», яких не вистачає"
 date: 2017-06-01
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

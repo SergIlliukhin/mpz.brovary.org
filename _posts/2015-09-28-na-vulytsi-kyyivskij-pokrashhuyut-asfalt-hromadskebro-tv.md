@@ -1,6 +1,9 @@
 ---
 title: "На вулиці Київській \"покращують\" асфальт – HromadskeBro.tv"
 date: 2015-09-28
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

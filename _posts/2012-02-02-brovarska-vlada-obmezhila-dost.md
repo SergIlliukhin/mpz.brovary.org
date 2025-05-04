@@ -1,6 +1,9 @@
 ---
 title: "Броварська влада обмежила доступ до документів за 2011 рік"
 date: 2012-02-02
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "vykonkom"
   - "miska-rada"

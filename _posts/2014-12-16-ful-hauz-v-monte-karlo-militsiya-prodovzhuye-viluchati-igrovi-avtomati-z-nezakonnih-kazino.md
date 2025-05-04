@@ -1,6 +1,9 @@
 ---
 title: "\"Фул хауз\" в \"Монте Карло\": міліція продовжує вилучати ігрові автомати з підпільних казино"
 date: 2014-12-16
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 11 квітня підписи за перевірку стану повітря збиратимуть на Грушевського"
 date: 2017-04-09
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

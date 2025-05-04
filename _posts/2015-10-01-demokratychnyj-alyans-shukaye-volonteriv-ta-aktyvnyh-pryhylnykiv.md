@@ -1,6 +1,9 @@
 ---
 title: "Демократичний Альянс шукає волонтерів та активних прихильників"
 date: 2015-10-01
+author: 
+  username: "sauk"
+  display_name: "Андрій Саук"
 categories: 
   - "kolonka-avtora"
 tags: 

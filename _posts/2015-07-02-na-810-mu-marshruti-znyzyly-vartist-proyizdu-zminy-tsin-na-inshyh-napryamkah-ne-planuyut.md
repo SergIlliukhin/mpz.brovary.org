@@ -1,6 +1,9 @@
 ---
 title: "У Броварах подешевшав проїзд у громадському транспорті - на одному маршруті"
 date: 2015-07-02
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

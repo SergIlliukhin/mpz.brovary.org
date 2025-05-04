@@ -1,6 +1,9 @@
 ---
 title: "Сусід для сусіда: мешканці будинку на «гарячому» затримали грабіжників автівок"
 date: 2016-02-15
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

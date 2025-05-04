@@ -1,6 +1,9 @@
 ---
 title: "Навчання для особливих дітей: чи є в Броварах інклюзивна освіта?"
 date: 2016-01-15
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "rozsliduvannya"
   - "brovary"

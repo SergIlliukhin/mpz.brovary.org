@@ -1,6 +1,9 @@
 ---
 title: "Приходьте на \"Speed Dating\" в Броварах, щоб поєднати самотні серця"
 date: 2015-02-06
+author: 
+  username: "molodda"
+  display_name: "Молодь ДемАльянсу"
 categories: 
   - "kolonka-avtora"
 tags: 

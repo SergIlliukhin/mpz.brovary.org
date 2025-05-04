@@ -1,6 +1,9 @@
 ---
 title: "Міський парк знову в небезпеці, або чергове \"покращення\" від Сергія Федоренка"
 date: 2013-05-22
+author: 
+  username: "svoboda"
+  display_name: "Прес-служба ВО Свобода"
 categories: 
   - "kolonka-avtora"
 ---

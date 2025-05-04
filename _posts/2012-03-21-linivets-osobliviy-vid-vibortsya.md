@@ -1,6 +1,9 @@
 ---
 title: "Лінивець – особливий вид виборця"
 date: 2012-03-21
+author: 
+  username: "kravec"
+  display_name: "Юрій Кравець"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Святий Пантелеймон на варті екс-штабу «Партії регіонів»"
 date: 2014-08-08
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 categories: 
   - "kolonka-avtora"
 ---

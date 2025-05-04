@@ -1,6 +1,9 @@
 ---
 title: "У справі броварського «тітушка» Стягова допитали ключового свідка - нардепа Різаненка"
 date: 2013-10-21
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "blinova"
   - "brovary"

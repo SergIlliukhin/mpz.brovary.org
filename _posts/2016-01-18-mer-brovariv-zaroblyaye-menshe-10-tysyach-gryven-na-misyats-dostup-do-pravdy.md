@@ -1,6 +1,9 @@
 ---
 title: "Мер Броварів заробляє менше 10 тисяч гривень на місяць, - \"Доступ до правди\""
 date: 2016-01-18
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

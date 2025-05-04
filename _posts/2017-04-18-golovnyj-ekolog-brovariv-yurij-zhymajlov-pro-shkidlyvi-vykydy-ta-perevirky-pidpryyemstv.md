@@ -1,6 +1,9 @@
 ---
 title: "Головний еколог Броварів Юрій Жимайлов про шкідливі викиди та перевірки підприємств"
 date: 2017-04-18
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "interview"
   - "vlada"

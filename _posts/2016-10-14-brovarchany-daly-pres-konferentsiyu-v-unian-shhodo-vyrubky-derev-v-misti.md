@@ -1,6 +1,9 @@
 ---
 title: "Броварчани дали прес-конференцію в УНІАН щодо вирубки дерев в місті"
 date: 2016-10-14
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "hromada"
   - "novyny"

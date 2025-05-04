@@ -1,6 +1,9 @@
 ---
 title: "Чи була операція \"Чисті вікна\" несанкціонованою?"
 date: 2011-12-01
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "novini"
   - "sapozhko"

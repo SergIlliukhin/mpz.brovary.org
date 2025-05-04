@@ -1,6 +1,9 @@
 ---
 title: "Бровари у смітті та смороді: хто винен?"
 date: 2015-09-17
+author: 
+  username: "komarovskyj"
+  display_name: "Комаровський Олексій"
 categories: 
   - "rozsliduvannya"
   - "brovary"

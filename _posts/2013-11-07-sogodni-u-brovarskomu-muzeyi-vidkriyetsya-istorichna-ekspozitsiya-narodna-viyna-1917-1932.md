@@ -1,6 +1,9 @@
 ---
 title: "Сьогодні у броварському музеї відкриється історична експозиція \"Народна війна 1917-1932\""
 date: 2013-11-07
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

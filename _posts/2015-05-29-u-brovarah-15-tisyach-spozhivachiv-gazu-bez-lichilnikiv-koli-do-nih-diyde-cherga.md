@@ -1,6 +1,9 @@
 ---
 title: "У Броварах 15 тисяч споживачів газу без лічильників. Коли до них дійде черга?"
 date: 2015-05-29
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "brovary"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "У Броварах частково демонтували пам’ятний знак «Никто не забыт ничто не забыто» - ФОТО"
 date: 2016-09-27
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Драйвові віртуози на байках. У Броварах вперше пройшов кубок України з велотріалу - ФОТО"
 date: 2017-06-25
+author: 
+  username: "krokos"
+  display_name: "Владислава Крокос"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

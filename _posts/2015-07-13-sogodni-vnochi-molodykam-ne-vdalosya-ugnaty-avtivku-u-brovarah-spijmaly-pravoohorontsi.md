@@ -1,6 +1,9 @@
 ---
 title: "Сьогодні вночі молодикам не вдалося угнати автівку у Броварах - спіймали правоохоронці"
 date: 2015-07-13
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

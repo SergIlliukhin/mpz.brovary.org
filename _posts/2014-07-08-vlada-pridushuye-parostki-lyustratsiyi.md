@@ -1,6 +1,9 @@
 ---
 title: "Броварська влада придушує паростки люстрації"
 date: 2014-07-08
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

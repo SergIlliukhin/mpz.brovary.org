@@ -1,6 +1,9 @@
 ---
 title: "Ліричне відео :)"
 date: 2012-05-08
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

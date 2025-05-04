@@ -1,6 +1,9 @@
 ---
 title: "Водне законодавство, або Ще одна причина проблем озера у «Приозерному»?"
 date: 2013-05-13
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "kolonka-avtora"
 tags: 

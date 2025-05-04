@@ -1,6 +1,9 @@
 ---
 title: "30 січня відбудеться 52-а позачергова сесія Броварської міської ради"
 date: 2015-01-29
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

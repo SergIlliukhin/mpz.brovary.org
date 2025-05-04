@@ -1,6 +1,9 @@
 ---
 title: "38-ма та 39-та сесії Броварської міської ради - ВІДЕО"
 date: 2013-11-04
+author: 
+  username: "udar"
+  display_name: "УДАР"
 categories: 
   - "kolonka-avtora"
   - "video"

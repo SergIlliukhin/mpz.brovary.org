@@ -1,6 +1,9 @@
 ---
 title: "Журналіст? Стоп! Місце!"
 date: 2013-08-20
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

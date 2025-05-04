@@ -1,6 +1,9 @@
 ---
 title: "26-та сесія міськради: петиції, підручники, кодекс етики депутата"
 date: 2017-03-23
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "vlada"
   - "aktsiyi-zahodi"

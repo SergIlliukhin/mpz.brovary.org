@@ -1,6 +1,9 @@
 ---
 title: "Дотиснути броварський Антимайдан: критично необхідні свідчення людей!"
 date: 2015-03-17
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

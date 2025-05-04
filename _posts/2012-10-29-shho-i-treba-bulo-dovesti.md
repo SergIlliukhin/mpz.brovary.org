@@ -1,6 +1,9 @@
 ---
 title: "...що і треба було довести"
 date: 2012-10-29
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 ---

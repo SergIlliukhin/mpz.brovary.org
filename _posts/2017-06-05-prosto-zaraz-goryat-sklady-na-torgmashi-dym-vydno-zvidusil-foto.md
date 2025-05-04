@@ -1,6 +1,9 @@
 ---
 title: "Просто зараз горять склади на Торгмаші, дим видно звідусіль – ФОТО, ОНОВЛЕНО"
 date: 2017-06-05
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Насування кору та автомобільний наліт релігійної общини на парк \"Приозерний\", - оперативні новини"
 date: 2017-06-19
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

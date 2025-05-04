@@ -1,6 +1,9 @@
 ---
 title: "Кищук йде мажоритарником від \"Батьківщини\" в окрузі №97"
 date: 2014-09-24
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

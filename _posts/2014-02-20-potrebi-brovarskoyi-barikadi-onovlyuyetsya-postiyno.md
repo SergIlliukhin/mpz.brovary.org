@@ -1,6 +1,9 @@
 ---
 title: "Потреби броварської барикади. ОНОВЛЮЄТЬСЯ ПОСТІЙНО"
 date: 2014-02-20
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "vibir-redaktsiyi"
   - "novini"

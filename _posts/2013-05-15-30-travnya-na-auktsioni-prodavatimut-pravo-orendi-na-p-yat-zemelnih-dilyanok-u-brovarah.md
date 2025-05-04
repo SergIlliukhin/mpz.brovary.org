@@ -1,6 +1,9 @@
 ---
 title: "30 травня на аукціоні продаватимуть право оренди на п'ять земельних ділянок у Броварах"
 date: 2013-05-15
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

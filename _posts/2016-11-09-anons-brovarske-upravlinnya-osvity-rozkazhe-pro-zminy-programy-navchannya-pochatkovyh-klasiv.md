@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: Броварське управління освіти розкаже про зміни програми навчання початкових класів"
 date: 2016-11-09
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

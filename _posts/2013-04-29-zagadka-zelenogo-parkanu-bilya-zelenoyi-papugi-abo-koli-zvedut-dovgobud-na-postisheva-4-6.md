@@ -1,6 +1,9 @@
 ---
 title: "Загадка зеленого паркану біля «Зеленої папуги», або коли зведуть «довгобуд» на Постишева, 4-6"
 date: 2013-04-29
+author: 
+  username: "veta"
+  display_name: "Єлизавета Ковальчук"
 categories: 
   - "rozsliduvannya"
 tags: 

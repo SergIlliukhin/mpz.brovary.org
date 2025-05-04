@@ -1,6 +1,9 @@
 ---
 title: "\"Факти\": Броварчанин Олександр Остапкович розповів, як вижив і звільнився з полону"
 date: 2015-05-25
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "hromada"
 tags: 

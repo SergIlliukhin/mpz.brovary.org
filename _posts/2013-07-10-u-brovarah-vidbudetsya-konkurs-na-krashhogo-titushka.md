@@ -1,6 +1,9 @@
 ---
 title: "У п'ятницю в Броварах відбудеться конкурс на кращого «тітушка»"
 date: 2013-07-10
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

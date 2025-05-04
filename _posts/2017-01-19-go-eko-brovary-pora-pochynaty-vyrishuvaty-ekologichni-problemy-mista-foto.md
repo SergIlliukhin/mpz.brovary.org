@@ -1,6 +1,9 @@
 ---
 title: "ГО \"Еко Бровари\": пора починати вирішувати екологічні проблеми міста - ФОТО"
 date: 2017-01-19
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

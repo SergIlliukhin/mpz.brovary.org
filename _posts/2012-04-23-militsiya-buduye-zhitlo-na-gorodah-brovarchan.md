@@ -1,6 +1,9 @@
 ---
 title: "Міліція будує житло на городах броварчан"
 date: 2012-04-23
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

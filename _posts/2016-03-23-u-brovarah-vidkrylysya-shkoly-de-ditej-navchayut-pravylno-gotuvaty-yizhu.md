@@ -1,6 +1,9 @@
 ---
 title: "У Броварах відкрилися школи, де дітей навчають правильно готувати їжу"
 date: 2016-03-23
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

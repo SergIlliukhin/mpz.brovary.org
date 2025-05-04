@@ -1,6 +1,9 @@
 ---
 title: "На Майдані Свободи запланували встановити пам'ятник героям АТО – HromadskeBro.tv"
 date: 2015-10-17
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 15 серпня у Броварах відбудеться 31-ша сесія міськради"
 date: 2017-07-18
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Земля тепер буде доступна для всіх!"
 date: 2012-05-22
+author: 
+  username: "kravec"
+  display_name: "Юрій Кравець"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Сапожко скасував учорашнє рішення міськради та скликає сесію на завтра"
 date: 2016-02-23
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

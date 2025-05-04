@@ -1,6 +1,9 @@
 ---
 title: "В оздоровчому таборі «Любич» школярам розповіли, як обирати майбутню професію"
 date: 2013-06-25
+author: 
+  username: "centrzaynyatosti"
+  display_name: "Центр зайнятості"
 categories: 
   - "kolonka-avtora"
 tags: 

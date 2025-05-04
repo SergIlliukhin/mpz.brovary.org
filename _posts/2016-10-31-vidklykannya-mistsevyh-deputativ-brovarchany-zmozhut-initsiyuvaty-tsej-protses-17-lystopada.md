@@ -1,6 +1,9 @@
 ---
 title: "Відкликання місцевих депутатів: броварчани зможуть ініціювати цей процес 17 листопада"
 date: 2016-10-31
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "rozsliduvannya"
   - "vlada"

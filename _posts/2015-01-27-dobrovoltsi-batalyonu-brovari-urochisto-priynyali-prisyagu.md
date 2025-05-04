@@ -1,6 +1,9 @@
 ---
 title: "Добровольці батальйону \"Бровари\" урочисто прийняли присягу"
 date: 2015-01-27
+author: 
+  username: "onikienko"
+  display_name: "Вікторія Оникієнко"
 categories: 
   - "kolonka-avtora"
 tags: 

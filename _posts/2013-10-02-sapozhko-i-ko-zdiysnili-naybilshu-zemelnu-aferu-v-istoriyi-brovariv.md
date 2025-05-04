@@ -1,6 +1,9 @@
 ---
 title: "Найбільша земельна афера в історії Броварів"
 date: 2013-10-02
+author: 
+  username: "udar"
+  display_name: "УДАР"
 categories: 
   - "kolonka-avtora"
 ---

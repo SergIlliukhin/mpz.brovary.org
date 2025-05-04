@@ -1,6 +1,9 @@
 ---
 title: "Бігуни-любителі з Броварів розказали, як пробігли марафон на Кіпрі - ФОТО"
 date: 2017-03-29
+author: 
+  username: "krokos"
+  display_name: "Владислава Крокос"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

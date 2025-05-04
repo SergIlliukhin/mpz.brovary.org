@@ -1,6 +1,9 @@
 ---
 title: "Перемога ПР у Світильні: беззубість опозиції чи свідомий саботаж?"
 date: 2012-05-31
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "vibir-redaktsiyi"
   - "novini"

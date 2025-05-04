@@ -1,6 +1,9 @@
 ---
 title: "У броварських школах невдовзі може з’явитися ноу-хау – вендингові автомати"
 date: 2015-12-21
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

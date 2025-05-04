@@ -1,6 +1,9 @@
 ---
 title: "Навесні в Броварах краще бути шпаком"
 date: 2012-03-20
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 categories: 
   - "kolonka-avtora"
   - "video"

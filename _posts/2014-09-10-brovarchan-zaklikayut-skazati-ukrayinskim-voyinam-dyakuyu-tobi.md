@@ -1,6 +1,9 @@
 ---
 title: "Броварчан закликають сказати українським воїнам «Дякую тобі!» - ВІДЕО"
 date: 2014-09-10
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "video"
 tags: 

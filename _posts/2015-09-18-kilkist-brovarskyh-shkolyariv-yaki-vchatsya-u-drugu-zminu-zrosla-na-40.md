@@ -1,6 +1,9 @@
 ---
 title: "Кількість броварських школярів, які вчаться у другу зміну, зросла на 40%"
 date: 2015-09-18
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "rozsliduvannya"
   - "brovary"

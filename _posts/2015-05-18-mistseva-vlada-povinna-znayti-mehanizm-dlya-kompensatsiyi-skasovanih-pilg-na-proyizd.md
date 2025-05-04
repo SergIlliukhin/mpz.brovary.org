@@ -1,6 +1,9 @@
 ---
 title: "Місцева влада повинна знайти механізм для компенсації скасованих пільг на проїзд"
 date: 2015-05-18
+author: 
+  username: "ivanenko"
+  display_name: "Олег Іваненко"
 categories: 
   - "kolonka-avtora"
 ---

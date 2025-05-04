@@ -1,6 +1,9 @@
 ---
 title: "Кухарська сотня броварчан: допоможи своїм!"
 date: 2015-01-22
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

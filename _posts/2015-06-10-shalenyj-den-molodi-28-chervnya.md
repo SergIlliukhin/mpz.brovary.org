@@ -1,6 +1,9 @@
 ---
 title: "Шалений День Молоді - 28 червня"
 date: 2015-06-10
+author: 
+  username: "onum"
+  display_name: "ОНУМ"
 categories: 
   - "announce"
   - "kolonka-avtora"

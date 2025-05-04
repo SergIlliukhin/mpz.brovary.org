@@ -1,6 +1,9 @@
 ---
 title: "Партія 2.0: броварським партійцям провели тренінг по роботі в соцмережах"
 date: 2014-01-13
+author: 
+  username: "udar"
+  display_name: "УДАР"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "The End: Вільний простір “88 Free Space” закривається назавжди"
 date: 2016-12-22
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

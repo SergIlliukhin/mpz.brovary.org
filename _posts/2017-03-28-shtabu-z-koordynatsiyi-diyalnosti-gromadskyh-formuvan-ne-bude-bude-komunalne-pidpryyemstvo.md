@@ -1,6 +1,9 @@
 ---
 title: "Штабу з координації діяльності громадських формувань не буде. Буде комунальне підприємство?"
 date: 2017-03-28
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "vlada"
   - "novyny"

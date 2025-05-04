@@ -1,6 +1,9 @@
 ---
 title: "13 травня у Броварах Петро Порошенко розповість, як жити по-новому"
 date: 2014-05-08
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

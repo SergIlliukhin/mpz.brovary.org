@@ -1,6 +1,9 @@
 ---
 title: "Активісти, які захищали броварський парк, два місяці сидітимуть під домашнім арештом"
 date: 2013-06-14
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 tags: 
   - "apelyatsiya"
   - "bondar"

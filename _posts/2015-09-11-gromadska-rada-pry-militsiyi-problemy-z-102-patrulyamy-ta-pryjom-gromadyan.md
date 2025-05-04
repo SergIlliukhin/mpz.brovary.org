@@ -1,6 +1,9 @@
 ---
 title: "Громадська рада при міліції: проблеми з 102, патрулями та прийом громадян"
 date: 2015-09-11
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

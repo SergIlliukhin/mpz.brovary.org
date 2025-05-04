@@ -1,6 +1,9 @@
 ---
 title: "24-те сесійне засідання Броварської міської ради – ВІДЕО"
 date: 2012-11-02
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

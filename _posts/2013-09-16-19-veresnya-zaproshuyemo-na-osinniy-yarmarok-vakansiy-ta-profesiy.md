@@ -1,6 +1,9 @@
 ---
 title: "19 вересня запрошуємо на Осінній ярмарок вакансій та професій"
 date: 2013-09-16
+author: 
+  username: "centrzaynyatosti"
+  display_name: "Центр зайнятості"
 categories: 
   - "announce"
   - "kolonka-avtora"

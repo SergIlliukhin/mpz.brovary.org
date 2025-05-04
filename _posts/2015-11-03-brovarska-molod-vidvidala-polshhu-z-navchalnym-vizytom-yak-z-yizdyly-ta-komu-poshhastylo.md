@@ -1,6 +1,9 @@
 ---
 title: "Броварська молодь відвідала Польщу з навчальним візитом: як з'їздили та кому пощастило?"
 date: 2015-11-03
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "brovary"
   - "novyny"

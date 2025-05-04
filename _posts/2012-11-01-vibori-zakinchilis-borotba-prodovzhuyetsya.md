@@ -1,6 +1,9 @@
 ---
 title: "Вибори закінчились - боротьба продовжується!"
 date: 2012-11-01
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"
 tags: 

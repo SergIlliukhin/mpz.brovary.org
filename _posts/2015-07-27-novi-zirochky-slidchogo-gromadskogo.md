@@ -1,6 +1,9 @@
 ---
 title: "Нові зірочки екс-броварського слідчого Громадського"
 date: 2015-07-27
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 categories: 
   - "kolonka-avtora"
 tags: 

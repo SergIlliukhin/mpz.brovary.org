@@ -1,6 +1,9 @@
 ---
 title: "Результати перевірки харчування у броварських навчальних закладах, - Громадська рада"
 date: 2016-10-20
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "hromada"
   - "novyny"

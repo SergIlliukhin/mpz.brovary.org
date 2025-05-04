@@ -1,6 +1,9 @@
 ---
 title: "Броварчанин, приходь на Антиокупаційний марш!"
 date: 2014-04-09
+author: 
+  username: "svoboda"
+  display_name: "Прес-служба ВО Свобода"
 categories: 
   - "kolonka-avtora"
 tags: 

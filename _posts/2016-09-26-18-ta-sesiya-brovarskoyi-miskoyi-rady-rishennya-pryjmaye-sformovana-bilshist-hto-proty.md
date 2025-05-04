@@ -1,6 +1,9 @@
 ---
 title: "18-та сесія Броварської міської ради: рішення приймає сформована більшість. Хто проти?"
 date: 2016-09-26
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "vlada"
   - "aktsiyi-zahodi"

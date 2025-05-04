@@ -1,6 +1,9 @@
 ---
 title: "Броварська школа №7: «рукавичка» без права на майбутнє?"
 date: 2017-01-18
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "rozsliduvannya"
   - "brovary"

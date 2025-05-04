@@ -1,6 +1,9 @@
 ---
 title: "Тарифи КП \"Оздоровчо-реабілітаційний центр\" - у вільному плаванні!"
 date: 2012-07-12
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Чим пахне комунальна реформа?"
 date: 2015-09-09
+author: 
+  username: "balabaev"
+  display_name: "Андрій Балабаєв"
 categories: 
   - "kolonka-avtora"
 ---

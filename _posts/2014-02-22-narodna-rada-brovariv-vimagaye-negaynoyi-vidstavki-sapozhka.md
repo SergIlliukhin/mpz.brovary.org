@@ -1,6 +1,9 @@
 ---
 title: "Народна Рада Броварів вимагає негайної відставки Сапожка"
 date: 2014-02-22
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "vibir-redaktsiyi"
   - "novini"

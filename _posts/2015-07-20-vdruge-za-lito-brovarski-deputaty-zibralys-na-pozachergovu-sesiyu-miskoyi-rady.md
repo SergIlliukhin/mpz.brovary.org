@@ -1,6 +1,9 @@
 ---
 title: "Вдруге за літо броварські депутати зібрались на позачергову сесію міської ради"
 date: 2015-07-20
+author: 
+  username: "komarovskyj"
+  display_name: "Комаровський Олексій"
 categories: 
   - "vlada"
   - "aktsiyi-zahodi"

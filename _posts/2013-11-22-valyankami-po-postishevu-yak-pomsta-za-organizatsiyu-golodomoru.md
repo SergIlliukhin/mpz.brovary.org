@@ -1,6 +1,9 @@
 ---
 title: "«Валянками» по Постишеву - як помста за організацію Голодомору"
 date: 2013-11-22
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "kolonka-avtora"
 tags: 

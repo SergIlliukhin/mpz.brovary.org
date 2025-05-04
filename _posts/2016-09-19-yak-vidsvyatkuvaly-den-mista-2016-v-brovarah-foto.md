@@ -1,6 +1,9 @@
 ---
 title: "Як відсвяткували День міста 2016 в Броварах - ФОТО"
 date: 2016-09-19
+author: 
+  username: "onikienko"
+  display_name: "Вікторія Оникієнко"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

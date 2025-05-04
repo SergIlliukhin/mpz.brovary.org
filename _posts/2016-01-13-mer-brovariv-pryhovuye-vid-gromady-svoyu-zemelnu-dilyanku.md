@@ -1,6 +1,9 @@
 ---
 title: "Мер Броварів приховує від громади свою земельну ділянку?"
 date: 2016-01-13
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"
 tags: 

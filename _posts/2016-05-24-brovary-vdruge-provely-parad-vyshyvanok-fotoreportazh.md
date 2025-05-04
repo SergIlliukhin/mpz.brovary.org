@@ -1,6 +1,9 @@
 ---
 title: "Бровари вдруге провели Парад Вишиванок. ФОТОРЕПОРТАЖ"
 date: 2016-05-24
+author: 
+  username: "onikienko"
+  display_name: "Вікторія Оникієнко"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

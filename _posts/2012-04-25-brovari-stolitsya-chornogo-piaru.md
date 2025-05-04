@@ -1,6 +1,9 @@
 ---
 title: "Бровари – столиця «чорного піару»?"
 date: 2012-04-25
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

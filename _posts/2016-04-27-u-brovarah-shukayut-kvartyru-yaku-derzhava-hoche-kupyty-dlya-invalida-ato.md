@@ -1,6 +1,9 @@
 ---
 title: "У Броварах шукають квартиру, яку держава хоче купити для інваліда АТО"
 date: 2016-04-27
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

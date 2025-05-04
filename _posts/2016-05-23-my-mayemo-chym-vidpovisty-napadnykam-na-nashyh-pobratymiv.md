@@ -1,6 +1,9 @@
 ---
 title: "Ми маємо чим відповісти нападникам на наших побратимів"
 date: 2016-05-23
+author: 
+  username: "svoboda"
+  display_name: "Прес-служба ВО Свобода"
 categories: 
   - "kolonka-avtora"
 ---

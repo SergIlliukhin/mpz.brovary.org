@@ -1,6 +1,9 @@
 ---
 title: "28 червня у Броварах розкажуть, що може зробити демократична молодь за півроку"
 date: 2015-06-25
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

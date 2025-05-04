@@ -1,6 +1,9 @@
 ---
 title: "Аудиторія «Маєш право знати» у 2013 році виросла майже вдвічі"
 date: 2014-01-13
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

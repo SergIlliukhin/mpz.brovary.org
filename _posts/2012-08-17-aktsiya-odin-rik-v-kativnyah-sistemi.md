@@ -1,6 +1,9 @@
 ---
 title: "Акція \"Один рік в катівнях системи\""
 date: 2012-08-17
+author: 
+  username: "kohanivsky"
+  display_name: "Микола Коханівський"
 categories: 
   - "kolonka-avtora"
 ---

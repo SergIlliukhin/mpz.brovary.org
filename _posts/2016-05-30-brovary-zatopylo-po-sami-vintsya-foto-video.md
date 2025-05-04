@@ -1,6 +1,9 @@
 ---
 title: "Бровари затопило по самі вінця. ФОТО, ВІДЕО"
 date: 2016-05-30
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

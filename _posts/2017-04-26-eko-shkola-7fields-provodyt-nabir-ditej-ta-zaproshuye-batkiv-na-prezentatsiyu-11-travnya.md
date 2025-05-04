@@ -1,6 +1,9 @@
 ---
 title: "Еко-школа \"7Fields\" проводить набір дітей та запрошує батьків на презентацію 11 травня - ФОТО"
 date: 2017-04-26
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "hromada"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "По вул. Петлюри тимчасово перекриють рух автотранспорту"
 date: 2016-12-14
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

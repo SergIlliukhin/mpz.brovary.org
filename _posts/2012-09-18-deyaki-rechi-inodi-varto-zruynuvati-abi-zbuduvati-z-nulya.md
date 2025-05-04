@@ -1,6 +1,9 @@
 ---
 title: "Деякі речі іноді варто зруйнувати аби збудувати \"з нуля\""
 date: 2012-09-18
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"
 tags: 

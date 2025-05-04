@@ -1,6 +1,9 @@
 ---
 title: "Шевченкові дні в Броварах: екскурсії та покладання квітів - ФОТОРЕПОРТАЖ"
 date: 2017-03-09
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

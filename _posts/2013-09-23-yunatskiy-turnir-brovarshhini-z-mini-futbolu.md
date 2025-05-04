@@ -1,6 +1,9 @@
 ---
 title: "Юнацький турнір Броварщини з міні-футболу - 29 вересня"
 date: 2013-09-23
+author: 
+  username: "svoboda"
+  display_name: "Прес-служба ВО Свобода"
 categories: 
   - "announce"
   - "kolonka-avtora"

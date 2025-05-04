@@ -1,6 +1,9 @@
 ---
 title: "«Броварський народний контроль» закликав повідомляти про факти вимагання хабарів міліціянтами"
 date: 2014-11-12
+author: 
+  username: "onikienko"
+  display_name: "Вікторія Оникієнко"
 tags: 
   - "brovary"
   - "brovarskiy-narodniy-kontrol"

@@ -1,6 +1,9 @@
 ---
 title: "Як броварські «укропівці» звітували"
 date: 2016-12-29
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

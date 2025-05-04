@@ -1,6 +1,9 @@
 ---
 title: "Як головні лікарі Броварів планують ліквідовувати довжелезні черги у поліклініці?"
 date: 2015-08-10
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "rozsliduvannya"
   - "brovary"

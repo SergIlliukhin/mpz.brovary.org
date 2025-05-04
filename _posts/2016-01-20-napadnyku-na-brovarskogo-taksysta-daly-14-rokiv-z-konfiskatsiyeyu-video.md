@@ -1,6 +1,9 @@
 ---
 title: "Нападнику на броварського таксиста дали 14 років з конфіскацією. ВІДЕО"
 date: 2016-01-20
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

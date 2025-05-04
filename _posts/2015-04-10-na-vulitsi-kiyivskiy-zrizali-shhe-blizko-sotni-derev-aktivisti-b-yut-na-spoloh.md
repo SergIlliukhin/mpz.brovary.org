@@ -1,6 +1,9 @@
 ---
 title: "На вулиці Київській зрізали ще близько сотні дерев. Активісти б'ють на сполох"
 date: 2015-04-10
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "brovary"
   - "novyny"

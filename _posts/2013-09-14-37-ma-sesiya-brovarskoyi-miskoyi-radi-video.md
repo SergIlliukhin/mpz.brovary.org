@@ -1,6 +1,9 @@
 ---
 title: "37-ма сесія Броварської міської ради – ВІДЕО"
 date: 2013-09-14
+author: 
+  username: "simutin"
+  display_name: "Роман Сімутін"
 categories: 
   - "video"
 tags: 

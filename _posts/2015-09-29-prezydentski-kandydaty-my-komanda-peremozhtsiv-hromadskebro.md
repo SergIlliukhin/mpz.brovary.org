@@ -1,6 +1,9 @@
 ---
 title: "Президентські кандидати: \"Ми - команда переможців\" – HromadskeBro"
 date: 2015-09-29
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

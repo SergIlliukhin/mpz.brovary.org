@@ -1,6 +1,9 @@
 ---
 title: "Дев’ятини за Небесною сотнею в день початку нової війни"
 date: 2014-03-01
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "yevromaydan"
   - "vibir-redaktsiyi"

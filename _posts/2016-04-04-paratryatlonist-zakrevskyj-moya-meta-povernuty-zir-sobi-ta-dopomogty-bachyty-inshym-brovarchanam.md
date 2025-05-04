@@ -1,6 +1,9 @@
 ---
 title: "Паратриатлоніст Закревський: «Моя мета - повернути зір собі та допомогти бачити іншим броварчанам»"
 date: 2016-04-04
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "interview"
   - "brovary"

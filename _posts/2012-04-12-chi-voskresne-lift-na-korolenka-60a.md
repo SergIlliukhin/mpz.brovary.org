@@ -1,6 +1,9 @@
 ---
 title: "Чи воскресне ліфт на Короленка 60а? ВІДЕО"
 date: 2012-04-12
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

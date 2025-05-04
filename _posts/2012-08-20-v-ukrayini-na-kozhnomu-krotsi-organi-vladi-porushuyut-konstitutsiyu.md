@@ -1,6 +1,9 @@
 ---
 title: "В Україні на кожному кроці органи влади порушують Конституцію"
 date: 2012-08-20
+author: 
+  username: "bazir"
+  display_name: "Анатолій Базір"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 30 серпня збереться робоча група з громадського бюджету в Броварах"
 date: 2016-08-26
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

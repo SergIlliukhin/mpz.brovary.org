@@ -1,6 +1,9 @@
 ---
 title: "ЦВК зареєструвала 8 нових кандидатів у народні депутати у броварському виборчому окрузі"
 date: 2012-08-13
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "bazir"
   - "vasilenko"

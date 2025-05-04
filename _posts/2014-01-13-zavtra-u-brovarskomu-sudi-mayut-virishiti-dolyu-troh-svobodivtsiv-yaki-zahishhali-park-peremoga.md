@@ -1,6 +1,9 @@
 ---
 title: "Завтра у броварському суді мають вирішити долю трьох \"свободівців\", які захищали парк \"Перемога\""
 date: 2014-01-13
+author: 
+  username: "svoboda"
+  display_name: "Прес-служба ВО Свобода"
 categories: 
   - "announce"
   - "kolonka-avtora"

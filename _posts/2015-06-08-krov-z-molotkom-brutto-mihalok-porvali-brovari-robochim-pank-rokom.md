@@ -1,6 +1,9 @@
 ---
 title: "Кров з молотком: Брутто і Міхалок «порвали» Бровари «робочим панк-роком»"
 date: 2015-06-08
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

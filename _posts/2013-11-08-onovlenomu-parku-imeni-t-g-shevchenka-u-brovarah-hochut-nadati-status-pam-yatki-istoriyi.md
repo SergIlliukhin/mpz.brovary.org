@@ -1,6 +1,9 @@
 ---
 title: "Оновленому парку імені Т.Г.Шевченка у Броварах хочуть надати статус пам’ятки історії"
 date: 2013-11-08
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

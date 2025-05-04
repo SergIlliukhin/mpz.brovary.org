@@ -1,6 +1,9 @@
 ---
 title: "Серед побитих під Адміністрацією Президента та заарештованих на 60 днів є броварчанин"
 date: 2013-12-04
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 tags: 
   - "administratsiya-prezidenta"
   - "aresht"

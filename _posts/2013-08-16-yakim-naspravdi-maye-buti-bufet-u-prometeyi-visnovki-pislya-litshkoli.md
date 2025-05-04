@@ -1,6 +1,9 @@
 ---
 title: "Яким насправді має бути «буфет» у «Прометеї»: висновки після Літшколи"
 date: 2013-08-16
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 categories: 
   - "kolonka-avtora"
 tags: 

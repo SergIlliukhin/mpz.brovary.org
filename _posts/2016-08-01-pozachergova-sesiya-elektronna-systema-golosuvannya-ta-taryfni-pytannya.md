@@ -1,6 +1,9 @@
 ---
 title: "Позачергова сесія: електронна система голосування та \"тарифні питання\""
 date: 2016-08-01
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

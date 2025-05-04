@@ -1,6 +1,9 @@
 ---
 title: "У повітрі Броварів перевищено вміст діоксиду азоту у 1.5-2 рази"
 date: 2016-08-04
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

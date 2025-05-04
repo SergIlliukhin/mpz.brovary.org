@@ -1,6 +1,9 @@
 ---
 title: "Протягом 2,5 годин концерту \"Тіні Сонця\" на підтримку військових зібрали понад 6000 грн"
 date: 2014-07-14
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "aktsiyi-zahodi"
 tags: 

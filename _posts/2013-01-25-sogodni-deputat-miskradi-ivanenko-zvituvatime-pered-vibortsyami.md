@@ -1,6 +1,9 @@
 ---
 title: "Сьогодні депутат міськради Іваненко звітуватиме перед виборцями"
 date: 2013-01-25
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

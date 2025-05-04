@@ -1,6 +1,9 @@
 ---
 title: "Під міськрадою меру Сапожку передали естафету IceBucketChallenge - ФОТО, ВІДЕО"
 date: 2014-09-08
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "icebucketchallenge"
   - "vibir-redaktsiyi"

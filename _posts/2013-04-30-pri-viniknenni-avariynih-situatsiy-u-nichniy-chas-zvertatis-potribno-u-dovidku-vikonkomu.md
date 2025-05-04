@@ -1,6 +1,9 @@
 ---
 title: "При виникненні аварійних ситуацій у нічний час звертатись потрібно... у довідку виконкому?"
 date: 2013-04-30
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 tags: 
   - "vibir-redaktsiyi"
   - "zheki"

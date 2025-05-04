@@ -1,6 +1,9 @@
 ---
 title: "Бізнес-проекти «Самого Яновича» на Броварщині"
 date: 2012-04-12
+author: 
+  username: "kravec"
+  display_name: "Юрій Кравець"
 categories: 
   - "kolonka-avtora"
 tags: 

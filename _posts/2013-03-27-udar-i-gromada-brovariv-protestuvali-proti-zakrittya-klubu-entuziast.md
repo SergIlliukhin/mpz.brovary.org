@@ -1,6 +1,9 @@
 ---
 title: "«УДАР» і громада Броварів протестували проти закриття клубу «Ентузіаст»"
 date: 2013-03-27
+author: 
+  username: "udar"
+  display_name: "УДАР"
 categories: 
   - "kolonka-avtora"
 ---

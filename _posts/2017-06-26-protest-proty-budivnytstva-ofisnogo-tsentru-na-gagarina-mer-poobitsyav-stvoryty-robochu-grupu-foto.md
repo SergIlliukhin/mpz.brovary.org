@@ -1,6 +1,9 @@
 ---
 title: "Протест проти будівництва офісного центру на Гагаріна: мер пообіцяв створити робочу групу – ФОТО"
 date: 2017-06-26
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "vlada"
   - "aktsiyi-zahodi"

@@ -1,6 +1,9 @@
 ---
 title: "Держархбудінспекція зупинила самочинне будівництво Романа Багмута у Броварах"
 date: 2015-11-24
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

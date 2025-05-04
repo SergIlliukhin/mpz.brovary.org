@@ -1,6 +1,9 @@
 ---
 title: "Відкрите звернення до броварчан"
 date: 2013-04-16
+author: 
+  username: "udar"
+  display_name: "УДАР"
 categories: 
   - "kolonka-avtora"
 tags: 

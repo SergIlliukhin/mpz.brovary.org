@@ -1,6 +1,9 @@
 ---
 title: "Великодньої ночі обмежать автомобільний рух вулицями біля храмів"
 date: 2016-04-25
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

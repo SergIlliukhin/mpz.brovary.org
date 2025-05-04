@@ -1,6 +1,9 @@
 ---
 title: "У BroBots відкрилися нові курси робототехніки та програмування"
 date: 2017-01-13
+author: 
+  username: "ulitenko"
+  display_name: "Ірина Улітенко"
 categories: 
   - "brovary"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Великий Суботник: броварчани зібрали 2000 мішків сміття"
 date: 2016-04-25
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

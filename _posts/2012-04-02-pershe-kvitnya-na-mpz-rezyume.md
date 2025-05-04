@@ -1,6 +1,9 @@
 ---
 title: "Перше квітня на \"МПЗ\" - резюме"
 date: 2012-04-02
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 ---

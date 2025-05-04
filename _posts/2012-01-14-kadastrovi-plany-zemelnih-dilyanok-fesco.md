@@ -1,6 +1,9 @@
 ---
 title: "Кадастрові плани земельних ділянок ФЕСКО"
 date: 2012-01-14
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "rozsliduvannya"
 tags: 

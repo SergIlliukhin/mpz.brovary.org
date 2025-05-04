@@ -1,6 +1,9 @@
 ---
 title: "Організатор підпільного грального клубу у Броварах опинився на лаві підсудних"
 date: 2013-07-19
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "azartni-igri"
   - "brovary"

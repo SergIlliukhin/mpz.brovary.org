@@ -1,6 +1,9 @@
 ---
 title: "Сержант Нестеренко про Дебальцеве: \"Я прокинувся - штаб горить, а з наших уже нікого нема\""
 date: 2016-02-18
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 categories: 
   - "interview"
   - "brovary"

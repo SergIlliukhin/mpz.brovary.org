@@ -1,6 +1,9 @@
 ---
 title: "Епідемія грипу в Броварах триває, але йде на спад - санстанція"
 date: 2016-02-01
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

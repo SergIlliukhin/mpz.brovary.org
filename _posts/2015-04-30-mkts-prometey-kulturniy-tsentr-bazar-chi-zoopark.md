@@ -1,6 +1,9 @@
 ---
 title: "МКЦ «ПРОМЕТЕЙ» - культурний центр, базар чи… зоопарк?"
 date: 2015-04-30
+author: 
+  username: "cherednik"
+  display_name: "Юрій Чередник"
 categories: 
   - "kolonka-avtora"
 tags: 

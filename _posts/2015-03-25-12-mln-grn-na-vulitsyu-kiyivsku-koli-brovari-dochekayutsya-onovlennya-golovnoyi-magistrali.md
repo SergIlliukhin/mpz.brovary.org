@@ -1,6 +1,9 @@
 ---
 title: "12 млн грн на вулицю Київську: коли Бровари дочекаються оновлення головної магістралі?"
 date: 2015-03-25
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "brovary"
   - "viddil-kapitalnogo-budivnitstva"

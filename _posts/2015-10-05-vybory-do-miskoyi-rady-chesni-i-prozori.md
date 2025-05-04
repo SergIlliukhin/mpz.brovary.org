@@ -1,6 +1,9 @@
 ---
 title: "Вибори до міської ради – чесні і прозорі"
 date: 2015-10-05
+author: 
+  username: "malofienko"
+  display_name: "Віктор Малофієнко"
 categories: 
   - "kolonka-avtora"
 ---

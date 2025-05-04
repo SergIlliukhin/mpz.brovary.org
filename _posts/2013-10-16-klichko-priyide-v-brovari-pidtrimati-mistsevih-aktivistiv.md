@@ -1,6 +1,9 @@
 ---
 title: "23 жовтня Кличко приїде в Бровари підтримати місцевих активістів"
 date: 2013-10-16
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

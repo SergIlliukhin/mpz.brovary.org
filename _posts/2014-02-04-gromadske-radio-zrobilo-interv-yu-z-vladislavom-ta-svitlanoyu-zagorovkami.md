@@ -1,6 +1,9 @@
 ---
 title: "\"Громадське радіо\" зробило інтерв'ю з Владиславом та Світланою Загоровками"
 date: 2014-02-04
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "intervyu"
   - "irina-solomko"

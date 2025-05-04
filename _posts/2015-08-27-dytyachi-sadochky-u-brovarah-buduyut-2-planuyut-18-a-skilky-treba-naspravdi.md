@@ -1,6 +1,9 @@
 ---
 title: "Дитячі садочки у Броварах: будують 2, планують 18, а скільки треба насправді?"
 date: 2015-08-27
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "rozsliduvannya"
   - "brovary"

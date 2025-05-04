@@ -1,6 +1,9 @@
 ---
 title: "Хто проходить до нової міськради: можливий перелік депутатів"
 date: 2015-10-27
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

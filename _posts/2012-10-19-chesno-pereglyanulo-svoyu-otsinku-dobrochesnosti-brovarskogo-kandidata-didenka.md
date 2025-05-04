@@ -1,6 +1,9 @@
 ---
 title: "\"Чесно\" переглянуло свою оцінку \"доброчесності\" броварського кандидата Діденка"
 date: 2012-10-19
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"
   - "vibori-2012"

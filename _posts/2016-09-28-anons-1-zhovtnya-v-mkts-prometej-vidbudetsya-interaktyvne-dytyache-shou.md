@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 1 жовтня в МКЦ «Прометей» відбудеться інтерактивне дитяче шоу"
 date: 2016-09-28
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

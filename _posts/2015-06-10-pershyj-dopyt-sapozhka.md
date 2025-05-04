@@ -1,6 +1,9 @@
 ---
 title: "Перший допит Сапожка?"
 date: 2015-06-10
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

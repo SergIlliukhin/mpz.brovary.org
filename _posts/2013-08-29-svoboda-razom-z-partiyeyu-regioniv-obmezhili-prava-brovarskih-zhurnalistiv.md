@@ -1,6 +1,9 @@
 ---
 title: "«Свобода» разом з Партією регіонів обмежили права броварських журналістів - ВІДЕО"
 date: 2013-08-29
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "video"
 tags: 

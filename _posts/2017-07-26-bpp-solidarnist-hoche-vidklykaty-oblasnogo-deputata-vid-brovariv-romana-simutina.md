@@ -1,6 +1,9 @@
 ---
 title: "БПП «Солідарність» хоче відкликати обласного депутата від Броварів Романа Сімутіна"
 date: 2017-07-26
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

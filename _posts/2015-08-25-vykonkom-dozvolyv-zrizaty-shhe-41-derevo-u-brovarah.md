@@ -1,6 +1,9 @@
 ---
 title: "Виконком дозволив зрізати ще 41 дерево у Броварах"
 date: 2015-08-25
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

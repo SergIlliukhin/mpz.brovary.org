@@ -1,6 +1,9 @@
 ---
 title: "Процес перезавантаження парламенту розпочато"
 date: 2014-07-28
+author: 
+  username: "udar"
+  display_name: "УДАР"
 categories: 
   - "kolonka-avtora"
 ---

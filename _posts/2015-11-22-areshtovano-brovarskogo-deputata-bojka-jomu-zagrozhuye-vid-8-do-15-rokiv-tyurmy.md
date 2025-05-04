@@ -1,6 +1,9 @@
 ---
 title: "Арештовано броварського депутата Бойка, йому загрожує до 15 років тюрми - ОНОВЛЮЄТЬСЯ"
 date: 2015-11-22
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "novyny"
 tags: 

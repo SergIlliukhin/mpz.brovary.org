@@ -1,6 +1,9 @@
 ---
 title: "БДБК «Меркурій» готується до «ущільнення» житлових забудов на вул.Кірова, мешканці одноголосно проти"
 date: 2012-07-26
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "byelik"
   - "vibir-redaktsiyi"

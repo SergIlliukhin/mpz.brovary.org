@@ -1,6 +1,9 @@
 ---
 title: "Бровари без води: що сталося і коли «джерело життя» повернеться в крани?"
 date: 2015-04-02
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 tags: 
   - "avariya"
   - "brovary"

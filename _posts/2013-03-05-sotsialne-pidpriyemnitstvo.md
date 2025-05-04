@@ -1,6 +1,9 @@
 ---
 title: "Соціальне підприємництво у Броварах"
 date: 2013-03-05
+author: 
+  username: "nemchina"
+  display_name: "Тетяна Немчина"
 categories: 
   - "kolonka-avtora"
 tags: 

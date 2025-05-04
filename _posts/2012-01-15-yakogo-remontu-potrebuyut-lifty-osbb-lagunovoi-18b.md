@@ -1,6 +1,9 @@
 ---
 title: "Якого ремонту потребують ліфти ОСББ \"Лагунової 18б\"?"
 date: 2012-01-15
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "rozsliduvannya"
 tags: 

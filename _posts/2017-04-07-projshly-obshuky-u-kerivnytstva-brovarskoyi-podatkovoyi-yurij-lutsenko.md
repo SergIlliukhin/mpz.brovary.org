@@ -1,6 +1,9 @@
 ---
 title: "Пройшли обшуки у керівництва Броварської податкової, - Юрій Луценко"
 date: 2017-04-07
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

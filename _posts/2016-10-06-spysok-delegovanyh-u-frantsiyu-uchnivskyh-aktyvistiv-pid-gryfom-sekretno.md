@@ -1,6 +1,9 @@
 ---
 title: "Список делегованих у Францію учнівських активістів під грифом «секретно»?"
 date: 2016-10-06
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Суд не побачив у діях свободівців \"приниження честі й гідності Партії регіонів\""
 date: 2013-10-15
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "brovary"
   - "brovaryi"

@@ -1,6 +1,9 @@
 ---
 title: "HromadskeBro в режимі стоп-кадру"
 date: 2015-11-26
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

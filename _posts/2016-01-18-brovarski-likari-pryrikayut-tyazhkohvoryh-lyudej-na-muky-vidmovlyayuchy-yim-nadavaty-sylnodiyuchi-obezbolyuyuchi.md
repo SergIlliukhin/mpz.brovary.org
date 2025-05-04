@@ -1,6 +1,9 @@
 ---
 title: "Броварським тяжкохворим видаватимуть наркотичні знеболювальні безкоштовно?"
 date: 2016-01-18
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

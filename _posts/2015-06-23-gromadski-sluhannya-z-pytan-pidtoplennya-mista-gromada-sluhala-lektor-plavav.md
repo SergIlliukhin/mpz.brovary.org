@@ -1,6 +1,9 @@
 ---
 title: "Обговорення проблеми підтоплення старої частини міста: громада слухала, лектор «плавав»"
 date: 2015-06-23
+author: 
+  username: "komarovskyj"
+  display_name: "Комаровський Олексій"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

@@ -1,6 +1,9 @@
 ---
 title: "Приблизний прорахунок тарифів на маршрутки від Леоніда Черепейніка"
 date: 2017-02-07
+author: 
+  username: "cherepejnik"
+  display_name: "Леонід Черепейнік"
 categories: 
   - "kolonka-avtora"
 ---

@@ -1,6 +1,9 @@
 ---
 title: "Екологічна акція: цього тижня у Броварах прийматимуть у населення шкідливі ртутні лампи"
 date: 2016-05-24
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

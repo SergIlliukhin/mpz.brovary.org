@@ -1,6 +1,9 @@
 ---
 title: "Бюджет участі. Готуйте проекти на квітень, або Досвід киян-переможців - ФОТО"
 date: 2017-02-22
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

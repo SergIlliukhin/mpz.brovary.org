@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: На День міста проведуть концерти, ярмарки, фестивалі і спортивні змагання"
 date: 2016-09-12
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

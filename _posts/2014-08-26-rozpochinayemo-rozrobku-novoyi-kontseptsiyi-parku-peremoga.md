@@ -1,6 +1,9 @@
 ---
 title: "Розпочинаємо розробку нової концепції парку \"Перемога\""
 date: 2014-08-26
+author: 
+  username: "demalliance"
+  display_name: "ДемАльянс Бровари"
 categories: 
   - "kolonka-avtora"
 tags: 

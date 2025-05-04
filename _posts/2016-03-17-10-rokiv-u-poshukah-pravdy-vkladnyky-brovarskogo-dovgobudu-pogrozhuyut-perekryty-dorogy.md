@@ -1,6 +1,9 @@
 ---
 title: "10 років у пошуках правди: вкладники броварського довгобуду погрожують перекрити дороги"
 date: 2016-03-17
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "hromada"
   - "novyny"

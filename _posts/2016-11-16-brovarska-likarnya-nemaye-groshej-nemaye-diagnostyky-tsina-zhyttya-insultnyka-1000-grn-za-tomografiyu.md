@@ -1,6 +1,9 @@
 ---
 title: "Броварська лікарня: немає грошей - немає діагностики. Ціна життя інсультника - 1000 грн за томографію"
 date: 2016-11-16
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

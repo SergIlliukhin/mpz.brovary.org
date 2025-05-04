@@ -1,6 +1,9 @@
 ---
 title: "Нездійснені обіцянки, або Як комунальні газети за Федоренка агітували"
 date: 2013-01-23
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "kolonka-avtora"
 tags: 

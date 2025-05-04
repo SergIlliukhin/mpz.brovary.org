@@ -1,6 +1,9 @@
 ---
 title: "Канікули скінчилися, діти підуть у школу вже 11 січня"
 date: 2017-01-05
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

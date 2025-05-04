@@ -1,6 +1,9 @@
 ---
 title: "Героїв Небесної Сотні вшануймо Вільно та Гідно - у суботу 20 лютого о 18:00"
 date: 2016-02-18
+author: 
+  username: "demalliance"
+  display_name: "ДемАльянс Бровари"
 categories: 
   - "kolonka-avtora"
 ---

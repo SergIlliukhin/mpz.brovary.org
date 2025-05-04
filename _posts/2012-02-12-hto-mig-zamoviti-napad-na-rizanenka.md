@@ -1,6 +1,9 @@
 ---
 title: "Хто міг замовити напад на Різаненка? Спеціальне журналістське розслідування."
 date: 2012-02-12
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "rozsliduvannya"
 tags: 

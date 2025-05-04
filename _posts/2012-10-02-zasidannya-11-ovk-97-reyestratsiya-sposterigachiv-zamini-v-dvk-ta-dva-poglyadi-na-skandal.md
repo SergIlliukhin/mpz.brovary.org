@@ -1,6 +1,9 @@
 ---
 title: "Засідання №11 ОВК-97: реєстрація спостерігачів, заміни в ДВК та два погляди на скандал"
 date: 2012-10-02
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

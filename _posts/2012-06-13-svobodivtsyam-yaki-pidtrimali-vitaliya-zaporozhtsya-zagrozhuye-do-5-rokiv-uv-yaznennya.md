@@ -1,6 +1,9 @@
 ---
 title: "Свободівцям, які підтримали Віталія Запорожця, загрожує до 5 років ув'язнення"
 date: 2012-06-13
+author: 
+  username: "svoboda"
+  display_name: "Прес-служба ВО Свобода"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Навіть після коштовного ремонту міст на Торгмаші «проживе» від 5 до 25 років  – експерт"
 date: 2016-02-02
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "rozsliduvannya"
   - "brovary"

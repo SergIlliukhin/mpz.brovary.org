@@ -1,6 +1,9 @@
 ---
 title: "На підтримку Тимошенко в центрі Броварів голодують вже другий тиждень"
 date: 2012-05-10
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "aktsiyi-zahodi"
 tags: 

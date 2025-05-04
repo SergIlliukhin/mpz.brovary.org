@@ -1,6 +1,9 @@
 ---
 title: "ДТП на «Лісовій»: водієві маршрутки № 403-А стало погано – ФОТО"
 date: 2017-07-06
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

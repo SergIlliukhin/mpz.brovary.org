@@ -1,6 +1,9 @@
 ---
 title: "Чому влада і броварський завод сперечаються за два садочки у центрі міста?"
 date: 2015-09-08
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "rozsliduvannya"
   - "brovary"

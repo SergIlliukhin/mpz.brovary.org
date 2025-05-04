@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: Незабаром розпочнеться щорічна благодійна акція до дня Святого Миколая"
 date: 2016-11-14
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Що би ви відчували, якби жили на вул. Гітлера чи просп. Чикатіла?"
 date: 2012-03-07
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "kolonka-avtora"
 tags: 

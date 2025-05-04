@@ -1,6 +1,9 @@
 ---
 title: "Громрада при управлінні освіти пропонує створити загальноміський фонд для благодійних внесків"
 date: 2015-09-29
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

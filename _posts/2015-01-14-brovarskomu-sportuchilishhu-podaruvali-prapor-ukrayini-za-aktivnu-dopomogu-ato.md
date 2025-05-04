@@ -1,6 +1,9 @@
 ---
 title: "Броварському спортучилищу подарували прапор України - за активну допомогу АТО"
 date: 2015-01-14
+author: 
+  username: "koorcentr"
+  display_name: "Коордцентр допомоги військовим"
 categories: 
   - "kolonka-avtora"
 tags: 

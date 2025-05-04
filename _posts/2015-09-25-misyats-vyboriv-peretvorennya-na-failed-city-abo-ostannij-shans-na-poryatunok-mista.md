@@ -1,6 +1,9 @@
 ---
 title: "Місяць до виборів: перетворення на failed city або останній шанс на порятунок міста"
 date: 2015-09-25
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Болюче квартирне питання: хто отримує безкоштовне житло у Броварах?"
 date: 2012-10-11
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 categories: 
   - "rozsliduvannya"
 tags: 

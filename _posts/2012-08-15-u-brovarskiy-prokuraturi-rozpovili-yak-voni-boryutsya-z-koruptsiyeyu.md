@@ -1,6 +1,9 @@
 ---
 title: "У броварській прокуратурі розповіли, як вони борються з корупцією"
 date: 2012-08-15
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"
 tags: 

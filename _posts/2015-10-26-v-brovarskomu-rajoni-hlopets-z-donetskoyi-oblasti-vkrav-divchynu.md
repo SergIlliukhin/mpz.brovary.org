@@ -1,6 +1,9 @@
 ---
 title: "В Броварському районі хлопець з Донецької області вкрав дівчину"
 date: 2015-10-26
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

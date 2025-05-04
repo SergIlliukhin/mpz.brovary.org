@@ -1,6 +1,9 @@
 ---
 title: "Інтернет-марафон \"Округ № 97: гаряча точка виборів-20​12\""
 date: 2012-10-27
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

@@ -1,6 +1,9 @@
 ---
 title: "Як прислужники Азарова забезпечували йому спокій у Броварах"
 date: 2012-10-20
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "kolonka-avtora"
 tags: 

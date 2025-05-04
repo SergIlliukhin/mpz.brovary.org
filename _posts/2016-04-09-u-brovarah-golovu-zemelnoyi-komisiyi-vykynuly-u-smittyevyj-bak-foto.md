@@ -1,6 +1,9 @@
 ---
 title: "У Броварах голову земельної комісії викинули у сміттєвий бак, - ФОТО"
 date: 2016-04-09
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "hromada"
   - "novyny"

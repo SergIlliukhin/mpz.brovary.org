@@ -1,6 +1,9 @@
 ---
 title: "Випускникам на замітку, або на кого треба вчитись, щоб стати депутатом міськради"
 date: 2013-05-24
+author: 
+  username: "veta"
+  display_name: "Єлизавета Ковальчук"
 categories: 
   - "rozsliduvannya"
 tags: 

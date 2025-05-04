@@ -1,6 +1,9 @@
 ---
 title: "У Броварах пропонують демонтувати зірку в парку \"Перемога\" та пам'ятник НКВС на Пекарні"
 date: 2015-08-10
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

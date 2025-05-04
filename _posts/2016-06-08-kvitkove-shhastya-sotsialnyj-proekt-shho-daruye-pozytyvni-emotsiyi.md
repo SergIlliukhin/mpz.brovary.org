@@ -1,6 +1,9 @@
 ---
 title: "«Квіткове щастя»:  соціальний проект, що дарує позитивні емоції"
 date: 2016-06-08
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "hromada"
   - "novyny"

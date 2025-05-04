@@ -1,6 +1,9 @@
 ---
 title: "Цього тижня у Броварах тестуватимуть сирени цивільного захисту (ОНОВЛЕНО)"
 date: 2015-02-09
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "announce"
 tags: 

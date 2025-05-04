@@ -1,6 +1,9 @@
 ---
 title: "Відключення води можуть повторятися найближчими днями, мер закликає зробити запаси"
 date: 2017-04-06
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

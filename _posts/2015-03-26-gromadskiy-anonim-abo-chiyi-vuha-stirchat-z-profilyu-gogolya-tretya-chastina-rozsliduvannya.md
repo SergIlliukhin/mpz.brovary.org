@@ -1,6 +1,9 @@
 ---
 title: "«Громадський анонім», або Чиї вуха стирчать з профілю Гоголя? Третя частина розслідування"
 date: 2015-03-26
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "rozsliduvannya"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Виконком дозволив комунальникам зрізати у Броварах ще 29 дерев"
 date: 2013-11-05
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

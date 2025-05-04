@@ -1,6 +1,9 @@
 ---
 title: "Продукція \"Рошену\" у броварських супермаркетах досі не \"українізувалась\""
 date: 2013-06-25
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "kolonka-avtora"
 tags: 

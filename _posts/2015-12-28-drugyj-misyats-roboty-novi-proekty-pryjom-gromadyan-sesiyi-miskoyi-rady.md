@@ -1,6 +1,9 @@
 ---
 title: "Другий місяць роботи: нові проекти, прийом громадян, сесії міської ради"
 date: 2015-12-28
+author: 
+  username: "demalliance"
+  display_name: "ДемАльянс Бровари"
 categories: 
   - "kolonka-avtora"
 tags: 

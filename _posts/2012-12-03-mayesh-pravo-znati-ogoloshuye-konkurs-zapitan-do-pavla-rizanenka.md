@@ -1,6 +1,9 @@
 ---
 title: "\"Маєш право знати\" оголошує конкурс запитань до Павла Різаненка"
 date: 2012-12-03
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "intervyu"
   - "brovary"

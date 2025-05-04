@@ -1,6 +1,9 @@
 ---
 title: "\"ЛІГА\": В окрузі № 97 у день виборів працюватиме більше 100 міжнародних спостерігачів"
 date: 2012-10-27
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

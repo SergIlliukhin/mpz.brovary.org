@@ -1,6 +1,9 @@
 ---
 title: "Команда «Маєш право знати»: хто і як створює новини про Бровари?"
 date: 2015-02-27
+author: 
+  username: "pecheritsia"
+  display_name: "Анастасія Печериця"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

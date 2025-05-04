@@ -1,6 +1,9 @@
 ---
 title: "Аварія на каналізаційному колекторі: у Броварах не буде води до вечора"
 date: 2017-04-06
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

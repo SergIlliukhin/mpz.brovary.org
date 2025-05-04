@@ -1,6 +1,9 @@
 ---
 title: "Дмитро Ценов офіційно очолив поліцію Київської області"
 date: 2016-12-30
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

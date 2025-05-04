@@ -1,6 +1,9 @@
 ---
 title: "Розпочинається другий сезон безкоштовних кінопоказів у парку \"Перемога\""
 date: 2017-06-19
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

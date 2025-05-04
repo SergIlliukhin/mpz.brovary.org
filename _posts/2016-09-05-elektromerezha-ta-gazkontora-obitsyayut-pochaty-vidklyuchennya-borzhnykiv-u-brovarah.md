@@ -1,6 +1,9 @@
 ---
 title: "Електромережа та газконтора обіцяють почати відключення боржників у Броварах"
 date: 2016-09-05
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Сьогодні о 19:00 у Броварах - вшанування пам'яті Небесної сотні"
 date: 2014-03-01
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "announce"
 tags: 

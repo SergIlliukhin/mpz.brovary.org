@@ -1,6 +1,9 @@
 ---
 title: "Прокурор стверджує, що броварська міськрада – це «приватний простір» депутатів"
 date: 2012-03-14
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "vibir-redaktsiyi"
   - "garnyk"

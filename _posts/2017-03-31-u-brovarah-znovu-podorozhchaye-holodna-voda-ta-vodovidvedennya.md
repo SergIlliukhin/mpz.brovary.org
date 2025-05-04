@@ -1,6 +1,9 @@
 ---
 title: "У Броварах знову подорожчає холодна вода та водовідведення"
 date: 2017-03-31
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

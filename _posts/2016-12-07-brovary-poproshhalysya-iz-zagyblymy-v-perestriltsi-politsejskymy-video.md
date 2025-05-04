@@ -1,6 +1,9 @@
 ---
 title: "Бровари попрощалися із загиблими в перестрілці поліцейськими - ВІДЕО"
 date: 2016-12-07
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

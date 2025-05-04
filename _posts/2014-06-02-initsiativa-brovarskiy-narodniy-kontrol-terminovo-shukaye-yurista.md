@@ -1,6 +1,9 @@
 ---
 title: "Ініціатива \"Броварський Народний Контроль\" терміново шукає юриста"
 date: 2014-06-02
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "brovarskiy-narodniy-kontrol"

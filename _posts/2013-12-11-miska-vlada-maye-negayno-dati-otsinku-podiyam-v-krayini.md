@@ -1,6 +1,9 @@
 ---
 title: "Міська влада має негайно дати оцінку подіям в країні!"
 date: 2013-12-11
+author: 
+  username: "udar"
+  display_name: "УДАР"
 categories: 
   - "kolonka-avtora"
 ---

@@ -1,6 +1,9 @@
 ---
 title: "Чи може День відкритих дверей підвищити рівень довіри до броварської міліції? - ВІДЕО"
 date: 2013-09-12
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 categories: 
   - "kolonka-avtora"
 tags: 

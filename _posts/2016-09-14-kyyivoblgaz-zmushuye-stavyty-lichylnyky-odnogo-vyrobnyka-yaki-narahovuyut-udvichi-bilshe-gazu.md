@@ -1,6 +1,9 @@
 ---
 title: "«Київоблгаз» змушує ставити лічильники одного виробника, які нараховують удвічі більше газу?"
 date: 2016-09-14
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "hromada"
   - "novyny"

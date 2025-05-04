@@ -1,6 +1,9 @@
 ---
 title: "Броварська ТВК зареєструвала кандидатів від партій \"ДемАльянс\", \"Самопоміч\" та \"Укроп\""
 date: 2015-09-28
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

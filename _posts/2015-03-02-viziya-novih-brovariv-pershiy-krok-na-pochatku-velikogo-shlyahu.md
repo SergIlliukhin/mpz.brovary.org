@@ -1,6 +1,9 @@
 ---
 title: "Візія нових Броварів: перший крок на початку великого шляху"
 date: 2015-03-02
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "brovary"
   - "viziya"

@@ -1,6 +1,9 @@
 ---
 title: "«Людина-сонце»:  історія полеглого Героя з Броварів Дмитра Янченка"
 date: 2015-02-16
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "istoriya-geroya"
   - "brovary"

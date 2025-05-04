@@ -1,6 +1,9 @@
 ---
 title: "Хто привласнив і демонтує єдиний сучасний дитмайданчик на Торгмаші? ОНОВЛЕНО"
 date: 2016-03-10
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "hromada"
   - "novyny"

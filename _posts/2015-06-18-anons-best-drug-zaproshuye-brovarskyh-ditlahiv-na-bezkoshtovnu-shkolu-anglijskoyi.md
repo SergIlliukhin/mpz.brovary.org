@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: «Best друг» запрошує броварських дітлахів на безкоштовну школу англійської"
 date: 2015-06-18
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Продовження фальсифікацій: у Броварах вийшла фальшива газета «Маєш право знати»"
 date: 2012-04-20
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovarski-zmi"
   - "vibir-redaktsiyi"

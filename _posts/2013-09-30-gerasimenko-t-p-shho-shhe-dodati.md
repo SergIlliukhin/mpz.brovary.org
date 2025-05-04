@@ -1,6 +1,9 @@
 ---
 title: "Герасименко - Т.П. Що ще додати?"
 date: 2013-09-30
+author: 
+  username: "anonymous"
+  display_name: "Anonymous"
 categories: 
   - "kolonka-avtora"
 tags: 

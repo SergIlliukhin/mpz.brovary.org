@@ -1,6 +1,9 @@
 ---
 title: "OpenCity, або Стороннім вхід заборонений?"
 date: 2016-03-29
+author: 
+  username: "veremchuk"
+  display_name: "Ірина Веремчук"
 categories: 
   - "kolonka-avtora"
 ---

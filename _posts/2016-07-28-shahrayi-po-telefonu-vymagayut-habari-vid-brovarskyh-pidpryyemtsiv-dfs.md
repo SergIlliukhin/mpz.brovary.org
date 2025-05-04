@@ -1,6 +1,9 @@
 ---
 title: "Шахраї по телефону вимагають хабарі від броварських підприємців, - ДФС"
 date: 2016-07-28
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

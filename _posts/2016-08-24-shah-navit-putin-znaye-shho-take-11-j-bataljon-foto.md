@@ -1,6 +1,9 @@
 ---
 title: "Шах: «Навіть Путін знає, що таке 11-й батальйон!» - ФОТО"
 date: 2016-08-24
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 categories: 
   - "interview"
   - "hromada"

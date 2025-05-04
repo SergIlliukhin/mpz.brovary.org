@@ -1,6 +1,9 @@
 ---
 title: "ГО «Ресурсний центр ОСББ м. Бровари»: історія діяльності та плани на майбутнє"
 date: 2015-12-01
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "interview"
   - "brovary"

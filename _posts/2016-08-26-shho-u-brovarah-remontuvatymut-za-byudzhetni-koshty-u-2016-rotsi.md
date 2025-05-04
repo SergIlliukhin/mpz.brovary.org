@@ -1,6 +1,9 @@
 ---
 title: "Що у Броварах ремонтуватимуть за бюджетні кошти у 2016 році"
 date: 2016-08-26
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

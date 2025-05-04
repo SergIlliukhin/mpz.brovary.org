@@ -1,6 +1,9 @@
 ---
 title: "Черговий незаконний паркан пав під натиском броварчан! - ВІДЕО"
 date: 2013-05-29
+author: 
+  username: "udar"
+  display_name: "УДАР"
 categories: 
   - "kolonka-avtora"
 tags: 

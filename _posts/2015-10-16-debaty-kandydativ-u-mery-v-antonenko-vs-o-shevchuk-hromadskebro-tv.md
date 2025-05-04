@@ -1,6 +1,9 @@
 ---
 title: "Дебати кандидатів у мери. В. Антоненко VS О. Шевчук – HromadskeBro.tv"
 date: 2015-10-16
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

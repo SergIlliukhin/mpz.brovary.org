@@ -1,6 +1,9 @@
 ---
 title: "Анастасія Комлікова: «Люблю писати  музику на замовлення, але ніколи не озвучу комп’ютерні ігри»"
 date: 2016-02-05
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "interview"
   - "brovary"

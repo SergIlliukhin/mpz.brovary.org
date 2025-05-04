@@ -1,6 +1,9 @@
 ---
 title: "Дебати кандидатів в мери Броварів. Жеребкування."
 date: 2015-10-06
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

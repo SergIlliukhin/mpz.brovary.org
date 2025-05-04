@@ -1,6 +1,9 @@
 ---
 title: "Новопризначений прокурор Броварів – син колишнього керівника «Беркуту»?"
 date: 2015-12-15
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "vlada"
   - "novyny"

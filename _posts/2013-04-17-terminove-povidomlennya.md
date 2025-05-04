@@ -1,6 +1,9 @@
 ---
 title: "ТЕРМІНОВЕ ПОВІДОМЛЕННЯ"
 date: 2013-04-17
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 ---

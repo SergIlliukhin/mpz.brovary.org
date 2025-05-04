@@ -1,6 +1,9 @@
 ---
 title: "Діти-індиго: міф чи реальність? У пошуках індиго у Броварах"
 date: 2016-04-20
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "rozsliduvannya"
   - "brovary"

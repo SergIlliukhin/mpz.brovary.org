@@ -1,6 +1,9 @@
 ---
 title: "Google захищатиме \"Маєш право знати\" від цифрових атак"
 date: 2016-04-14
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

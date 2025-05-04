@@ -1,6 +1,9 @@
 ---
 title: "Медична реформа: Бровари обслуговуватимуть лівобережну частину Київської області"
 date: 2017-01-16
+author: 
+  username: "ulitenko"
+  display_name: "Ірина Улітенко"
 categories: 
   - "brovary"
   - "novyny"

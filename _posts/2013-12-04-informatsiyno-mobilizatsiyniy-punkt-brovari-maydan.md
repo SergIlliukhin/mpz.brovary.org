@@ -1,6 +1,9 @@
 ---
 title: "Інформаційно-мобілізаційний пункт «Бровари-Майдан» (ПОСТІЙНО ОНОВЛЮЄТЬСЯ)"
 date: 2013-12-04
+author: 
+  username: "udar"
+  display_name: "УДАР"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "У Броварах упав черговий стовп режиму Януковича: звільнено прокурора Гарника"
 date: 2014-09-09
+author: 
+  username: "lustration"
+  display_name: "Люстраційний Комітет"
 categories: 
   - "kolonka-avtora"
 tags: 

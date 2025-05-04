@@ -1,6 +1,9 @@
 ---
 title: "У День пам'яті та примирення броварська молодь вийшла на марш"
 date: 2014-05-12
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 categories: 
   - "aktsiyi-zahodi"
 tags: 

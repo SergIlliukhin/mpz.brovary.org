@@ -1,6 +1,9 @@
 ---
 title: "\"Інтерфакс\": Проти броварського спортсмена Олега Лісогора порушено кримінальну справу у Ліберії"
 date: 2013-08-20
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "kriminalna-sprava"

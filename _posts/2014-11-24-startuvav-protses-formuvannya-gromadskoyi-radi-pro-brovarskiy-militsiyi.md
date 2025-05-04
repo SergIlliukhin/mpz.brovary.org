@@ -1,6 +1,9 @@
 ---
 title: "Стартував процес формування Громадської ради при броварській міліції"
 date: 2014-11-24
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "barabash"
   - "brovarskiy-mv"

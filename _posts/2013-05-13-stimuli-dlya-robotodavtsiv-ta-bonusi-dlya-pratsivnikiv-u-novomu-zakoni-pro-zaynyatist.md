@@ -1,6 +1,9 @@
 ---
 title: "Стимули для роботодавців та бонуси для працівників у новому законі про зайнятість"
 date: 2013-05-13
+author: 
+  username: "centrzaynyatosti"
+  display_name: "Центр зайнятості"
 categories: 
   - "kolonka-avtora"
 tags: 

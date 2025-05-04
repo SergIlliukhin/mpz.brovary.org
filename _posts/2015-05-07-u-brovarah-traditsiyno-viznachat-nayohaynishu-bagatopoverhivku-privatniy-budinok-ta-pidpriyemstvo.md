@@ -1,6 +1,9 @@
 ---
 title: "У Броварах традиційно визначать найохайнішу багатоповерхівку, приватний будинок та підприємство"
 date: 2015-05-07
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
 tags: 

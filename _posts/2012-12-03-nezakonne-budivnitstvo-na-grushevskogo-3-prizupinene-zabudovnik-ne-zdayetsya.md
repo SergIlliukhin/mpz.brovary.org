@@ -1,6 +1,9 @@
 ---
 title: "Незаконне будівництво на Грушевського, 3 призупинене. Забудовник не здається"
 date: 2012-12-03
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 tags: 
   - "vibir-redaktsiyi"
   - "grushevskogo-3"

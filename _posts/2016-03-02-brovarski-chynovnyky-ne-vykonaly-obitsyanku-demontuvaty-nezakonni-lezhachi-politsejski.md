@@ -1,6 +1,9 @@
 ---
 title: "Броварські чиновники не виконали обіцянку демонтувати незаконні «лежачі поліцейські»"
 date: 2016-03-02
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

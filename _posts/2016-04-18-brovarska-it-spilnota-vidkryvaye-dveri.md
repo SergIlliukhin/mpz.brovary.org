@@ -1,6 +1,9 @@
 ---
 title: "Броварська ІТ-спільнота відкриває двері"
 date: 2016-04-18
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"
 tags: 

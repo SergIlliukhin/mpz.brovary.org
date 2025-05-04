@@ -1,6 +1,9 @@
 ---
 title: "Чи є пільги для багатодітних у місті Бровари?"
 date: 2013-01-11
+author: 
+  username: "svoboda"
+  display_name: "Прес-служба ВО Свобода"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "На кандидата в народні депутати Юрія Кравця скоєно напад"
 date: 2012-10-25
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"
   - "vibori-2012"

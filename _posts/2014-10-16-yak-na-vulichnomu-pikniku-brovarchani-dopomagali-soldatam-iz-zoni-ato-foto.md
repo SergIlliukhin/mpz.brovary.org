@@ -1,6 +1,9 @@
 ---
 title: "Як на вуличному пікніку броварчани допомагали солдатам із зони АТО - ФОТО"
 date: 2014-10-16
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 tags: 
   - "blagodiynist"
   - "blagodiyniy-yarmarok"

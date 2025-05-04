@@ -1,6 +1,9 @@
 ---
 title: "Як броварські підприємці ставляться до введення касових апаратів з 1 липня?"
 date: 2015-06-30
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "rozsliduvannya"
   - "brovary"

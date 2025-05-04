@@ -1,6 +1,9 @@
 ---
 title: "Бреус: відвідування «Купави» школярами зросло з 30% до 80%"
 date: 2014-04-30
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "breus"
   - "vibir-redaktsiyi"

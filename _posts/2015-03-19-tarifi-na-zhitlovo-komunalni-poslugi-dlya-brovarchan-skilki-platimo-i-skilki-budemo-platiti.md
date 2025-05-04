@@ -1,6 +1,9 @@
 ---
 title: "Тарифи на житлово-комунальні послуги для броварчан: скільки платимо і скільки будемо платити?"
 date: 2015-03-19
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "rozsliduvannya"
 tags: 

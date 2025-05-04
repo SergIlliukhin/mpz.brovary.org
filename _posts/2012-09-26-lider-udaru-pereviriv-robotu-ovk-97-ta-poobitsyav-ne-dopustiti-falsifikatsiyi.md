@@ -1,6 +1,9 @@
 ---
 title: "Лідер \"УДАРу\" перевірив роботу ОВК №97 та пообіцяв не допустити фальсифікації"
 date: 2012-09-26
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "vibori-2012"
   - "klichko"

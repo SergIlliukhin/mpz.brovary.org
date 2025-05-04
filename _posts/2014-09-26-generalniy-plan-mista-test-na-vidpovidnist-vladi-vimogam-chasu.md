@@ -1,6 +1,9 @@
 ---
 title: "Генеральний план міста - тест на відповідність влади вимогам часу"
 date: 2014-09-26
+author: 
+  username: "malofienko"
+  display_name: "Віктор Малофієнко"
 categories: 
   - "kolonka-avtora"
 tags: 

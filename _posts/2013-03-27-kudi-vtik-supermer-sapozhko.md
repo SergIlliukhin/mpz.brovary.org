@@ -1,6 +1,9 @@
 ---
 title: "Куди втік «супермер» Сапожко?"
 date: 2013-03-27
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

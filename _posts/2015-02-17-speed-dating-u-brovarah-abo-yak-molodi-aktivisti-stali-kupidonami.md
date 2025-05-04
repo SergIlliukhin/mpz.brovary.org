@@ -1,6 +1,9 @@
 ---
 title: "\"Speed Dating\" у Броварах, або Як молоді активісти стали купідонами"
 date: 2015-02-17
+author: 
+  username: "molodda"
+  display_name: "Молодь ДемАльянсу"
 categories: 
   - "kolonka-avtora"
 tags: 

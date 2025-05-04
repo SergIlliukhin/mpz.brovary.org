@@ -1,6 +1,9 @@
 ---
 title: "Кілька слів про поїздку Коордцентру допомоги військовим на Карачун"
 date: 2014-07-18
+author: 
+  username: "simutin"
+  display_name: "Роман Сімутін"
 categories: 
   - "kolonka-avtora"
 tags: 

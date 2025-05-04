@@ -1,6 +1,9 @@
 ---
 title: "БравоKids.Зима: свято живих емоцій - ФОТО"
 date: 2017-02-07
+author: 
+  username: "krokos"
+  display_name: "Владислава Крокос"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

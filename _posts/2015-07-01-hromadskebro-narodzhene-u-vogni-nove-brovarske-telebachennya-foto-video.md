@@ -1,6 +1,9 @@
 ---
 title: "HromadskeBro: народжене у вогні нове броварське телебачення, - ФОТО, ВІДЕО"
 date: 2015-07-01
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

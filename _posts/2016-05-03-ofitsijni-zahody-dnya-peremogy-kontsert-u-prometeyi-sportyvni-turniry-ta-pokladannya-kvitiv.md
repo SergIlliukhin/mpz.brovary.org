@@ -1,6 +1,9 @@
 ---
 title: "Офіційні заходи до «Дня перемоги»: концерт у «Прометеї», спортивні турніри та покладання квітів"
 date: 2016-05-03
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

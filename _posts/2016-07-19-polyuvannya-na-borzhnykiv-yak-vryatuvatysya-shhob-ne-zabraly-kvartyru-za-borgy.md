@@ -1,6 +1,9 @@
 ---
 title: "Полювання на боржників: як врятуватися, щоб не забрали квартиру за борги?"
 date: 2016-07-19
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

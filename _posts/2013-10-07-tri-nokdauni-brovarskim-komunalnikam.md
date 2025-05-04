@@ -1,6 +1,9 @@
 ---
 title: "Три нокдауни броварським комунальникам"
 date: 2013-10-07
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 categories: 
   - "kolonka-avtora"
 tags: 

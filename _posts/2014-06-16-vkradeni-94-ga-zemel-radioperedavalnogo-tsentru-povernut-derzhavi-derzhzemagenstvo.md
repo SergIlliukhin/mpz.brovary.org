@@ -1,6 +1,9 @@
 ---
 title: "Вкрадені 94 га земель Радіопередавального центру повернуть державі - Держземагенство"
 date: 2014-06-16
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"
   - "derzhzemagenstvo"

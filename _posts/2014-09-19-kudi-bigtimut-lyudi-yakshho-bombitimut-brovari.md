@@ -1,6 +1,9 @@
 ---
 title: "Куди бігтимуть люди, якщо бомбитимуть Бровари, і куди, власне, треба бігти?"
 date: 2014-09-19
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "rozsliduvannya"
 tags: 

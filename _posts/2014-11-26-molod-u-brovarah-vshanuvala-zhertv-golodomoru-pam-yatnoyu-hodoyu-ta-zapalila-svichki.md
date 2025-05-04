@@ -1,6 +1,9 @@
 ---
 title: "Молодь у Броварах вшанувала жертв голодомору пам'ятною ходою та запалила свічки"
 date: 2014-11-26
+author: 
+  username: "onikienko"
+  display_name: "Вікторія Оникієнко"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

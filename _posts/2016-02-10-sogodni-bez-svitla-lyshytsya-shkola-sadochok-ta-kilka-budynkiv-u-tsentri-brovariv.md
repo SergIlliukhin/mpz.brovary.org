@@ -1,6 +1,9 @@
 ---
 title: "Сьогодні без світла лишиться школа, садочок та кілька будинків у центрі Броварів"
 date: 2016-02-10
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

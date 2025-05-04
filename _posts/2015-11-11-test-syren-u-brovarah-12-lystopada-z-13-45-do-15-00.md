@@ -1,6 +1,9 @@
 ---
 title: "Тест сирен у Броварах: 12 листопада з 13:45 до 15:00"
 date: 2015-11-11
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

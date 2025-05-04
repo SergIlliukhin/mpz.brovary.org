@@ -1,6 +1,9 @@
 ---
 title: "Календарний план важливих дат проміжних виборів у 20 окрузі м. Бровари"
 date: 2013-04-12
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "kalendarniy-plan"

@@ -1,6 +1,9 @@
 ---
 title: "Інститут історії України пропонує \"декомунізувати\" у Броварах щонайменше 60 вулиць"
 date: 2015-07-06
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

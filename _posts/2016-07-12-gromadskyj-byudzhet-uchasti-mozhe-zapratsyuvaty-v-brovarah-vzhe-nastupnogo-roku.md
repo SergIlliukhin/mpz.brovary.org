@@ -1,6 +1,9 @@
 ---
 title: "Громадський бюджет участі може запрацювати в Броварах вже наступного року"
 date: 2016-07-12
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

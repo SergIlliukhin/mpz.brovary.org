@@ -1,6 +1,9 @@
 ---
 title: "Підмочене свято випускного, або Як 11-класники крокували у «доросле життя»"
 date: 2015-06-06
+author: 
+  username: "leshchyk"
+  display_name: "Ольга Лещик"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

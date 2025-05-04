@@ -1,6 +1,9 @@
 ---
 title: "Проти владного кандидата має боротись 1, а не 15 опозиціонерів"
 date: 2012-08-04
+author: 
+  username: "kravec"
+  display_name: "Юрій Кравець"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Dozorro: Депутат Зінченко за рік отримав замовлень на 7 млн. грн. від Броварської міськради"
 date: 2017-07-12
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

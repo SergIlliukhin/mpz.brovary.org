@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: Позачергова сесія щодо лісопарку на розі Симоненка-Чорновола"
 date: 2016-10-17
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

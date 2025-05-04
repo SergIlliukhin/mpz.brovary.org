@@ -1,6 +1,9 @@
 ---
 title: "Кличко в парламенті назвав ситуацію в Броварах \"кричущим випадком тиску на активістів\""
 date: 2013-06-18
+author: 
+  username: "udar"
+  display_name: "УДАР"
 categories: 
   - "kolonka-avtora"
 ---

@@ -1,6 +1,9 @@
 ---
 title: "20 листопада броварчанам розкажуть, як на практиці економити енергоресурси"
 date: 2014-11-13
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

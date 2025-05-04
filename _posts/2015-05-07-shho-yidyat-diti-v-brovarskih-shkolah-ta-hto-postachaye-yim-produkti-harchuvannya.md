@@ -1,6 +1,9 @@
 ---
 title: "Що їдять діти в броварських школах та хто постачає їм продукти харчування?"
 date: 2015-05-07
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
 tags: 

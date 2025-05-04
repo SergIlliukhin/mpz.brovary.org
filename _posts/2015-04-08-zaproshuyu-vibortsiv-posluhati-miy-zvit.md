@@ -1,6 +1,9 @@
 ---
 title: "Запрошую виборців послухати мій звіт"
 date: 2015-04-08
+author: 
+  username: "ivanenko"
+  display_name: "Олег Іваненко"
 categories: 
   - "kolonka-avtora"
 ---

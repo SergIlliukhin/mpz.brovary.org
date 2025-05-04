@@ -1,6 +1,9 @@
 ---
 title: "Броварський «тітушко» «подався в біга»?"
 date: 2013-08-22
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"
   - "kichinska"

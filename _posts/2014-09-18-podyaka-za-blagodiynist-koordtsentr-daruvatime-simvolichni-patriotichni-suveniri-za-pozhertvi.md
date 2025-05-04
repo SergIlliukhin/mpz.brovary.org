@@ -1,6 +1,9 @@
 ---
 title: "Подяка за благодійність: Коордцентр даруватиме символічні патріотичні сувеніри за пожертви"
 date: 2014-09-18
+author: 
+  username: "simutin"
+  display_name: "Роман Сімутін"
 categories: 
   - "kolonka-avtora"
 tags: 

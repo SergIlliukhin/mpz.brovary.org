@@ -1,6 +1,9 @@
 ---
 title: "Завтра у Броварах вимагатимуть припинити політичний терор"
 date: 2013-06-06
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

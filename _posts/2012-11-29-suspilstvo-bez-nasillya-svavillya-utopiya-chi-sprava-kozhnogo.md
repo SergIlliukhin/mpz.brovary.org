@@ -1,6 +1,9 @@
 ---
 title: "Суспільство без насилля, свавілля …. утопія, чи справа кожного?"
 date: 2012-11-29
+author: 
+  username: "mzpl"
+  display_name: "Молодь за права людини"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "З площі Шевченка перенесуть кіоск"
 date: 2013-03-08
+author: 
+  username: "Lisova"
+  display_name: "Лідія Стрельченко"
 categories: 
   - "kolonka-avtora"
 tags: 

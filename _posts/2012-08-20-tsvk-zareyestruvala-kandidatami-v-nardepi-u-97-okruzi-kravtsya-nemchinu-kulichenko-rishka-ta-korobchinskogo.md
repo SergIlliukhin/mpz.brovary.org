@@ -1,6 +1,9 @@
 ---
 title: "ЦВК зареєструвала кандидатами в нардепи у 97 окрузі Кравця, Немчину, Куліченко, Ришка та Коробчинського"
 date: 2012-08-20
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"
   - "vibori"

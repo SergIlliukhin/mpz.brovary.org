@@ -1,6 +1,9 @@
 ---
 title: "Любомир Гузар поговорив із броварчанами про політику та Шептицького – HromadskeBro.tv"
 date: 2015-10-12
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

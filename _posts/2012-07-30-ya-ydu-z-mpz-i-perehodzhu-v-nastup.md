@@ -1,6 +1,9 @@
 ---
 title: "Я йду з МПЗ і переходжу в наступ"
 date: 2012-07-30
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

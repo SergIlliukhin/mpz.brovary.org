@@ -1,6 +1,9 @@
 ---
 title: "У дитсадку «Казка» батьки почубилися через нереалізовані обіцянки міськради та дефекти забудовника"
 date: 2017-03-20
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

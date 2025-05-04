@@ -1,6 +1,9 @@
 ---
 title: "Броварський депутат створює нову партію з брехні про самого себе - ДОКУМЕНТИ, ВІДЕО"
 date: 2013-08-19
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "rozsliduvannya"
 tags: 

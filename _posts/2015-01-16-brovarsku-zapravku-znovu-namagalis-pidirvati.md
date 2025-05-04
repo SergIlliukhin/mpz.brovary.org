@@ -1,6 +1,9 @@
 ---
 title: "У Броварах знову намагались підірвати автозаправку?"
 date: 2015-01-16
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 tags: 
   - "brovary"
   - "brsm_nafta"

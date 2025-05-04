@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: Цього четверга відбудеться перше засідання громадської ради при броварському виконкомі"
 date: 2016-04-12
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

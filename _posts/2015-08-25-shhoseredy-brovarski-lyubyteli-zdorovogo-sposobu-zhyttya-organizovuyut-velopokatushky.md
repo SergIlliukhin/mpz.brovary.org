@@ -1,6 +1,9 @@
 ---
 title: "Щосереди броварські любителі здорового способу життя організовують \"Велопокатушкі\""
 date: 2015-08-25
+author: 
+  username: "onikienko"
+  display_name: "Вікторія Оникієнко"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

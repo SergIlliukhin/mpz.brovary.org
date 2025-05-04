@@ -1,6 +1,9 @@
 ---
 title: "Пилип Духлій: \"Я намагаюся дати людям шанс\". Частина 2"
 date: 2016-07-29
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "interview"
   - "hromada"

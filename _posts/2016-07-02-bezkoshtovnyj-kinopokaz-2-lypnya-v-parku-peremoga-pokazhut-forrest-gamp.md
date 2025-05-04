@@ -1,6 +1,9 @@
 ---
 title: "Безкоштовний кінопоказ: 2 липня в парку «Перемога» покажуть «Форрест Ґамп»"
 date: 2016-07-02
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

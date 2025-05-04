@@ -1,6 +1,9 @@
 ---
 title: "У Броварах визначили перевізника на міських автобусах №2 та №3"
 date: 2016-10-13
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

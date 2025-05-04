@@ -1,6 +1,9 @@
 ---
 title: "Сьогодні з 16:00 до 22:00 по всьому місту можуть відімкнути електрику"
 date: 2014-12-16
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "avariyne-vidklyuchennya"
   - "andryeyev"

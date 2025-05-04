@@ -1,6 +1,9 @@
 ---
 title: "Мій будинок – моя фортеця"
 date: 2015-10-19
+author: 
+  username: "cherednik"
+  display_name: "Юрій Чередник"
 categories: 
   - "kolonka-avtora"
 ---

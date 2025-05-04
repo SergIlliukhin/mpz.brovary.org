@@ -1,6 +1,9 @@
 ---
 title: "Будівництво супермаркету «Олді» на Порошинці: «режим таємності» та економія на міському бюджеті"
 date: 2013-11-01
+author: 
+  username: "veta"
+  display_name: "Єлизавета Ковальчук"
 categories: 
   - "rozsliduvannya"
 tags: 

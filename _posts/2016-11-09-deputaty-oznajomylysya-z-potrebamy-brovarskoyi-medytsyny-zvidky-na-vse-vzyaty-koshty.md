@@ -1,6 +1,9 @@
 ---
 title: "Депутати ознайомилися з потребами броварської медицини: звідки на все взяти кошти?"
 date: 2016-11-09
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "vlada"
   - "aktsiyi-zahodi"

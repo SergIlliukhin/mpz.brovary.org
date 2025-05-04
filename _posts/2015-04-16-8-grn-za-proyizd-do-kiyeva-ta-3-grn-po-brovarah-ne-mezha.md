@@ -1,6 +1,9 @@
 ---
 title: "Броварські перевізники: 8 грн за проїзд до Києва та 3 грн по Броварах – не межа"
 date: 2015-04-16
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

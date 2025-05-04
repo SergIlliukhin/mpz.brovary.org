@@ -1,6 +1,9 @@
 ---
 title: "У парку \"Перемога\" зріжуть 43 дерева, а у парку \"Приозерний\" - 18"
 date: 2013-11-14
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

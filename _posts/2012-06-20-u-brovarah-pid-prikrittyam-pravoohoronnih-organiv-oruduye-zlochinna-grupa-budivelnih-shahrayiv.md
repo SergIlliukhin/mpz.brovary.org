@@ -1,6 +1,9 @@
 ---
 title: "У Броварах під прикриттям правоохоронних органів орудує злочинна група будівельних шахраїв!"
 date: 2012-06-20
+author: 
+  username: "kravec"
+  display_name: "Юрій Кравець"
 categories: 
   - "kolonka-avtora"
 tags: 

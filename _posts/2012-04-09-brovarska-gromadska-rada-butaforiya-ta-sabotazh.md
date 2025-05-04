@@ -1,6 +1,9 @@
 ---
 title: "Броварська громадська рада: бутафорія та саботаж"
 date: 2012-04-09
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "illyuhin"
   - "andriyevskyj"

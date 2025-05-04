@@ -1,6 +1,9 @@
 ---
 title: "Заклик про допомогу мешканців будинків, які потерпають від сусідства з \"Мюзік Холом\""
 date: 2013-04-15
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Замість знесення незаконного кафе у парку «Перемога» влада вимірює у ньому рівень шуму"
 date: 2013-06-26
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

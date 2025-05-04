@@ -1,6 +1,9 @@
 ---
 title: "Папа римський з броварською картоплиною"
 date: 2013-03-14
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

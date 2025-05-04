@@ -1,6 +1,9 @@
 ---
 title: "Недобудований парк у Броварах відвідали головний прокурор області та очільник Київської ОДА"
 date: 2017-07-27
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

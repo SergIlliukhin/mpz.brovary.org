@@ -1,6 +1,9 @@
 ---
 title: "У суботу, 22 листопада, молодь закликає бровачан вшанувати пам'ять жертв Голодомору"
 date: 2014-11-19
+author: 
+  username: "onikienko"
+  display_name: "Вікторія Оникієнко"
 categories: 
   - "announce"
 tags: 

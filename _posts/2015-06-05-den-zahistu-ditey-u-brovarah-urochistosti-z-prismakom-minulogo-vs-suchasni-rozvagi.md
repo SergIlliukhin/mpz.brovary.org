@@ -1,6 +1,9 @@
 ---
 title: "День захисту дітей у Броварах: урочистості з присмаком минулого VS сучасні розваги"
 date: 2015-06-05
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

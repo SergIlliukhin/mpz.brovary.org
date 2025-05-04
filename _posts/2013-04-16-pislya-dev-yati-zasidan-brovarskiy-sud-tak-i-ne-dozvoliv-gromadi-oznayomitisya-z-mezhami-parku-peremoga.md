@@ -1,6 +1,9 @@
 ---
 title: "Суд вирішив, що броварчани не мають права знати межі парку «Перемога»"
 date: 2013-04-16
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 tags: 
   - "illyuhin"
   - "informatsiya"

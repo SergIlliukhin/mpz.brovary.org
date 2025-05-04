@@ -1,6 +1,9 @@
 ---
 title: "Активісти \"Народного контролю\" створюють базу викрадених у Броварах велосипедів"
 date: 2015-06-11
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

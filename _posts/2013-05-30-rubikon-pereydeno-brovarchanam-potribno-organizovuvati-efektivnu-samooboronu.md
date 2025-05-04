@@ -1,6 +1,9 @@
 ---
 title: "Рубікон перейдено. Броварчанам потрібно організовувати самооборону"
 date: 2013-05-30
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

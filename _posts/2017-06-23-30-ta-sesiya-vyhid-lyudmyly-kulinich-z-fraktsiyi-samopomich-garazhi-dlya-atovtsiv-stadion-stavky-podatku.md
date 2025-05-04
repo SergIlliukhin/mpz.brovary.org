@@ -1,6 +1,9 @@
 ---
 title: "30-та сесія: вихід Людмили Кулініч з фракції \"Самопоміч\", гаражі для АТОвців, стадіон, ставки податку"
 date: 2017-06-23
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "vlada"
   - "aktsiyi-zahodi"

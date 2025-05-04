@@ -1,6 +1,9 @@
 ---
 title: "Броварчани пікетували міську базу «Беркуту» та навідались до відділку міліції"
 date: 2014-01-29
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 tags: 
   - "berkut"
   - "brovary"

@@ -1,6 +1,9 @@
 ---
 title: "На \"бюджетній комісії\" говорили про переповнені школи та недофінансування медицини"
 date: 2015-12-03
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

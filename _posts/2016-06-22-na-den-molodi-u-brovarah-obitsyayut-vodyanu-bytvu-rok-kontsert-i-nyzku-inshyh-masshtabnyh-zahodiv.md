@@ -1,6 +1,9 @@
 ---
 title: "На День молоді у Броварах обіцяють водяну битву, рок-концерт і низку інших масштабних заходів"
 date: 2016-06-22
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

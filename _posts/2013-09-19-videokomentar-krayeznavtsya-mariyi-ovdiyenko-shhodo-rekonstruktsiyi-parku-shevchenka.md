@@ -1,6 +1,9 @@
 ---
 title: "Марія Овдієнко про оновлений парк Шевченка: Людські мрії збуваються"
 date: 2013-09-19
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

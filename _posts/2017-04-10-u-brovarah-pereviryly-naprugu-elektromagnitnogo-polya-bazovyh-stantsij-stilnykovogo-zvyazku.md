@@ -1,6 +1,9 @@
 ---
 title: "У Броварах перевірили напругу електромагнітного поля базових станцій стільникового зв'язку"
 date: 2017-04-10
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

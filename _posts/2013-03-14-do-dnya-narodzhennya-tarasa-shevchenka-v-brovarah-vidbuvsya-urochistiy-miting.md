@@ -1,6 +1,9 @@
 ---
 title: "До Дня народження Шевченка у Броварах відбувся урочистий мітинг"
 date: 2013-03-14
+author: 
+  username: "svoboda"
+  display_name: "Прес-служба ВО Свобода"
 categories: 
   - "kolonka-avtora"
 tags: 

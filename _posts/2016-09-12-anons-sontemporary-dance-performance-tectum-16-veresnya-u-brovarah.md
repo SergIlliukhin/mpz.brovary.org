@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: Сontemporary dance performance \"Tectum\" - 16 вересня у Броварах"
 date: 2016-09-12
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Десятки мільйонів повз Бровари: чому бідні – бо дурні, чому дурні – бо бідні. Дубль 2"
 date: 2015-05-05
+author: 
+  username: "simutin"
+  display_name: "Роман Сімутін"
 categories: 
   - "kolonka-avtora"
 tags: 

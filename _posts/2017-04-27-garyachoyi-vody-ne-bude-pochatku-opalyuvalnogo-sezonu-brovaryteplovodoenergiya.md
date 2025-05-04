@@ -1,6 +1,9 @@
 ---
 title: "Гарячої води не буде до початку опалювального сезону, - \"Броваритепловодоенергія\""
 date: 2017-04-27
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "14 листопада в центрі Броварів пройде традиційний ярмарок, рух автотранспорту буде перекрито"
 date: 2015-11-10
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

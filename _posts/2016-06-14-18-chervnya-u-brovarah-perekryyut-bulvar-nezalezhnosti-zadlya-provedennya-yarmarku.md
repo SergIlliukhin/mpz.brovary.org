@@ -1,6 +1,9 @@
 ---
 title: "18 червня у Броварах перекриють бульвар Незалежності задля проведення ярмарку"
 date: 2016-06-14
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

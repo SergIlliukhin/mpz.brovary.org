@@ -1,6 +1,9 @@
 ---
 title: "Броварчани протестують проти будівництва автомийки під вікнами житлових будинків на Київській"
 date: 2016-03-09
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

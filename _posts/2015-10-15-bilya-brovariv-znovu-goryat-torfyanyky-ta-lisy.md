@@ -1,6 +1,9 @@
 ---
 title: "Біля Броварів знову горять торф'яники та ліси - ОНОВЛЕНО"
 date: 2015-10-15
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

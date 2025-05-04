@@ -1,6 +1,9 @@
 ---
 title: "Міськрада публікує пропозиції громадян щодо перейменування вулиць у Броварах"
 date: 2015-07-13
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "brovary"
   - "novyny"

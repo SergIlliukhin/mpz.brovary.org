@@ -1,6 +1,9 @@
 ---
 title: "Скандал на взуттєвому підприємстві у Броварах: «віджали» як Крим, без єдиного вистрілу?"
 date: 2016-09-21
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Повторимо? Чи дамо шанс?"
 date: 2015-09-10
+author: 
+  username: "simutin"
+  display_name: "Роман Сімутін"
 categories: 
   - "kolonka-avtora"
 ---

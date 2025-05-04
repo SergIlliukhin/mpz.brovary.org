@@ -1,6 +1,9 @@
 ---
 title: "«Соціополіс» оприлюднив дані про електоральні симпатії в окрузі № 97 станом на початок жовтня"
 date: 2012-10-09
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "ivanenko"
   - "batkivshhina"

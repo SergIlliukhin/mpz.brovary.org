@@ -1,6 +1,9 @@
 ---
 title: "Висування кандидата для участі у виборах - АНОНС"
 date: 2013-05-03
+author: 
+  username: "demalliance"
+  display_name: "ДемАльянс Бровари"
 categories: 
   - "announce"
   - "kolonka-avtora"

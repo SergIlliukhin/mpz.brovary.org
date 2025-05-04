@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 4 червня відбудеться костюмована естафета від «Бігу в Броварах»"
 date: 2017-06-02
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

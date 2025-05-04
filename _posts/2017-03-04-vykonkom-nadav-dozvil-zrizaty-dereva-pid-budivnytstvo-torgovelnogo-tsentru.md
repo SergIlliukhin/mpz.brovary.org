@@ -1,6 +1,9 @@
 ---
 title: "Виконком надав дозвіл зрізати дерева під будівництво торговельного центру"
 date: 2017-03-04
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Лист солдату від юного броварчанина сколихнув Інтернет: подробиці та фінал історії"
 date: 2014-09-11
+author: 
+  username: "pecheritsia"
+  display_name: "Анастасія Печериця"
 tags: 
   - "ato"
   - "brovary"

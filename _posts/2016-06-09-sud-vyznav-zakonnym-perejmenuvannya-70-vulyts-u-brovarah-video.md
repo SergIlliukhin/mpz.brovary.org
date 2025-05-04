@@ -1,6 +1,9 @@
 ---
 title: "Суд визнав законним перейменування 70 вулиць у Броварах - ВІДЕО"
 date: 2016-06-09
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

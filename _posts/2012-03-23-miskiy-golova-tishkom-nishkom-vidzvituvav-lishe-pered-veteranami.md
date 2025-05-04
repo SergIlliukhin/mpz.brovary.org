@@ -1,6 +1,9 @@
 ---
 title: "Мер Сапожко відзвітував лише перед обраними броварчанами"
 date: 2012-03-23
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

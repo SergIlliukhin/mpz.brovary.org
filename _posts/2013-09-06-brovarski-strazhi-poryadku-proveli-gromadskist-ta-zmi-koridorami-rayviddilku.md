@@ -1,6 +1,9 @@
 ---
 title: "Броварські стражі порядку провели громадськість та ЗМІ коридорами відділку міліції"
 date: 2013-09-06
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "izolyator"
   - "barabash"

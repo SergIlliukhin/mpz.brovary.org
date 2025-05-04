@@ -1,6 +1,9 @@
 ---
 title: "Парк «Перемога» - культура чи відпочинок?"
 date: 2015-05-18
+author: 
+  username: "cherednik"
+  display_name: "Юрій Чередник"
 categories: 
   - "kolonka-avtora"
 ---

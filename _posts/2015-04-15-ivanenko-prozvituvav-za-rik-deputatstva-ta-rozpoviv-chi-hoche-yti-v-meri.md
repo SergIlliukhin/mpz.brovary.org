@@ -1,6 +1,9 @@
 ---
 title: "Іваненко прозвітував за рік депутатства та розповів, чи хоче йти в мери"
 date: 2015-04-15
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "ivanenko"
   - "brovary"

@@ -1,6 +1,9 @@
 ---
 title: "Волонтер-дайвер закликав броварчан приєднатися до очищення озера у парку \"Перемога\""
 date: 2017-03-02
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "hromada"
   - "novyny"

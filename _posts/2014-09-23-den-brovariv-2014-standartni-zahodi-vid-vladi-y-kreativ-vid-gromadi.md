@@ -1,6 +1,9 @@
 ---
 title: "День Броварів-2014: стандартні заходи від влади й креатив від громади"
 date: 2014-09-23
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "aerofleshmob"
   - "bagmut"

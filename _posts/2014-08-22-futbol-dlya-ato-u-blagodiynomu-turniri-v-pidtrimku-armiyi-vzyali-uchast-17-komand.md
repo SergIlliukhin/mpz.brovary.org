@@ -1,6 +1,9 @@
 ---
 title: "Футбол для АТО: у благодійному турнірі в підтримку армії взяли участь 17 команд"
 date: 2014-08-22
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "blagodiyniy-futbolniy-turnir"
   - "brovary"

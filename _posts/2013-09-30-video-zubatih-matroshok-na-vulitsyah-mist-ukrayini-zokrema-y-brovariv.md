@@ -1,6 +1,9 @@
 ---
 title: "\"Зубаті матрьошки\" на вулицях міст України, зокрема й Броварів - ВІДЕО"
 date: 2013-09-30
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "kolonka-avtora"
 tags: 

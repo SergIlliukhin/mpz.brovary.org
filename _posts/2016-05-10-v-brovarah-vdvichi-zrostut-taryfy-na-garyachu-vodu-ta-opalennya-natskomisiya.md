@@ -1,6 +1,9 @@
 ---
 title: "В Броварах вдвічі зростуть тарифи на гарячу воду та опалення, - Нацкомісія"
 date: 2016-05-10
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Бровари атакує «свинячий грип»? Протягом доби шпиталізували 25 «важких» дітей"
 date: 2016-01-11
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Будівництво транспортної магістралі «Нивки – Бровари» може невдовзі розпочати китайська компанія"
 date: 2017-01-25
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "\"Веломісто\": перша публічна презентація напрацювань броварських демальянсівців"
 date: 2015-09-15
+author: 
+  username: "onikienko"
+  display_name: "Вікторія Оникієнко"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

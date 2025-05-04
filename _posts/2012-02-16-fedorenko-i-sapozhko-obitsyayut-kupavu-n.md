@@ -1,6 +1,9 @@
 ---
 title: "Федоренко і Сапожко обіцяють: Купаву не продадуть"
 date: 2012-02-16
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "brovarski-zmi"

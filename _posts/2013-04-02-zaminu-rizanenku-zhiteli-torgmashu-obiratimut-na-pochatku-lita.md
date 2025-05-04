@@ -1,6 +1,9 @@
 ---
 title: "Заміну Різаненку жителі Торгмашу обиратимуть на початку літа"
 date: 2013-04-02
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 tags: 
   - "vibir-redaktsiyi"
   - "vibori"

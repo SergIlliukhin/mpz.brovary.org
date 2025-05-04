@@ -1,6 +1,9 @@
 ---
 title: "Броварська опозиція долучилася до запуску тролейбуса «Бровари-Київ» - ВІДЕО"
 date: 2012-10-23
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
   - "aktsiyi-zahodi"

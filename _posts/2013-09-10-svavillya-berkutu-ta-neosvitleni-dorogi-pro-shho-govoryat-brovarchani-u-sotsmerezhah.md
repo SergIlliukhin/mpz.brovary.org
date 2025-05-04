@@ -1,6 +1,9 @@
 ---
 title: "Свавілля «Беркуту» та неосвітлені дороги – про що говорять броварчани у соцмережах"
 date: 2013-09-10
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 tags: 
   - "berkut"
   - "brovary"

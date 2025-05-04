@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 3 грудня броварський «Демальянс» поспілкується з виборцями"
 date: 2016-11-30
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

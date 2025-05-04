@@ -1,6 +1,9 @@
 ---
 title: "Броварський професійний ліцей: вижити і не залишитися на «голодному пайку»"
 date: 2016-10-21
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

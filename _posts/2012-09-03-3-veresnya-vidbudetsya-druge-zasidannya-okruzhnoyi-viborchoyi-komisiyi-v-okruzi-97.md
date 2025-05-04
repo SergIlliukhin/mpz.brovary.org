@@ -1,6 +1,9 @@
 ---
 title: "3 вересня відбудеться друге засідання окружної виборчої комісії в окрузі № 97"
 date: 2012-09-03
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Як створити ОСББ: сьогодні та в суботу обговорять із мешканцями броварських багатоповерхівок"
 date: 2016-02-10
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

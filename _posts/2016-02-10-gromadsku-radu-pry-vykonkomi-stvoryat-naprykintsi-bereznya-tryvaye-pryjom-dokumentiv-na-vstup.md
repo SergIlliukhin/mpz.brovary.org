@@ -1,6 +1,9 @@
 ---
 title: "Громадську раду при виконкомі створять наприкінці березня, почався прийом документів на вступ"
 date: 2016-02-10
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "hromada"
   - "novyny"

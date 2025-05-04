@@ -1,6 +1,9 @@
 ---
 title: "Броварське ДАІ розшукує викрадену на Торгмаші \"Тойоту Королу\" - ФОТО"
 date: 2015-08-13
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

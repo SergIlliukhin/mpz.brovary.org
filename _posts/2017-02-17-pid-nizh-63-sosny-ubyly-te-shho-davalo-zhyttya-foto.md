@@ -1,6 +1,9 @@
 ---
 title: "Під «ніж» - 63 сосни: убили те, що давало життя - ФОТО"
 date: 2017-02-17
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

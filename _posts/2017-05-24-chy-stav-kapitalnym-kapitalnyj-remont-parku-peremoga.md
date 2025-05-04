@@ -1,6 +1,9 @@
 ---
 title: "Чи став капітальним капітальний ремонт парку \"Перемога\"?"
 date: 2017-05-24
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "rozsliduvannya"
   - "brovary"

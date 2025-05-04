@@ -1,6 +1,9 @@
 ---
 title: "Восени у Броварах відкриється міні-притулок для престарілих"
 date: 2016-07-21
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

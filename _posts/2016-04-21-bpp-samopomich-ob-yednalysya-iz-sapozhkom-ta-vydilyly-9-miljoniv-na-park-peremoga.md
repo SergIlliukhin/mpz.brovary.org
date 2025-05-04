@@ -1,6 +1,9 @@
 ---
 title: "БПП і «Самопоміч» об’єдналися із Сапожком та виділили 9 мільйонів на парк «Перемога»"
 date: 2016-04-21
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "vlada"
   - "novyny"

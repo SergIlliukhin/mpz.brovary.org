@@ -1,6 +1,9 @@
 ---
 title: "Prozorro 2.0: Депутати vs Сапожко"
 date: 2016-07-09
+author: 
+  username: "berestovyj"
+  display_name: "Олег Берестовий"
 categories: 
   - "kolonka-avtora"
 ---

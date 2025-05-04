@@ -1,6 +1,9 @@
 ---
 title: "Майдан усіх сусідів"
 date: 2015-06-03
+author: 
+  username: "simutin"
+  display_name: "Роман Сімутін"
 categories: 
   - "kolonka-avtora"
 ---

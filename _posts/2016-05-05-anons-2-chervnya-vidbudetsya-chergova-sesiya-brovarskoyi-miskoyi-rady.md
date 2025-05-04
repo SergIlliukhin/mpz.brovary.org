@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 2 червня відбудеться чергова сесія Броварської міської ради"
 date: 2016-05-05
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

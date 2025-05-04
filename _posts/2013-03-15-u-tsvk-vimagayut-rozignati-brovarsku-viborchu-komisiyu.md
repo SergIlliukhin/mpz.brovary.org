@@ -1,6 +1,9 @@
 ---
 title: "Від ЦВК вимагають розігнати броварську виборчу комісію"
 date: 2013-03-15
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "vibir-redaktsiyi"
   - "vibori"

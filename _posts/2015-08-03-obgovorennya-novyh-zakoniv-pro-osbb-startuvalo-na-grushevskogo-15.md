@@ -1,6 +1,9 @@
 ---
 title: "До 1 липня 2016 року всі багатоповерхівки Броварів мають визначитись, хто управлятиме їх будинком"
 date: 2015-08-03
+author: 
+  username: "komarovskyj"
+  display_name: "Комаровський Олексій"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

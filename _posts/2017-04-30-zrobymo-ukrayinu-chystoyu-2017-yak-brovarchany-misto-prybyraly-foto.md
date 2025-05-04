@@ -1,6 +1,9 @@
 ---
 title: "\"Зробимо Україну чистою-2017\": як броварчани місто прибирали - ФОТО"
 date: 2017-04-30
+author: 
+  username: "tkachuk"
+  display_name: "Вікторія Ткачук"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

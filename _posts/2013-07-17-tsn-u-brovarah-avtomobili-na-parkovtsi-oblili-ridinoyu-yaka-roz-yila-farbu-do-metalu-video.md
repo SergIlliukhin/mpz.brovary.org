@@ -1,6 +1,9 @@
 ---
 title: "ТСН: У Броварах автомобілі на парковці облили рідиною, яка роз'їла фарбу до металу - ВІДЕО"
 date: 2013-07-17
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 25 лютого в Броварах вистава «Ремонт або реставрація почуттів»"
 date: 2017-02-23
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

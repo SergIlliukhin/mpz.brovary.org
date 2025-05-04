@@ -1,6 +1,9 @@
 ---
 title: "7 вересня - суд над учасником акції \"страта судді\"!"
 date: 2012-09-06
+author: 
+  username: "kohanivsky"
+  display_name: "Микола Коханівський"
 categories: 
   - "announce"
   - "kolonka-avtora"

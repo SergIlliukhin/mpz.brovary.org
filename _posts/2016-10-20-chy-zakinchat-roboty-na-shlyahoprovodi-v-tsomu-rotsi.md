@@ -1,6 +1,9 @@
 ---
 title: "Чи закінчать роботи на шляхопроводі в цьому році?"
 date: 2016-10-20
+author: 
+  username: "korolenko"
+  display_name: "Олександр Короленко"
 categories: 
   - "kolonka-avtora"
 ---

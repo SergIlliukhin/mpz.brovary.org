@@ -1,6 +1,9 @@
 ---
 title: "«Демальянсівець» Віктор Андрусів поділився з броварчанами секретами, як зробити країну успішною"
 date: 2014-07-04
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 tags: 
   - "alina-dyachenko"
   - "andrusiv"

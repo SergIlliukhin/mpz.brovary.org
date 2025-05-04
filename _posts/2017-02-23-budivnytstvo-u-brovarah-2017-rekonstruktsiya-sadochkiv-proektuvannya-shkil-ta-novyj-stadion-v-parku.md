@@ -1,6 +1,9 @@
 ---
 title: "Будівництво у Броварах-2017: реконструкція садочків, проектування шкіл та новий стадіон в парку"
 date: 2017-02-23
+author: 
+  username: "tkachuk"
+  display_name: "Вікторія Ткачук"
 categories: 
   - "rozsliduvannya"
   - "vlada"

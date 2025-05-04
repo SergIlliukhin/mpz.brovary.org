@@ -1,6 +1,9 @@
 ---
 title: "Де живе добро?"
 date: 2014-05-06
+author: 
+  username: "gymnazium"
+  display_name: "Гімназія ім. С. Олійника"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Хто йде в Раду: повний список кандидатів-мажоритарників у 97 окрузі"
 date: 2014-10-06
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "barishivka"
   - "barishivskiy-rayon"

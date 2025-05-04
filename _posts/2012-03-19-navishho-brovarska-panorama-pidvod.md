@@ -1,6 +1,9 @@
 ---
 title: "Навіщо «Броварська панорама» підводить Федоренка під статтю?"
 date: 2012-03-19
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

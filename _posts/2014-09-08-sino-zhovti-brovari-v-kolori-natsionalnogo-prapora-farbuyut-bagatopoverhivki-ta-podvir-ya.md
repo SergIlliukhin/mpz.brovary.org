@@ -1,6 +1,9 @@
 ---
 title: "Синьо-жовті Бровари: в кольори національного прапора фарбують багатоповерхівки та подвір'я"
 date: 2014-09-08
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

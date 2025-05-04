@@ -1,6 +1,9 @@
 ---
 title: "Сезон суботників відкрито: мешканці Торгмашу прибрали територію закинутої поліклініки"
 date: 2015-03-10
+author: 
+  username: "onikienko"
+  display_name: "Вікторія Оникієнко"
 categories: 
   - "aktsiyi-zahodi"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Ми йдемо на місцеві вибори, маємо свого претендента на посаду мера та набираємо команду"
 date: 2015-09-10
+author: 
+  username: "demalliance"
+  display_name: "ДемАльянс Бровари"
 categories: 
   - "kolonka-avtora"
 ---

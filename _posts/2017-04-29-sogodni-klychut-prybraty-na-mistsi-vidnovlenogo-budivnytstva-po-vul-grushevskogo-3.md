@@ -1,6 +1,9 @@
 ---
 title: "Сьогодні кличуть «прибрати» на місці відновленого будівництва по вул. Грушевського, 3"
 date: 2017-04-29
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "announce"
   - "novyny"

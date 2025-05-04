@@ -1,6 +1,9 @@
 ---
 title: "Активісти спільно запланували \"генеральне прибирання\" броварського лісу на 25 квітня"
 date: 2015-04-20
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "announce"
 tags: 

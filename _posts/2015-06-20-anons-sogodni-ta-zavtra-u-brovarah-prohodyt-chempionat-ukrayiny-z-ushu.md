@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: Сьогодні та завтра у Броварах проходить чемпіонат України з ушу"
 date: 2015-06-20
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "brovary"

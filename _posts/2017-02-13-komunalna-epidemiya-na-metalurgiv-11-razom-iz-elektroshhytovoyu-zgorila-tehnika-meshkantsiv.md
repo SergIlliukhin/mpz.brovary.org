@@ -1,6 +1,9 @@
 ---
 title: "Комунальна епідемія. На Металургів, 11 разом із електрощитовою згоріла техніка мешканців"
 date: 2017-02-13
+author: 
+  username: "mizina"
+  display_name: "Дарина Мізіна"
 categories: 
   - "brovary"
   - "novyny"

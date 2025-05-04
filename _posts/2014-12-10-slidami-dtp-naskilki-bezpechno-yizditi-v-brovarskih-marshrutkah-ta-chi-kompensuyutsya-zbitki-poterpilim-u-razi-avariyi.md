@@ -1,6 +1,9 @@
 ---
 title: "Слідами одного ДТП: наскільки безпечно їздити в броварських маршрутках?"
 date: 2014-12-10
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 tags: 
   - "403-marshrut"
   - "avariya"

@@ -1,6 +1,9 @@
 ---
 title: "Виконком дозволив зрізати ще близько сотні дерев у Броварах"
 date: 2013-08-16
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "vykonkom"

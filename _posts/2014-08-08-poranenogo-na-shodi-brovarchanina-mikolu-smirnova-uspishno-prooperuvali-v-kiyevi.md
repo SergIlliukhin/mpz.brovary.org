@@ -1,6 +1,9 @@
 ---
 title: "Пораненого на Сході броварчанина Миколу Смірнова успішно прооперували в Києві"
 date: 2014-08-08
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

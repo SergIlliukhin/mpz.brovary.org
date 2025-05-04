@@ -1,6 +1,9 @@
 ---
 title: "Чому Сапожко має піти та чим насправді займається Народна Рада?"
 date: 2014-03-13
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 categories: 
   - "kolonka-avtora"
 ---

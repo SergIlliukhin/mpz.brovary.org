@@ -1,6 +1,9 @@
 ---
 title: "Сергій Іллюхін та Людмила Кулініч стали депутатами Броварської міськради - ФОТО"
 date: 2016-12-28
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "vlada"
   - "novyny"

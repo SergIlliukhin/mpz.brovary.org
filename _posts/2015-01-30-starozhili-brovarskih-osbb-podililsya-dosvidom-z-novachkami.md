@@ -1,6 +1,9 @@
 ---
 title: "\"Старожили\" броварських ОСББ поділилися досвідом з новачками"
 date: 2015-01-30
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 tags: 
   - "andriy-sauk"
   - "brovary"

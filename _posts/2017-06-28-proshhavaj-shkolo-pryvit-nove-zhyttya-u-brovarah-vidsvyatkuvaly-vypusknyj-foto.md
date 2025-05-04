@@ -1,6 +1,9 @@
 ---
 title: "Прощавай, школо, привіт, нове життя! У Броварах відсвяткували випускний - ФОТО"
 date: 2017-06-28
+author: 
+  username: "krokos"
+  display_name: "Владислава Крокос"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

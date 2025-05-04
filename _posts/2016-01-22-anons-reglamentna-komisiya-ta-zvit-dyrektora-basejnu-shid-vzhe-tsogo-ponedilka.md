@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: «Регламентна комісія» та звіт директора басейну «Схід» - вже цього понеділка"
 date: 2016-01-22
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

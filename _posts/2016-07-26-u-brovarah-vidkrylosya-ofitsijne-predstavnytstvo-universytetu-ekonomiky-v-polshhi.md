@@ -1,6 +1,9 @@
 ---
 title: "У Броварах відкрилося офіційне Представництво університету економіки в Польщі"
 date: 2016-07-26
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

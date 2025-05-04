@@ -1,6 +1,9 @@
 ---
 title: "Виконком визначив порядок надання адресної матеріальної допомоги броварчанам"
 date: 2013-02-07
+author: 
+  username: "serzhov"
+  display_name: "Сергій Севрук"
 tags: 
   - "adresna-materialna-dopomoga"
   - "brovary"

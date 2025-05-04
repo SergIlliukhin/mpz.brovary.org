@@ -1,6 +1,9 @@
 ---
 title: "Карантин у броварських школах знову продовжили до кінця тижня"
 date: 2016-02-03
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

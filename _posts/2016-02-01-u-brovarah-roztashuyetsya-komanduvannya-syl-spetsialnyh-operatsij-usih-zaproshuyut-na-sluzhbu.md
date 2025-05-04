@@ -1,6 +1,9 @@
 ---
 title: "У Броварах розташується командування Сил спецоперацій України, відкрито 1500 вакансій"
 date: 2016-02-01
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "brovary"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Парубки \"з 90-х\" забезпечуватимуть порядок у роботі ОВК? – ВІДЕО"
 date: 2012-09-12
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 categories: 
   - "kolonka-avtora"
 tags: 

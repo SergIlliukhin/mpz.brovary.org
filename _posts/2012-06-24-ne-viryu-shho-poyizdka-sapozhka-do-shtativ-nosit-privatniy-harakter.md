@@ -1,6 +1,9 @@
 ---
 title: "Не вірю, що поїздка Сапожка до Штатів носить приватний характер"
 date: 2012-06-24
+author: 
+  username: "plakhovalex"
+  display_name: "Олександр Плахов"
 categories: 
   - "kolonka-avtora"
 tags: 

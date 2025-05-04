@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: Лекція від BroBots \"Як робити комп'ютерні ігри\""
 date: 2016-11-22
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Володимир Кличко \"зірвав\" урок в спортучилищі та обмалював парту"
 date: 2013-10-25
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "bvufk"
   - "boks"

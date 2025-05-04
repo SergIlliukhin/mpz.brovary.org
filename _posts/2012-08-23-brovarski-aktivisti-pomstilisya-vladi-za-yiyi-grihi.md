@@ -1,6 +1,9 @@
 ---
 title: "Броварські активісти «помстилися» владі за її «гріхи»"
 date: 2012-08-23
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "kolonka-avtora"
   - "aktsiyi-zahodi"

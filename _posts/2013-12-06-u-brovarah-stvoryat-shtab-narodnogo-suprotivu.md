@@ -1,6 +1,9 @@
 ---
 title: "У Броварах створять Штаб народного супротиву"
 date: 2013-12-06
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "yevromaydan"
   - "vibir-redaktsiyi"

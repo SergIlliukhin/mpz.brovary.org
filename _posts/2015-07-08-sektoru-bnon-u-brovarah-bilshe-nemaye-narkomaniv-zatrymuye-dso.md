@@ -1,6 +1,9 @@
 ---
 title: "Сектору БНОН у Броварах більше немає, наркоманів затримує ДСО"
 date: 2015-07-08
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

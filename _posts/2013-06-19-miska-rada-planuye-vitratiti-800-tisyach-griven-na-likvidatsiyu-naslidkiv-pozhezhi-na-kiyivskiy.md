@@ -1,6 +1,9 @@
 ---
 title: "Міська рада планує витратити 800 тисяч гривень на ліквідацію наслідків пожежі на Київський"
 date: 2013-06-19
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"
   - "kiyivska-302"

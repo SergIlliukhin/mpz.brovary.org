@@ -1,6 +1,9 @@
 ---
 title: "На вимогу громади проект генплану Броварів обговорять на конференції 28 травня"
 date: 2014-05-22
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 categories: 
   - "announce"
 tags: 

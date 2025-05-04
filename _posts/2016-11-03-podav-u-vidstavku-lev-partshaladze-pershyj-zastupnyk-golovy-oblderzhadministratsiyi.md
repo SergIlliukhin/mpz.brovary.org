@@ -1,6 +1,9 @@
 ---
 title: "Подав у відставку Лев Парцхаладзе, перший заступник голови облдержадміністрації"
 date: 2016-11-03
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

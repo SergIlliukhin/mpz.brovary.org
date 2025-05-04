@@ -1,6 +1,9 @@
 ---
 title: "Прокуратура підозрює броварського депутата у корупції при продажу землі"
 date: 2016-03-01
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "У Броварах було скоєно напад на очільника страйку на ТОВ \"Чисті матеріали\""
 date: 2013-03-29
+author: 
+  username: "svoboda"
+  display_name: "Прес-служба ВО Свобода"
 categories: 
   - "kolonka-avtora"
 tags: 

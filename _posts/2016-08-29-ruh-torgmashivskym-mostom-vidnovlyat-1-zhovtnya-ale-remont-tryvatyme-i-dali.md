@@ -1,6 +1,9 @@
 ---
 title: "Рух торгмашівським мостом відновлять 1 жовтня, але ремонт триватиме і далі"
 date: 2016-08-29
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

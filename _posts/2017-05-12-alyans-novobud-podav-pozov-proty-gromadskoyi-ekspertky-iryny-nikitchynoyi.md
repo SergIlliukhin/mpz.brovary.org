@@ -1,6 +1,9 @@
 ---
 title: "\"Альянс-Новобуд\" подав позов проти громадської експертки Ірини Нікітчиної"
 date: 2017-05-12
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "hromada"
   - "novyny"

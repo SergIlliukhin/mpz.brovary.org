@@ -1,6 +1,9 @@
 ---
 title: "Страйкуючі працівники заблокували роботу підприємства у Броварах"
 date: 2013-01-28
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 tags: 
   - "brovary"
   - "brovarske-pidpriyemstvo"

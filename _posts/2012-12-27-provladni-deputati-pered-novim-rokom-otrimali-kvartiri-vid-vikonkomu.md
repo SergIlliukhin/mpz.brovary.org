@@ -1,6 +1,9 @@
 ---
 title: "Родини провладних депутатів перед Новим Роком отримали квартири від виконкому"
 date: 2012-12-27
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

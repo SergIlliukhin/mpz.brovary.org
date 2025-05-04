@@ -1,6 +1,9 @@
 ---
 title: "Сьогодні вночі депутату Роману Сімутіну спалили автомобіль - ФОТО, ВІДЕО"
 date: 2013-06-10
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

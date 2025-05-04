@@ -1,6 +1,9 @@
 ---
 title: "У Броварах відкрився офіс-клуб від фонду «Інна» для допомоги хворим на рак"
 date: 2016-02-08
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "hromada"
   - "novyny"

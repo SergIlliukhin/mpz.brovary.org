@@ -1,6 +1,9 @@
 ---
 title: "Бізнес-структури Віктора Поліщука фіктивно погасили свої кредитні зобов’язання, – «Мінфін»"
 date: 2016-07-27
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

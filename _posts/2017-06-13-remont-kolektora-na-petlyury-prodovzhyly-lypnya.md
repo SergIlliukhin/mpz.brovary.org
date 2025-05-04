@@ -1,6 +1,9 @@
 ---
 title: "Ремонт колектора на Петлюри продовжили до липня"
 date: 2017-06-13
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: У суботу в центрі Броварів відбудеться продуктовий ярмарок"
 date: 2017-04-05
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

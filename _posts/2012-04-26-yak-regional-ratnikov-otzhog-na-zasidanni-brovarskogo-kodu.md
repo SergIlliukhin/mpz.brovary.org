@@ -1,6 +1,9 @@
 ---
 title: "Як «регіонал»(?) Ратніков «отжог» на засіданні броварського КОДу"
 date: 2012-04-26
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

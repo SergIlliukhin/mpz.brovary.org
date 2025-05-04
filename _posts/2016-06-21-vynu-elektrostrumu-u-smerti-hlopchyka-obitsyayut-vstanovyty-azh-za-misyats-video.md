@@ -1,6 +1,9 @@
 ---
 title: "«Вину» електроструму у смерті хлопчика обіцяють встановити аж за місяць - ВІДЕО"
 date: 2016-06-21
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

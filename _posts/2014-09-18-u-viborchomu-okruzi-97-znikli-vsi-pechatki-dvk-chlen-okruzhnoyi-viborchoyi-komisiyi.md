@@ -1,6 +1,9 @@
 ---
 title: "У виборчому окрузі №97 зникли всі печатки дільничних виборчих комісій – член ОВК"
 date: 2014-09-18
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "97-okrug"
   - "brovary"

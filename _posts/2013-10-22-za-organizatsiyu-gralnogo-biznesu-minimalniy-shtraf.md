@@ -1,6 +1,9 @@
 ---
 title: "Чому \"організатор\" грального бізнесу у Броварах отримав мінімальне покарання?"
 date: 2013-10-22
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 categories: 
   - "kolonka-avtora"
 tags: 

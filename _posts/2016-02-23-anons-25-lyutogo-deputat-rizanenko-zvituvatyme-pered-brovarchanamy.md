@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 25 лютого депутат Різаненко звітуватиме перед броварчанами"
 date: 2016-02-23
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

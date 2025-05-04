@@ -1,6 +1,9 @@
 ---
 title: "Протистояння між Броварською ЦРЛ та офтальмологічним центром «Зір» триває"
 date: 2015-01-28
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 tags: 
   - "bagnyuk"
   - "brovary"

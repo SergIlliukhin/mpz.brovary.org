@@ -1,6 +1,9 @@
 ---
 title: "Чи є проблеми з Prozorro у Броварах? З'ясовували разом із розробником системи Олександром Стародубцевим - ФОТО"
 date: 2016-11-24
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "vlada"
   - "aktsiyi-zahodi"

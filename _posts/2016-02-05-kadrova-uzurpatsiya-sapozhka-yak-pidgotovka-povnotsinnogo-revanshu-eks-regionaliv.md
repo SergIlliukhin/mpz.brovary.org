@@ -1,6 +1,9 @@
 ---
 title: "Кадрова узурпація Сапожка як підготовка повноцінного реваншу екс-регіоналів"
 date: 2016-02-05
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

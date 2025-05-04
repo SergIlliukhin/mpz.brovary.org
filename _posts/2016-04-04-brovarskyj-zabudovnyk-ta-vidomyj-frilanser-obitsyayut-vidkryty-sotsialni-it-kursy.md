@@ -1,6 +1,9 @@
 ---
 title: "Броварський забудовник та відомий фрілансер обіцяють відкрити «соціальні» IT-курси"
 date: 2016-04-04
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "brovary"
   - "novyny"

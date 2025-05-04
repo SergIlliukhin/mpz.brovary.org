@@ -1,6 +1,9 @@
 ---
 title: "Тим, хто нас рятує, також потрібна підтримка!"
 date: 2016-02-15
+author: 
+  username: "batkivshchyna"
+  display_name: "Батьківщина"
 categories: 
   - "kolonka-avtora"
 ---

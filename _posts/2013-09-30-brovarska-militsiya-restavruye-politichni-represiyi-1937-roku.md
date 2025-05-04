@@ -1,6 +1,9 @@
 ---
 title: "Броварська міліція реставрує політичні репресії 1937 року"
 date: 2013-09-30
+author: 
+  username: "udar"
+  display_name: "УДАР"
 categories: 
   - "kolonka-avtora"
 tags: 

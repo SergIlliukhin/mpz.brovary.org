@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: Броварські депутати від \"Самопомочі\" розкажуть про своє бачення останніх політичних подій у місті"
 date: 2016-03-01
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

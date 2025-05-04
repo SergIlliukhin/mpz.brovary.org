@@ -1,6 +1,9 @@
 ---
 title: "Як зробити закордонний паспорт у Броварах: покрокова інструкція та поради з досвіду"
 date: 2012-04-03
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "kolonka-avtora"
 tags: 

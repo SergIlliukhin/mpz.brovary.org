@@ -1,6 +1,9 @@
 ---
 title: "Сапожко заперечує факт свого офіційного візиту до США"
 date: 2012-06-21
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "vizit"
   - "vibir-redaktsiyi"

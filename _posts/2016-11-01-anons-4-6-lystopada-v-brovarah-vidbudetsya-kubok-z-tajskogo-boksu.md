@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 4-6 листопада в Броварах відбудеться Кубок з тайського боксу"
 date: 2016-11-01
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

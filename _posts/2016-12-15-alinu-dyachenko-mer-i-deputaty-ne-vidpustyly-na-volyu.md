@@ -1,6 +1,9 @@
 ---
 title: "Аліну Дяченко мер і депутати не відпустили \"на волю\""
 date: 2016-12-15
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "vlada"
   - "novyny"

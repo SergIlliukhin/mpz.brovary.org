@@ -1,6 +1,9 @@
 ---
 title: "Федоренко розпочав передвиборчу роздачу продуктових наборів. ВІДЕО"
 date: 2012-04-19
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "video"
 tags: 

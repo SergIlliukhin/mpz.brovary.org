@@ -1,6 +1,9 @@
 ---
 title: "Чи загрожує пацієнтам броварських лікарень відновлення відімкнень світла?"
 date: 2015-01-26
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 tags: 
   - "btsrl"
   - "vidimknennya"

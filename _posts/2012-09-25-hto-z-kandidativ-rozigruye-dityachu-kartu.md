@@ -1,6 +1,9 @@
 ---
 title: "Хто з кандидатів розігрує \"дитячу карту\"?"
 date: 2012-09-25
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

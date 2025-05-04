@@ -1,6 +1,9 @@
 ---
 title: "Броварчани вийшли на захист парку \"Перемога\""
 date: 2011-12-21
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "aktsiyi-zahodi"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Ключових учасників акції 18 квітня почали викликати на допит"
 date: 2013-04-16
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "music-hall"
   - "aktsiya-protestu"

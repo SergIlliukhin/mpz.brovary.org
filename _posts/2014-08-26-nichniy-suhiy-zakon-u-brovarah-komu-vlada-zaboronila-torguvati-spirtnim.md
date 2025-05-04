@@ -1,6 +1,9 @@
 ---
 title: "Нічний «сухий закон» у Броварах: кому влада заборонила торгувати спиртним після 23:00?"
 date: 2014-08-26
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "music-hall"
   - "brovarska-miska-rada"

@@ -1,6 +1,9 @@
 ---
 title: "Гордіїв вузол навколо ЖК \"Scandia\" - ІНФОГРАФІКА"
 date: 2017-05-03
+author: 
+  username: "mizina"
+  display_name: "Дарина Мізіна"
 categories: 
   - "rozsliduvannya"
   - "vlada"

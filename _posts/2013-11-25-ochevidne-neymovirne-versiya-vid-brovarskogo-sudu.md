@@ -1,6 +1,9 @@
 ---
 title: "Очевидне – неймовірне: версія від броварського суду"
 date: 2013-11-25
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

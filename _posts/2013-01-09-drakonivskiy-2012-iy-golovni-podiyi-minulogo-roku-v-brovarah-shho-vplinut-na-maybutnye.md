@@ -1,6 +1,9 @@
 ---
 title: "«Драконівський» 2012-ий: головні події минулого року в Броварах, що вплинуть на майбутнє"
 date: 2013-01-09
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "57 сесія міськради: неузаконені «Кулиничі», дитсадок замість лісу та створення нового провулку"
 date: 2015-08-12
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "vlada"
   - "aktsiyi-zahodi"

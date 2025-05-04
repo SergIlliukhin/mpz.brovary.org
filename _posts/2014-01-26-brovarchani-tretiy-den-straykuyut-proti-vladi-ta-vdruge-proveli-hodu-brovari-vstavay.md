@@ -1,6 +1,9 @@
 ---
 title: "Броварчани третій день страйкують проти влади та вдруге провели ходу «Бровари, вставай!»"
 date: 2014-01-26
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 categories: 
   - "aktsiyi-zahodi"
 tags: 

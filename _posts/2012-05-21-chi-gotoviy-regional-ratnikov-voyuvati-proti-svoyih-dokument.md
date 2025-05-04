@@ -1,6 +1,9 @@
 ---
 title: "Чи готовий «регіонал» Ратніков воювати проти своїх? ДОКУМЕНТ"
 date: 2012-05-21
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

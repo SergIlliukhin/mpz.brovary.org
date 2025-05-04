@@ -1,6 +1,9 @@
 ---
 title: "Даєш міліцію оперативну! Громадська рада вивчає реагування МВС на виклики жителів Броварщини"
 date: 2015-06-09
+author: 
+  username: "komarovskyj"
+  display_name: "Комаровський Олексій"
 categories: 
   - "hromada"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Віталію Запорожцю дали 14 років, біля броварського суду сутички зі спецпризначенцями. ФОТО, ВІДЕО"
 date: 2012-06-27
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "video"
   - "aktsiyi-zahodi"

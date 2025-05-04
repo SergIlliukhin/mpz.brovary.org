@@ -1,6 +1,9 @@
 ---
 title: "Депутати парламентської коаліції вимагають у Сапожка не ухвалювати новий Генплан Броварів"
 date: 2015-03-04
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "vibir-redaktsiyi"
   - "vru"

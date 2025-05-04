@@ -1,6 +1,9 @@
 ---
 title: "Рейтинги треба вміти не лише малювати, а й публікувати: аналіз ЗМІ (доповнено)"
 date: 2012-10-17
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 categories: 
   - "rozsliduvannya"
 tags: 

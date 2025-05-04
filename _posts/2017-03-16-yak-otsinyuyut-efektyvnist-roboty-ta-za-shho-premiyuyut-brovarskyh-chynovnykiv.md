@@ -1,6 +1,9 @@
 ---
 title: "Як оцінюють ефективність роботи та за що преміюють броварських чиновників?"
 date: 2017-03-16
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "rozsliduvannya"
   - "vlada"

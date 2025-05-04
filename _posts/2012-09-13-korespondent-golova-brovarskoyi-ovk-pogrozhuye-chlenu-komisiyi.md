@@ -1,6 +1,9 @@
 ---
 title: "\"Кореспондент\": Голова броварської ОВК погрожує члену комісії"
 date: 2012-09-13
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "vibori-2012"

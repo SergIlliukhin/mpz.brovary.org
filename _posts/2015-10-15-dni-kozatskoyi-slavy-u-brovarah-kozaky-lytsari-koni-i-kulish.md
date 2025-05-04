@@ -1,6 +1,9 @@
 ---
 title: "\"День козацької слави\" у Броварах: козаки, лицарі, коні і куліш"
 date: 2015-10-15
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

@@ -1,6 +1,9 @@
 ---
 title: "Триває конкурс на відбір адвокатів для надання безоплатної вторинної правової допомоги"
 date: 2015-09-17
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

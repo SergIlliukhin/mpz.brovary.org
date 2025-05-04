@@ -1,6 +1,9 @@
 ---
 title: "П'ятий місяць роботи: три сесії, ProZorro, захист прав мешканців, пожежна безпека та підготовка ЗУЧ"
 date: 2016-04-02
+author: 
+  username: "demalliance"
+  display_name: "ДемАльянс Бровари"
 categories: 
   - "kolonka-avtora"
 tags: 

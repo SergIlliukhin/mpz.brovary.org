@@ -1,6 +1,9 @@
 ---
 title: "Звіт за 9 місяців роботи броварських волонтерів"
 date: 2015-03-20
+author: 
+  username: "koorcentr"
+  display_name: "Коордцентр допомоги військовим"
 categories: 
   - "kolonka-avtora"
 tags: 

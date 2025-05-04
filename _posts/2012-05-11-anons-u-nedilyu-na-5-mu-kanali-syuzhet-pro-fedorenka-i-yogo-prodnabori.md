@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: У неділю на 5-му каналі - сюжет про Федоренка і його проднабори"
 date: 2012-05-11
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

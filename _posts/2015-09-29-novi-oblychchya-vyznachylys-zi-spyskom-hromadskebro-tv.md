@@ -1,6 +1,9 @@
 ---
 title: "\"Нові обличчя\" визначились зі списком – HromadskeBro.tv"
 date: 2015-09-29
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Піар міської влади на очищенні Броварського лісу перетворився на пшик"
 date: 2015-06-06
+author: 
+  username: "siverska"
+  display_name: "Олена Сіверська"
 categories: 
   - "kolonka-avtora"
 tags: 

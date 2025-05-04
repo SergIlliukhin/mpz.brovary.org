@@ -1,6 +1,9 @@
 ---
 title: "На День медика броварські лікарі нагадали, що їх намагаються виселити з гуртожитку"
 date: 2013-06-17
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 tags: 
   - "yermolayeva"
   - "brusenska"

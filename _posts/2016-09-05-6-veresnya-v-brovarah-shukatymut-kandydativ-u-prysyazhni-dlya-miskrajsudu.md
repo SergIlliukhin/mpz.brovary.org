@@ -1,6 +1,9 @@
 ---
 title: "До 6 вересня в  Броварах шукатимуть кандидатів у присяжні для міськрайсуду"
 date: 2016-09-05
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

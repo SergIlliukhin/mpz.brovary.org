@@ -1,6 +1,9 @@
 ---
 title: "Співголови партії \"ДемАльянс\" поспілкувалися з броварчанами - ФОТО"
 date: 2016-12-28
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

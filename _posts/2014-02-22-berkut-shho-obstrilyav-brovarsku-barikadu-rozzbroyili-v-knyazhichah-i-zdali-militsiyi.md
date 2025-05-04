@@ -1,6 +1,9 @@
 ---
 title: "«Беркут», що обстріляв броварську барикаду, роззброїли в Княжичах і здали міліції - ВІДЕО"
 date: 2014-02-22
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "vibir-redaktsiyi"
   - "novini"

@@ -1,6 +1,9 @@
 ---
 title: "Броварчани спіймали за руку нелегальних \"сміттярів\" - ФОТО, ВІДЕО"
 date: 2015-07-21
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Чому в Україні небезпечно розмовляти українською?"
 date: 2012-02-28
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "kachor"
   - "novini"

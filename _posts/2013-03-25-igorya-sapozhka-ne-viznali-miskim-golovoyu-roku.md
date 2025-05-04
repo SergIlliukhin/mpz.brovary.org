@@ -1,6 +1,9 @@
 ---
 title: "Ігоря Сапожка не визнали міським головою року"
 date: 2013-03-25
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "lyudina-roku"
   - "novini"

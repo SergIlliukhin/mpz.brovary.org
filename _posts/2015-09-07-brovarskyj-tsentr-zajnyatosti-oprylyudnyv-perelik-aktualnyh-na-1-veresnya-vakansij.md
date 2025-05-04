@@ -1,6 +1,9 @@
 ---
 title: "Броварський центр зайнятості оприлюднив перелік актуальних на 1 вересня вакансій"
 date: 2015-09-07
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

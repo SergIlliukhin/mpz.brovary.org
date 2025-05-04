@@ -1,6 +1,9 @@
 ---
 title: "Громадський бюджет Броварів: серед 26 заявок - 11 дитячих та спортивних майданчиків"
 date: 2017-06-21
+author: 
+  username: "mizina"
+  display_name: "Дарина Мізіна"
 categories: 
   - "hromada"
   - "novyny"

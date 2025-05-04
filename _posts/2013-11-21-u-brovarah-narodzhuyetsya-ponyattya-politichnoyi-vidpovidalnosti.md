@@ -1,6 +1,9 @@
 ---
 title: "У Броварах народжується поняття політичної відповідальності?"
 date: 2013-11-21
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Учиться реформам будем у Грузии?"
 date: 2013-03-01
+author: 
+  username: "nemchina"
+  display_name: "Тетяна Немчина"
 categories: 
   - "kolonka-avtora"
 tags: 

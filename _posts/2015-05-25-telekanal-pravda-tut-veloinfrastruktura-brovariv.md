@@ -1,6 +1,9 @@
 ---
 title: "Велоінфраструктура Броварів - сюжет телеканалу \"ПравдаТут\""
 date: 2015-05-25
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

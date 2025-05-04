@@ -1,6 +1,9 @@
 ---
 title: "Броварська міліція вичерпала власний «ліміт абсурду»"
 date: 2012-12-21
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 ---

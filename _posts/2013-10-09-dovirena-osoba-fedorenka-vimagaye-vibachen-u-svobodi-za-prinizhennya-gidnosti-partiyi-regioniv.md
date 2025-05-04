@@ -1,6 +1,9 @@
 ---
 title: "Довірена особа Федоренка вимагає вибачень у «Свободи» за «приниження гідності «Партії регіонів»"
 date: 2013-10-09
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "batyuk"
   - "vibir-redaktsiyi"

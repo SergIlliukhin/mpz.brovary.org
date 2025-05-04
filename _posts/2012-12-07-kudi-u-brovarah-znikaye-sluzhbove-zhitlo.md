@@ -1,6 +1,9 @@
 ---
 title: "Куди у Броварах зникає службове житло?"
 date: 2012-12-07
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 categories: 
   - "rozsliduvannya"
 tags: 

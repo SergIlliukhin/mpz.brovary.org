@@ -1,6 +1,9 @@
 ---
 title: "Три інструменти прямої демократії в Броварах від ДемАльянсу"
 date: 2016-10-26
+author: 
+  username: "berestovyj"
+  display_name: "Олег Берестовий"
 categories: 
   - "kolonka-avtora"
 ---

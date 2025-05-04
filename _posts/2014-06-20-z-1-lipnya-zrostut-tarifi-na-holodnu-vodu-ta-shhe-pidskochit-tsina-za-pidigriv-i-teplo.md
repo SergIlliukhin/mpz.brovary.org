@@ -1,6 +1,9 @@
 ---
 title: "З 1 липня зростуть тарифи на холодну воду та знову підскочить ціна за підігрів і тепло"
 date: 2014-06-20
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

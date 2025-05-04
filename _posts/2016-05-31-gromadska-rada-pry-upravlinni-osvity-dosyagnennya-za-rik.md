@@ -1,6 +1,9 @@
 ---
 title: "Громадська рада при управлінні освіти: досягнення за рік"
 date: 2016-05-31
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "interview"
   - "hromada"

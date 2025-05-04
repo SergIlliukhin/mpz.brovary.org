@@ -1,6 +1,9 @@
 ---
 title: "Зробимо місто чистим: у Броварах на вихідних проведуть ще два суботника"
 date: 2015-03-11
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

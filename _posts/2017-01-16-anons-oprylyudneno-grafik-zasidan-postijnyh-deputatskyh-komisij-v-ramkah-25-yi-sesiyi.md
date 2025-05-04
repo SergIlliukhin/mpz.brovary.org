@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: Оприлюднено графік засідань постійних депутатських комісій в рамках 25-ї сесії"
 date: 2017-01-16
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

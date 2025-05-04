@@ -1,6 +1,9 @@
 ---
 title: "Розпочалось громадське обговорення 4 нових проектів містобудівної документації"
 date: 2012-07-13
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"
   - "gromadskist"

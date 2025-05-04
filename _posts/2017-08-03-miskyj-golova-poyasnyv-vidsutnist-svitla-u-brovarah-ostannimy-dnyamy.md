@@ -1,6 +1,9 @@
 ---
 title: "Міський голова пояснив відсутність світла у Броварах останніми днями"
 date: 2017-08-03
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

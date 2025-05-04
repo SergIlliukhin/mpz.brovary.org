@@ -1,6 +1,9 @@
 ---
 title: "Депутат погрожує Сапожку та виконкому кримінальною відповідальністю за узурпацію влади"
 date: 2016-03-01
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

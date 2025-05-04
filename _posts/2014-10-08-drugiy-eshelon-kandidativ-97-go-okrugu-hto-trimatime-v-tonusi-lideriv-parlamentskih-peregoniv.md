@@ -1,6 +1,9 @@
 ---
 title: "Другий ешелон кандидатів 97-го округу: хто триматиме в тонусі лідерів парламентських перегонів?"
 date: 2014-10-08
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "rozsliduvannya"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Новий прокурор та очільник міліції розповіли громаді, з чого розпочнуть свою діяльність у Броварах - ФОТО, ВІДЕО"
 date: 2014-10-08
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 tags: 
   - "brovarska-mizhrayonna-prokuratura"
   - "brovarska-prokuratura"

@@ -1,6 +1,9 @@
 ---
 title: "На суботник в «Приозерному» броварчан запрошують на спеціальному сайті"
 date: 2014-04-03
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "vibir-redaktsiyi"
   - "novini"

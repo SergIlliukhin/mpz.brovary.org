@@ -1,6 +1,9 @@
 ---
 title: "4,8 млн. грн на доріжки в парку «Перемога» чи на боротьбу із підтопленням?"
 date: 2015-03-02
+author: 
+  username: "simutin"
+  display_name: "Роман Сімутін"
 categories: 
   - "kolonka-avtora"
 tags: 

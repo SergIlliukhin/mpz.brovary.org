@@ -1,6 +1,9 @@
 ---
 title: "Молодому поколінню потрібні герої"
 date: 2013-03-12
+author: 
+  username: "mobi"
+  display_name: "Марина Рубайло"
 categories: 
   - "kolonka-avtora"
 tags: 

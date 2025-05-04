@@ -1,6 +1,9 @@
 ---
 title: "Молодь запрошує броварчан на акцію-реквієм на честь Героїв Небесної Сотні"
 date: 2015-02-18
+author: 
+  username: "onikienko"
+  display_name: "Вікторія Оникієнко"
 categories: 
   - "announce"
 tags: 

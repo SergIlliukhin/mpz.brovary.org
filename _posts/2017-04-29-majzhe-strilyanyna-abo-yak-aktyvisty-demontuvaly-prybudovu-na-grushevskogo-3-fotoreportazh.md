@@ -1,6 +1,9 @@
 ---
 title: "Майже стрілянина, або Як активісти демонтували прибудову на Грушевського, 3 – ФОТОРЕПОРТАЖ"
 date: 2017-04-29
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

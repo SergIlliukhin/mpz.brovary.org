@@ -1,6 +1,9 @@
 ---
 title: "Через халатність броварських лікарів, які не помітили двох переломів, жінка три місяці терпіла біль"
 date: 2012-08-20
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 tags: 
   - "btsrl"
   - "vibir-redaktsiyi"

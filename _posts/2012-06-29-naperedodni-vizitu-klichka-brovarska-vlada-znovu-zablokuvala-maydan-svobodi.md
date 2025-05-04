@@ -1,6 +1,9 @@
 ---
 title: "Напередодні візиту Кличка броварська влада знову заблокувала Майдан Свободи. ФОТО, ВІДЕО"
 date: 2012-06-29
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "video"
 tags: 

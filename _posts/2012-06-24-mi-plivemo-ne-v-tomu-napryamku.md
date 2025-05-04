@@ -1,6 +1,9 @@
 ---
 title: "Ми пливемо не в тому напрямку"
 date: 2012-06-24
+author: 
+  username: "kravec"
+  display_name: "Юрій Кравець"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Броварська міськрада планує затвердити міський бюджет у понеділок"
 date: 2012-12-21
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 tags: 
   - "byudzhet"
   - "byudzhet-mista-2013"

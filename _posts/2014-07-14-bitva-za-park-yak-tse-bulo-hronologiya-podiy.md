@@ -1,6 +1,9 @@
 ---
 title: "Битва за броварський парк \"Перемога\": як це було (хронологія подій)"
 date: 2014-07-14
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"
   - "novini"

@@ -1,6 +1,9 @@
 ---
 title: "«Рошенівський» майданчик повертається на Торгмаш"
 date: 2016-09-09
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

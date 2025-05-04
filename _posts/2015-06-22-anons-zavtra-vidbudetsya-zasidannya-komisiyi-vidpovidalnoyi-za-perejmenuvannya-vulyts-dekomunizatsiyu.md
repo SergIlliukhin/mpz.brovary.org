@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: Завтра на комісії розглянуть пропозиції щодо перейменування вулиць у Броварах"
 date: 2015-06-22
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Чи законні номерні знаки будинків у Броварах, виконані російською мовою?"
 date: 2012-08-03
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 tags: 
   - "brovary"
   - "brovaryi"

@@ -1,6 +1,9 @@
 ---
 title: "Несподівані роботи по вул. Грушевського, 5: мешканці вигнали «Київобленерго» зі свого двору - ФОТО"
 date: 2017-07-01
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "hromada"
   - "novyny"

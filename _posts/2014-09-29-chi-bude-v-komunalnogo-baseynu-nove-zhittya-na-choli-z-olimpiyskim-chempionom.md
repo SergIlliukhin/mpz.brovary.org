@@ -1,6 +1,9 @@
 ---
 title: "Чи буде в комунального басейну нове життя на чолі зі світовим рекодсменом з плавання?"
 date: 2014-09-29
+author: 
+  username: "pecheritsia"
+  display_name: "Анастасія Печериця"
 categories: 
   - "interview"
 tags: 

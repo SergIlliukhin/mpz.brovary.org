@@ -1,6 +1,9 @@
 ---
 title: "Представлення потенційних заступників мера: технічні кандидати, гості з Києва та цькування ЗМІ. Частина 1"
 date: 2015-12-07
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "vlada"
   - "aktsiyi-zahodi"

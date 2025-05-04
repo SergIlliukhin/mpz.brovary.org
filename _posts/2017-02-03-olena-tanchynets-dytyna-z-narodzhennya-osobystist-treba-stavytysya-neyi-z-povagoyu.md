@@ -1,6 +1,9 @@
 ---
 title: "Олена Танчинець: “Дитина з народження — особистість і треба ставитися до неї з повагою”"
 date: 2017-02-03
+author: 
+  username: "jacyv"
+  display_name: "Світлана Яцив"
 categories: 
   - "interview"
   - "hromada"

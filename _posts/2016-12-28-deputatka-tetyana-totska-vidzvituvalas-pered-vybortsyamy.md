@@ -1,6 +1,9 @@
 ---
 title: "Депутатка Тетяна Тоцька відзвітувалась перед виборцями"
 date: 2016-12-28
+author: 
+  username: "ulitenko"
+  display_name: "Ірина Улітенко"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

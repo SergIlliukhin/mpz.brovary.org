@@ -1,6 +1,9 @@
 ---
 title: "В броварській міськраді знімати треба на диктофон, а фотографувати – на блендер?"
 date: 2013-09-06
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 ---

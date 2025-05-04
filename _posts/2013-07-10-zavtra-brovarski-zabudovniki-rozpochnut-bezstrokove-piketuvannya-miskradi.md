@@ -1,6 +1,9 @@
 ---
 title: "Завтра броварські забудовники розпочнуть безстрокове пікетування міськради"
 date: 2013-07-10
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

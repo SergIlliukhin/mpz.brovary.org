@@ -1,6 +1,9 @@
 ---
 title: "«Маєш право знати» ініціює створення об’єднаної спільноти броварських журналістів"
 date: 2012-06-06
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "brovarski-zmi"

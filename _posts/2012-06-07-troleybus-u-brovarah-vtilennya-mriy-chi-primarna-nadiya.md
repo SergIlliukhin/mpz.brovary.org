@@ -1,6 +1,9 @@
 ---
 title: "Тролейбус у Броварах - втілення мрій чи примарна надія?"
 date: 2012-06-07
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 categories: 
   - "rozsliduvannya"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Чому у Броварах батьки \"скидаються\" на миючі засоби та ремонт дитсадків?"
 date: 2013-03-19
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 categories: 
   - "rozsliduvannya"
 tags: 

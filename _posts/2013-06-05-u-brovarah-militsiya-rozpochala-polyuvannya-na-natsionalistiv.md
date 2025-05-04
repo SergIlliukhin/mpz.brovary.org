@@ -1,6 +1,9 @@
 ---
 title: "У Броварах міліція розпочала полювання на націоналістів"
 date: 2013-06-05
+author: 
+  username: "svoboda"
+  display_name: "Прес-служба ВО Свобода"
 categories: 
   - "kolonka-avtora"
 tags: 

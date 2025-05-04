@@ -1,6 +1,9 @@
 ---
 title: "29 та 30 серпня запрошуємо на благодійний футбольний турнір на стадіоні 7 школи"
 date: 2015-08-20
+author: 
+  username: "onum"
+  display_name: "ОНУМ"
 categories: 
   - "kolonka-avtora"
 tags: 

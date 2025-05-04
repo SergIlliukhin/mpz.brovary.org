@@ -1,6 +1,9 @@
 ---
 title: "Кандидат в броварський КОД Дмитро Ратніков – член фракції Партії регіонів. ДОКУМЕНТ. ВІДЕО."
 date: 2012-04-29
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

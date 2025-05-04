@@ -1,6 +1,9 @@
 ---
 title: "5 людей у реанімації: броварчан атакує геморагічна пневмонія?"
 date: 2016-01-07
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

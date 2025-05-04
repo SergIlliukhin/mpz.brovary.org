@@ -1,6 +1,9 @@
 ---
 title: "Пробіг на тлі спеки та шахова звитяга: броварські патріоти вшанували пам’ять Євгена Коновальця"
 date: 2015-06-18
+author: 
+  username: "komarovskyj"
+  display_name: "Комаровський Олексій"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

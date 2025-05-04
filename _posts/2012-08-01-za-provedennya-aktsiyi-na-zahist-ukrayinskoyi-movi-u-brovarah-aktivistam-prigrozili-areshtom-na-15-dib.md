@@ -1,6 +1,9 @@
 ---
 title: "За проведення акції на захист української мови у Броварах активістам пригрозили арештом на 15 діб"
 date: 2012-08-01
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 categories: 
   - "aktsiyi-zahodi"
 tags: 

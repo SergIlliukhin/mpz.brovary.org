@@ -1,6 +1,9 @@
 ---
 title: "У басейні «Купава» дівчаток змушують переодягатися при хлопчиках і дорослих чоловіках?"
 date: 2016-12-14
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

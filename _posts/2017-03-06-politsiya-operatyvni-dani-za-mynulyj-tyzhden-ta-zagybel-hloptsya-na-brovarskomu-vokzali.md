@@ -1,6 +1,9 @@
 ---
 title: "Поліція: оперативні дані за минулий тиждень та загибель хлопця на броварському вокзалі"
 date: 2017-03-06
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

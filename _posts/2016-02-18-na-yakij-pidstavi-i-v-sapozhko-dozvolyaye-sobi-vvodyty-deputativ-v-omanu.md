@@ -1,6 +1,9 @@
 ---
 title: "На якій підставі І.В. Сапожко дозволяє собі вводити депутатів в оману?"
 date: 2016-02-18
+author: 
+  username: "veremchuk"
+  display_name: "Ірина Веремчук"
 categories: 
   - "kolonka-avtora"
 ---

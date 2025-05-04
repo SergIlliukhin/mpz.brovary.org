@@ -1,6 +1,9 @@
 ---
 title: "150 мертвих рибин отруюють озеро на Пекарні, бо за їхній вилов ніхто не відповідає"
 date: 2013-04-30
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 tags: 
   - "vibir-redaktsiyi"
   - "voda"

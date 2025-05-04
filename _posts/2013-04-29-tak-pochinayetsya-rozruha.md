@@ -1,6 +1,9 @@
 ---
 title: "Так починається розруха"
 date: 2013-04-29
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 ---

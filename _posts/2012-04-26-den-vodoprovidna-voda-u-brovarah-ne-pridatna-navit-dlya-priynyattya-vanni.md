@@ -1,6 +1,9 @@
 ---
 title: "\"День\": Водопровідна вода у Броварах небезпечна навіть для прийому ванни"
 date: 2012-04-26
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "brovaryi"

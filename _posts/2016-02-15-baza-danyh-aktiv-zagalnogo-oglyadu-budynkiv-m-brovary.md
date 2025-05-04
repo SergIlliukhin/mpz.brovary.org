@@ -1,6 +1,9 @@
 ---
 title: "База даних актів загального огляду будинків м.Бровари"
 date: 2016-02-15
+author: 
+  username: "cherednik"
+  display_name: "Юрій Чередник"
 categories: 
   - "kolonka-avtora"
 ---

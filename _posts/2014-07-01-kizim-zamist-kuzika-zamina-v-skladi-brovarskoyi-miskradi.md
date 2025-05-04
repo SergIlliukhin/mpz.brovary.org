@@ -1,6 +1,9 @@
 ---
 title: "Кизим замість Кузика: заміна в депутатському корпусі броварської міськради"
 date: 2014-07-01
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "bmr"
   - "brusenska"

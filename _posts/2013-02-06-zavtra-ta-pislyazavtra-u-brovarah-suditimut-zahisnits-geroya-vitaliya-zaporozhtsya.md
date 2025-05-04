@@ -1,6 +1,9 @@
 ---
 title: "Завтра та післязавтра у Броварах судитимуть захисниць героя Віталія Запорожця"
 date: 2013-02-06
+author: 
+  username: "kohanivsky"
+  display_name: "Микола Коханівський"
 categories: 
   - "announce"
   - "kolonka-avtora"

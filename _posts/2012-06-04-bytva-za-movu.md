@@ -1,6 +1,9 @@
 ---
 title: "Битва за мову"
 date: 2012-06-04
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

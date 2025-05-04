@@ -1,6 +1,9 @@
 ---
 title: "Сортувати сміття  має стати  модним!"
 date: 2016-04-07
+author: 
+  username: "vtorma"
+  display_name: "Бровари Вторма"
 categories: 
   - "kolonka-avtora"
 ---

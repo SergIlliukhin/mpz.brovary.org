@@ -1,6 +1,9 @@
 ---
 title: "У відповідь на автопробіг «Дайте дорогу!» влада пообіцяла відремонтувати 33 вулиці"
 date: 2013-05-22
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "vibir-redaktsiyi"
   - "vo-svoboda"

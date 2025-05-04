@@ -1,6 +1,9 @@
 ---
 title: "9 травня у Броварах обмежаться вшануванням пам'яті загиблих"
 date: 2014-05-08
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

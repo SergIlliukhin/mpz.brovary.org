@@ -1,6 +1,9 @@
 ---
 title: "Роботу ОВК заблоковано: керівництво комісії не приймає протоколи з дільниць за вимогою Семеняки - ВІДЕО"
 date: 2014-10-27
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

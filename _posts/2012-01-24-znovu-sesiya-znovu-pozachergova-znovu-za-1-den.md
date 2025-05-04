@@ -1,6 +1,9 @@
 ---
 title: "Знову сесія, знову позачергова, знову за 1 день"
 date: 2012-01-24
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "miska-rada"
   - "novini"

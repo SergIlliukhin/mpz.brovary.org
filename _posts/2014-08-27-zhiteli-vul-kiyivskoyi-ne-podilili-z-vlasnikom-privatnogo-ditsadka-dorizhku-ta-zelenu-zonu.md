@@ -1,6 +1,9 @@
 ---
 title: "Жителі вул. Київської не поділили з власником \"приватного дитсадка\" доріжку та зелену зону"
 date: 2014-08-27
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 tags: 
   - "ivanenko"
   - "brovary"

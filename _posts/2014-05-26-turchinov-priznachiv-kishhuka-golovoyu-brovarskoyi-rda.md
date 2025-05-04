@@ -1,6 +1,9 @@
 ---
 title: "За два дні до виборів Турчинов призначив Кищука головою Броварської РДА"
 date: 2014-05-26
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "bondaryev"
   - "vibir-redaktsiyi"

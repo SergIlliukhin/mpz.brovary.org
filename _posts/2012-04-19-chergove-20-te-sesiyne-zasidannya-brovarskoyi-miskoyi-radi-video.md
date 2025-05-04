@@ -1,6 +1,9 @@
 ---
 title: "20-те сесійне засідання Броварської міської ради - ВІДЕО"
 date: 2012-04-19
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Броварські учні зібрали більше 50 кг відпрацьованих батарейок"
 date: 2016-02-23
+author: 
+  username: "vtorma"
+  display_name: "Бровари Вторма"
 categories: 
   - "kolonka-avtora"
 ---

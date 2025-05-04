@@ -1,6 +1,9 @@
 ---
 title: "Броварська прокуратура збирає свідчення про чиновників, які зганяли людей на антимайдан"
 date: 2015-02-15
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "antimaydan"
   - "brovary"

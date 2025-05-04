@@ -1,6 +1,9 @@
 ---
 title: "У Броварах викрили два притони грального бізнесу"
 date: 2014-05-21
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "gralniy-biznes"

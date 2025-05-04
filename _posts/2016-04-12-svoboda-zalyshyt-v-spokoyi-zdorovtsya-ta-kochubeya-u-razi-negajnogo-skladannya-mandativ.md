@@ -1,6 +1,9 @@
 ---
 title: "«Свобода» залишить в спокої Здоровця та Кочубея у разі негайного складання мандатів"
 date: 2016-04-12
+author: 
+  username: "svoboda"
+  display_name: "Прес-служба ВО Свобода"
 categories: 
   - "kolonka-avtora"
 tags: 

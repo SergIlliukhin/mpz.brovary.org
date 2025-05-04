@@ -1,6 +1,9 @@
 ---
 title: "Броварська \"Самопоміч\": \"Ця міськрада краща за попередню, але кардинальних змін не відбулося\" - ФОТО"
 date: 2016-12-21
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

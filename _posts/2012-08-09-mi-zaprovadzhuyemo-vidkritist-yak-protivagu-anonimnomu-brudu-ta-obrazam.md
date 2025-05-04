@@ -1,6 +1,9 @@
 ---
 title: "Ми запроваджуємо відкритість як противагу анонімному бруду та образам"
 date: 2012-08-09
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 categories: 
   - "kolonka-avtora"
 tags: 

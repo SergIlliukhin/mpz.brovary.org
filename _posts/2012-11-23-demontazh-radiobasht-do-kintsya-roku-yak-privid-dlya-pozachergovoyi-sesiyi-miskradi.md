@@ -1,6 +1,9 @@
 ---
 title: "Демонтаж радіобашт до кінця року як привід для позачергової сесії міськради"
 date: 2012-11-23
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

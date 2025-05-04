@@ -1,6 +1,9 @@
 ---
 title: "Чому Яценюк позбавляється броварських опозиціонерів, залишаючи у власних лавах «тушки» для ПР? ВІДЕО"
 date: 2012-07-20
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

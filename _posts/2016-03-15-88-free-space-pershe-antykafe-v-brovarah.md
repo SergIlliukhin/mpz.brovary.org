@@ -1,6 +1,9 @@
 ---
 title: "\"88 Free Space\" - перше антикафе в Броварах"
 date: 2016-03-15
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "brovary"
   - "novyny"

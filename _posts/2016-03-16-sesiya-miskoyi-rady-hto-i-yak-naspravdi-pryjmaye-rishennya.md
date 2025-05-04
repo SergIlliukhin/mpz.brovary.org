@@ -1,6 +1,9 @@
 ---
 title: "Сесія міської ради: хто і як насправді приймає рішення"
 date: 2016-03-16
+author: 
+  username: "cherednik"
+  display_name: "Юрій Чередник"
 categories: 
   - "kolonka-avtora"
 ---

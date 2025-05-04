@@ -1,6 +1,9 @@
 ---
 title: "Кандидат в Президенти Олег Тягнибок приїжджає в Бровари"
 date: 2014-04-03
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

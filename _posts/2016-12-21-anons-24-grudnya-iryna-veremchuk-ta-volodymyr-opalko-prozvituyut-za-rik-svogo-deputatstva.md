@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 24 грудня Ірина Веремчук та Володимир Опалько прозвітують за рік свого депутатства"
 date: 2016-12-21
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

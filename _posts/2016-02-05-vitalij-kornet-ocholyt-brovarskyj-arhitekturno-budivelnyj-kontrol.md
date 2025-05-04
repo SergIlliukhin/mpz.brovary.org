@@ -1,6 +1,9 @@
 ---
 title: "Віталій Корнет очолить броварський архітектурно-будівельний контроль?"
 date: 2016-02-05
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "vlada"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Українське місто: Бровари фарбують в жовто-блакитні кольори"
 date: 2014-07-03
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "blagoustriy"
   - "vibir-redaktsiyi"

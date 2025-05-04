@@ -1,6 +1,9 @@
 ---
 title: "Конкурс на посаду начальника відділу культури Броварів: стали відомі імена претендентів. ОНОВЛЕНО"
 date: 2016-12-19
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

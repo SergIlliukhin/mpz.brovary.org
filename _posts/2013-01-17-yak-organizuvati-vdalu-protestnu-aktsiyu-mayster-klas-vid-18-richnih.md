@@ -1,6 +1,9 @@
 ---
 title: "Як організувати вдалу протестну акцію: майстер-клас від 18-річних"
 date: 2013-01-17
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

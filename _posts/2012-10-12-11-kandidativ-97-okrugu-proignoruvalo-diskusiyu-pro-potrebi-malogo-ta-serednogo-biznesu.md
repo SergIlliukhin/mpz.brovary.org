@@ -1,6 +1,9 @@
 ---
 title: "11 кандидатів 97 округу проігнорувало дискусію про потреби малого та середнього бізнесу"
 date: 2012-10-12
+author: 
+  username: "nemchina"
+  display_name: "Тетяна Немчина"
 categories: 
   - "kolonka-avtora"
 tags: 

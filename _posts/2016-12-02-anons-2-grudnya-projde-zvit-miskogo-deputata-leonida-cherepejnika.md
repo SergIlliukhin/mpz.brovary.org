@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 2 грудня пройде звіт міського депутата Леоніда Черепейніка"
 date: 2016-12-02
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

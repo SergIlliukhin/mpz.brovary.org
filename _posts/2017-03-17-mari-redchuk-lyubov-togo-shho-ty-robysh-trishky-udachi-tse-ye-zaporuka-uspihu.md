@@ -1,6 +1,9 @@
 ---
 title: "Марі Редчук: “Любов до того, що ти робиш, і трішки удачі — це і є запорука успіху”"
 date: 2017-03-17
+author: 
+  username: "jacyv"
+  display_name: "Світлана Яцив"
 categories: 
   - "interview"
   - "hromada"

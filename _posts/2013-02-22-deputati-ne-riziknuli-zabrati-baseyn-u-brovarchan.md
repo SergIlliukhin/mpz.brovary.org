@@ -1,6 +1,9 @@
 ---
 title: "Депутати не ризикнули забрати басейн у броварських школярів"
 date: 2013-02-22
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "aktsiyi-zahodi"
 tags: 

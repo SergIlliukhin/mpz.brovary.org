@@ -1,6 +1,9 @@
 ---
 title: "Аматорський біговий клуб у Броварах: недільні пробіжки та марафони - ФОТО"
 date: 2016-09-12
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "interview"
   - "hromada"

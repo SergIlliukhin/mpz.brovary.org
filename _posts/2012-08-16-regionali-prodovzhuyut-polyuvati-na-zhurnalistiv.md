@@ -1,6 +1,9 @@
 ---
 title: "«Регіонали» продовжують полювати на журналістів"
 date: 2012-08-16
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

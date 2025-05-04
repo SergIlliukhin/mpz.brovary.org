@@ -1,6 +1,9 @@
 ---
 title: "Бровари завалені снігом: на вулицях працює лише 5 одиниць спецтехніки. ФОТОРЕПОРТАЖ"
 date: 2016-01-09
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

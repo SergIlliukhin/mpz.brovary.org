@@ -1,6 +1,9 @@
 ---
 title: "Чому подешевшало харчування для броварських дітлахів?"
 date: 2013-03-01
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 categories: 
   - "rozsliduvannya"
 tags: 

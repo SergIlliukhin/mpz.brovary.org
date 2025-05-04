@@ -1,6 +1,9 @@
 ---
 title: "\"Пласт\" у Броварах зможе виховувати скаутів - ФОТО, ВІДЕО"
 date: 2015-10-08
+author: 
+  username: "onikienko"
+  display_name: "Вікторія Оникієнко"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

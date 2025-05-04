@@ -1,6 +1,9 @@
 ---
 title: "Частину парку «Перемога» обгородили парканом. Під забудову Федоренком?"
 date: 2013-05-22
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "vibir-redaktsiyi"
   - "zberezhemo-peremogu"

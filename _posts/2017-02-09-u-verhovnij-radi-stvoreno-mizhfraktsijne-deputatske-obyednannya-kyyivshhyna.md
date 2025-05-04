@@ -1,6 +1,9 @@
 ---
 title: "У Верховній Раді створено міжфракційне депутатське об'єднання “Київщина”"
 date: 2017-02-09
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

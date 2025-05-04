@@ -1,6 +1,9 @@
 ---
 title: "Беркут чи «Беркут»?"
 date: 2014-01-12
+author: 
+  username: "simutin"
+  display_name: "Роман Сімутін"
 categories: 
   - "kolonka-avtora"
 tags: 

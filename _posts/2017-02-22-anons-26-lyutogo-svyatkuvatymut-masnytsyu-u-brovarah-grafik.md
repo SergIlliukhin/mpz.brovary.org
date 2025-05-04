@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 26 лютого святкуватимуть Масницю у Броварах – ГРАФІК"
 date: 2017-02-22
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: В січні в ТРЦ \"Термінал\" пройде дитяче свято \"Діамант дарує казку\""
 date: 2016-12-08
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

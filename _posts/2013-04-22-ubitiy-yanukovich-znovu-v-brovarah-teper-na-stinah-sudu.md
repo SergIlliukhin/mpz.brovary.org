@@ -1,6 +1,9 @@
 ---
 title: "«Убитий Янукович» знову в Броварах: тепер на стінах суду"
 date: 2013-04-22
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "vibir-redaktsiyi"
   - "garnyk"

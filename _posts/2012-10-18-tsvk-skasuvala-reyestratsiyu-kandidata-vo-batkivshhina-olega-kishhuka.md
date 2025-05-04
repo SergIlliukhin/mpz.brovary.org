@@ -1,6 +1,9 @@
 ---
 title: "ЦВК скасувала реєстрацію кандидата Олега Кищука, відкликаного \"Батьківщиною\""
 date: 2012-10-18
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "batkivshhina"
   - "brovary"

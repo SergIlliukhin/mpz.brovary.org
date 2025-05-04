@@ -1,6 +1,9 @@
 ---
 title: "Фото- та відеознімання у броварських супермаркетах: хто забороняє та на що посилаються"
 date: 2014-12-15
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "rozsliduvannya"
   - "video"

@@ -1,6 +1,9 @@
 ---
 title: "Корупційна складова присутня навіть у підвалах"
 date: 2015-06-22
+author: 
+  username: "cherednik"
+  display_name: "Юрій Чередник"
 categories: 
   - "kolonka-avtora"
 tags: 

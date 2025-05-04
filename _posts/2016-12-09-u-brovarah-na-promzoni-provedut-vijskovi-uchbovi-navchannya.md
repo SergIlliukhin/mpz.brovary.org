@@ -1,6 +1,9 @@
 ---
 title: "У Броварах на Промзоні проведуть військові навчання"
 date: 2016-12-09
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Очна ставка кандидатів: завтра відбудеться відкрита дискусія претендентів на посаду директора «Купави»"
 date: 2014-04-14
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

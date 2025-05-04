@@ -1,6 +1,9 @@
 ---
 title: "Під Броварами поліція викрила нарколабораторію"
 date: 2016-07-18
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

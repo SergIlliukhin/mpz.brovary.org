@@ -1,6 +1,9 @@
 ---
 title: "Скільки коштуватиме броварцям декомунізація назв вулиць у нашому місті?"
 date: 2015-04-17
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "brovary"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Затримали «гастролера», який здійснив близько 20 грабежів у Броварах – МВС"
 date: 2016-07-21
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

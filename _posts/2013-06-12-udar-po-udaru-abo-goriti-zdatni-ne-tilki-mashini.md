@@ -1,6 +1,9 @@
 ---
 title: "Удар по УДАРу, або Горіти здатні не тільки машини"
 date: 2013-06-12
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

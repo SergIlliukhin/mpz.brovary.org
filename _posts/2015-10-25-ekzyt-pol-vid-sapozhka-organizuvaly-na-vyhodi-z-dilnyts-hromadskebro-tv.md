@@ -1,6 +1,9 @@
 ---
 title: "\"Екзит-пол від Сапожка\" організували на виході з дільниць – HromadskeBro.tv"
 date: 2015-10-25
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

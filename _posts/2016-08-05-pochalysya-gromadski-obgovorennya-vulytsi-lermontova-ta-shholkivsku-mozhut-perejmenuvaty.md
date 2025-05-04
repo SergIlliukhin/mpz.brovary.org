@@ -1,6 +1,9 @@
 ---
 title: "Почалися громадські обговорення: вулиці Лермонтова та Щолківську можуть перейменувати"
 date: 2016-08-05
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "hromada"
   - "novyny"

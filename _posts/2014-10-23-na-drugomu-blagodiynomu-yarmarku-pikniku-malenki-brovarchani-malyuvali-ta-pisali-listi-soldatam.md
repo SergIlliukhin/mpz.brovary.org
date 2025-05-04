@@ -1,6 +1,9 @@
 ---
 title: "На другому благодійному ярмарку-пікніку маленькі броварчани малювали та писали листи солдатам"
 date: 2014-10-23
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 tags: 
   - "ato"
   - "blagodiyniy-yarmarok"

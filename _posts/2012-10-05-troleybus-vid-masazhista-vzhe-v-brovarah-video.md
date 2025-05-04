@@ -1,6 +1,9 @@
 ---
 title: "Тролейбус від Масажиста вже в Броварах! – ВІДЕО"
 date: 2012-10-05
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
   - "video"

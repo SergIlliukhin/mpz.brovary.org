@@ -1,6 +1,9 @@
 ---
 title: "Вздовж вулиці Київської буде знищено 230 дерев"
 date: 2012-10-16
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

@@ -1,6 +1,9 @@
 ---
 title: "Экстренные новости!!!"
 date: 2012-10-23
+author: 
+  username: "plakhovalex"
+  display_name: "Олександр Плахов"
 categories: 
   - "kolonka-avtora"
 tags: 

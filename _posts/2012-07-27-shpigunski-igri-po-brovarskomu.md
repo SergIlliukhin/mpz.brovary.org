@@ -1,6 +1,9 @@
 ---
 title: "Шпигунські ігри по-броварському"
 date: 2012-07-27
+author: 
+  username: "pavriz"
+  display_name: "Павло Різаненко"
 categories: 
   - "kolonka-avtora"
 tags: 

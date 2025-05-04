@@ -1,6 +1,9 @@
 ---
 title: "Велоінфраструктурі Броварів бути: місцеві активісти взялись за розробку схеми веломаршрутів"
 date: 2015-05-19
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "hromada"
 tags: 

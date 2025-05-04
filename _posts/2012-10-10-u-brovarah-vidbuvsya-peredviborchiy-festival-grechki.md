@@ -1,6 +1,9 @@
 ---
 title: "На іронічний \"Фестиваль гречки\" у Броварах люди дійсно прийшли за пайками"
 date: 2012-10-10
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "aktsiyi-zahodi"
 tags: 

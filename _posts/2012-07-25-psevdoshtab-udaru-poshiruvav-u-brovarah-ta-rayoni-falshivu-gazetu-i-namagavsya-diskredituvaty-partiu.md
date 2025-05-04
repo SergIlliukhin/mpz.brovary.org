@@ -1,6 +1,9 @@
 ---
 title: "Псевдоштаб «УДАРу» поширював у Броварах та районі фальшиву газету й намагався дискредитувати партію"
 date: 2012-07-25
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 tags: 
   - "vibir-redaktsiyi"
   - "novini"

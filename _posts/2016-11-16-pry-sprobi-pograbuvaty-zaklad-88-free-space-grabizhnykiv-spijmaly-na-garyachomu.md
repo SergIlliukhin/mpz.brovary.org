@@ -1,6 +1,9 @@
 ---
 title: "При спробі пограбувати “88 Free Space” грабіжників спіймали \"на гарячому\""
 date: 2016-11-16
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

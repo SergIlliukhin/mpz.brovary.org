@@ -1,6 +1,9 @@
 ---
 title: "Штабісти Федоренка «контратакують»! :) ФОТО, ВІДЕО"
 date: 2012-07-31
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

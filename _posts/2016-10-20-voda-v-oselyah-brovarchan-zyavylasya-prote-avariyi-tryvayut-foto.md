@@ -1,6 +1,9 @@
 ---
 title: "Вода в оселях броварчан з'явилася, проте аварії тривають - ФОТО - ОНОВЛЮЄТЬСЯ"
 date: 2016-10-20
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Як начальник обласної міліції Троян шукав діалогу з громадою Броварщини"
 date: 2015-05-25
+author: 
+  username: "komarovskyj"
+  display_name: "Комаровський Олексій"
 tags: 
   - "brovary"
   - "vadim-troyan"

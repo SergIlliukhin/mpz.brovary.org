@@ -1,6 +1,9 @@
 ---
 title: "Адреси броварських дільниць: де голосувати, якщо вам не прийшло запрошення на вибори"
 date: 2015-10-23
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Озброєні злочинці пограбували підприємство депутата Черепейника"
 date: 2016-03-28
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

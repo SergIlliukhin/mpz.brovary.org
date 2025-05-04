@@ -1,6 +1,9 @@
 ---
 title: "Промінь світла в пітьмі броварських газет"
 date: 2012-11-14
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

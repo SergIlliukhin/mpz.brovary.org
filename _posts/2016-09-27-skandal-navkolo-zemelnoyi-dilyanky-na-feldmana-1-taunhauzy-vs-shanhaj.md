@@ -1,6 +1,9 @@
 ---
 title: "Скандал навколо земельної ділянки на Фельдмана, 1: таунхаузи vs «шанхай»"
 date: 2016-09-27
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "rozsliduvannya"
   - "brovary"

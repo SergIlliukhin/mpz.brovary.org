@@ -1,6 +1,9 @@
 ---
 title: "Як \"Маєш право знати\" у футбол грало"
 date: 2014-08-20
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

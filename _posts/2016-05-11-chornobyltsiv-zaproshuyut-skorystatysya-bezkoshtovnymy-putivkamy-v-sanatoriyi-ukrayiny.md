@@ -1,6 +1,9 @@
 ---
 title: "Чорнобильців запрошують скористатися безкоштовними путівками в санаторії України"
 date: 2016-05-11
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

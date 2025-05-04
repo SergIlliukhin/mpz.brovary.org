@@ -1,6 +1,9 @@
 ---
 title: "Вітаємо з Днем міста!"
 date: 2013-09-14
+author: 
+  username: "udar"
+  display_name: "УДАР"
 categories: 
   - "kolonka-avtora"
 tags: 

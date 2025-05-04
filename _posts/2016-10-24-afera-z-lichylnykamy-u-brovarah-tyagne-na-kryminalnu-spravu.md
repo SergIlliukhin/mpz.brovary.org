@@ -1,6 +1,9 @@
 ---
 title: "Афера з лічильниками у Броварах тягне на кримінальну справу"
 date: 2016-10-24
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "rozsliduvannya"
   - "vlada"

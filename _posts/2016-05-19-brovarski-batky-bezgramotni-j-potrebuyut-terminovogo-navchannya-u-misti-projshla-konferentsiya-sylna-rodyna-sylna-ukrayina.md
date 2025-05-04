@@ -1,6 +1,9 @@
 ---
 title: "Як зробити родини сильними: у Броварах пройшла наукова конференція"
 date: 2016-05-19
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

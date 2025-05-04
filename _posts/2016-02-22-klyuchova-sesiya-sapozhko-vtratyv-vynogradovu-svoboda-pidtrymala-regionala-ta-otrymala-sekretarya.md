@@ -1,6 +1,9 @@
 ---
 title: "Ключова сесія: Сапожко втратив Виноградову, \"Свобода\" підтримала регіонала та отримала секретаря"
 date: 2016-02-22
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "vlada"
   - "aktsiyi-zahodi"

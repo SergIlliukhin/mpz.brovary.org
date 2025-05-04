@@ -1,6 +1,9 @@
 ---
 title: "Кругообіг грошей в природі, або «Чорна дірка» міського бюджету"
 date: 2017-03-16
+author: 
+  username: "sauk"
+  display_name: "Андрій Саук"
 categories: 
   - "kolonka-avtora"
 ---

@@ -1,6 +1,9 @@
 ---
 title: "«Криниця» глибиною 60 років: броварські митці відзначили поважний ювілей"
 date: 2015-06-05
+author: 
+  username: "onikienko"
+  display_name: "Вікторія Оникієнко"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

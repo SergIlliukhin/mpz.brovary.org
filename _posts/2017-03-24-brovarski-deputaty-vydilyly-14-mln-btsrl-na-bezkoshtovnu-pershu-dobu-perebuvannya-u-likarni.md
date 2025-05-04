@@ -1,6 +1,9 @@
 ---
 title: "Броварські депутати виділили 14 млн БЦРЛ: на безкоштовну першу добу перебування у лікарні"
 date: 2017-03-24
+author: 
+  username: "tkachuk"
+  display_name: "Вікторія Ткачук"
 categories: 
   - "vlada"
   - "aktsiyi-zahodi"

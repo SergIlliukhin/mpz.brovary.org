@@ -1,6 +1,9 @@
 ---
 title: "Книги для воїнів - захисників України"
 date: 2015-03-31
+author: 
+  username: "samopomich"
+  display_name: "Самопоміч"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Броварчани виходять на перший в Україні онлайн-протест!"
 date: 2012-05-02
+author: 
+  username: "kravec"
+  display_name: "Юрій Кравець"
 categories: 
   - "kolonka-avtora"
 tags: 

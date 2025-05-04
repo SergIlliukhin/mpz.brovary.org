@@ -1,6 +1,9 @@
 ---
 title: "Багнюк: Лікарня не зобов'язана надавати додаткові приміщення для лікування бійців АТО"
 date: 2016-01-26
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

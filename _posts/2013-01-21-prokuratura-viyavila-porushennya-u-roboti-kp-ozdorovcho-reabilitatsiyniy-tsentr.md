@@ -1,6 +1,9 @@
 ---
 title: "Прокуратура виявила порушення у роботі КП \"Оздоровчо-реабілітаційний центр\""
 date: 2013-01-21
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "baseyn"
   - "vibir-redaktsiyi"

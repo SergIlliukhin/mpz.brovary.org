@@ -1,6 +1,9 @@
 ---
 title: "Про що 4 роки мовчав броварський перевізник сміття «Комунтранс-Бровари»?"
 date: 2017-09-01
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "rozsliduvannya"
   - "vlada"

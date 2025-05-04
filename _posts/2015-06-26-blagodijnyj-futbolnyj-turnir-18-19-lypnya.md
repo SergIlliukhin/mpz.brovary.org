@@ -1,6 +1,9 @@
 ---
 title: "Благодійний футбольний турнір 18-19 липня"
 date: 2015-06-26
+author: 
+  username: "onum"
+  display_name: "ОНУМ"
 categories: 
   - "kolonka-avtora"
 tags: 

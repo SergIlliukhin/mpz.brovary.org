@@ -1,6 +1,9 @@
 ---
 title: "Бровари у рік Кози. Частина третя: Літо"
 date: 2015-12-28
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "rozsliduvannya"
   - "brovary"

@@ -1,6 +1,9 @@
 ---
 title: "Броварські підприємці готові блокувати податкову, якщо вона не припинить тиск на бізнес"
 date: 2014-07-17
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "brovarska-odpi"

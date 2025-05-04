@@ -1,6 +1,9 @@
 ---
 title: "50 сесія Броварської міської ради. Що планується?"
 date: 2014-12-23
+author: 
+  username: "simutin"
+  display_name: "Роман Сімутін"
 categories: 
   - "kolonka-avtora"
 tags: 

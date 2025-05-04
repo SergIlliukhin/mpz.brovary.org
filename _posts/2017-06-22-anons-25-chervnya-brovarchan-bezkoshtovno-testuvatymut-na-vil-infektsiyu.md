@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 25 червня броварчан безкоштовно тестуватимуть на ВІЛ-інфекцію"
 date: 2017-06-22
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

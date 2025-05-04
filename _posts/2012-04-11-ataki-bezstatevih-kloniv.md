@@ -1,6 +1,9 @@
 ---
 title: "\"Атаки\" безстатевих клонів"
 date: 2012-04-11
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

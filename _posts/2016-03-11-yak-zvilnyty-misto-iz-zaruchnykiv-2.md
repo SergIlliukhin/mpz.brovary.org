@@ -1,6 +1,9 @@
 ---
 title: "Як звільнити місто із заручників?"
 date: 2016-03-11
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Міжнародні спостерігачі розкритикували стан приміщення броварської ОВК"
 date: 2012-10-27
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

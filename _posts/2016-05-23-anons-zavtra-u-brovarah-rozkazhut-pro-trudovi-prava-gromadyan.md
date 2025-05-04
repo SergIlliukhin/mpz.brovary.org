@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: Завтра у Броварах розкажуть про трудові права громадян"
 date: 2016-05-23
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

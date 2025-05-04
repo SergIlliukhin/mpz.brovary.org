@@ -1,6 +1,9 @@
 ---
 title: "Рік «радіо»  або «Землі, гроші, два суди».  Броварська трагікомедія на дві дії"
 date: 2014-12-25
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "rozsliduvannya"
 tags: 

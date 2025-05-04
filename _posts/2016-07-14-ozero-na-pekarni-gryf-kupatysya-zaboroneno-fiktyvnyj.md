@@ -1,6 +1,9 @@
 ---
 title: "Озеро на Пекарні: гриф «Купатися заборонено» фіктивний?"
 date: 2016-07-14
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "rozsliduvannya"
   - "brovary"

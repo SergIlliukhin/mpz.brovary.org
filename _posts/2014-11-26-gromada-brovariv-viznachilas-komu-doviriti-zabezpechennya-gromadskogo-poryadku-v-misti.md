@@ -1,6 +1,9 @@
 ---
 title: "Громада Броварів визначилась, кому довірити забезпечення громадського порядку в місті"
 date: 2014-11-26
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 tags: 
   - "vibir-redaktsiyi"
   - "gromadske-obgovorennya"

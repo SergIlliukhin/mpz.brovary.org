@@ -1,6 +1,9 @@
 ---
 title: "Позачергова сесія: депутати дадуть добро на ремонт каналізації без Prozorro?"
 date: 2016-11-10
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

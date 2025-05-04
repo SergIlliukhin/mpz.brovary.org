@@ -1,6 +1,9 @@
 ---
 title: "Броварська лікарня хоче півмільйона гривень на 31 комп’ютер по 16 тисяч за штуку"
 date: 2016-02-04
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

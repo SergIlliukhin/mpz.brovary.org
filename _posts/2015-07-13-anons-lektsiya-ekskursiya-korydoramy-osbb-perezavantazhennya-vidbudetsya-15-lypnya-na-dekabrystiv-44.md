@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: У \"коридорах\" броварського ОСББ на Декабристів, 44 розкажуть, як ефективно управляти будинком"
 date: 2015-07-13
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

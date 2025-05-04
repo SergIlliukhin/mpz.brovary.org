@@ -1,6 +1,9 @@
 ---
 title: "Обіцяного три роки чекають..."
 date: 2017-10-08
+author: 
+  username: "nikitchina"
+  display_name: "Ірина Нікітчина"
 categories: 
   - "kolonka-avtora"
 ---

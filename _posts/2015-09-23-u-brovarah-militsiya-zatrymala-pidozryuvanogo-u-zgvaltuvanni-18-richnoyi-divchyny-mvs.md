@@ -1,6 +1,9 @@
 ---
 title: "У Броварах міліція затримала підозрюваного у зґвалтуванні 18-річної дівчини - МВС"
 date: 2015-09-23
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "У парку «Перемога» демонтують незаконне кафе біля ринку"
 date: 2013-09-13
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

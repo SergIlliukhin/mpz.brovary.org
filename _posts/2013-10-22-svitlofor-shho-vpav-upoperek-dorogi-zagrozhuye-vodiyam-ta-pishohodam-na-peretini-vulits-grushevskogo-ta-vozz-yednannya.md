@@ -1,6 +1,9 @@
 ---
 title: "На перетині вулиць Грушевського та Возз’єднання на дорогу впав світлофор"
 date: 2013-10-22
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "avariya"
   - "brovary"

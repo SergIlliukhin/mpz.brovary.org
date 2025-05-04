@@ -1,6 +1,9 @@
 ---
 title: "У день виборів цілодобово транслюватимуть засідання ОВК та працюватимуть мобільні відео-групи"
 date: 2014-10-09
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

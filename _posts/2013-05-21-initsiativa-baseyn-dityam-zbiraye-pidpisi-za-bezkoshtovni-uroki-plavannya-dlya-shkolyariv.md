@@ -1,6 +1,9 @@
 ---
 title: "Ініціатива «Басейн – дітям!» збирає підписи за безкоштовні уроки плавання для школярів"
 date: 2013-05-21
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "baseyn"
   - "baseyn-dityam"

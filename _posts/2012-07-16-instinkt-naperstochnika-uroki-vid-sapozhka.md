@@ -1,6 +1,9 @@
 ---
 title: "Інстинкт наперсточника: уроки від Сапожка"
 date: 2012-07-16
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

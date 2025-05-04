@@ -1,6 +1,9 @@
 ---
 title: "Вічна слава! Броварчани провели в останню путь трьох Героїв"
 date: 2015-03-02
+author: 
+  username: "onikienko"
+  display_name: "Вікторія Оникієнко"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

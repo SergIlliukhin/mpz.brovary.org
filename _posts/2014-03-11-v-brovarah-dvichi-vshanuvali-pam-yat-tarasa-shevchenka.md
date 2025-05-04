@@ -1,6 +1,9 @@
 ---
 title: "В Броварах двічі вшанували пам'ять Тараса Шевченка"
 date: 2014-03-11
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "200-richchya"
   - "andryeyev"

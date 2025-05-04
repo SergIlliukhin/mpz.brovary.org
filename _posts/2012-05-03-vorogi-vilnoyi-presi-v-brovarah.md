@@ -1,6 +1,9 @@
 ---
 title: "Вороги вільної преси в Броварах"
 date: 2012-05-03
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

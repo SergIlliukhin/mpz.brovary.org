@@ -1,6 +1,9 @@
 ---
 title: "Заява щодо демократичної більшості"
 date: 2015-12-22
+author: 
+  username: "demalliance"
+  display_name: "ДемАльянс Бровари"
 categories: 
   - "kolonka-avtora"
 ---

@@ -1,6 +1,9 @@
 ---
 title: "Не пройшло і тижня: у кафе-барі \"Монте-Карло\" знову вилучили гральну техніку"
 date: 2015-07-24
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

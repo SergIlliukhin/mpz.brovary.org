@@ -1,6 +1,9 @@
 ---
 title: "У четвер презентуватимуть системи електронного голосування для Броварської міськради"
 date: 2016-04-26
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

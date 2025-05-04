@@ -1,6 +1,9 @@
 ---
 title: "Телеканал \"Інтер\" показав серію сюжетів про земельні оборудки у Броварах"
 date: 2012-07-07
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

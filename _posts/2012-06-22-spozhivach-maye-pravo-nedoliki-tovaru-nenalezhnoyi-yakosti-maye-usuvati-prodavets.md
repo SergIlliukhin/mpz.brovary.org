@@ -1,6 +1,9 @@
 ---
 title: "«Споживач має право»: Недоліки товару неналежної якості має усувати продавець"
 date: 2012-06-22
+author: 
+  username: "serzhov"
+  display_name: "Сергій Севрук"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "У \"зоні брехні\" чергова фальшивка - псевдоплакати Різаненка"
 date: 2012-07-03
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "11-й батальйон «Київська Русь» запрошує на ІІІ річницю свого заснування"
 date: 2017-05-04
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "hromada"
   - "novyny"

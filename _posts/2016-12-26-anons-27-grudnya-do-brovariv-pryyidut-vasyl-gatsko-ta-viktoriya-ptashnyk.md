@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 27 грудня до Броварів приїдуть Василь Гацько та Вікторія Пташник"
 date: 2016-12-26
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

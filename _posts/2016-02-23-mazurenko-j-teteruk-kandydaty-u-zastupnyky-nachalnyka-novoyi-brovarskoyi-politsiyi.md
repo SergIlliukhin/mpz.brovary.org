@@ -1,6 +1,9 @@
 ---
 title: "Мазуренко й Тетерук - кандидати у заступники начальника нової броварської поліції"
 date: 2016-02-23
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "vlada"
   - "novyny"

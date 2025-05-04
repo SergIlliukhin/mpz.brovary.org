@@ -1,6 +1,9 @@
 ---
 title: "Така громадська рада владі не потрібна"
 date: 2012-02-10
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"
 tags: 

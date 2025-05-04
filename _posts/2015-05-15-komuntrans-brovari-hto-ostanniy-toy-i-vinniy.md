@@ -1,6 +1,9 @@
 ---
 title: "\"Комунтранс-Бровари\" - Хто останній, той і винний"
 date: 2015-05-15
+author: 
+  username: "simutin"
+  display_name: "Роман Сімутін"
 categories: 
   - "kolonka-avtora"
 ---

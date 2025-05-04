@@ -1,6 +1,9 @@
 ---
 title: "Проект генерального плану Броварів винесли на громадське обговорення"
 date: 2014-04-28
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"
   - "genplan"

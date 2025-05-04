@@ -1,6 +1,9 @@
 ---
 title: "У Броварах подвиг Героїв Крут вшанують смолоскипною ходою"
 date: 2015-01-27
+author: 
+  username: "onikienko"
+  display_name: "Вікторія Оникієнко"
 categories: 
   - "announce"
 tags: 

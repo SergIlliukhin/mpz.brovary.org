@@ -1,6 +1,9 @@
 ---
 title: "У Броварах активісти вимагали припинити хаотичні відключення електроенергії"
 date: 2014-12-25
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

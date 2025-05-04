@@ -1,6 +1,9 @@
 ---
 title: "\"Безбар'єрні Бровари\": перші кроки проекту"
 date: 2015-12-04
+author: 
+  username: "onikienko"
+  display_name: "Вікторія Оникієнко"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

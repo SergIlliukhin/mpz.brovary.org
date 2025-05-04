@@ -1,6 +1,9 @@
 ---
 title: "Загиблого бійця з Броварів Дмитра Янченка нагородили посмертно орденом \"За мужність\""
 date: 2015-07-22
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

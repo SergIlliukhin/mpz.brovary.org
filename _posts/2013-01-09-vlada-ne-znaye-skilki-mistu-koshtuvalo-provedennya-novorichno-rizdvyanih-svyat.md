@@ -1,6 +1,9 @@
 ---
 title: "Влада не знає, скільки місту коштувало проведення новорічно-різдвяних свят"
 date: 2013-01-09
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 tags: 
   - "brovary"
   - "byudzhet"

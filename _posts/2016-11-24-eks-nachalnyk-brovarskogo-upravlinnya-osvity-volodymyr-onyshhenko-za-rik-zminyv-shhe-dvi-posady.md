@@ -1,6 +1,9 @@
 ---
 title: "Екс-начальник броварського управління освіти Володимир Онищенко за рік змінив ще дві посади"
 date: 2016-11-24
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "vlada"
   - "novyny"

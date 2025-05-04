@@ -1,6 +1,9 @@
 ---
 title: "Сизіфова праця, або чому в Броварах попри масові \"облави\" не зникають незаконні ігрові салони"
 date: 2015-09-03
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "rozsliduvannya"
   - "brovary"

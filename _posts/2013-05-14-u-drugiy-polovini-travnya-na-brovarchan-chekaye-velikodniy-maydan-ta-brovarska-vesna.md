@@ -1,6 +1,9 @@
 ---
 title: "У другій половині травня на броварчан чекає «Великодній Майдан» та «Броварська весна»"
 date: 2013-05-14
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

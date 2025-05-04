@@ -1,6 +1,9 @@
 ---
 title: "Громадська рада при броварській міліції планує організувати регулярний прийом громадян"
 date: 2015-08-17
+author: 
+  username: "komarovskyj"
+  display_name: "Комаровський Олексій"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

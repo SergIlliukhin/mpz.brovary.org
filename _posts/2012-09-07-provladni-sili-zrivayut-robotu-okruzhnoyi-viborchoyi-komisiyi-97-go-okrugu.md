@@ -1,6 +1,9 @@
 ---
 title: "Провладні сили зривають роботу окружної виборчої комісії 97-го округу"
 date: 2012-09-07
+author: 
+  username: "pavriz"
+  display_name: "Павло Різаненко"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Для вирішення «гаражного конфлікту» створили робочу групу у складі мешканців Броварів"
 date: 2016-11-30
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

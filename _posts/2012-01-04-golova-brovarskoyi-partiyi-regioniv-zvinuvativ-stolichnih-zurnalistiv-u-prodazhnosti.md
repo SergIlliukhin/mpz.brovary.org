@@ -1,6 +1,9 @@
 ---
 title: "Радник Прем'єр-Міністра України звинуватив столичних журналістів у продажності"
 date: 2012-01-04
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "vikanov"
   - "ekta"

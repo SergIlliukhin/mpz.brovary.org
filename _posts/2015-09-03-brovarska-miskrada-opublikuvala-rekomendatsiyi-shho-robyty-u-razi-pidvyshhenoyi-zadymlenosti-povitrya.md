@@ -1,6 +1,9 @@
 ---
 title: "Броварська міськрада опублікувала рекомендації, що робити у разі підвищеної задимленості повітря"
 date: 2015-09-03
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

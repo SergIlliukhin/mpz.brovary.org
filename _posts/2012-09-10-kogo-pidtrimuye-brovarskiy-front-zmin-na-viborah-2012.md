@@ -1,6 +1,9 @@
 ---
 title: "Кого підтримує броварський «Фронт змін» на виборах-2012?"
 date: 2012-09-10
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 categories: 
   - "kolonka-avtora"
 tags: 

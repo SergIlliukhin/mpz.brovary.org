@@ -1,6 +1,9 @@
 ---
 title: "Камо грядеши, міська «Свобода»? Спецрозслідування «інциденту 22 серпня»"
 date: 2013-09-09
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "rozsliduvannya"
 tags: 

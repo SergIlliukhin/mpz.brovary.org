@@ -1,6 +1,9 @@
 ---
 title: "Графік прийому громадян територіального виборчого округу №2 м.Бровари"
 date: 2016-02-22
+author: 
+  username: "cherepejnik"
+  display_name: "Леонід Черепейнік"
 categories: 
   - "kolonka-avtora"
 tags: 

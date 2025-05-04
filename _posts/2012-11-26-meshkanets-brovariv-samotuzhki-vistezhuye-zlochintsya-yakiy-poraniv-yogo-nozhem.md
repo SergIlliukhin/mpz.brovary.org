@@ -1,6 +1,9 @@
 ---
 title: "\"Інтер\": Мешканець Броварів самотужки вистежує злочинця, який поранив його ножем"
 date: 2012-11-26
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

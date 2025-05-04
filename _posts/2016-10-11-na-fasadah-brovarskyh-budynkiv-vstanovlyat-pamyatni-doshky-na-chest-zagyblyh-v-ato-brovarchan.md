@@ -1,6 +1,9 @@
 ---
 title: "На фасадах броварських будинків встановлять пам'ятні дошки на честь загиблих в АТО броварчан"
 date: 2016-10-11
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

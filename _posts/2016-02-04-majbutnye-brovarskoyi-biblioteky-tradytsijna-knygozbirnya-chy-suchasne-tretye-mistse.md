@@ -1,6 +1,9 @@
 ---
 title: "Майбутнє броварської бібліотеки: традиційна книгозбірня чи сучасне «третє місце»?"
 date: 2016-02-04
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "hromada"
   - "brovary"

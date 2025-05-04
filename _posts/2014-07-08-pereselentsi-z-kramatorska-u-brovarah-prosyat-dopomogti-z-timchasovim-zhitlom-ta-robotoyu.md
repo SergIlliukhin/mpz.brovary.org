@@ -1,6 +1,9 @@
 ---
 title: "Переселенці з Краматорська у Броварах просять допомогти з тимчасовим житлом та роботою"
 date: 2014-07-08
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "bizhentsi"
   - "brovary"

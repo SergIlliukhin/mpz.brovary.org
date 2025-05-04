@@ -1,6 +1,9 @@
 ---
 title: "Як Герцен \"поселив\" учнів 6 школи до тепломережі, або таємниця однієї броварської вулиці"
 date: 2013-04-19
+author: 
+  username: "turovsky"
+  display_name: "Олександр Туровський"
 categories: 
   - "kolonka-avtora"
 tags: 

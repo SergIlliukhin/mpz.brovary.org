@@ -1,6 +1,9 @@
 ---
 title: "У броварських рятувальників нічим гасити пожежі?"
 date: 2013-06-20
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "rozsliduvannya"
 tags: 

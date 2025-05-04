@@ -1,6 +1,9 @@
 ---
 title: "Як «екстремісти» Сапожка «катували»: повне відео переговорів 26 лютого"
 date: 2014-03-04
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 ---

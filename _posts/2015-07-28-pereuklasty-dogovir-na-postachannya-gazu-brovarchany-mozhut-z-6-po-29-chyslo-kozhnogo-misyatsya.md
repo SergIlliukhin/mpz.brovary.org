@@ -1,6 +1,9 @@
 ---
 title: "Переукласти договір на постачання газу броварчани можуть з 6 по 29 число кожного місяця"
 date: 2015-07-28
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

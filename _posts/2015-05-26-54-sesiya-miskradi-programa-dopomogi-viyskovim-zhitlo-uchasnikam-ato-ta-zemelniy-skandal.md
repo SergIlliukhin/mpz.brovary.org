@@ -1,6 +1,9 @@
 ---
 title: "54 сесія міськради: програма допомоги військовим, житло учасникам АТО та земельний \"стриптиз\""
 date: 2015-05-26
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "aktsiyi-zahodi"

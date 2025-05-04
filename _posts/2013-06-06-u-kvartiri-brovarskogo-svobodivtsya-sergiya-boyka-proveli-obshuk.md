@@ -1,6 +1,9 @@
 ---
 title: "Міліція обшукала квартиру броварського активіста"
 date: 2013-06-06
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 tags: 
   - "2-kvitnya"
   - "boyko"

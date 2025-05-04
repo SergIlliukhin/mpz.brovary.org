@@ -1,6 +1,9 @@
 ---
 title: "На місці зруйнованого Леніна спалять «стовп корупції» і вимагатимуть нового прокурора"
 date: 2014-05-15
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovarska-narodna-rada"
   - "vibir-redaktsiyi"

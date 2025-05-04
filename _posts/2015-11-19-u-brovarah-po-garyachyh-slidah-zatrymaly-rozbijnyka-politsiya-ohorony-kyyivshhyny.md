@@ -1,6 +1,9 @@
 ---
 title: "У Броварах по «гарячих слідах» затримали розбійника - поліція охорони Київщини"
 date: 2015-11-19
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

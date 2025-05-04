@@ -1,6 +1,9 @@
 ---
 title: "Хто йде в мери Броварів: великі гравці, темні конячки і «космічний пил»"
 date: 2015-10-22
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "rozsliduvannya"
   - "vlada"

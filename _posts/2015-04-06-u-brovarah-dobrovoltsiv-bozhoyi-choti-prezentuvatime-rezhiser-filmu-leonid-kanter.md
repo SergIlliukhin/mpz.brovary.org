@@ -1,6 +1,9 @@
 ---
 title: "У Броварах «Добровольців Божої чоти» презентуватиме режисер Леонід Кантер"
 date: 2015-04-06
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

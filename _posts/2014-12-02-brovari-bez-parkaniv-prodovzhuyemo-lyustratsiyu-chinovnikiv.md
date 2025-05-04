@@ -1,6 +1,9 @@
 ---
 title: "«Бровари без парканів» - продовжуємо люстрацію чиновників"
 date: 2014-12-02
+author: 
+  username: "yaremchuk"
+  display_name: "Яремчук Руслан"
 categories: 
   - "kolonka-avtora"
 tags: 

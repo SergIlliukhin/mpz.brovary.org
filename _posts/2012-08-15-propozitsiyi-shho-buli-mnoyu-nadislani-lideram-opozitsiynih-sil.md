@@ -1,6 +1,9 @@
 ---
 title: "Пропозиції, що були мною надіслані лідерам опозиційних сил"
 date: 2012-08-15
+author: 
+  username: "bazir"
+  display_name: "Анатолій Базір"
 categories: 
   - "kolonka-avtora"
 tags: 

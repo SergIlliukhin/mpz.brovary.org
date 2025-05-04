@@ -1,6 +1,9 @@
 ---
 title: "У Броварах відбувся II дитячий фестиваль \"БравоKids\""
 date: 2016-10-11
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "interview"
   - "brovary"

@@ -1,6 +1,9 @@
 ---
 title: "Андрій Саук: «Бровари - компактні, тут можна створити «райський куточок», якщо влада перестане красти»"
 date: 2014-10-31
+author: 
+  username: "pecheritsia"
+  display_name: "Анастасія Печериця"
 categories: 
   - "interview"
 tags: 

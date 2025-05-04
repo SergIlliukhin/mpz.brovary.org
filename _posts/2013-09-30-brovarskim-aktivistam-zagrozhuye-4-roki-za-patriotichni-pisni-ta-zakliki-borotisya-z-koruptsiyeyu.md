@@ -1,6 +1,9 @@
 ---
 title: "За патріотичні пісні та заклики боротися з корупцією броварським активістам загрожує 4 роки"
 date: 2013-09-30
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "batyuk"
   - "vibir-redaktsiyi"

@@ -1,6 +1,9 @@
 ---
 title: "Броварський суд розглядатиме справи проти Сапожка і проти декомунізації одночасно"
 date: 2016-04-07
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

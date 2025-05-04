@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 14 грудня в Броварах розкажуть, як активізувати місцеві громади"
 date: 2016-12-13
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

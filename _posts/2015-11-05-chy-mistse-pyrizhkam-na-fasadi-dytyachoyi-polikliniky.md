@@ -1,6 +1,9 @@
 ---
 title: "Чи місце \"Пиріжкам\" на фасаді дитячої поліклініки?"
 date: 2015-11-05
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

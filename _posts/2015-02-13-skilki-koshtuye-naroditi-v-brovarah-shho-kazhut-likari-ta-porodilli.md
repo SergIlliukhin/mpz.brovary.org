@@ -1,6 +1,9 @@
 ---
 title: "Скільки коштує народити в Броварах: що кажуть лікарі та породіллі?"
 date: 2015-02-13
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "rozsliduvannya"
 tags: 

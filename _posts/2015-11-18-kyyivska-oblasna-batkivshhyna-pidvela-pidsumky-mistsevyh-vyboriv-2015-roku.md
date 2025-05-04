@@ -1,6 +1,9 @@
 ---
 title: "Київська обласна «Батьківщина» підвела підсумки місцевих виборів  2015 року"
 date: 2015-11-18
+author: 
+  username: "batkivshchyna"
+  display_name: "Батьківщина"
 categories: 
   - "kolonka-avtora"
 ---

@@ -1,6 +1,9 @@
 ---
 title: "У Броварської міської ради новий сайт із розширеними можливостями"
 date: 2016-08-01
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

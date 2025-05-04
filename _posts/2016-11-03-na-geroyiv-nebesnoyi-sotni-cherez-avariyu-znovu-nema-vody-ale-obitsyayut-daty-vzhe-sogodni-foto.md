@@ -1,6 +1,9 @@
 ---
 title: "На Героїв Небесної Сотні через аварію знову нема води, але обіцяють дати вже сьогодні - ФОТО"
 date: 2016-11-03
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Зупини «регіоналівське» бидло! ВІДЕО"
 date: 2013-07-11
+author: 
+  username: "anonymous"
+  display_name: "Anonymous"
 categories: 
   - "kolonka-avtora"
 ---

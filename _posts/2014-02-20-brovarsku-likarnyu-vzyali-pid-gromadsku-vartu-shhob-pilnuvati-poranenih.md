@@ -1,6 +1,9 @@
 ---
 title: "Броварську лікарню взяли під \"громадську варту\", щоб пильнувати поранених"
 date: 2014-02-20
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 tags: 
   - "brovary"
   - "btsrl"

@@ -1,6 +1,9 @@
 ---
 title: "Незакінчена війна"
 date: 2012-12-19
+author: 
+  username: "svoboda"
+  display_name: "Прес-служба ВО Свобода"
 categories: 
   - "kolonka-avtora"
 tags: 

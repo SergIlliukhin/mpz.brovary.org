@@ -1,6 +1,9 @@
 ---
 title: "Доступно про очевидное"
 date: 2012-07-02
+author: 
+  username: "ochrimoff"
+  display_name: "Владимир Охримов"
 categories: 
   - "kolonka-avtora"
 tags: 

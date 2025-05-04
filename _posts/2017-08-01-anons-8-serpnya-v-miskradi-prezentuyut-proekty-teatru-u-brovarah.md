@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 8 серпня в міськраді презентують проекти театру у Броварах"
 date: 2017-08-01
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

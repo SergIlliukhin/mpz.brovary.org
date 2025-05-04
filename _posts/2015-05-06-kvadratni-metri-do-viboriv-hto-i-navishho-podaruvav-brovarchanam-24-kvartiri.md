@@ -1,6 +1,9 @@
 ---
 title: "Квадратні метри до виборів: хто і навіщо подарував броварчанам 24 квартири?"
 date: 2015-05-06
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "brovary"
 tags: 

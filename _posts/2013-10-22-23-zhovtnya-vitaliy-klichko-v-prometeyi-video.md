@@ -1,6 +1,9 @@
 ---
 title: "23 жовтня ВІТАЛІЙ КЛИЧКО в «Прометеї» - ВІДЕО"
 date: 2013-10-22
+author: 
+  username: "udar"
+  display_name: "УДАР"
 categories: 
   - "kolonka-avtora"
 tags: 

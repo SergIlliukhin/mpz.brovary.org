@@ -1,6 +1,9 @@
 ---
 title: "Перевірка маршруток у Броварах триває - ВІДЕО"
 date: 2017-06-12
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

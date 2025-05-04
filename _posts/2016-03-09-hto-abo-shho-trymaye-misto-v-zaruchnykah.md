@@ -1,6 +1,9 @@
 ---
 title: "Хто або що тримає місто в заручниках?"
 date: 2016-03-09
+author: 
+  username: "simutin"
+  display_name: "Роман Сімутін"
 categories: 
   - "kolonka-avtora"
 ---

@@ -1,6 +1,9 @@
 ---
 title: "Суд повернув державі вкрадені броварською фірмою будинки на 1 млн. грн. – прокуратура"
 date: 2016-05-17
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

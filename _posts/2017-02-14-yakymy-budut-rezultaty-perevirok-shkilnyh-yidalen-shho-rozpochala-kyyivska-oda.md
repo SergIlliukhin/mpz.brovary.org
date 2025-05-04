@@ -1,6 +1,9 @@
 ---
 title: "Якими будуть результати перевірок шкільних їдалень, що розпочала Київська ОДА?"
 date: 2017-02-14
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

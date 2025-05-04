@@ -1,6 +1,9 @@
 ---
 title: "Як забезпечити своє законне право на тишу та приборкати шумних сусідів?"
 date: 2013-02-04
+author: 
+  username: "serzhov"
+  display_name: "Сергій Севрук"
 tags: 
   - "vibir-redaktsiyi"
   - "zayava"

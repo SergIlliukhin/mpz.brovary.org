@@ -1,6 +1,9 @@
 ---
 title: "Спростування: фото у \"Брамі\" не є фотомонтажем"
 date: 2012-03-15
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"
 tags: 

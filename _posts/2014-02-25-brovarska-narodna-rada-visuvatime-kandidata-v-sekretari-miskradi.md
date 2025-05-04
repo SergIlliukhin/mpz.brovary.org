@@ -1,6 +1,9 @@
 ---
 title: "Броварська Народна Рада висуватиме кандидата в секретарі міськради"
 date: 2014-02-25
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "vibir-redaktsiyi"
   - "novini"

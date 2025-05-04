@@ -1,6 +1,9 @@
 ---
 title: "Управління освіти: Броварам потрібні мінімум три школи по 70 мільйонів кожна. Грошей — нема"
 date: 2015-12-01
+author: 
+  username: "komarovskyj"
+  display_name: "Комаровський Олексій"
 categories: 
   - "brovary"
   - "novyny"

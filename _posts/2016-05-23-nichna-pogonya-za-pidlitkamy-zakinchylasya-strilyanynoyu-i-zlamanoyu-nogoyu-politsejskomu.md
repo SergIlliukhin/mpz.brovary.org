@@ -1,6 +1,9 @@
 ---
 title: "Нічна погоня за підлітками закінчилася стріляниною і зламаною ногою поліцейському"
 date: 2016-05-23
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

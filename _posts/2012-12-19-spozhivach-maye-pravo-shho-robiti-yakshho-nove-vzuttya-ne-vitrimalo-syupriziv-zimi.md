@@ -1,6 +1,9 @@
 ---
 title: "\"Споживач має право\": що робити, якщо нове взуття не витримало \"сюпризів\" зими?"
 date: 2012-12-19
+author: 
+  username: "serzhov"
+  display_name: "Сергій Севрук"
 categories: 
   - "kolonka-avtora"
 tags: 

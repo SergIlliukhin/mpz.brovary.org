@@ -1,6 +1,9 @@
 ---
 title: "Зустріч забудовника на Гагаріна, 21 з громадою Броварів - ФОТО"
 date: 2017-07-05
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

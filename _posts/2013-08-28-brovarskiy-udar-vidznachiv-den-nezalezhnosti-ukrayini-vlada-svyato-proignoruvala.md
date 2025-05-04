@@ -1,6 +1,9 @@
 ---
 title: "Броварський «УДАР» відзначив День незалежності України. Влада свято проігнорувала"
 date: 2013-08-28
+author: 
+  username: "udar"
+  display_name: "УДАР"
 categories: 
   - "kolonka-avtora"
 tags: 

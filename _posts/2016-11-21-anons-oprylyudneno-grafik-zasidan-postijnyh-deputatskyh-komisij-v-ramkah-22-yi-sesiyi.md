@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: Оприлюднено графік засідань постійних депутатських комісій в рамках 22-ї сесії"
 date: 2016-11-21
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

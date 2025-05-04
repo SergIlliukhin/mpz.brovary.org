@@ -1,6 +1,9 @@
 ---
 title: "30-та сесія Броварської міської ради – ВІДЕО"
 date: 2013-02-25
+author: 
+  username: "simutin"
+  display_name: "Роман Сімутін"
 categories: 
   - "kolonka-avtora"
   - "video"

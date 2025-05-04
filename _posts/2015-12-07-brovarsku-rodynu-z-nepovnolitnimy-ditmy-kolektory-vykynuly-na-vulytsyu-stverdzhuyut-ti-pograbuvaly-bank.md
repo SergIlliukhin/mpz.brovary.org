@@ -1,6 +1,9 @@
 ---
 title: "Броварську родину з  неповнолітніми дітьми колектори викинули на вулицю через борги перед банком"
 date: 2015-12-07
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

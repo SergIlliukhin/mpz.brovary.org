@@ -1,6 +1,9 @@
 ---
 title: "«Віддамся в добрі руки»: дитячий майданчик у Броварах шукає господаря"
 date: 2014-12-02
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

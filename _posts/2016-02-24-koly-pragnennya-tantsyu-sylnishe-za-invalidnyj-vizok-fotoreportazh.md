@@ -1,6 +1,9 @@
 ---
 title: "Коли прагнення танцю сильніше за інвалідний візок. ФОТОРЕПОРТАЖ"
 date: 2016-02-24
+author: 
+  username: "onikienko"
+  display_name: "Вікторія Оникієнко"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

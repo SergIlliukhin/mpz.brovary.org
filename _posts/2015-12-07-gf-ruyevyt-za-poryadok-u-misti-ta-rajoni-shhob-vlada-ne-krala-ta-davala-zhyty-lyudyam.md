@@ -1,6 +1,9 @@
 ---
 title: "ГФ \"Руєвит\": \"Ми за порядок у місті та районі, щоб влада не крала та давала жити людям\""
 date: 2015-12-07
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

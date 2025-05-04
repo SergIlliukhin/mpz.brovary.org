@@ -1,6 +1,9 @@
 ---
 title: "«Комунтранс» поки що вивозить сміття з вулиць Броварів. Хто замінить їх – вирішить конкурс"
 date: 2017-03-23
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "brovary"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Очільниця відділу культури Наталія Багмут заявила про своє звільнення"
 date: 2016-11-03
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

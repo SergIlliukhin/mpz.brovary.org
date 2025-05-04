@@ -1,6 +1,9 @@
 ---
 title: "Водохреща у Броварах: традиційне купання в озері в парку \"Приозерний\"  - ФОТОРЕПОРТАЖ"
 date: 2017-01-20
+author: 
+  username: "krokos"
+  display_name: "Владислава Крокос"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

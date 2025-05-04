@@ -1,6 +1,9 @@
 ---
 title: "ОФІЦІЙНО: Зниклий секретар броварської міськради Здоровець – «непрацездатний»"
 date: 2016-04-12
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Збори \"Народного контролю\": бюджетні зловживання в освіті, проблеми у благоустрої та правопорядку"
 date: 2015-09-14
+author: 
+  username: "komarovskyj"
+  display_name: "Комаровський Олексій"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

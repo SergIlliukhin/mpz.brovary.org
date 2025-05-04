@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 8 березня у Броварах концерт DZIDZIO"
 date: 2017-02-21
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "brovary"

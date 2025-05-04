@@ -1,6 +1,9 @@
 ---
 title: "19 липня у Броварах відбудуться збори Товариства української мови"
 date: 2012-07-17
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

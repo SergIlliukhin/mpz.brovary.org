@@ -1,6 +1,9 @@
 ---
 title: "\"День Голландії у Броварах\": національні вафлі, дитячі квести та благодійність - ФОТО"
 date: 2015-10-12
+author: 
+  username: "los"
+  display_name: "Лось Олена"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

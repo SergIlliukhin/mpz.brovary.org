@@ -1,6 +1,9 @@
 ---
 title: "ТОВ «Сонячний квартал» vs СТ «Крокус». Ще не крапка"
 date: 2016-09-24
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

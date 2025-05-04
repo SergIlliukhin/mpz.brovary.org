@@ -1,6 +1,9 @@
 ---
 title: "Громадський бюджет 2017: броварчани можуть готувати свої пропозиції"
 date: 2016-11-04
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

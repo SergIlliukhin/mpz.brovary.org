@@ -1,6 +1,9 @@
 ---
 title: "Розпорядження №1: усім військовозобов’язаним – негайно прибути до військомату"
 date: 2015-02-07
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "brovary"
   - "viyna"

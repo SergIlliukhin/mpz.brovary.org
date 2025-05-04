@@ -1,6 +1,9 @@
 ---
 title: "Громадська рада при міліції – прощай. Здрастуй, Громадська рада при поліції?"
 date: 2015-11-09
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

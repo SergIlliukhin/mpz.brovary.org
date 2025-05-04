@@ -1,6 +1,9 @@
 ---
 title: "Броварські садочки шукають вихователів, нянечок та інших працівників"
 date: 2016-01-29
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

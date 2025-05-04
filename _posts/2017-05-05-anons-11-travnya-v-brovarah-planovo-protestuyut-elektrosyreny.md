@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 11 травня в Броварах планово протестують електросирени"
 date: 2017-05-05
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Сам собі енергокомпанія: як заощадити та ще й заробити на сонці. Досвід Броварів"
 date: 2017-03-02
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "hromada"
   - "novyny"

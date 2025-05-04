@@ -1,6 +1,9 @@
 ---
 title: "Активісти створили інтерактивну карту бомбосховищ Броварів"
 date: 2015-03-23
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 tags: 
   - "initsiativa"
   - "interaktivna"

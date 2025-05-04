@@ -1,6 +1,9 @@
 ---
 title: "У Броварської міської ради буде новий сайт за 200 тис грн?"
 date: 2015-11-30
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

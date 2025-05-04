@@ -1,6 +1,9 @@
 ---
 title: "Залізничники нараховували фіктивну зарплату, тепер їм загрожує тюремний строк, - прокуратура"
 date: 2016-10-27
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

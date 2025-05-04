@@ -1,6 +1,9 @@
 ---
 title: "Єва Кошева: \"Кажуть, що всі актори починають з масовки, але це не про мене\""
 date: 2017-02-17
+author: 
+  username: "onikienko"
+  display_name: "Вікторія Оникієнко"
 categories: 
   - "interview"
   - "hromada"

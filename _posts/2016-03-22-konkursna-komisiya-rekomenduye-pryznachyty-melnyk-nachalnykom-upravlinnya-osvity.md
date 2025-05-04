@@ -1,6 +1,9 @@
 ---
 title: "Конкурсна комісія рекомендує призначити Мельник начальником управління освіти"
 date: 2016-03-22
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

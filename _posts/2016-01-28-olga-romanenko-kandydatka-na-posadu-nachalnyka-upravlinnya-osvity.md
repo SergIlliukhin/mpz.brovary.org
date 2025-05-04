@@ -1,6 +1,9 @@
 ---
 title: "Ольга Романенко - кандидатка на посаду начальника управління освіти - ВІДЕО"
 date: 2016-01-28
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "brovary"
   - "novyny"

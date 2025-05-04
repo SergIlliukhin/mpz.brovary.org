@@ -1,6 +1,9 @@
 ---
 title: "Голова партії «Демократичний Альянс» приїхав до Броварів громадським транспортом"
 date: 2012-07-19
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 tags: 
   - "brovary"
   - "brovaryi"

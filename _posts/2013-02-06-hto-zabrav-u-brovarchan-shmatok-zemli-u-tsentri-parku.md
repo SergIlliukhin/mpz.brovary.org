@@ -1,6 +1,9 @@
 ---
 title: "Хто забрав у броварчан шматок землі у центрі парку \"Перемога\"?"
 date: 2013-02-06
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 categories: 
   - "rozsliduvannya"
 tags: 

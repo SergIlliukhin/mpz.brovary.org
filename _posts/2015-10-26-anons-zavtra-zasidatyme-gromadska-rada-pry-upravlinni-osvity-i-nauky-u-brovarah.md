@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: Завтра засідатиме Громадська рада при управлінні освіти і науки у Броварах"
 date: 2015-10-26
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

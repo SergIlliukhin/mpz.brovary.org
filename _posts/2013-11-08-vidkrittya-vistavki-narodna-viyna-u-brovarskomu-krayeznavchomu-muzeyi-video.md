@@ -1,6 +1,9 @@
 ---
 title: "Відкриття виставки \"Народна війна\" у Броварському краєзнавчому музеї - ВІДЕО"
 date: 2013-11-08
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

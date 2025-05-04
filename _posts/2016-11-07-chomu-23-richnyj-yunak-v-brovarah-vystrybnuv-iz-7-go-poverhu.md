@@ -1,6 +1,9 @@
 ---
 title: "Чому 23-річний юнак у Броварах вистрибнув із 7-го поверху?"
 date: 2016-11-07
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

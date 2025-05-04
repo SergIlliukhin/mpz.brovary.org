@@ -1,6 +1,9 @@
 ---
 title: "Броварами прокотилась хвиля викриттів підпільних гральних салонів"
 date: 2014-12-02
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

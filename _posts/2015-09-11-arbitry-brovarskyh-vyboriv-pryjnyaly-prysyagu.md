@@ -1,6 +1,9 @@
 ---
 title: "Територіальна виборча комісія: арбітри броварських виборів прийняли присягу"
 date: 2015-09-11
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "rozsliduvannya"
   - "vlada"

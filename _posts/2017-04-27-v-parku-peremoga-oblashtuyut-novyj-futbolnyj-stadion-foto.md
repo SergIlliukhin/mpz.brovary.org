@@ -1,6 +1,9 @@
 ---
 title: "У парку \"Перемога\" облаштують новий футбольний стадіон - ФОТО"
 date: 2017-04-27
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

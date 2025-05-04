@@ -1,6 +1,9 @@
 ---
 title: "У броварських школах з'явилися контейнери для відпрацьованих батарейок"
 date: 2015-11-05
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

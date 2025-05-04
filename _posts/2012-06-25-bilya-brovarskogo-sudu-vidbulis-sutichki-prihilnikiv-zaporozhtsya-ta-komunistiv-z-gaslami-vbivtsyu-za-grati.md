@@ -1,6 +1,9 @@
 ---
 title: "Біля броварського суду відбулись сутички прихильників Запорожця та комуністів з гаслами «Вбивцю за ґрати!»"
 date: 2012-06-25
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "vitaliy-zaporozhets"
   - "vo-svoboda"

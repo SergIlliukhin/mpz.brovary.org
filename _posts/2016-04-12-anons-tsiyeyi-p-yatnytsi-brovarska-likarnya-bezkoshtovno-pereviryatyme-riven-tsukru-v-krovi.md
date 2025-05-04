@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: Цієї п’ятниці броварська лікарня безкоштовно перевірятиме рівень цукру в крові"
 date: 2016-04-12
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

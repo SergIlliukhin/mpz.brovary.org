@@ -1,6 +1,9 @@
 ---
 title: "Прокуратура вимагає звільнити частину \"Прометею\", де розмістилось скандальне кафе Багмутів"
 date: 2014-02-05
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "rozsliduvannya"
 tags: 

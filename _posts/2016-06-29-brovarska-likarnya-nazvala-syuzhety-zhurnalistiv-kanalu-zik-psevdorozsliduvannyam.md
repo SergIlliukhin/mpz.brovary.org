@@ -1,6 +1,9 @@
 ---
 title: "Броварська лікарня назвала сюжети журналістів каналу ZIK \"псевдорозслідуванням\""
 date: 2016-06-29
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

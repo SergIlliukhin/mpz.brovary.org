@@ -1,6 +1,9 @@
 ---
 title: "Родичі покійного 39-літнього чоловіка звинувачують броварських лікарів у службовій недбалості"
 date: 2015-11-16
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "rozsliduvannya"
   - "brovary"

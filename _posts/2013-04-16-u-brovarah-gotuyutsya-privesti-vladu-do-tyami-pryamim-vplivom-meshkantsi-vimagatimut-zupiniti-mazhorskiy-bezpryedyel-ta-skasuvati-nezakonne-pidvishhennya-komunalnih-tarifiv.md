@@ -1,6 +1,9 @@
 ---
 title: "У Броварах готуються «привести владу до тями прямим впливом»"
 date: 2013-04-16
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Суд відправив справу «візиту Азарова» на дорозслідування"
 date: 2012-12-21
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "azarov"
   - "vibir-redaktsiyi"

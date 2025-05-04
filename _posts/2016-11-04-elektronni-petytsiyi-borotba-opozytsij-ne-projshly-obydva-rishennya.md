@@ -1,6 +1,9 @@
 ---
 title: "Електронні петиції: боротьба опозицій - не пройшли обидва рішення"
 date: 2016-11-04
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "\"Чіткі\" відповіді на компліментарні запитання: мер зустрівся зі своїми журналістами"
 date: 2012-07-11
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 categories: 
   - "kolonka-avtora"
 tags: 

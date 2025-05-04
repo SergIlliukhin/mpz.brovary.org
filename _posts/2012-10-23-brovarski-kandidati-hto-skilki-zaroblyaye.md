@@ -1,6 +1,9 @@
 ---
 title: "Декларації основних кандидатів: хто має найбільше грошей, землі, квартир та автівок?"
 date: 2012-10-23
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 categories: 
   - "rozsliduvannya"
 tags: 

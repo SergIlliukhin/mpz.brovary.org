@@ -1,6 +1,9 @@
 ---
 title: "Винуватець ДТП на Торгмаші, якого вважали мертвим, тепер відшкодовує лікування постраждалим"
 date: 2015-03-30
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

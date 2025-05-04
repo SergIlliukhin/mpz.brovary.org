@@ -1,6 +1,9 @@
 ---
 title: "На реконструкцію басейну \"Хвиля\" виділять 80 мільйонів гривень"
 date: 2016-02-17
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

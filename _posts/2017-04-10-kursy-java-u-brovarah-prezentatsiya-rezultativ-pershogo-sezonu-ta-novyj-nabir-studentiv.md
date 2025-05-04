@@ -1,6 +1,9 @@
 ---
 title: "Курси Java у Броварах: презентація результатів першого сезону та новий набір студентів - ФОТО"
 date: 2017-04-10
+author: 
+  username: "ulitenko"
+  display_name: "Ірина Улітенко"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

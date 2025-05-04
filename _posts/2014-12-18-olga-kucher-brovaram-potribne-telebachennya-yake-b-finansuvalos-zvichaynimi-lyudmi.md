@@ -1,6 +1,9 @@
 ---
 title: "Ольга Кучер: «Броварам потрібне телебачення, яке б фінансувалось звичайними людьми»"
 date: 2014-12-18
+author: 
+  username: "pecheritsia"
+  display_name: "Анастасія Печериця"
 categories: 
   - "interview"
 tags: 

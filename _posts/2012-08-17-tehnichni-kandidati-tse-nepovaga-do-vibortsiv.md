@@ -1,6 +1,9 @@
 ---
 title: "Технічні кандидати - це неповага до виборців"
 date: 2012-08-17
+author: 
+  username: "pavriz"
+  display_name: "Павло Різаненко"
 categories: 
   - "kolonka-avtora"
 tags: 

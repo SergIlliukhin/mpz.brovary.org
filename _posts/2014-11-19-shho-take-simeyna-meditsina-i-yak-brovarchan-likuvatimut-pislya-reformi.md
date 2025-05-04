@@ -1,6 +1,9 @@
 ---
 title: "Що таке сімейна медицина і як броварчан лікуватимуть після реформи?"
 date: 2014-11-19
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 tags: 
   - "ambulatoriya"
   - "brovary"

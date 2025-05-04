@@ -1,6 +1,9 @@
 ---
 title: "Голова військової громадської організації Ігор Муратов: \"Почуйте кожного!\" - ФОТО, ВІДЕО"
 date: 2016-11-03
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "hromada"
   - "novyny"

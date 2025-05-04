@@ -1,6 +1,9 @@
 ---
 title: "Це й справді бій за Україну"
 date: 2012-08-24
+author: 
+  username: "pavriz"
+  display_name: "Павло Різаненко"
 categories: 
   - "kolonka-avtora"
 tags: 

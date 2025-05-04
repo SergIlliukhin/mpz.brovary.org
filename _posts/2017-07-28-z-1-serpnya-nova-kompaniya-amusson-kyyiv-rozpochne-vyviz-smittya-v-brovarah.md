@@ -1,6 +1,9 @@
 ---
 title: "З 1 серпня нова компанія \"Амуссон Київ\" розпочне вивіз сміття в Броварах"
 date: 2017-07-28
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Резнік пройшов спецперевірку на посаду заступника мера"
 date: 2016-04-21
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

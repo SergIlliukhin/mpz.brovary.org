@@ -1,6 +1,9 @@
 ---
 title: "До побачення, Бровари!"
 date: 2017-09-01
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "kolonka-avtora"
 ---

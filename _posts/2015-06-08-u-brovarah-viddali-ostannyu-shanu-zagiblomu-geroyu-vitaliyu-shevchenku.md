@@ -1,6 +1,9 @@
 ---
 title: "У Броварах віддали останню шану загиблому Герою Віталію Шевченку"
 date: 2015-06-08
+author: 
+  username: "komarovskyj"
+  display_name: "Комаровський Олексій"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

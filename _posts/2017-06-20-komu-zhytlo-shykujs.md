@@ -1,6 +1,9 @@
 ---
 title: "Кому житло? Шикуйсь!"
 date: 2017-06-20
+author: 
+  username: "nikitchina"
+  display_name: "Ірина Нікітчина"
 categories: 
   - "kolonka-avtora"
 tags: 

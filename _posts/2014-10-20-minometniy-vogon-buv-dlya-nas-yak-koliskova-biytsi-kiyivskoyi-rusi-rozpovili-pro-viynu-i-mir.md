@@ -1,6 +1,9 @@
 ---
 title: "\"Мінометний вогонь був для нас як колискова\", - бійці \"Київської Русі\" розповіли про війну і мир"
 date: 2014-10-20
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 categories: 
   - "interview"
 tags: 

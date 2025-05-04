@@ -1,6 +1,9 @@
 ---
 title: "Хто та на яких підставах розмістив сотні рекламних дошок у ліфтах броварських багатоповерхівок?"
 date: 2014-01-15
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "rozsliduvannya"
 tags: 

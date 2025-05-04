@@ -1,6 +1,9 @@
 ---
 title: "«Свободівці»: На броварського депутата Олега Шевчука здійснили збройний напад"
 date: 2016-05-23
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

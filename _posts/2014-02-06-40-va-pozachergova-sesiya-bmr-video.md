@@ -1,6 +1,9 @@
 ---
 title: "40-ва, 41-ша та 42-га позачергові сесії Броварської міської ради - ВІДЕО"
 date: 2014-02-06
+author: 
+  username: "udar"
+  display_name: "УДАР"
 categories: 
   - "kolonka-avtora"
   - "video"

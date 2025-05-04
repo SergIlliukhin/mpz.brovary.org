@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 30 липня в парку \"Перемога\" безкоштовно покажуть фільм \"У пошуках щастя\""
 date: 2017-07-29
+author: 
+  username: "ulitenko"
+  display_name: "Ірина Улітенко"
 categories: 
   - "announce"
   - "novyny"

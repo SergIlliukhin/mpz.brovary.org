@@ -1,6 +1,9 @@
 ---
 title: "Чи залишились могили на Єврейському кладовищі у міському парку «Перемога»?"
 date: 2013-01-16
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "rozsliduvannya"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "За що вшановують Бєліка?"
 date: 2012-06-10
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"
 tags: 

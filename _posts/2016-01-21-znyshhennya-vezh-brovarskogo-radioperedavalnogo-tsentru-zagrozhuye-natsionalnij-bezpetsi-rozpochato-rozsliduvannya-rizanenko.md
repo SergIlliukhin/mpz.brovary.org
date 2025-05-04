@@ -1,6 +1,9 @@
 ---
 title: "Знищення броварських радіовеж підірвало обороноздатність країни, - Різаненко"
 date: 2016-01-21
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Медична амбулаторія - на місці районної бібліотеки у Броварах"
 date: 2016-12-15
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

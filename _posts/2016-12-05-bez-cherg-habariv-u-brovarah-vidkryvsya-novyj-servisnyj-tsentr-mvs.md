@@ -1,6 +1,9 @@
 ---
 title: "Без черг і хабарів: у Броварах відкрився новий сервісний центр МВС"
 date: 2016-12-05
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

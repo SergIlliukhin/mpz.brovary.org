@@ -1,6 +1,9 @@
 ---
 title: "Поп-музиканти та молоді рок-гурти на концертах у Броварах закликали підтримати захисників України"
 date: 2014-09-02
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "vibir-redaktsiyi"
   - "novini"

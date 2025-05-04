@@ -1,6 +1,9 @@
 ---
 title: "Більшість броварських депутатів приховують свої декларації"
 date: 2016-04-19
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "vlada"
   - "novyny"

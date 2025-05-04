@@ -1,6 +1,9 @@
 ---
 title: "«Броварська тема» для всеукраїнського ТБ - під забороною?"
 date: 2012-05-04
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "azarov"
   - "basejny"

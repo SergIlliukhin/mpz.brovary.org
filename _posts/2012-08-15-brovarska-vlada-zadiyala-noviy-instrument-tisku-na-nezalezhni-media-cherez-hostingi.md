@@ -1,6 +1,9 @@
 ---
 title: "Броварська влада задіяла новий інструмент тиску на незалежні медіа – через хостинги"
 date: 2012-08-15
+author: 
+  username: "zolotariov"
+  display_name: "Євген Золотарьов"
 categories: 
   - "kolonka-avtora"
 tags: 

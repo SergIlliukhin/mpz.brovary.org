@@ -1,6 +1,9 @@
 ---
 title: "«Справа Святослава Б.»: винних немає?"
 date: 2014-12-29
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Броварська влада відтепер може повернути в місто 77 гектарів землі, - депутат"
 date: 2016-01-22
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

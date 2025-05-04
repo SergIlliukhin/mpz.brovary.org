@@ -1,6 +1,9 @@
 ---
 title: "Безпечне місто: у Броварах організовують відеоспостереження та патрулі"
 date: 2015-08-07
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

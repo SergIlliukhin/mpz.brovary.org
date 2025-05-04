@@ -1,6 +1,9 @@
 ---
 title: "У Броварах розповіли, як Київщина може заощаджувати енергоресурси"
 date: 2014-11-05
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

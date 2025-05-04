@@ -1,6 +1,9 @@
 ---
 title: "На території Броварського лісництва знайшли труп жінки – МВС"
 date: 2016-05-05
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

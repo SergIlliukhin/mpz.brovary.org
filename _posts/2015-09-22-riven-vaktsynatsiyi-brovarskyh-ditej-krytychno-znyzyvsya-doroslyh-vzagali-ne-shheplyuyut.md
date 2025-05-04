@@ -1,6 +1,9 @@
 ---
 title: "Рівень вакцинації броварських дітей критично знизився. Дорослих взагалі не щеплюють - ОНОВЛЕНО"
 date: 2015-09-22
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "rozsliduvannya"
   - "brovary"

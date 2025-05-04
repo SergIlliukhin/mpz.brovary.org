@@ -1,6 +1,9 @@
 ---
 title: "22 та 30 вересня у Броварах тимчасово не буде світла"
 date: 2016-09-21
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Броварчани не хочуть подарунків від «злого Діда Мороза» у вигляді зростання тарифів"
 date: 2013-01-15
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 categories: 
   - "aktsiyi-zahodi"
 tags: 

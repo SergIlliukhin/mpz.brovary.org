@@ -1,6 +1,9 @@
 ---
 title: "Громадська рада при управлінні освіти планує взятись за шкільні буфети та доріжки у садочках"
 date: 2015-07-03
+author: 
+  username: "komarovskyj"
+  display_name: "Комаровський Олексій"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

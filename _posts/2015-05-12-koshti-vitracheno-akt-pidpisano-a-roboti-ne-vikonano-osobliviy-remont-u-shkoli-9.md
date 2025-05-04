@@ -1,6 +1,9 @@
 ---
 title: "Кошти витрачено, акт підписано, а роботи не виконано: \"особливий\" ремонт у школі №9"
 date: 2015-05-12
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "hromada"
 tags: 

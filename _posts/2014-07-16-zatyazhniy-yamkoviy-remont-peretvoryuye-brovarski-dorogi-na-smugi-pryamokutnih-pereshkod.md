@@ -1,6 +1,9 @@
 ---
 title: "Затяжний ямковий ремонт перетворює броварські дороги на \"смуги прямокутних перешкод\""
 date: 2014-07-16
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

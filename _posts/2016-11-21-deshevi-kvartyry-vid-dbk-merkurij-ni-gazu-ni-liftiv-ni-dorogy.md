@@ -1,6 +1,9 @@
 ---
 title: "«Дешеві» квартири від ДБК «Меркурій»: ні газу, ні ліфтів, ні дороги"
 date: 2016-11-21
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

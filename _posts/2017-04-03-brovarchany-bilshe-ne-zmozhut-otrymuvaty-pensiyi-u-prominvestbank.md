@@ -1,6 +1,9 @@
 ---
 title: "Броварчани більше не зможуть отримувати пенсії у «Промінвестбанк»"
 date: 2017-04-03
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

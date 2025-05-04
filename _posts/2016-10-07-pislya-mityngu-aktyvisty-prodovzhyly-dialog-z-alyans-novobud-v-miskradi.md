@@ -1,6 +1,9 @@
 ---
 title: "Після мітингу: активісти продовжили діалог з \"Альянс Новобуд\" в міськраді"
 date: 2016-10-07
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "hromada"
   - "novyny"

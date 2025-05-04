@@ -1,6 +1,9 @@
 ---
 title: "Коли Порошенко зніме Кищука з посади голови Броварської РДА?"
 date: 2014-06-04
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 categories: 
   - "kolonka-avtora"
 tags: 

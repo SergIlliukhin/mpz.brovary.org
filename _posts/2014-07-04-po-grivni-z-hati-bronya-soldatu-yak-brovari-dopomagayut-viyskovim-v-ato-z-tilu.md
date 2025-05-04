@@ -1,6 +1,9 @@
 ---
 title: "По гривні з хати  –  броня солдату: як Бровари допомагають військовим"
 date: 2014-07-04
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "viyskovi"

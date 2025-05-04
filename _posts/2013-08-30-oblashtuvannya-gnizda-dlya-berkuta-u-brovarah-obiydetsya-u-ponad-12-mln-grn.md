@@ -1,6 +1,9 @@
 ---
 title: "Облаштування \"гнізда\" для \"Беркута\" у Броварах обійдеться у понад 12 млн грн"
 date: 2013-08-30
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "berkut"
   - "brovary"

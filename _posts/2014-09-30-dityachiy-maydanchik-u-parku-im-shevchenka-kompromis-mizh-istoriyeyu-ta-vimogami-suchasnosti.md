@@ -1,6 +1,9 @@
 ---
 title: "Дитячий майданчик у парку ім. Шевченка - компроміс між історією та вимогами сучасності"
 date: 2014-09-30
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

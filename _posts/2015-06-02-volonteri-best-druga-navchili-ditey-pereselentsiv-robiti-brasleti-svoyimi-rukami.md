@@ -1,6 +1,9 @@
 ---
 title: "Волонтери \"Бест друга\" навчили дітей-переселенців робити браслети своїми руками"
 date: 2015-06-02
+author: 
+  username: "molodda"
+  display_name: "Молодь ДемАльянсу"
 categories: 
   - "kolonka-avtora"
 tags: 

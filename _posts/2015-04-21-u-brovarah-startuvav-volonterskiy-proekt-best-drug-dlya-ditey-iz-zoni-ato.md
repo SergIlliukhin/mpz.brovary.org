@@ -1,6 +1,9 @@
 ---
 title: "У Броварах стартував волонтерський проект «Бест Друг» для дітей із зони АТО"
 date: 2015-04-21
+author: 
+  username: "molodda"
+  display_name: "Молодь ДемАльянсу"
 categories: 
   - "kolonka-avtora"
 tags: 

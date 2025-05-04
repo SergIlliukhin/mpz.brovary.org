@@ -1,6 +1,9 @@
 ---
 title: "Сапожко на завтра скликає позачергову сесію - ВІДЕО"
 date: 2013-11-27
+author: 
+  username: "udar"
+  display_name: "УДАР"
 categories: 
   - "kolonka-avtora"
 tags: 

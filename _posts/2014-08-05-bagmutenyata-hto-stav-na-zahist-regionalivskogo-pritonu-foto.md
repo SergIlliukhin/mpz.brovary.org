@@ -1,6 +1,9 @@
 ---
 title: "«Багмутенята»: хто став на захист регіоналівського притону? ФОТО"
 date: 2014-08-05
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 ---

@@ -1,6 +1,9 @@
 ---
 title: "У Броварах не можуть організувати вибори"
 date: 2013-02-27
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "vibir-redaktsiyi"
   - "vibori"

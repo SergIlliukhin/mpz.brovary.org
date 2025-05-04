@@ -1,6 +1,9 @@
 ---
 title: "Сапожко пообіцяв громаді і підпримцям скликати сесію найближчими днями"
 date: 2014-04-02
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "alina-dyachenko"
   - "vibir-redaktsiyi"

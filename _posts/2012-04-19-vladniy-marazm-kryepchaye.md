@@ -1,6 +1,9 @@
 ---
 title: "Владний маразм – «крєпчає» + ВІДЕО"
 date: 2012-04-19
+author: 
+  username: "kravec"
+  display_name: "Юрій Кравець"
 categories: 
   - "kolonka-avtora"
 tags: 

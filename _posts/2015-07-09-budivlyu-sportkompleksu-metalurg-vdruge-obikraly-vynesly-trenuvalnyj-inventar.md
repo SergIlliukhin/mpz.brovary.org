@@ -1,6 +1,9 @@
 ---
 title: "Будівлю спорткомплексу \"Металург\" вдруге обікрали: винесли тренувальний інвентар"
 date: 2015-07-09
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

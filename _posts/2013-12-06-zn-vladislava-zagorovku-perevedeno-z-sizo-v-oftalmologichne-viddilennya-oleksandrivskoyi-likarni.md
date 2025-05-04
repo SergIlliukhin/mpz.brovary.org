@@ -1,6 +1,9 @@
 ---
 title: "Владислава Загоровку перевели з СІЗО до офтальмологічного відділення Олександрівської лікарні"
 date: 2013-12-06
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovarchanin"
   - "vibir-redaktsiyi"

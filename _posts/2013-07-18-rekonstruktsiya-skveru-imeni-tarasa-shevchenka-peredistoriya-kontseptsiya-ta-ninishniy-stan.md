@@ -1,6 +1,9 @@
 ---
 title: "Реконструкція скверу імені Тараса Шевченка: передісторія, концепція та нинішній стан"
 date: 2013-07-18
+author: 
+  username: "ovdienko"
+  display_name: "Марія Овдієнко"
 categories: 
   - "kolonka-avtora"
 tags: 

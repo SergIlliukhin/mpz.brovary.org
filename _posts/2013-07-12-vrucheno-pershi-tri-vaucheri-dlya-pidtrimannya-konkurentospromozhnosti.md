@@ -1,6 +1,9 @@
 ---
 title: "Вручено перші три ваучери для підтримання конкурентоспроможності"
 date: 2013-07-12
+author: 
+  username: "centrzaynyatosti"
+  display_name: "Центр зайнятості"
 categories: 
   - "kolonka-avtora"
 tags: 

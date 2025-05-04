@@ -1,6 +1,9 @@
 ---
 title: "Призначення нового начальника міліції у Броварах - тест для главку МВС Київщини"
 date: 2014-05-23
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 categories: 
   - "rozsliduvannya"
 ---

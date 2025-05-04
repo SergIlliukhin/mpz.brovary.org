@@ -1,6 +1,9 @@
 ---
 title: "Суспільно відповідальний біг за зачиненими воротами"
 date: 2013-08-07
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: Бюджет участі - 17 квітня запрошують висловити ідеї для броварських проектів"
 date: 2017-04-11
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

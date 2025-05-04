@@ -1,6 +1,9 @@
 ---
 title: "Двогодинний діалог про медицину: броварчани вказали головним лікарям найгостріші проблеми"
 date: 2015-06-17
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

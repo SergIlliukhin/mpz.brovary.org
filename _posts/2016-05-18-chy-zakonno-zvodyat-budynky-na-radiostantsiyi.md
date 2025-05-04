@@ -1,6 +1,9 @@
 ---
 title: "Чи законно зводять будинки на Радіостанції?"
 date: 2016-05-18
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "rozsliduvannya"
   - "hromada"

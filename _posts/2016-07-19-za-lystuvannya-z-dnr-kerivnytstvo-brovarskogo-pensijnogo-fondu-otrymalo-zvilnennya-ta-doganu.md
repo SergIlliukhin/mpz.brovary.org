@@ -1,6 +1,9 @@
 ---
 title: "За листування з «ДНР» керівництво броварського пенсійного фонду отримало звільнення та догану"
 date: 2016-07-19
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Зранку броварчани блокуватимуть знесення дитячого садочка по вул. Аркадія Голуба – ФОТО"
 date: 2017-05-29
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "announce"
   - "novyny"

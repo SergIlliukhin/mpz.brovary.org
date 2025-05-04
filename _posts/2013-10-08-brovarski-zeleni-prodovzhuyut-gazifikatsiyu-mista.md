@@ -1,6 +1,9 @@
 ---
 title: "Броварські \"зелені\" продовжують \"газифікацію\" міста"
 date: 2013-10-08
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 tags: 
   - "brovarigaz"
   - "vibir-redaktsiyi"

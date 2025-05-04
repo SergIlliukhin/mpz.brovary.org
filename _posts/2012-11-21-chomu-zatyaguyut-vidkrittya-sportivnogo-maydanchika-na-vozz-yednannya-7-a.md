@@ -1,6 +1,9 @@
 ---
 title: "ІІІ квартал 2012 року минув, а тенісний корт біля 9 школи досі не збудовано"
 date: 2012-11-21
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 tags: 
   - "avtostoyanka"
   - "brovary"

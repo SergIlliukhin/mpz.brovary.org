@@ -1,6 +1,9 @@
 ---
 title: "18 липня у Броварах відбудеться зустріч з командою Демократичного Альянсу"
 date: 2012-07-17
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Як броварчани створювали нове місто – ВІДЕО"
 date: 2015-03-19
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Зимове пекло Дебальцевого. Історія зв'язківця Гуравського з Броварів"
 date: 2016-04-12
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 categories: 
   - "interview"
   - "brovary"

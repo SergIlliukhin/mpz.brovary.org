@@ -1,6 +1,9 @@
 ---
 title: "Броварських депутатів на сесії просили зберегти ліс - ФОТО, ВІДЕО"
 date: 2016-10-19
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

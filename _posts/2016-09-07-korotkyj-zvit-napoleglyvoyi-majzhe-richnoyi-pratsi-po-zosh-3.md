@@ -1,6 +1,9 @@
 ---
 title: "Короткий звіт наполегливої майже річної праці по ЗОШ №3"
 date: 2016-09-07
+author: 
+  username: "cherepejnik"
+  display_name: "Леонід Черепейнік"
 categories: 
   - "kolonka-avtora"
 ---

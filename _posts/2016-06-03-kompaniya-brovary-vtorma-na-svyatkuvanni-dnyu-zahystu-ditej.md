@@ -1,6 +1,9 @@
 ---
 title: "Компанія \"Бровари Вторма\" на святкуванні Дню захисту дітей"
 date: 2016-06-03
+author: 
+  username: "vtorma"
+  display_name: "Бровари Вторма"
 categories: 
   - "kolonka-avtora"
 ---

@@ -1,6 +1,9 @@
 ---
 title: "Оголошено прийом документів на посади заступників міського голови Броварів"
 date: 2015-11-23
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Міст на Торгмаш відкриють в листопаді"
 date: 2016-09-30
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Сьогодні у Броварах розпочинаються заходи з вшанування пам'яті жертв Голодомору"
 date: 2013-11-20
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "announce"
 tags: 

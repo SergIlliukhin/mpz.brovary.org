@@ -1,6 +1,9 @@
 ---
 title: "Сергій Іллюхін: «Я був першою людиною в Броварах, хто подав запит на інформацію»"
 date: 2015-02-20
+author: 
+  username: "pecheritsia"
+  display_name: "Анастасія Печериця"
 categories: 
   - "interview"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Броварська молодь презентувала свої проекти: фестивалі, тренінги, розмовні клуби, кінопокази"
 date: 2016-04-12
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "hromada"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "«Броварські Дюни – 2013» як приклад самоорганізації броварчан. ВІДЕО"
 date: 2013-10-08
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

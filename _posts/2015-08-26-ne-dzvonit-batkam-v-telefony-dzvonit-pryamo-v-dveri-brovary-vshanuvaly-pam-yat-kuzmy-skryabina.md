@@ -1,6 +1,9 @@
 ---
 title: "«Не дзвоніть батькам в телефони, дзвоніть прямо в двері»: Бровари вшанували пам'ять Кузьми Скрябіна"
 date: 2015-08-26
+author: 
+  username: "komarovskyj"
+  display_name: "Комаровський Олексій"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

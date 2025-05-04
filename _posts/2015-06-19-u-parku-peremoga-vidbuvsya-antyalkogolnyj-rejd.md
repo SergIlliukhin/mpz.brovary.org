@@ -1,6 +1,9 @@
 ---
 title: "Антиалкогольний рейд у парку «Перемога»: від агресії до розуміння - ФОТО"
 date: 2015-06-19
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

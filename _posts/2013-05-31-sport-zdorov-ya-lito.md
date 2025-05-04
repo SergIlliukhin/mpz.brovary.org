@@ -1,6 +1,9 @@
 ---
 title: "Спорт, здоров'я, літо"
 date: 2013-05-31
+author: 
+  username: "mobi"
+  display_name: "Марина Рубайло"
 categories: 
   - "kolonka-avtora"
 tags: 

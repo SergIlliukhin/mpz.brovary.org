@@ -1,6 +1,9 @@
 ---
 title: "День виборів у Броварах: онлайн-марафон, прямі включення, \"гаряча лінія\""
 date: 2014-05-24
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "arhiv"
   - "arhiv-marafonu"

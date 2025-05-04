@@ -1,6 +1,9 @@
 ---
 title: "Що хочуть зробити з парком \"Перемога\": оприлюднено план реконструкції"
 date: 2016-03-11
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

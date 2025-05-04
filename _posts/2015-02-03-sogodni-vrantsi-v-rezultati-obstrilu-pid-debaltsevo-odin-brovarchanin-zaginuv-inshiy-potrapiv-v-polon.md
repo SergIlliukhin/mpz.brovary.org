@@ -1,6 +1,9 @@
 ---
 title: "Сьогодні вранці в результаті обстрілу під Дебальцево загинув броварчанин"
 date: 2015-02-03
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "15-brigada"
   - "25-batalyon"

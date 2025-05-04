@@ -1,6 +1,9 @@
 ---
 title: "Андрій Саук: \"Я проголосував за себе\" – HromadskeBro.tv"
 date: 2015-10-25
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

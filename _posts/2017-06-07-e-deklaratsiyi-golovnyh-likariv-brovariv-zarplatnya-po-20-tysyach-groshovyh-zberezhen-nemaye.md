@@ -1,6 +1,9 @@
 ---
 title: "Е-декларації головних лікарів Броварів: зарплатня по 20 тисяч, грошових збережень немає"
 date: 2017-06-07
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "rozsliduvannya"
   - "vlada"

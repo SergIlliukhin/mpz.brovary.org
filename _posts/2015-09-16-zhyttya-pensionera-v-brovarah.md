@@ -1,6 +1,9 @@
 ---
 title: "Життя пенсіонера в Броварах"
 date: 2015-09-16
+author: 
+  username: "kupriy"
+  display_name: "Валерій Купрій"
 categories: 
   - "kolonka-avtora"
 tags: 

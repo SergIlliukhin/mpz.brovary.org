@@ -1,6 +1,9 @@
 ---
 title: "\"День Сусіда на Майдані Свободи\""
 date: 2015-05-28
+author: 
+  username: "simutin"
+  display_name: "Роман Сімутін"
 categories: 
   - "kolonka-avtora"
 ---

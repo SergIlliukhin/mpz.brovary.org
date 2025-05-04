@@ -1,6 +1,9 @@
 ---
 title: "Безплатно і сидячи чи навпаки – що робити мамі з двома «пільговими» дітьми в маршрутці?"
 date: 2015-03-27
+author: 
+  username: "cherednik"
+  display_name: "Юрій Чередник"
 categories: 
   - "kolonka-avtora"
 ---

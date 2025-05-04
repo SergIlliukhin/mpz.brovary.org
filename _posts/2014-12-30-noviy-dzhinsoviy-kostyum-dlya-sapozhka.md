@@ -1,6 +1,9 @@
 ---
 title: "Новий джинсовий костюм для Сапожка"
 date: 2014-12-30
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 categories: 
   - "kolonka-avtora"
 tags: 

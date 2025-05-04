@@ -1,6 +1,9 @@
 ---
 title: "Після розгону Євромайдану досі розшукують двох броварчанок"
 date: 2013-12-05
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "30-listopada"
   - "yevromaydan"

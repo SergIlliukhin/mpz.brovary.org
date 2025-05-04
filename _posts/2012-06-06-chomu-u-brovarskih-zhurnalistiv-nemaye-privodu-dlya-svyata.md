@@ -1,6 +1,9 @@
 ---
 title: "Чому у броварських журналістів немає приводу для свята"
 date: 2012-06-06
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 categories: 
   - "kolonka-avtora"
 tags: 

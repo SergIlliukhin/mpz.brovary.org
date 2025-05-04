@@ -1,6 +1,9 @@
 ---
 title: "8 березня охоронці «Мюзік Холу» «привітали» клієнтку подвійним переломом. ВІДЕО"
 date: 2013-03-14
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "rozsliduvannya"
   - "video"

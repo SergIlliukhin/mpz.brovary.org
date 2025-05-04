@@ -1,6 +1,9 @@
 ---
 title: "Газові лічильники для незахищених верств населення. У Броварах можуть прийняти соціальну програму"
 date: 2017-03-23
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

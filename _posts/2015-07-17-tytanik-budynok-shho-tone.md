@@ -1,6 +1,9 @@
 ---
 title: "Титанік. Будинок, що тоне. СЮЖЕТ"
 date: 2015-07-17
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

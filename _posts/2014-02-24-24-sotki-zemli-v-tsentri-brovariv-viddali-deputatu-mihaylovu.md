@@ -1,6 +1,9 @@
 ---
 title: "24 сотки землі в центрі Броварів віддали депутату Михайлову"
 date: 2014-02-24
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 categories: 
   - "rozsliduvannya"
 tags: 

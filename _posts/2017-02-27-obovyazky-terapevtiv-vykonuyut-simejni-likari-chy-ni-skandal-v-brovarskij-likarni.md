@@ -1,6 +1,9 @@
 ---
 title: "Обов'язки терапевтів виконують сімейні лікарі. Чи ні? Скандал в броварській лікарні"
 date: 2017-02-27
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

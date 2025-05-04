@@ -1,6 +1,9 @@
 ---
 title: "У Броварах планують поетапно зменшити кількість \"МАФів\" - протягом 3-10 років"
 date: 2015-06-30
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

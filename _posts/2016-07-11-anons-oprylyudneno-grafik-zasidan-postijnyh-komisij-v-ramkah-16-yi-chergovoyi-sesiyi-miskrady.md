@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: Оприлюднено графік засідань постійних комісій в рамках 16-ї чергової сесії міськради"
 date: 2016-07-11
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "vlada"

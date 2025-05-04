@@ -1,6 +1,9 @@
 ---
 title: "У Броварах та районі набирає обертів протест пільговиків"
 date: 2012-05-12
+author: 
+  username: "kravec"
+  display_name: "Юрій Кравець"
 categories: 
   - "kolonka-avtora"
 tags: 

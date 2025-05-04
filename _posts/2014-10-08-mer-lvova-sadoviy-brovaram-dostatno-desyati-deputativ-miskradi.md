@@ -1,6 +1,9 @@
 ---
 title: "Мер Львова Садовий: «Броварам достатньо десяти депутатів міськради»"
 date: 2014-10-08
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "agitatsiya"
   - "barishivka"

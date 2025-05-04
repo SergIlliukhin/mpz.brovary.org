@@ -1,6 +1,9 @@
 ---
 title: "Броварські поляки шукають приміщення для свого культурно-освітнього товариства"
 date: 2012-06-20
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "gurt"

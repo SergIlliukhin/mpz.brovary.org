@@ -1,6 +1,9 @@
 ---
 title: "Євгеній Клочок: \"З мого залу ще ніхто не повернувся до фітнес-центрів\" - ФОТО"
 date: 2017-04-28
+author: 
+  username: "onikienko"
+  display_name: "Вікторія Оникієнко"
 categories: 
   - "interview"
   - "hromada"

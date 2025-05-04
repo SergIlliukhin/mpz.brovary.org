@@ -1,6 +1,9 @@
 ---
 title: "Під Броварами знайшли унікальну шаблю доби Київської Русі"
 date: 2016-04-13
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "hromada"
   - "novyny"

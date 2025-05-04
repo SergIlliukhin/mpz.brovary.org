@@ -1,6 +1,9 @@
 ---
 title: "Роман Багмут незаконно будує багатоповерхівку в приватному секторі. Сусіди шоковані"
 date: 2015-11-11
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "rozsliduvannya"
   - "brovary"

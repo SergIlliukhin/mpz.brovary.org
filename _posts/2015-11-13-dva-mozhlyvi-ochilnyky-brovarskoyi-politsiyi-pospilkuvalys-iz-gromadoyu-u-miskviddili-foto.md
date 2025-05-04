@@ -1,6 +1,9 @@
 ---
 title: "Два можливі очільники броварської поліції поспілкувались із громадою у міськвідділі - ФОТО"
 date: 2015-11-13
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "vlada"
   - "novyny"

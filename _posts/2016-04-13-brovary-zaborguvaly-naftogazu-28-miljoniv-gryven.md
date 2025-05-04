@@ -1,6 +1,9 @@
 ---
 title: "Бровари заборгували \"Нафтогазу\" 28 мільйонів гривень"
 date: 2016-04-13
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

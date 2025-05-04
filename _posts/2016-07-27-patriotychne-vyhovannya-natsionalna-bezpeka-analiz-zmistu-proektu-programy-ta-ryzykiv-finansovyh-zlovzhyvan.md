@@ -1,6 +1,9 @@
 ---
 title: "Патріотичне виховання і національна безпека: аналіз змісту проекту Програми та ризиків фінансових зловживань"
 date: 2016-07-27
+author: 
+  username: "Scientific_view"
+  display_name: "Ольга Романенко"
 categories: 
   - "kolonka-avtora"
 ---

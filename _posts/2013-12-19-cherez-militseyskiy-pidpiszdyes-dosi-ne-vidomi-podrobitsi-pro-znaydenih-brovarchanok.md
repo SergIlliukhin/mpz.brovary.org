@@ -1,6 +1,9 @@
 ---
 title: "Через міліцейський «підписздєсь» досі не відомі подробиці історії про знайдених броварчанок"
 date: 2013-12-19
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 categories: 
   - "kolonka-avtora"
 tags: 

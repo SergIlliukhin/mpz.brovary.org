@@ -1,6 +1,9 @@
 ---
 title: "Бюджетна комісія не підтримує реорганізацію БЦРЛ та виділення коштів ГО"
 date: 2017-08-09
+author: 
+  username: "mizina"
+  display_name: "Дарина Мізіна"
 categories: 
   - "vlada"
   - "aktsiyi-zahodi"

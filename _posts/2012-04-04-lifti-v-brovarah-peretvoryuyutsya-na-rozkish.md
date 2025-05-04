@@ -1,6 +1,9 @@
 ---
 title: "Ліфти в Броварах перетворюються на розкіш. ВІДЕО"
 date: 2012-04-04
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 categories: 
   - "kolonka-avtora"
 tags: 

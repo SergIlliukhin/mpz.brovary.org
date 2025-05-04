@@ -1,6 +1,9 @@
 ---
 title: "Театр у Броварах: у міськраді представили передпроектні пропозиції"
 date: 2017-08-11
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

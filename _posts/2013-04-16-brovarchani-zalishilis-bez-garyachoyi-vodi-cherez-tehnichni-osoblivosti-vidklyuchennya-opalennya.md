@@ -1,6 +1,9 @@
 ---
 title: "Броварчани залишились без гарячої води через \"технічні особливості\" відключення опалення"
 date: 2013-04-16
+author: 
+  username: "serzhov"
+  display_name: "Сергій Севрук"
 tags: 
   - "brovary"
   - "vidklyuchennya"

@@ -1,6 +1,9 @@
 ---
 title: "На броварському стадіоні знайшли тіло 35-річної жінки: нещасний випадок чи вбивство?"
 date: 2016-01-14
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Броварські чиновники ігнорують рішення міськради про перейменування вулиць"
 date: 2016-02-04
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

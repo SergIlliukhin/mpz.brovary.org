@@ -1,6 +1,9 @@
 ---
 title: "Броварських «сердечників» продовжать оглядати кардіологи Інституту Серця"
 date: 2016-04-11
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

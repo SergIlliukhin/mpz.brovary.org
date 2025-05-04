@@ -1,6 +1,9 @@
 ---
 title: "Як уникнути провокацій в Броварах 9-го травня?"
 date: 2014-05-07
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

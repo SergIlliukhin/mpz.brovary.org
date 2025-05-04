@@ -1,6 +1,9 @@
 ---
 title: "Міській громаді кинуто виклик. Дамо бій чи стерпимо?"
 date: 2014-08-16
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 ---

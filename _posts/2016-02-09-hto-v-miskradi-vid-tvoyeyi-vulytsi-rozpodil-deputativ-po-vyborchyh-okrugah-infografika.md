@@ -1,6 +1,9 @@
 ---
 title: "Хто в міськраді від твоєї вулиці? Розподіл депутатів по виборчих округах. ІНФОГРАФІКА"
 date: 2016-02-09
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "rozsliduvannya"
   - "vlada"

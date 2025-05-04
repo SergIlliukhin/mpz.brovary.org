@@ -1,6 +1,9 @@
 ---
 title: "Проти ошуканих покупців «квартир» у приватному будинку на Каширіна подано зустрічний позов"
 date: 2012-07-24
+author: 
+  username: "serzhov"
+  display_name: "Сергій Севрук"
 tags: 
   - "igor-serpokrilov"
   - "afera"

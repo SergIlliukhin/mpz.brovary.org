@@ -1,6 +1,9 @@
 ---
 title: "«Споживач має право»: чи повинен покупець платити за розбитий товар у супермаркеті?"
 date: 2012-07-04
+author: 
+  username: "serzhov"
+  display_name: "Сергій Севрук"
 categories: 
   - "kolonka-avtora"
 tags: 

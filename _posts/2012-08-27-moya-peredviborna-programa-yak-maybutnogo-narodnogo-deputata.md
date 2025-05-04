@@ -1,6 +1,9 @@
 ---
 title: "Моя передвиборна програма як майбутнього народного депутата"
 date: 2012-08-27
+author: 
+  username: "nemchina"
+  display_name: "Тетяна Немчина"
 categories: 
   - "kolonka-avtora"
 tags: 

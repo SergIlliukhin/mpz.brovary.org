@@ -1,6 +1,9 @@
 ---
 title: "Антиалкогольний рейд у Броварах завершився облавою на гральні автомати в «Монте Карло»"
 date: 2015-07-21
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

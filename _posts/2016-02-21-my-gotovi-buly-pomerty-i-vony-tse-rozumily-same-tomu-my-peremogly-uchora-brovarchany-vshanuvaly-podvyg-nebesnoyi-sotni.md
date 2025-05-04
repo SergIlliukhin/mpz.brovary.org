@@ -1,6 +1,9 @@
 ---
 title: "«Ми готові були померти і вони це розуміли. Саме тому ми перемогли». Учора броварчани вшанували подвиг Небесної сотні"
 date: 2016-02-21
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

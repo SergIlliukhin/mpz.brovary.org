@@ -1,6 +1,9 @@
 ---
 title: "Діагноз – не завада повноцінному життю: у Броварах для особливих дітей відкрили особливу школу «Мозаїка»"
 date: 2015-09-04
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

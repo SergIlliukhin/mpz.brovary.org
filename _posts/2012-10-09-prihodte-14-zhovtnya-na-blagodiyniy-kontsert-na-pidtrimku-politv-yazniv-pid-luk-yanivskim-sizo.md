@@ -1,6 +1,9 @@
 ---
 title: "Приходьте 14 жовтня на благодійний концерт на підтримку політв'язнів під Лук'янівським СІЗО"
 date: 2012-10-09
+author: 
+  username: "kohanivsky"
+  display_name: "Микола Коханівський"
 categories: 
   - "announce"
   - "kolonka-avtora"

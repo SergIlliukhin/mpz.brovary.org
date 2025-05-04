@@ -1,6 +1,9 @@
 ---
 title: "У Броварах затримано оголошену в розшук чиновницю Пенсійного фонду за розтрату 2 млн грн"
 date: 2017-04-21
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

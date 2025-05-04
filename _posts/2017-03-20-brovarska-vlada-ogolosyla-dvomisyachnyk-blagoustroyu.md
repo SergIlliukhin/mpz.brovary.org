@@ -1,6 +1,9 @@
 ---
 title: "Броварська влада оголосила двомісячник благоустрою"
 date: 2017-03-20
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

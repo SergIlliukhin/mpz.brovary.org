@@ -1,6 +1,9 @@
 ---
 title: "На вул. Княгині Ольги протестують проти можливого будівництва – ФОТО"
 date: 2016-11-15
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

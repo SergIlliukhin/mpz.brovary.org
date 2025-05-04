@@ -1,6 +1,9 @@
 ---
 title: "Бровари – в числі 0,5% України, де досі не увімкнули опалення"
 date: 2013-10-14
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "vibir-redaktsiyi"
   - "komunalna-reforma"

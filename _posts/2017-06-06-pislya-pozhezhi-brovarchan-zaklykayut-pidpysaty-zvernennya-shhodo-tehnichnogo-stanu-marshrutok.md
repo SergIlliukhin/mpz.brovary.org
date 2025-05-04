@@ -1,6 +1,9 @@
 ---
 title: "Після пожежі: броварчан закликають підписати звернення щодо технічного стану маршруток"
 date: 2017-06-06
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "hromada"
   - "novyny"

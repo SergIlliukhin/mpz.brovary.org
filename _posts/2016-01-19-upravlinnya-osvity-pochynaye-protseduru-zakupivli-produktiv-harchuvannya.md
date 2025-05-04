@@ -1,6 +1,9 @@
 ---
 title: "Управління освіти починає процедуру закупівлі продуктів харчування"
 date: 2016-01-19
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

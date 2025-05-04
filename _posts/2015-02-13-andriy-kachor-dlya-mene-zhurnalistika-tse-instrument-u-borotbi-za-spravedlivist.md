@@ -1,6 +1,9 @@
 ---
 title: "Андрій Качор: \"Для мене журналістика – це інструмент у боротьбі за справедливість\""
 date: 2015-02-13
+author: 
+  username: "pecheritsia"
+  display_name: "Анастасія Печериця"
 categories: 
   - "interview"
 tags: 

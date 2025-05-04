@@ -1,6 +1,9 @@
 ---
 title: "Новий лідер \"ДемАльянсу\" в Броварах Аліна Дяченко пріоритетом для осередку вважає розвиток міста"
 date: 2014-06-18
+author: 
+  username: "demalliance"
+  display_name: "ДемАльянс Бровари"
 categories: 
   - "kolonka-avtora"
 tags: 

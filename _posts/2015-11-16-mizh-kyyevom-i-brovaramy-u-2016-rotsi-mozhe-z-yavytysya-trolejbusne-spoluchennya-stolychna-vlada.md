@@ -1,6 +1,9 @@
 ---
 title: "Між Києвом і Броварами у 2016 році може з'явитися тролейбусне сполучення - столична влада"
 date: 2015-11-16
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

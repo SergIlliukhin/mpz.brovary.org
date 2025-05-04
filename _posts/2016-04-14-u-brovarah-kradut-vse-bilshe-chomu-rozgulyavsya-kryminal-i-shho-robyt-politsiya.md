@@ -1,6 +1,9 @@
 ---
 title: "У Броварах крадуть все більше. Чому \"розгулявся\" кримінал і що робить поліція?"
 date: 2016-04-14
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "brovary"
   - "novyny"

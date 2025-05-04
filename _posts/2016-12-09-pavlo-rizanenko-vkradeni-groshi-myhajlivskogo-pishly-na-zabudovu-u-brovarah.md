@@ -1,6 +1,9 @@
 ---
 title: "Павло Різаненко: \"Вкрадені гроші \"Михайлівського\" пішли на забудову у Броварах\""
 date: 2016-12-09
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

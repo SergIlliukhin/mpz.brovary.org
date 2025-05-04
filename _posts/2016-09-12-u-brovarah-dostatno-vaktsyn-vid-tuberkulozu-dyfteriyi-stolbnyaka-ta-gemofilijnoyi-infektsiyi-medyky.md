@@ -1,6 +1,9 @@
 ---
 title: "У Броварах достатньо вакцин від туберкульозу, дифтерії, столбняка та гемофільної інфекції, - медики"
 date: 2016-09-12
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

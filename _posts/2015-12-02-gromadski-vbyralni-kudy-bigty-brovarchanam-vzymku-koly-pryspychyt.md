@@ -1,6 +1,9 @@
 ---
 title: "Громадські вбиральні: куди бігти броварчанам взимку, коли «приспичить»?"
 date: 2015-12-02
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

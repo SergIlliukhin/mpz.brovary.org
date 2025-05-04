@@ -1,6 +1,9 @@
 ---
 title: "«Бюджетні слухання»: чи будуть ухвалювати головний кошторис Броварів «наосліп»?"
 date: 2015-12-15
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "vlada"
   - "novyny"

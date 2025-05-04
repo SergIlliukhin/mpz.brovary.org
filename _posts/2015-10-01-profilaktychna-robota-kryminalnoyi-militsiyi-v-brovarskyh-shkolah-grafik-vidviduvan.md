@@ -1,6 +1,9 @@
 ---
 title: "Профілактична робота кримінальної міліції в броварських школах - графік відвідувань"
 date: 2015-10-01
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

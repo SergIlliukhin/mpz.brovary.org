@@ -1,6 +1,9 @@
 ---
 title: "Що спричинило надмір диму на вулицях Броварів: версії мешканців та офіційні коментарі"
 date: 2014-12-05
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "rozsliduvannya"
 tags: 

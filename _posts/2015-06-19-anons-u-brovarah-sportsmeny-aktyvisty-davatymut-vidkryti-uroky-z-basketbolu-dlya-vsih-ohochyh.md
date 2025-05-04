@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: У Броварах спортсмени-активісти даватимуть відкриті уроки з баскетболу для всіх охочих"
 date: 2015-06-19
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

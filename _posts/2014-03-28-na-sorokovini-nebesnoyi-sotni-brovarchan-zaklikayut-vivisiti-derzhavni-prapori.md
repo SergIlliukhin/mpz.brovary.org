@@ -1,6 +1,9 @@
 ---
 title: "На сороковини Небесної Сотні броварчан закликають вивісити державні прапори"
 date: 2014-03-28
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

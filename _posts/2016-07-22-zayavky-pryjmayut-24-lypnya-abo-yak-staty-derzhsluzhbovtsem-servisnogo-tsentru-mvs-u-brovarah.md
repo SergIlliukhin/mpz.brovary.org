@@ -1,6 +1,9 @@
 ---
 title: "Заявки приймають до 24 липня, або Як стати держслужбовцем сервісного центру МВС у Броварах"
 date: 2016-07-22
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

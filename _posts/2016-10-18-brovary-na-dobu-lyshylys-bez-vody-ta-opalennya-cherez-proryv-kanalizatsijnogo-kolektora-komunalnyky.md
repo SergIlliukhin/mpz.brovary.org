@@ -1,6 +1,9 @@
 ---
 title: "Бровари на добу лишились без води та опалення через прорив каналізаційного колектора – ФОТО"
 date: 2016-10-18
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

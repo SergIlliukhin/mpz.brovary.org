@@ -1,6 +1,9 @@
 ---
 title: "Поліція ловила п'яних водіїв на Броварщині, а піймала автівку «КомКон» - ВІДЕО"
 date: 2016-10-19
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 6 серпня у Броварах пройде акція на підтримку грудного вигодовування"
 date: 2016-08-02
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

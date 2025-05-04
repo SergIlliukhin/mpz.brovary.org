@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 29 листопада ТРЦ \"Термінал\" у Броварах святкуватиме свое 10-річчя"
 date: 2015-11-27
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

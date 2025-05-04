@@ -1,6 +1,9 @@
 ---
 title: "Броварським хлопцям, які зараз на перепідготовців у Білій Церкві, потрібна допомога"
 date: 2014-03-23
+author: 
+  username: "samooborona"
+  display_name: "Броварська Самооборона"
 categories: 
   - "kolonka-avtora"
 ---

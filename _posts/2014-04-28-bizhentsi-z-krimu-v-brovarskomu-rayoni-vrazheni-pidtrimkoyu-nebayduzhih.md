@@ -1,6 +1,9 @@
 ---
 title: "Біженці з Криму в Броварському районі вражені підтримкою небайдужих"
 date: 2014-04-28
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "bizhentsi-z-krimu"
   - "brovarskiy-rayon"

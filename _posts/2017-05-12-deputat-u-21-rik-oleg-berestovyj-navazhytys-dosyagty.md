@@ -1,6 +1,9 @@
 ---
 title: "Депутат у 21 рік. Олег Берестовий: \"Наважитись і досягти\""
 date: 2017-05-12
+author: 
+  username: "mizina"
+  display_name: "Дарина Мізіна"
 categories: 
   - "interview"
   - "hromada"

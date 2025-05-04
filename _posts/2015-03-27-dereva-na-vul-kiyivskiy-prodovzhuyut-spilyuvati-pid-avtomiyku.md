@@ -1,6 +1,9 @@
 ---
 title: "Дерева на вул. Київській продовжують спилювати. Під автомийку?"
 date: 2015-03-27
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "brovary"
   - "novyny"

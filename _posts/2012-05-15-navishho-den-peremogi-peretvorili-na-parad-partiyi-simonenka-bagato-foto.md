@@ -1,6 +1,9 @@
 ---
 title: "Навіщо День перемоги перетворили на парад партії Симоненка? БАГАТО ФОТО"
 date: 2012-05-15
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

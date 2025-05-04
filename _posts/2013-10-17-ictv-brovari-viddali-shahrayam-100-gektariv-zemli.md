@@ -1,6 +1,9 @@
 ---
 title: "ICTV: Бровари віддали шахраям 100 гектарів землі"
 date: 2013-10-17
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

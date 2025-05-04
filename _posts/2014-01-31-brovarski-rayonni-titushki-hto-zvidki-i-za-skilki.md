@@ -1,6 +1,9 @@
 ---
 title: "Броварські «тітушки з району»: хто, звідки і за скільки?"
 date: 2014-01-31
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "rozsliduvannya"
 tags: 

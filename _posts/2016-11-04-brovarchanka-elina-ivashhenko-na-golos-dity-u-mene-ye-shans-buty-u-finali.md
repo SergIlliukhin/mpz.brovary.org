@@ -1,6 +1,9 @@
 ---
 title: "Броварчанка Еліна Іващенко на «Голос. Діти»: «У мене є шанс бути у фіналі»"
 date: 2016-11-04
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "interview"
   - "brovary"

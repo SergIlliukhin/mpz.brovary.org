@@ -1,6 +1,9 @@
 ---
 title: "Державна архітектурно-будівельна інспекція чи Приватний архітектурно-гібридний рекет?"
 date: 2016-08-10
+author: 
+  username: "ostapkovych"
+  display_name: "Олександр Остапкович"
 categories: 
   - "kolonka-avtora"
 ---

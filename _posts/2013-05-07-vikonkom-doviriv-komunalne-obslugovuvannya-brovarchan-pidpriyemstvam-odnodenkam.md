@@ -1,6 +1,9 @@
 ---
 title: "Виконком довірив обслуговування ліфтів та смітників броварчан підприємствам-\"одноденкам\""
 date: 2013-05-07
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 categories: 
   - "rozsliduvannya"
 tags: 

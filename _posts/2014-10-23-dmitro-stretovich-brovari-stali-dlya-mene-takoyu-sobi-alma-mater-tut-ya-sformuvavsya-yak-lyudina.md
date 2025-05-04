@@ -1,6 +1,9 @@
 ---
 title: "Дмитро Стретович: «Бровари стали для мене такою собі альма-матер, тут я сформувався як людина»"
 date: 2014-10-23
+author: 
+  username: "pecheritsia"
+  display_name: "Анастасія Печериця"
 categories: 
   - "interview"
 tags: 

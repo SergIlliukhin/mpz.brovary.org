@@ -1,6 +1,9 @@
 ---
 title: "Капітан Шуб. Історія люстрованого даішника - HromadskeBro.tv"
 date: 2015-06-30
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

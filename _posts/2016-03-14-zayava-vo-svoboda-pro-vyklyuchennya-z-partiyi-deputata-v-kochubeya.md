@@ -1,6 +1,9 @@
 ---
 title: "Заява ВО \"Свобода\" про виключення з партії депутата В. Кочубея"
 date: 2016-03-14
+author: 
+  username: "svoboda"
+  display_name: "Прес-служба ВО Свобода"
 categories: 
   - "kolonka-avtora"
 ---

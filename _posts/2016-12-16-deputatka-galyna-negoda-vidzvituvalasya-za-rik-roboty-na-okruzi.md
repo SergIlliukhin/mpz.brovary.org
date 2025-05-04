@@ -1,6 +1,9 @@
 ---
 title: "Депутатка Галина Негода відзвітувалася за рік роботи на окрузі"
 date: 2016-12-16
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "hromada"
   - "novyny"

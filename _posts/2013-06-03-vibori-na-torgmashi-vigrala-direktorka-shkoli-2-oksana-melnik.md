@@ -1,6 +1,9 @@
 ---
 title: "Вибори на Торгмаші виграла директорка школи № 2 Оксана Мельник"
 date: 2013-06-03
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 tags: 
   - "vibir-redaktsiyi"
   - "kandidati"

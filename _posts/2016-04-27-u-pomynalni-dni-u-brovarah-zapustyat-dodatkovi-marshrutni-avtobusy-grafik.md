@@ -1,6 +1,9 @@
 ---
 title: "У поминальні дні у Броварах запустять додаткові маршрутні автобуси - ГРАФІК"
 date: 2016-04-27
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

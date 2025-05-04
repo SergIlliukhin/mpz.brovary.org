@@ -1,6 +1,9 @@
 ---
 title: "38-ма сесія Броварської міської ради – ВІДЕО"
 date: 2013-10-08
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

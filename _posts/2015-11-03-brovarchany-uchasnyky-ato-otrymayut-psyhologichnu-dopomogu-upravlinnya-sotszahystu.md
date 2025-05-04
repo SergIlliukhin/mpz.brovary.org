@@ -1,6 +1,9 @@
 ---
 title: "Броварчани-учасники АТО отримають психологічну допомогу - управління соцзахисту"
 date: 2015-11-03
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Броварчани не скаржаться на тютюнокуріння в місті. Міська влада вважає, що це результат їхніх дій"
 date: 2016-10-26
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

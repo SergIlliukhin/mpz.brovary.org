@@ -1,6 +1,9 @@
 ---
 title: "Ігор Сапожко \"самовисунувся\" на посаду мера Броварів. Рішення про реєстрацію кандидата ще немає"
 date: 2015-09-28
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Будували, та не вибудували: чому висотку на Черняховського, 21Б зводять 9 років?"
 date: 2015-02-12
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

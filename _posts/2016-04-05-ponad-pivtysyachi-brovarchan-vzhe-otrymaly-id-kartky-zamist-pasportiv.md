@@ -1,6 +1,9 @@
 ---
 title: "Понад півтисячі броварчан вже отримали ID-картки замість паспортів"
 date: 2016-04-05
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "На знімальну групу «Маєш право знати» здійснено напад"
 date: 2012-04-11
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

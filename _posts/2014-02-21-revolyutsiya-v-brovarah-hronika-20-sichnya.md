@@ -1,6 +1,9 @@
 ---
 title: "Революція в Броварах: хроніка 20 лютого"
 date: 2014-02-21
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "barikada"
   - "brovary"

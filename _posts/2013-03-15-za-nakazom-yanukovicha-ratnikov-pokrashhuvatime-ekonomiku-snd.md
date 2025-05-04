@@ -1,6 +1,9 @@
 ---
 title: "За наказом Януковича Ратніков покращуватиме економіку СНД"
 date: 2013-03-15
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "yevropeyska-partiya"
   - "vibir-redaktsiyi"

@@ -1,6 +1,9 @@
 ---
 title: "Акцію «Збери макулатуру — врятуй життя солдату» продовжено ще на тиждень"
 date: 2015-05-22
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

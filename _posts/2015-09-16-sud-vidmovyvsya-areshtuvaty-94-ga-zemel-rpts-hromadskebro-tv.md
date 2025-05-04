@@ -1,6 +1,9 @@
 ---
 title: "Суд відмовився арештувати 94 га земель РПЦ - HromadskeBro.tv"
 date: 2015-09-16
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

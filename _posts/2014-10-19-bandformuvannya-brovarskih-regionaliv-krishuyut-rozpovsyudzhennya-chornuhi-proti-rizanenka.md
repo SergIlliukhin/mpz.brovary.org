@@ -1,6 +1,9 @@
 ---
 title: "Бандформування броварських регіоналів «кришують» розповсюдження «чорнухи» проти Різаненка"
 date: 2014-10-19
+author: 
+  username: "plaksya"
+  display_name: "Юрій Плакся"
 categories: 
   - "kolonka-avtora"
 ---

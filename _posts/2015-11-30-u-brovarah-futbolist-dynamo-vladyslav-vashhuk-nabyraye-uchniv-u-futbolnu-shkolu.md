@@ -1,6 +1,9 @@
 ---
 title: "У Броварах футболіст «Динамо» Владислав Ващук  набирає  учнів у футбольну школу"
 date: 2015-11-30
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

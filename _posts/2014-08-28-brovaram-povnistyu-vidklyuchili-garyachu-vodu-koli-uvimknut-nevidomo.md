@@ -1,6 +1,9 @@
 ---
 title: "Броварам повністю відключили гарячу воду. Коли увімкнуть – невідомо"
 date: 2014-08-28
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "brovariteplovodenergiya"
   - "vibir-redaktsiyi"

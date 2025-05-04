@@ -1,6 +1,9 @@
 ---
 title: "Завтра у парку броварчан вчитимуть в'язати вузли, ходити по канату та запускатимуть \"небесні ліхтарики\""
 date: 2014-09-19
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

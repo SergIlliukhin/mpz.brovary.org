@@ -1,6 +1,9 @@
 ---
 title: "Я знаю що буде ПІСЛЯ!"
 date: 2013-04-05
+author: 
+  username: "kohanivsky"
+  display_name: "Микола Коханівський"
 categories: 
   - "kolonka-avtora"
 tags: 

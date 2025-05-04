@@ -1,6 +1,9 @@
 ---
 title: "Громадська рада при управлінні освіти Броварів визначила «найгарячіші» напрямки роботи"
 date: 2015-05-29
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

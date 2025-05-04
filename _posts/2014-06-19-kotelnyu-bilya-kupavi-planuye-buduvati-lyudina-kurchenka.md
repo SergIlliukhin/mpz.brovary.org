@@ -1,6 +1,9 @@
 ---
 title: "Котельню біля «Купави» планує будувати людина Курченка?"
 date: 2014-06-19
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "vetek"
   - "vibir-redaktsiyi"

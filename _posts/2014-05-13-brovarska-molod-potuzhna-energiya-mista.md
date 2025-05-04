@@ -1,6 +1,9 @@
 ---
 title: "Броварська молодь – потужна енергія міста"
 date: 2014-05-13
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Brovary Challenge 2014: учениці з Броварів та Великої Димерки пакують валізи на Лондон"
 date: 2014-10-13
+author: 
+  username: "livoberezhna"
+  display_name: "Лівобережна Київщина"
 categories: 
   - "kolonka-avtora"
 tags: 

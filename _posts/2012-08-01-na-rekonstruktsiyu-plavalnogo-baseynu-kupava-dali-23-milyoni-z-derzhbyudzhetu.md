@@ -1,6 +1,9 @@
 ---
 title: "На реконструкцію плавального басейну «Купава» дали 23 мільйони з держбюджету"
 date: 2012-08-01
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "basejny"
   - "brovary"

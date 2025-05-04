@@ -1,6 +1,9 @@
 ---
 title: "Майже 80 млн грн - цьогорічний бюджет програми капремонтів та благоустрою міста"
 date: 2017-03-15
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "rozsliduvannya"
   - "vlada"

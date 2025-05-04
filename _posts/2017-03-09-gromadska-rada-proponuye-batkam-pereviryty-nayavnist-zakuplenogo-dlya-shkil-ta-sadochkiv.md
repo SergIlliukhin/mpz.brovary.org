@@ -1,6 +1,9 @@
 ---
 title: "Громадська рада пропонує батькам перевірити наявність закупленого для шкіл та садочків"
 date: 2017-03-09
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "hromada"
   - "novyny"

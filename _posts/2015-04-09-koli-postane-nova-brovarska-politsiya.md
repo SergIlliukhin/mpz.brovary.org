@@ -1,6 +1,9 @@
 ---
 title: "Коли постане нова броварська поліція?"
 date: 2015-04-09
+author: 
+  username: "gromradapolice"
+  display_name: "Громадська рада при міліції"
 categories: 
   - "kolonka-avtora"
 tags: 

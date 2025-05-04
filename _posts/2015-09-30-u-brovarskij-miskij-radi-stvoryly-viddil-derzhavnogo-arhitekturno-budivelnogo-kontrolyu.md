@@ -1,6 +1,9 @@
 ---
 title: "У Броварській міській раді створили відділ державного архітектурно-будівельного контролю"
 date: 2015-09-30
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

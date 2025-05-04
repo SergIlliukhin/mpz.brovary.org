@@ -1,6 +1,9 @@
 ---
 title: "Розбійний напад на автозаправку у Броварах"
 date: 2016-10-23
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

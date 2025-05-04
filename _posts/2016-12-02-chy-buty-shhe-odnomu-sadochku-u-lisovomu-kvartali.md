@@ -1,6 +1,9 @@
 ---
 title: "ЧИ БУТИ ЩЕ ОДНОМУ САДОЧКУ У ЛІСОВОМУ КВАРТАЛІ ?"
 date: 2016-12-02
+author: 
+  username: "nikitchina"
+  display_name: "Ірина Нікітчина"
 categories: 
   - "kolonka-avtora"
 tags: 

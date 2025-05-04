@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: Завтра маленьких броварчан запрошують прикрасити Новорічну ялинку, - \"Самопоміч\""
 date: 2016-12-26
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

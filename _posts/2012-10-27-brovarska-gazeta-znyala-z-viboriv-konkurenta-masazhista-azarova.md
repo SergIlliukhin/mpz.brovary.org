@@ -1,6 +1,9 @@
 ---
 title: "УП: Броварська газета \"зняла\" з виборів конкурента масажиста Азарова"
 date: 2012-10-27
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"
   - "vibori-2012"

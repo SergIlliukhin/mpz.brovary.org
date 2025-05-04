@@ -1,6 +1,9 @@
 ---
 title: "«Куплю голос. Не дорого»: роздуми на тему підкупу виборців"
 date: 2012-09-20
+author: 
+  username: "serzhov"
+  display_name: "Сергій Севрук"
 categories: 
   - "kolonka-avtora"
 tags: 

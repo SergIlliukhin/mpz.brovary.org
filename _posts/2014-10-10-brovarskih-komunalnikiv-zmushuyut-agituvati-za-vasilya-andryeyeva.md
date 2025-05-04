@@ -1,6 +1,9 @@
 ---
 title: "Броварських комунальників змушують агітувати за Василя Андрєєва?"
 date: 2014-10-10
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 categories: 
   - "kolonka-avtora"
 tags: 

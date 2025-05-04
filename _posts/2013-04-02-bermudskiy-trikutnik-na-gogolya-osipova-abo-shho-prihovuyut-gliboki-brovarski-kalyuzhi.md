@@ -1,6 +1,9 @@
 ---
 title: "\"Бермудський трикутник\" на Гоголя-Осипова, або що приховують броварські калюжі?"
 date: 2013-04-02
+author: 
+  username: "cherednik"
+  display_name: "Юрій Чередник"
 categories: 
   - "kolonka-avtora"
 tags: 

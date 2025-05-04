@@ -1,6 +1,9 @@
 ---
 title: "Депутати вважають, що ніхто з броварчан не вартий звання «Почесний громадянин»?"
 date: 2013-10-29
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "brovary"
   - "brovarska-miska-rada"

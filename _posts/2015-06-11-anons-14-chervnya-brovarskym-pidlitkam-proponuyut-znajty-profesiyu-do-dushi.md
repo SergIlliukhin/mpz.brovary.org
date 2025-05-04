@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 14 червня броварським підліткам пропонують знайти \"Професію до душі\""
 date: 2015-06-11
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

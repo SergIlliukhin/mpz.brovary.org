@@ -1,6 +1,9 @@
 ---
 title: "Архів інтернет-марафону \"Парламентські вибори-2014 у Броварах: День онлайн\""
 date: 2014-10-29
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "arhiv"
   - "arhiv-marafonu"

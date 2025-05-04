@@ -1,6 +1,9 @@
 ---
 title: "Зелені красуні-сосни на Симоненка все ж спиляли - ФОТО, ВІДЕО"
 date: 2017-02-16
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

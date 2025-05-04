@@ -1,6 +1,9 @@
 ---
 title: "За два дні в броварському військкоматі записали понад сотню добровольців"
 date: 2014-03-03
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "brovary"
   - "viyskkomat"

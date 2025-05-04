@@ -1,6 +1,9 @@
 ---
 title: "Міський осередок ВО \"Свобода\" у Броварах саморозпустився. У партії цю подію не коментують"
 date: 2013-11-20
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "bazyshyn"
   - "brovary"

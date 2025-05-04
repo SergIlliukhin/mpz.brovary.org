@@ -1,6 +1,9 @@
 ---
 title: "Е-декларація Ігоря Сапожка за 2016 рік: без джипу, але з новою земельною ділянкою"
 date: 2017-04-18
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "rozsliduvannya"
   - "vlada"

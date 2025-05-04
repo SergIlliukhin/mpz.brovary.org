@@ -1,6 +1,9 @@
 ---
 title: "У Броварах власники бордів відмовляються розміщувати рекламу з символікою Блоку Порошенка"
 date: 2015-08-03
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

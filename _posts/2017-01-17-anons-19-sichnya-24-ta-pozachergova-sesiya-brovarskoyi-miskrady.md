@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 19 січня - 24-та позачергова сесія Броварської міськради"
 date: 2017-01-17
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

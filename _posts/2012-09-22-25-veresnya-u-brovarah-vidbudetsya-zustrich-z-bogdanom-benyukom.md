@@ -1,6 +1,9 @@
 ---
 title: "25 вересня у Броварах відбудеться зустріч з Богданом Бенюком"
 date: 2012-09-22
+author: 
+  username: "svoboda"
+  display_name: "Прес-служба ВО Свобода"
 categories: 
   - "announce"
   - "kolonka-avtora"

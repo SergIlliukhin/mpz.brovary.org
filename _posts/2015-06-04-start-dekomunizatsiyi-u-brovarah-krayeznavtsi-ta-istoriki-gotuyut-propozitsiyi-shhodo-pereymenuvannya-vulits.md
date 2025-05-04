@@ -1,6 +1,9 @@
 ---
 title: "Старт декомунізації у Броварах: краєзнавці та історики готують пропозиції щодо перейменування вулиць"
 date: 2015-06-04
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

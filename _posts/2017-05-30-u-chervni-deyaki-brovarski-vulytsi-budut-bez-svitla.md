@@ -1,6 +1,9 @@
 ---
 title: "У червні деякі броварські вулиці будуть без світла"
 date: 2017-05-30
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

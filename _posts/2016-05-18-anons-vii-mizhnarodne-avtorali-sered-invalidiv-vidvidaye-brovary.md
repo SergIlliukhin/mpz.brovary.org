@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: VII Міжнародне авторалі серед інвалідів відвідає Бровари"
 date: 2016-05-18
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

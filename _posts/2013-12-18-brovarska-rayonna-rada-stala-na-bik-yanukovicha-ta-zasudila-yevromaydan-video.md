@@ -1,6 +1,9 @@
 ---
 title: "Броварська районна рада стала на бік Януковича та засудила Євромайдан - ВІДЕО"
 date: 2013-12-18
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "ivanenko"
   - "brovarska-rayonna-rada"

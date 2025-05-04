@@ -1,6 +1,9 @@
 ---
 title: "Оперативні дані поліції Броварів: крадіжки майна за останній тиждень збільшилися в 4 рази"
 date: 2017-03-13
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

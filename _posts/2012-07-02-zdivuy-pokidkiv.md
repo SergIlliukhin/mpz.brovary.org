@@ -1,6 +1,9 @@
 ---
 title: "Здивуй покидьків!"
 date: 2012-07-02
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 ---

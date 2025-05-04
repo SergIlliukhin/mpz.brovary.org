@@ -1,6 +1,9 @@
 ---
 title: "HromadskeBro.tv збирає відеодокази незадовільної роботи броварських маршрутчиків"
 date: 2015-07-27
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

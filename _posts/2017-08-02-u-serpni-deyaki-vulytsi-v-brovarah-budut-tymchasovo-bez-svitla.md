@@ -1,6 +1,9 @@
 ---
 title: "У серпні деякі вулиці в Броварах будуть тимчасово без світла"
 date: 2017-08-02
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

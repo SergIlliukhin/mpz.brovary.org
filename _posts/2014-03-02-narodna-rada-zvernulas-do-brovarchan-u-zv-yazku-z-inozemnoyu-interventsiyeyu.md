@@ -1,6 +1,9 @@
 ---
 title: "Народна Рада звернулась до броварчан у зв’язку з агресією Російської Федерації. ФОТО. ВІДЕО"
 date: 2014-03-02
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 categories: 
   - "video"
 tags: 

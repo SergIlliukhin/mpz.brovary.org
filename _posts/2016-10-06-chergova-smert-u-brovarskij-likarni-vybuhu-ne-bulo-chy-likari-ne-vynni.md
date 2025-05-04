@@ -1,6 +1,9 @@
 ---
 title: "Чергова смерть у броварській лікарні: \"вибуху не було\" чи \"лікарі не винні\"?"
 date: 2016-10-06
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

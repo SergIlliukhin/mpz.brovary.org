@@ -1,6 +1,9 @@
 ---
 title: "Хто та за які кошти розмалював фасад \"Прометею\" - офіційна відповідь броварської влади"
 date: 2015-11-04
+author: 
+  username: "onikienko"
+  display_name: "Вікторія Оникієнко"
 categories: 
   - "brovary"
   - "novyny"

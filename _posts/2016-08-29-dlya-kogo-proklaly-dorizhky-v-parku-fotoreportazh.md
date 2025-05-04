@@ -1,6 +1,9 @@
 ---
 title: "Для кого проклали доріжки в парку? - ФОТОРЕПОРТАЖ"
 date: 2016-08-29
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

@@ -1,6 +1,9 @@
 ---
 title: "28-ма сесія: комп'ютери для БЦРЛ, новий ЦНАП, лічильники газу, 33 млн на ремонти"
 date: 2017-05-15
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "vlada"
   - "aktsiyi-zahodi"

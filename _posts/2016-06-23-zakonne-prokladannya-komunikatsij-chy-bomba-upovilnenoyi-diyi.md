@@ -1,6 +1,9 @@
 ---
 title: "Законне прокладання комунікацій чи бомба уповільненої дії?"
 date: 2016-06-23
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "brovary"
   - "novyny"

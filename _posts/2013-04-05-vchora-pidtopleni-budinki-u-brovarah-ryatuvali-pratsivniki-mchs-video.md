@@ -1,6 +1,9 @@
 ---
 title: "Вчора підтоплені будинки у Броварах рятували працівники МНС - ВІДЕО"
 date: 2013-04-05
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

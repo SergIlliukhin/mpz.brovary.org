@@ -1,6 +1,9 @@
 ---
 title: "Відкриття Пластового року cтаниці Бровари - ФОТО"
 date: 2016-09-20
+author: 
+  username: "jacyv"
+  display_name: "Світлана Яцив"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

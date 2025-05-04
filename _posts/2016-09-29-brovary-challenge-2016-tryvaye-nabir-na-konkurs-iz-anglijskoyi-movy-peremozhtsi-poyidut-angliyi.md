@@ -1,6 +1,9 @@
 ---
 title: "«Brovary Challenge 2016»: триває набір на конкурс із англійської мови – переможці поїдуть до Англії"
 date: 2016-09-29
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

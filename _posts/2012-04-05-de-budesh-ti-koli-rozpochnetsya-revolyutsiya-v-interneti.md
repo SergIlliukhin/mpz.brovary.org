@@ -1,6 +1,9 @@
 ---
 title: "Де будеш ти, коли розпочнеться революція в Інтернеті?"
 date: 2012-04-05
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

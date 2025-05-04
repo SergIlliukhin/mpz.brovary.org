@@ -1,6 +1,9 @@
 ---
 title: "До кінця лютого у Броварах мають ліквідувати Центр дитячо-юнацьких клубів"
 date: 2013-02-19
+author: 
+  username: "serzhov"
+  display_name: "Сергій Севрук"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

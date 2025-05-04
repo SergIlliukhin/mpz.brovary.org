@@ -1,6 +1,9 @@
 ---
 title: "Броварські волонтери проведуть аерофлешмоб на підтримку армії «Дякуємо героям!»"
 date: 2014-09-18
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

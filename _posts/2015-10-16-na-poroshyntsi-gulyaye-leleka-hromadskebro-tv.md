@@ -1,6 +1,9 @@
 ---
 title: "На \"Порошинці\" гуляє лелека – HromadskeBro.tv"
 date: 2015-10-16
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

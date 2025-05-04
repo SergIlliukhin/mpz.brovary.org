@@ -1,6 +1,9 @@
 ---
 title: "Броварська влада намагається заборонити проведення мирного протесту броварчан та жителів району"
 date: 2012-05-28
+author: 
+  username: "kravec"
+  display_name: "Юрій Кравець"
 categories: 
   - "kolonka-avtora"
 tags: 

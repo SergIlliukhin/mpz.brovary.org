@@ -1,6 +1,9 @@
 ---
 title: "Броварчани не хочуть призначення «завезеного» начальника міліції, бо мають свого кандидата"
 date: 2014-08-07
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 categories: 
   - "video"
 tags: 

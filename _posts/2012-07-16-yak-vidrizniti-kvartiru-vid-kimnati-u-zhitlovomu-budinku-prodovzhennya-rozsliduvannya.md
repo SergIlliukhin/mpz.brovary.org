@@ -1,6 +1,9 @@
 ---
 title: "Як відрізнити квартиру від «кімнати» у житловому будинку: продовження розслідування"
 date: 2012-07-16
+author: 
+  username: "serzhov"
+  display_name: "Сергій Севрук"
 categories: 
   - "rozsliduvannya"
 tags: 

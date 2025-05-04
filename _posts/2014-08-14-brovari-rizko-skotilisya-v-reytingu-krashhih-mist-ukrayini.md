@@ -1,6 +1,9 @@
 ---
 title: "Бровари різко скотилися в рейтингу міст України"
 date: 2014-08-14
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "vibir-redaktsiyi"
   - "krashhi-mista-ukrayini"

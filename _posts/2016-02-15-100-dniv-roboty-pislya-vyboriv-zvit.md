@@ -1,6 +1,9 @@
 ---
 title: "100 днів роботи після виборів (звіт)"
 date: 2016-02-15
+author: 
+  username: "samopomich"
+  display_name: "Самопоміч"
 categories: 
   - "kolonka-avtora"
 tags: 

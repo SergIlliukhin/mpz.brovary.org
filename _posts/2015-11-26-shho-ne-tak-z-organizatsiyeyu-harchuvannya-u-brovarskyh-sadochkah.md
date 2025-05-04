@@ -1,6 +1,9 @@
 ---
 title: "Що не так з організацією харчування у броварських садочках?"
 date: 2015-11-26
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "rozsliduvannya"
   - "brovary"

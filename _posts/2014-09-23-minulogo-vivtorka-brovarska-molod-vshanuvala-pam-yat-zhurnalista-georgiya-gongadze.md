@@ -1,6 +1,9 @@
 ---
 title: "Минулого вівторка броварська молодь вшанувала пам'ять журналіста Георгія Гонгадзе"
 date: 2014-09-23
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

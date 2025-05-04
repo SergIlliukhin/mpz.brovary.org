@@ -1,6 +1,9 @@
 ---
 title: "Гроші броварських обранців: аналіз декларацій депутатів міськради. Частина перша"
 date: 2016-04-22
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "rozsliduvannya"
   - "vlada"

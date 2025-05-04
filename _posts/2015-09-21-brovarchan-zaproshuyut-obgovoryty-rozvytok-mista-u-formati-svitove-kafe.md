@@ -1,6 +1,9 @@
 ---
 title: "Броварчан запрошують обговорити розвиток міста у форматі \"світове кафе\""
 date: 2015-09-21
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Кому вигідні житлові афери в Броварах?"
 date: 2012-08-23
+author: 
+  username: "slobodyan"
+  display_name: "Олександр Слободян"
 categories: 
   - "kolonka-avtora"
 tags: 

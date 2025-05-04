@@ -1,6 +1,9 @@
 ---
 title: "Україні 25 років: як відсвяткували у Броварах - ФОТО"
 date: 2016-08-25
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

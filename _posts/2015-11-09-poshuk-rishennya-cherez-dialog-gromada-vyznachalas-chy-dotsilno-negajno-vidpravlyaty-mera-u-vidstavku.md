@@ -1,6 +1,9 @@
 ---
 title: "Пошук рішення через діалог: громада визначалась, чи доцільно негайно відправляти мера у відставку"
 date: 2015-11-09
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

@@ -1,6 +1,9 @@
 ---
 title: "Опубліковано реєстр публічної інформації за 2011 рік"
 date: 2012-06-01
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "arhiv"
   - "vibir-redaktsiyi"

@@ -1,6 +1,9 @@
 ---
 title: "Федоренка офіційно призначили відповідальним за злочини режиму Януковича по Броварах. ВІДЕО"
 date: 2012-07-23
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

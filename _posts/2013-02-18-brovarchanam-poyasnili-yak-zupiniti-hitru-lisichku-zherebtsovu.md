@@ -1,6 +1,9 @@
 ---
 title: "Броварчанам пояснили, як зупинити «хитру лисичку» Жеребцову"
 date: 2013-02-18
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "aktsiyi-zahodi"
 tags: 

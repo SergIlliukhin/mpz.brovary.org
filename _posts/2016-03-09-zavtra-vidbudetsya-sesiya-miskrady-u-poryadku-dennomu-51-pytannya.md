@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: завтра відбудеться сесія міськради, у порядку денному – 51 питання"
 date: 2016-03-09
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "announce"
   - "vlada"

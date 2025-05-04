@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 29 листопада з концертом у \"Прометеї\" в підтримку онкохворих виступить \"Табула Раса\""
 date: 2015-11-02
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

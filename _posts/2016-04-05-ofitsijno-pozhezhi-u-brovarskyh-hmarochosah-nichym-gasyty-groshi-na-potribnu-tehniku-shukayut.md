@@ -1,6 +1,9 @@
 ---
 title: "Офіційно: пожежі у броварських хмарочосах нічим гасити, гроші на потрібну техніку шукають"
 date: 2016-04-05
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

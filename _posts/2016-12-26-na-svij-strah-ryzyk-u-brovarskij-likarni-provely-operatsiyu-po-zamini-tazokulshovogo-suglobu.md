@@ -1,6 +1,9 @@
 ---
 title: "На свій страх і ризик: у броварській лікарні провели операцію по заміні тазокульшового суглобу"
 date: 2016-12-26
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

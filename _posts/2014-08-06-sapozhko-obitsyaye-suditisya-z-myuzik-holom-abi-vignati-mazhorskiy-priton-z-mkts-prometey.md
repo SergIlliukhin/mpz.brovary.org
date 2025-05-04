@@ -1,6 +1,9 @@
 ---
 title: "Сапожко хоче суду над \"Мюзік-Холом\". Багмут обіцяє мститись"
 date: 2014-08-06
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "music-hall"
   - "bagmut"

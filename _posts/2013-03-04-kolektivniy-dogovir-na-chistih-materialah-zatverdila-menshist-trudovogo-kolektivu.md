@@ -1,6 +1,9 @@
 ---
 title: "Колективний договір на «Чистих матеріалах» затвердила меншість працівників"
 date: 2013-03-04
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 tags: 
   - "aktova-zala"
   - "vibir-redaktsiyi"

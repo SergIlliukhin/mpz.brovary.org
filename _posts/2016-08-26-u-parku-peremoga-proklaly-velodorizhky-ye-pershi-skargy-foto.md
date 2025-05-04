@@ -1,6 +1,9 @@
 ---
 title: "У парку «Перемога» проклали велодоріжки. Є перші скарги - ФОТО"
 date: 2016-08-26
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "brovary"
   - "novyny"

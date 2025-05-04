@@ -1,6 +1,9 @@
 ---
 title: "Грип у Броварах: епідемї немає, але час одягати маски"
 date: 2016-01-20
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

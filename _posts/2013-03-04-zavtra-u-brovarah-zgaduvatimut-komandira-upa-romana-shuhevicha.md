@@ -1,6 +1,9 @@
 ---
 title: "5 березня у Броварах згадуватимуть командира УПА Романа Шухевича"
 date: 2013-03-04
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

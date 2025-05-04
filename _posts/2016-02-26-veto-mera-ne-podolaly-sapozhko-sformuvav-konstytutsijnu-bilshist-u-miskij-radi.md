@@ -1,6 +1,9 @@
 ---
 title: "Вето мера не подолали, Сапожко сформував «конституційну більшість» у міській раді"
 date: 2016-02-26
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "vlada"
   - "novyny"

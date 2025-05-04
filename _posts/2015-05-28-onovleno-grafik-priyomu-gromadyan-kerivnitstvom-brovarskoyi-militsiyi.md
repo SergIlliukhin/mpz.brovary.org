@@ -1,6 +1,9 @@
 ---
 title: "Оновлено графік прийому громадян керівництвом броварської міліції"
 date: 2015-05-28
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
 tags: 

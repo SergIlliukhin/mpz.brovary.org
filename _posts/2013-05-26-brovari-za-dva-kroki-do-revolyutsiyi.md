@@ -1,6 +1,9 @@
 ---
 title: "Бровари – за два кроки до революції"
 date: 2013-05-26
+author: 
+  username: "pavriz"
+  display_name: "Павло Різаненко"
 categories: 
   - "kolonka-avtora"
 tags: 

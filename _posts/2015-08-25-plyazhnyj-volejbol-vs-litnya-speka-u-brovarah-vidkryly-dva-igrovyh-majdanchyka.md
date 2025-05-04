@@ -1,6 +1,9 @@
 ---
 title: "Пляжний волейбол VS літня спека: у Броварах відкрили два ігрових майданчика"
 date: 2015-08-25
+author: 
+  username: "komarovskyj"
+  display_name: "Комаровський Олексій"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

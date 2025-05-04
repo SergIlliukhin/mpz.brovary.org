@@ -1,6 +1,9 @@
 ---
 title: "Криваві сутички відбулись у Броварах між мешканцями та забудовниками парку"
 date: 2013-05-25
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "aktsiyi-zahodi"
 tags: 

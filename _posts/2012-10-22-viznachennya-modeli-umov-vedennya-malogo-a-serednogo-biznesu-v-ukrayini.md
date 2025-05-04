@@ -1,6 +1,9 @@
 ---
 title: "Визначення Моделі умов ведення малого та середнього бізнесу в Україні"
 date: 2012-10-22
+author: 
+  username: "nemchina"
+  display_name: "Тетяна Немчина"
 categories: 
   - "kolonka-avtora"
 tags: 

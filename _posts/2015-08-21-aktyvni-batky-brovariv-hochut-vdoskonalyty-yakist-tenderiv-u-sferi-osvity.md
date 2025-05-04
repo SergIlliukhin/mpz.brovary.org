@@ -1,6 +1,9 @@
 ---
 title: "Активні батьки Броварів хочуть вдосконалити якість тендерів у сфері освіти"
 date: 2015-08-21
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

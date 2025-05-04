@@ -1,6 +1,9 @@
 ---
 title: "Чому Бровари після кожної зливи перетворюються у Венецію?"
 date: 2012-08-17
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 tags: 
   - "budivnitstvo"
   - "vibir-redaktsiyi"

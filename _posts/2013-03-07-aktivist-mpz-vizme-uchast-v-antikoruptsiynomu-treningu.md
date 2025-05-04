@@ -1,6 +1,9 @@
 ---
 title: "Активісти «МПЗ» візьмуть участь у антикорупційному тренінгу"
 date: 2013-03-07
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "freedom-house"
   - "institut-masovoyi-informatsiyi"

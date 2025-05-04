@@ -1,6 +1,9 @@
 ---
 title: "Якби Броварами керували німці, або секрет успіху міста Трір"
 date: 2013-06-27
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 categories: 
   - "kolonka-avtora"
 tags: 

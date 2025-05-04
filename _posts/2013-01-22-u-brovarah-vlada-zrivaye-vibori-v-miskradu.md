@@ -1,6 +1,9 @@
 ---
 title: "У Броварах влада зриває довибори в міськраду"
 date: 2013-01-22
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

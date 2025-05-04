@@ -1,6 +1,9 @@
 ---
 title: "Агітаційний відеоролік Миколи Коханівського"
 date: 2012-10-26
+author: 
+  username: "kohanivsky"
+  display_name: "Микола Коханівський"
 categories: 
   - "kolonka-avtora"
 tags: 

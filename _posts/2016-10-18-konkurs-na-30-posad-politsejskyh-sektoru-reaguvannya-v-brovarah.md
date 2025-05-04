@@ -1,6 +1,9 @@
 ---
 title: "Конкурс на 30 посад поліцейських сектору реагування в Броварах"
 date: 2016-10-18
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

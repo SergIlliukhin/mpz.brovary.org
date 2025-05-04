@@ -1,6 +1,9 @@
 ---
 title: "У Броварах можуть з'явитися вулиці на честь Миколи Сома, Олега Великого та Січових Стрільців"
 date: 2016-11-17
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

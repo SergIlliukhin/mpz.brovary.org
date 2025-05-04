@@ -1,6 +1,9 @@
 ---
 title: "Фото- та відеознімання у броварських супермаркетах: право на це гарантує закон"
 date: 2014-12-22
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "rozsliduvannya"
 tags: 

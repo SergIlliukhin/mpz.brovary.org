@@ -1,6 +1,9 @@
 ---
 title: "130-та річниця від дня народження Дмитра Донцова"
 date: 2013-08-16
+author: 
+  username: "svoboda"
+  display_name: "Прес-служба ВО Свобода"
 categories: 
   - "announce"
   - "kolonka-avtora"

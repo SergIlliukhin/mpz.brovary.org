@@ -1,6 +1,9 @@
 ---
 title: "22 серпня у Броварах відбудеться міні-ярмарок вакансій у податковій, міліції та військоматі"
 date: 2013-08-16
+author: 
+  username: "centrzaynyatosti"
+  display_name: "Центр зайнятості"
 categories: 
   - "announce"
   - "kolonka-avtora"

@@ -1,6 +1,9 @@
 ---
 title: "Гарячої води в кранах броварчан не буде щонайменше два місяці (доповнено)"
 date: 2013-06-12
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "brovariteplovodoenergiya"

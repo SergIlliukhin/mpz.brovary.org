@@ -1,6 +1,9 @@
 ---
 title: "Закриваємо борги: збиткові комунальні підприємства отримають ще 1.5 мільйона гривень"
 date: 2017-08-15
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

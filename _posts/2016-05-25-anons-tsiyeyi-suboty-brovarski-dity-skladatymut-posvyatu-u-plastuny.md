@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: Цієї суботи броварські діти складатимуть посвяту у пластуни"
 date: 2016-05-25
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

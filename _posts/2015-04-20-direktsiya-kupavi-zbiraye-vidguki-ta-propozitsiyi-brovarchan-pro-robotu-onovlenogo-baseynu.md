@@ -1,6 +1,9 @@
 ---
 title: "Дирекція «Купави» збирає відгуки та пропозиції броварчан про роботу басейну та розвиток плавання"
 date: 2015-04-20
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "baseyn"
   - "baseyn-hvilya"

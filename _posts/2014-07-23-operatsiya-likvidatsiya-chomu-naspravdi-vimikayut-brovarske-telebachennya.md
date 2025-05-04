@@ -1,6 +1,9 @@
 ---
 title: "Операція «Ліквідація»: чому насправді «вимикають» броварське телебачення?"
 date: 2014-07-23
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "rozsliduvannya"
   - "kolonka-avtora"

@@ -1,6 +1,9 @@
 ---
 title: "У Броварах Дід Мороз просить депутатів не чіпати парк \"Перемога\""
 date: 2011-12-30
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "aktsiyi-zahodi"
 tags: 

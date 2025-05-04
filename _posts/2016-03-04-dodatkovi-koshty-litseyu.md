@@ -1,6 +1,9 @@
 ---
 title: "Додаткові кошти ліцею"
 date: 2016-03-04
+author: 
+  username: "kupriy"
+  display_name: "Валерій Купрій"
 categories: 
   - "kolonka-avtora"
 tags: 

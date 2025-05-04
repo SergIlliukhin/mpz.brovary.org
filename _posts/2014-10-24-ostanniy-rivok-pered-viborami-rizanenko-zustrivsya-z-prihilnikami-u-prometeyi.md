@@ -1,6 +1,9 @@
 ---
 title: "Останній ривок перед виборами: Різаненко зустрівся з прихильниками у «Прометеї»"
 date: 2014-10-24
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "barishivka"
   - "barishivskiy-rayon"

@@ -1,6 +1,9 @@
 ---
 title: "ДемАльянс та Голос йдуть на вибори разом"
 date: 2020-10-11
+author: 
+  username: "sauk"
+  display_name: "Андрій Саук"
 categories: 
   - "kolonka-avtora"
 tags: 

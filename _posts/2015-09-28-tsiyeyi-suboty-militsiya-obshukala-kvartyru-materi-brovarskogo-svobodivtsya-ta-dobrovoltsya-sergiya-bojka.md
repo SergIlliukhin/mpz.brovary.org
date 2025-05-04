@@ -1,6 +1,9 @@
 ---
 title: "Цієї суботи міліція обшукала квартиру матері броварського \"свободівця\" та добровольця Сергія Бойка"
 date: 2015-09-28
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

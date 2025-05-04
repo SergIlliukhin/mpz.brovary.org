@@ -1,6 +1,9 @@
 ---
 title: "У Броварах розпочалось навчання на безкоштовних курсах програмування мовою Java"
 date: 2016-05-17
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "hromada"
   - "novyny"

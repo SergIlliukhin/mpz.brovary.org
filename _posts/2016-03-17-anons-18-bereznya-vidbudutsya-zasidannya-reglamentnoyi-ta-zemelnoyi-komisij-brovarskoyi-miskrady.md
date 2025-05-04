@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 18 березня відбудуться засідання регламентної та земельної комісій Броварської міськради"
 date: 2016-03-17
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

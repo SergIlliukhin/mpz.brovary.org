@@ -1,6 +1,9 @@
 ---
 title: "Фальшиві борди у Броварах опозиціонери вирішили ліквідувати власноруч (доповнено)"
 date: 2012-10-22
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 tags: 
   - "bilbordi"
   - "batyuk"

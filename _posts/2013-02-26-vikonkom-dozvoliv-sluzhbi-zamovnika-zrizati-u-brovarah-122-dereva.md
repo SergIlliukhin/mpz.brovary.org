@@ -1,6 +1,9 @@
 ---
 title: "Виконком дозволив «Службі замовника» зрізати у Броварах 122 дерева"
 date: 2013-02-26
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

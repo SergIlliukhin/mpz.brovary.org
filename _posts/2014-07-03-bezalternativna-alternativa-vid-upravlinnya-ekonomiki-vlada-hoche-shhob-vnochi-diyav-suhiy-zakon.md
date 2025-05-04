@@ -1,6 +1,9 @@
 ---
 title: "«Безальтернативна альтернатива»: влада хоче запровадити нічний \"сухий закон\" у Броварах"
 date: 2014-07-03
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "brovary"
   - "brovarska-miska-rda"

@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 20 вересня відбудеться молодіжний концерт до Дня Броварів"
 date: 2015-09-18
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

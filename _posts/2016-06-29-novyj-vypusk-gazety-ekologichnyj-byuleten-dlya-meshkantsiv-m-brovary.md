@@ -1,6 +1,9 @@
 ---
 title: "Новий випуск газети «ЕКОлогічний бюлетень» для мешканців м.Бровари"
 date: 2016-06-29
+author: 
+  username: "vtorma"
+  display_name: "Бровари Вторма"
 categories: 
   - "kolonka-avtora"
 ---

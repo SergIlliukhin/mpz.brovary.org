@@ -1,6 +1,9 @@
 ---
 title: "Чорний пояс «тітушка» здобула броварська поетеса - ФОТО, ВІДЕО"
 date: 2013-07-15
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "aktsiyi-zahodi"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Проектна сесія \"Твоя ідея для Броварів\": броварчани презентували власні проекти для міста - ФОТО"
 date: 2017-04-19
+author: 
+  username: "tkachuk"
+  display_name: "Вікторія Ткачук"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

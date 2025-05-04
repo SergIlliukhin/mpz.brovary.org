@@ -1,6 +1,9 @@
 ---
 title: "Відтепер офіційно: затверджено проекти-переможці Громадського бюджету"
 date: 2017-08-15
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

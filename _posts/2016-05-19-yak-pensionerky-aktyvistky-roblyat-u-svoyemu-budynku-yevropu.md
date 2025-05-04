@@ -1,6 +1,9 @@
 ---
 title: "Як жінки-активістки довели до ладу свій будинок: охайний під'їзд та ліфт, квітники навколо"
 date: 2016-05-19
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "hromada"
   - "brovary"

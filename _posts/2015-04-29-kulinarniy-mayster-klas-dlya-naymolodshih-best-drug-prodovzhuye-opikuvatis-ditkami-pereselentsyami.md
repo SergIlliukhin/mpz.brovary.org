@@ -1,6 +1,9 @@
 ---
 title: "Кулінарний майстер-клас для наймолодших: «Бест друг» продовжує опікуватись дітками-переселенцями"
 date: 2015-04-29
+author: 
+  username: "molodda"
+  display_name: "Молодь ДемАльянсу"
 categories: 
   - "kolonka-avtora"
 tags: 

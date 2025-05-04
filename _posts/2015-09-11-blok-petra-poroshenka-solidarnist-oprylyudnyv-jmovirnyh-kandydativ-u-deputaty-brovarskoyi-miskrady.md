@@ -1,6 +1,9 @@
 ---
 title: "Блок Петра Порошенка «Солідарність» оприлюднив ймовірних кандидатів у депутати Броварської міськради"
 date: 2015-09-11
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "hromada"
   - "novyny"

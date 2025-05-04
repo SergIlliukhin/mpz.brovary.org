@@ -1,6 +1,9 @@
 ---
 title: "«Медіа Група «Маркет» продовжує незаконно продавати рекламні площі у ліфтах броварчан"
 date: 2014-07-03
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 tags: 
   - "vibir-redaktsiyi"
   - "grup"

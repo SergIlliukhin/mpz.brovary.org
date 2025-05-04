@@ -1,6 +1,9 @@
 ---
 title: "Поліція: оперативні дані за минулий тиждень та затримання викрадачів кабелю"
 date: 2017-03-21
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

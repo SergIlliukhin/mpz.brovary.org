@@ -1,6 +1,9 @@
 ---
 title: "Смердючі каналізаційні стоки знову заводнили вулицю Грушевського – ФОТО"
 date: 2016-10-25
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

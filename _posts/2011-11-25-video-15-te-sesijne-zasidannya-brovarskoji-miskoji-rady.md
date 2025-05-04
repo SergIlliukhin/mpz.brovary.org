@@ -1,6 +1,9 @@
 ---
 title: "ВІДЕО: 15-те сесійне засідання Броварської міської ради"
 date: 2011-11-25
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

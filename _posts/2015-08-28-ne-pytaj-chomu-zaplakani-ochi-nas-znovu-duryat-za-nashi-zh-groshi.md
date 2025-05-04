@@ -1,6 +1,9 @@
 ---
 title: "Не питай чому заплакані очі, нас знову дурять за наші ж гроші"
 date: 2015-08-28
+author: 
+  username: "simutin"
+  display_name: "Роман Сімутін"
 categories: 
   - "kolonka-avtora"
 tags: 

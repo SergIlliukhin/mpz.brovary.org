@@ -1,6 +1,9 @@
 ---
 title: "На Розвилці сталася ДТП: Тойоту перевернуло на дах - ФОТО"
 date: 2016-06-20
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

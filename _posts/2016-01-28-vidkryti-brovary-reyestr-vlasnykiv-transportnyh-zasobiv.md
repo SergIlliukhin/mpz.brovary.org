@@ -1,6 +1,9 @@
 ---
 title: "Відкриті Бровари: реєстр власників транспортних засобів"
 date: 2016-01-28
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 categories: 
   - "brovary"
 tags: 

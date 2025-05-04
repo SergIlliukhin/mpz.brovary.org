@@ -1,6 +1,9 @@
 ---
 title: "У броварській примайльні \"Партії регіонів\" злякались \"зубатих матрьошок\" - ВІДЕО"
 date: 2013-10-03
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "kolonka-avtora"
 tags: 

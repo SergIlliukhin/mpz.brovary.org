@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: У четвер на майдані Свободи відбудеться зустріч із Єгором Соболєвим"
 date: 2015-10-12
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

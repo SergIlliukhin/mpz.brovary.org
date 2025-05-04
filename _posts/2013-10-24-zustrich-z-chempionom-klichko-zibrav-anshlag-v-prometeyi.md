@@ -1,6 +1,9 @@
 ---
 title: "Зустріч з Чемпіоном: Кличко зібрав аншлаг в «Прометеї»"
 date: 2013-10-24
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "aktsiyi-zahodi"
 tags: 

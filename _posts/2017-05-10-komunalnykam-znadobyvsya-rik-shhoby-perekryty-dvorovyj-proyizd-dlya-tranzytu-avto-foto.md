@@ -1,6 +1,9 @@
 ---
 title: "Комунальникам знадобився рік, щоби перекрити дворовий проїзд для транзиту авто - ФОТО"
 date: 2017-05-10
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "brovary"
   - "novyny"

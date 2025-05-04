@@ -1,6 +1,9 @@
 ---
 title: "НТН: Породіллю, яка померла після неправильного діагнозу, можна було врятувати – ВІДЕО"
 date: 2016-07-14
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

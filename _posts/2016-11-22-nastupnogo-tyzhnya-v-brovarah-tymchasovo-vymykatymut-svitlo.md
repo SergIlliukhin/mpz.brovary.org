@@ -1,6 +1,9 @@
 ---
 title: "Наступного тижня в Броварах тимчасово вимикатимуть світло"
 date: 2016-11-22
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

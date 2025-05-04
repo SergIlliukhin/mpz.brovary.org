@@ -1,6 +1,9 @@
 ---
 title: "Антиокупаційний марш у Броварах завершився спаленням опудала \"головного інтервента\""
 date: 2014-04-16
+author: 
+  username: "veta"
+  display_name: "Єлизавета Ковальчук"
 categories: 
   - "aktsiyi-zahodi"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "\"ДемАльянс\" першим зареєстрував своїх кандидатів – HromadskeBro.tv"
 date: 2015-09-28
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

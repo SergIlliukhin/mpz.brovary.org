@@ -1,6 +1,9 @@
 ---
 title: "Чи можна купатися у броварських озерах на Водохрещу? Однозначної відповіді нема"
 date: 2017-01-17
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "brovary"
   - "novyny"

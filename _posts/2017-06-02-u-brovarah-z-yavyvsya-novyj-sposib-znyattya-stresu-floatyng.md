@@ -1,6 +1,9 @@
 ---
 title: "У Броварах з’явився новий спосіб зняття стресу - флоатинг"
 date: 2017-06-02
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

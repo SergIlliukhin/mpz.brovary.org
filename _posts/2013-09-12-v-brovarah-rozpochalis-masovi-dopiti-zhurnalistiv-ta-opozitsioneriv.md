@@ -1,6 +1,9 @@
 ---
 title: "У Броварах розпочались масові допити журналістів та опозиціонерів, які були на акції 10 вересня"
 date: 2013-09-12
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "aktsiya-protestu"
   - "vibir-redaktsiyi"

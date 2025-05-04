@@ -1,6 +1,9 @@
 ---
 title: "«Let’s do it, Bro!» - майже дві сотні броварчан вийшли на прибирання лісу"
 date: 2015-04-27
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

@@ -1,6 +1,9 @@
 ---
 title: "Влада змусила дітей танцювати в підтримку Януковича"
 date: 2013-12-19
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 categories: 
   - "kolonka-avtora"
 ---

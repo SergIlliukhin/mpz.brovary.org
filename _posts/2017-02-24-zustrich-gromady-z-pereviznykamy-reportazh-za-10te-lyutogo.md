@@ -1,6 +1,9 @@
 ---
 title: "Броварська громада зустрілася з перевізниками: чи почули вони одне одного?"
 date: 2017-02-24
+author: 
+  username: "krokos"
+  display_name: "Владислава Крокос"
 categories: 
   - "aktsiyi-zahodi"
 ---

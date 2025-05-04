@@ -1,6 +1,9 @@
 ---
 title: "3G у Броварах \"падає\"? Як демонтували \"Пізанську вежу\" на Розвилці - HromadskeBro.tv"
 date: 2015-06-18
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

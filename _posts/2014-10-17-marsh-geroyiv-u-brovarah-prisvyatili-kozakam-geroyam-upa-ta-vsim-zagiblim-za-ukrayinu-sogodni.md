@@ -1,6 +1,9 @@
 ---
 title: "Марш Героїв у Броварах присвятили козакам, воїнам УПА та всім нині загиблим за Україну"
 date: 2014-10-17
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

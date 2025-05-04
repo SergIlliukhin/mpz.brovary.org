@@ -1,6 +1,9 @@
 ---
 title: "Чи переможе «Roshen» броварських чиновників у боротьбі за дитячий майданчик на Торгмаші?"
 date: 2016-03-18
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "hromada"
   - "brovary"

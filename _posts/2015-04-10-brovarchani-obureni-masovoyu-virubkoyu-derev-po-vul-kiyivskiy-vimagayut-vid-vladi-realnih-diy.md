@@ -1,6 +1,9 @@
 ---
 title: "Броварчани, обурені масовою вирубкою дерев по вул. Київській, вимагають від влади реальних дій"
 date: 2015-04-10
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "brovary"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Броварська лікарня закликає вийти на мітинг на підтримку медиків міста"
 date: 2016-03-15
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

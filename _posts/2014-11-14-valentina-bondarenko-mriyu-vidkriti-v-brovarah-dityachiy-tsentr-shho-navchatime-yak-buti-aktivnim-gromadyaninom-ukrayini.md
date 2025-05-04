@@ -1,6 +1,9 @@
 ---
 title: "Валентина Бондаренко: «Мрію відкрити в Броварах дитячий центр, що навчатиме, як бути активним громадянином»"
 date: 2014-11-14
+author: 
+  username: "pecheritsia"
+  display_name: "Анастасія Печериця"
 categories: 
   - "interview"
 tags: 

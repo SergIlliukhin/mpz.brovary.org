@@ -1,6 +1,9 @@
 ---
 title: "\"Споживач має право\": проведення діагностики товару як доказ його невикористання"
 date: 2012-11-29
+author: 
+  username: "serzhov"
+  display_name: "Сергій Севрук"
 categories: 
   - "kolonka-avtora"
 tags: 

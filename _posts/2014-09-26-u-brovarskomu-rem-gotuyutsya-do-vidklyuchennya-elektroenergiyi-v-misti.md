@@ -1,6 +1,9 @@
 ---
 title: "У Броварському РЕМ готуються до відключення електроенергії в місті та районі"
 date: 2014-09-26
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 tags: 
   - "vibir-redaktsiyi"
   - "novini"

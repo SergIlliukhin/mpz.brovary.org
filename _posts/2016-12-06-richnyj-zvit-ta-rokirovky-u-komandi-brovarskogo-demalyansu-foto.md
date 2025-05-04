@@ -1,6 +1,9 @@
 ---
 title: "Річний звіт та рокіровки у команді броварського Демальянсу - ФОТО, ВІДЕО"
 date: 2016-12-06
+author: 
+  username: "ulitenko"
+  display_name: "Ірина Улітенко"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

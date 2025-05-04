@@ -1,6 +1,9 @@
 ---
 title: "Дощ юним спортсменам не завада: у Броварах відбулись змагання з велокросу серед школярів"
 date: 2015-06-02
+author: 
+  username: "jacyv"
+  display_name: "Світлана Яцив"
 categories: 
   - "brovary"
 tags: 

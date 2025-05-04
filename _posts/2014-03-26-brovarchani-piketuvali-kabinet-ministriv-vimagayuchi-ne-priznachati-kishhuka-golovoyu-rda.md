@@ -1,6 +1,9 @@
 ---
 title: "Броварчани пікетували Кабмін, вимагаючи не призначати Кищука головою РДА"
 date: 2014-03-26
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"
   - "kabmin"

@@ -1,6 +1,9 @@
 ---
 title: "«Споживач має право»: чим відрізняється гарантійний термін від терміну виявлення недоліків?"
 date: 2012-07-11
+author: 
+  username: "serzhov"
+  display_name: "Сергій Севрук"
 categories: 
   - "kolonka-avtora"
 tags: 

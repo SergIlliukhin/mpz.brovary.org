@@ -1,6 +1,9 @@
 ---
 title: "Забив бездомного пса до напівсмерті. Люди вимагають кривднику покарання"
 date: 2016-12-12
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "hromada"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 3 квітня відбудеться 27-ма позачергова сесія Броварської міськради"
 date: 2017-04-01
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Броварські виробники взуття розповіли про наявні у них вакансії"
 date: 2013-06-11
+author: 
+  username: "centrzaynyatosti"
+  display_name: "Центр зайнятості"
 categories: 
   - "kolonka-avtora"
 tags: 

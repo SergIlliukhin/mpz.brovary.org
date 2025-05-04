@@ -1,6 +1,9 @@
 ---
 title: "Ольга Гасин. Історія зв'язкової генерала Шухевича, що мешкала у Броварах"
 date: 2016-03-02
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "brovary"
 tags: 

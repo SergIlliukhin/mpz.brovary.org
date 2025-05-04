@@ -1,6 +1,9 @@
 ---
 title: "ТСН: ﻿У Броварах через бойкот жителями комунальників тече річка із фекалій - ВІДЕО"
 date: 2013-08-15
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

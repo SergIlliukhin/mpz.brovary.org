@@ -1,6 +1,9 @@
 ---
 title: "До Броварів їде парламентська комісія вирішувати долю Радіопередавального центру"
 date: 2016-04-19
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "vlada"

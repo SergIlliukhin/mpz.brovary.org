@@ -1,6 +1,9 @@
 ---
 title: "Прокладання зливової каналізації на Пекарні викликало спротив місцевих мешканців"
 date: 2015-06-10
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

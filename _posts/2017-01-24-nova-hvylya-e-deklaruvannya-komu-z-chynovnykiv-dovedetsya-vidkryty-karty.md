@@ -1,6 +1,9 @@
 ---
 title: "Нова хвиля e-декларування: кому з чиновників доведеться відкрити карти?"
 date: 2017-01-24
+author: 
+  username: "mizina"
+  display_name: "Дарина Мізіна"
 categories: 
   - "vlada"
   - "novyny"

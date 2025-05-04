@@ -1,6 +1,9 @@
 ---
 title: "Чотири правила захисту революції"
 date: 2014-02-22
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 ---

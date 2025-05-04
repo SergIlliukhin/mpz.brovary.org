@@ -1,6 +1,9 @@
 ---
 title: "Ініціація у владі: нові броварські депутати провели першу сесію"
 date: 2015-11-18
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "vlada"
   - "aktsiyi-zahodi"

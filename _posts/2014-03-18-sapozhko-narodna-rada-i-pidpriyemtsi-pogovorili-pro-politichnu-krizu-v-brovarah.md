@@ -1,6 +1,9 @@
 ---
 title: "Сапожко, Народна Рада і підприємці обговорили суспільно-політичну ситуацію в Броварах"
 date: 2014-03-18
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "alina-dyachenko"
   - "brovary"

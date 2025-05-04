@@ -1,6 +1,9 @@
 ---
 title: "Ярмарки вакансій та професій у Броварах відвідало понад 1000 людей"
 date: 2013-04-22
+author: 
+  username: "centrzaynyatosti"
+  display_name: "Центр зайнятості"
 categories: 
   - "kolonka-avtora"
 tags: 

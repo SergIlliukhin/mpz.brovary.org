@@ -1,6 +1,9 @@
 ---
 title: "Боти за роботою: «Маєш право знати» зазнало атаки на сайт та опитування ВКонтакте"
 date: 2014-10-21
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

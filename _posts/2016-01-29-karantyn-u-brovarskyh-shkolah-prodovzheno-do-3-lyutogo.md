@@ -1,6 +1,9 @@
 ---
 title: "Карантин у броварських школах продовжено до 3 лютого включно, - Виноградова"
 date: 2016-01-29
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

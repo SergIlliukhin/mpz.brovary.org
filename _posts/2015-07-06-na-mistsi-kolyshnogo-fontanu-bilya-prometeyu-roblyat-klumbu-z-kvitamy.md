@@ -1,6 +1,9 @@
 ---
 title: "На місці колишнього фонтану біля \"Прометею\" роблять клумбу з квітами"
 date: 2015-07-06
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

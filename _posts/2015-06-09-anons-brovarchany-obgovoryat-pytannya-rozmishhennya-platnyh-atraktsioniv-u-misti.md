@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: Броварчани обговорять у сквері \"Юність\" питання розміщення платних атракціонів"
 date: 2015-06-09
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

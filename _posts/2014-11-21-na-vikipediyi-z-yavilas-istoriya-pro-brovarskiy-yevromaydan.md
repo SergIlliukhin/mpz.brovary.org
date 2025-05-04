@@ -1,6 +1,9 @@
 ---
 title: "На Вікіпедії з’явилась історія про Броварський Євромайдан"
 date: 2014-11-21
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 tags: 
   - "yevromaydan"
   - "istoriya"

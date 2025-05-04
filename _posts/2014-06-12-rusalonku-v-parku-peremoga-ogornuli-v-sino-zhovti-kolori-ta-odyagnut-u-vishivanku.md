@@ -1,6 +1,9 @@
 ---
 title: "Русалоньку в парку \"Перемога\" огорнули в синьо-жовті кольори та одягнуть у вишиванку"
 date: 2014-06-12
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "aktivisti"
   - "brovary"

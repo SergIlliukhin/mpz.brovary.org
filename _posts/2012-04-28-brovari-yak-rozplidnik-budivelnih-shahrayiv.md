@@ -1,6 +1,9 @@
 ---
 title: "Бровари – як розплідник  будівельних шахраїв"
 date: 2012-04-28
+author: 
+  username: "kravec"
+  display_name: "Юрій Кравець"
 categories: 
   - "kolonka-avtora"
 tags: 

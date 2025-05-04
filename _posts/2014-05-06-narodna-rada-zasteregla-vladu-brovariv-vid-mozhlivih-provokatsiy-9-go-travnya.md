@@ -1,6 +1,9 @@
 ---
 title: "Народна Рада застерегла владу Броварів від можливих провокацій 9-го травня"
 date: 2014-05-06
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "9-travnya"
   - "bagmut"

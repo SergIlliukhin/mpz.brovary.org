@@ -1,6 +1,9 @@
 ---
 title: "Політичний «феномен» Ігоря Сапожка: від київського рекетира до броварського мера. Частина 4: заключна"
 date: 2015-09-15
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "rozsliduvannya"
   - "vlada"

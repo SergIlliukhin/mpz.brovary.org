@@ -1,6 +1,9 @@
 ---
 title: "Блокада демонтажу садочка не вдалася: мешканці проігнорували заклик до дій – ФОТО"
 date: 2017-05-30
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "hromada"
   - "novyny"

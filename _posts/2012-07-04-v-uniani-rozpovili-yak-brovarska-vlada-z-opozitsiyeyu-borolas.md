@@ -1,6 +1,9 @@
 ---
 title: "В УНІАНі розповіли, як броварська влада з опозицією боролась"
 date: 2012-07-04
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "brovary"
   - "brovaryi"

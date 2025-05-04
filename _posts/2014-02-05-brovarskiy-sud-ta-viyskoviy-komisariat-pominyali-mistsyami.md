@@ -1,6 +1,9 @@
 ---
 title: "Броварський суд та військовий комісаріат поміняли місцями"
 date: 2014-02-05
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "brovarskiy-miskrayonniy-sud"
   - "bulvar-nezalezhnosti-4a"

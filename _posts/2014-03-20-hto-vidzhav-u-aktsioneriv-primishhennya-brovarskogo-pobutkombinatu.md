@@ -1,6 +1,9 @@
 ---
 title: "Хто «віджав» у акціонерів приміщення броварського побуткомбінату? ІНФОГРАФІКА"
 date: 2014-03-20
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 categories: 
   - "rozsliduvannya"
 tags: 

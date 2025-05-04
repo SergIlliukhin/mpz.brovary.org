@@ -1,6 +1,9 @@
 ---
 title: "\"Комунтранс\" йде, проблеми залишаються. На замітку чиновникам та майбутньому перевізнику"
 date: 2017-03-29
+author: 
+  username: "cherepejnik"
+  display_name: "Леонід Черепейнік"
 categories: 
   - "kolonka-avtora"
 ---

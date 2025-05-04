@@ -1,6 +1,9 @@
 ---
 title: "«Ментовский беспредел» в Броварах. Скажемо корупції «ні»"
 date: 2012-10-24
+author: 
+  username: "slobodyan"
+  display_name: "Олександр Слободян"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "У басейні 9-ої школи тарифи вдвічі вищі за «Купаву», бо «клієнтів зустрічають з посмішкою»"
 date: 2016-01-26
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

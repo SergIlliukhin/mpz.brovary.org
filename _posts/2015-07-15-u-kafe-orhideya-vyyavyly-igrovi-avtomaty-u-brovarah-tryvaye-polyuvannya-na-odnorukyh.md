@@ -1,6 +1,9 @@
 ---
 title: "У Броварах триває \"полювання на одноруких\": у кафе \"Орхідея\" виявили гральні автомати"
 date: 2015-07-15
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

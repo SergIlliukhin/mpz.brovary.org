@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 27 грудня відбудеться звіт депутатів від фракції \"УКРОП\""
 date: 2016-12-21
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Криза у міськраді загострюється: депутати і мер увійшли в жорсткий клінч"
 date: 2015-12-18
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "vlada"
   - "aktsiyi-zahodi"

@@ -1,6 +1,9 @@
 ---
 title: "Военные пенсионеры в Семиполках продолжают борьбу за отмену тарифов"
 date: 2013-04-01
+author: 
+  username: "bruhov"
+  display_name: "Володимир Брюхов"
 categories: 
   - "kolonka-avtora"
 tags: 

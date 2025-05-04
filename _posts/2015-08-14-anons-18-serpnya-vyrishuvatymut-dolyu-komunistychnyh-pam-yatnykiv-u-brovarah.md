@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 18 серпня вирішуватимуть долю комуністичних пам'ятників у Броварах"
 date: 2015-08-14
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

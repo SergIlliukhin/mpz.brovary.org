@@ -1,6 +1,9 @@
 ---
 title: "Броварчани гуртуються у власних дворах для боротьби з «покращенням»"
 date: 2013-04-29
+author: 
+  username: "udar"
+  display_name: "УДАР"
 categories: 
   - "kolonka-avtora"
 ---

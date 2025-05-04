@@ -1,6 +1,9 @@
 ---
 title: "Насилля –  сміття, яке треба виносити з хати: історія постраждалої броварчанки"
 date: 2015-04-03
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

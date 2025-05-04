@@ -1,6 +1,9 @@
 ---
 title: "Безпілотний дрон, яким знімали аерофлешмоб на День міста, волонтери передали на фронт"
 date: 2014-09-29
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "aerofleshmob"
   - "bezpilotnik"

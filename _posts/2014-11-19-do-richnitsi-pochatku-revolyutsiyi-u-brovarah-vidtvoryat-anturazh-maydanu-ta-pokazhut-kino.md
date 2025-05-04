@@ -1,6 +1,9 @@
 ---
 title: "До річниці початку революції у Броварах відтворять антураж Майдану та покажуть кіно"
 date: 2014-11-19
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

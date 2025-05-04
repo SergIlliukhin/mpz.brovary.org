@@ -1,6 +1,9 @@
 ---
 title: "Завтра Сапожко знову спробує затвердити «свій» склад виконавчого комітету"
 date: 2016-03-14
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

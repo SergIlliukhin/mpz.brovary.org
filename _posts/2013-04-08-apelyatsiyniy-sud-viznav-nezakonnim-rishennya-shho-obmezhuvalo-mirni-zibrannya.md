@@ -1,6 +1,9 @@
 ---
 title: "Апеляційний суд: броварський виконком порушує права громадян"
 date: 2013-04-08
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 tags: 
   - "394"
   - "illyuhin"

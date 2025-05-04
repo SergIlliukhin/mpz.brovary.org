@@ -1,6 +1,9 @@
 ---
 title: "Кран завадив мітингувальникам підтримати Запорожця, суд перенесено на завтра"
 date: 2012-06-18
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "vitaliy-zaporozhets"
   - "vibir-redaktsiyi"

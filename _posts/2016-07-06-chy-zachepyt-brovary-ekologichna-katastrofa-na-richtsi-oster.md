@@ -1,6 +1,9 @@
 ---
 title: "Чи зачепить Бровари екологічна катастрофа на річці Остер?"
 date: 2016-07-06
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Що їдять наші діти в школах та садках?"
 date: 2016-03-14
+author: 
+  username: "cherednik"
+  display_name: "Юрій Чередник"
 categories: 
   - "kolonka-avtora"
 ---

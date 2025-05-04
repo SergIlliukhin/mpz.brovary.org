@@ -1,6 +1,9 @@
 ---
 title: "У Броварах на хабарі в $500  затримали державного виконавця"
 date: 2016-03-28
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "vlada"
   - "novyny"

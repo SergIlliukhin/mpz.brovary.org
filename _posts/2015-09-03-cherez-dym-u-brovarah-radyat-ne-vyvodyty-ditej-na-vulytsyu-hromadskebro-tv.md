@@ -1,6 +1,9 @@
 ---
 title: "Через дим у Броварах радять не виводити дітей на вулицю - HromadskeBro.tv"
 date: 2015-09-03
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

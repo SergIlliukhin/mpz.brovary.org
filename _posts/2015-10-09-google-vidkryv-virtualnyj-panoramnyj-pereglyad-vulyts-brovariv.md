@@ -1,6 +1,9 @@
 ---
 title: "Google відкрив віртуальний панорамний перегляд вулиць Броварів"
 date: 2015-10-09
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

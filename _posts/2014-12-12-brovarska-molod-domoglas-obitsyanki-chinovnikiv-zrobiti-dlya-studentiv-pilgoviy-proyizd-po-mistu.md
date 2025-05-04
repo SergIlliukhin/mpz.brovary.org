@@ -1,6 +1,9 @@
 ---
 title: "Броварська молодь домоглась обіцянки чиновників зробити для студентів знижки на проїзд по місту"
 date: 2014-12-12
+author: 
+  username: "onikienko"
+  display_name: "Вікторія Оникієнко"
 tags: 
   - "vibir-redaktsiyi"
   - "vlada"

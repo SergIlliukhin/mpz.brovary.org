@@ -1,6 +1,9 @@
 ---
 title: "Суперсвято для супергероїв. Як Бровари привітали малечу з Днем захисту дітей - ФОТО"
 date: 2017-06-02
+author: 
+  username: "mizina"
+  display_name: "Дарина Мізіна"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

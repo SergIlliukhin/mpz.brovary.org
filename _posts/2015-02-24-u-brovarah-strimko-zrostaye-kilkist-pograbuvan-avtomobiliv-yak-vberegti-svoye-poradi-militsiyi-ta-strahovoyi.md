@@ -1,6 +1,9 @@
 ---
 title: "У Броварах різко почастішали крадіжки з автомобілів. Як вберегтись від зловмисників?"
 date: 2015-02-24
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

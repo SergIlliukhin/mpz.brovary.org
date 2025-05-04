@@ -1,6 +1,9 @@
 ---
 title: "УНІАН: Броварчан на інвалідних візках не пустили на матч зі шведами"
 date: 2012-06-13
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "yevro-2012"
   - "ivanenko"

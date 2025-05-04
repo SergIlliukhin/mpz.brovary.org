@@ -1,6 +1,9 @@
 ---
 title: "У Броварах відкрито дитячу футбольну школу Владислава Ващука"
 date: 2015-12-22
+author: 
+  username: "onikienko"
+  display_name: "Вікторія Оникієнко"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

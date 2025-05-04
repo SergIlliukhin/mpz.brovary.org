@@ -1,6 +1,9 @@
 ---
 title: "З 42 депутатів міськради звітуватимуть про свою роботу у 2013 році лише четверо?"
 date: 2014-02-10
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 tags: 
   - "ivanenko"
   - "brovarska-miska-rada"

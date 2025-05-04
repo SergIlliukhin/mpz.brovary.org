@@ -1,6 +1,9 @@
 ---
 title: "24 вересня у Броварах відбудеться зустріч з Арсенієм Яценюком"
 date: 2012-09-24
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Мешканці довели у суді незаконність будівництва гастроному по вул. Кирпоноса, 3"
 date: 2015-01-20
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "bicheviy"
   - "brovary"

@@ -1,6 +1,9 @@
 ---
 title: "Усі зрадили всіх: як зруйнувалась так і не створена «коаліція демократичних сил»"
 date: 2015-12-22
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "vlada"
   - "aktsiyi-zahodi"

@@ -1,6 +1,9 @@
 ---
 title: "Діти, патрони, чотири стволи: у Броварах відбулися учнівські змагання зі стрільби, - ФОТО"
 date: 2016-03-21
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

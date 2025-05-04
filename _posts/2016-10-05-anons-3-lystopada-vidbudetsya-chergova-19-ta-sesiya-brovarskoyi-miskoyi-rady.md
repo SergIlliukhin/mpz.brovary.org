@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 3 листопада відбудеться чергова 19-та сесія Броварської міської ради"
 date: 2016-10-05
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "vlada"

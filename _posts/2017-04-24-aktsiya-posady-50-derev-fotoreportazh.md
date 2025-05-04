@@ -1,6 +1,9 @@
 ---
 title: "Акція \"Посади 50+ дерев\" - ФОТОРЕПОРТАЖ"
 date: 2017-04-24
+author: 
+  username: "krokos"
+  display_name: "Владислава Крокос"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

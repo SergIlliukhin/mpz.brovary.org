@@ -1,6 +1,9 @@
 ---
 title: "33-тя сесія Броварської міської ради – ВІДЕО"
 date: 2013-05-21
+author: 
+  username: "simutin"
+  display_name: "Роман Сімутін"
 categories: 
   - "video"
 tags: 

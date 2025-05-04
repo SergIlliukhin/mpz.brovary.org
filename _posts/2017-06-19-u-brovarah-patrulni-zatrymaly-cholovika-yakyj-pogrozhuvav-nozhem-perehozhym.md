@@ -1,6 +1,9 @@
 ---
 title: "У Броварах патрульні затримали чоловіка, який погрожував ножем перехожим"
 date: 2017-06-19
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

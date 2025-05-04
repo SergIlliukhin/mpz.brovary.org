@@ -1,6 +1,9 @@
 ---
 title: "Історія одного відео або Бровари – не лише зона «покращення»"
 date: 2013-11-12
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
   - "video"

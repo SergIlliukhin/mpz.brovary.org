@@ -1,6 +1,9 @@
 ---
 title: "Об’єднання зі зрадниками - рівноцінне поразці"
 date: 2014-03-17
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

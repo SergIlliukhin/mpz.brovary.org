@@ -1,6 +1,9 @@
 ---
 title: "Е-декларації: 11 броварських суддів"
 date: 2016-11-01
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "rozsliduvannya"
   - "vlada"

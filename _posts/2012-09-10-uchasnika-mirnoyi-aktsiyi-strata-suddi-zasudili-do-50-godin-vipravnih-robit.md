@@ -1,6 +1,9 @@
 ---
 title: "Учасника мирної акції «Страта судді» засудили до 50 годин виправних робіт"
 date: 2012-09-10
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 tags: 
   - "vitaliy-zaporozhets"
   - "vibir-redaktsiyi"

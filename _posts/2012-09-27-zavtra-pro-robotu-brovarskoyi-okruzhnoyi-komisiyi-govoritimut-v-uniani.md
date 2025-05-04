@@ -1,6 +1,9 @@
 ---
 title: "Завтра про роботу броварської окружної комісії говоритимуть в УНІАНі"
 date: 2012-09-27
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

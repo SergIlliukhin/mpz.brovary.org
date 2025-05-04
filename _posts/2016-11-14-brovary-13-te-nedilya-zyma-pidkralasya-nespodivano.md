@@ -1,6 +1,9 @@
 ---
 title: "Бровари. 13-те. Неділя. Зима «підкралася несподівано»"
 date: 2016-11-14
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

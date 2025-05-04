@@ -1,6 +1,9 @@
 ---
 title: "У Броварах пройшов освітній тренінг «Підводні камені працевлаштування»"
 date: 2016-05-27
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

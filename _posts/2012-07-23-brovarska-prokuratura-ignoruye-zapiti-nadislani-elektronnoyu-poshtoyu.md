@@ -1,6 +1,9 @@
 ---
 title: "Броварська прокуратура ігнорує запити, надіслані електронною поштою!"
 date: 2012-07-23
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"
 tags: 

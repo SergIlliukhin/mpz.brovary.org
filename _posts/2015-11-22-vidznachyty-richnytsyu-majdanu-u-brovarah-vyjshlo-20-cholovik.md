@@ -1,6 +1,9 @@
 ---
 title: "Відзначити річницю Майдану у Броварах вийшло 20 чоловік"
 date: 2015-11-22
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "novyny"
   - "aktsiyi-zahodi"

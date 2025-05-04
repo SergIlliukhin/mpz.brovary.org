@@ -1,6 +1,9 @@
 ---
 title: "Нападника на броварських журналістів оголошено в розшук"
 date: 2012-12-27
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "vibir-redaktsiyi"
   - "militsiya"

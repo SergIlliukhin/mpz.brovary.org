@@ -1,6 +1,9 @@
 ---
 title: "5 березня відбудеться 53 чергова сесія Броварської міської ради"
 date: 2015-02-10
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

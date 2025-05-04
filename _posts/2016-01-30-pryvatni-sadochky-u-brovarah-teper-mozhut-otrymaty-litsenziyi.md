@@ -1,6 +1,9 @@
 ---
 title: "Приватні садочки у Броварах тепер можуть отримати ліцензії"
 date: 2016-01-30
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

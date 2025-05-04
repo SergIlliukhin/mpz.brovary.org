@@ -1,6 +1,9 @@
 ---
 title: "В «Купаві» відбувся благодійний турнір з плавання - ФОТО"
 date: 2017-02-06
+author: 
+  username: "nakonechna"
+  display_name: "Наталія Наконечна"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

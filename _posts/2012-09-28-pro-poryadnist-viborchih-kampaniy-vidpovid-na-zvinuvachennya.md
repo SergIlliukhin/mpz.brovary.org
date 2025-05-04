@@ -1,6 +1,9 @@
 ---
 title: "Про \"порядність\" виборчих кампаній. Відповідь на звинувачення"
 date: 2012-09-28
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

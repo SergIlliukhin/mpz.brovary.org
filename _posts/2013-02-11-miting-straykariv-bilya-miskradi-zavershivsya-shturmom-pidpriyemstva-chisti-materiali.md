@@ -1,6 +1,9 @@
 ---
 title: "Мітинг страйкарів біля міськради завершився штурмом підприємства «Чисті матеріали»"
 date: 2013-02-11
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "aktsiyi-zahodi"
 tags: 

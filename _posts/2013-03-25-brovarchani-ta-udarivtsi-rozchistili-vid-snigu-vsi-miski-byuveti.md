@@ -1,6 +1,9 @@
 ---
 title: "Броварчани та «ударівці» розчистили від снігу всі міські бювети"
 date: 2013-03-25
+author: 
+  username: "udar"
+  display_name: "УДАР"
 categories: 
   - "kolonka-avtora"
 ---

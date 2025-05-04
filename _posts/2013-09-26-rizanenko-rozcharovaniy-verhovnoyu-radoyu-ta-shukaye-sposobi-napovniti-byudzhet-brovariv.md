@@ -1,6 +1,9 @@
 ---
 title: "Різаненко розчарований Верховною Радою та шукає способи наповнити бюджет Броварів"
 date: 2013-09-26
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

@@ -1,6 +1,9 @@
 ---
 title: "Шестеро онкохворих броварчан потребують підтримки і допомоги"
 date: 2015-10-28
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

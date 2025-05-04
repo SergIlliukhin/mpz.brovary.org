@@ -1,6 +1,9 @@
 ---
 title: "Сьогодні у Броварах вимикають опалення, гарячу воду обіцяють лишити до 15 травня"
 date: 2016-04-05
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

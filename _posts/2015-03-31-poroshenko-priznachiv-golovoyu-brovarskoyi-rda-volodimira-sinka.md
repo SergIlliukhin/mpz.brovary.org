@@ -1,6 +1,9 @@
 ---
 title: "Порошенко призначив головою Броварської РДА Володимира Сінька"
 date: 2015-03-31
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "brovarska-rayonna-derzhavna-administratsiya"

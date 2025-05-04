@@ -1,6 +1,9 @@
 ---
 title: "У колишньому магазині \"Електроніка\" на вул. Київській почались ремонтні роботи"
 date: 2015-06-10
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

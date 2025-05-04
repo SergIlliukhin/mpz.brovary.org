@@ -1,6 +1,9 @@
 ---
 title: "Броварський учень, якого вдарило струмом на електричці, помер вночі"
 date: 2016-04-25
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

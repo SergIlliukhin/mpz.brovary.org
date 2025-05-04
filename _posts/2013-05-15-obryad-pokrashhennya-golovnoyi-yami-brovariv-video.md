@@ -1,6 +1,9 @@
 ---
 title: "\"Обряд покращення\" головної ями Броварів. ВІДЕО"
 date: 2013-05-15
+author: 
+  username: "udar"
+  display_name: "УДАР"
 categories: 
   - "kolonka-avtora"
 ---

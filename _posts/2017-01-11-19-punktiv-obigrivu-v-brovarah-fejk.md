@@ -1,6 +1,9 @@
 ---
 title: "19 пунктів обігріву в Броварах - фейк?"
 date: 2017-01-11
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

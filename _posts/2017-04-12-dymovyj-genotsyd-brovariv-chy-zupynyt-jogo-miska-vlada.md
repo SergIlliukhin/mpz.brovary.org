@@ -1,6 +1,9 @@
 ---
 title: "Димовий геноцид Броварів: чи зупинить його міська влада?"
 date: 2017-04-12
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "rozsliduvannya"
   - "brovary"

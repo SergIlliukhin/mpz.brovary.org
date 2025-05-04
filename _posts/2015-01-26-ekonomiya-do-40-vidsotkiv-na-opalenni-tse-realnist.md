@@ -1,6 +1,9 @@
 ---
 title: "Економія до 40 відсотків на опаленні - це реальність"
 date: 2015-01-26
+author: 
+  username: "simutin"
+  display_name: "Роман Сімутін"
 categories: 
   - "kolonka-avtora"
 ---

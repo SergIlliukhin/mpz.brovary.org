@@ -1,6 +1,9 @@
 ---
 title: "Під час підпалу авта журналіста в Броварах міліції вимкнули електрику"
 date: 2012-06-06
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "brovaryi"

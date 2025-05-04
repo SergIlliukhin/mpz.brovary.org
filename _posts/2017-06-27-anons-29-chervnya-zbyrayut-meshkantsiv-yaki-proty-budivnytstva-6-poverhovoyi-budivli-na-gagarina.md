@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 29 червня збирають мешканців, які проти будівництва 6-поверхової будівлі на Гагаріна"
 date: 2017-06-27
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

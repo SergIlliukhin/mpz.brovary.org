@@ -1,6 +1,9 @@
 ---
 title: "Апеляційний суд не побачив \"злісної непокори міліції\" у діях \"ударівця\" Сімутіна"
 date: 2013-10-07
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 tags: 
   - "vibir-redaktsiyi"
   - "zlisna-nepokora-militsiyi"

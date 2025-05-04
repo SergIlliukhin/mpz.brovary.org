@@ -1,6 +1,9 @@
 ---
 title: "Адміністрація «Чистих матеріалів» знайшла «надійних» підписантів колективного договору"
 date: 2013-03-11
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 tags: 
   - "boyko"
   - "vibir-redaktsiyi"

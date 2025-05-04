@@ -1,6 +1,9 @@
 ---
 title: "Бровари в Верховній Раді: як працює Парламент, погляд зсередини - ФОТО"
 date: 2015-12-25
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "aktsiyi-zahodi"
 tags: 

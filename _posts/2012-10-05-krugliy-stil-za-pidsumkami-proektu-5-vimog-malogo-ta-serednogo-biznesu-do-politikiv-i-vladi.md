@@ -1,6 +1,9 @@
 ---
 title: "Круглий стіл за підсумками Проекту «5 вимог малого та середнього бізнесу до політиків і влади»"
 date: 2012-10-05
+author: 
+  username: "nemchina"
+  display_name: "Тетяна Немчина"
 categories: 
   - "kolonka-avtora"
 tags: 

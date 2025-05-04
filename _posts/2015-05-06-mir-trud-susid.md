@@ -1,6 +1,9 @@
 ---
 title: "Мир, труд, сусід"
 date: 2015-05-06
+author: 
+  username: "serhij batuk"
+  display_name: "Батюк Сергій"
 categories: 
   - "kolonka-avtora"
 ---

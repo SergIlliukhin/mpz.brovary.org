@@ -1,6 +1,9 @@
 ---
 title: "Як броварські школярі допомагають воїнам АТО"
 date: 2014-12-19
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

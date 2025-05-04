@@ -1,6 +1,9 @@
 ---
 title: "Броварський прокурор незадоволений рівнем корупції у Броварах"
 date: 2013-03-13
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

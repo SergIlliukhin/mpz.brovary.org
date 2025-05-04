@@ -1,6 +1,9 @@
 ---
 title: "Люстрація в дії: Миколу Гарника звільнено з посади броварського прокурора"
 date: 2014-09-09
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "brovarska-mizhrayonna-prokuratura"
   - "vibir-redaktsiyi"

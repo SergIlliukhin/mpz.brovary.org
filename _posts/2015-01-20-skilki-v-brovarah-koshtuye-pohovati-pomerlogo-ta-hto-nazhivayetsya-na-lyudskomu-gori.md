@@ -1,6 +1,9 @@
 ---
 title: "Скільки в Броварах коштує поховати небіжчика та хто наживається на людському горі?"
 date: 2015-01-20
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "rozsliduvannya"
 tags: 

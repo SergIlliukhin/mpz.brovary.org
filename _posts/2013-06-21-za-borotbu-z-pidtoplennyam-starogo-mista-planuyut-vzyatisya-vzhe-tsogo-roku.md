@@ -1,6 +1,9 @@
 ---
 title: "За боротьбу з підтопленням Старого міста планують взятися вже цього року"
 date: 2013-06-21
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 tags: 
   - "vibir-redaktsiyi"
   - "novini"

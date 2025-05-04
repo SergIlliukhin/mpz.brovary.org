@@ -1,6 +1,9 @@
 ---
 title: "Броварська Самопоміч: за півкроку до розкриття інтриги"
 date: 2015-08-07
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

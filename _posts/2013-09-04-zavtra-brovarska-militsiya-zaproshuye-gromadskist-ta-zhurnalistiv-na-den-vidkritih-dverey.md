@@ -1,6 +1,9 @@
 ---
 title: "Завтра броварська міліція запрошує громадськість та журналістів на День відкритих дверей"
 date: 2013-09-04
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Погодження броварського бюджету на 2016 рік триватиме щонайменше до четверга - ГРАФІК"
 date: 2015-12-15
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

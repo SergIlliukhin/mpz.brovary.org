@@ -1,6 +1,9 @@
 ---
 title: "Аліна Дяченко: «Журналістика для мене – це спосіб змінити світ і чиновників»"
 date: 2015-02-06
+author: 
+  username: "pecheritsia"
+  display_name: "Анастасія Печериця"
 categories: 
   - "interview"
 tags: 

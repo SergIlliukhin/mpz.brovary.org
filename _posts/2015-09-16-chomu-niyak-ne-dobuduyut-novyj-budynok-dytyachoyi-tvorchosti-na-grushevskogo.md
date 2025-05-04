@@ -1,6 +1,9 @@
 ---
 title: "Чому ніяк не добудують новий Будинок дитячої творчості на Грушевського?"
 date: 2015-09-16
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "rozsliduvannya"
   - "brovary"

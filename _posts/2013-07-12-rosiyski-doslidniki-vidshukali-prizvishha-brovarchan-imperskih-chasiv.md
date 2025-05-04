@@ -1,6 +1,9 @@
 ---
 title: "Російські дослідники відшукали прізвища броварчан імперських часів"
 date: 2013-07-12
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "kolonka-avtora"
 tags: 

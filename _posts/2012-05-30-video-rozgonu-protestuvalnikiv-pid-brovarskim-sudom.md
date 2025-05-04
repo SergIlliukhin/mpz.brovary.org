@@ -1,6 +1,9 @@
 ---
 title: "Відео розгону протестувальників під броварським судом"
 date: 2012-05-30
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "video"
 tags: 

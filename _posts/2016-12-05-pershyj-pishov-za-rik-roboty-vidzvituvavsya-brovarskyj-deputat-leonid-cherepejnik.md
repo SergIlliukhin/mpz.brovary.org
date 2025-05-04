@@ -1,6 +1,9 @@
 ---
 title: "\"Перший пішов\": за рік роботи відзвітувався броварський депутат Леонід Черепейнік"
 date: 2016-12-05
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

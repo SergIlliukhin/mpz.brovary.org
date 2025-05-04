@@ -1,6 +1,9 @@
 ---
 title: "1 червня на юних броварчан чекають конкурси, лялькова вистава, веселі старти та морозиво"
 date: 2014-05-30
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

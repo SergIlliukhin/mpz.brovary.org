@@ -1,6 +1,9 @@
 ---
 title: "Хто відповідає за освітлення та майданчики на прибудинковій території?"
 date: 2015-11-06
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

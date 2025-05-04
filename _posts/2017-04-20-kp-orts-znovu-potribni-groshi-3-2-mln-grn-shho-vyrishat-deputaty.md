@@ -1,6 +1,9 @@
 ---
 title: "КП \"ОРЦ\" знову потрібні гроші - 3,2 млн грн. Що вирішать депутати?"
 date: 2017-04-20
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

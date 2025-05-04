@@ -1,6 +1,9 @@
 ---
 title: "Чи потрібно сплачувати авансовий платіж в рахунках на сплату послуг ПАТ \"Укртелеком\""
 date: 2012-07-24
+author: 
+  username: "serzhov"
+  display_name: "Сергій Севрук"
 categories: 
   - "kolonka-avtora"
 tags: 

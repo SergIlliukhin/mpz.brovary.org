@@ -1,6 +1,9 @@
 ---
 title: "Кого підтримує Інтернет? Передвиборче онлайн-опитування від \"Маєш право знати\""
 date: 2014-10-15
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "97-okrug"
   - "brovary"

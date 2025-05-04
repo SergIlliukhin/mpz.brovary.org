@@ -1,6 +1,9 @@
 ---
 title: "48 серія Броварської Санта-Барбари"
 date: 2014-10-13
+author: 
+  username: "simutin"
+  display_name: "Роман Сімутін"
 categories: 
   - "kolonka-avtora"
 tags: 

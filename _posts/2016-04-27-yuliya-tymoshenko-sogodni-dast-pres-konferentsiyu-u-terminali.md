@@ -1,6 +1,9 @@
 ---
 title: "Юлія Тимошенко сьогодні дасть прес-конференцію у \"Терміналі\""
 date: 2016-04-27
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

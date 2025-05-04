@@ -1,6 +1,9 @@
 ---
 title: "У Броварах на «гарячому» затримали магазинного злодія, - ДСО"
 date: 2015-07-03
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

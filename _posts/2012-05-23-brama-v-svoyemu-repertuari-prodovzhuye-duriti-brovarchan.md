@@ -1,6 +1,9 @@
 ---
 title: "\"Брама\" в своєму репертуарі продовжує дурити броварчан"
 date: 2012-05-23
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Кінопоказ: Драму та комедію «Недоторканні» покажуть 30 липня в парку «Перемога»"
 date: 2016-07-29
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

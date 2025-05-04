@@ -1,6 +1,9 @@
 ---
 title: "Затоплення амбулаторій, ритуальний бізнес і \"схеми\" в морзі, - оперативні новини"
 date: 2017-06-26
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "brovary"
   - "novyny"

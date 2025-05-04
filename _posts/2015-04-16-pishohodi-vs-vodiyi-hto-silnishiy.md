@@ -1,6 +1,9 @@
 ---
 title: "Пішоходи VS водії – хто сильніший?"
 date: 2015-04-16
+author: 
+  username: "cherednik"
+  display_name: "Юрій Чередник"
 categories: 
   - "kolonka-avtora"
 ---

@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: У \"Прометеї\" покажуть фільм Довженка \"Земля\""
 date: 2016-09-10
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

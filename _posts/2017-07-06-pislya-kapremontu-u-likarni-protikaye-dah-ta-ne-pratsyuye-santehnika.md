@@ -1,6 +1,9 @@
 ---
 title: "Після капремонту в лікарні протікає дах та не працює сантехніка"
 date: 2017-07-06
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

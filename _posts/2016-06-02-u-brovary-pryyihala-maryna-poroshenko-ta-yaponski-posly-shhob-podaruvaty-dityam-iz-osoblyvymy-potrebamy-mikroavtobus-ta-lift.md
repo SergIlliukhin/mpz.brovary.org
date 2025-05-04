@@ -1,6 +1,9 @@
 ---
 title: "Марина Порошенко: японці назбирали грошей для броварських дітей із особливими потребами"
 date: 2016-06-02
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

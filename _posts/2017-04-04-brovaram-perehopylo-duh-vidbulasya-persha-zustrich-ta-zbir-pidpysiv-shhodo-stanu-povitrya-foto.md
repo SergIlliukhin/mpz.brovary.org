@@ -1,6 +1,9 @@
 ---
 title: "Броварам \"перехопило дух\". Відбулася перша зустріч та збір підписів щодо стану повітря - ФОТО"
 date: 2017-04-04
+author: 
+  username: "mizina"
+  display_name: "Дарина Мізіна"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

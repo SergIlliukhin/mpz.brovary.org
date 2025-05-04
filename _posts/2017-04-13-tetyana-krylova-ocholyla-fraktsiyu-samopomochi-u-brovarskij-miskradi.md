@@ -1,6 +1,9 @@
 ---
 title: "Тетяна Крилова очолила фракцію «Самопомочі» у Броварській міськраді?"
 date: 2017-04-13
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

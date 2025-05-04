@@ -1,6 +1,9 @@
 ---
 title: "Броварський \"ДемАльянс\" проти аврального приймання бюджету - ВІДЕО"
 date: 2016-12-22
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

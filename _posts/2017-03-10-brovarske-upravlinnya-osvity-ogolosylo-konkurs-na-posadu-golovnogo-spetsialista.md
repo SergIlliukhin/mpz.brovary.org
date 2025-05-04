@@ -1,6 +1,9 @@
 ---
 title: "Броварське управління освіти оголосило конкурс на посаду головного спеціаліста"
 date: 2017-03-10
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

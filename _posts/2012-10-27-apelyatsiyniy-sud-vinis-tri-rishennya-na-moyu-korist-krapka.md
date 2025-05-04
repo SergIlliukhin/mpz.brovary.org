@@ -1,6 +1,9 @@
 ---
 title: "Апеляційний суд виніс три рішення на мою користь. Крапка"
 date: 2012-10-27
+author: 
+  username: "pavriz"
+  display_name: "Павло Різаненко"
 categories: 
   - "kolonka-avtora"
 tags: 

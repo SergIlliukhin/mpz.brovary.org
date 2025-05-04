@@ -1,6 +1,9 @@
 ---
 title: "Понад 200 броварчан пройшли маршем на захист родини Павличенко. ФОТО, ВІДЕО"
 date: 2013-01-14
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "aktsiyi-zahodi"
 tags: 

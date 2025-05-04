@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: Оприлюднено графік засідань комісій Броварської міської ради"
 date: 2016-02-16
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Чи можливий діалог між громадськістю та владою у Броварах?"
 date: 2015-07-22
+author: 
+  username: "leszczyk"
+  display_name: "Надія Лещик"
 categories: 
   - "kolonka-avtora"
 ---

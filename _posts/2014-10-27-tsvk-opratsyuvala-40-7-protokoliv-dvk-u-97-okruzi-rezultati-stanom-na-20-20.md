@@ -1,6 +1,9 @@
 ---
 title: "ЦВК опрацювала 40,7 % протоколів ДВК у 97 окрузі: результати станом на 20:20"
 date: 2014-10-27
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

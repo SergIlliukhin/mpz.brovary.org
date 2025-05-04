@@ -1,6 +1,9 @@
 ---
 title: "Депутат Аліна Дяченко подала до суду на мера Броварів Ігоря Сапожка"
 date: 2016-02-12
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

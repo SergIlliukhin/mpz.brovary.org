@@ -1,6 +1,9 @@
 ---
 title: "24 жовтня відбудеться 38-а чергова сесія Броварської міської ради"
 date: 2013-09-27
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Суд визнав страйк на «Чистих матеріалах» незаконним"
 date: 2013-02-25
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 tags: 
   - "vibir-redaktsiyi"
   - "kiyiv"

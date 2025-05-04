@@ -1,6 +1,9 @@
 ---
 title: "9 травня у Броварах: зміна формату під тиском нової війни"
 date: 2014-05-13
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 categories: 
   - "kolonka-avtora"
 tags: 

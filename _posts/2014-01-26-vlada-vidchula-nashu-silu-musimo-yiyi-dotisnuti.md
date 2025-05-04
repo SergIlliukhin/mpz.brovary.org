@@ -1,6 +1,9 @@
 ---
 title: "Влада відчула нашу силу – мусимо її дотиснути!"
 date: 2014-01-26
+author: 
+  username: "udar"
+  display_name: "УДАР"
 categories: 
   - "kolonka-avtora"
 tags: 

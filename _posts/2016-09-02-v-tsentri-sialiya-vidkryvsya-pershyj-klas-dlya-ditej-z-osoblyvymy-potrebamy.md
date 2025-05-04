@@ -1,6 +1,9 @@
 ---
 title: "В Центрі \"Сіалія\" відкрився перший клас для дітей з особливими потребами"
 date: 2016-09-02
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

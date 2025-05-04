@@ -1,6 +1,9 @@
 ---
 title: "Один загиблий, четверо постраждалих: цієї суботи на мосту біля Торгмашу сталася ДТП - ФОТО, ВІДЕО"
 date: 2015-06-22
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

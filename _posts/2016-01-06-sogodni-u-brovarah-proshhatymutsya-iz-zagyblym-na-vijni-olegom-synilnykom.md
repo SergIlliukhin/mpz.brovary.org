@@ -1,6 +1,9 @@
 ---
 title: "Сьогодні у Броварах прощатимуться із загиблим на війні Олегом Синільником"
 date: 2016-01-06
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

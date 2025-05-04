@@ -1,6 +1,9 @@
 ---
 title: "У парку \"Перемога\" відбувся фінальний показ кінофестивалю \"Короткий метр\""
 date: 2015-09-16
+author: 
+  username: "onikienko"
+  display_name: "Вікторія Оникієнко"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

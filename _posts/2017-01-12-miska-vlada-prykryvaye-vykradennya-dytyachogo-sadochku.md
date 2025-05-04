@@ -1,6 +1,9 @@
 ---
 title: "Міська влада покриває викрадення дитячого садочку"
 date: 2017-01-12
+author: 
+  username: "nikitchina"
+  display_name: "Ірина Нікітчина"
 categories: 
   - "kolonka-avtora"
 tags: 

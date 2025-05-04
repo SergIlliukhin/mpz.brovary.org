@@ -1,6 +1,9 @@
 ---
 title: "Непрозоре Prozorro в Броварах, або #ТребаПоважатиВибірЛюдей"
 date: 2016-03-19
+author: 
+  username: "berestovyj"
+  display_name: "Олег Берестовий"
 categories: 
   - "kolonka-avtora"
 ---

@@ -1,6 +1,9 @@
 ---
 title: "Перевізники та влада не хочуть діалогу! ДемАльянс підтримує акцію!"
 date: 2017-02-05
+author: 
+  username: "berestovyj"
+  display_name: "Олег Берестовий"
 categories: 
   - "kolonka-avtora"
 ---

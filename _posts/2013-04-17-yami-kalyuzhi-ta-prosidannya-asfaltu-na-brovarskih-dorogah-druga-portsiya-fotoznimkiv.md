@@ -1,6 +1,9 @@
 ---
 title: "Ями, калюжі та просідання асфальту на броварських дорогах: друга порція фотознімків"
 date: 2013-04-17
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

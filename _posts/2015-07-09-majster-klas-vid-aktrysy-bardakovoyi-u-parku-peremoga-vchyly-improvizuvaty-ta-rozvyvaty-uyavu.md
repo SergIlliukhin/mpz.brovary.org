@@ -1,6 +1,9 @@
 ---
 title: "Акторка з Броварів Ірина Бардакова дала майстер-клас, як позбутись комплексів"
 date: 2015-07-09
+author: 
+  username: "komarovskyj"
+  display_name: "Комаровський Олексій"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

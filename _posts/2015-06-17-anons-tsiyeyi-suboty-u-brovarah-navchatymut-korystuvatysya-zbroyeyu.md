@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: Цієї суботи Українська асоціація власників зброї влаштовує у Броварах \"Gun Open Day\""
 date: 2015-06-17
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

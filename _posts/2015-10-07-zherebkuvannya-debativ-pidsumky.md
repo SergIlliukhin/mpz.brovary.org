@@ -1,6 +1,9 @@
 ---
 title: "\"Громадське телебачення\" визначило порядок дебатів кандидатів в мери Броварів"
 date: 2015-10-07
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

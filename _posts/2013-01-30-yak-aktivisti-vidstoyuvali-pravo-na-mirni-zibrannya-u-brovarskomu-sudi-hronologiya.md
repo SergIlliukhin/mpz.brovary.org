@@ -1,6 +1,9 @@
 ---
 title: "Як активісти відстоювали право на мирні зібрання у броварському суді. Хронологія"
 date: 2013-01-30
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "kolonka-avtora"
 ---

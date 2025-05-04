@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 4 та 5 березня відбудуться безкоштовні майстер-класи з робототехніки від центру \"BOTEON\""
 date: 2017-03-01
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "brovary"

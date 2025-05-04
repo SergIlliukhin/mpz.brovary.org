@@ -1,6 +1,9 @@
 ---
 title: "Чи допоможе круглий стіл реформувати фінансування медичних закладів в Броварах?"
 date: 2016-01-28
+author: 
+  username: "samopomich"
+  display_name: "Самопоміч"
 categories: 
   - "kolonka-avtora"
 tags: 

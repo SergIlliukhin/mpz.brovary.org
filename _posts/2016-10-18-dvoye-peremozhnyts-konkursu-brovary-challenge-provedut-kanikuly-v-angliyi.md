@@ -1,6 +1,9 @@
 ---
 title: "Двоє переможниць конкурсу Brovary Challenge проведуть канікули в Англії"
 date: 2016-10-18
+author: 
+  username: "onikienko"
+  display_name: "Вікторія Оникієнко"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

@@ -1,6 +1,9 @@
 ---
 title: "Третій місяць роботи: Освітлення переходів, молодіжні проекти, промоція відкритих даних"
 date: 2016-01-29
+author: 
+  username: "demalliance"
+  display_name: "ДемАльянс Бровари"
 categories: 
   - "kolonka-avtora"
 tags: 

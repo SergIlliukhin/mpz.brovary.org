@@ -1,6 +1,9 @@
 ---
 title: "Квартири для силовиків. Хто наступний? (огляд рішень виконавчого комітету)"
 date: 2012-04-20
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"
   - "vykonkom"

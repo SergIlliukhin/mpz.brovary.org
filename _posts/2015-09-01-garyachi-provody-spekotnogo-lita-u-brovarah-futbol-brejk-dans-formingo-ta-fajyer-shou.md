@@ -1,6 +1,9 @@
 ---
 title: "Гарячі проводи спекотного літа у Броварах: футбол, брейк-данс, «Formingo» та файєр-шоу"
 date: 2015-09-01
+author: 
+  username: "komarovskyj"
+  display_name: "Комаровський Олексій"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

@@ -1,6 +1,9 @@
 ---
 title: "Закони не для нас... або що нам закон?..."
 date: 2015-06-15
+author: 
+  username: "simutin"
+  display_name: "Роман Сімутін"
 categories: 
   - "kolonka-avtora"
 tags: 

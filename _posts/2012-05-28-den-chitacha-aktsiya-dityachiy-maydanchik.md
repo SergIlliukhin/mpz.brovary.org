@@ -1,6 +1,9 @@
 ---
 title: "День читача: Акція «Дитячий майданчик»"
 date: 2012-05-28
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "den-chitacha"
   - "dityachiy-maydanchik"

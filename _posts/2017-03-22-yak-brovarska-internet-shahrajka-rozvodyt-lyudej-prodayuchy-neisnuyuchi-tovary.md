@@ -1,6 +1,9 @@
 ---
 title: "Як броварська інтернет-шахрайка \"розводить\" людей, продаючи неіснуючі товари"
 date: 2017-03-22
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

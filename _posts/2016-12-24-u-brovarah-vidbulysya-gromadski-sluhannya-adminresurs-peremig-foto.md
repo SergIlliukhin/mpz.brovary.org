@@ -1,6 +1,9 @@
 ---
 title: "У Броварах відбулися громадські слухання: \"адмінресурс\" переміг - ФОТО"
 date: 2016-12-24
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

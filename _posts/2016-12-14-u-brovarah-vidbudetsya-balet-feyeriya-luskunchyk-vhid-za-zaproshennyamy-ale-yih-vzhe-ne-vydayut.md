@@ -1,6 +1,9 @@
 ---
 title: "У Броварах відбудеться балет-феєрія \"Лускунчик\". Вхід за запрошеннями, але їх вже не видають"
 date: 2016-12-14
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

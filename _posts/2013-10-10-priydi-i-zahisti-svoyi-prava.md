@@ -1,6 +1,9 @@
 ---
 title: "Прийди і захисти свої права!"
 date: 2013-10-10
+author: 
+  username: "svoboda"
+  display_name: "Прес-служба ВО Свобода"
 categories: 
   - "announce"
   - "kolonka-avtora"

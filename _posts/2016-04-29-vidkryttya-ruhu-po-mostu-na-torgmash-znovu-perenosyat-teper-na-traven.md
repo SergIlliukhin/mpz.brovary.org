@@ -1,6 +1,9 @@
 ---
 title: "Відкриття руху по мосту на Торгмаш знову переносять, тепер - на травень"
 date: 2016-04-29
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

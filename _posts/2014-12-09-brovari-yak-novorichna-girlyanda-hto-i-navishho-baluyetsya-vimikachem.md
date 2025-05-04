@@ -1,6 +1,9 @@
 ---
 title: "Бровари – як новорічна гірлянда. Хто і навіщо балується вимикачем?"
 date: 2014-12-09
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 ---

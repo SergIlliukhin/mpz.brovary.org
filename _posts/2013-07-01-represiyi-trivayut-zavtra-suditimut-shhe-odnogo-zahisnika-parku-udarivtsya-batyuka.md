@@ -1,6 +1,9 @@
 ---
 title: "Репресії тривають: завтра судитимуть ще одного захисника парку - «ударівця» Батюка"
 date: 2013-07-01
+author: 
+  username: "udar"
+  display_name: "УДАР"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Реконструкція басейну \"Купава\" закінчиться не раніше грудня 2013 року"
 date: 2012-12-19
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

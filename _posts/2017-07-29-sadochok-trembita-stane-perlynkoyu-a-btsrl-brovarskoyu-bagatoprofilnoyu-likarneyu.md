@@ -1,6 +1,9 @@
 ---
 title: "ДНЗ \"Трембіта\" стане \"Перлинкою\", а БЦРЛ - КП \"Броварська багатопрофільна лікарня\""
 date: 2017-07-29
+author: 
+  username: "mizina"
+  display_name: "Дарина Мізіна"
 categories: 
   - "vlada"
   - "aktsiyi-zahodi"

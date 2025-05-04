@@ -1,6 +1,9 @@
 ---
 title: "Режим посипався: хроніка революції 21 лютого у Броварах"
 date: 2014-02-22
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "vibir-redaktsiyi"
   - "novini"

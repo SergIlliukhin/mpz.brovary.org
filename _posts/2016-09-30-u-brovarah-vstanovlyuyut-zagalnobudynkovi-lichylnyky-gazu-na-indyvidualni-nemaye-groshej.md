@@ -1,6 +1,9 @@
 ---
 title: "У Броварах встановлюють загальнобудинкові лічильники газу, на індивідуальні - немає грошей"
 date: 2016-09-30
+author: 
+  username: "ulitenko"
+  display_name: "Ірина Улітенко"
 categories: 
   - "brovary"
   - "novyny"

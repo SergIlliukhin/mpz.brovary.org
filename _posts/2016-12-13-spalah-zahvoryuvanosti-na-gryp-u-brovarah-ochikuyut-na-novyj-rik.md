@@ -1,6 +1,9 @@
 ---
 title: "Спалах захворюваності на грип у Броварах очікують на Новий рік"
 date: 2016-12-13
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

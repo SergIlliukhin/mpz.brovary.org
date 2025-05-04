@@ -1,6 +1,9 @@
 ---
 title: "Опубліковано розклад ефірного часу та друкованих площ для агітації кандидатів 97 округу"
 date: 2012-09-13
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "agitatsiya"
   - "brovary"

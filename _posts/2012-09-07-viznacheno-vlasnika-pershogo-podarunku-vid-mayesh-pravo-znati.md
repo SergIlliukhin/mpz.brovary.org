@@ -1,6 +1,9 @@
 ---
 title: "Визначено власника першого подарунку від \"Маєш Право Знати\""
 date: 2012-09-07
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "mayesh-pravo-znati"
   - "novini"

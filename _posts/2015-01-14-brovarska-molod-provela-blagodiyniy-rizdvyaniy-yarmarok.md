@@ -1,6 +1,9 @@
 ---
 title: "На морозне Різдво броварчани зігрівались чаєм, колядками та благодійністю"
 date: 2015-01-14
+author: 
+  username: "onikienko"
+  display_name: "Вікторія Оникієнко"
 categories: 
   - "aktsiyi-zahodi"
 tags: 

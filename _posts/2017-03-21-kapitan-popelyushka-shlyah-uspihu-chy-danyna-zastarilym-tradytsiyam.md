@@ -1,6 +1,9 @@
 ---
 title: "\"Капітан і Попелюшка — шлях до успіху\". Чи данина застарілим традиціям?"
 date: 2017-03-21
+author: 
+  username: "mizina"
+  display_name: "Дарина Мізіна"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

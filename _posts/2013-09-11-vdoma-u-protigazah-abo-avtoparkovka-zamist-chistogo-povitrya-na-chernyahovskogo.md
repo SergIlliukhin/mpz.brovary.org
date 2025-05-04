@@ -1,6 +1,9 @@
 ---
 title: "Вдома у протигазах, або автопарковка замість \"чистого\" повітря на Черняховського"
 date: 2013-09-11
+author: 
+  username: "veremchuk"
+  display_name: "Ірина Веремчук"
 categories: 
   - "kolonka-avtora"
 tags: 

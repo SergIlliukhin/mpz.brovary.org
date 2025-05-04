@@ -1,6 +1,9 @@
 ---
 title: "Найактивніші та найініціативніші: серед броварських школярів визначили «Лідера року»"
 date: 2015-05-27
+author: 
+  username: "leshchyk"
+  display_name: "Ольга Лещик"
 categories: 
   - "hromada"
 tags: 

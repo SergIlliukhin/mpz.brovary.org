@@ -1,6 +1,9 @@
 ---
 title: "У Броварах з'явився фонд, який зайнявся стерилізацією безпритульних тварин"
 date: 2016-04-11
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Звіт за 365 днів роботи"
 date: 2016-12-01
+author: 
+  username: "cherepejnik"
+  display_name: "Леонід Черепейнік"
 categories: 
   - "kolonka-avtora"
 ---

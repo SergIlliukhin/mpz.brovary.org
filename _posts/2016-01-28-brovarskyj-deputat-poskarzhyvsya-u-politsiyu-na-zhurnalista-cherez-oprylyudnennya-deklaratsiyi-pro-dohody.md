@@ -1,6 +1,9 @@
 ---
 title: "Броварський депутат поскаржився у поліцію на журналіста через оприлюднення декларації про доходи"
 date: 2016-01-28
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

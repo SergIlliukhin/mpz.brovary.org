@@ -1,6 +1,9 @@
 ---
 title: "Ремонти у броварських школах проводять фірми, що перебувають під слідством?"
 date: 2017-07-28
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "rozsliduvannya"
   - "vlada"

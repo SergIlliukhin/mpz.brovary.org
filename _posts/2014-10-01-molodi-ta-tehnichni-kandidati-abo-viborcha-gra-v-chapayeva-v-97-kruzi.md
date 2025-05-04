@@ -1,6 +1,9 @@
 ---
 title: "Молоді та технічні кандидати або Виборча гра в \"Чапаєва\" в 97 окрузі"
 date: 2014-10-01
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 categories: 
   - "kolonka-avtora"
 tags: 

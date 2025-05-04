@@ -1,6 +1,9 @@
 ---
 title: "Центральний апарат «Свободи» виключив з партії секретаря броварської міськради Здоровця"
 date: 2016-03-17
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "vlada"
   - "novyny"

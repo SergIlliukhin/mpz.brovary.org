@@ -1,6 +1,9 @@
 ---
 title: "Що зараз відбувається в Броварах. Вісті з фронтів боротьби."
 date: 2014-02-26
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 ---

@@ -1,6 +1,9 @@
 ---
 title: "Мер Броварів має ходити містом пішки, їздити на роботу велосипедом та бути відкритим"
 date: 2015-10-16
+author: 
+  username: "sauk"
+  display_name: "Андрій Саук"
 categories: 
   - "kolonka-avtora"
 tags: 

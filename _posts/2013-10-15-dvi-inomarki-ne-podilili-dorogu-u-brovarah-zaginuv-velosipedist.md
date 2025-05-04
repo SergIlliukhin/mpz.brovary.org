@@ -1,6 +1,9 @@
 ---
 title: "Дві іномарки не поділили дорогу у Броварах. Загинув велосипедист"
 date: 2013-10-15
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

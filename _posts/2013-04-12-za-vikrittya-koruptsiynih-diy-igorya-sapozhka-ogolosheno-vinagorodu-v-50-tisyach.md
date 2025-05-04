@@ -1,6 +1,9 @@
 ---
 title: "За викриття корупційних дій Ігоря Сапожка оголошено винагороду в 50 тисяч"
 date: 2013-04-12
+author: 
+  username: "demalliance"
+  display_name: "ДемАльянс Бровари"
 categories: 
   - "kolonka-avtora"
 tags: 

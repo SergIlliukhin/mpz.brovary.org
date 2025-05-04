@@ -1,6 +1,9 @@
 ---
 title: "Дмитра Ратнікова призначили дипломатом у Російській Федерації"
 date: 2013-03-06
+author: 
+  username: "SergIlliukhin"
+  display_name: "Сергій Іллюхін"
 tags: 
   - "vibir-redaktsiyi"
   - "vibori-2012"

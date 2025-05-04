@@ -1,6 +1,9 @@
 ---
 title: "За 5 місяців волонтери Коордцентру допомоги військовим зібрали півмільйона гривень на АТО"
 date: 2014-11-10
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "andriy-balabayev"
   - "brovary"

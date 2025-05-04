@@ -1,6 +1,9 @@
 ---
 title: "Великий суботник у Броварах - ВІДЕО"
 date: 2015-05-10
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

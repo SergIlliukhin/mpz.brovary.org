@@ -1,6 +1,9 @@
 ---
 title: "Сьогодні у Броварах включають опалення - замість гарячої води"
 date: 2014-10-23
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

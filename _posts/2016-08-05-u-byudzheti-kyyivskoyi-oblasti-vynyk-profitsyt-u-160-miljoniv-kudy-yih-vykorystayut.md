@@ -1,6 +1,9 @@
 ---
 title: "У бюджеті Київської області виник профіцит у 160 мільйонів: куди їх використають?"
 date: 2016-08-05
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

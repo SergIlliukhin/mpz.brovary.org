@@ -1,6 +1,9 @@
 ---
 title: "На броварських «тітушок» планують влаштувати «сафарі»?"
 date: 2014-01-29
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "brovary"
   - "brovari-vstavay"

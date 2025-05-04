@@ -1,6 +1,9 @@
 ---
 title: "\"Добровольці Божої чоти\" у Броварах: друга презентація від режисера - HromadskeBro.tv"
 date: 2015-06-22
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

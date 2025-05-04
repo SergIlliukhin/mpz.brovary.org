@@ -1,6 +1,9 @@
 ---
 title: "Броварська лікарня здасть в оренду частини двох приміщень - у котельні та пологовому"
 date: 2015-08-25
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

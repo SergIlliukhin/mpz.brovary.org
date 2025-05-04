@@ -1,6 +1,9 @@
 ---
 title: "«Наступ» зробив інструкцію для виборців «Як не дати вкрасти свій голос?»"
 date: 2012-10-18
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"
   - "vibori"

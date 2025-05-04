@@ -1,6 +1,9 @@
 ---
 title: "Навіщо спилюють дерева на вулиці Київській?"
 date: 2017-04-03
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

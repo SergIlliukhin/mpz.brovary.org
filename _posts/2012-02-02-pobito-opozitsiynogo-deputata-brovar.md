@@ -1,6 +1,9 @@
 ---
 title: "Здійснено напад на опозиційного депутата Броварської міської ради"
 date: 2012-02-02
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

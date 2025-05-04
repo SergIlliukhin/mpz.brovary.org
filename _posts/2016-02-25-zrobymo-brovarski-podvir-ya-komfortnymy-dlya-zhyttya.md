@@ -1,6 +1,9 @@
 ---
 title: "Зробимо броварські подвір'я комфортними для життя!"
 date: 2016-02-25
+author: 
+  username: "batkivshchyna"
+  display_name: "Батьківщина"
 categories: 
   - "kolonka-avtora"
 tags: 

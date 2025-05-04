@@ -1,6 +1,9 @@
 ---
 title: "Знову без світла: посеред березня очікують планових ремонтів електромереж у Броварах"
 date: 2016-03-02
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

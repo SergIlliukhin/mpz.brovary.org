@@ -1,6 +1,9 @@
 ---
 title: "Дані поліції за минулий тиждень та ДТП за участі мати-водійки у стані алкогольного сп'яніння"
 date: 2017-03-28
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "Щеплення від грипу: Бровари очікують вакцину"
 date: 2016-11-10
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

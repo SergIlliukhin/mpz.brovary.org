@@ -1,6 +1,9 @@
 ---
 title: "Екс-регіоналка Багмут йде на вибори від Ліберальної партії в окрузі №97"
 date: 2014-10-02
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "ivanenko"
   - "bagmut"

@@ -1,6 +1,9 @@
 ---
 title: "28 ідей за два дні: броварчани «інвестували» вихідні у проекти по розвитку міста - ФОТОРЕПОРТАЖ"
 date: 2015-03-23
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "aktsiyi-zahodi"
 tags: 

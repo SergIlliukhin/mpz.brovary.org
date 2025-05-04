@@ -1,6 +1,9 @@
 ---
 title: "17 травня у Броварах від влади вимагатимуть «Дати дорогу!»"
 date: 2013-05-15
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

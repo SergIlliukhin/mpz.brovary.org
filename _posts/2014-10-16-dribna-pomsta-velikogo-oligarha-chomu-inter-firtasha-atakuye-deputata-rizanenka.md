@@ -1,6 +1,9 @@
 ---
 title: "Дрібна помста великого олігарха: чому «Інтер» Фірташа атакує депутата Різаненка?"
 date: 2014-10-16
+author: 
+  username: "plaksya"
+  display_name: "Юрій Плакся"
 categories: 
   - "kolonka-avtora"
 ---

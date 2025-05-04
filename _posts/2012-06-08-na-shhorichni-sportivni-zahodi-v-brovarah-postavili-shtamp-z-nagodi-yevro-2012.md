@@ -1,6 +1,9 @@
 ---
 title: "Мерія міста не підготувала жодного заходу під Євро 2012"
 date: 2012-06-08
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "yevro"
   - "yevro-2012"

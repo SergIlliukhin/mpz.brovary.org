@@ -1,6 +1,9 @@
 ---
 title: "У Броварах створили робочу групу з контролю стану повітря. Які перші результати?"
 date: 2017-07-13
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "vlada"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "\"Не хочу в камеру!\""
 date: 2011-11-14
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "У броварських школах оголосили карантин до 2 березня"
 date: 2015-02-23
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "karantin"

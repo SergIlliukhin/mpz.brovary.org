@@ -1,6 +1,9 @@
 ---
 title: "Порошенко призначив нового керівника Київщини"
 date: 2016-02-03
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "52 сесія. Чому бідні – бо дурні, чому дурні – бо бідні, або хто нас такими вважає?"
 date: 2015-01-30
+author: 
+  username: "simutin"
+  display_name: "Роман Сімутін"
 categories: 
   - "kolonka-avtora"
 tags: 

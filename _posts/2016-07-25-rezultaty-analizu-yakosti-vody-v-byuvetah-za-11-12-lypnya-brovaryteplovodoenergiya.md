@@ -1,6 +1,9 @@
 ---
 title: "Результати аналізу якості води в бюветах за 11-12 липня, - \"Броваритепловодоенергія\""
 date: 2016-07-25
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "У Броварах запрацювала ще одна громадська приймальня з надання правової допомоги"
 date: 2014-01-13
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

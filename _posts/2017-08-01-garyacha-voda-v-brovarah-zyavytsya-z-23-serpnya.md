@@ -1,6 +1,9 @@
 ---
 title: "Гаряча вода в Броварах з'явиться з 23 серпня"
 date: 2017-08-01
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: В Броварах триває медична акція для жінок \"Рак можна зупинити!\""
 date: 2016-12-14
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

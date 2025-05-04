@@ -1,6 +1,9 @@
 ---
 title: "Гуртожиток заводу пластмас віддали в приватну власність, щоб згодом продати «з молотка»?"
 date: 2017-02-08
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "rozsliduvannya"
   - "brovary"

@@ -1,6 +1,9 @@
 ---
 title: "58 сесія міськради: підтримка громадських формувань, боротьба з підтопленням і новий \"почесний громадянин\""
 date: 2015-09-28
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "vlada"
   - "aktsiyi-zahodi"

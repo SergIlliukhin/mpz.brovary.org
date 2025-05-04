@@ -1,6 +1,9 @@
 ---
 title: "Як і обіцяв Булатов, 11 квітня басейн «Купава» відкрив свої двері для відвідувачів"
 date: 2014-04-14
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "bulatov"
   - "vibir-redaktsiyi"

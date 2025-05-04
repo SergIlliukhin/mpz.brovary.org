@@ -1,6 +1,9 @@
 ---
 title: "З 1 жовтня можна добровільно здати зброю - МВС"
 date: 2015-09-29
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

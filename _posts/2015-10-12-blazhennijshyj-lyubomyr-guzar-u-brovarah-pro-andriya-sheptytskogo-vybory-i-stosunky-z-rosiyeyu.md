@@ -1,6 +1,9 @@
 ---
 title: "Блаженнійший Любомир Гузар у Броварах: про Андрія Шептицького,  вибори і стосунки з Росією"
 date: 2015-10-12
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

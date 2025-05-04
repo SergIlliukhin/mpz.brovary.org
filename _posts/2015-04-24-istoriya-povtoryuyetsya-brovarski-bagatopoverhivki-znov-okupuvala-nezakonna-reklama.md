@@ -1,6 +1,9 @@
 ---
 title: "Реклама на під'їздах броварських висоток: хто насправді заробляє на платних оголошеннях?"
 date: 2015-04-24
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "rozsliduvannya"
 tags: 

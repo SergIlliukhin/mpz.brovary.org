@@ -1,6 +1,9 @@
 ---
 title: "\"Свобода\" оприлюднила інструкції \"Регіонів\" щодо \"наших\" в комісіях"
 date: 2012-08-30
+author: 
+  username: "svoboda"
+  display_name: "Прес-служба ВО Свобода"
 categories: 
   - "kolonka-avtora"
 tags: 

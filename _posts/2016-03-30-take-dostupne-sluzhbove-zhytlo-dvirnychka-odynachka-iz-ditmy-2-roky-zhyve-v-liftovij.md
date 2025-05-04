@@ -1,6 +1,9 @@
 ---
 title: "Таке «доступне» службове житло: двірничка-одиначка із дітьми 2 роки живе в «ліфтовій»"
 date: 2016-03-30
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "rozsliduvannya"
   - "brovary"

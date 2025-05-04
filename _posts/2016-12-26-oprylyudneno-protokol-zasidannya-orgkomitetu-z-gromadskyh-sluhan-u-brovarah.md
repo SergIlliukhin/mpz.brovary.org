@@ -1,6 +1,9 @@
 ---
 title: "Оприлюднено протокол засідання оргкомітету з громадських слухань у Броварах"
 date: 2016-12-26
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "hromada"
   - "novyny"

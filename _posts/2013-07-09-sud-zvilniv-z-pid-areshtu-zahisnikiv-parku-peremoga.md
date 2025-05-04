@@ -1,6 +1,9 @@
 ---
 title: "Суд звільнив з-під арешту захисників парку «Перемога»"
 date: 2013-07-09
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "illyenko"
   - "vibir-redaktsiyi"

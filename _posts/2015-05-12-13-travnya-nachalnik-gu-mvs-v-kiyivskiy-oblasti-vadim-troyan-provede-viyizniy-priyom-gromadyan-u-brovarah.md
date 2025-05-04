@@ -1,6 +1,9 @@
 ---
 title: "13 травня начальник обласного управління міліції Вадим Троян проведе прийом громадян у Броварах"
 date: 2015-05-12
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Передайте, будь ласка, за якість. У Броварах відбулася відкрита зустріч із приводу тарифів на проїзд"
 date: 2017-01-26
+author: 
+  username: "mizina"
+  display_name: "Дарина Мізіна"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

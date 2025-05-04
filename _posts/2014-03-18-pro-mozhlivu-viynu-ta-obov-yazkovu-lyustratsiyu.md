@@ -1,6 +1,9 @@
 ---
 title: "Про можливу війну та обов’язкову люстрацію"
 date: 2014-03-18
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "У Києві заборонили побілку дерев, а в Броварах про цю заборону не чули"
 date: 2017-04-06
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "В Зазим'ї встановлять пам'ятник \"Борцям за волю України\""
 date: 2013-05-23
+author: 
+  username: "svoboda"
+  display_name: "Прес-служба ВО Свобода"
 categories: 
   - "kolonka-avtora"
 ---

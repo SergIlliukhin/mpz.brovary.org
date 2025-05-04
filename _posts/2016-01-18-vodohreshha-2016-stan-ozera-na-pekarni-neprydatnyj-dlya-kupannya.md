@@ -1,6 +1,9 @@
 ---
 title: "Водохреща 2016: стан озера на Пекарні непридатний для купання"
 date: 2016-01-18
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

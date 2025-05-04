@@ -1,6 +1,9 @@
 ---
 title: "День Сусіда 3: Єдність понад усе"
 date: 2015-04-06
+author: 
+  username: "simutin"
+  display_name: "Роман Сімутін"
 categories: 
   - "kolonka-avtora"
 ---

@@ -1,6 +1,9 @@
 ---
 title: "ТОВ «Комунтранс-Бровари»: Життя та сміття"
 date: 2015-05-27
+author: 
+  username: "cherednik"
+  display_name: "Юрій Чередник"
 categories: 
   - "kolonka-avtora"
 ---

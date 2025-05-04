@@ -1,6 +1,9 @@
 ---
 title: "Гаражний меморандум так і не підписали, збори у Броварській міськраді закінчились нічим - ФОТО"
 date: 2017-03-10
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "hromada"
   - "novyny"

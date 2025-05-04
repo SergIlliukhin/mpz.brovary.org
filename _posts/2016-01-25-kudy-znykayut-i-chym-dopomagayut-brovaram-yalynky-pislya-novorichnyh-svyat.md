@@ -1,6 +1,9 @@
 ---
 title: "Куди зникають і чим допомагають Броварам ялинки після новорічних свят?"
 date: 2016-01-25
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "brovary"
   - "novyny"

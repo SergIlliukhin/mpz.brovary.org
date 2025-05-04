@@ -1,6 +1,9 @@
 ---
 title: "18 квітня у Броварському центрі зайнятості відбудуться Ярмарки вакансій та професій"
 date: 2013-04-09
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

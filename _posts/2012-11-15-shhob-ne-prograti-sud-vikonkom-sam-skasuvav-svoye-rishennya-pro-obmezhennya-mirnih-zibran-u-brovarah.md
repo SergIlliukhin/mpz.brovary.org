@@ -1,6 +1,9 @@
 ---
 title: "Щоб не програти суд, виконком сам скасував своє рішення про обмеження мирних зібрань у Броварах"
 date: 2012-11-15
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 tags: 
   - "illyuhin"
   - "brovary"

@@ -1,6 +1,9 @@
 ---
 title: "У центрі Броварів упала балконна плита на пішохідну доріжку"
 date: 2016-04-25
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

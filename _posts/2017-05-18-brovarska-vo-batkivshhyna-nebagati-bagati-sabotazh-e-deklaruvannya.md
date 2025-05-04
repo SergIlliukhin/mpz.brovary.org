@@ -1,6 +1,9 @@
 ---
 title: "Броварська ВО «Батьківщина»: небагаті багаті і саботаж е-декларування"
 date: 2017-05-18
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "rozsliduvannya"
   - "vlada"

@@ -1,6 +1,9 @@
 ---
 title: "Хто продає алкоголь неповнолітнім: активісти провели рейд по закладах харчування у Броварах"
 date: 2015-04-09
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 tags: 
   - "music-hall"
   - "music-hall-park"

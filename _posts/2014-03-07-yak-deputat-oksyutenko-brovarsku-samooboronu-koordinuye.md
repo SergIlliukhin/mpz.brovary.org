@@ -1,6 +1,9 @@
 ---
 title: "Як депутат Оксютенко броварську самооборону \"координує\""
 date: 2014-03-07
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

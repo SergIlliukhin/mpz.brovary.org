@@ -1,6 +1,9 @@
 ---
 title: "У Броварах збирають продукти для Кухні Євромайдану"
 date: 2014-03-28
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 tags: 
   - "yevromaydan"
   - "brovarska-narodna-rada"

@@ -1,6 +1,9 @@
 ---
 title: "Головну транспортну магістраль Броварів на Великдень перекриють"
 date: 2012-04-12
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovaryi"
   - "dorogi"

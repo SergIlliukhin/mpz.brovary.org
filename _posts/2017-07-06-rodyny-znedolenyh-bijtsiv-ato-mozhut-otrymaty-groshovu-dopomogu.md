@@ -1,6 +1,9 @@
 ---
 title: "Родини знедолених і бійців АТО можуть отримати грошову допомогу"
 date: 2017-07-06
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

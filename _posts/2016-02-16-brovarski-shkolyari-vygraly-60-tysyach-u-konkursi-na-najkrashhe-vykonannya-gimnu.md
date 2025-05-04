@@ -1,6 +1,9 @@
 ---
 title: "Броварські школярі виграли 60 тисяч у конкурсі на найкраще виконання гімну"
 date: 2016-02-16
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

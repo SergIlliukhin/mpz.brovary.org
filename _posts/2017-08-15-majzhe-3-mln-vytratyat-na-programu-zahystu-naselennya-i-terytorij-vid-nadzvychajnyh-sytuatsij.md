@@ -1,6 +1,9 @@
 ---
 title: "Майже 3 млн витратять на  Програму захисту населення і територій від надзвичайних ситуацій"
 date: 2017-08-15
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

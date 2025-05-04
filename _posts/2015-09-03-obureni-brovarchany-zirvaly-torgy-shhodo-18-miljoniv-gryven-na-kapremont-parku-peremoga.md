@@ -1,6 +1,9 @@
 ---
 title: "Обурені броварчани зірвали торги щодо 18 мільйонів гривень на капремонт парку \"Перемога\""
 date: 2015-09-03
+author: 
+  username: "leshchyk"
+  display_name: "Ольга Лещик"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

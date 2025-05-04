@@ -1,6 +1,9 @@
 ---
 title: "Цієї суботи центральну площу Броварів палитимуть \"хіп-хопом\" та \"брейк-дансом\""
 date: 2015-06-25
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

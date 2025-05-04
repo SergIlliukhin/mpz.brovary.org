@@ -1,6 +1,9 @@
 ---
 title: "Скільки вовка не годуй, все рівно в ліс дивиться"
 date: 2015-02-26
+author: 
+  username: "simutin"
+  display_name: "Роман Сімутін"
 categories: 
   - "kolonka-avtora"
 tags: 

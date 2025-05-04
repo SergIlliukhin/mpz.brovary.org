@@ -1,6 +1,9 @@
 ---
 title: "Управління комунальної власності оприлюднило перелік вільних приміщень у Броварах"
 date: 2015-07-02
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "У Броварах зі зброєю пограбовано заправку: зловмисник стріляв у поліцейських та втік"
 date: 2016-03-17
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

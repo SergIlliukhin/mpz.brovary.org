@@ -1,6 +1,9 @@
 ---
 title: "Броварчани «перезавантажили» міське телебачення"
 date: 2014-02-24
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "brovari-vstavay"
   - "vibir-redaktsiyi"

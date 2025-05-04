@@ -1,6 +1,9 @@
 ---
 title: "Чи можлива співпраця молоді з владою?"
 date: 2013-02-09
+author: 
+  username: "mzpl"
+  display_name: "Молодь за права людини"
 categories: 
   - "kolonka-avtora"
 tags: 

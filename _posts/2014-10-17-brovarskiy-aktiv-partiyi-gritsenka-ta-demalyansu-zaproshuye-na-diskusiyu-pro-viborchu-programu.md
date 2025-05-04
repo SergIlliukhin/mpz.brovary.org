@@ -1,6 +1,9 @@
 ---
 title: "Броварський актив партії Гриценка та \"ДемАльянсу\" запрошує на дискусію про виборчу програму"
 date: 2014-10-17
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "agitatsiya"
   - "alina-dyachenko"

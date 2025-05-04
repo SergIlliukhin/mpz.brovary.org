@@ -1,6 +1,9 @@
 ---
 title: "Броварчани зібрали для своїх \"нових однокласників\" з Криму та Донбасу майже 2000 гривень"
 date: 2014-08-13
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 tags: 
   - "blagodiyniy-yarmarok"
   - "brovary"

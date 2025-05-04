@@ -1,6 +1,9 @@
 ---
 title: "Головна ялинка міста - ФОТОРЕПОРТАЖ"
 date: 2016-12-20
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

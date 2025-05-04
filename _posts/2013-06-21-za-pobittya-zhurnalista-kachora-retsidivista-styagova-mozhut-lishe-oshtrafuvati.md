@@ -1,6 +1,9 @@
 ---
 title: "За побиття журналіста Качора рецидивіста Стягова можуть лише оштрафувати?"
 date: 2013-06-21
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"
   - "kachor"

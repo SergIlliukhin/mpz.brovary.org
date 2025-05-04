@@ -1,6 +1,9 @@
 ---
 title: "За даними екзит-полу в 97 окрузі з великим відривом переміг Павло Різаненко"
 date: 2012-10-29
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "gfk"
   - "socis"

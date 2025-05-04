@@ -1,6 +1,9 @@
 ---
 title: "«Соціально-демографічний» портрет депутата Броварської міськради"
 date: 2012-06-15
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 categories: 
   - "rozsliduvannya"
 tags: 

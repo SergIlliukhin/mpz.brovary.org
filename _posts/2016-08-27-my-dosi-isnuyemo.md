@@ -1,6 +1,9 @@
 ---
 title: "Ми досі існуємо"
 date: 2016-08-27
+author: 
+  username: "koorcentr"
+  display_name: "Коордцентр допомоги військовим"
 categories: 
   - "kolonka-avtora"
 ---

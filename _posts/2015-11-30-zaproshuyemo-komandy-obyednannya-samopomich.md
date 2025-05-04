@@ -1,6 +1,9 @@
 ---
 title: "Запрошуємо до команди \"Об'єднання \"Самопоміч\""
 date: 2015-11-30
+author: 
+  username: "samopomich"
+  display_name: "Самопоміч"
 categories: 
   - "kolonka-avtora"
 ---

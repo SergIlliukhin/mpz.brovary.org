@@ -1,6 +1,9 @@
 ---
 title: "«Споживач має право»: хто і чому має сплачувати авансовий платіж за послуги «Укртелекому»?"
 date: 2012-07-25
+author: 
+  username: "serzhov"
+  display_name: "Сергій Севрук"
 categories: 
   - "kolonka-avtora"
 tags: 

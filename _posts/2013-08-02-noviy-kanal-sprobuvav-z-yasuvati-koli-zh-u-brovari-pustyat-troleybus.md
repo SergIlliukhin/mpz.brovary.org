@@ -1,6 +1,9 @@
 ---
 title: "\"Новий канал\" спробував з'ясувати, коли ж у Бровари пустять тролейбус - ВІДЕО"
 date: 2013-08-02
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

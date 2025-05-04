@@ -1,6 +1,9 @@
 ---
 title: "КОД Броварщини: повний перелік учасників"
 date: 2012-05-07
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"
   - "komitet-oporu-diktaturi"

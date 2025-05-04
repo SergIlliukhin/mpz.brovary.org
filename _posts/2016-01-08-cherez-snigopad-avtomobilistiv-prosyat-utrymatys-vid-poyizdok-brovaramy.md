@@ -1,6 +1,9 @@
 ---
 title: "Через снігопад автомобілістів просять утриматись від поїздок Броварами"
 date: 2016-01-08
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

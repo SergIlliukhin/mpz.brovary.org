@@ -1,6 +1,9 @@
 ---
 title: "Прокурору, який затягує справу захисників броварського парку, дісталось \"на горіхи\" від націоналістів"
 date: 2014-01-15
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "bragin"
   - "brovarskiy-miskrayonniy-sud"

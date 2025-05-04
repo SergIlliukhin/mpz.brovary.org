@@ -1,6 +1,9 @@
 ---
 title: "Броварські волонтери працюють як мурашки"
 date: 2014-12-11
+author: 
+  username: "koorcentr"
+  display_name: "Коордцентр допомоги військовим"
 categories: 
   - "kolonka-avtora"
 tags: 

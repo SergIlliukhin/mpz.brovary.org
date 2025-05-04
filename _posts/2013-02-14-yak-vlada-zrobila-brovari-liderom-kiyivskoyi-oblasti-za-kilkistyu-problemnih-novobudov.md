@@ -1,6 +1,9 @@
 ---
 title: "Як влада зробила Бровари лідером Київської області за кількістю проблемних новобудов"
 date: 2013-02-14
+author: 
+  username: "slobodyan"
+  display_name: "Олександр Слободян"
 categories: 
   - "kolonka-avtora"
 tags: 

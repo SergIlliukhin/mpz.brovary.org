@@ -1,6 +1,9 @@
 ---
 title: "Завтра у Броварах презентують юридичну приймальню «Самопомочі»"
 date: 2015-01-20
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

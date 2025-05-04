@@ -1,6 +1,9 @@
 ---
 title: "Ринок на Київський був «замінований» артилерійським снарядом, - поліція"
 date: 2016-04-07
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

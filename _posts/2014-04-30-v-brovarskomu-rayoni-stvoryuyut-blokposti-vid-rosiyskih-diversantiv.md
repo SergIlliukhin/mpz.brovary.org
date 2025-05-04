@@ -1,6 +1,9 @@
 ---
 title: "В Броварському районі створюють блокпости через загрозу руху російських диверсантів"
 date: 2014-04-30
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 categories: 
   - "video"
 tags: 

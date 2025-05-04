@@ -1,6 +1,9 @@
 ---
 title: "4 гривні - нова ціна проїзду по місту. Затверджено броварським виконкомом"
 date: 2017-05-17
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

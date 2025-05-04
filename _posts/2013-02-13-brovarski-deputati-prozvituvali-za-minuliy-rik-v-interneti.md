@@ -1,6 +1,9 @@
 ---
 title: "Броварські депутати прозвітували за минулий рік... в Інтернеті"
 date: 2013-02-13
+author: 
+  username: "Aleechka"
+  display_name: "Аліна Дяченко"
 tags: 
   - "brovary"
   - "veb-sayt"

@@ -1,6 +1,9 @@
 ---
 title: "Адмінресурс 2.0: нові форми передвиборчого підкупу в Броварах"
 date: 2015-10-22
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
 ---

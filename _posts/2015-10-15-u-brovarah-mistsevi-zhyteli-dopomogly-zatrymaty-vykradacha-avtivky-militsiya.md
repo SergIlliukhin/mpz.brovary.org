@@ -1,6 +1,9 @@
 ---
 title: "У Броварах місцеві жителі допомогли затримати викрадача автівки - міліція"
 date: 2015-10-15
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

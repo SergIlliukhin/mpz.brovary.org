@@ -1,6 +1,9 @@
 ---
 title: "День Захисника в Броварах: пафосні промови і без особливих розваг - ФОТО"
 date: 2016-10-15
+author: 
+  username: "ulitenko"
+  display_name: "Ірина Улітенко"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

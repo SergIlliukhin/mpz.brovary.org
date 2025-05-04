@@ -1,6 +1,9 @@
 ---
 title: "Завтра броварчани протестуватимуть проти підвищення тарифу на ВБО"
 date: 2013-01-10
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

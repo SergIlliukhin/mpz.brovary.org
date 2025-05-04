@@ -1,6 +1,9 @@
 ---
 title: "У Броварах під стінами міськради мітингувала опозиція та влада. Через міліцейський кордон"
 date: 2012-04-09
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "aktsiyi-zahodi"
 tags: 

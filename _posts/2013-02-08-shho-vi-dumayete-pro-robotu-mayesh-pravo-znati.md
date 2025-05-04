@@ -1,6 +1,9 @@
 ---
 title: "Опитування: що Ви думаєте про роботу \"Маєш право знати\"?"
 date: 2013-02-08
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "vidguki"
   - "vibir-redaktsiyi"

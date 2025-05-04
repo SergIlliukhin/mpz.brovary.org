@@ -1,6 +1,9 @@
 ---
 title: "У міліції подякували броварським самооборонцівцям за охорону громадського порядку"
 date: 2014-06-24
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 tags: 
   - "alyeshko"
   - "vibir-redaktsiyi"

@@ -1,6 +1,9 @@
 ---
 title: "(Не) безпечне місто"
 date: 2017-08-11
+author: 
+  username: "sauk"
+  display_name: "Андрій Саук"
 categories: 
   - "kolonka-avtora"
 ---

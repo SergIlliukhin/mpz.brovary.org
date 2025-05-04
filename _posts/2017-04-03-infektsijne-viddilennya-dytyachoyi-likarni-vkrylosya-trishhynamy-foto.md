@@ -1,6 +1,9 @@
 ---
 title: "Інфекційне відділення дитячої лікарні вкрилося тріщинами – ФОТО"
 date: 2017-04-03
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "brovary"
   - "aktsiyi-zahodi"

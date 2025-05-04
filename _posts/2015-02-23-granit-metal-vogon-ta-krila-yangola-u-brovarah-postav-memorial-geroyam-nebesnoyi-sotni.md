@@ -1,6 +1,9 @@
 ---
 title: "Граніт, метал, вогонь та крила янгола – у Броварах постав меморіал Героям Небесної Сотні"
 date: 2015-02-23
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 categories: 
   - "aktsiyi-zahodi"
 tags: 

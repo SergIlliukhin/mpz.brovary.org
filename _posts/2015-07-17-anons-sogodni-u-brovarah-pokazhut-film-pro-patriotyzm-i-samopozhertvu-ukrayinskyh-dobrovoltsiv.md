@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: У Броварах покажуть фільм про патріотизм і самопожертву українських добровольців"
 date: 2015-07-17
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

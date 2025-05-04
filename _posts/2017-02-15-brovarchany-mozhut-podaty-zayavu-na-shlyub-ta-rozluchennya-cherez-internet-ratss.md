@@ -1,6 +1,9 @@
 ---
 title: "Броварчани можуть подати заяву на шлюб та розлучення через Інтернет, - РАЦС"
 date: 2017-02-15
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

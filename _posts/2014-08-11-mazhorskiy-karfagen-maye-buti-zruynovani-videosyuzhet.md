@@ -1,6 +1,9 @@
 ---
 title: "Завтра міська влада може вирішити долю «мажорського притону» в «Прометеї»? ВІДЕОСЮЖЕТ"
 date: 2014-08-11
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Броварська молодь «вмирає» від російських товарів просто в супермаркетах"
 date: 2014-07-10
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 tags: 
   - "atb"
   - "vibir-redaktsiyi"

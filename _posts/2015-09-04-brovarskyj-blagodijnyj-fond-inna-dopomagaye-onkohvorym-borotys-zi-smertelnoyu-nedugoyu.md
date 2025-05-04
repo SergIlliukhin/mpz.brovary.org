@@ -1,6 +1,9 @@
 ---
 title: "Броварський благодійний фонд «Інна» допомагає онкохворим боротись зі смертельною недугою"
 date: 2015-09-04
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "interview"
   - "hromada"

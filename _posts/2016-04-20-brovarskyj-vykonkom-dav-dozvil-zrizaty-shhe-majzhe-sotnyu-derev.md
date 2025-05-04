@@ -1,6 +1,9 @@
 ---
 title: "Броварський виконком дав дозвіл зрізати ще майже сотню дерев"
 date: 2016-04-20
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

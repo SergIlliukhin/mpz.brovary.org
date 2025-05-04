@@ -1,6 +1,9 @@
 ---
 title: "Про порушення під час виборчої кампанії можна повідомляти на спеціальний \"телефон довіри\" СБУ"
 date: 2015-09-30
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

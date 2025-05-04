@@ -1,6 +1,9 @@
 ---
 title: "Броварчани написали скаргу на сморід від котельні. Що з цього вийшло?"
 date: 2015-02-26
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

@@ -1,6 +1,9 @@
 ---
 title: "Депутати підтримали рішення не скорочувати лікарняні ліжка в БЦРЛ"
 date: 2016-06-07
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "brovary"
   - "novyny"

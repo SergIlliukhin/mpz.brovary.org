@@ -1,6 +1,9 @@
 ---
 title: "Звання \"Почесний громаднин Броварів\" зроблять посмертним, щоб нагородити Дворянець та Лисенка"
 date: 2014-05-30
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "antonina-dvoryanets"
   - "vibir-redaktsiyi"

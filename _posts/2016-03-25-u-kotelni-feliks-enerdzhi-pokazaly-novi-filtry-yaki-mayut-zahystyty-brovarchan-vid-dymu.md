@@ -1,6 +1,9 @@
 ---
 title: "У котельні \"Фелікс Енерджі\" показали нові фільтри, які мають захистити броварчан від диму"
 date: 2016-03-25
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "brovary"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "У червні та липні броварчанам доведеться нагрівати воду самотужки"
 date: 2014-05-28
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "brovary"
   - "vidklyuchennya"

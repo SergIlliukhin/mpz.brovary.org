@@ -1,6 +1,9 @@
 ---
 title: "Статистика ДТП у Броварах: 50 аварій, 5 загиблих і 78 травмованих за останні 9 місяців, – ДАІ"
 date: 2015-10-22
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

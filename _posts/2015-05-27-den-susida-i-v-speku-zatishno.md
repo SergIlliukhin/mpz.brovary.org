@@ -1,6 +1,9 @@
 ---
 title: "День Сусіда: І в спеку затишно"
 date: 2015-05-27
+author: 
+  username: "bilokin"
+  display_name: "Білокінь Андрій"
 categories: 
   - "kolonka-avtora"
 ---

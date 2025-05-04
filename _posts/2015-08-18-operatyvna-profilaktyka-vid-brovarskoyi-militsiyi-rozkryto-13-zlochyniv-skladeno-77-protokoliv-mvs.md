@@ -1,6 +1,9 @@
 ---
 title: "Оперативна профілактика від броварської міліції: розкрито 13 злочинів, складено 77 протоколів, - МВС"
 date: 2015-08-18
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "novyny"
 tags: 

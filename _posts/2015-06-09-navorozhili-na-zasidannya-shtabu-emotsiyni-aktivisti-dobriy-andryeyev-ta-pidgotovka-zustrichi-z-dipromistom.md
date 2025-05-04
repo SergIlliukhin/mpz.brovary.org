@@ -1,6 +1,9 @@
 ---
 title: "Наворожили на засідання Штабу по Генплану: амбіції з емоціями та перша спроба конструктиву"
 date: 2015-06-09
+author: 
+  username: "komarovskyj"
+  display_name: "Комаровський Олексій"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

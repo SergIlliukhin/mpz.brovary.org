@@ -1,6 +1,9 @@
 ---
 title: "Бровари заплатять орієнтовно по 500-600 грн за одну табличку із назвою вулиці"
 date: 2016-06-24
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "vlada"
   - "novyny"

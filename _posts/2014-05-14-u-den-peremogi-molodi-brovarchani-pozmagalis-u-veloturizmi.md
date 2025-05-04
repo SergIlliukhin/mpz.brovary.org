@@ -1,6 +1,9 @@
 ---
 title: "Броварська молодь в парку \"Перемога\" гартувала навички велотуризму"
 date: 2014-05-14
+author: 
+  username: "shako"
+  display_name: "Тарас Шако"
 categories: 
   - "aktsiyi-zahodi"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Кишкову паличку виявили в броварському дитсадку «Калинка»"
 date: 2016-10-24
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

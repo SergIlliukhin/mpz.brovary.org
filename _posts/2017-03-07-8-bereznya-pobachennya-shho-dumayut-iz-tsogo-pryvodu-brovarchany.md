@@ -1,6 +1,9 @@
 ---
 title: "8 Березня до побачення? Що думають із цього приводу броварчани"
 date: 2017-03-07
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "hromada"
   - "novyny"

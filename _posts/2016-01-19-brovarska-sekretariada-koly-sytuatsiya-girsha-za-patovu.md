@@ -1,6 +1,9 @@
 ---
 title: "Броварська секретаріада: коли ситуація гірша за патову"
 date: 2016-01-19
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 categories: 
   - "rozsliduvannya"
   - "vlada"

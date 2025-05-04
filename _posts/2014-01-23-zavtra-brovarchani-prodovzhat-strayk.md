@@ -1,6 +1,9 @@
 ---
 title: "Завтра броварчани продовжать страйк"
 date: 2014-01-23
+author: 
+  username: "udar"
+  display_name: "УДАР"
 categories: 
   - "kolonka-avtora"
 tags: 

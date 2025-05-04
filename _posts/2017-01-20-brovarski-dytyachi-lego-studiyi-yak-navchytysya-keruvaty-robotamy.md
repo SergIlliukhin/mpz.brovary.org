@@ -1,6 +1,9 @@
 ---
 title: "Броварські дитячі LEGO-студії: як навчитися керувати роботами"
 date: 2017-01-20
+author: 
+  username: "ulitenko"
+  display_name: "Ірина Улітенко"
 categories: 
   - "brovary"
   - "novyny"

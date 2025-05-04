@@ -1,6 +1,9 @@
 ---
 title: "Наболіло – «заради чого ми боролися»?"
 date: 2014-06-04
+author: 
+  username: "plaksya"
+  display_name: "Юрій Плакся"
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "У Броварах лікуватимуть вдвічі більше бійців АТО - HromadskeBro.tv"
 date: 2015-07-31
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "video"
 tags: 

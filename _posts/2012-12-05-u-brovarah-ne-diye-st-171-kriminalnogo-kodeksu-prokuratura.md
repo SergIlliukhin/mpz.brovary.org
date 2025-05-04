@@ -1,6 +1,9 @@
 ---
 title: "Правоохоронці офіційно дозволили нападати на журналістів у Броварах"
 date: 2012-12-05
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "brovary"
   - "vibir-redaktsiyi"

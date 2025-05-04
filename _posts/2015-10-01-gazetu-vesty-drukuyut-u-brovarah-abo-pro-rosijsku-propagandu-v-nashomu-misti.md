@@ -1,6 +1,9 @@
 ---
 title: "Газету \"Вести\" друкують у Броварах, або Про російську пропаганду в нашому місті"
 date: 2015-10-01
+author: 
+  username: "trydence"
+  display_name: "Дмитро Карпій"
 categories: 
   - "kolonka-avtora"
 tags: 

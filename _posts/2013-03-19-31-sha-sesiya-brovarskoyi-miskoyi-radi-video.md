@@ -1,6 +1,9 @@
 ---
 title: "31-ша сесія Броварської міської ради – ВІДЕО"
 date: 2013-03-19
+author: 
+  username: "simutin"
+  display_name: "Роман Сімутін"
 categories: 
   - "video"
 tags: 

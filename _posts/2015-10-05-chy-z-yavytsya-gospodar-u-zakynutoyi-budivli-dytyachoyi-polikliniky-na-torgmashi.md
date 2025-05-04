@@ -1,6 +1,9 @@
 ---
 title: "Чи з'явиться господар у закинутої будівлі дитячої поліклініки на Торгмаші?"
 date: 2015-10-05
+author: 
+  username: "yschenko"
+  display_name: "Ірина Ющенко"
 categories: 
   - "rozsliduvannya"
   - "brovary"

@@ -1,6 +1,9 @@
 ---
 title: "\"Лотерея по-броварськи\": що загрожує підприємцю за самовільно встановлений кіоск?"
 date: 2015-03-04
+author: 
+  username: "cherednik"
+  display_name: "Юрій Чередник"
 categories: 
   - "kolonka-avtora"
 tags: 

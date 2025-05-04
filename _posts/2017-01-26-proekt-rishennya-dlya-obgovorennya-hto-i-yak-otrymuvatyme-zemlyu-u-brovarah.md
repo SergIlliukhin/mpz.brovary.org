@@ -1,6 +1,9 @@
 ---
 title: "Проект рішення для обговорення: хто і як отримуватиме землю у Броварах. ЗНЯТО"
 date: 2017-01-26
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "vlada"
   - "novyny"

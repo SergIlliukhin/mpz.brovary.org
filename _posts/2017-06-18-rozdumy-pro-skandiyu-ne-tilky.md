@@ -1,6 +1,9 @@
 ---
 title: "Роздуми про  Скандію і не тільки..."
 date: 2017-06-18
+author: 
+  username: "nikitchina"
+  display_name: "Ірина Нікітчина"
 categories: 
   - "kolonka-avtora"
 ---

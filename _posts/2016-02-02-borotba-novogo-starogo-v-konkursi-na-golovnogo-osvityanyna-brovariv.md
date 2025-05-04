@@ -1,6 +1,9 @@
 ---
 title: "Боротьба \"нового\" і \"старого\" в конкурсі на головного освітянина Броварів - ВІДЕО"
 date: 2016-02-02
+author: 
+  username: "tatuuum"
+  display_name: "Тетяна Панкратьєва"
 categories: 
   - "hromada"
   - "aktsiyi-zahodi"

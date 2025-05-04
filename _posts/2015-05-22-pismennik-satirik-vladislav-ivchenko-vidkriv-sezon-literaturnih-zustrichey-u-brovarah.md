@@ -1,6 +1,9 @@
 ---
 title: "Письменник-сатирик Владислав Івченко відкрив сезон літературних зустрічей у Броварах"
 date: 2015-05-22
+author: 
+  username: "onikienko"
+  display_name: "Вікторія Оникієнко"
 categories: 
   - "aktsiyi-zahodi"
 tags: 

@@ -1,6 +1,9 @@
 ---
 title: "Бережемо природу рідного міста!"
 date: 2015-02-11
+author: 
+  username: "samopomich"
+  display_name: "Самопоміч"
 categories: 
   - "kolonka-avtora"
 tags: 

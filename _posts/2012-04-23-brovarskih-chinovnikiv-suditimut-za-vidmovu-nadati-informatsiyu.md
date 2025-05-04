@@ -1,6 +1,9 @@
 ---
 title: "Броварських чиновників судитимуть за відмову надати інформацію"
 date: 2012-04-23
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "illyuhin"
   - "informatsiyni-zapiti"

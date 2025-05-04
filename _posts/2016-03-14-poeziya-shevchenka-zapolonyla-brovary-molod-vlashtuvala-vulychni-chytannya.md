@@ -1,6 +1,9 @@
 ---
 title: "Поезія Шевченка заполонила Бровари: молодь влаштувала вуличні читання"
 date: 2016-03-14
+author: 
+  username: "onikienko"
+  display_name: "Вікторія Оникієнко"
 categories: 
   - "hromada"
   - "novyny"

@@ -1,6 +1,9 @@
 ---
 title: "На ремонт двох шкільних стадіонів витратили 2 млн 350 тисяч гривень з бюджету"
 date: 2015-08-06
+author: 
+  username: "onikienko"
+  display_name: "Вікторія Оникієнко"
 categories: 
   - "novyny"
 tags: 

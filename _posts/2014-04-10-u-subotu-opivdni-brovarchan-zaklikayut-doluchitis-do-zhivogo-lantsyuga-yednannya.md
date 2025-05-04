@@ -1,6 +1,9 @@
 ---
 title: "У суботу опівдні броварчан закликають долучитись до живого \"Ланцюга єднання\""
 date: 2014-04-10
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
 tags: 

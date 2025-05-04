@@ -1,6 +1,9 @@
 ---
 title: "Борис Слюсар та Галина Крушельницька: почати жити активно ніколи не пізно - ФОТО, ВІДЕО"
 date: 2016-09-14
+author: 
+  username: "jacyv"
+  display_name: "Світлана Яцив"
 categories: 
   - "interview"
   - "hromada"

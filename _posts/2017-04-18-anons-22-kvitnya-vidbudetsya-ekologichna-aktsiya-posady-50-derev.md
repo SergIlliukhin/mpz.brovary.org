@@ -1,6 +1,9 @@
 ---
 title: "АНОНС: 22 квітня відбудеться екологічна акція «Посади 50+ дерев»"
 date: 2017-04-18
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 categories: 
   - "announce"
   - "novyny"

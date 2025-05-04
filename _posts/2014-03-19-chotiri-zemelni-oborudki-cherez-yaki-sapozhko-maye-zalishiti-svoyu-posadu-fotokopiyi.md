@@ -1,6 +1,9 @@
 ---
 title: "Чотири земельні оборудки, через які Сапожко має залишити свою посаду - ФОТОКОПІЇ"
 date: 2014-03-19
+author: 
+  username: "pravoZnaty"
+  display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"
   - "novini"

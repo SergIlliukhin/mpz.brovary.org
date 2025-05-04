@@ -1,6 +1,9 @@
 ---
 title: "Офіційно: опалювальний сезон 2013-2014 року в Броварах припинено"
 date: 2013-10-08
+author: 
+  username: "kachor"
+  display_name: "Андрій Качор"
 tags: 
   - "vibir-redaktsiyi"
   - "novini"
