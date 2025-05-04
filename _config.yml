@@ -1,0 +1,48 @@
+title: Бровари - Маєш право знати
+description: Новини громадсько-політичного життя міста
+baseurl: "/mpz.brovary.org" # the subpath of your site, e.g. /blog
+url: "https://sergilliukhin.github.io" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+theme: minima
+permalink: /:title/
+
+# Collections
+collections:
+  pages:
+    output: true
+    permalink: /:title/
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+      coverImage: "/wp-content/uploads/2015/06/MPZ_logo.png"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      coverImage: "/wp-content/uploads/2015/06/MPZ_logo.png"
+      permalink: /:title/
+  - scope:
+      path: "404.md"
+    values:
+      layout: "home"
+      permalink: /404.html
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
