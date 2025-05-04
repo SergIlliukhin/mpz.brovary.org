@@ -3,7 +3,7 @@ title: "День героїв - Марш героїв. 24 травня. Бров
 date: 2015-05-21
 author: 
   username: "sokil"
-  display_name: ""Сокіл""
+  display_name: "\"Сокіл\""
 categories: 
   - "kolonka-avtora"
 tags: 

@@ -3,7 +3,7 @@ title: "Спортивні змагання у Броварах - до Дня н
 date: 2015-06-22
 author: 
   username: "sokil"
-  display_name: ""Сокіл""
+  display_name: "\"Сокіл\""
 categories: 
   - "kolonka-avtora"
 tags: 

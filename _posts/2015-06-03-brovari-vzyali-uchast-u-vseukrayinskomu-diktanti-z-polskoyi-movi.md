@@ -3,7 +3,7 @@ title: "Бровари взяли участь у всеукраїнському
 date: 2015-06-03
 author: 
   username: "rodzina"
-  display_name: ""Родина""
+  display_name: "\"Родина\""
 categories: 
   - "kolonka-avtora"
 tags: 

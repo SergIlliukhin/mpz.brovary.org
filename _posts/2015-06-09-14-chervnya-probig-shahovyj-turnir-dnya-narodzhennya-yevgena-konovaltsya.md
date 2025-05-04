@@ -3,7 +3,7 @@ title: "Пробіг і шаховий турнір - до дня народже
 date: 2015-06-09
 author: 
   username: "sokil"
-  display_name: ""Сокіл""
+  display_name: "\"Сокіл\""
 categories: 
   - "announce"
   - "kolonka-avtora"
