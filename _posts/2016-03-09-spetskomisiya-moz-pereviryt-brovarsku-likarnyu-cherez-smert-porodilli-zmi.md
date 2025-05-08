@@ -33,7 +33,7 @@ _Сюжет НТН, початок із 7:06_
 
 _Сюжет «Надзвичайних новин» на ICTV_
 
-<iframe src="http://ictv.ua/embed/125071" width="586" height="469" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://ictv.ua/embed/125071" width="586" height="469" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 Як ідеться в сюжетах, лікарі обласної лікарні одразу поставили жінці діагноз – гострий апендицит. Однак врятувати матір двох дітей їм не вдалось – почався жорсткий сеспис. Породіллю доправили до обласних медиків лише через 10 днів страждань хворої від болю.
 

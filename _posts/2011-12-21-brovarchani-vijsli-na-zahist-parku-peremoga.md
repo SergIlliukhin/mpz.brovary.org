@@ -51,4 +51,4 @@ tags:
 
 #### ЗМІ про нас
 
-**Gazeta.UA:** [У Броварах "регіонал" приватизував парк: люди виступили з протестом](http://gazeta.ua/articles/politics/_u-brovarah-regional-privatizuvav-park-lyudi-vistupili-z-protestom/414869 "Сергій Федоренко парк Перемога Бровари")
+**Gazeta.UA:** [У Броварах "регіонал" приватизував парк: люди виступили з протестом](https://gazeta.ua/articles/politics/_u-brovarah-regional-privatizuvav-park-lyudi-vistupili-z-protestom/414869 "Сергій Федоренко парк Перемога Бровари")

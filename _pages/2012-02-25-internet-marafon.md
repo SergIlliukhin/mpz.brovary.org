@@ -12,4 +12,4 @@ author:
 
 **Повний відеозапис інтернет-марафону "Віктор Янукович - 2 роки умовно" можна знайти тут: [Віктор Янукович - 2 роки умовно](http://www.youtube.com/playlist?list=PL5B6BDC4C6003CFF2&feature=view_all "Віктор Янукович. 2 роки умовно")**
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/videoseries?list=PL5B6BDC4C6003CFF2&amp;hl=en_US" frameborder="0" allowfullscreen></iframe>
+<iframe width="[^"]*" height="[^"]*" src="https://www.youtube.com/embed/videoseries?list=PL5B6BDC4C6003CFF2&amp;hl=en_US" frameborder="0" allowfullscreen></iframe>

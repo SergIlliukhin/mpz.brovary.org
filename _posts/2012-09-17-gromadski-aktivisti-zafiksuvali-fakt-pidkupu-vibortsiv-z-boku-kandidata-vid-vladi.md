@@ -31,4 +31,4 @@ coverImage: "wp-content/uploads/2012/09/Rozdacha-paykiv.jpg"
 
 <iframe src="https://www.youtube.com/embed/zhZNv9ufvi8" frameborder="0" width="560" height="315"></iframe>
 
-Повідомлення "ГроЗи" передрукували численні всеукраїнські ЗМІ: "[Українська правда](http://www.pravda.com.ua/news/2012/09/13/6972648/)",  "[Газета.ЮА](http://gazeta.ua/articles/politics/_masazhist-azarova-pidkupovue-viborciv-produktovimi-naborami/455731)", "[Український тиждень](http://tyzhden.ua/News/59932)" тощо.
+Повідомлення "ГроЗи" передрукували численні всеукраїнські ЗМІ: "[Українська правда](http://www.pravda.com.ua/news/2012/09/13/6972648/)",  "[Газета.ЮА](https://gazeta.ua/articles/politics/_masazhist-azarova-pidkupovue-viborciv-produktovimi-naborami/455731)", "[Український тиждень](https://tyzhden.ua/News/59932)" тощо.

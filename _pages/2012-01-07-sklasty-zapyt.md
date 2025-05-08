@@ -12,6 +12,6 @@ author:
 
 Для подання письмового запиту запитувач може використати [форму](http://brovary.kiev.ua/sites/default/files/doc/2012/novini/DDPI-2.doc), розміщену на офіційному веб-сайті Броварської міської ради. Для зручності розміщуємо дану форму тут:
 
-**[Форма запиту](http://www.slideshare.net/sergIlliukhin/ss-10868564 "Форма запиту")** 
+**[Форма запиту](https://www.slideshare.net/sergIlliukhin/ss-10868564 "Форма запиту")** 
 
-View more [documents](http://www.slideshare.net/) from [sergIlliukhin](http://www.slideshare.net/sergIlliukhin)
+View more [documents](https://www.slideshare.net/) from [sergIlliukhin](https://www.slideshare.net/sergIlliukhin)
