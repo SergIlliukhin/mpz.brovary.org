@@ -6,4 +6,75 @@ author:
   display_name: "Маєш право знати"
 ---
 
-\[vc\_row full\_width="" parallax="" parallax\_image=""\]\[vc\_column width="1/1"\]\[gazeta\_list\_video\_posts main\_query="yes" id="video\_posts-1column333" expiration="300" columns="3" thumbnail\_size="image-370-252" ignore\_sticky\_posts="" orderby="date" order="DESC" posts\_per\_page="9" heading="Відеорепортажі \`\`Маєш право знати\`\`" post\_tags="videoreportazh"\]\[/vc\_column\]\[/vc\_row\]
+<div class="video-posts-grid">
+{% assign video_posts = site.posts | where: "tags", "videoreportazh" | sort: "date" | reverse %}
+{% for post in video_posts limit:100 %}
+  <div class="video-post-card">
+    <a href="{{ post.url | relative_url }}">
+      {% if post.image %}
+        <img src="{{ site.url }}{{ site.baseurl }}/{{ post.coverImage }}" alt="{{ post.title }}" class="video-thumbnail">
+      {% endif %}
+      <h3>{{ post.title }}</h3>
+      <p class="post-date">{{ post.date | date: "%d.%m.%Y" }}</p>
+    </a>
+  </div>
+{% endfor %}
+</div>
+
+<style>
+.video-posts-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  margin: 20px 0;
+}
+
+.video-post-card {
+  border: 1px solid #eee;
+  border-radius: 8px;
+  overflow: hidden;
+  transition: transform 0.2s;
+}
+
+.video-post-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.video-post-card a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.video-thumbnail {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.video-post-card h3 {
+  padding: 15px;
+  margin: 0;
+  font-size: 1.1em;
+  line-height: 1.4;
+}
+
+.post-date {
+  padding: 0 15px 15px;
+  margin: 0;
+  color: #666;
+  font-size: 0.9em;
+}
+
+@media (max-width: 768px) {
+  .video-posts-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 480px) {
+  .video-posts-grid {
+    grid-template-columns: 1fr;
+  }
+}
+</style>
