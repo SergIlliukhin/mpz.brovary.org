@@ -11,7 +11,7 @@ author:
 {% for post in video_posts limit:100 %}
   <div class="video-post-card">
     <a href="{{ post.url | relative_url }}">
-      {% if post.image %}
+      {% if post.coverImage %}
         <img src="{{ site.url }}{{ site.baseurl }}/{{ post.coverImage }}" alt="{{ post.title }}" class="video-thumbnail">
       {% endif %}
       <h3>{{ post.title }}</h3>
