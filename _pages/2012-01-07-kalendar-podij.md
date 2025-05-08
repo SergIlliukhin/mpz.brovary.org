@@ -17,4 +17,4 @@ author:
 
 На жаль, на [сайті Броварської міської ради](http://brovary-rada.gov.ua/ "Броварська міська рада") не завжди завчасно публікується інформація про засідання виконавчого комітету, часто громадськість повідомляється про це пост-фактум, через тиждень після самого засідання.
 
-<iframe id="333854515" title="Календар подій (Броварська міська рада)" src="http://www.google.com/calendar/embed?src=r43p4ls58b359lafa5od2gqslo@group.calendar.google.com&amp;color=%23668CD9&amp;mode=AGENDA&amp;showTitle=1&amp;showNav=1&amp;showDate=1&amp;showTabs=1&amp;showCalendars=0&amp;hl=uk" frameborder="0" scrolling="no" width="100%" height="400"></iframe>
+<iframe id="333854515" title="Календар подій (Броварська міська рада)" src="https://www.google.com/calendar/embed?src=r43p4ls58b359lafa5od2gqslo@group.calendar.google.com&amp;color=%23668CD9&amp;mode=AGENDA&amp;showTitle=1&amp;showNav=1&amp;showDate=1&amp;showTabs=1&amp;showCalendars=0&amp;hl=uk" frameborder="0" scrolling="no" width="100%" height="400"></iframe>

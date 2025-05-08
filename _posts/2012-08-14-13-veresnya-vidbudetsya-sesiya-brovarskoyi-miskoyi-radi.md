@@ -67,4 +67,4 @@ coverImage: "wp-content/uploads/2012/08/gerb-Brovari.jpg"
 
 **Інші події органів місцевого самоврядування міста Бровари**
 
-<iframe id="333854515" title="Календар подій (Броварська міська рада)" src="http://www.google.com/calendar/embed?src=r43p4ls58b359lafa5od2gqslo@group.calendar.google.com&amp;color=%23668CD9&amp;mode=AGENDA&amp;showTitle=0&amp;showNav=1&amp;showDate=1&amp;showTabs=1&amp;showCalendars=0&amp;hl=uk" frameborder="0" scrolling="no" width="100%" height="400"></iframe>
+<iframe id="333854515" title="Календар подій (Броварська міська рада)" src="https://www.google.com/calendar/embed?src=r43p4ls58b359lafa5od2gqslo@group.calendar.google.com&amp;color=%23668CD9&amp;mode=AGENDA&amp;showTitle=0&amp;showNav=1&amp;showDate=1&amp;showTabs=1&amp;showCalendars=0&amp;hl=uk" frameborder="0" scrolling="no" width="100%" height="400"></iframe>
