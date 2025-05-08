@@ -15,6 +15,7 @@ tags:
   - "novini"
   - "tsn"
   - "fekaliyi"
+coverImage: "wp-content/uploads/2013/08/Richka-smerdyuchka.png"
 ---
 
 **[![Річка-смердючка](https://mpz.brovary.org/wp-content/uploads/2013/08/Richka-smerdyuchka.png)](https://mpz.brovary.org/wp-content/uploads/2013/08/Richka-smerdyuchka.png)У Броварах вода із фекаліями тече по одній із центральних вулиць міста і має специфічний запах. Мешканці двоповерхівки відмовляються платити за чищення вигрібних ям, тому каналізаційні стоки течуть поміж житлових будинків та магазинів. У відкритої каналізації вже з'явилася перша жертва, - йдеться в сюжеті [ТСН](http://tsn.ua/ukrayina/u-brovarah-teche-richka-iz-fekaliy-cherez-boykot-zhitelyami-komunalnikiv-306763.html "ТСН").**

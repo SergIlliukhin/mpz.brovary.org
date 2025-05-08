@@ -16,6 +16,7 @@ tags:
   - "upravlinnya-osviti"
   - "shkola"
   - "shkola-6"
+coverImage: "wp-content/uploads/2014/08/SHkola-BNVO-05.jpg"
 ---
 
 **[![Школа БНВО 09](https://mpz.brovary.org/wp-content/uploads/2014/08/SHkola-BNVO-09.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/08/SHkola-BNVO-09.jpg)Минулого тижня у Броварах спалахнув черговий скандал, який переріс у справжній бунт. Цього разу пристрасті розгорілися навколо ймовірного закриття школи № 6. А починалося все досить банально: броварська влада хотіла одним пострілом вбити відразу двох зайців, однак припустилася великої стратегічної помилки.**

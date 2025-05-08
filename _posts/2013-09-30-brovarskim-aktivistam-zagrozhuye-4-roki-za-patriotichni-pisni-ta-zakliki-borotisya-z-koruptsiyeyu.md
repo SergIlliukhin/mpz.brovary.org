@@ -14,6 +14,7 @@ tags:
   - "rizanenko"
   - "svoboda"
   - "udar"
+coverImage: "wp-content/uploads/2013/09/bat_coll1.jpg"
 ---
 
 [![bat_coll](https://mpz.brovary.org/wp-content/uploads/2013/09/bat_coll.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/09/bat_coll.jpg)**Сьогодні, 30 вересня, помічника народного депутата Різаненка, «ударівця» Сергія Батюка та активіста «Свободи» Сергія Нечипоренка офіційно звинуватили у вчиненні хуліганства за попередньою змовою. Про це [повідомляє](https://mpz.brovary.org/brovarska-militsiya-restavruye-politichni-represiyi-1937-roku/) Броварська міська організація партії УДАР та посилається на постанову слідчої Тетяни Герасименко.**

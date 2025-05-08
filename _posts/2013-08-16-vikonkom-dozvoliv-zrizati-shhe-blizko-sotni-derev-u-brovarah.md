@@ -10,6 +10,7 @@ tags:
   - "golubovskyj"
   - "zrizannya-derev"
   - "novini"
+coverImage: "wp-content/uploads/2013/08/98466268.jpg"
 ---
 
 **[![](https://mpz.brovary.org/wp-content/uploads/2013/08/98466268.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/08/98466268.jpg)Виконавчий комітет Броварської міської ради надав дозвіл на зрізання ще близько сотні дерев у Броварах - про це йдеться у рішенні виконкому [№357 від 06.08.2013](http://docs.pravo-znaty.org.ua/p8682/06.08.2013/357).**

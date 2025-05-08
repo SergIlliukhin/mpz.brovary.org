@@ -14,6 +14,7 @@ tags:
   - "onashko"
   - "sesiya-garnik"
   - "hartanovich-tisk-na-presu-yevromaydan"
+coverImage: "wp-content/uploads/2013/12/IvanenkoPP.jpg"
 ---
 
 **[![001 (1)](https://mpz.brovary.org/wp-content/uploads/2013/12/001-1.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/12/001-1.jpg)**

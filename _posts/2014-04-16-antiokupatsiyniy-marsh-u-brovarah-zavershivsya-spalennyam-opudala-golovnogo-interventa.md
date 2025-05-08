@@ -12,6 +12,7 @@ tags:
   - "vo-svoboda"
   - "marsh"
   - "novini"
+coverImage: "wp-content/uploads/2014/04/antiputinskiy-marsh09.jpg"
 ---
 
 [![антипутінський марш01](https://mpz.brovary.org/wp-content/uploads/2014/04/antiputinskiy-marsh01.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/04/antiputinskiy-marsh01.jpg)**Минулої п'ятниці,  11 квітня, майже півсотні броварчан пройшли вулицями міста з антиокупаційним маршем. Організатором події виступила броварська організація ВО «Свобода», яка закликала усіх небайдужих до долі нашої держави прийти на Майдан Свободи, щоб висловити свій протест проти окупації України Росією.**

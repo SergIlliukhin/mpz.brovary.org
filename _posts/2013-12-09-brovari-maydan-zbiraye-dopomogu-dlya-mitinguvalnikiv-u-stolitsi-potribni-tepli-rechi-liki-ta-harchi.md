@@ -17,6 +17,7 @@ tags:
   - "simutin"
   - "svoboda"
   - "udar"
+coverImage: "wp-content/uploads/2013/12/brovari_maydan01.jpg"
 ---
 
 **[![бровари_майдан01](https://mpz.brovary.org/wp-content/uploads/2013/12/brovari_maydan01.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/12/brovari_maydan01.jpg)З 5 грудня на броварському Майдані Свободи діє [інформаційно-мобілізаційний пункт «Бровари-Майдан»](https://mpz.brovary.org/informatsiyno-mobilizatsiyniy-punkt-brovari-maydan/). Місцеві осередки опозиційних партій – «УДАРу», «Свободи» та Батьківщини» - щодня з 17.00 до 20.00 -  інформують броварчан про останні події на Майдані Незалежності у Києві, де після провалу Януковичем вільнюського саміту та побиття студентів й журналістів вже понад два тижні тривають протестні акції. Крім того, на броварському Майдані збирають необхідні для київських мітингувальників речі, зокрема: теплий одяг, медикаменти, продукти харчування тощо. Повний перелік найпотрібнішого можна [прочитати тут.](https://mpz.brovary.org/informatsiyno-mobilizatsiyniy-punkt-brovari-maydan/)**

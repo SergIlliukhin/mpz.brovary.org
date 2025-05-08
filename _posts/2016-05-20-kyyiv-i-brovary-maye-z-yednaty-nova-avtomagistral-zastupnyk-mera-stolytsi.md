@@ -15,6 +15,7 @@ tags:
   - "novini"
   - "obyizna-doroga"
   - "shlyah"
+coverImage: "wp-content/uploads/2016/05/spad.jpg"
 ---
 
 **Київські чиновники мають намір побудувати нову автомобільну магістраль. Вона з’єднає броварську об’їзну дорогу із Дарницьким шосе та виведе автотранспорт аж до столичних Нивок. Про це в інтерв’ю «Лига.Бизнес» розповів заступник Київського міського голови Ілля Сагайдак, [пише](http://biz.liga.net/all/transport/intervyu/3367500-zammera-kieva-na-kreshchatike-poyavyatsya-nazemnye-perekhody.htm) видання.**

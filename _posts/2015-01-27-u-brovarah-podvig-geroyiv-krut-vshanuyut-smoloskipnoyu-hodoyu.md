@@ -15,6 +15,7 @@ tags:
   - "novini"
   - "smoloskipna-hoda"
   - "studenti"
+coverImage: "wp-content/uploads/2015/01/d1-U4A-SKuE.jpg"
 ---
 
 **[![Qy906oNCQwg](https://mpz.brovary.org/wp-content/uploads/2015/01/Qy906oNCQwg.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/01/Qy906oNCQwg.jpg)У четвер, 29 січня, патріотично налаштована молодь Броварів влаштовує [смолоскипну ходу](http://vk.com/event82356695), приурочену до річниці подвигу Героїв Крут. Організаторами заходу виступили активісти [ВМГО «Сокіл»](http://vk.com/brovsokil), які у такий спосіб хочуть вшанувати пам'ять про українських юнаків, які героїчно боронили Вітчизну у бою під Крутами у січні 1918 року.**

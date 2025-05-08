@@ -12,6 +12,7 @@ tags:
   - "dereva"
   - "zeleni-nasadzhennya"
   - "zrizannya-derev"
+coverImage: "wp-content/uploads/2012/04/IMAG0845.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/04/IMAG0845.jpg "IMAG0845")](https://mpz.brovary.org/wp-content/uploads/2012/04/IMAG0845.jpg)На засіданні виконавчого комітету 27 березня [було ухвалено](https://mpz.brovary.org/za-shho-obrazili-admirala-pozachergove-zasidannya-miskvikonkomu/ "За що образили Адмірала? Позачергове засідання міськвиконкому") ряд рішень, які змусили мене (і думаю, не лише мене) хвилюватись: було [надано дозвіл](http://docs.pravo-znaty.org.ua/p1076/27.03.2012/145 "Дозвіл на знесення зелених насаджень") на знесення зелених насаджень: 24 дерева по вул.Гагаріна та 15 дерев по вул.Воз'єднання.

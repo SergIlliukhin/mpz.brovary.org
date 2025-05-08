@@ -16,6 +16,7 @@ tags:
   - "simutin"
   - "strayk"
   - "chisti-materiali"
+coverImage: "wp-content/uploads/2013/03/Bezyimyannyiy.jpg"
 ---
 
 [![Безымянный](https://mpz.brovary.org/wp-content/uploads/2013/03/Bezyimyannyiy.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/Bezyimyannyiy.jpg)Цього тижня адміністрація ТОВ «Чисті матеріали» поширила у засобах масової інформації прес-реліз щодо подій, які відбулися 8 лютого, коли страйкарі та активісти після мітингу [увірвалися](https://mpz.brovary.org/miting-straykariv-bilya-miskradi-zavershivsya-shturmom-pidpriyemstva-chisti-materiali/) на територію підприємства. У наведеному повідомленні власник товариства **Родіон Могилевський** розповідає про те, що він звернувся до Генерального прокурора України з проханням зреагувати на події, що сталися. У прес-релізі громадянин США звинувачує учасників протесту у насильницьких діях, шовіністичних закликах та інших протиправних вчинках.

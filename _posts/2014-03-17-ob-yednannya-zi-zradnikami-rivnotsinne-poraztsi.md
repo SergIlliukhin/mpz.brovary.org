@@ -8,6 +8,7 @@ categories:
   - "kolonka-avtora"
 tags: 
   - "vibir-redaktsiyi"
+coverImage: "wp-content/uploads/2014/03/georg5.jpg"
 ---
 
 **[![95160_vladimir-vladimirovich_demotivators_to](https://mpz.brovary.org/wp-content/uploads/2014/03/95160_vladimir-vladimirovich_demotivators_to.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/03/95160_vladimir-vladimirovich_demotivators_to.jpg)Коли сьогодні всіх українців закликають об’єднатись перед зовнішньою російською загрозою – це безумовно правильний заклик, це наша найголовніша зброя проти загарбницьких російських військ. Проте коли дехто штовхає нас до союзу зі зрадниками – це зовсім інша історія.**

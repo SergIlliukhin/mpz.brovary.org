@@ -12,6 +12,7 @@ tags:
   - "novini"
   - "sobaki"
   - "sterilizatsiya"
+coverImage: "wp-content/uploads/2012/11/44579475_dog_stares.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/11/44579475_dog_stares.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/11/44579475_dog_stares.jpg)**Стерилізацією безпритульних собак у Броварах займеться київське комунальне підприємство "Притулок для тварин"** - про це на [24-й сесії](https://mpz.brovary.org/24-te-sesiyne-zasidannya-brovarskoyi-miskoyi-radi-video/ "24-те сесійне засідання Броварської міської ради – ВІДЕО") Броварської міської ради повідомив заступник броварського міського голови Григорій Голубовський.

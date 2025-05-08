@@ -13,6 +13,7 @@ tags:
   - "tvk"
   - "torgmash"
   - "tsvk"
+coverImage: "wp-content/uploads/2013/04/Gritsay-Piskarova.jpg"
 ---
 
 [![Грицай Піскарьова](https://mpz.brovary.org/wp-content/uploads/2013/04/Gritsay-Piskarova.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/04/Gritsay-Piskarova.jpg) **У Броварської міської виборчої комісії змінився голова. Замість Олександра Грицая, який керував ТВК під час місцевих виборів 2010 року, комісію очолила інший член ТВК - Галина Піскарьова.**

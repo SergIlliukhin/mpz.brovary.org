@@ -17,6 +17,7 @@ tags:
   - "pidsumki-roku"
   - "rizanenko"
   - "ratnikov"
+coverImage: "wp-content/uploads/2013/01/13931476-timeline-konzept-gepixelte-wort-2011-2012-2013-auf-digitalen-bildschirm-3d-darstellung1.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2013/01/13931476-timeline-konzept-gepixelte-wort-2011-2012-2013-auf-digitalen-bildschirm-3d-darstellung1.jpg "13931476-timeline-konzept-gepixelte-wort-2011-2012-2013-auf-digitalen-bildschirm-3d-darstellung1")](https://mpz.brovary.org/wp-content/uploads/2013/01/13931476-timeline-konzept-gepixelte-wort-2011-2012-2013-auf-digitalen-bildschirm-3d-darstellung1.jpg)_**Частина перша**_

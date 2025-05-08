@@ -13,6 +13,7 @@ tags:
   - "zvituvannya"
   - "novini"
   - "okrug"
+coverImage: "wp-content/uploads/2013/01/Zvituvannya-Ivanenka_1.jpg"
 ---
 
 [![Звітування Іваненка_1](https://mpz.brovary.org/wp-content/uploads/2013/01/Zvituvannya-Ivanenka_1.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/01/Zvituvannya-Ivanenka_1.jpg)**Минулої п'ятниці в актовій залі 1 школи зібралось близько 40 мешканців “старого міста”. Люди прийшли на [звіт депутата свого округу Олега Іваненка](https://mpz.brovary.org/sogodni-deputat-miskradi-ivanenko-zvituvatime-pered-vibortsyami/), який спершу розповів про зроблене протягом минулого року, а потім дав низку обіцянок на 2013 рік. Також присутні мешканці зернули увагу свого обранця на низку проблем, які існують в окрузі.**

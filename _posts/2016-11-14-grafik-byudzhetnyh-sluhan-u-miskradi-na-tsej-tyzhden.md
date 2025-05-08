@@ -13,6 +13,7 @@ tags:
   - "byudzhetni-sluhannya"
   - "grafik"
   - "novini"
+coverImage: "wp-content/uploads/2016/11/15_main_ukr.jpg"
 ---
 
 **Бюджетні слухання в Броварській міській раді продовжуються. Минулого тижня звітувалися: [відділ капбудівництва](https://mpz.brovary.org/byudzhetni-sluhannya-pochalysya-zvitom-viddilu-kapbudivnytstva/), [комунальні медзаклади міста](https://mpz.brovary.org/deputaty-oznajomylysya-z-potrebamy-brovarskoyi-medytsyny-zvidky-na-vse-vzyaty-koshty/), [управління освіти](https://mpz.brovary.org/brovarskij-osviti-tezh-potribno-pivmilyarda-gryven/) та [управління ЖКГ](https://mpz.brovary.org/byudzhetnyj-zapyt-brovarskogo-upravlinnya-zhkg/). Цього тижня депутатів та зацікавлену громадськість очікують нові зустрічі.**

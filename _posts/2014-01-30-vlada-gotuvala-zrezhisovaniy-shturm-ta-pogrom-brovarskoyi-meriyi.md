@@ -12,6 +12,7 @@ tags:
   - "revolyutsiya"
   - "titushki"
   - "shturm"
+coverImage: "wp-content/uploads/2014/01/488297_main.jpg"
 ---
 
 **[![488297_main](https://mpz.brovary.org/wp-content/uploads/2014/01/488297_main.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/01/488297_main.jpg)Стало відомо, з якою метою, скоріш за все, [люди підозрілої зовнішності перебували в актовій залі броварської РДА](https://mpz.brovary.org/brovarchanam-vdalos-u-mirniy-sposib-vignati-titushok-z-miskradi-foto-video/) під час акції протесту 27 січня. До задачі «тітушок» входив можливий погром службових кабінетів на першому поверсі будівлі міськвиконкому, відповідальність за який планувалось покласти на прихильників Майдану. Інформація про це надійшла до "МПЗ" з кількох джерел.**

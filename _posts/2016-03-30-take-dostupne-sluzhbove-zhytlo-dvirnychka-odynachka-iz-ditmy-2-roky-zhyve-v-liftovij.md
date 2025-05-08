@@ -15,6 +15,7 @@ tags:
   - "novini"
   - "sotsialne-zhytlo"
   - "tymchasove-zhytlo"
+coverImage: "wp-content/uploads/2016/03/9.jpg"
 ---
 
 **Тема житла залишається для броварчан актуальною і болючою. [Соціальне житло](https://mpz.brovary.org/bolyuche-kvartirne-pitannya-hto-otrimuye-bezkoshtovne-zhitlo-u-brovarah)****, яке мало б стати для незахищених категорій громадян доступним, так і залишається [недоступним](https://mpz.brovary.org/kudi-u-brovarah-znikaye-sluzhbove-zhitlo/). І хоча забудовники продовжують розраховуватися з міською владою «десятиною», та безплатні метри досить часто потрапляють** **до людей, які до Броварів не мають ніякого стосунку, або зовсім не  підпадають під категорію малозабезпечених та соціально незахищених.**

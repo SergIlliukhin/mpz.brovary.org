@@ -9,6 +9,7 @@ tags:
   - "vibir-redaktsiyi"
   - "mikola-smirnov"
   - "novini"
+coverImage: "wp-content/uploads/2014/07/slavyansk20.jpg"
 ---
 
 \[caption id="attachment\_27558" align="alignleft" width="300"\][![славянск20](https://mpz.brovary.org/wp-content/uploads/2014/07/slavyansk20.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/07/slavyansk20.jpg) Микола Смірнов - ліворуч\[/caption\]

@@ -29,6 +29,7 @@ tags:
   - "semenyaka"
   - "tsvk"
   - "tsentralna-viborcha-komisiya"
+coverImage: "wp-content/uploads/2014/10/10726436_867686863276320_848792921_n.jpg"
 ---
 
 **[![10726436_867686863276320_848792921_n](https://mpz.brovary.org/wp-content/uploads/2014/10/10726436_867686863276320_848792921_n.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/10/10726436_867686863276320_848792921_n.jpg)Броварський штаб однієї з політичних сил, що бере участь у виборах, може бути причетний до організації схеми з масового підкупу виборців. Про це [заявляють](http://oporaua.org/news/6954-kyjivshchyna-u-brovarah-shcho-je-centrom-97-okrugu-milicija-perevirjaje-shtab-odnoji-z-partij-shchodo-organizaciji-pidkupu) у Громадянській мережі ОПОРА, яка спостерігає за дотриманням законодавства в процесі виборів в Україні.**

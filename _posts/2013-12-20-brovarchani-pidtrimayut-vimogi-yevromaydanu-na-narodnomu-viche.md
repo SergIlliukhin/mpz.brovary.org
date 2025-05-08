@@ -10,6 +10,7 @@ tags:
   - "narodne-viche"
   - "novini"
   - "shtab-narodnogo-suprotivu"
+coverImage: "wp-content/uploads/2013/12/viche_37888257_orig_.jpeg"
 ---
 
 **[![BZE](https://mpz.brovary.org/wp-content/uploads/2013/12/BZE.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/12/BZE.jpg)У суботу, 21 грудня, о 12:00 на броварському Майдані Свободи розпочнеться Народне Віче, на якому мешканці міста мають намір підтримати вимоги Євромайдану та змусити місцеву владу відреагувати на події в країні.**

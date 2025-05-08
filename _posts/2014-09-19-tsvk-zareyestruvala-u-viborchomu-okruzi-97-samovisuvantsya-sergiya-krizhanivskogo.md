@@ -17,6 +17,7 @@ tags:
   - "sergiy-krizhanivskiy"
   - "tsvk"
   - "tsentralna-viborcha-komisiya"
+coverImage: "wp-content/uploads/2012/08/TSVK.jpg"
 ---
 
 \[caption id="attachment\_29267" align="alignleft" width="199"\][![Сергій Крижанівський](https://mpz.brovary.org/wp-content/uploads/2014/09/10678483_831872343503613_5505103878256440117_n.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/09/10678483_831872343503613_5505103878256440117_n.jpg) Сергій Крижанівський\[/caption\]

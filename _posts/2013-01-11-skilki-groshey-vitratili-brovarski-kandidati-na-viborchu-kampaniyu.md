@@ -15,6 +15,7 @@ tags:
   - "ratnikov"
   - "semenyaka"
   - "fedorenko"
+coverImage: "wp-content/uploads/2013/01/1238479552_many.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2013/01/1238479552_many.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/01/1238479552_many.jpg)**Аби перемогти на виборах 2012 року до Верховної Ради, кандидати не шкодували ані сил, ані ресурсів.**

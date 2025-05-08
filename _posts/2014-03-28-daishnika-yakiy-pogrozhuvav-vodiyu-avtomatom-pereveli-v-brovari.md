@@ -12,6 +12,7 @@ tags:
   - "nikitenko"
   - "novini"
   - "shub"
+coverImage: "wp-content/uploads/2014/03/shub445.jpg"
 ---
 
 **[![04](https://mpz.brovary.org/wp-content/uploads/2014/03/04.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/03/04.jpg)Сумнозвісного працівника ДАІ Володимира Шуба, котрий став відомий всій країні після [скандального відео](https://www.youtube.com/watch?v=C_dQfDVXvuU#t=302), не звільнили з органів МВС, а перевели на службу в броварське ДАІ. Про це «Маєш право знати» повідомили власні джерела в правоохоронних органах.**

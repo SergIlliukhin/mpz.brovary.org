@@ -16,6 +16,7 @@ tags:
   - "lektsiya"
   - "osbb"
   - "sauk"
+coverImage: "wp-content/uploads/2015/04/sauk_zkg0.jpg"
 ---
 
 **[![sauk1](https://mpz.brovary.org/wp-content/uploads/2015/04/sauk1.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/04/sauk1.jpg)Друзі, нещодавно вийшло моє інтерв'ю для журналу "ЖКГ" щодо питання створення ОСББ. Дякую журналістам за такий матеріал, сподіваюсь, ця публікація стане в нагоді багатьом активним людям, які прагнуть створити ОСББ і в своєму будинку.**

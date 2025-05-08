@@ -15,6 +15,7 @@ tags:
   - "dovidnik-ustanov"
   - "novini"
   - "telefon"
+coverImage: "wp-content/uploads/2013/11/telefon-dovidka-1.jpg"
 ---
 
 **[![телефон довідка 1](https://mpz.brovary.org/wp-content/uploads/2013/11/telefon-dovidka-1.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/11/telefon-dovidka-1.jpg)Як [повідомляє](http://brovary-rada.gov.ua/do-uvagi-brovarchan-zm%D1%96nivsya-nomer-%D1%96nformats%D1%96ino-dov%D1%96dkovo%D1%97-sluzhbi) виконком на офіційному веб-сайті Броварської міської ради, з 5 листопада 2013 телефонний номер інформаційно-довідкової служби "050" змінено з 5-55-50 на 6-11-11. Код нашого міста - (045-94).**

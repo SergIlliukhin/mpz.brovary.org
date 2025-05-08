@@ -13,6 +13,7 @@ tags:
   - "btsrl"
   - "likarski-tayemnytsi"
   - "novini"
+coverImage: "wp-content/uploads/2016/06/zyk.jpg"
 ---
 
 **Броварська центральна районна лікарня обурена сюжетами телеканалу ZIK та виступила з [відкритим листом](http://brovcrl.in.ua/vidkrytyy-lyst-trudovogo-kolektyvu-brovarskoyi-crl) від колективу медзакладу. У своєму [зверненні](https://onedrive.live.com/view.aspx?resid=6F250EB0E4524FFC!527&ithint=file%2cdocx&app=Word&authkey=!AHR5WWsuliMM8oI) медики спростовують обвинувачення в їхній бік та називають роботу журналістів непрофесійною.**

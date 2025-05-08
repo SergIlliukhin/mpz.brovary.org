@@ -13,6 +13,7 @@ tags:
   - "kiokushynkaj"
   - "karatysty"
   - "chempionat-svitu"
+coverImage: "wp-content/uploads/2015/09/karatysty.jpg"
 ---
 
 

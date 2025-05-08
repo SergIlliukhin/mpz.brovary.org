@@ -10,6 +10,7 @@ tags:
   - "brovary"
   - "mer-brovariv"
   - "sapozhko"
+coverImage: "wp-content/uploads/2012/03/1.jpg"
 ---
 
 ![](https://mpz.brovary.org/wp-content/uploads/2012/03/1.jpg)Володарю!

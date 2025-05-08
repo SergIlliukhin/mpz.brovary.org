@@ -13,6 +13,7 @@ tags:
   - "sapozhko"
   - "trolejbus"
   - "tsn"
+coverImage: "wp-content/uploads/2013/04/383772857.jpg"
 ---
 
 **Дуже дивно будують у Броварах тролейбусну лінію. Жителі містечка під Києвом і не проти нового транспорту, але поки що, крім руїни, нічого не отримали. Будівельники зникли, — йдеться в [сюжеті ТСН](http://tsn.ua/ukrayina/u-brovarah-lyudi-zamist-troleybusnoyi-liniyi-otrimali-zruynovani-vulici-i-povaleni-dereva-291040.html).**

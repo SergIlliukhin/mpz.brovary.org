@@ -13,6 +13,7 @@ tags:
   - "novini"
   - "obvinuvalniy-akt"
   - "styagov"
+coverImage: "wp-content/uploads/2013/06/gromad1.jpg"
 ---
 
 \[caption id="attachment\_18845" align="alignleft" width="300"\][![Слідчий Олег Громадський](https://mpz.brovary.org/wp-content/uploads/2013/06/XFlFwY2hUw0.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/06/XFlFwY2hUw0.jpg) Слідчий Олег Громадський\[/caption\]

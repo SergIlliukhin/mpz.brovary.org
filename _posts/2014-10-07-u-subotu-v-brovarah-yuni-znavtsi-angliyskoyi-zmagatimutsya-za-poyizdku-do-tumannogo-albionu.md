@@ -15,6 +15,7 @@ tags:
   - "novini"
   - "rizanenko"
   - "fond-rozvitku-gromad-livoberezhna-kiyivshhina"
+coverImage: "wp-content/uploads/2014/10/82444620_large_wallpaperbigben.jpg"
 ---
 
 **[![Konkurs-z-angliyskoyi](https://mpz.brovary.org/wp-content/uploads/2014/10/Konkurs-z-angliyskoyi.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/10/Konkurs-z-angliyskoyi.jpg)У суботу, 11 жовтня, о 9:00 в приміщенні ЗОШ №6 (вул. Герцена, 3) відбудеться щорічний конкурс з англійської мови «Brovary Challenge» серед учнів 9-10 класів середніх загальноосвітніх навчальних закладів м. Бровари та Броварського району. Про це повідомили організатори конкурсу - благодійний фонд розвитку громад "Лівоборежна Київщина".**

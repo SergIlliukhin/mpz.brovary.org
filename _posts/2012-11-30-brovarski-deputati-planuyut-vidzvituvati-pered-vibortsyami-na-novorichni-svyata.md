@@ -11,6 +11,7 @@ tags:
   - "deputati"
   - "zvituvannya"
   - "novini"
+coverImage: "wp-content/uploads/2012/11/zvituvannya.jpg"
 ---
 
 **[![](https://mpz.brovary.org/wp-content/uploads/2012/11/zvituvannya.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/11/zvituvannya.jpg)Звітування депутатів Броварської міської ради перед виборцями планують провести у термін з 26 грудня 2012 року по 26 січня 2013 року. Про це йдеться у [проекті рішення](http://docs.pravo-znaty.org.ua/p6087/22.11.2012) міської ради, який розміщено на офіційному веб-сайті та який депутати мають розглянути на 26-й черговій сесії 20 грудня.**

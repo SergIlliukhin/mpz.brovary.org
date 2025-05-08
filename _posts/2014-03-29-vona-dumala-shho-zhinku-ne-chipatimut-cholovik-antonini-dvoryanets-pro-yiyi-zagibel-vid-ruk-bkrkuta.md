@@ -9,6 +9,7 @@ tags:
   - "vibir-redaktsiyi"
   - "nebesna-sotnya"
   - "novini"
+coverImage: "wp-content/uploads/2014/03/Antonina-Dvoryanets01.jpg"
 ---
 
 **[![Антоніна Дворянець01](https://mpz.brovary.org/wp-content/uploads/2014/03/Antonina-Dvoryanets01.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/03/Antonina-Dvoryanets01.jpg)Маленька дівчинка, гуляючи з мамою, просить дочекатись вечора, коли з’являться перші зірки. "Адже бабуся Тоня тепер там – полетіла в небо на ракеті" - переконана дворічна онучка загиблої на Майдані броварчанки Антоніни Дворянець. Щовечора дитина повторює одне й те ж прохання – подивитись, де тепер її бабуся.**

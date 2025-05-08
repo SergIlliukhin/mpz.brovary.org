@@ -16,6 +16,7 @@ tags:
   - "novini"
   - "pamyatni-znaky"
   - "pamyatnyky"
+coverImage: "wp-content/uploads/2016/02/Memorialni-tablychky-dekomunizatsiya__00043.jpg"
 ---
 
 **Днями, 21 лютого, минув термін, коли влада міста мала демонтувати пам’ятники та пам’ятні знаки згідно із «декомунізаційним» законом. Ще влітку 2015 року краєзнавці та активісти підготували [перелік](http://www.slideshare.net/DmytroKarpiy/gthtksr-jrnsd) із десятка таких об’єктів. Відповідна комісія міськради [ухвалила рішення](https://mpz.brovary.org/istorychne-neviglastvo-chy-konflikt-pokolin-chomu-u-brovarah-demontuyut-lyshe-try-memorialni-doshky/) демонтувати лише три із них. Але станом на 23 лютого зняли тільки одну меморіальну дошку – на честь Володимира Леніна. Тепер відповідне розпорядження про демонтаж має видати обласний голова протягом 3-х місяців – до 21 травня.**

@@ -15,6 +15,7 @@ tags:
   - "novini"
   - "telefon"
   - "tspmsd"
+coverImage: "wp-content/uploads/2016/09/telefonnii-nomer.jpg"
 ---
 
 **У дитячому відділенні амбулаторії №2 не працює телефон виклику лікаря. Про це [зазначається](http://brovmedcentr.in.ua/%D0%BE%D0%B3%D0%BE%D0%BB%D0%BE%D1%88%D0%B5%D0%BD%D0%BD%D1%8F-8) на сайті Броварського міського центру первинної медико-санітарної допомоги.**

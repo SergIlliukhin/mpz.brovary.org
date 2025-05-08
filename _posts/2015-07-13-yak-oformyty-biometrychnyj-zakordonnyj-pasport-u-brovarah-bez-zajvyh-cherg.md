@@ -15,6 +15,7 @@ tags:
   - "zakordonniy-pasport"
   - "novini"
   - "pasportniy-stil"
+coverImage: "wp-content/uploads/2015/07/11.07.15-1.jpg"
 ---
 
 **Ще у квітні Державна міграційна служба України [повідомила](http://dmsu.gov.ua/component/content/article/9-ukrainska/novyny/novyny-dms-ukrainy/3003-u-kijivskij-oblasti-vidkrito-chergovij-punkt-oformlennya-biometrichnikh-pasportiv), що броварчани тепер можуть оформлювати біометричні закордонні паспорти, не виїжджаючи за межі міста. Чи дійсно це так? Скільки черг необхідно вистояти і як самотужки спростити цю процедуру? Автор на власному досвіді спробував розібратись у всіх тонкощах збору біометричних даних у Броварах.**

@@ -14,6 +14,7 @@ tags:
   - "novini"
   - "obyednannya-nezalezhnoyi-ukrayinskoyi-molodi"
   - "onum"
+coverImage: "wp-content/uploads/2014/08/zhiviy-lantsyug.jpg"
 ---
 
 **[![живий ланцюг](https://mpz.brovary.org/wp-content/uploads/2014/08/zhiviy-lantsyug.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/08/zhiviy-lantsyug.jpg)У День українського прапора, 23 серпня, активна броварська молодь запрошує мешканців міста вийти на [Живий Ланцюг «За єдину Україну»](http://vk.com/event74197707). Збір оголосили на 14:00 біля автобусної зупинки «Порошинка».**

@@ -14,6 +14,7 @@ tags:
   - "zustrich-z-vibortsyami"
   - "kandidat-u-narodni-deputati"
   - "yaroshenko"
+coverImage: "wp-content/uploads/2012/09/YAroshenko.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/09/YAroshenko.jpg "Ярошенко")](https://mpz.brovary.org/wp-content/uploads/2012/09/YAroshenko.jpg)Сьогодні, **5 вересня**, о 21:00 біля будинку 19-21 по вул. Грушевського кандадит у народні депутати у 97 виборчому окрузі Олександра Ярошенко зустрінеться з виборцями. Про це «Маєш право знати» повідомила сама пані Ярошенко.

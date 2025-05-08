@@ -14,6 +14,7 @@ tags:
   - "novini"
   - "pidrobka"
   - "falsyfikat"
+coverImage: "wp-content/uploads/2017/02/WhatsApp-Image-2017-02-27-at-13.17.18.jpeg"
 ---
 
 **У Броварах викрили черговий склад з алкогольними напоями «Фінляндія», «Квінт», «Ельцин», «Аттікус», «Метакса» - елітний алкоголь виявився підробкою. Про це [повідомляє](http://brovaru-prokuratura.org.ua/news/u-misti-brovari-vikrito-chergoviy-sklad-falsifikovanih-alkogolnih-napoyiv.html) Броварська місцева прокуратура на своєму офіційному сайті.**

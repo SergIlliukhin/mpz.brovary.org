@@ -11,6 +11,7 @@ tags:
   - "brovarska-miska-rada"
   - "sesiya"
   - "sklikannya-sesiyi"
+coverImage: "wp-content/uploads/2012/07/gerb-Brovari.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/10/gerb-Brovari-zmenshena1.jpg "герб Бровари зменшена")](https://mpz.brovary.org/wp-content/uploads/2012/10/gerb-Brovari-zmenshena1.jpg)20 грудня 2012 року о 14-й годині в приміщенні малої зали броварського міськвиконкому за адресою: вул. Гагаріна, 15 відбудеться двадцять шоста чергова сесія Броварської міської ради VІ скликання. Про це сказано у [розпорядженні міського голови №223-ОД від 21 листопада 2012 року](http://docs.pravo-znaty.org.ua/p6066/21.11.2012/223), оприлюдненому на офіційному веб-сайті Броварської міської ради.

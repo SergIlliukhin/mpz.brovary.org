@@ -14,6 +14,7 @@ tags:
   - "lempitskiy"
   - "novini"
   - "perejmenuvannya"
+coverImage: "wp-content/uploads/2015/07/DSC09971.jpg"
 ---
 
 **Сьогодні, 13 липня, Броварська міська рада на своєму сайті [опублікувала](http://www.brovary.kiev.ua/pereymenuvannya-vulyc) пропозиції від громадян щодо перейменування вулиць нашого міста. Серед семи листів - переважно відгуки з приводу [напрацювань](https://mpz.brovary.org/brovarski-krayeznavtsi-ta-aktyvisty-predstavlyly-propozytsiyi-shhodo-perejmenuvannya-vulyts-startuvalo-gromadske-obgovorennya/) робочої групи, які раніше [виставили](http://brovary-rada.gov.ua/ogoloshennya-shchodo-nadannya-propozits%D1%96i-po-pereimenuvannyu-vulits-mbrovari) на обговорення. У дописах можна знайти варіанти нових назв для броварських доріг, незгоду чи згоду із пропозиціями тощо.**

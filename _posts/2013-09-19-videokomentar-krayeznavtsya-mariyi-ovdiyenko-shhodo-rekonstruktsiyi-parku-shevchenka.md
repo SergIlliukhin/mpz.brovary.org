@@ -9,6 +9,7 @@ categories:
 tags: 
   - "ovdiyenko"
   - "park-shevchenka"
+coverImage: "wp-content/uploads/2013/09/ovdienko.png"
 ---
 
 **Марія Григорівна Овдієнко** - відомий броварський краєзнавець, автор [проекту реконструкції](https://mpz.brovary.org/do-200-richchya-kobzarya-brovarchanam-obitsyayut-onovleniy-park-im-t-g-shevchenka/ "До 200-річчя Кобзаря броварчанам обіцяють оновлений парк ім.Т.Г.Шевченка") парку ім.Т.Г.Шевченка дала свій коментар виданню "Маєш право знати" під час святкового відкриття парку.

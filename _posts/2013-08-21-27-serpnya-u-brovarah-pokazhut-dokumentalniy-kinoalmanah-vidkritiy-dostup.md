@@ -13,6 +13,7 @@ tags:
   - "mayesh-pravo-znati"
   - "novini"
   - "park-peremoga"
+coverImage: "wp-content/uploads/2013/08/1175312_460783234029928_34267625_n.jpg"
 ---
 
 **[![ВІкдритий доступ](https://mpz.brovary.org/wp-content/uploads/2013/08/VIkdritiy-dostup.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/08/VIkdritiy-dostup.jpg)У вівторок, 27 серпня, «Маєш право знати» запрошує своїх читачів на перегляд документальному альманаху «**[**Відкритий доступ**](http://vidkrytyi-dostup.com/almanah/)»**, який відбудеться у парку «Перемога» о 19:30. У рамках кінопоказу буде продемонстровано три повчальні кіноновели - «**[**Межигір’я**](http://vidkrytyi-dostup.com/films/mezhygirya/)**», «**[**Школа**](http://vidkrytyi-dostup.com/films/shkola/)**» та «**[**У кутку**](http://vidkrytyi-dostup.com/films/u_kutku/)**», – у яких розповідається про те, як можна ефективно користуватись правом на публічну інформацію.**

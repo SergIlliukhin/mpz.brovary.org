@@ -12,6 +12,7 @@ tags:
   - "novini"
   - "novorichno-rizdvyani-zahodi"
   - "yalynky"
+coverImage: "wp-content/uploads/2016/12/5003d452a8da016f3ed02a6385cf54e8_XL-e1481120709915.jpg"
 ---
 
 **З 15 грудня розпочнеться продаж новорічних ялинок. Про це йдеться в [розпорядженні](http://brovary-rada.gov.ua/documents/26295.html) міського голови на офіційному сайті Броварської міськради.**

@@ -13,6 +13,7 @@ tags:
   - "deputatskiy-zvit"
   - "novini"
   - "cherepejnik"
+coverImage: "wp-content/uploads/2016/01/CHerepejnyk.jpg"
 ---
 
 **Сьогодні, 2 грудня, відбудеться звітування депутата Броварської міської ради VII скликання Леоніда Черепейніка (фракція БПП "Солідарність").**

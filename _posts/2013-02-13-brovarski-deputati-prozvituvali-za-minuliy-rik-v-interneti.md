@@ -12,6 +12,7 @@ tags:
   - "zvit"
   - "zvituvannya"
   - "novini"
+coverImage: "wp-content/uploads/2013/02/site.png"
 ---
 
 [![site](https://mpz.brovary.org/wp-content/uploads/2013/02/site.png)](https://mpz.brovary.org/wp-content/uploads/2013/02/site.png)На офіційному веб-сайті Броварської міськради оприлюднено звіти місцевих депутатів про роботу у 2012 році. Щоправда, не всіх, а лише **36** броварських обранців із 41-го. Серед п'ятьох депутатів, чиїх звітів немає на сайті, двоє - [**Роман Сімутін**](https://mpz.brovary.org/na-svoyemu-zvituvanni-roman-simutin-rozpoviv-pro-robochi-budni-opozitsiynogo-deputata/) та [**Володимир Оксютенко**](https://mpz.brovary.org/meshkantsi-pekarni-ta-geologorozvidki-hochut-novu-kanalizatsiyu-asfalt-na-dorogah-ta-marshrutku-na-kiyiv/) -  розповіли про свою діяльність на відритій зустрічі з виборцями. Відтак досі в жодний спосіб не прозвітували перед громадою троє депутатів - **Віктор Антоненко, Євген Віканов** та **Валерій Чабур**.

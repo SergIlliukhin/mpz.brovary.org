@@ -13,6 +13,7 @@ tags:
   - "zvituvannya-mera"
   - "miskiy-golova"
   - "sapozhko"
+coverImage: "wp-content/uploads/2013/02/Sapozhko2.jpg"
 ---
 
 [![Сапожко2](https://mpz.brovary.org/wp-content/uploads/2013/02/Sapozhko2.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/02/Sapozhko2.jpg)Пам'ятаючи нашу [минулорічну переписку з владою](https://mpz.brovary.org/miskiy-golova-zvituvatime-u-lyutomu-2/) з метою дізнатись про час та місце звітування Броварського міського голови, яка так і [не увінчалось успіхом](https://mpz.brovary.org/miskiy-golova-tishkom-nishkom-vidzvituvav-lishe-pered-veteranami/), цього року ми вирішили зробити нову спробу потрапити на публічну доповідь мера про його успіхи і досягнення. Проте, схоже, цього року міський очільник також планує прозвітувати лише перед обраною ним аудиторією, яка не ставитиме незручних запитань та не знатиме більше, ніж їй дозволено знати.

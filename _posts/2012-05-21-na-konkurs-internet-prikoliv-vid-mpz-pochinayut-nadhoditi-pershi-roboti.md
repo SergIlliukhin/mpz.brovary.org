@@ -6,6 +6,7 @@ author:
   display_name: "Маєш право знати"
 tags: 
   - "novini"
+coverImage: "wp-content/uploads/2012/05/fedor1.jpg"
 ---
 
 В перші дні від початку конкурсу на скриньку [info@pravo-znaty.org.ua](mailto:info@pravo-znaty.org.ua) вже надійшло кілька робіт. Публікуємо перші три надіслані роботи:

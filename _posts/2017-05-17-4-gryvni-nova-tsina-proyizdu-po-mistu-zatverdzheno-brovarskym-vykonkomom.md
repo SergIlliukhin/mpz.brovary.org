@@ -15,6 +15,7 @@ tags:
   - "proyizd"
   - "rishennya-vikonkomu"
   - "tsina-na-proyizd"
+coverImage: "wp-content/uploads/2017/05/GroBro-marshrutky.jpg"
 ---
 
 **Проїзд по місту буде коштувати 4 гривні, а учні отримають знижку 50% - таке рішення ухвалив броварський міськвиконком. Про це [повідомляється](http://brovary-rada.gov.ua/news/15183.html) на офіційному сайті Броварської міської ради.**

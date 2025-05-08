@@ -12,6 +12,7 @@ tags:
   - "novini"
   - "sud"
   - "sutichki"
+coverImage: "wp-content/uploads/2012/06/zaporozhets-sutichki-z-kompartiyeyu.jpg"
 ---
 
 **[![](https://mpz.brovary.org/wp-content/uploads/2012/06/zaporozhets-sutichki-z-kompartiyeyu.jpg "запорожець сутички з компартією")](https://mpz.brovary.org/wp-content/uploads/2012/06/zaporozhets-sutichki-z-kompartiyeyu.jpg)25 червня в приміщенні броварського міськрайонного суду по вул. Возз'єднання відбулось чергове засідання по справі [Віталія Запорожця](https://mpz.brovary.org/tag/vitaliy-zaporozhets/). Прихильники підсудного вже традиційно зібрались біля стін суду. Однак сьогодні до них "приєднались" представники Компартії України, які виступили проти підсудного. Унаслідок сутичок між свободівцями та комуністами було затримано Миколу Коханівського.**

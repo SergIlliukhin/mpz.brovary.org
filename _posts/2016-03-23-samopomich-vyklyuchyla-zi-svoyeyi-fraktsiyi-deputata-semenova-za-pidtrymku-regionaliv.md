@@ -13,6 +13,7 @@ tags:
   - "novini"
   - "samopomich"
   - "semenov"
+coverImage: "wp-content/uploads/2016/03/samopomich-4-1.jpg"
 ---
 
 **Броварський міський осередок партії «Самопоміч» заявив про виключення зі складу своєї депутатської фракції у броварській міській раді депутата Максима Семенова. Про це повідомляється в [офіційному блозі](https://mpz.brovary.org/ofitsijna-zayava-shhodo-vyklyuchennya-maksyma-semenova-iz-fraktsiyi/) Об’єднання «Самопоміч» у Броварах на «Маєш право знати».**

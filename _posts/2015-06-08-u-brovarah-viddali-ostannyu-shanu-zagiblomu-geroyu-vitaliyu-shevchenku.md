@@ -16,6 +16,7 @@ tags:
   - "geroy"
   - "soldat"
   - "shevchenko"
+coverImage: "wp-content/uploads/2015/06/tilo-SHevchenka-1381.jpg"
 ---
 
 **У п'ятницю, 5 червня, на Броварщину із зони бойових дій (Донецький напрямок) доставили тіло загиблого героя - [47-річного Віталія Шевченка](https://mpz.brovary.org/tilo-zagiblogo-u-boyah-pid-mar-yinkoyu-vitaliya-shevchenka-sogodni-privezut-brovariv/), мешканця села Рудня. Зустріти земляка вийшли й мешканці Броварів, які зібрались при в'їзді до міста, щоб віддати останню шану мужньому захиснику.** 

@@ -11,6 +11,7 @@ tags:
   - "dilnichni-inspektori"
   - "militsiya"
   - "novini"
+coverImage: "wp-content/uploads/2012/07/militsiya.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/07/militsiya.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/07/militsiya.jpg)Броварська газета "**[Старий центр](http://www.oldcenter.info/)**" опублікувала у червні на своїх шпальтах дві частини статті під назвою "**Ви маєте знати їх в обличчя**" ([частина 1](http://www.oldcenter.info/index.php/socium/586-yikh-povynni-znaty-v-oblychchya) та [частина 2](http://www.oldcenter.info/index.php/socium/645-vi-maete-znati-yih-v-oblichchja)), у яких оприлюднила прізвища та фотографії 30 дільничних інспекторів Броварського МВ  (з обслуговування міста Бровари та Броварського району) ГУ МВС України в Київській області із зазначенням їх адміністративної зони та контактного телефону. Зважаючи на суспільну вагу даного матеріалу, "**Маєш право знати**" передруковує його з посиланням на першоджерело.

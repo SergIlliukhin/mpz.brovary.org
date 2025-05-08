@@ -13,6 +13,7 @@ tags:
   - "druga-svitova-viyna"
   - "novini"
   - "sapozhko"
+coverImage: "wp-content/uploads/2014/05/den-peremogi15.jpg"
 ---
 
 **[![день перемоги06](https://mpz.brovary.org/wp-content/uploads/2014/05/den-peremogi06.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/05/den-peremogi06.jpg)В цьому році  9 травня суттєво відрізнялось від попередніх відзначень Дня Перемоги. Враховуючи напружену ситуацію в Україні та [загрозу провокацій в Броварах](https://mpz.brovary.org/narodna-rada-zasteregla-vladu-brovariv-vid-mozhlivih-provokatsiy-9-go-travnya/), міська влада суттєво [скоротила перелік офіційних заходів](https://mpz.brovary.org/9-travnya-u-brovarah-obmezhatsya-vshanuvannyam-pam-yati-zagiblih/) – традиційного параду на центральних вулицях не було. Біля пам****’****ятника загиблим воїнам-броварчанам священники різних конфесій відслужили молебень за полеглими у війні. Після цього до пам****’ятника****поклали квіти** **і офіційний мітинг оголосили завершеним. Загалом вшанувати пам’****ять загиблих на вулицю Кірова прийшли близько сотні людей.**

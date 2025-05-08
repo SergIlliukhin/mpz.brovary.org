@@ -9,6 +9,7 @@ categories:
 tags: 
   - "vibir-redaktsiyi"
   - "pozhezha-na-kyivskiy-302"
+coverImage: "wp-content/uploads/2013/06/1u_aFJbxJQY.jpg"
 ---
 
 **[![Z8WqPqj0nZk](https://mpz.brovary.org/wp-content/uploads/2013/06/Z8WqPqj0nZk.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/06/Z8WqPqj0nZk.jpg)У випадку повторення надзвичайної події на кшталт пожежі на Київській, місто може опинитись беззахисним перед вогнем.**

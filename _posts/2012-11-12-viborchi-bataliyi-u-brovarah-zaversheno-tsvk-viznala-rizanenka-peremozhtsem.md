@@ -11,6 +11,7 @@ tags:
   - "rizanenko"
   - "semenyaka"
   - "tsvk"
+coverImage: "wp-content/uploads/2012/11/kruk-rizanenko.jpg"
 ---
 
 **[![](https://mpz.brovary.org/wp-content/uploads/2012/11/kruk-rizanenko.jpg "Бюлетені Різаненко")](https://mpz.brovary.org/wp-content/uploads/2012/11/kruk-rizanenko.jpg)Центральна виборча комісія у неділю, 11 листопада 2012 року, встановила результати виборів у виборчому окрузі №97.**

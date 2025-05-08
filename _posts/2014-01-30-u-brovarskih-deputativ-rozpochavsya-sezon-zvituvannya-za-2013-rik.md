@@ -12,6 +12,7 @@ tags:
   - "zvituvannya"
   - "miska-rada"
   - "novini"
+coverImage: "wp-content/uploads/2013/01/Zvituvannya-Simutina_2.jpg"
 ---
 
 **[![Звітування Сімутіна_2](https://mpz.brovary.org/wp-content/uploads/2013/01/Zvituvannya-Simutina_2.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/01/Zvituvannya-Simutina_2.jpg)Депутати Броварської міської ради мають відзвітувати перед своїми виборцями у період з 30 січня по 28 лютого 2014 року. Саме такі строки проведення звітів депутатів про свою роботу у 2013 році затверджено рішенням Броварської міської ради [№ 1187-42-06 від 22.01.2014 року](http://brovary.kiev.ua/rіshennya-mіskoї-radi-vіd-22012014-№-1187-42-06-pro-zatverdzhennya-strokіv-provedennya-zvіtuvannya-d).**

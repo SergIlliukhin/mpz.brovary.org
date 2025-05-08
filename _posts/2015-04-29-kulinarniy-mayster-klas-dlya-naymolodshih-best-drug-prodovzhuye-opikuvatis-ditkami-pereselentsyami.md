@@ -13,6 +13,7 @@ tags:
   - "molod-da"
   - "molod-demokratichnogo-alyansu"
   - "shtrudel"
+coverImage: "wp-content/uploads/2015/04/Kulinarniy-maysterklas-9.jpg"
 ---
 
 **[![Кулінарний майстерклас 4](https://mpz.brovary.org/wp-content/uploads/2015/04/Kulinarniy-maysterklas-4.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/04/Kulinarniy-maysterklas-4.jpg)Минулої неділі, 26 квітня, «Молодь ДемАльянсу» провела другий навчально-розважальний захід для дітей у рамках свого проекту «Бест друг». Ця волонтерська ініціатива спрямована на допомогу дітям-переселенцям та дітям, чиї батьки перебувають в АТО.**

@@ -11,6 +11,7 @@ tags:
   - "demokratichniy-alyans"
   - "partiya"
   - "finansuvannya"
+coverImage: "wp-content/uploads/2012/05/Finansuvannya.jpg"
 ---
 
 Повідомлення про підкуп виборців останнім часом лунають з усіх куточків України. На жаль, більшість людей звикли до такого стану справ і сприймають це як належне.

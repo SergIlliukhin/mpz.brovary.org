@@ -12,6 +12,7 @@ tags:
   - "dnz-sonechko"
   - "sapozhko"
   - "finansuvannya"
+coverImage: "wp-content/uploads/2013/03/51462.jpg"
 ---
 
 [![Дитячий садочок](https://mpz.brovary.org/wp-content/uploads/2013/03/51462.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/51462.jpg)**У бюджеті міста на 2013 рік не передбачені кошти на фінансування поточних потреб дитячих садків, зокрема на закупівлю миючих засобів, меблів, іграшок, канцелярських товарів та на проведення поточного ремонту.**

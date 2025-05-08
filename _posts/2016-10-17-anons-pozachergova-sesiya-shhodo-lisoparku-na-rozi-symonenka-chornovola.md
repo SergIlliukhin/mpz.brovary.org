@@ -18,6 +18,7 @@ tags:
   - "pozachergova"
   - "sesiya"
   - "stop-budivnytstvu-na-symonenka-chornovola"
+coverImage: "wp-content/uploads/2016/10/skver.png"
 ---
 
 **Завтра, 18 жовтня, відбудеться позачергова 19-та сесія Броварської міської ради. Про це відомо з [розпорядження](http://brovary-rada.gov.ua/documents/24613.html) міського голови, опублікованого на сайті міськради.**

@@ -15,6 +15,7 @@ tags:
   - "rizanenko"
   - "tovaristvo-ukrayinskoyi-movi"
   - "ukrayinska-mova"
+coverImage: "wp-content/uploads/2012/06/Tovaristvo-ukrayinskoyi-movi_11.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/06/Tovaristvo-ukrayinskoyi-movi_11.jpg "Товариство української мови_1")](https://mpz.brovary.org/wp-content/uploads/2012/06/Tovaristvo-ukrayinskoyi-movi_11.jpg)У Броварах буде відновлено діяльність «Товариства української мови імені Тараса Шевченка». Таке рішення було прийнято 7 червня 2012 року на зборах місцевих громадських діячів, краєзнавців, літераторів та журналістів. Про це йдеться у прес-релізі громадської організації «Громадський захист Київщини», поширеному серед ЗМІ.

@@ -20,6 +20,7 @@ tags:
   - "sesiya"
   - "skotnikov"
   - "trembita"
+coverImage: "wp-content/uploads/2017/07/IMG_6776.jpg"
 ---
 
 **У Броварах продовжується підготовка до** [**31-ї чергової сесії Броварської міськради**](https://mpz.brovary.org/anons-15-serpnya-u-brovarah-vidbudetsya-31-sha-sesiya-miskrady/) **VII скликання, що відбудеться 15 серпня. Зокрема, 28 липня відбулося засідання постійної комісії з гуманітарних питань. Окрім** [**анонсованих восьми**](https://mpz.brovary.org/anons-grafik-zasidan-postijnyh-deputatskyh-komisij-v-ramkah-31-yi-sesiyi/)**, депутати розглянули ще два додаткових питання.** 

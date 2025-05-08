@@ -13,6 +13,7 @@ tags:
   - "grafik-komisiy"
   - "novini"
   - "postijni-komisiyi"
+coverImage: "wp-content/uploads/2016/11/Tablichka-miskoyi-radi-2-e1479722584350.jpg"
 ---
 
 **На офіційному сайті Броварської міської ради [оприлюднено](https://onedrive.live.com/view.aspx?resid=76CC13A1B9E773BD!1261&ithint=file%2cdocx&app=Word&authkey=!AKKWxLOKy3clDNo)** **графік засідань постійних депутатських комісій, які відбуватимуться з 28 листопада по 5 грудня у рамках підготовки до чергової 22-ї сесії. Саме засідання сесії Броварської міської ради VII скликання,** **як** **[повідомлялося](https://mpz.brovary.org/anons-15-grudnya-vidbudetsya-chergova-sesiya-brovarskoyi-miskoyi-rady/) раніше,** **призначено на** **15 грудня. На розгляд депутатів винесено** **46 пита****нь і розділ “Різне”.**

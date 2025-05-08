@@ -12,6 +12,7 @@ tags:
   - "onyshhenko"
   - "rizanenko"
   - "upravlinnya-osviti"
+coverImage: "wp-content/uploads/2012/09/Konkurs-z-angliyskoyi.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/09/Konkurs-z-angliyskoyi.jpg "Конкурс з англійської")](https://mpz.brovary.org/wp-content/uploads/2012/09/Konkurs-z-angliyskoyi.jpg)Очільники освітянської галузі Броварів забороняють директорам шкіл сприяти у проведенні конкурсу з англійської мови серед учнів 10-11-х класів «**[Brovary Challenge](http://www.livoberezhna.org/2-uncategorised/1491-kraschi-poyidutt-do-angliyi)**» та відмовляють організаторам у наданні приміщення для його проведення. Про це «Маєш право знати» повідомили представники фонду розвитку громад «**Лівобережна Київщина**».

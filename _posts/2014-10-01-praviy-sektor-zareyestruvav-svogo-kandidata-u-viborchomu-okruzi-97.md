@@ -18,6 +18,7 @@ tags:
   - "reyestratsiya-kandidativ"
   - "tsvk"
   - "tsentralna-viborcha-komisiya"
+coverImage: "wp-content/uploads/2014/10/Pavelyev-3.jpg"
 ---
 
 **[![Павельєв 3](https://mpz.brovary.org/wp-content/uploads/2014/10/Pavelyev-3.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/10/Pavelyev-3.jpg)До кола учасників виборчих перегонів у броварському виборчому окрузі приєднався висуванець від партії "Правий сектор". Днями** **Центральна виборча комісія зареєструвала кандидатом в народні депутати в одномандатному виборчому окрузі № 97 (Бровари, Березань, Броварський та Баришівський райони) Дмитра Павельєва, який є членом політичної сили "Правий сектор".**

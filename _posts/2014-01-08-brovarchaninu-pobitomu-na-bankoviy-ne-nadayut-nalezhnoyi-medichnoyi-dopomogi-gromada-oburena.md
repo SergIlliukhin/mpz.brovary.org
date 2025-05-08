@@ -14,6 +14,7 @@ tags:
   - "novini"
   - "rayonna-likarnya"
   - "cherepno-mozkova-travma"
+coverImage: "wp-content/uploads/2013/12/Zagorovki-v-likarni.jpg"
 ---
 
 **[![Загоровки в лікарні](https://mpz.brovary.org/wp-content/uploads/2013/12/Zagorovki-v-likarni.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/12/Zagorovki-v-likarni.jpg)Напередодні Різдва Владислава Загоровку - броварчанина, якого під час мирного зібрання 1 грудня [було побито „Беркутом” та затримано біля Адміністрації Президента](https://mpz.brovary.org/sered-pobitih-pid-administratsiyeyu-prezidenta-ta-zaareshtovanih-za-organizatsiyu-masovih-bezporyadkiv-ye-brovarchanin/), - забрала швидка. Перед Новим роком чоловіка перевели на амбулаторне лікування та відправили додому, однак невдовзі його стан істотно погіршився: у хворого різко підскочила температура та почало зводити судомами праву ногу, після чого дружина викликала невідкладну допомогу.**

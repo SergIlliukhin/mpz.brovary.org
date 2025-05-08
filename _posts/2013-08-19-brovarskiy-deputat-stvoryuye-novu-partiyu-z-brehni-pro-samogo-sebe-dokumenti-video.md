@@ -10,6 +10,7 @@ tags:
   - "vibir-redaktsiyi"
   - "vsya-ukrayina"
   - "pogarskiy"
+coverImage: "wp-content/uploads/2013/08/pogarsky445x300.jpg"
 ---
 
 \[caption id="attachment\_20273" align="alignleft" width="300"\][![Білборди з Погарським заполонили Київ](https://mpz.brovary.org/wp-content/uploads/2013/08/IMAG0037.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/08/IMAG0037.jpg) Білборди з Погарським заполонили Київ\[/caption\]

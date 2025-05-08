@@ -13,6 +13,7 @@ tags:
   - "gromadska-rada"
   - "gromadska-rada-pri-upravlinni-osviti"
   - "novini"
+coverImage: "wp-content/uploads/2017/02/gr.jpg"
 ---
 
 **Завтра, 28 лютого, відбудеться засідання Громадської ради при управлінні освіти і науки Броварської міської ради, на якій будуть розглядатися 6 питань. Про це йдеться в [оголошенні](https://www.facebook.com/gromadska.rada.osvita/posts/1904165263152396) на сторінці Громради у FB.**

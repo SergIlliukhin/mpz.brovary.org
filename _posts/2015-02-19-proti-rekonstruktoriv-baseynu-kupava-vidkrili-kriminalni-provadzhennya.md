@@ -16,6 +16,7 @@ tags:
   - "sapozhko"
   - "firma-gf"
   - "fedorenko"
+coverImage: "wp-content/uploads/2015/02/Kupava-Alina1.jpg"
 ---
 
 **[![Kupava-Alina](https://mpz.brovary.org/wp-content/uploads/2015/02/Kupava-Alina1.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/02/Kupava-Alina1.jpg)Відразу два кримінальних провадження – за службове підроблення та розтрату бюджетних коштів – відкрито слідчим відділом Броварського МВ по факту неякісної реконструкції броварського басейну «Купава».**

@@ -14,6 +14,7 @@ tags:
   - "demokratichniy-alyans"
   - "zustrich"
   - "novini"
+coverImage: "wp-content/uploads/2016/11/demalyans-da-demokratychnyj-alyans.jpg"
 ---
 
 **Цієї суботи команда броварського осередку політичної партії «Демократичний альянс» проведе зустріч із виборцями. Охочі зможуть подискутувати, покритикувати, похвалити або запитати про те, що давно хотіли. Про на Фейсбуку [написав](https://www.facebook.com/groups/brovary/permalink/1440774442619184/) депутат від цієї політсили Олег Берестовий.**

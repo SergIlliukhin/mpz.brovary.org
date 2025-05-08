@@ -16,6 +16,7 @@ tags:
   - "novini"
   - "okrug-97"
   - "partiya-regioniv"
+coverImage: "wp-content/uploads/2012/10/Diti-regioni.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/10/Diti-regioni2.jpg "Діти-регіони2")](https://mpz.brovary.org/wp-content/uploads/2012/10/Diti-regioni2.jpg)У Броварах Київської області, які в суботу відвідав прем’єр Микола Азаров, неповнолітніх змушували агітувати за Партію регіонів. Про це повідомляє сайт "[Українська правда](http://www.pravda.com.ua/news/2012/10/20/6975087/)" з посиланням на [прес-службу ГО "Громадський захист Київщини"](http://groza.org/ditej-zmushuyut-ahituvaty-za-partiyu-rehioniv-video/), яка заявила, що під час відвідин Азаровим обласного танцювального марафону до 15-ї річниці Партії регіонів, місцева влада нагнала "масовку" зі школярів.

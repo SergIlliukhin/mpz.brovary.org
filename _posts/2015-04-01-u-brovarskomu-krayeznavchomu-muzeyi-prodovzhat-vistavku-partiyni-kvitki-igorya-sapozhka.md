@@ -9,6 +9,7 @@ tags:
   - "vibir-redaktsiyi"
   - "den-smihu"
   - "novini"
+coverImage: "wp-content/uploads/2015/04/t-faktor7.jpg"
 ---
 
 **[![t-faktor7](https://mpz.brovary.org/wp-content/uploads/2015/04/t-faktor7.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/04/t-faktor7.jpg)Експозиція партійних квитків броварського міського голови Ігоря Сапожка, котра вже понад місяць триває в Броварському краєзнавчому музеї, буде продовжена щонайменше на два тижня.**

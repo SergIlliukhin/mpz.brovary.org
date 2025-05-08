@@ -14,6 +14,7 @@ tags:
   - "molod-demokratichnogo-alyansu"
   - "novini"
   - "onum"
+coverImage: "wp-content/uploads/2015/01/foto6.jpg"
 ---
 
 **[![Фото 1](https://mpz.brovary.org/wp-content/uploads/2015/01/Foto-1.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/01/Foto-1.jpg)Ввечері 7 січня на центральній площі Броварів попри добрячий мороз було досить гаряче: броварська активна молодь влаштувала біля головної ялинки міста [Благодійний Різдвяний Ярмарок](https://mpz.brovary.org/na-rizdvo-molod-chastuvatime-brovarchan-kuteyu-kolyadkami-ta-mayster-klasami-video/). Дівчата й хлопці з Об'єднання незалежної української молоді ([ОНУМ](https://vk.com/onymua)) вирішили поєднати святкування Різдва Христового зі збором коштів для діток з дитячого будинку "Надія" с. Мокрець Броварського району.**

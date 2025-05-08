@@ -15,6 +15,7 @@ tags:
   - "roztrata"
   - "roztrata-koshtiv"
   - "sluzhbovets"
+coverImage: "wp-content/uploads/2017/03/12028744_1173518256010615_6456497300150051745_o_0e65e_9e02b.jpg"
 ---
 
 **Чиновника Броварської РДА обвинувачують у розтраті бюджетних коштів у сумі 136 тис грн. Розтрата здійснена разом з керівником одного з приватних підприємств. Службовець підписав документи для проведення ремонтних робіт у комунальній установі Броварського району. Йому загрожує штраф та обмеження волі строком до 5 років. Про це [йдеться](http://brovaru-prokuratura.org.ua/news/chergovogo-sluzhbovtsya-administratsiyi-zavdyaki-prokuraturi-budut-suditi-za-roztratu-byudzhetnih-koshtiv-u-sumi-ponad-136-tis-grn.html) у повідомленні на офіційному сайті Броварської місцевої прокуратури.**

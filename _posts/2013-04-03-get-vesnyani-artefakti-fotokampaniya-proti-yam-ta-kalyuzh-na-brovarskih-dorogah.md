@@ -18,6 +18,7 @@ tags:
   - "fotokonkurs"
   - "yama"
   - "yami"
+coverImage: "wp-content/uploads/2013/04/kviti-na-dorozi.png"
 ---
 
 **[![крокодил у калюжі](https://mpz.brovary.org/wp-content/uploads/2013/04/krokodil-u-kalyuzhi.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/04/krokodil-u-kalyuzhi.jpg)**У такий сонячний день, як сьогодні, [хуртовина десятиденної давнини](https://mpz.brovary.org/brovarchani-viyshli-na-borotbu-zi-snigovoyu-stihiyeyu-foto/), здається чимось таким, що давно минуло і вже не повернеться. Проте метрові кучугури снігу обабіч доріг віщують не менш приємну перспективу - підтоплення, що особливо актуально для мешканців старого центру Броварів. Візитними картками цьогорічної весни, вочевидь, стануть "[озера калюжного походження](https://mpz.brovary.org/bermudskiy-trikutnik-na-gogolya-osipova-abo-shho-prihovuyut-gliboki-brovarski-kalyuzhi/)" та дороги, на яких сніг зійшов разом з асфальтом.

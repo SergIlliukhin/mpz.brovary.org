@@ -16,6 +16,7 @@ tags:
   - "shovishha"
   - "ukrittya"
   - "hovatisya"
+coverImage: "wp-content/uploads/2015/03/Bomboshovishha-2.jpg"
 ---
 
 **[![Bomboshovishha-2](https://mpz.brovary.org/wp-content/uploads/2015/03/Bomboshovishha-2.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/03/Bomboshovishha-2.jpg)Броварська міська рада у відповідь на запит журналістів "Маєш право знати" нарешті надала інформацію про розташування, кількість і готовність всіх захисних споруд цивільного захисту нашого міста. Щоб отримати ці відомості, нашим кореспондентам довелось звертатись до суду і лише після рішення Феміди чиновники погодились відкрити цю суспільно важливу інформацію.**

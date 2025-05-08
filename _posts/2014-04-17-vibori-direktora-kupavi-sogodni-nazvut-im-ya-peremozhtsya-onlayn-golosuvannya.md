@@ -8,6 +8,7 @@ categories:
   - "announce"
 tags: 
   - "vibir-redaktsiyi"
+coverImage: "wp-content/uploads/2014/04/collage1.jpg"
 ---
 
 **[![image17135708_06ac40bf6e37bb822c94baf32ed7a616](https://mpz.brovary.org/wp-content/uploads/2014/04/image17135708_06ac40bf6e37bb822c94baf32ed7a616.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/04/image17135708_06ac40bf6e37bb822c94baf32ed7a616.jpg)О 14:00 в холі басейну «Купава» відбудеться оголошення результатів опитування громадської думки на визначення найпопулярнішої кандидатури на посаду директора реконструйованого олімпійського басейну. Підсумки телефонного та онлайн-голосування організатори підіб’ють вже за три години після його офіційного завершення.**

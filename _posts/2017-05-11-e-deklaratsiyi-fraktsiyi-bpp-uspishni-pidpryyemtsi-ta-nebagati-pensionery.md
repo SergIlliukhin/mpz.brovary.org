@@ -23,6 +23,7 @@ tags:
   - "opalko"
   - "solidarnist"
   - "cherepejnik"
+coverImage: "wp-content/uploads/2015/11/1-sesiya-6.jpg"
 ---
 
 **“Маєш право знати” продовжує аналізувати електронні декларації броварських депутатів та чиновників. Ми вже публікували огляди доходів фракції “[Радикальної партії Ляшка](https://mpz.brovary.org/e-deklaruvannya-blysk-zlydni-brovarskoyi-fraktsiyi-radykalna-partiya-lyashka/)” та “[Демальянсу](https://mpz.brovary.org/e-deklaruvannya-shho-zaroblyayut-brovarski-demalyansivtsi/)”. Сьогодні на черзі розгляд найбільшої депутатьскої фракції у Броварській міськраді БПП “Солідарність”, в якій поєдналися два успішних підприємця, три пенсіонери, директор благодійного фонду та матуся у відпустці по догляду за дитиною.**

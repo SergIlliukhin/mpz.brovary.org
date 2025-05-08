@@ -15,6 +15,7 @@ tags:
   - "vykonkom"
   - "zvernennya"
   - "novini"
+coverImage: "wp-content/uploads/2017/02/48052185.jpg"
 ---
 
 **Згідно закону “Про звернення громадян” броварчани [мають право](http://brovary-rada.gov.ua/content/informaciya-pro-zvernennya-gromadyan.html) впливати на місцеві органи влади шляхом [звернень](https://mpz.brovary.org/zvernennya-gromadyan-yak-podaty-skargu-chy-nadaty-propozytsiyu-brovarskoyi-miskoyi-rady/) у вигляді скарг, заяв чи пропозицій. Відповідно до інформації, [опублікованої](http://brovary-rada.gov.ua/documents/26655.html) на сайті Броварської міської ради, за 2016 рік чиновники [зареєстрували](https://onedrive.live.com/view.aspx?resid=76CC13A1B9E773BD!2830&ithint=file%2cdocx&app=Word&authkey=!ANGN_D-S23egGTM) більше 5 тисяч звернень. Більше третини всіх звернень прийшлось на питання комунального та дорожнього господарства, благоустрою. Друга третина - це соціальні питання. Інші звернення відносяться до житлових питань, а також землекористування.**

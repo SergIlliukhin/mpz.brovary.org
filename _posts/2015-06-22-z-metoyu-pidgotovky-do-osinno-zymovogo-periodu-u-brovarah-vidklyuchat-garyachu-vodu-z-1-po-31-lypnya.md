@@ -13,6 +13,7 @@ tags:
   - "garyache-vodopostachannya"
   - "novini"
   - "rozporyadzhennya-miskogo-golovi"
+coverImage: "wp-content/uploads/2015/06/Garyacha-voda.jpg"
 ---
 
 **З 1 липня по 31 липня 2015 року у Броварах буде тимчасово припинено надання послуги з централізованого постачання гарячої води. Це буде зроблено "з метою підготовки житлово-комунального та теплового господарства міста до роботи в осінньо-зимовий період 2015-2016 рр". Зокрема у цей період КП «Броваритепловодоенергія» має провести випробування на щільність та ремонт магістральних і розподільчих теплових мереж. Про це сказано у розпорядженні міського голови [№ 103-ОД від](http://brovary.kiev.ua/rozporyadzhennya-m%D1%96skogo-golovi-v%D1%96d-22062015-%E2%84%96103-od-pro-timchasove-pripinennya-nadannya-poslugi-z-t) [22.06.2015](http://brovary.kiev.ua/rozporyadzhennya-m%D1%96skogo-golovi-v%D1%96d-22062015-%E2%84%96103-od-pro-timchasove-pripinennya-nadannya-poslugi-z-t).**

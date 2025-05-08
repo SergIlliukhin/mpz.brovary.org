@@ -12,6 +12,7 @@ tags:
   - "kiyivoblenergo"
   - "kradizhky"
   - "novini"
+coverImage: "wp-content/uploads/2017/03/352.jpg"
 ---
 
 **ПАТ "Київобленерго" [повідомляє](http://www.koe.vsei.ua/koe/index.php?page=50&novost=398) про крадіжки майна, які почастішали останнім часом, та просить громадян повідомляти про злочини на гарячу лінію.**

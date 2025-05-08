@@ -19,6 +19,7 @@ tags:
   - "obrannya"
   - "reznik"
   - "tyutyunnyk"
+coverImage: "wp-content/uploads/2016/05/31-tutunnyk.jpg"
 ---
 
 **Новим обранцем міської ради Броварів став 27-річний Андрій Тютюнник. Чоловік посів вакантне місце замість лідера броварської фракції «Батьківщини» Олександра Резніка, раніше обраного 1-им заступником міського голови. Про це йдеться у [постанові](http://www.brovary.kiev.ua/postanova-%E2%84%96142-brovarsko%D1%97-m%D1%96sko%D1%97-radi-ki%D1%97vsko%D1%97-oblast%D1%96-shchodo-viznannya-obranim-ta-re%D1%94strats%D1%96yu-dep) Броварської міської виборчої комісії.**

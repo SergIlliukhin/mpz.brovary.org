@@ -14,6 +14,7 @@ tags:
   - "nove-misto"
   - "nove-misto-brovari"
   - "stvoryuyemo-nove-misto"
+coverImage: "wp-content/uploads/2015/03/DSC_88001.jpg"
 ---
 
 **[![Логотип Нове місто](https://mpz.brovary.org/wp-content/uploads/2015/03/Logotip-Nove-misto.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/03/Logotip-Nove-misto.jpg)Сьогодні у Києві відбудеться неординарна подія - активісти з усієї країни, яких об'єднали цінності Майдану та Революції Гідності, зберуться на [Конгрес громадянської платформи "Нова Країна"](http://novakraina.org/event/kongres-gp-nova-krayina-31-03-2015). На цьому форумі ініціативні та небайдужі громадяни презентуватимуть свої “історії успіху” та поточні проекти реформ, які разом з експертами напрацювали за минулий рік. Їдуть на цей конгрес і активісти з Броварів - розповісти, як зі стратегічної сесії "Нове місто" почалась [активна боротьба](https://mpz.brovary.org/genplan-dlya-brovarchan-gromada-mista-zmusila-sapozhka-znyati-punkt-z-sesiyi-ta-provesti-sluhannya/) мешканців проти змін до Генплану, що [переросла у розробку](https://mpz.brovary.org/sapozhko-pogodivsya-prodovzhiti-obgovorennya-genplanu-brovariv-ta-perenesti-gromadski-sluhannya/) нової Стратегії розвитку міста.**

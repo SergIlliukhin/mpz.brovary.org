@@ -14,6 +14,7 @@ tags:
   - "novini"
   - "pribirannya"
   - "subotnik"
+coverImage: "wp-content/uploads/2014/04/Subotnik-anons.jpg"
 ---
 
 **[![Суботник анонс](https://mpz.brovary.org/wp-content/uploads/2014/04/Subotnik-anons.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/04/Subotnik-anons.jpg)Цієї суботи, 26 квітня, усіх мешканців Броварів - незалежно від статі, віку  та роду занять - запрошують на велике прибирання лісу. Про це "Маєш право знати" повідомили організатори загальноміського суботника.**

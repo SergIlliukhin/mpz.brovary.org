@@ -17,6 +17,7 @@ tags:
   - "rishennya-vikonkomu"
   - "spylyuvannya-derev"
   - "chornovola"
+coverImage: "wp-content/uploads/2017/04/3.jpg"
 ---
 
 **Чергове видалення зелених насаджень затвердив броварський виконком 16 травня. Про це [повідомляється](http://brovary-rada.gov.ua/documents/27219.html) на офіційному сайті Броварської міської ради.**

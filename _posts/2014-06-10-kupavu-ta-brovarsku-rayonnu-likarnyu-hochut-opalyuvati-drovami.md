@@ -13,6 +13,7 @@ tags:
   - "kupava"
   - "novini"
   - "feliks-treyd"
+coverImage: "wp-content/uploads/2014/06/Kotelnya.jpg"
 ---
 
 **[![Котельня](https://mpz.brovary.org/wp-content/uploads/2014/06/Kotelnya.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/06/Kotelnya.jpg)З 10 по 23 червня на сайті Броварської міської ради [триватиме опитування громадської думки стосовно будівництва нової котельні на біомасі (деревна тріска)](http://www.brovary.kiev.ua/do-uvagi-brovarchan-opituvannya-gromadsko%D1%97-dumki). Планується, що майбутня опалювальна споруда потужністю 8 МВт забезпечуватиме теплом басейн «Купава» та Броварську центральну районну лікарню.**

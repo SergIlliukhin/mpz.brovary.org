@@ -12,6 +12,7 @@ tags:
   - "mikola-lisenko"
   - "pochesniy-gromadyanin"
   - "sapozhko"
+coverImage: "wp-content/uploads/2014/03/dvoryanets.jpg"
 ---
 
 **[![дворянець](https://mpz.brovary.org/wp-content/uploads/2014/03/dvoryanets.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/03/dvoryanets.jpg)Нещодавно друком вийшов черговий номер муніципальної газети «Броварська панорама». Контент видання вказує на те, що місцева влада продовжує використовувати «придворну» пресу для маніпуляцій громадською думкою. МПЗ вже писало про подібні матеріали «Брами», зокрема про те, як наближений до регіоналів депутат Оксютенко постав перед броварчанами [як координатор місцевої самооборони](https://mpz.brovary.org/yak-deputat-oksyutenko-brovarsku-samooboronu-koordinuye/). Однак піком цинізму влади стало не це інтерв****’****ю, і навіть не [стаття Сапожка про екстремістів та примирення](https://mpz.brovary.org/sapozhko-vzyav-vidpustku-do-9-bereznya-i-zvinuvativ-narodnu-radu-v-reyderstvi/) на першій шпальті.**

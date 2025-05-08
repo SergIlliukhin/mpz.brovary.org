@@ -13,6 +13,7 @@ tags:
   - "pidrobka"
   - "rizanenko"
   - "falshivka"
+coverImage: "wp-content/uploads/2012/07/Brehliva-listivka-pro-Rizanenka-Kachora-ta-Dyachenko_3.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/07/Brehliva-listivka-pro-Rizanenka-Kachora-ta-Dyachenko_3.jpg "Брехлива листівка про Різаненка, Качора та Дяченко_3")](https://mpz.brovary.org/wp-content/uploads/2012/07/Brehliva-listivka-pro-Rizanenka-Kachora-ta-Dyachenko_3.jpg)Схоже, наші опоненти - ті, кому ми заважаємо порушувати закони - перейшли у режим "ні тижня без фальшивки та наклепу". Сьогодні знову містом було поширено чергову листівку. Якісна поліграфія, кольоровий друк, "розкішний" дизайн в стилі "ампір" - і все заради того, щоб розповісти чергову брехню. І якщо раніше об'єктом [наклепів](https://mpz.brovary.org/psevdoshtab-udaru-poshiruvav-u-brovarah-ta-rayoni-falshivu-gazetu-i-namagavsya-diskredituvaty-partiu/) був переважно Павло Різаненко, то тепер зловмисники взялись і за журналістів "Маєш право знати" - Андрія Качора та мене.

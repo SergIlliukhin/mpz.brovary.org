@@ -20,6 +20,7 @@ tags:
   - "svidchennya"
   - "titushki"
   - "shokin"
+coverImage: "wp-content/uploads/2015/02/ppivanenko-770x433.jpg"
 ---
 
 **[![z](https://mpz.brovary.org/wp-content/uploads/2015/02/z.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/02/z.jpg)Як відомо, днями броварська прокуратура [оголосила про початок полювання на місцевих тітушок](https://mpz.brovary.org/polyuvannya-na-titushok-2015-brovarska-prokuratura-zbiraye-svidchennya-pro-antimaydanivtsiv/), а також тих, хто в Броварах та районі зганяв бюджетників на антимайдани до Києва.**

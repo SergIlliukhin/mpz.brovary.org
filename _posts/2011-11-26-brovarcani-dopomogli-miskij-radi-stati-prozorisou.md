@@ -12,6 +12,7 @@ tags:
   - "novini"
   - "sapozhko"
   - "chisti-vikna"
+coverImage: "wp-content/uploads/2011/11/P1050981.jpg"
 ---
 
 У четвер, 24.11.2011 р., активістами громадської ініціативи "Маєш право знати" було організовано [акцію "ЧИСТІ ВІКНА"](https://mpz.brovary.org/novini/operacia-chisti-vikna-pres-anons/ "Операція “Чисті вікна”").

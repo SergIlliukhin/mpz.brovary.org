@@ -14,6 +14,7 @@ tags:
   - "vakansiya-nachalnyka-viddilu-kultury"
   - "vibir-redaktsiyi"
   - "novini"
+coverImage: "wp-content/uploads/2016/12/12109319_895620243806636_2491046729317195176_n.jpg"
 ---
 
 **Понад місяць тривав [конкурс](http://brovary-rada.gov.ua/news/14497.html) на заміщення [вакантної посади](https://mpz.brovary.org/ogolosheno-konkurs-na-vakantnu-posadu-nachalnyka-viddilu-kultury-bmr/) начальника відділу культури. Увесь цей час трималася інтрига: хто ж стане наступним, 5-м очільником цього мистецького відділу? Лише сьогодні, після довгих «узгоджень» і «консультацій», сектор кадрової роботи Броварської міськради повідомив нашим журналістам імена кандидатів на цю вакансію.**

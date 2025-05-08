@@ -8,6 +8,7 @@ tags:
   - "vibir-redaktsiyi"
   - "komitet-oporu-diktaturi"
   - "novini"
+coverImage: "wp-content/uploads/2012/05/KOD-Brovarshhini.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/05/KOD-Brovarshhini.jpg "КОД Броварщини")](https://mpz.brovary.org/wp-content/uploads/2012/05/KOD-Brovarshhini.jpg)28 березня 2012 року у Броварах [було створено](https://mpz.brovary.org/pidpisano-ugodu-pro-stvorennya-komitetu-oporu-diktaturi-v-brovarah/ "Підписано Угоду про створення Комітету Опору Диктатурі в Броварах") "Комітет опору диктатурі Броварщини", основною метою якого є консолідація опозиційних до існуючої влади сил.

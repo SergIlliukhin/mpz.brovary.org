@@ -13,6 +13,7 @@ tags:
   - "molod-demokratichnogo-alyansu"
   - "flesh-mob"
   - "shevchenko"
+coverImage: "wp-content/uploads/2015/03/DSC07478.jpg"
 ---
 
 **[![молодьда шевченко (1)](https://mpz.brovary.org/wp-content/uploads/2015/03/molodda-shevchenko-1.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/03/molodda-shevchenko-1.jpg)**

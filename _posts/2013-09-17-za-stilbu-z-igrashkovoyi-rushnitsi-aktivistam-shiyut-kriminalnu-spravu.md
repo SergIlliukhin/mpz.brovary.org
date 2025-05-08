@@ -15,6 +15,7 @@ tags:
   - "peresliduvannya-zahisnikiv-parku"
   - "udar"
   - "huliganstvo"
+coverImage: "wp-content/uploads/2013/09/Richnitsya-postrilu-Zaporozhtsya-4-445h300.jpg"
 ---
 
 **[![Річниця пострілу Запорожця 13](https://mpz.brovary.org/wp-content/uploads/2013/09/Richnitsya-postrilu-Zaporozhtsya-13.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/09/Richnitsya-postrilu-Zaporozhtsya-13.jpg)12 вересня відбулись [масові допити](https://mpz.brovary.org/v-brovarah-rozpochalis-masovi-dopiti-zhurnalistiv-ta-opozitsioneriv/) організаторів та учасників [мирної акції](https://mpz.brovary.org/na-chest-zaporozhtsya-u-brovarah-zastrelili-prezidenta-miskogo-golovu-ta-gubernatora/) на підтримку [захисників парку «Перемога».](https://mpz.brovary.org/krivavi-sutichki-vidbulis-u-brovarah-mizh-meshkantsyami-ta-zabudovnikami-tsentralnogo-parku/) За словами слідчої Маріани Панченко, проти активістів відкрито кримінальне провадження за підозрою в хуліганстві, вчиненому групою осіб (ст. 296, ч. 2). Прикметно, що саме за такою статтею і судять активістів Ткаченка, Смірнова та Шевчука, на підтримку яких вийшли представники УДАРу та «Свободи» 10 вересня.**

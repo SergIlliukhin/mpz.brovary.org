@@ -13,6 +13,7 @@ tags:
   - "poroshenko"
   - "priznachennya"
   - "ukaz-prezidenta"
+coverImage: "wp-content/uploads/2015/03/sinko1.jpg"
 ---
 
 **[![sinko1](https://mpz.brovary.org/wp-content/uploads/2015/03/sinko1.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/03/sinko1.jpg)Броварську районну державну адміністрацію очолить Володимир Сінько. [Указ про призначення](http://www.president.gov.ua/documents/19203.html) на цю посаду сьогодні підписав Президент України Петро Порошенко.**

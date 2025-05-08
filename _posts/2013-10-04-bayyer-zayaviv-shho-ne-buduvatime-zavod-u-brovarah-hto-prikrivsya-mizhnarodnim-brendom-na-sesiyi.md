@@ -20,6 +20,7 @@ tags:
   - "sprostuvannya"
   - "farmakologiya"
   - "farmatsevtika"
+coverImage: "wp-content/uploads/2013/10/Interprofit-3.jpg"
 ---
 
 **[![Інтерпрофіт 3](https://mpz.brovary.org/wp-content/uploads/2013/10/Interprofit-3.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/10/Interprofit-3.jpg)Вчора на українському сайті міжнародної компанії «Байєр» та серед центральних ЗМІ була поширена [офіційна заява](http://www.bayer.ua/ebbsc/cms/uk/news/20131003.html), в якій було сказано, що ТОВ «Байєр» не планує будівництво фармацевтичного заводу на території України, а також що компанія «Байєр» ніколи не зверталась до Броварської міської ради або до Голови міської ради Ігоря Сапожка з проханням про виділення земельної ділянки для будь-якого будівництва.**

@@ -13,6 +13,7 @@ tags:
   - "konkurs-z-angliyskoyi-movi"
   - "livoberezhna-kiyivshhina"
   - "novini"
+coverImage: "wp-content/uploads/2016/10/614-london-img_b-e1475862520301.jpg"
 ---
 
 **У цю середу, 12 жовтня, завершується реєстрація учасників [конкурсу](https://mpz.brovary.org/brovary-challenge-2016-tryvaye-nabir-na-konkurs-iz-anglijskoyi-movy-peremozhtsi-poyidut-angliyi/) із англійської мови «Brovary Challenge». Сам конкурс пройде у суботу, 15 жовтня, у броварській ЗОШ №6.**

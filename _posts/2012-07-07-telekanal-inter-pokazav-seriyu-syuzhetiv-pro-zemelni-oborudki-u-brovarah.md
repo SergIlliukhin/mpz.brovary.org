@@ -19,6 +19,7 @@ tags:
   - "sapozhko"
   - "tb"
   - "fedorenko"
+coverImage: "wp-content/uploads/2012/07/telekanal-inter-logotip.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/07/telekanal-inter-logotip-2.jpg "телеканал інтер логотип 2")](https://mpz.brovary.org/wp-content/uploads/2012/07/telekanal-inter-logotip-2.jpg)Цього тижня на телеканалі "Інтер" у вечірніх випусках новин вийшла ціла серія журналістських розслідувань на тему земельних махінацій та зловживань в Україні. У трьох із п'яти сюжетів було показано приклади оборудок із землею, які було прокручено у Броварах. "Маєш право знати" пропонує увазі своїх читатчів ці три сюжета журналіста Романа Бочкали.

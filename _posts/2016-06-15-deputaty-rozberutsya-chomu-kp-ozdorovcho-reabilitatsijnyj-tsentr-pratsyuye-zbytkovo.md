@@ -15,6 +15,7 @@ tags:
   - "miskrada"
   - "novini"
   - "robocha-grupa"
+coverImage: "wp-content/uploads/2013/05/Baseyn-KP-ORTS-1.jpg"
 ---
 
 **Утворити робочу групу для вивчення стану господарсько-фінансової діяльності Броварського комунального підприємства «Оздоровчо-реабілітаційний центр» - таке [розпорядження](http://www.brovary.kiev.ua/rozporyadzhennya-m%D1%96skogo-golovi-v%D1%96d-14062016%E2%84%96145-od-pro-utvorennya-robocho%D1%97-grupi-dlya-vivchennya-st) 14 червня видав міський голова Ігор Сапожко.**

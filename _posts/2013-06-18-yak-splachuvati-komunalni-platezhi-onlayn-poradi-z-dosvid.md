@@ -14,6 +14,7 @@ tags:
   - "komunalni-tarifi"
   - "komunalne-pidpriyemstvo"
   - "sluzhba-zamovnika"
+coverImage: "wp-content/uploads/2013/06/credit-cards_69.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2013/06/credit-cards_69.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/06/credit-cards_69.jpg)**Напевно, кожен з нас пам'ятає шалені черги у відділеннях Ощадбанку у дні сплати комунальних платежів. Зараз ситуація дещо покращилась (багато броварчан користуються альтернативними банками), але все ж залишає бажати кращого.**

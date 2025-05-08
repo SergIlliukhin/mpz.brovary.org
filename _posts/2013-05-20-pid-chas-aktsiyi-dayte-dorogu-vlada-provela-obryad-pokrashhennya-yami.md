@@ -15,6 +15,7 @@ tags:
   - "novini"
   - "pokrashhennya"
   - "udar"
+coverImage: "wp-content/uploads/2013/05/IMG_9571_resize.jpg"
 ---
 
 [![IMG_9415_resize](https://mpz.brovary.org/wp-content/uploads/2013/05/IMG_9415_resize.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/05/IMG_9415_resize.jpg)**Близько півтисячі дорожніх ям, що можуть пошкодити автомобіль – саме стільки «поїденого» асфальту у Броварах нарахували місцеві активісти, котрі 17 травня провели акцію «Дайте дорогу».**

@@ -13,6 +13,7 @@ tags:
   - "zbir-pidpisiv"
   - "novini"
   - "perevirka-stanu-povitrya"
+coverImage: "wp-content/uploads/2015/02/kotelni_4.jpg"
 ---
 
 **У вівторок, 11 квітня відбудеться друга зустріч, на якій збиратимуть підписи за перевірку стану повітря в Броварах. Пройде вона на вулиці Грушевського.**

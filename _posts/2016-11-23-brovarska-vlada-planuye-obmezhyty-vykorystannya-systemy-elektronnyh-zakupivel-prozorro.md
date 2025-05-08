@@ -6,6 +6,7 @@ author:
   display_name: "ДемАльянс Бровари"
 categories: 
   - "kolonka-avtora"
+coverImage: "wp-content/uploads/2016/11/13495104_1200083383355561_4040534853970685078_n.jpg"
 ---
 
 ![13495104_1200083383355561_4040534853970685078_n](https://mpz.brovary.org/wp-content/uploads/2016/11/13495104_1200083383355561_4040534853970685078_n.jpg)

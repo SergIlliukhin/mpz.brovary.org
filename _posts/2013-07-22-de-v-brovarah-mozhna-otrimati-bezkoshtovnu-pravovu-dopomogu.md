@@ -12,6 +12,7 @@ tags:
   - "pravova-dopomoga"
   - "upravlinnya-yustitsiyi"
   - "yuridichni-konsultatsiyi"
+coverImage: "wp-content/uploads/2013/07/Pravova-priymalnya-upravlinnya-yustitsiyi.jpg"
 ---
 
 **[![правова допомога](https://mpz.brovary.org/wp-content/uploads/2013/06/pravova-dopomoga.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/06/pravova-dopomoga.jpg)Далеко не кожен з нас є юристом, тому часто-густо, щоб розібратись, що і як потрібно робити відповідно до законодавства, нам потрібна правова допомога. У Броварах є дві установи, у яких можна отримати безкоштовну юридичну консультацію у відповідного спеціаліста - у міськрайонному управлінні юстиції та у відділі по роботі зі зверненями громадян.**

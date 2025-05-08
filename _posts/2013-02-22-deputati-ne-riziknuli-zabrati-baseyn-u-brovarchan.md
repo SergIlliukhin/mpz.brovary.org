@@ -16,6 +16,7 @@ tags:
   - "novini"
   - "sapozhko"
   - "tisk-gromadi"
+coverImage: "wp-content/uploads/2013/02/Baseyn-pidpisi_0.jpg"
 ---
 
 **[![Басейн підписи_0](https://mpz.brovary.org/wp-content/uploads/2013/02/Baseyn-pidpisi_0.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/02/Baseyn-pidpisi_0.jpg)Учора, 21 лютого, броварська міська рада [під тиском громадскості](https://mpz.brovary.org/yak-nam-vryatuvati-baseyn-pershi-kroki/#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled&id=I0_1361535440094&parent=http%3A%2F%2Fpravo-znaty.org.ua&rpctoken=76225956) таки зняла з порядку денного [скандальне питання](https://mpz.brovary.org/deputati-planuyut-ostatochno-zabrati-baseyn-u-shkolyariv/) про зміну статуту комунального підприємства «Оздоровчо-реабілітаційний центр», на балансі якого перебуває басейн «Схід». Таким чином єдиний діючий громадський басейн поки перебуватиме у власності та розпорядженні броварчан.**

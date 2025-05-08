@@ -14,6 +14,7 @@ tags:
   - "okruzhna-viborcha-komisiya"
   - "parlamentski-vibori-2014"
   - "tsentralna-viborcha-komisiya"
+coverImage: "wp-content/uploads/2014/09/4483_1.jpg"
 ---
 
 [![4483_1](https://mpz.brovary.org/wp-content/uploads/2014/09/4483_1.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/09/4483_1.jpg)**Трохи більше місяця залишилось до дня голосування, а в 97 окрузі досі немає печаток для дільничних виборчих комісій. Про це повідомив один з членів ОВК Олексій Скочко. За його словами, це єдиний виборчий округ в Україні, який стикнувся з цією проблемою.**

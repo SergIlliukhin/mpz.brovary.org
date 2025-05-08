@@ -12,6 +12,7 @@ tags:
   - "tverdopalivni-kotelni"
   - "filtry"
   - "feliks-enerdzhi-grup"
+coverImage: "wp-content/uploads/2015/02/kotelni_7.jpg"
 ---
 
 **У твердопаливній котельні, що розташована у Броварах по вул. Симоненка біля ЖК "Купава", на яку вже рік [скаржилися](https://mpz.brovary.org/brovarchani-napisali-skargu-na-smorid-vid-kotelni-shho-z-tsogo-viyshlo/) місцеві мешканці, встановили додаткові фільтри.**

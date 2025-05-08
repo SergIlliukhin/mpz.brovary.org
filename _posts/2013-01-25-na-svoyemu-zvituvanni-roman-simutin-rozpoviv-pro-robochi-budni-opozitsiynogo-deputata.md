@@ -13,6 +13,7 @@ tags:
   - "novini"
   - "park-peremoga"
   - "simutin"
+coverImage: "wp-content/uploads/2013/01/Zvituvannya-Simutina_4.jpg"
 ---
 
 [![Звітування Сімутіна_2](https://mpz.brovary.org/wp-content/uploads/2013/01/Zvituvannya-Simutina_2.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/01/Zvituvannya-Simutina_2.jpg)**23 січня в актовій залі 7 школи зібралось близько 40 мешканців вул. Кирпоноса та бульв. Незалежності, які прийшли на [звітування](https://mpz.brovary.org/sogodni-pered-vibortsyami-svogo-okrugu-zvituvatime-deputat-simutin/) свого депутата – Романа Сімутіна, що представляє їхній 10-й виборчий округ у Броварській міській раді. Спершу депутат розповів про свою роботу протягом 2012 року, а потім мешканці отримали можливість висловити свої побажання та пропозиції та поставити запитання своєму обранцю.**

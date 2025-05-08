@@ -12,6 +12,7 @@ tags:
   - "dostup-do-genplanu"
   - "novini"
   - "obgovorennya"
+coverImage: "wp-content/uploads/2014/06/Genplan-0115.jpg"
 ---
 
 [![Генплан 0115](https://mpz.brovary.org/wp-content/uploads/2014/06/Genplan-0115.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/06/Genplan-0115.jpg)**Наприкінці травня в актовій залі школи № 1 відбулось [громадське обговорення проекту оновленого «Генерального плану міста Бровари»](https://mpz.brovary.org/na-vimogu-gromadi-groekt-genplanu-brovariv-obgovoryat-na-zborah-28-travnya/). Чиновники обрали для дискусії формат публічної конференції, однак те, що відбувалось 28 травня, не вписується у жодне визначення. Емоції, що вирували в залі, унеможливили будь-який конструктивний діалог, і все ж дещо корисне громаді таки вдалось винести з цієї події.**

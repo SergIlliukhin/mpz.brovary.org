@@ -13,6 +13,7 @@ tags:
   - "gromadske-telebachennya"
   - "grushevskogo"
   - "mafi"
+coverImage: "wp-content/uploads/2015/09/mafy.jpg"
 ---
 
 

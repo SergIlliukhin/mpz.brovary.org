@@ -17,6 +17,7 @@ tags:
   - "okrug-97"
   - "oleg-shevchuk"
   - "ratnikov"
+coverImage: "wp-content/uploads/2012/09/Benyuk.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/09/Benyuk.jpg "Бенюк")](https://mpz.brovary.org/wp-content/uploads/2012/09/Benyuk.jpg)Наступного ранку після [приїзду **Яценюка** до Броварів](https://mpz.brovary.org/yatsenyuk-zustrivsya-u-brovarah-z-vibortsyami-kiyivshhini-ta-predstaviv-kandidativ-mazhoritarnikiv/) на тому ж таки Майдані Свободи патіротично налаштованим броварчанам призначив [зустріч](https://mpz.brovary.org/25-veresnya-u-brovarah-vidbudetsya-zustrich-z-bogdanom-benyukom/) інший політик - **Богдан Бенюк**. І хоч більшості українців пан Богдан більше відомий як талановитий актор та активний культурний діяч, він є заступником голови партії **ВО "Свобода"** та приїхав до нашого міста агітувати за свою політичну силу.

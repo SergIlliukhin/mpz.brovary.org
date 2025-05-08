@@ -11,6 +11,7 @@ tags:
   - "budivnitstvo"
   - "ditsadok"
   - "dytyachyj-sadochok"
+coverImage: "wp-content/uploads/2017/06/15139702_10205739990739338_1046089056_n.jpg"
 ---
 
 **Близько 3200 м2 загальної площі житла - еквівалент втрати дитячого садочку на 220 місць.**

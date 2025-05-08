@@ -15,6 +15,7 @@ tags:
   - "militsiya"
   - "nameti"
   - "novini"
+coverImage: "wp-content/uploads/2012/09/namet.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/09/namet.jpg "Демонтаж намету Батьківщини")](https://mpz.brovary.org/wp-content/uploads/2012/09/namet.jpg)Щойно у центрі Броварів, на майдані Свободи, біля ринку "Нива" працівники броварської міліції розібрали агітаційний намет партії "ВО "Батьківщина". Людей, які протистояли цьому свавіллю, силоміць забрали до райвідділку для надання пояснень.

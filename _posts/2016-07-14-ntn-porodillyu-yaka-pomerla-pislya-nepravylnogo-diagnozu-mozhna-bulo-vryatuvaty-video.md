@@ -21,6 +21,7 @@ tags:
   - "syuzhet"
   - "filyushyna"
   - "halatnist"
+coverImage: "wp-content/uploads/2016/07/Za-kilka-misyatsiv-do-tragediyi-1.jpg"
 ---
 
 **Спеціальна комісія Міністерства охорони здоров’я завершила роботу над [розслідуванням](https://mpz.brovary.org/spetskomisiya-moz-pereviryt-brovarsku-likarnyu-cherez-smert-porodilli-zmi/) смерті породіллі Оксани Філюшиної у Броварській центральній районній лікарні. Якби жінці вчасно поставили правильний діагноз, в неї були би шанси вижити. Про це йдеться в [сюжеті](http://ntn.ua/ru/products/programs/svidok/news/2016/07/13/19823) центрального телеканалу НТН.**

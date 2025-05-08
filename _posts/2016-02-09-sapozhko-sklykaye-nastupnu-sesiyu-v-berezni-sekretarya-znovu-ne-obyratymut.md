@@ -11,6 +11,7 @@ tags:
   - "novini"
   - "sapozhko"
   - "sesiya"
+coverImage: "wp-content/uploads/2016/02/DSC_1120.jpg"
 ---
 
 **Восьма чергова сесія Броварської міської ради відбудеться о 10:00 10 березня в малій залі броварського виконкому. Про це йдеться в [розпорядженні міського голови](http://brovary-rada.gov.ua/rozporyadzhennya-m%D1%96skogo-golovi-v%D1%96d-09022016-%E2%84%9627-od-pro-sklikannya-vosmo%D1%97-chergovo%D1%97-ses%D1%96%D1%97-brovarsko%D1%97), опублікованому на офіційному сайті міськради.**

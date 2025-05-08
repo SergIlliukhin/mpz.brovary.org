@@ -6,6 +6,7 @@ author:
   display_name: "Anonymous"
 categories: 
   - "kolonka-avtora"
+coverImage: "wp-content/uploads/2012/10/Untitled2.jpg"
 ---
 
 Я розумію, що для більшості з вас зручна спокійна буденність, повсякденна одноманітність та безпечна пасивність. Я ціную їх, як і ви. Але...

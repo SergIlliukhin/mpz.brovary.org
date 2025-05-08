@@ -12,6 +12,7 @@ tags:
   - "lyustratsiya"
   - "mikola-garnik"
   - "novini"
+coverImage: "wp-content/uploads/2014/09/21-sesiya_7.jpg"
 ---
 
 **[![Микола Гарник](https://mpz.brovary.org/wp-content/uploads/2013/03/MVGarnyk.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/MVGarnyk.jpg)Броварський міжрайонний прокурор Микола Гарник звільнений з посади. Про це редакції "Маєш право знати" стало відомо сьогодні з власних джерел. Поінформоване джерело зазначає, що вчора, 8 вересня, Гарника терміново викликали до Генеральної прокуратури, після чого він написав заяву про відставку.**

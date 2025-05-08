@@ -14,6 +14,7 @@ tags:
   - "ovk"
   - "sidanich"
   - "skochko"
+coverImage: "wp-content/uploads/2012/09/Vibori-2012-skrinka.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/09/Vibori-2012-skrinka.jpg "Vibori-2012-skrinka")](https://mpz.brovary.org/wp-content/uploads/2012/09/Vibori-2012-skrinka.jpg)Цей тиждень – дуже важливий етап у цьогорічній виборчій кампанії. До 18 вересня тривав прийом подань кандидатур на членів дільничних виборчих комісії від партій та кандидатів. На їх обробку окружній виборчій комісії дано всього три дні, після чого вона має обрати склад ДВК шляхом жеребкування.

@@ -11,6 +11,7 @@ tags:
   - "vo-svoboda"
   - "konkurs"
   - "futbol"
+coverImage: "wp-content/uploads/2013/09/198093909_wallcoo.com_football_picture_ea190021.jpg"
 ---
 
 Закінчилося літо? Не сумуй і приходь ганяти м\`яча!!!

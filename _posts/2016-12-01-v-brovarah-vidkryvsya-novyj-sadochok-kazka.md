@@ -13,6 +13,7 @@ tags:
   - "dytyachyj-sadochok"
   - "dnz-kazka"
   - "novini"
+coverImage: "wp-content/uploads/2016/12/5-1.jpg"
 ---
 
 **30 листопада в Броварах було відкрито новий дитячий садочок «Казка». Про це йдеться в [оголошенні](http://www.brovary-osvita.gov.ua/vidkryttya-doshkilnoho-navchalnoho-zakladu-kazka/) на офіційному сайті управління освіти та науки Броварської міськради.**

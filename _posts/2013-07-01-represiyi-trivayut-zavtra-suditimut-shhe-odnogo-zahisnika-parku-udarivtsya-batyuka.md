@@ -12,6 +12,7 @@ tags:
   - "park-peremoga"
   - "represiyi"
   - "tisk"
+coverImage: "wp-content/uploads/2013/07/DSC88261.jpg"
 ---
 
 \[caption id="attachment\_19021" align="alignleft" width="283"\][![Сергій Батюк](https://mpz.brovary.org/wp-content/uploads/2013/07/DSC8826.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/07/DSC8826.jpg) Сергій Батюк\[/caption\]

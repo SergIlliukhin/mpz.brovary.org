@@ -17,6 +17,7 @@ tags:
   - "nechystoty"
   - "novini"
   - "stoky"
+coverImage: "wp-content/uploads/2016/10/Zvtoplennya-Grushevskogo-avariya-GNS-00003.jpg"
 ---
 
 **По вулиці Грушевського з-під каналізаційних люків знову інтенсивно фонтанують нечистоти. Окрім [перехрестя](https://mpz.brovary.org/meshkantsi-brovariv-ne-dobyrayut-sliv-misto-tone-u-g-ni/) з вулицею Героїв Небесної Сотні, дорогу залило також у [традиційному місці підтоплень](https://mpz.brovary.org/u-brovarah-vlashtuvaly-perepravu-na-chovni-cherez-vulytsyu-grushevskogo-fotoreportazh/) – біля кінцевої маршрутки 403-А. Ліквідатори вказують, що це все відбувається через [аварію](https://mpz.brovary.org/po-vul-geroyiv-nebesnoyi-sotni-utvoryvsya-glybokyj-proval-pidmylo-grunt-foto/) на каналізаційному колекторі біля 9 школи.**

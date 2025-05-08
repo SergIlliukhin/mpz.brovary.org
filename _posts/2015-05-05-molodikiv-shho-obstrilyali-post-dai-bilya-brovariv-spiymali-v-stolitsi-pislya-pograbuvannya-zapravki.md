@@ -18,6 +18,7 @@ tags:
   - "obstril"
   - "perestrilka"
   - "pravoohorontsi"
+coverImage: "wp-content/uploads/2015/05/32788942.jpeg"
 ---
 
 **[![32788942](https://mpz.brovary.org/wp-content/uploads/2015/05/32788942.jpeg)](https://mpz.brovary.org/wp-content/uploads/2015/05/32788942.jpeg)Затримані молодики, що підозрюються у вчиненні озброєного пограбування заправки** **WOG** **у столиці, зізнались в недавньому обстрілі блок-посту ДАІ біля Броварів. Про це повідомив міністр внутрішніх справ України Арсен Аваков [на своєму](https://www.facebook.com/arsen.avakov.1/posts/830503227039785)** [**Facebook**](https://www.facebook.com/arsen.avakov.1/posts/830503227039785)**. За словами глави МВС, у зловмисників також знайшли арсенал зброї та нагрудні нашивки "Спецпідрозділ "Торнадо" та "УПА".**

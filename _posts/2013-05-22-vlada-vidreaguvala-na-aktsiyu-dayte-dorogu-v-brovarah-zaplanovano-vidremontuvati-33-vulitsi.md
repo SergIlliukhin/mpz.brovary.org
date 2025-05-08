@@ -13,6 +13,7 @@ tags:
   - "novini"
   - "remont"
   - "udar"
+coverImage: "wp-content/uploads/2013/05/IMG_9642_resize.jpg"
 ---
 
 **[![IMG_9642_resize](https://mpz.brovary.org/wp-content/uploads/2013/05/IMG_9642_resize.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/05/IMG_9642_resize.jpg)Вже через два дні після [автопробігу](https://mpz.brovary.org/pid-chas-aktsiyi-dayte-dorogu-vlada-provela-obryad-pokrashhennya-yami/) з вимогою полагодити місцеві дороги броварська міська влада оприлюднила свої плани щодо вирішення ситуації з автошляхами.**

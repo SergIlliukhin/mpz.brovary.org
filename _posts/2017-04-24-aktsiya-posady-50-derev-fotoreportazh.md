@@ -18,6 +18,7 @@ tags:
   - "misto"
   - "novini"
   - "sadzhantsi"
+coverImage: "wp-content/uploads/2017/04/dereva-37.jpg"
 ---
 
 **23 квітня у Броварах проходила колективна висадка дерев, приурочена до всесвітнього Дня Землі. Дерева та кущі висадили вздовж вулиці Київської та у парку ім. Т.Г.Шевченка. Організатором [акції](https://mpz.brovary.org/anons-22-kvitnya-vidbudetsya-ekologichna-aktsiya-posady-50-derev/) "Посади 50+ дерев" виступила ГО "ЕКО Бровари".**

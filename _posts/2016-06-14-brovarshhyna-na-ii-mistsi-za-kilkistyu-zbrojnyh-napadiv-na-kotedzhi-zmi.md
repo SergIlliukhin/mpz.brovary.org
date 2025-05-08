@@ -16,6 +16,7 @@ tags:
   - "novini"
   - "obozrevatel"
   - "pryvatnyj-budynok"
+coverImage: "wp-content/uploads/2016/06/0241ba5-pograbuvannia-pistolet-383893021.jpg"
 ---
 
 **У Київській області почастішали збройні напади на приватні будинки. Злочинці нерідко б'ють, іноді катують і, навіть, вбивають господарів котеджів. Бровари та Броварський район серед інших регіонів області посіли друге місце. З початку 2016 року тут сталось 4 таких розбої. Про це [повідомляє](http://ukr.obozrevatel.com/kiyany/crime/16923-rozboi-pid-kievom-skladena-karta-banditskih-nalotiv-na-kotedzhi.htm) видання «Обозреватель» із посиланням на джерела в правоохоронних органах.**

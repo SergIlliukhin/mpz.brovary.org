@@ -11,6 +11,7 @@ tags:
   - "gromadski-organizatsiyi"
   - "gromadska-organizatsiya"
   - "novini"
+coverImage: "wp-content/uploads/2012/12/gromadski-organizatsiyi.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/12/gromadski-organizatsiyi.jpg "громадські організації")](https://mpz.brovary.org/wp-content/uploads/2012/12/gromadski-organizatsiyi.jpg)**На засіданні 11 грудня міськвиконком зареєстрував нове об’єднання громадян - Броварську громадську організацію жінок-інвалідів «Донна». Таке [рішення](http://docs.pravo-znaty.org.ua/p6280/11.12.2012/588) було ухвалене на підставі заяви та поданих документів новоутвореного об’єднання.**

@@ -12,6 +12,7 @@ tags:
   - "rokford"
   - "sapozhko"
   - "troshhenko"
+coverImage: "wp-content/uploads/2012/06/Rockford.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/06/Rockford.jpg "Візит Ігоря Сапожка до Рокфорда")](https://mpz.brovary.org/wp-content/uploads/2012/06/Rockford.jpg)Сьогодні з'явилася перша офіційна реакція броварського міського голови **Ігоря Сапожка** щодо [інформації про офіційний візит його родини](https://mpz.brovary.org/brovarski-mozhnovladtsi-razom-z-rodinami-vidvidali-ssha-u-skladi-delegatsiyi-mista/ "Броварські можновладці разом з родинами відвідали США у складі делегації міста") у складі делегації міста Бровари до міста Рокфорд (США, Іллінойс). Нагадаємо, у тижневій подорожі до США міського голову супроводжували його дружина, донька, депутат Ігор Трощенко з родиною та депутат Андрій Крат.

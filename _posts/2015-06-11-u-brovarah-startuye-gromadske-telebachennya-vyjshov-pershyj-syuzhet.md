@@ -14,6 +14,7 @@ tags:
   - "kachor"
   - "novini"
   - "telebachennya"
+coverImage: "wp-content/uploads/2015/06/TB-3.jpg"
 ---
 
 **Сьогодні команда місцевих журналістів випустила в інтернет-ефір перший телесюжет Броварського Громадського Телебачення - репортаж про [нещодавній концерт панк-рок гурту BRUTTO](https://mpz.brovary.org/krov-z-molotkom-brutto-mihalok-porvali-brovari-robochim-pank-rokom/) в ТРЦ «Термінал». Паралельно з цим "Громадське. Бровари" запускає [власний YouTube-канал](https://www.youtube.com/channel/UCrB8DKC3jO3WogMIcyoazfw) та офіційні представництва у соціальних мережах:** **[Фейсбуці](https://www.facebook.com/hromadskebro.tv), [Вконтакте](https://vk.com/hromadskebro),** **[Твітері](https://twitter.com/HromadskeBro) та** **[Інстаграм.](https://instagram.com/hromadskebro/) Коли буде офіційна презентація нового мас-медіа у Броварах, творча група наразі не повідомляє та [зазначає](https://mpz.brovary.org/brovarske-gromadske-telebachennya-zapusk/) лише, що "остаточне розкриття інтриги – вже найближчим часом".**

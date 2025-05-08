@@ -14,6 +14,7 @@ tags:
   - "klub-entuziast"
   - "novini"
   - "torgmash"
+coverImage: "wp-content/uploads/2013/03/oseredok-kulturi2.jpg"
 ---
 
 **[![Листівка по Ентузіасту](https://mpz.brovary.org/wp-content/uploads/2013/03/Listivka-po-Entuziastu.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/Listivka-po-Entuziastu.jpg)Цієї суботи, 23 березня, на площі неподалік від супермаркету «Форум» відбудеться акція на захист клубу "Ентузіаст", який довгий час був по суті центром культури та творчості для мешкаців Торгмашу. Про це "Маєш право знати" повідомили організатори заходу.**

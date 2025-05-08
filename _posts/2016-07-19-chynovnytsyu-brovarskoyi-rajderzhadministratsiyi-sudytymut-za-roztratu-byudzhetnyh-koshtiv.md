@@ -19,6 +19,7 @@ tags:
   - "roztrata-koshtiv"
   - "sud"
   - "shkoli"
+coverImage: "wp-content/uploads/2016/07/AO2oKlj7.jpg"
 ---
 
 **Начальницю відділу освіти Броварської РДА та керівника підрядної організації, що виконувала ремонти у школах району, звинувачують у розтраті бюджетних коштів на суму понад 800 тисяч гривень. Про це [повідомляє](http://brovaru-prokuratura.org.ua/news/sluzhbovtsya-administratsiyi-zavdyaki-prokuraturi-budut-suditi-za-roztratu-byudzhetnih-koshtiv-v-osoblivo-velikomu-rozmiri.html)** **Броварська місцева прокуратура на своєму офіційному сайті. Зловмисникам загрожує конфіскація майна та позбавлення волі на строк від 7 до 12 років - матеріали справи направлені до суду.**

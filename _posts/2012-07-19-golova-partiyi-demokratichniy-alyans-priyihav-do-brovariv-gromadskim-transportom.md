@@ -11,6 +11,7 @@ tags:
   - "gatsko"
   - "demokratichniy-alyans"
   - "novini"
+coverImage: "wp-content/uploads/2012/07/Demalyans-u-Brovarah1.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/07/Demalyans-u-Brovarah1.jpg "Демальянс у Броварах1")](https://mpz.brovary.org/wp-content/uploads/2012/07/Demalyans-u-Brovarah1.jpg) Вчора, 18 липня, для [зустрічі з місцевими громадськими активістами та журналістами](https://mpz.brovary.org/18-lipnya-u-brovarah-vidbudetsya-zustrich-z-komandoyu-demokratichnogo-alyansu/) до Броварів приїжджав голова молодої політичної сили «Демократичний Альянс» **Василь Гацько**. Спілкування проходило за круглим столом в офісі однієї з місцевих громадських організацій. Як зізнався журналістам «Маєш право знати» молодий політик, до нашого міста він дістався громадським транспортом. «_Авта не маю, але друзі добре пояснили, як їхати, то ж добрався швидко і без пригод_», - запевнив Василь.

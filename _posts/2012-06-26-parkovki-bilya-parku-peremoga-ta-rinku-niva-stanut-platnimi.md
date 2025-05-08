@@ -18,6 +18,7 @@ tags:
   - "parkovki"
   - "pravila-parkuvannya"
   - "rinok-niva"
+coverImage: "wp-content/uploads/2012/06/Parkovka-na-Vozzyednannya-bilya-rinku.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/06/Parkovka-na-Vozzyednannya-bilya-Forumu.jpg "Парковка на Воззєднання біля Форуму")](https://mpz.brovary.org/wp-content/uploads/2012/06/Parkovka-na-Vozzyednannya-bilya-Forumu.jpg)Вже зовсім скоро найвелелюдніші парковки міста – біля обох ринків – стануть платними. Наприкінці травня управління житлово-комунального господарства провело конкурс та визначило компанію, яка буде обслуговувати майданчики для платного паркування, розташовані по вул. Возз’єднання та по вул. Короленка. Переможцем конкурсу став єдиний його учасник – ФОП Папенко Д. Д., який запропонував ціну 5 грн за годину паркування.

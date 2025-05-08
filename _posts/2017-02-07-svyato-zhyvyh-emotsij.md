@@ -17,6 +17,7 @@ tags:
   - "novini"
   - "tantsyuvalnyj-konkurs"
   - "terminal"
+coverImage: "wp-content/uploads/2017/02/bravokids-25.jpg"
 ---
 
 **5 лютого в Броварах уже втретє [пройшов](https://mpz.brovary.org/anons-5-lyutogo-v-trts-terminal-projde-dytyachyj-festyval-bravokids-zyma/)** **масштабний** **дитячий фестиваль «Браво****Kids****»** **- справжнє свято і чудова можливість для юного покоління не тільки продемонструвати свої вміння й таланти, а й добре розважитися в компанії однолітків, батьків та аніматорів.**

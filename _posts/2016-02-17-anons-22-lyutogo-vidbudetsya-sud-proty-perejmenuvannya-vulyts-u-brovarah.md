@@ -16,6 +16,7 @@ tags:
   - "sabotazh"
   - "sud"
   - "femida"
+coverImage: "wp-content/uploads/2016/02/tmpLPAW8U.jpeg"
 ---
 
 **На Броварську міську раду подали до суду. Позивачі просять Феміду визнати незаконним та скасувати [рішення](http://brovary-rada.gov.ua/r%D1%96shennya-m%D1%96sko%D1%97-radi-v%D1%96d-25122015%E2%84%9652-04-07pro-pereimenuvannya-vulits-ta-provulk%D1%96v-m-brovari) про перейменування 70-ти вулиць у Броварах. За це новий депутатський корпус [проголосував](https://mpz.brovary.org/u-brovarah-z-yavylys-vulytsi-na-chest-stepana-bandery-nebesnoyi-sotni-ta-geroyiv-ato/) іще 25 грудня 2015 року. Засідання в адміністративній справі відбудеться вже менш як за тиждень у броварському суді.**

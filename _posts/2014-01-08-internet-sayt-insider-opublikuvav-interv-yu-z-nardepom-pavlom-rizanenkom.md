@@ -12,6 +12,7 @@ tags:
   - "novini"
   - "rizanenko"
   - "udar"
+coverImage: "wp-content/uploads/2014/01/Rizanenko-2014.jpg"
 ---
 
 [![Різаненко 2014](https://mpz.brovary.org/wp-content/uploads/2014/01/Rizanenko-2014.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/01/Rizanenko-2014.jpg)**Сьогодні [на сайті INSIDER](http://www.theinsider.com.ua/politics/52cd3b35d8b76/) вийшло інтерв'ю з народним депутатом України, обраним по виборчому округу № 97, Павло Різаненком. Пропопонуємо увазі наших читачів** **повний текст першої частини інтерв'ю.**

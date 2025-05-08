@@ -11,6 +11,7 @@ tags:
   - "brovary"
   - "gromadska-rada"
   - "kolegialniy-organ"
+coverImage: "wp-content/uploads/2012/09/Politika2.gif"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/09/Politika2-300x259.gif "Политика2")](https://mpz.brovary.org/wp-content/uploads/2012/09/Politika2.gif)На жаль, змушена констатувати, що броварська **Громадська рада** як колегіальний орган, який мав би відстоювати інтереси громади під час ухвалення рішень виконавчого комітету, не відбулась.

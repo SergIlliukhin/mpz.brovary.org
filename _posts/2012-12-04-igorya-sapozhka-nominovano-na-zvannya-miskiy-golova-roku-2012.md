@@ -10,6 +10,7 @@ tags:
   - "lyudina-roku"
   - "novini"
   - "sapozhko"
+coverImage: "wp-content/uploads/2012/12/P1060040.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/12/P1060040.jpg "Ігор Сапожко")](https://mpz.brovary.org/wp-content/uploads/2012/12/P1060040.jpg)**Броварський міський голова Ігор Сапожко став одним із претендентів на здобуття щорічної премії "Людина року - 2012" за вищі професійні і громадські досягнення у номінації "Міський голова року"** - про це [повідомляє](http://www.unian.ua/news/535573-pretendentami-na-titul-lyudina-roku-2012-stali-vidomi-politiki-ta-skandalni-meri.html) інформаційне агенство УНІАН, яке виступає інформаційним партнером Загальнонаціональної програми "Людина Року".

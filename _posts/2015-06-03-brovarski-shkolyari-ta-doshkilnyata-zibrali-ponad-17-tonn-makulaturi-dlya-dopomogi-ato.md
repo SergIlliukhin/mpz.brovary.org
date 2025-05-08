@@ -14,6 +14,7 @@ tags:
   - "makulatura"
   - "novini"
   - "shkola"
+coverImage: "wp-content/uploads/2015/06/makulatura-zaversheno-10.jpg"
 ---
 
 [![макулатура-завершено (30)](https://mpz.brovary.org/wp-content/uploads/2015/06/makulatura-zaversheno-30.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/06/makulatura-zaversheno-30.jpg)**Навіть коли писався матеріал, [акція «Збери макулатуру — врятуй життя солдату»](https://mpz.brovary.org/aktsiyu-zberi-makulaturu-vryatuy-zhittya-soldatu-prodovzheno-shhe-na-tizhden/) продовжувалася: вчителі та вихователі кількох шкільних та позашкільних закладів телефонували до кураторів проекту, запитуючи, чи не «забули» про них, адже діти старалися й збирали макулатуру, аби у такий спосіб підтримати наших солдат, які задіяні в антитеростичній операції.**

@@ -12,6 +12,7 @@ tags:
   - "novini"
   - "oksyutenko"
   - "pekarnya"
+coverImage: "wp-content/uploads/2013/01/Oksyutenko_07.jpg"
 ---
 
 [![Оксютенко_07](https://mpz.brovary.org/wp-content/uploads/2013/01/Oksyutenko_07.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/01/Oksyutenko_07.jpg)**Минулої п’ятниці, 18 січня, в актовій залі ЗОШ № 3 відбулось [звітування](https://mpz.brovary.org/sogodni-deputat-oksyutenko-zvituvatime-pered-vibortsyami-svogo-okrugu/) депутата Броварської міської ради Володимира Оксютенка. Поспілкуватись з депутатом свого округу прийшло кілька десятків місцевих мешканців.**

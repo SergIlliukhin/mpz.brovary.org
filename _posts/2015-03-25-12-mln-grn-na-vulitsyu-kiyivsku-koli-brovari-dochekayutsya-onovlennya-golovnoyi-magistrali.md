@@ -13,6 +13,7 @@ tags:
   - "novini"
   - "rekonstruktsiya-kiyivskoyi"
   - "troleybusna-liniya"
+coverImage: "wp-content/uploads/2015/03/kiyivska-rozruha.jpg"
 ---
 
 **[![київська розруха](https://mpz.brovary.org/wp-content/uploads/2015/03/kiyivska-rozruha.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/03/kiyivska-rozruha.jpg)Вулицю, по якій так і не поїхав тролейбус, продовжать реконструювати. В цьому році на покращення Київської передбачено майже 12 мільйонів гривень з міського бюджету. «Маєш право знати» спробувало систематизувати всі витрати на магістральну вулицю за минулі роки та дізнатись, коли ж можна буде побачити та відчути результати реконструкції.**

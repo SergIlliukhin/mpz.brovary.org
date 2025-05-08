@@ -11,6 +11,7 @@ tags:
   - "dobrovoltsi"
   - "krim"
   - "novini"
+coverImage: "wp-content/uploads/2014/03/viyskomat.jpg"
 ---
 
 **[![військомат](https://mpz.brovary.org/wp-content/uploads/2014/03/viyskomat.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/03/viyskomat.jpg)В приміщенні військового комісаріату, який [переїхав на вул. Незалежності 4 а](https://mpz.brovary.org/brovarskiy-sud-ta-viyskoviy-komisariat-pominyali-mistsyami/), проводять навчальні збори з добровольцями. Про це повідомив головний спеціаліст військкомату Анатолій Гладкий.**

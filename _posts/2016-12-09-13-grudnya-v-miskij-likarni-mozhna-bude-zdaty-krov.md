@@ -12,6 +12,7 @@ tags:
   - "btsrl"
   - "donorstvo-krovi"
   - "novini"
+coverImage: "wp-content/uploads/2016/12/stanciya-perelivaniya-krovi2.jpg"
 ---
 
 **Наступного вівторка у броварській лікарні донори зможуть здати кров. Про це [повідомляється](http://brovcrl.in.ua/zday-krov-vryatuy-zhyttya-5) в оголошенні на сайті лікарні.**

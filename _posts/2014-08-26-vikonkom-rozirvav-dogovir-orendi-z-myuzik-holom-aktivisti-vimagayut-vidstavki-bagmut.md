@@ -13,6 +13,7 @@ tags:
   - "vykonkom"
   - "dogovir-orendi"
   - "myuzik-holl"
+coverImage: "wp-content/uploads/2014/08/10647782_841537745869837_1244660835_n1.jpg"
 ---
 
 **[![13XehNic9FM](https://mpz.brovary.org/wp-content/uploads/2014/08/13XehNic9FM.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/08/13XehNic9FM.jpg)Після останніх кількох тижнів протестів мешканців бульвару Незалежності, а насправді – після кількох років регулярних звернень людей до влади - процес виселення обридлого мажорського притону «Мюзік Хол» із «Прометею» нарешті починає набирати конкретних обрисів.**

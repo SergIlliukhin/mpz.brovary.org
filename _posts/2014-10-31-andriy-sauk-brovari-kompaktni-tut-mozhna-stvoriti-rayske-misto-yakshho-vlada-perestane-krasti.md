@@ -13,6 +13,7 @@ tags:
   - "novini"
   - "osbb"
   - "rubrika-lyudi"
+coverImage: "wp-content/uploads/2014/10/Sauk-Andriy-DSC_0161.jpg"
 ---
 
 _![Люди](https://mpz.brovary.org/wp-content/uploads/2014/10/Lyudi.png)За час своєї роботи команда “Маєш право знати” мала справу з багатьма  активними броварчанами, у яких є свої захоплюючі та повчальні історії, незвичні ідеї та найголовніше – сформований світогляд і життєві цінності.[Нещодавно ми започаткували](https://mpz.brovary.org/oleksandr-plahov-ya-hochu-bachiti-brovari-priyemnim-i-komfortnim-mistom/) рубрику “_**_ЛЮДИ_**_“, щоб розповідати нашим читачам  про таких успішних та цікавих особистостей._

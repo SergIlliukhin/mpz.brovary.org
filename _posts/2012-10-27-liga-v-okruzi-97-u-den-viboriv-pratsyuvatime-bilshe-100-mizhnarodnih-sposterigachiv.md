@@ -13,6 +13,7 @@ tags:
   - "novini"
   - "okrug-97"
   - "siverinsen"
+coverImage: "wp-content/uploads/2012/10/severinsen.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/10/severinsen.jpg "северінсен")](https://mpz.brovary.org/wp-content/uploads/2012/10/severinsen.jpg)У зв'язку з гострою передвиборною ситуацією в броварському виборчому окрузі № 97 (Київська обл.) в Бровари прибула група іноземних спостерігачів із США, Данії, Польщі та Росії, чисельність якої перевищує сто чоловік. Про це повідомляє інформаційне агентство "[Ліга. Новини](http://news.liga.net/ua/news/politics/754978-u_okruz_v_brovarakh_zberutsya_b_lshe_100_sposter_gach_v.htm#)".

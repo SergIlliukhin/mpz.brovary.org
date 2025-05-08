@@ -20,6 +20,7 @@ tags:
   - "ratnikov"
   - "fedorenko"
   - "shapran"
+coverImage: "wp-content/uploads/2012/10/chesno2.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/10/chesno2.jpg "чесно2")](https://mpz.brovary.org/wp-content/uploads/2012/10/chesno2.jpg)Громадянський рух “[Чесно](http://www.chesno.org)“ змінив свою оцінку кандидата у народні депутати по 97 виборчому округу **Миколи Діденка**, який [раніше](https://mpz.brovary.org/chesnometr-viznachiv-hto-z-kandidativ-u-97-okruzi-vidpovidaye-kriteriyam-dobrochesnosti/) експертами "Чеснометра" був визнаний як такий, що відповідає критеріям доброчесноті. Після детальнішого аналізу окремих фактів з біографії даного учасника виборчих перегонів аналітики таки підтвердили його невідповідність критерію "Причетність до корупційних дій".

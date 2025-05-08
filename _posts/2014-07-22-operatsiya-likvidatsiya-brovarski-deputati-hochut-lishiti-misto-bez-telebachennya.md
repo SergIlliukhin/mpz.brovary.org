@@ -17,6 +17,7 @@ tags:
   - "sesiya"
   - "telestudiya"
   - "tsenzura"
+coverImage: "wp-content/uploads/2014/07/foto-1-23.jpg"
 ---
 
 **[![фото 1 (2)](https://mpz.brovary.org/wp-content/uploads/2014/07/foto-1-23.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/07/foto-1-23.jpg)Під час наступної сесії Броварської міської ради, що [має відбутися 14 серпня 2014 року,](http://brovary-rada.gov.ua/rozporyadzhennya-m%D1%96skogo-golovi-%E2%84%96-133-od-v%D1%96d-10072014) місцеві депутати планують розглянути питання про ліквідацію комунального підприємства «Телестудія «Наше місто», що впродовж останніх років була єдиною студією місцевих теленовин.**

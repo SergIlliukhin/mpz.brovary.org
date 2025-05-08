@@ -17,6 +17,7 @@ tags:
   - "peremoga"
   - "fizyka"
   - "shkolyar"
+coverImage: "wp-content/uploads/2016/07/Physics-WaLp-tw2011.png"
 ---
 
 **Українські школярі на міжнародній учнівській олімпіаді з фізики вибороли 1 золоту, 3 срібні та 1 бронзову медалі. Призером бронзи став учень 11 класу броварської 9 школи Олександр Бугайко. Про це [повідомляє](http://mon.gov.ua/usi-novivni/novini/2016/07/18/ukrayinska-komanda-yunix-fizikiv-stala-zolotim,-sribnim-ta-bronzovim-prizerom-47-yi/) Міністерство освіти і науки України.**

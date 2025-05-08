@@ -11,6 +11,7 @@ tags:
   - "brovary"
   - "gromadske-telebachennya"
   - "den-prapora"
+coverImage: "wp-content/uploads/2015/08/prapor.jpg"
 ---
 
 

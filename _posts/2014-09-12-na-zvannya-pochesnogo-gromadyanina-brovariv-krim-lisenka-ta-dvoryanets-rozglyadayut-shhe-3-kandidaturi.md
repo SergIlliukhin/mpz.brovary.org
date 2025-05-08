@@ -12,6 +12,7 @@ tags:
   - "novini"
   - "pochesniy-gromadyanin"
   - "pochesniy-gromadyanin-mista-brovari"
+coverImage: "wp-content/uploads/2014/03/dvoryanets.jpg"
 ---
 
 \[caption id="attachment\_25022" align="alignleft" width="300"\][![Антоніна Дворянець з найменшою внучкою](https://mpz.brovary.org/wp-content/uploads/2014/03/Antonina-Dvoryanets12.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/03/Antonina-Dvoryanets12.jpg) Антоніна Дворянець\[/caption\]

@@ -13,6 +13,7 @@ tags:
   - "molod"
   - "novini"
   - "onum"
+coverImage: "wp-content/uploads/2015/01/Lantsyug-yednosti-Tri.jpg"
 ---
 
 **[![Ланцюг єдності Три](https://mpz.brovary.org/wp-content/uploads/2015/01/Lantsyug-yednosti-Tri.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/01/Lantsyug-yednosti-Tri.jpg)22 січня 2015 року - у День Соборності України - активісти Об'єднання Незалежної Української Молоді ([ОНУМ](http://vk.com/onymua)) запрошують броварчан утворити разом [Живий ланцюг](http://vk.com/zhyvuy.lantsyuh) як символ Єдності України. Молодь оголосила збір о 14:00 біля зупинки «Порошинка».**

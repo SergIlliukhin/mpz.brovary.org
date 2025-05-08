@@ -13,6 +13,7 @@ tags:
   - "zheki"
   - "konkurs"
   - "novini"
+coverImage: "wp-content/uploads/2012/06/blagoustriy-na-Grushevskogo.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/06/blagoustriy-na-Grushevskogo.jpg "благоустрій на Грушевського")](https://mpz.brovary.org/wp-content/uploads/2012/06/blagoustriy-na-Grushevskogo.jpg)З метою "_залучення населення до участі в роботі із забезпечення збереження житлового фонду, благоустрою територій, покращення умов проживання та гідного ставлення мешканців до свого міста_" виконком Броварської міської ради вирішив провести конкурс з благоустрою міста „**Найкращий будинок та благоустрій території**”.

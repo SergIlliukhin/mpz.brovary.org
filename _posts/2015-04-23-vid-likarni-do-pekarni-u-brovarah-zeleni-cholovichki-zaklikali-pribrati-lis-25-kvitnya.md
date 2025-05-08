@@ -16,6 +16,7 @@ tags:
   - "pribirannya-lisu"
   - "subotnik"
   - "fleshmob"
+coverImage: "wp-content/uploads/2015/04/fleshmob-subotnik-03.jpg"
 ---
 
 **[![флешмоб суботник 03](https://mpz.brovary.org/wp-content/uploads/2015/04/fleshmob-subotnik-03.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/04/fleshmob-subotnik-03.jpg)Надвечір середи центральні вулиці міста заповнили броварські "зелені чоловічки". "Вдягнуті" в сміттєві пакети активісти влаштували флешмоб напередодні [масштабного суботника, який стартує 25 квітня у парку "Приозерний"](https://mpz.brovary.org/aktivisti-spilno-zaplanuvali-generalne-pribirannya-brovarskogo-lisu-na-25-kvitnya/). Юнаки та дівчата з Організації незалежної української молоді (ОНУМ), "Молодь Демальянсу", громадський активіст Андрій Саук (координатор [заходу](https://www.facebook.com/events/467714816720396/467792616712616/)) взяли до рук гучномовці, листівки-запрошення і пішли "в народ" - закликали прийти на суботнє прибирання броварського лісу.**

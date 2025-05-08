@@ -12,6 +12,7 @@ tags:
   - "mpz"
   - "novini"
   - "rubrika-lyudi"
+coverImage: "wp-content/uploads/2015/02/MZ_2.jpg"
 ---
 
 _**[![Agentur-Team](https://mpz.brovary.org/wp-content/uploads/2015/02/Agentur-Team.png)](https://mpz.brovary.org/wp-content/uploads/2015/02/Agentur-Team.png)За цей місяць в рамках рубрики "Люди" ми познайомили вас з трьома засновниками «Маєш право знати». Це: [Аліна Дяченко](https://mpz.brovary.org/alina-dyachenko-zhurnalistika-dlya-mene-tse-sposib-zminiti-svit-i-chinovnikiv/), [Андрій Качор](https://mpz.brovary.org/andriy-kachor-dlya-mene-zhurnalistika-tse-instrument-u-borotbi-za-spravedlivist/) та [Сергій Іллюхін](https://mpz.brovary.org/sergiy-illyuhin-ya-buv-pershoyu-lyudinoyu-v-brovarah-hto-podav-zapit-na-informatsiyu/). Сьогодні ми відкриваємо двері до нашої редакції: покажемо, як ми працюємо, та познайомимо вас із тими людьми, які регулярно розповідають вам про життя міста.**_ 

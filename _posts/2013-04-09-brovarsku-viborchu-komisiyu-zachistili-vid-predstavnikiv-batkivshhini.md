@@ -14,6 +14,7 @@ tags:
   - "promizhni-vibori"
   - "tvk"
   - "torgmash"
+coverImage: "wp-content/uploads/2013/04/prapor-batkvishhini.jpg"
 ---
 
 **[![Табличка виборчої комісії 5](https://mpz.brovary.org/wp-content/uploads/2013/04/Tablichka-viborchoyi-komisiyi-5.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/04/Tablichka-viborchoyi-komisiyi-5.jpg)Зі складу Броварської міської виборчої комісії, яка проводитиме вибори у 20 окрузі на Торгмаші, виключено 3 членів від партії "Батьківщина". Рішення про це на початку квітня ухвалила Центральна виборча комісія. Відтепер ТВК працюватиме у складі не 18, а 15 осіб - представників Партії регіонів,  Комуністичної партії України, Народної Партії, партії "Зелені", "Наша Україна" та ін.**

@@ -13,6 +13,7 @@ tags:
   - "komisiyi"
   - "miskrada"
   - "novini"
+coverImage: "wp-content/uploads/2015/12/Image000013.jpg"
 ---
 
 **Протягом наступного тижня мають провести засідання всі п’ять постійних депутатських комісій Броварської міської ради. На розгляд місцевих обранців виносять питання порядку денного найближчої чергової сесії, яка відбудеться 10 березня. Графік [оприлюднили](http://brovary-rada.gov.ua/graf%D1%96k-provedennya-zas%D1%96dan-post%D1%96inikh-deputatskikh-kom%D1%96s%D1%96i-ta-perel%D1%96k-pitan-shcho-budut-vinesen%D1%96-d-0) на офіційному сайті міськради.**

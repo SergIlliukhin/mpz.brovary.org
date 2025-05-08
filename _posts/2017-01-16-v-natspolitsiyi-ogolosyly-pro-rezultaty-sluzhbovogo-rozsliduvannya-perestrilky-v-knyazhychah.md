@@ -14,6 +14,7 @@ tags:
   - "novini"
   - "politsiya"
   - "rozliduvannya-rozstrilu-pravoohorontsiv"
+coverImage: "wp-content/uploads/2017/01/15350734_1217185265034985_6670699472567209951_n.jpg"
 ---
 
 **Як [повідомляє](http://www.unian.ua/incidents/1722826-politsiya-zavershila-rozsliduvannya-perestrilki-u-knyajichah-jertvami-yakoji-stali-5-politseyskih.html) інформаційна агенція УНІАН, 13 січня на брифінгу очільники Нацполіції України заявили, що розслідування перестрілки у Княжичах завершене. Щодо винуватців будуть вжиті дисциплінарні заходи.**

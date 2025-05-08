@@ -15,6 +15,7 @@ tags:
   - "roztin"
   - "sudmedekspertiza"
   - "sudovo-medichna-ekspertiza"
+coverImage: "wp-content/uploads/2012/11/DSC_0590.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/11/DSC_0590.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/11/DSC_0590.jpg)**Після вступу в дію нового Кримінально-процесуального кодексу і зокрема статті 238, яка істотно «бюрократизує» смерть, минув лише тиждень, а броварські судмедексперти вже б’ють на сполох.**

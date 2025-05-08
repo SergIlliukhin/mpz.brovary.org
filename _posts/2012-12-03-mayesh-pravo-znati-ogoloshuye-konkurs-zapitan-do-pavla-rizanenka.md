@@ -15,6 +15,7 @@ tags:
   - "okrug-97"
   - "rizanenko"
   - "rezultati-viboriv"
+coverImage: "wp-content/uploads/2012/11/vopros.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/11/vopros.jpg "вопрос")](https://mpz.brovary.org/wp-content/uploads/2012/11/vopros.jpg)**У середині грудня команда "Маєш право знати" планує зробити інтерв'ю з **Павлом Різаненком**, якого мешканці нашого міста **28 жовтня** делегували до Верховної Ради України представляти свої інтереси.**

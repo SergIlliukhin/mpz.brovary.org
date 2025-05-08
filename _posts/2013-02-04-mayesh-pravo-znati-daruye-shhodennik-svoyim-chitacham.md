@@ -11,6 +11,7 @@ tags:
   - "novini"
   - "podarunok"
   - "sotsmerezhi"
+coverImage: "wp-content/uploads/2013/02/mpz-kopiya.jpg"
 ---
 
 [![Щоденник Маєш право знати](https://mpz.brovary.org/wp-content/uploads/2013/02/mpz-kopiya.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/02/mpz-kopiya.jpg)**Редакція "Маєш право знати" підготувала чудовий подарунок для своїх читачів - брендований щоденник МПЗ.** Цей щоденник Brunnen у стильній червоній палітурці виданий обмеженим тиражем, він містить багато корисної довідкової інформації і може бути використаний у 2013, 2014 та навіть у 2015 роках.

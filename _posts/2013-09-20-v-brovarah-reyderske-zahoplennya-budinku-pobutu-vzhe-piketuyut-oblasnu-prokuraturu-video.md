@@ -12,6 +12,7 @@ tags:
   - "novini"
   - "prokuratura"
   - "reyderstvo"
+coverImage: "wp-content/uploads/2013/09/516858_3.jpg"
 ---
 
 **[![516858_3](https://mpz.brovary.org/wp-content/uploads/2013/09/516858_3.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/09/516858_3.jpg)Об 11:00 до входу прокуратури Київської області шестеро хлопців у білих майках тягнуть чоловіка у костюмі. Ставлять на коліна перед натовпом журналістів та працівників установи. Ставлять на коліна та починають вдавано бити. Кілька разів замахуються битами** \- [повідомляє Gazeta.ua](http://gazeta.ua/articles/np-photo/_kraschomu-rejderu-pid-prokuraturoyu-vruchili-chervonu-bejsbolnu-bitu/516858)

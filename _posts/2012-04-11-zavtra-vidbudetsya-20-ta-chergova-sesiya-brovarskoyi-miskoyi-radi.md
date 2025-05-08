@@ -13,6 +13,7 @@ tags:
   - "rozporyadzhennya"
   - "sesiya"
   - "sklikannya-sesiyi"
+coverImage: "wp-content/uploads/2012/07/gerb-Brovari.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/10/gerb-Brovari-zmenshena1.jpg "герб Бровари зменшена")](https://mpz.brovary.org/wp-content/uploads/2012/10/gerb-Brovari-zmenshena1.jpg)12 квітня 2012 року о 14-й годині в приміщенні малої зали броварського міськвиконкому за адресою: вул. Гагаріна, 15 відбудеться двадцята чергова сесію Броварської міської ради VІ скликання . Про це сказано у розпорядженні міського голови №40-ОД від 14 березня 2012 року, [оприлюдненому](http://brovary-rada.gov.ua/rozporyadzhennya-m%D1%96skogo-golovi-43) на офіційному веб-сайті Броварської міської ради.

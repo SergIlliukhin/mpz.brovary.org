@@ -11,6 +11,7 @@ tags:
   - "brovary"
   - "vidklyuchennya-vodi"
   - "novini"
+coverImage: "wp-content/uploads/2017/06/7e64c4d2a4a242251ffdaa790b21fa01_XL.jpg"
 ---
 
 **Сьогодні в районі Торгмаш вимкнуть водопостачання - [інформує](http://brovary-rada.gov.ua/news/15292.html) офіційний сайт Броварської міської ради.**

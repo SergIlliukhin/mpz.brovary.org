@@ -14,6 +14,7 @@ tags:
   - "navchannya-vdoma"
   - "novini"
   - "houmskulery"
+coverImage: "wp-content/uploads/2016/01/houmskulery-7.jpg"
 ---
 
 **Група броварських батьків, які [навчають своїх дітей вдома](https://mpz.brovary.org/brovarski-batky-vse-chastishe-obyrayut-alternatyvne-navchannya/), шукають однодумців та пропонують охочим допомогу та супровід при переведенні власних чад від державної шкільної системи на альтернативне навчання. Про це [йдеться](https://www.facebook.com/groups/1714538872111623/permalink/1936573076574867/) на Фейсбук-сторінці «Броварські хоумскулери».**

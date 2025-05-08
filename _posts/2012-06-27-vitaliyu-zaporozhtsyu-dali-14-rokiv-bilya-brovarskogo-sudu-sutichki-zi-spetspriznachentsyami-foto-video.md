@@ -15,6 +15,7 @@ tags:
   - "sud"
   - "sutichki"
   - "hartanovich"
+coverImage: "wp-content/uploads/2012/06/DSC_5687.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/06/DSC_5687.jpg "Сутички біля Броварського суду 27.06.2012")](https://mpz.brovary.org/wp-content/uploads/2012/06/DSC_5687.jpg)Жорсткими сутичками мітингувальників зі спецзагонами МВС закінчилось сьогоднішнє засідання Броварського суду по справі Віталія Запорожця. За попередніми даним чотирьох людей затримано.

@@ -7,6 +7,7 @@ author:
 tags: 
   - "vibir-redaktsiyi"
   - "novini"
+coverImage: "wp-content/uploads/2014/10/12.jpg"
 ---
 
 **[![12](https://mpz.brovary.org/wp-content/uploads/2014/10/12.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/10/12.jpg)Станом на 14:00 Центральна виборча комісія опрацювала приблизно п’яту частину протоколів дільничних виборчих комісії по нашому округу.**

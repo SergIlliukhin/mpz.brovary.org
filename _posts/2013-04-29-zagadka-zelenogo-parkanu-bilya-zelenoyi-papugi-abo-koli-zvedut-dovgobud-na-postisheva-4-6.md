@@ -12,6 +12,7 @@ tags:
   - "budivnitstvo"
   - "vibir-redaktsiyi"
   - "postisheva"
+coverImage: "wp-content/uploads/2013/04/Postisheva-budinochok6.jpg"
 ---
 
 [![Постишева будиночок6](https://mpz.brovary.org/wp-content/uploads/2013/04/Postisheva-budinochok6.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/04/Postisheva-budinochok6.jpg)**Вицвілий та облізлий зелений паркан, неприємний запах від залежаного сміття, постійне житло та місце розмноження безпритульних собак… Це все картина «будівництва» на вулиці  Постишева 4-6, розташованого  неподалік від новобудови на Постишева, 1В. Жителі  району «Зеленої папуги» вже протягом семи років щодня змушені терпіти всі ці «побічні ефекти» замороженого на невідомий термін будівництва.**

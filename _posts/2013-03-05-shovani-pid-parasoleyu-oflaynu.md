@@ -6,6 +6,7 @@ author:
   display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
+coverImage: "wp-content/uploads/2013/03/obama-iphone.jpg"
 ---
 
 [![obama-iphone](https://mpz.brovary.org/wp-content/uploads/2013/03/obama-iphone.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/obama-iphone.jpg)Коли у нас виникла ідея зробити [огляд представництв броварських депутатів в соціальних мережах](https://mpz.brovary.org/vlada-online-yak-brovarski-deputati-predstavleni-v-merezhi-persha-chastina/) (другу частину якого ви зможете прочитати вже під вечір), я підсвідомо очікував якихось незапланованих сюрпризів. Абсолютно природнє журналістське відчуття, коли практично вперше починаєш проливати світло на поки недосліджене, а тому й маловідоме життя «вершителів долі міста» поза офлайном.

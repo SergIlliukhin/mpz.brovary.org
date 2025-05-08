@@ -13,6 +13,7 @@ tags:
   - "zmini-do-genplanu"
   - "novini"
   - "obgovorennya"
+coverImage: "wp-content/uploads/2015/01/Genplan-Pidsumok-1.jpg"
 ---
 
 **[![Генплан Підсумок 1](https://mpz.brovary.org/wp-content/uploads/2015/01/Genplan-Pidsumok-1.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/01/Genplan-Pidsumok-1.jpg)Днями на дверях кількох броварських шкіл з'явились дивні оголошення. У них анонімні "громадські активісти" запрошують мешканців міста на "зустріч щодо підведення підсумків обговорення пропозицій, поправок та зауважень, які надходили від громадськості при підготовці змін до Генерального плану м. Бровари".**

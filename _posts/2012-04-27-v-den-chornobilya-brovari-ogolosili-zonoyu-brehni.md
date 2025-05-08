@@ -16,6 +16,7 @@ tags:
   - "rizanenko"
   - "simutin"
   - "falshivka"
+coverImage: "wp-content/uploads/2012/04/IMG_8631.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/04/IMG_8629.jpg "Зона брехні")](https://mpz.brovary.org/wp-content/uploads/2012/04/IMG_8629.jpg)Під Києвом люди в костюмах хімзахисту утилізували тисячі фальшивих газет, ліквідовуючи наслідки «броварської катастрофи брехні».

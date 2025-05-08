@@ -15,6 +15,7 @@ tags:
   - "sluzhba-zamovnika"
   - "tarif"
   - "upravlinnya-zhkg"
+coverImage: "wp-content/uploads/2013/01/smittya.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2013/01/smittya.jpg "сміття")](https://mpz.brovary.org/wp-content/uploads/2013/01/smittya.jpg)У рамках [міської реформи ЖКГ](https://mpz.brovary.org/zhitlovo-komunalna-reforma-chogo-ochikuvati-brovarchanam/) оголошено три конкурси: на визначення постачальників послуг по технічному обслуговуванню ліфтів у багатоквартирних житлових будинках, вивезення побутових відходів з м. Бровари, а також технічого обслуговування системи протипожежної автоматики та димовидалення, обслуговування димовентиляційних каналів у багатоквартирних житлових будинках м. Бровари.

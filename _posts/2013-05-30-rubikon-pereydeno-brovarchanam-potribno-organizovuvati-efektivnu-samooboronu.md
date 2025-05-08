@@ -15,6 +15,7 @@ tags:
   - "park-peremoga"
   - "samooborona"
   - "sutichki"
+coverImage: "wp-content/uploads/2013/05/KIGNq0AgtH8.jpg"
 ---
 
 [![KIGNq0AgtH8](https://mpz.brovary.org/wp-content/uploads/2013/05/KIGNq0AgtH8.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/05/KIGNq0AgtH8.jpg)**25 травня броварська влада [підвела риску](https://mpz.brovary.org/krivavi-sutichki-vidbulis-u-brovarah-mizh-meshkantsyami-ta-zabudovnikami-tsentralnogo-parku/) під дискусіями про свою легітимність та право керувати містом.**

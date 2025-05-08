@@ -11,6 +11,7 @@ tags:
   - "zakordonniy-pasport"
   - "pasport"
   - "pasportniy-stil"
+coverImage: "wp-content/uploads/2012/03/zagranpassport1.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/03/zagranpassport1.jpg "Закордонний паспорт")](https://mpz.brovary.org/wp-content/uploads/2012/03/zagranpassport1.jpg)Ви коли-небудь намагалися оформити закордонний паспорт у Броварах? Приємні враження залишились? Особисто у мене - ні (оформляв у 2005 році). Запам'яталися лише шалені черги та купа незрозумілих платежів, які необхідно сплатити.

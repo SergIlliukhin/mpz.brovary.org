@@ -10,6 +10,7 @@ tags:
   - "brovarska-miska-rada"
   - "gurtozhitok"
   - "koruptsiya"
+coverImage: "wp-content/uploads/2012/08/Nemchina_Tatyana--.jpg"
 ---
 
 ПУБЛІЧНЕ ПОВІДОМЛЕННЯ Про наміри вчинити корупційне правопорушення Броварською міською радою 01.11.2012 р.

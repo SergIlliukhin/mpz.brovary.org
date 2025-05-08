@@ -13,6 +13,7 @@ tags:
   - "mayesh-pravo-znati"
   - "novini"
   - "park-peremoga"
+coverImage: "wp-content/uploads/2013/09/vidkritiy-dostup.jpg"
 ---
 
 Пропонуємо увазі наших читачів відеосюжет про [показ документального кіноальманаху "**Відкритий доступ**"](https://mpz.brovary.org/27-serpnya-u-brovarah-pokazhut-dokumentalniy-kinoalmanah-vidkritiy-dostup/) у Броварах, який відбувся у парку "Перемога" 27 серпня. Про перешкоди з боку влади, яка намагалась завадити громадському заходу, думки учасників та організаторів кінопоказу - дивіться у відеоролику:

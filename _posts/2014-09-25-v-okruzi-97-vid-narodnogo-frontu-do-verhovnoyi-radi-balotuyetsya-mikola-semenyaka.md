@@ -17,6 +17,7 @@ tags:
   - "semenyaka"
   - "tsvk"
   - "tsentralna-viborcha-komisiya"
+coverImage: "wp-content/uploads/2014/09/Semenyaka.png"
 ---
 
 **[![Семеняка](https://mpz.brovary.org/wp-content/uploads/2014/09/Semenyaka.png)](https://mpz.brovary.org/wp-content/uploads/2014/09/Semenyaka.png)За два дні до завершення терміну реєстрації мажоритарників ЦВК затвердила чергового кандидата до Верховної Ради у виборчому окрузі №97 – Миколу Семеняку. Претендент на крісло в парламенті висувається від партії Яценюка та Турчинова «Народний Фронт».**

@@ -11,6 +11,7 @@ tags:
   - "brovary"
   - "novini"
   - "prysyazhni"
+coverImage: "wp-content/uploads/2016/10/6525.jpg"
 ---
 
 **Броварська міська рада шукає кандидатів у присяжні: заяви приймають до 8 листопада включно. Про це йдеться у [повідомленні](http://brovary-rada.gov.ua/news/14432.html) на офіційному сайті міськради. Нагадаємо, нещодавно міськрада вже [публікувала](https://mpz.brovary.org/6-veresnya-v-brovarah-shukatymut-kandydativ-u-prysyazhni-dlya-miskrajsudu/) оголошення про пошук присяжних, а на [18-й сесії](https://mpz.brovary.org/18-ta-sesiya-brovarskoyi-miskoyi-rady-rishennya-pryjmaye-sformovana-bilshist-hto-proty/) було прийнято списки з трьох присяжних, проте [такої кількості недостатньо](https://mpz.brovary.org/u-brovarah-ne-vystachaye-prysyazhnyh-sudyty-kryminalni-spravy/).**

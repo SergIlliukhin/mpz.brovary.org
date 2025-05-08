@@ -12,6 +12,7 @@ tags:
   - "golosuvannya"
   - "gromadskyj-byudzhet"
   - "novini"
+coverImage: "wp-content/uploads/2017/07/aupkvpkp-e1499420790801.jpg"
 ---
 
 **Сьогодні розпочато голосування за «Громадський бюджет-2017». Про це йдеться в [оголошенні](http://brovary-rada.gov.ua/news/15366.html) на офіційному сайті Броварської міської ради.**

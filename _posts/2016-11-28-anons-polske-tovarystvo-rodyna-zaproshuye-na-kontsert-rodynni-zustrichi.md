@@ -14,6 +14,7 @@ tags:
   - "novini"
   - "polske-kulturno-osvitnye-tovaristvo"
   - "rodina"
+coverImage: "wp-content/uploads/2016/05/rodyna-21.jpg"
 ---
 
 **В суботу, 3 грудня,** **у** **Броварській міській дитячій школі мистецтв** **відбудеться** **концерт** **"Родинні зустрічі"****. Перед концертом буде проходити благодійний ярмарок та збір книжок для дітей. Про це йдеться в [оголошенні](http://www.kulturabr.kiev.ua/afisha/dytyacha-shkola-mystectv/koncert-rodynni-zustrichi) на сайті Броварського відділу культури.**

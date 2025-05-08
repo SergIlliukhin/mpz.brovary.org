@@ -17,6 +17,7 @@ tags:
   - "rizanenko"
   - "styagov"
   - "sud"
+coverImage: "wp-content/uploads/2013/07/Sud-Styagov-061.jpg"
 ---
 
 \[caption id="attachment\_19431" align="alignleft" width="300"\][![Суд Стягов 06](https://mpz.brovary.org/wp-content/uploads/2013/07/Sud-Styagov-061.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/07/Sud-Styagov-061.jpg) Сергій Стягов\[/caption\]

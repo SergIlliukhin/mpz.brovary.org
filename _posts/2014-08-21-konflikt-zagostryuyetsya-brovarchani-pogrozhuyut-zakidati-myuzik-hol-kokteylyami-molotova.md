@@ -7,6 +7,7 @@ author:
 tags: 
   - "vibir-redaktsiyi"
   - "novini"
+coverImage: "wp-content/uploads/2014/08/14_molotovkokt.jpg"
 ---
 
 **[![14_molotovkokt](https://mpz.brovary.org/wp-content/uploads/2014/08/14_molotovkokt.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/08/14_molotovkokt.jpg)Після останніх [скандальних виступів](https://www.youtube.com/watch?v=00_uWy0492o) начальниці відділу Наталії Багмут на засіданнях виконкому, де депутатка від Партії регіонів продовжувала [захищати родинний бізнес](https://www.youtube.com/watch?v=JA8fZDxfKjc), в «контратаку» пішли мешканці багатостраждальних будинків, розташованих поруч зі скандальним кафе.**

@@ -16,6 +16,7 @@ tags:
   - "melnik"
   - "novini"
   - "upravlinnya-osviti"
+coverImage: "wp-content/uploads/2016/03/IMG_3599-1.jpg"
 ---
 
 **Посаду начальника управління освіти і науки Броварської міської ради отримала директорка ЗОШ№2, депутатка міськради від фракції "Єдність" та екс-член фракції Партії регіонів Оксана Мельник. Нагадаємо, вона перемогла у конкурсі, в якому взяло участь [три особи](https://mpz.brovary.org/gromadska-rada-pry-osviti-progolosuvala-za-stabilnist-ta-dobrobut/), і конкурсна комісія [рекомендувала](https://mpz.brovary.org/konkursna-komisiya-rekomenduye-pryznachyty-melnyk-nachalnykom-upravlinnya-osvity/) пані Мельник призначити начальником управління. Директором ЗОШ №2 став вчитель цієї ж школи, проте невідомо, чи буде він дійсно очолювати навчальний заклад: освітятина призначено на посаду без конкурсу.**

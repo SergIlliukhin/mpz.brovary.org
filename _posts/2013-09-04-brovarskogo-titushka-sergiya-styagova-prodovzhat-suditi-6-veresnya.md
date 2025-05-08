@@ -15,6 +15,7 @@ tags:
   - "park-peremoga"
   - "styagov"
   - "krivaviy-subotnik"
+coverImage: "wp-content/uploads/2013/07/IMG_1608_resize.jpg"
 ---
 
 \[caption id="attachment\_20561" align="alignleft" width="172"\][![bydlo_nazi-172x300](https://mpz.brovary.org/wp-content/uploads/2013/09/bydlo_nazi.jpg "Сергій Стягов")](https://mpz.brovary.org/wp-content/uploads/2013/09/bydlo_nazi-172x300.jpg) Сергій Стягов\[/caption\]

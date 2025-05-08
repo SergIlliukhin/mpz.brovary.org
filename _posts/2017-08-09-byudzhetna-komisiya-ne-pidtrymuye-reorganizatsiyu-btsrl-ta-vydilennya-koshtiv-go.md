@@ -26,6 +26,7 @@ tags:
   - "novini"
   - "prykazchyk"
   - "sesiya"
+coverImage: "wp-content/uploads/2017/08/IMG_7179.jpg"
 ---
 
 **8 серпня у рамках підготовки до 31-ї чергової сесії Броварської міської ради відбулося засідання бюджетної комісії (її [склад](https://onedrive.live.com/view.aspx?resid=76CC13A1B9E773BD!2248&ithint=file%2cdocx&app=Word&authkey=!AHxIxdRIRlG5rAg)). Тривала вона неповних 5 годин. За цей час замість [анонсованих 28](https://mpz.brovary.org/anons-grafik-zasidan-postijnyh-deputatskyh-komisij-v-ramkah-31-yi-sesiyi/) було розглянуте 31 питання, із яких 28 вирішили винести на сесію.**

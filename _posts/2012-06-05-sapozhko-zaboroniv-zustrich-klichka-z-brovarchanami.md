@@ -14,6 +14,7 @@ tags:
   - "mirne-zibrannya"
   - "novini"
   - "sapozhko"
+coverImage: "wp-content/uploads/2012/06/17d6d3137c0b0c1d5006cbf15076f784.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/06/17d6d3137c0b0c1d5006cbf15076f784.jpg "Віталій Кличко")](https://mpz.brovary.org/wp-content/uploads/2012/06/17d6d3137c0b0c1d5006cbf15076f784.jpg)Виконавчий комітет Броварської міськради відмовився санкціонувати проведення соціально-культурного зібрання громадян, яке мало відбутися 2 червня у Броварах на майдані «Свобода» з нагоди Дня захисту дітей. Про це інформаційну агенцію [УНІАН](http://www.unian.ua/news/507153-klichkovi-ne-dozvolili-dityachi-zmagannya-cherez-zagrozu-terorizmu.html) повідомили в Київській обласній організації партії «УДАР».

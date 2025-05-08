@@ -13,6 +13,7 @@ tags:
   - "novini"
   - "futbol"
   - "tsentr-pragnennya"
+coverImage: "wp-content/uploads/2012/06/tsentr-pragnennya2.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/06/tsentr-pragnennya2.jpg "центр прагнення2")](https://mpz.brovary.org/wp-content/uploads/2012/06/tsentr-pragnennya2.jpg)Дев'яти громадянам Україні на інвалідних візках, у яких були посвідчення інвалідів I групи, було відмовлено в доступі на стадіон на матч Євро-2012 між Україною та Швецією 11 червня. Про це йдеться у листі-зверненні громадської організації Броварське міське товариство інвалідів з ураженнями опорно-рухового апарату "Прагнення", повідомляє [УНІАН](http://unian.net).

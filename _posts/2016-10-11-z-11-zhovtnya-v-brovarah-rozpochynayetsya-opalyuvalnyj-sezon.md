@@ -12,6 +12,7 @@ tags:
   - "novini"
   - "opalennya"
   - "opalyuvalniy-sezon"
+coverImage: "wp-content/uploads/2016/10/54203.jpg"
 ---
 
 **Сьогодні, 11 жовтня, в Броварах мають увімкнути централізоване опалення. Про це йдеться у [розпорядженні](http://brovary-rada.gov.ua/documents/24605.html) міського голови на офіційному сайті Броварської міськради.**

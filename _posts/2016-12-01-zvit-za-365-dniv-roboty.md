@@ -6,6 +6,7 @@ author:
   display_name: "Леонід Черепейнік"
 categories: 
   - "kolonka-avtora"
+coverImage: "wp-content/uploads/2016/12/123.jpg"
 ---
 
 **Я, Черепейнік Леонід Володимирович, обраний депутатом Броварської міської ради Київської області VII скликання.**

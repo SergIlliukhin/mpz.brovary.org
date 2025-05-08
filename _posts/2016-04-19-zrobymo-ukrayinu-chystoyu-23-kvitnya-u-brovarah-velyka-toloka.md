@@ -17,6 +17,7 @@ tags:
   - "pribirannya"
   - "subotnik"
   - "toloka"
+coverImage: "wp-content/uploads/2016/04/ChystoFest_promopost_1280x800px.png"
 ---
 
 **23 квітня відбудеться всеукраїнська толока в рамках кампанії «Зробимо Україну чистою». Участь у ній візьме і наше місто, цього дня прибирання анонсували у 6-ти локаціях. Про це йдеться у [повідомленнях](https://www.facebook.com/groups/brovary/permalink/1241525142544116/) активістів та на [сторінці](https://www.facebook.com/groups/381205015400986/) кампанії у Фейсбуку.**

@@ -15,6 +15,7 @@ tags:
   - "simutin"
   - "smirnov"
   - "tkachenko"
+coverImage: "wp-content/uploads/2014/01/svobodivtsi_sud5.jpg"
 ---
 
 **[![свобода_суд111](https://mpz.brovary.org/wp-content/uploads/2014/01/svoboda_sud111.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/01/svoboda_sud111.jpg)Судове засідання, яке [мало стати вирішальним](https://mpz.brovary.org/zavtra-u-brovarskomu-sudi-mayut-virishiti-dolyu-troh-svobodivtsiv-yaki-zahishhali-park-peremoga/) у справі захисників парку «Перемога», знову перенесли. Прокурор Брагін не підготував новий обвинувальний акт для "свободівців" Смірнова, Шевчука та Ткаченка. Натомість в залі суду він заявив клопотання про допит Романа Сімутіна в якості свідка. Таким чином анонсована крапка в судовій справі знову перетворилась на кому. Самому ж Брагіну дісталось «на горіхи» від активістів, що прибули на акцію в підтримку броварських «свободівців».**

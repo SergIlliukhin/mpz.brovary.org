@@ -20,6 +20,7 @@ tags:
   - "simutin"
   - "tarifi"
   - "udar"
+coverImage: "wp-content/uploads/2013/04/Image00017.jpg"
 ---
 
 **[![Image00017](https://mpz.brovary.org/wp-content/uploads/2013/04/Image00017.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/04/Image00017.jpg)У суботу, 30 березня, на Майдані Свободи відбувся** [**мітинг**](https://mpz.brovary.org/brovarchani-viydut-na-maydan-svobodi-proti-pidvishhennya-tarifiv-na-bezdiyalnist-vladi/) **проти підвищення тарифів на житлово-комунальні послуги у Броварах. Організатором виступив міський осередок партії «УДАР».** 

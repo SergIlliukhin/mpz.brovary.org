@@ -11,6 +11,7 @@ tags:
   - "vo-svoboda"
   - "dontsov"
   - "park-peremoga"
+coverImage: "wp-content/uploads/2013/08/pKwz1ziX9E1.jpg"
 ---
 
 [![pKwz1ziX9E1](https://mpz.brovary.org/wp-content/uploads/2013/08/pKwz1ziX9E1.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/08/pKwz1ziX9E1.jpg)**Цієї суботи, 17 серпня, Броварська районна організація ВО “Свобода” проведе акцію, присвячену 130-річчю від дня народження апостола української ідеї Дмитра Донцова.**

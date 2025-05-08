@@ -15,6 +15,7 @@ tags:
   - "radioperedavalniy-tsentr"
   - "tehenergotreyd"
   - "yanukovych"
+coverImage: "wp-content/uploads/2014/12/img9.jpg"
 ---
 
 **Пролог**

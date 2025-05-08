@@ -13,6 +13,7 @@ tags:
   - "park"
   - "peremoga"
   - "rekonstruktsiya"
+coverImage: "wp-content/uploads/2016/03/Park-Peremoga.jpg"
 ---
 
 **Влаштування велодоріжок, оновлення існуючих і прокладання нових паркових доріжок, заміна освітлення, озеленення, встановлення лавок для сидіння. Такі роботи планують виконати в рамках капітального ремонту та благоустрою парку «Перемога». План проекту та список запланованих робіт днями виклали на [сайті](http://brovary-rada.gov.ua/kap%D1%96talnii-remont-z-v%D1%96dnovlennyam-%D1%96nzhenerno-transportno%D1%97-%D1%96nfrastrukturi-ta-blagoustroyu-parku-%C2%ABpe-0) Броварської міської ради.**

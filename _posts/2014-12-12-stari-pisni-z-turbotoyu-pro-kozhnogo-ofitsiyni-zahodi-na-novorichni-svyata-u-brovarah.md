@@ -12,6 +12,7 @@ tags:
   - "novini"
   - "ofitsiyni-zahodi"
   - "programa-novorichnih-svyat"
+coverImage: "wp-content/uploads/2014/12/5812020013884938341.jpeg"
 ---
 
 [![581202001388493834](https://mpz.brovary.org/wp-content/uploads/2014/12/5812020013884938341.jpeg)](https://mpz.brovary.org/wp-content/uploads/2014/12/5812020013884938341.jpeg)**Відділ культури Броварської міської ради на [своєму сайті](http://www.kulturabr.kiev.ua/) оприлюднив план офіційних заходів з відзначення новорічних та різдвяних свят у Броварах.**

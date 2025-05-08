@@ -15,6 +15,7 @@ tags:
   - "tvk"
   - "torgmash"
   - "tsvk"
+coverImage: "wp-content/uploads/2013/03/36158.jpg"
 ---
 
 \[caption id="attachment\_14985" align="alignleft" width="300"\][![Голова ЦВК](https://mpz.brovary.org/wp-content/uploads/2013/03/36158.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/36158.jpg) Голова ЦВК Володимир Шаповал\[/caption\]

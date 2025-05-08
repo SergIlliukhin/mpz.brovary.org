@@ -18,6 +18,7 @@ tags:
   - "politsiya"
   - "pohoron"
   - "strilyanina"
+coverImage: "wp-content/uploads/2016/02/medv.jpg"
 ---
 
 **9 лютого на броварському цвинтарі був похований 17-річний Михайло Медведев – той самий підліток, котрий отримав кульове поранення та загинув у результаті резонансної погоні зі стріляниною в ніч проти 7 лютого в Києві. Про це йдеться в [сюжеті телеканалу «112».](http://ua.112.ua/video/zastrelenoho-patrulnymy-pidlitka-pokhovaly-sohodni-u-brovarakh-na-kyivshchyni-186782.html)**

@@ -17,6 +17,7 @@ tags:
   - "novini"
   - "oleg-berestoviy"
   - "sesiya"
+coverImage: "wp-content/uploads/2016/06/sesiya-21.jpg"
 ---
 
 **Фракція "ДемАльянс" у Броварській міській раді заявила про неприпустимість розглядання [бюджету](https://mpz.brovary.org/zavtra-brovarski-deputaty-pryjmatymut-miskyj-byudzhet-majzhe-u-milyard-gryven/) в авральному режимі, єдиний присутній від фракції депутат Олег Берестовий виголосив заяву та полишив засідання позачергової 23-ї сесії міськради.**

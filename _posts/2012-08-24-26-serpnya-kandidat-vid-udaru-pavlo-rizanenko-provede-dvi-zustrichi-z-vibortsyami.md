@@ -13,6 +13,7 @@ tags:
   - "zustrich-z-vibortsyami"
   - "kandidat-u-narodni-deputati"
   - "rizanenko"
+coverImage: "wp-content/uploads/2012/08/RPO-foto-3.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/08/RPO-foto.jpg "РПО фото")](https://mpz.brovary.org/wp-content/uploads/2012/08/RPO-foto.jpg)26 серпня о 18:00 на вул. Старченко та о 19:30 на вул. Гагаріна, 6, 8, 10 та 12 відбудуться зустрічі виборців з кандадитом у народні депутати від політичної партії «УДАР (Український Демократичний Альянс за Реформи) Віталія Кличка» у 97 виборчому окрузі Павлом Різаненком. Про це «Маєш право знати» повідомили організатори зустрічі.

@@ -14,6 +14,7 @@ tags:
   - "pereshkodzhannya"
   - "sud"
   - "chepura"
+coverImage: "wp-content/uploads/2012/12/mykola-azarov.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/12/0b6966b82cdbf9404bf45783ad4adde0.jpg "0b6966b82cdbf9404bf45783ad4adde0")](https://mpz.brovary.org/wp-content/uploads/2012/12/0b6966b82cdbf9404bf45783ad4adde0.jpg)Сьогодні, 21 грудня, броварський міжрайонний суд задовольнив [скаргу](https://mpz.brovary.org/u-brovarah-ne-diye-st-171-kriminalnogo-kodeksu-prokuratura/) **Андрія Качора** та відправив на дорозслідування справу щодо перешкоджання журналістській діяльності під час [візиту](https://mpz.brovary.org/vizit-azarova-do-brovariv-video-2/) прем’єра Азарова до Броварів. Суддя **Тамара Міхієнкова**, відома веденням [резонансних справ](https://mpz.brovary.org/zavtra-brovarskiy-sud-maye-vinesti-virok-vitaliyu-zaporozhtsyu/), визнала незаконною постанову дільничного інспектора **Лисенка**, який провів перевірку обставин подій 20 жовтня недостатньо та неповно. Окрім того, суд звернув увагу на те, що броварські правоохоронці відмовили в порушенні кримінальної справи за статтею «хуліганство», у той час як журналіст вимагав притягнення винних до відповідальності за незаконне перешкоджання журналістської діяльності та умисне нищення майна.

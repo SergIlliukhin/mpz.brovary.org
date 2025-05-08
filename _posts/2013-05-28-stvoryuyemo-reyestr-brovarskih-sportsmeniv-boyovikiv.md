@@ -16,6 +16,7 @@ tags:
   - "rozshuk"
   - "sporstmeni"
   - "krivaviy-subotnik"
+coverImage: "wp-content/uploads/2013/05/kollazh2.jpg"
 ---
 
 **У цьому матеріалі ми публікуємо всю відому нам інформацію про броварських бойовиків (гопників, «спортсменів»), котрі виконують функції провокаторів з боку влади під час [громадських акцій](https://mpz.brovary.org/krivavi-sutichki-vidbulis-u-brovarah-mizh-meshkantsyami-ta-zabudovnikami-tsentralnogo-parku/), суспільних протестів та інших резонансних подій, пов’язаних з корупційною та іншою незаконною діяльністю броварських посадовців.**

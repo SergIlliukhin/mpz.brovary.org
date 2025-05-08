@@ -11,6 +11,7 @@ tags:
   - "nastup"
   - "sud"
   - "fedorenko"
+coverImage: "wp-content/uploads/2012/08/DSC_0111.jpg"
 ---
 
 **[![](http://www.nastup.info/wp-content/uploads/2012/08/DSC_0041.jpg "DSC_0041")](http://www.nastup.info/wp-content/uploads/2012/08/DSC_0041.jpg)**

@@ -13,6 +13,7 @@ tags:
   - "deputatski-komisiyi"
   - "novini"
   - "reglamentna-komisiya"
+coverImage: "wp-content/uploads/2015/12/zasidannya-robochoyi-deputatskoy.jpg"
 ---
 
 **Тривають [засідання](https://mpz.brovary.org/anons-rozklad-robochyh-zustrichej-neofitsijnyh-deputatskyh-komisij-miskoyi-rady/) робочих груп неофіційних депутатських комісій. Хоча депутати ще офіціно не розподілені за комісіями, вони збираються, аби обговорити проекти рішень, які будуть прийматися на найближчих сесіях міської ради. Вчора відбулася зустріч ["земельної комісії"](https://mpz.brovary.org/brovarska-zemelna-komisiya-shhe-ne-zatverdzhena-a-vzhe-pozasidala/), сьогодні ж збиралася "регламентна комісія".**

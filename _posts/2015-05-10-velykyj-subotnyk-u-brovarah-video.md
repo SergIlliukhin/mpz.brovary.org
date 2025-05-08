@@ -11,6 +11,7 @@ tags:
   - "videoreportazh"
   - "vibir-redaktsiyi"
   - "subotnik"
+coverImage: "wp-content/uploads/2015/04/subotnik-15.jpg"
 ---
 
 25 квітня у броварському лісі відбувся великий загальноміський суботник в рамках загальноукраїнської акції "Let's do it, Ukraine!". Тоді майже 200 броварчан вийшли на прибирання. В результаті – майже 10 тон непотребу поїхало у мішках на звалище та переробку. Детальний репортаж про подію - за [цим посиланням](https://mpz.brovary.org/let-s-do-it-bro-mayzhe-dvi-sotni-brovarchan-viyshli-na-pribirannya-lisu/).

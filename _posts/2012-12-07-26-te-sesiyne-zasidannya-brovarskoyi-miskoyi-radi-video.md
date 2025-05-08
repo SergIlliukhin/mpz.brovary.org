@@ -9,6 +9,7 @@ categories:
 tags: 
   - "brovarska-miska-rada"
   - "videozapis-sesiyi"
+coverImage: "wp-content/uploads/2012/08/Tablichka-miskoyi-radi-2.jpg"
 ---
 
 **Подія:** Позачергове 26-те сесійне засідання Броварської міської ради **Дата:** 07.12.2012 **Камера:** Роман Сімутін

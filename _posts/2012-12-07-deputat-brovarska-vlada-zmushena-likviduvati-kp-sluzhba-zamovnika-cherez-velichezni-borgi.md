@@ -10,6 +10,7 @@ tags:
   - "novini"
   - "simutin"
   - "sluzhba-zamovnika"
+coverImage: "wp-content/uploads/2012/06/Izobrazhenie-606.jpg"
 ---
 
 **[![](https://mpz.brovary.org/wp-content/uploads/2012/06/Izobrazhenie-606.jpg "зламаний кран")](https://mpz.brovary.org/wp-content/uploads/2012/06/Izobrazhenie-606.jpg)Через величезні борги КП "Служба замовника" броварська влада буде змушена ліквідувати це підприємство** - про це "Маєш право знати" повідомив депутат Броварської міської ради **Роман Сімутін**, коментуючи рішення, ухвалені на 26-тій сесії міськради.

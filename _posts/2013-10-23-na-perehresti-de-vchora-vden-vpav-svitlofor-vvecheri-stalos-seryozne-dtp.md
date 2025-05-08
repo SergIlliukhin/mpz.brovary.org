@@ -12,6 +12,7 @@ tags:
   - "dtp"
   - "novini"
   - "svitlofor"
+coverImage: "wp-content/uploads/2013/10/DTP-Svitlofor-Grushevskogo-3.jpg"
 ---
 
 **[![ДТП Світлофор Грушевського 5](https://mpz.brovary.org/wp-content/uploads/2013/10/DTP-Svitlofor-Grushevskogo-5.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/10/DTP-Svitlofor-Grushevskogo-5.jpg)Сьогодні вранці на перехресті вул. Грушевського та Возз'єднання, де [вчора впав світлофор](https://mpz.brovary.org/svitlofor-shho-vpav-upoperek-dorogi-zagrozhuye-vodiyam-ta-pishohodam-na-peretini-vulits-grushevskogo-ta-vozz-yednannya/), лежали уламки автомобіля. Як розповів "Маєш право знати" очевидець, вчора ввечері близько 22-ої години тут сталось серйозне ДТП.**

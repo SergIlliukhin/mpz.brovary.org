@@ -11,6 +11,7 @@ tags:
   - "zhittya-krayini"
   - "konstitutsiya"
   - "porushennya"
+coverImage: "wp-content/uploads/2012/08/konstitutsiya.jpg"
 ---
 
 Нам дуже прикро, однак є всі обставини припускати, що закони та інші нормативно-правові акти України є нечинними.

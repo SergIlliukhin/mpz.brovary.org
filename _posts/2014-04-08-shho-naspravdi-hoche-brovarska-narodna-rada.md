@@ -11,6 +11,7 @@ tags:
   - "vibir-redaktsiyi"
   - "vimogi"
   - "dostup-do-informatsiyi"
+coverImage: "wp-content/uploads/2014/04/puzzle.jpg"
 ---
 
 **[![puzzle](https://mpz.brovary.org/wp-content/uploads/2014/04/puzzle.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/04/puzzle.jpg)Довкола Броварської Народної Ради існує чимало міфів. Якісь з них свідомо запускались у рамках інформаційної війни проти нашої спільноти, проте, слід визнати, деякі з них виникли через банальний брак інформації про наші справжні цілі та завдання, які ми перед собою поставили від самого початку. І ця публікація покликана це наше недопрацювання виправити.** 

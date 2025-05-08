@@ -12,6 +12,7 @@ tags:
   - "molod-demokratichnogo-alyansu"
   - "novini"
   - "studenti"
+coverImage: "wp-content/uploads/2014/12/Znizhki-dlya-studentiv-DSC_5024.jpg"
 ---
 
 **[![Знижки для студентів DSC_5004](https://mpz.brovary.org/wp-content/uploads/2014/12/Znizhki-dlya-studentiv-DSC_5004.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/12/Znizhki-dlya-studentiv-DSC_5004.jpg)Минуло****ї** **п'ятниц****і активна молодь Броварів провела акцію прямої дії під будівлею міської ради. У такий спосіб активісти громадської організації «Молодь Демократичного Альянсу» заявили про старт кампанії «[Знижки для студентів](https://mpz.brovary.org/brovarska-molod-vimagatime-zakonnu-znizhku-na-proyizd-u-gromadskomu-transporti/)», спрямованої на забезпечення пільгового проїзду студентів у громадському транспорті.**

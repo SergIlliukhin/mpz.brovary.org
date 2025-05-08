@@ -15,6 +15,7 @@ tags:
   - "novini"
   - "pritkiy"
   - "yanchenko"
+coverImage: "wp-content/uploads/2015/02/K_a2tYVZeBw.jpg"
 ---
 
 \[caption id="attachment\_33027" align="alignleft" width="300"\][![K_a2tYVZeBw](https://mpz.brovary.org/wp-content/uploads/2015/02/K_a2tYVZeBw.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/02/K_a2tYVZeBw.jpg) Дмитро Янченко\[/caption\]

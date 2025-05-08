@@ -16,6 +16,7 @@ tags:
   - "obgovorennya"
   - "park"
   - "peremoga"
+coverImage: "wp-content/uploads/2016/06/0_aa7f9_42ad7634_orig.jpg"
 ---
 
 **Активісти, які зібралися в [робочій групі](https://mpz.brovary.org/pershyj-etap-u-brovarah-onovlyat-kontseptsiyu-tsentralnogo-parku-razom-z-gromadoyu/) із розроблення нової концепції центрального парку, запрошують усіх охочих на обговорення _«Що нам потрібно у парку «Перемога»._ Учасникам заходу шляхом голосування пропонуватимуть визначитись щодо доцільності встановлення чи існування тих чи інших об’єктів. Про це у Фейсбуку [повідомила](https://www.facebook.com/groups/brovary/permalink/1288947797801850/) учасниця групи депутатка Аліна Дяченко.**

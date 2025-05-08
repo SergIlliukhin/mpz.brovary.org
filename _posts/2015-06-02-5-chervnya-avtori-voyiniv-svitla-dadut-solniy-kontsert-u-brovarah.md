@@ -15,6 +15,7 @@ tags:
   - "kontsert"
   - "kontsert-hol"
   - "novini"
+coverImage: "wp-content/uploads/2015/05/BRUTTO__BAND___promo-2014__Sergio.jpg"
 ---
 
 **[![brutto1](https://mpz.brovary.org/wp-content/uploads/2015/05/unnamed.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/05/unnamed.jpg)Цієї п’ятниці, 5 червня, новий музичний проект Сергія Міхалка BRUTTO (екс-«Ляпіс Трубєцкой») у рамках всеукраїнського туру виступить з концертом у Концерт-Холі броварського ТРЦ «Термінал». Початок - о 19:00.**

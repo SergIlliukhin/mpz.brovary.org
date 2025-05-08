@@ -13,6 +13,7 @@ tags:
   - "novini"
   - "sapozhko"
   - "shturm"
+coverImage: "wp-content/uploads/2014/07/main1.jpg"
 ---
 
 **[![majdan_berkut_grushevskogo](https://mpz.brovary.org/wp-content/uploads/2014/07/majdan_berkut_grushevskogo.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/07/majdan_berkut_grushevskogo.jpg)Рішенням виконкому міської ради за підписом мера Сапожка 12 квартир в новобудові на вул. Чорновола було видано спецпризначенцям полку «Беркут» 18 лютого цього року. Броварські чиновники вирішили видати нове житло бійцям вже розформованого підрозділу саме в той день, коли «беркутівці» проводили «зачистку» вул. Інститутської в Києві, забивши на смерть і броварчанку [Антоніну Дворянець.](https://mpz.brovary.org/vona-dumala-shho-zhinku-ne-chipatimut-cholovik-antonini-dvoryanets-pro-yiyi-zagibel-vid-ruk-bkrkuta/) Ще за два дні «Беркут», якому мерія Броварів дала новенькі квартири, розстріляв Небесну сотню.**    

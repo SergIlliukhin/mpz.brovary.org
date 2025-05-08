@@ -8,6 +8,7 @@ categories:
   - "kolonka-avtora"
 tags: 
   - "hromadskebro"
+coverImage: "wp-content/uploads/2015/11/DSC_1255.jpg"
 ---
 
 **Напевно, настав час дещо прояснити ситуацію з приводу подальшої долі [Громадського телебачення Броварів.](https://uk.wikipedia.org/wiki/%D0%91%D1%80%D0%BE%D0%B2%D0%B0%D1%80%D1%81%D1%8C%D0%BA%D0%B5_%D0%B3%D1%80%D0%BE%D0%BC%D0%B0%D0%B4%D1%81%D1%8C%D0%BA%D0%B5_%D1%82%D0%B5%D0%BB%D0%B5%D0%B1%D0%B0%D1%87%D0%B5%D0%BD%D0%BD%D1%8F)**

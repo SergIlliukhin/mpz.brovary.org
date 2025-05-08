@@ -15,6 +15,7 @@ tags:
   - "panchinyak"
   - "hristiyanski-obshhini"
   - "tserkva"
+coverImage: "wp-content/uploads/2014/04/hrestitel.jpg"
 ---
 
 **[![хреститель](https://mpz.brovary.org/wp-content/uploads/2014/04/hrestitel.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/04/hrestitel.jpg)Цієї суботи, 12 квітня, о 12:00 у міському культуному центрі "Прометей" відбудеться зустріч християнських общин з метою обговорення майбутнього України. Про це "Маєш право знати" повідомили організатори зустрічі.**

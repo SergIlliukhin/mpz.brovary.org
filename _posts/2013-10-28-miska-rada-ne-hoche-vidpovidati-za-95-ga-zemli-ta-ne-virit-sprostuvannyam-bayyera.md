@@ -14,6 +14,7 @@ tags:
   - "novini"
   - "radioperedavalniy-tsentr"
   - "sprostuvannya"
+coverImage: "wp-content/uploads/2013/10/Interprofit-4.jpg"
 ---
 
 **[![Інтерпрофіт 4](https://mpz.brovary.org/wp-content/uploads/2013/10/Interprofit-4.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/10/Interprofit-4.jpg)Минулого четверга, 24 жовтня, відбулась чергова сесія Броварської міської ради. Пленарне засідання розпочалось досить незвично – не з затвердження порядку денного, а із зачитування офіційної заяви міськради щодо ситуації з 95 га землі, на яких нібито має збудувати виробництво концерн «Байєр». Пізніше [текст цієї заяви](http://www.brovary.kiev.ua/of%D1%96ts%D1%96ina-zayava-brovarsko%D1%97-m%D1%96sko%D1%97-radi-z-privodu-%D1%96nformats%D1%96%D1%97-shcho-z%E2%80%99yavilasya-u-zm%D1%96-v%D1%96dnosno-r%D1%96she) було опубліковано на офіційному веб-сайті ради.**

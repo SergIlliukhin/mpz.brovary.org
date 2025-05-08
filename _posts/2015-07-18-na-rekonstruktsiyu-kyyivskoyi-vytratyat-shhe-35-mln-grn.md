@@ -10,6 +10,7 @@ tags:
   - "brovary"
   - "novini"
   - "rekonstruktsiya-kiyivskoyi"
+coverImage: "wp-content/uploads/2015/07/625241779.jpg"
 ---
 
 **На реконструкцію вулиці Київської витратять ще 35 млн грн і два роки часу. Фінансуватимуть роботи з державного та місцевого бюджетів. Про це [повідомляє](http://nashigroshi.org/2015/07/18/na-rekonstruktsiyu-odnijeji-vulytsi-v-brovarah-pide-35-miljoniv/) сайт "Наші гроші". Нагадаємо, "Маєш право знати" [писало](https://mpz.brovary.org/12-mln-grn-na-vulitsyu-kiyivsku-koli-brovari-dochekayutsya-onovlennya-golovnoyi-magistrali/) про те, що загальна вартість реконструкції вулиці відповідно до міської програми складала 60 млн грн: з них понад 36 млн було витрачено у 2007-14 роках. Завершити роботи планували у кінці 2015 року.**

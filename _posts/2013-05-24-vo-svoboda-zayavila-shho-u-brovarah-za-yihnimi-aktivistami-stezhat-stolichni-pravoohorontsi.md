@@ -12,6 +12,7 @@ tags:
   - "prosluhovuvannya"
   - "svoboda"
   - "slidkuvannya"
+coverImage: "wp-content/uploads/2013/05/kartu-narusheniy-vo-vremya-parlamentskikh-vyborakh.jpg"
 ---
 
 [![kartu-narusheniy-vo-vremya-parlamentskikh-vyborakh](https://mpz.brovary.org/wp-content/uploads/2013/05/kartu-narusheniy-vo-vremya-parlamentskikh-vyborakh.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/05/kartu-narusheniy-vo-vremya-parlamentskikh-vyborakh.jpg)**За активістами Броварської районної організації ВО «Свобода» встановлено стеження, несанкціоновано прослуховують їхні мобільні телефони, [повідомляє](http://www.pravda.com.ua/news/2013/05/24/6990618/) «Українська правда» із посиланням на прес-службу партії.**

@@ -15,6 +15,7 @@ tags:
   - "oleg-yanchynskyj"
   - "politsiya"
   - "prokuratura"
+coverImage: "wp-content/uploads/2016/04/IMG_0556.jpg"
 ---
 
 **Група броварських депутатів у п'ятницю, 15 квітня, завітали до керівника Броварської міської прокуратури. Приводом став виклик на допит  депутата Леоніда Черепейніка у справі розслідування [масових сутичок під час сесії міської ради 18 березня.](https://mpz.brovary.org/u-brovarskij-miskradi-masova-bijka-ta-slozoginnyj-gaz-deputaty-strybaly-z-vikon-drugogo-poverhu-foto-video/) Також присутні обговорили питання співпраці правоохоронців, активістів та представників місцевого самоврядування. Згодом розмову про взаємодію у боротьбі зі злочинністю, яка [піднімає голову в місті](https://mpz.brovary.org/u-brovarah-kradut-vse-bilshe-chomu-rozgulyavsya-kryminal-i-shho-robyt-politsiya/), депутати продовжили у керівника Броварського відділу поліції.**

@@ -14,6 +14,7 @@ tags:
   - "prometey"
   - "samopomich"
   - "yarosh"
+coverImage: "wp-content/uploads/2015/04/07D_34611.jpg"
 ---
 
 **[![07D_3461](https://mpz.brovary.org/wp-content/uploads/2015/04/07D_3461.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/04/07D_3461.jpg)Близько півтори сотні людей 9 квітня заповнили малу залу МКЦ «Прометей» в очікуванні [прем’єри](https://mpz.brovary.org/u-brovarah-dobrovoltsiv-bozhoyi-choti-prezentuvatime-rezhiser-filmu-leonid-kanter/) мало не першого серйозного українського кіно про війну на Донбасі. «Добровольців Божої чоти» - художньо-публіцистичну стрічку про бої за донецький аеропорт – у Броварах презентував особисто режисер фільму Леонід Кантер разом з кількома героями кіно – бійцями Добровольчого Українського Корпусу «Правий Сектор».**

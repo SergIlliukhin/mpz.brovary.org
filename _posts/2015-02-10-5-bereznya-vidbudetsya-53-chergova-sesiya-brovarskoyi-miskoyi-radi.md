@@ -15,6 +15,7 @@ tags:
   - "sapozhko"
   - "sesiya"
   - "sklikannya-sesiyi"
+coverImage: "wp-content/uploads/2012/08/gerb-Brovari.jpg"
 ---
 
 **[![герб Бровари зменшена](https://mpz.brovary.org/wp-content/uploads/2012/10/gerb-Brovari-zmenshena1.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/10/gerb-Brovari-zmenshena1.jpg)5 березня 2015 року о 10:00 у приміщенні малої зали броварського міськвиконкому (вул. Гагаріна, 15) відбудеться п’ятдесят третя чергова сесія Броварської міської ради VІ скликання. Відповідне розпорядження міського голови опубліковано [на офіційному веб-сайті міськради.](http://www.brovary.kiev.ua/rozporyadzhennya-m%D1%96skogo-golovi-v%D1%96d-05022015-%E2%84%9617-od-pro-sklikannya-p%E2%80%99yatdesyat-treto%D1%97-chergovo%D1%97-ses%D1%96)**

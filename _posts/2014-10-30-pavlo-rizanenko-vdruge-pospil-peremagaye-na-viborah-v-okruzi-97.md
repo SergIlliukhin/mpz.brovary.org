@@ -15,6 +15,7 @@ tags:
   - "rezultati-viboriv"
   - "semenyaka"
   - "tsvk"
+coverImage: "wp-content/uploads/2014/10/Rizanenko-06.jpg"
 ---
 
 **[![Різаненко 06](https://mpz.brovary.org/wp-content/uploads/2014/10/Rizanenko-06.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/10/Rizanenko-06.jpg)За результатами обробки 100% протоколів дільничних виборчих комісій округу №97, мажоритарний кандидат від Блоку Петра Порошенка Павло Різаненко переміг на позачергових парламентських виборах 2014 року. Про це [йдетьс](http://cvk.gov.ua/pls/vnd2012/WP040d8b8.html?PT001F01=900&pf7331=97)я на офіційному сайті Центральної виборчої комісії України.**

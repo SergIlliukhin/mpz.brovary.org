@@ -11,6 +11,7 @@ tags:
   - "zhitlo"
   - "novini"
   - "tender"
+coverImage: "wp-content/uploads/2013/08/berkut13.jpg"
 ---
 
 **[![berkut13](https://mpz.brovary.org/wp-content/uploads/2013/08/berkut13.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/08/berkut13.jpg)У Броварах реконструюють приміщення під житло працівникам «Беркуту» на час служби. За право стати підрядником змагалися фірми з однаковою адресою. Про це на своєму сайті повідомляє [Центр політичних студій та аналітики.](http://cpsa.org.ua/news/zaporozhtsi_oblashtujut_zhitlo_dlja_berkutu_za_12_miljoniv)** 

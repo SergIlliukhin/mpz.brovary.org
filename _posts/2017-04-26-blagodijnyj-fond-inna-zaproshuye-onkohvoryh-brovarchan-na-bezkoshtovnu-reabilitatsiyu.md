@@ -14,6 +14,7 @@ tags:
   - "novini"
   - "onkohvori"
   - "rak"
+coverImage: "wp-content/uploads/2017/04/SAM_8357.jpg"
 ---
 
 **Благодійний фонд допомоги онкохворим** [**«Інна»**](http://fond-inna.org/)**, який [діє в Броварах](https://mpz.brovary.org/brovarskyj-blagodijnyj-fond-inna-dopomagaye-onkohvorym-borotys-zi-smertelnoyu-nedugoyu/)  уже 3 роки, організовує для онкохворих мешканців міста чергову поїздку на безкоштовну реабілітацію. Наразі відбувається набір у три групи, які поїдуть на оздоровлення у травні, серпні та вересні цього року.**

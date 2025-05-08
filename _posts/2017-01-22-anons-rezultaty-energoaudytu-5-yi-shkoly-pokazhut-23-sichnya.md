@@ -17,6 +17,7 @@ tags:
   - "energoekonomiya"
   - "novini"
   - "perevirka"
+coverImage: "wp-content/uploads/2017/01/energoaudyt-teplozberezhennya-energozberezhennya.jpg"
 ---
 
 **Цього понеділка всі охочі зможуть ознайомитися з результатами енергоаудиту,  проведеного у 5-й школі. Про це розповів Олександр Короленко, помічник депутата Київської обласної ради від "Самопомочі" Олексія Дорошенка.**

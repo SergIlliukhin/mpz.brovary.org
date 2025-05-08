@@ -14,6 +14,7 @@ tags:
   - "zvit-deputata-miskoyi-radi"
   - "novini"
   - "cherepejnik"
+coverImage: "wp-content/uploads/2016/12/zvit-leonid-cherepejnik-4.jpg"
 ---
 
 **Депутатів Броварської міської ради переобрали рік тому, настав час їм звітуватися, пояснити виборцям, що зроблено за рік, та розповісти про плани на майбутнє. Минулої п'ятниці відбувся один з таких звітів - у ЗОШ №3 [провів](https://mpz.brovary.org/anons-2-grudnya-projde-zvit-miskogo-deputata-leonida-cherepejnika/) зібрання з мешканцями свого округу міський депутат Леонід Черепейнік (фракція БПП "Солідарність").**

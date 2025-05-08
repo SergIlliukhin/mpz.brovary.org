@@ -17,6 +17,7 @@ tags:
   - "okruzhna-viborcha-komisiya"
   - "syemyeryey"
   - "sityenkov"
+coverImage: "wp-content/uploads/2012/09/voloshin1.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/09/voloshin1.jpg "волошин1")](https://mpz.brovary.org/wp-content/uploads/2012/09/voloshin1.jpg)Постановою ЦВК [№ 1073 від 25.09.2012](http://www.cvk.gov.ua/pls/acts/ShowCard?id=31773&what=0) було достроково припинено повноваження голови окуржної вибочрої комісії № 97 **Ситєнкова [Максима Миколайовича](https://mpz.brovary.org/tag/sityenkov/)** та призначено нового - **Волошина Юліана Ігоровича**, 1983 року народження. Офіційниа причина - внесення подання про заміну члена виборчої комісії суб’єктом, за поданням якого кандидатуру такого члена було включено до складу виборчої комісії - Всеукраїнської політичної партії  "БРАТСТВО".

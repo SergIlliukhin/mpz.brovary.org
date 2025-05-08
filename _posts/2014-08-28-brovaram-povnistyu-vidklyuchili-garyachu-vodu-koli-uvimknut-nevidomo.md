@@ -10,6 +10,7 @@ tags:
   - "garyacha-vodi"
   - "garyache-vodopostachannya"
   - "novini"
+coverImage: "wp-content/uploads/2014/08/TASS_610870-pic510-510x340-71596.jpg"
 ---
 
 **[![TASS_610870-pic510-510x340-71596](https://mpz.brovary.org/wp-content/uploads/2014/08/TASS_610870-pic510-510x340-71596.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/08/TASS_610870-pic510-510x340-71596.jpg)Зранку 28 серпня мешканці Броварів в соціальних мережах [повідомили](https://www.facebook.com/groups/brovary/permalink/886942271335740/), що в місті зникло гаряче водопостачання. Нагадаємо, що раніше, у зв’язку зі скрутною ситуацією в країні, з огляду на вартість російського газу, міською владою було [прийнято рішення](https://mpz.brovary.org/z-serpnya-garyachu-vodu-v-brovarah-podavatimut-4-dni-na-tizhden/) давати гарячу воду лише чотири дні на тиждень: з четверга по неділю включно. Однак цього четверга крани броварчан залишились холодними.**

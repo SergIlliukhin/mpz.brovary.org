@@ -17,6 +17,7 @@ tags:
   - "styagov"
   - "sud"
   - "titushko"
+coverImage: "wp-content/uploads/2013/11/Sud-Styagov-061.jpg"
 ---
 
 [![Sud-Styagov-061](https://mpz.brovary.org/wp-content/uploads/2013/11/Sud-Styagov-061.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/11/Sud-Styagov-061.jpg)**Броварський «тітушко» Сергій Стягов може отримати щонайменше 1 рік та 7 місяців ув’язнення за [напад на журналіста](http://www.youtube.com/watch?v=vViSfB1i38k) Андрія Качора, який він скоїв 25 травня під час [громадянського суботника](https://mpz.brovary.org/krivavi-sutichki-vidbulis-u-brovarah-mizh-meshkantsyami-ta-zabudovnikami-tsentralnogo-parku/). Збільшення ступеня тяжкості покарання загрожує через те, що в ході одного з судових засідань по справі з’ясувалось, що Стягов на момент скоєння нападу перебував на умовно-достроковому звільненні за свій попередній злочин. 25 листопада суддя Олена Кічинська має поставити крапку у цій історії та винести своє рішення у справі, розгляд якої триває понад 4 місяці.**

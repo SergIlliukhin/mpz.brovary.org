@@ -18,6 +18,7 @@ tags:
   - "prezentatsiya"
   - "roman"
   - "tvir"
+coverImage: "wp-content/uploads/2017/02/Braty-Kapranovy-drukarska-mashynka.jpg"
 ---
 
 **Цієї п'ятниці відбудеться творча зустріч із Дмитром та Віталієм Капрановими. Видатні українські письменники та видавці приїдуть до Броварів презентувати свій роман "Забудь-річка". Про це [повідомляють](http://www.kulturabr.kiev.ua/golovny-novyny/tvorcha-zustrich-z-bratamy-kapranovymy) у відділі культури Броварської міської ради.**

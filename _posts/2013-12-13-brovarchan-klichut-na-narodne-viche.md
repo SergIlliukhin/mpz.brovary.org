@@ -13,6 +13,7 @@ tags:
   - "novini"
   - "simutin"
   - "shtab-narodnogo-suprotivu"
+coverImage: "wp-content/uploads/2013/12/kod2.jpg"
 ---
 
 **[![thumbnail-20131129203948n](https://mpz.brovary.org/wp-content/uploads/2013/12/thumbnail-20131129203948n.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/12/thumbnail-20131129203948n.jpg)Відмова міського голови Ігоря Сапожка скликати позачергову сесію з приводу напруженої ситуації в країні спонукала Штаб народного супротиву зібрати в Броварах Народне Віче 21 грудня о 12:00 на Майдані Свободи.**

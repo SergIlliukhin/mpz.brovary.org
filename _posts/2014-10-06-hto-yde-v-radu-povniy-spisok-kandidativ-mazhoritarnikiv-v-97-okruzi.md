@@ -22,6 +22,7 @@ tags:
   - "semenyaka"
   - "tsvk"
   - "tsentralna-viborcha-komisiya"
+coverImage: "wp-content/uploads/2014/10/bagato-kandidativ-.jpg"
 ---
 
 **[![bagato-kandidativ-](https://mpz.brovary.org/wp-content/uploads/2014/10/bagato-kandidativ-.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/10/bagato-kandidativ-.jpg)Центральна виборча комісія [завершила реєстрацію](http://www.cvk.gov.ua/pls/vnd2014/WP033?PT001F01=910&pf7331=97) кандидатів у народні депутати в мажоритарних округах. В одномандатному виборчому окрузі № 97, куди входять міста Бровари, Березань, а також Баришівський та частина Броварського району, потрапити до українського парламенту виявили бажання 34 кандидати.**

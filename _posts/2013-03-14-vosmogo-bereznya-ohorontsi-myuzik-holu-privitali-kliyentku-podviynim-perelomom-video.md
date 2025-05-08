@@ -14,6 +14,7 @@ tags:
   - "brovary"
   - "vibir-redaktsiyi"
   - "myuzik-holl"
+coverImage: "wp-content/uploads/2013/03/IMG_1304.jpg"
 ---
 
 _**[![IMG_1304](https://mpz.brovary.org/wp-content/uploads/2013/03/IMG_1304.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/IMG_1304.jpg)Броварське кафе «Мюзік Хол», що належить сину начальниці відділу культури Наталії Багмут знову опинилось в центрі скандалу.**_

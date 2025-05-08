@@ -16,6 +16,7 @@ tags:
   - "e-deklaruvannya"
   - "novini"
   - "prokuratura"
+coverImage: "wp-content/uploads/2012/08/Brovarska-mizhrayonna-prokuratura.jpg"
 ---
 
 **В Україні триває справжнісінький бум обговорення статків чиновників. Причина – запровадження системи відкритого електронного декларування доходів і майна. Раніше ми розповіли про надбання** [**міського голови**](https://mpz.brovary.org/e-deklaratsiya-sapozhka-groshi-zhytlo-zemelni-dilyanky-majzhe-vse-vlasnist-druzhyny/) **та** [**суддів**](https://mpz.brovary.org/e-deklaratsiyi-11-brovarskyh-sudej/) **Броварів. Тепер висвітлимо заощадження керівництва місцевої прокуратури – очільника та трьох його заступників.**

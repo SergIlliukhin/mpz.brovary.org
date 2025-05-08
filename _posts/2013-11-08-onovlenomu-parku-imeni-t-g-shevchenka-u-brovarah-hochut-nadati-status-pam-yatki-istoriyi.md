@@ -17,6 +17,7 @@ tags:
   - "rekonstruktsiya"
   - "skver-shevchenka"
   - "shevchenko"
+coverImage: "wp-content/uploads/2013/09/Den-mista-01.jpg"
 ---
 
 **[![День міста 01](https://mpz.brovary.org/wp-content/uploads/2013/09/Den-mista-01.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/09/Den-mista-01.jpg)На минулій сесії Броварської міської ради депутати ухвалили рішення "[Про надання парку  імені Т.Г.Шевченка у місті Бровари статусу пам’ятки історії](http://docs.pravo-znaty.org.ua/p9654/24.10.2013/1081-39-06)". Цей документ є першим кроком у процесі присвоєння парку важливого статусу. Також обранці [офіційно змінили назву](http://docs.pravo-znaty.org.ua/p9655/24.10.2013/1080-39-06) даного об'єкту - зі скверу імені Т.Г.Шевченка на парк імені Т.Г.Шевченка.**

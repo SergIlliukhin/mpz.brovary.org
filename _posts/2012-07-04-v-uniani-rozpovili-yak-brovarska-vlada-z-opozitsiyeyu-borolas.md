@@ -21,6 +21,7 @@ tags:
   - "udar"
   - "unian"
   - "falshivka"
+coverImage: "wp-content/uploads/2012/07/UNIAN_Klichko_1.jpg"
 ---
 
 **[![](https://mpz.brovary.org/wp-content/uploads/2012/05/unian1.jpg "уніан")](https://mpz.brovary.org/wp-content/uploads/2012/05/unian1.jpg)Під час прес-конференації в УНІАНі на тему «[Влада проти Кличка](https://mpz.brovary.org/organizatori-vizitu-klichka-do-brovariv-rozkazhut-pro-pereshkodzhannya-z-boku-mistsevoyi-vladi/)» організатори візиту Віталія Кличка в Бровари та Березань розповіли про всі перешкоди, які чинила місцева влада, намагаючись завадити зустрічі броварчан з лідером партії УДАР, та хвилю "чорного піару" проти опозиції після приїзду Кличка.**

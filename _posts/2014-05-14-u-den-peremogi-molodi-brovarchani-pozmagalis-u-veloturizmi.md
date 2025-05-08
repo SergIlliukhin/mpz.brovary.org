@@ -13,6 +13,7 @@ tags:
   - "zotov"
   - "novini"
   - "rozhkov"
+coverImage: "wp-content/uploads/2014/05/veloturistichni13.jpg"
 ---
 
 **[![велотуристичні07](https://mpz.brovary.org/wp-content/uploads/2014/05/veloturistichni07.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/05/veloturistichni07.jpg)9 травня міський велоклуб «Атлас» влаштував традиційні велотуристичні змагання, присвячені Дню Перемоги. Взяти участь в перегонах виявили бажання 6 команд по 3 члени в кожній. На завершення учасників змагань чекали призи від фонду «Лівобережна Київщина» та грамоти від відділу молоді та спорту Броварської міської ради.**

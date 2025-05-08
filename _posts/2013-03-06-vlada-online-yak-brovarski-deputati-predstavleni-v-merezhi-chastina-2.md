@@ -21,6 +21,7 @@ tags:
   - "plaksya"
   - "simutin"
   - "sotsmerezhi"
+coverImage: "wp-content/uploads/2013/03/Buzz_tracking_social_media_monitoring_ego_searching_best_tools_mini-guide_size485.jpg"
 ---
 
 [![Buzz_tracking_social_media_monitoring_ego_searching_best_tools_mini-guide_size485](https://mpz.brovary.org/wp-content/uploads/2013/03/Buzz_tracking_social_media_monitoring_ego_searching_best_tools_mini-guide_size485.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/Buzz_tracking_social_media_monitoring_ego_searching_best_tools_mini-guide_size485.jpg)Опісля [печальних результатів](https://mpz.brovary.org/vlada-online-yak-brovarski-deputati-predstavleni-v-merezhi-persha-chastina/) моніторингу мережі Фейсбук на предмет наявності там представництв броварських депутатів та крупних чиновників, очікування від аналогічного дослідження російських соцмереж – **Вконтакте** та **Однокласники** – також виглядали вже зовсім невесело. Адже логічно було б, якби депутати, передусім, надавали перевагу «інтелектуальному» Фейсбуку, ніж молодіжному Вконтакте. Ще дивнішим було б, якби броварські обранці масово «сховались» у попсових та вмираючих «Однокласниках», котрі в інтернет-спільноти асоціюються в кращому разі з телеканалом «Інтер», а в гіршому – з різного роду «сміхопанорамами» за стилістикою та наявними там трендами. Проте, як вже йшлося раніше, якщо розмірковуєш над діями броварських депутатів, використовувати потрібно найпарадоксальніші логічні ходи. Звісно, саме в «Однокласниках» ми їх і знайшли...

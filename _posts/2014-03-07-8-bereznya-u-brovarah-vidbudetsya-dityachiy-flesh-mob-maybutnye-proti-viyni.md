@@ -12,6 +12,7 @@ tags:
   - "maybutnye-proti-viyni"
   - "novini"
   - "flesh-mob"
+coverImage: "wp-content/uploads/2014/03/Maybutnye-proti-viyni-2.jpg"
 ---
 
 **[![Майбутнє проти війни 2](https://mpz.brovary.org/wp-content/uploads/2014/03/Maybutnye-proti-viyni-2.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/03/Maybutnye-proti-viyni-2.jpg)8 березня о 12:00 у центрі Броварів (на площі поблизу пошти - Гагаріна, 18) відбудеться всеукраїнський дитячий флеш-моб від Жіночого легіону України під назвою "Майбутнє проти війни". Про це "Маєш право знати" повідомили броварські організатори заходу.**

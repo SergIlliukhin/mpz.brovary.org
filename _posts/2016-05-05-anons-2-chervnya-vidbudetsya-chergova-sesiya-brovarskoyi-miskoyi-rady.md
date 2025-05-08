@@ -13,6 +13,7 @@ tags:
   - "brovarska-miska-rada"
   - "novini"
   - "sesiya"
+coverImage: "wp-content/uploads/2012/07/Bud_vlya-m_skoyi-radi-zagalniy-plan-3.jpg"
 ---
 
 **Майже за місяць відбудеться 14-та чергова сесія Броварської міської ради. У порядку денному – 30 питань. Про це йдеться у сьогоднішньому розпорядженні міського голови.**

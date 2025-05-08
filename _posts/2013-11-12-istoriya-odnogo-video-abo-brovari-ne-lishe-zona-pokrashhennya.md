@@ -7,6 +7,7 @@ author:
 categories: 
   - "kolonka-avtora"
   - "video"
+coverImage: "wp-content/uploads/2013/11/xzZBTjNOMvo.jpg"
 ---
 
 [![a7e56b1a51c8](https://mpz.brovary.org/wp-content/uploads/2013/11/a7e56b1a51c8.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/11/a7e56b1a51c8.jpg)**Напевно, мало лишилося в Броварах людей, які не бачили [цього відео](http://www.youtube.com/watch?v=l896xi7Ub0g) про наше місто. Також достатньо багато читачів «Маєш право знати» та локальних спільнот в соціальних мережах знають дещо і про його історію.**

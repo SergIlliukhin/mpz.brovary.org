@@ -22,6 +22,7 @@ tags:
   - "sapozhko"
   - "solidarnist"
   - "cherepeynik"
+coverImage: "wp-content/uploads/2016/03/IMG_8492.jpg"
 ---
 
 **[Услід за «Самопоміччю»](https://mpz.brovary.org/vasylenko-samopomich-perebuvaye-mizh-dvoh-vogniv-sapozhka-ta-rizanenka/), свою прес-конференцію за результатами перших місяців діяльності міської ради вчора дала і найбільша депутатська фракція, президентська «БПП-Солідарність».**

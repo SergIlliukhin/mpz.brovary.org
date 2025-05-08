@@ -15,6 +15,7 @@ tags:
   - "sapozhko"
   - "sekretar-miskoyi-radi"
   - "sesiya"
+coverImage: "wp-content/uploads/2014/04/44-sesiya-04.jpg"
 ---
 
 **[![44 сесія 04](https://mpz.brovary.org/wp-content/uploads/2014/04/44-sesiya-04.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/04/44-sesiya-04.jpg)Минулого четверга, 3 квітня, п****ісля двохмісячного ігнорування** **своїх обов'язків** **депутати Броварської міської ради** **нарешті зібрались на сесію. Нагадаємо, н****а засідання, призначене на 27 лютого, [депутати більшості не прийшли](https://mpz.brovary.org/sapozhko-dosi-ne-napisav-zayavi-pro-vidstavku-narodna-rada-viznachilas-iz-svoyim-kandidatom-na-posadu-sekretarya-miskradi/), відтак через відсутність кворуму не було вирішено низку важливих для міста питань.**

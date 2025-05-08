@@ -8,6 +8,7 @@ tags:
   - "brovarska-miska-rada"
   - "novini"
   - "pozachergova-sesiya"
+coverImage: "wp-content/uploads/2012/06/Brovarska-miska-rada.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/06/Brovarska-miska-rada.jpg "Броварська міська рада")](https://mpz.brovary.org/wp-content/uploads/2012/06/Brovarska-miska-rada.jpg)**Броварський міський голова Ігор Сапожко у терміновому порядку скликав позачергову 26-ту сесію Броварської міської ради** - відповідне рішення міського голови вранці 7 грудня 2012 року було [опубліковано](http://docs.pravo-znaty.org.ua/p6175/06.12.2012/230) на сайті міської ради.

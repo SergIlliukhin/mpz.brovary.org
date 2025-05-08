@@ -14,6 +14,7 @@ tags:
   - "novini"
   - "rizanenko"
   - "udar"
+coverImage: "wp-content/uploads/2012/06/Klichko3.jpg"
 ---
 
 **[![](https://mpz.brovary.org/wp-content/uploads/2012/06/Klichko3.jpg "Кличко3")](https://mpz.brovary.org/wp-content/uploads/2012/06/Klichko3.jpg)У суботу, 30 червня, у Броварах відбудеться зустріч лідера партії «УДАР» Віталія Кличка з громадою міста. Зустріч розпочнеться о 12:00 на майдані Свободи. Про це «Маєш право знати» повідомили у прес-службі громадської організації «Громадський захист Київщини».**

@@ -10,6 +10,7 @@ tags:
   - "brovarska-miska-rada"
   - "videozapis-sesiyi"
   - "novini"
+coverImage: "wp-content/uploads/2012/06/Brovarska-miska-rada.jpg"
 ---
 
 **Подія:** Чергове 21-ше сесійне засідання Броварської міської ради **Дата:** 07.06.2012 **Камера:** [Павло Різаненко](http://rizanenko.org "Павло Різаненко")

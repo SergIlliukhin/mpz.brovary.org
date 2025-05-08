@@ -12,6 +12,7 @@ tags:
   - "novini"
   - "sesiya"
   - "sklikannya-sesiyi"
+coverImage: "wp-content/uploads/2012/08/gerb-Brovari.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/10/gerb-Brovari-zmenshena1.jpg "герб Бровари зменшена")](https://mpz.brovary.org/wp-content/uploads/2012/10/gerb-Brovari-zmenshena1.jpg)1 листопада 2012 року о 14-й годині в приміщенні малої зали броварського міськвиконкому за адресою: вул. Гагаріна, 15 відбудеться двадцять четверта  чергова сесія Броварської міської ради VІ скликання. Про це сказано у [розпорядженні міського голови №193-ОД від 05 жовтня 2012 року](http://docs.pravo-znaty.org.ua/p4153/05.10.2012/193), оприлюдненому на офіційному веб-сайті Броварської міської ради.

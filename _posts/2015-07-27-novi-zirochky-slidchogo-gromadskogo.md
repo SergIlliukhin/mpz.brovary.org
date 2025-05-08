@@ -14,6 +14,7 @@ tags:
   - "slidchyj"
   - "slidchiy-viddil"
   - "slidchyj-gromadskyj"
+coverImage: "wp-content/uploads/2015/07/gromad1.jpg"
 ---
 
 [![XFlFwY2hUw0-300x224](https://mpz.brovary.org/wp-content/uploads/2015/07/XFlFwY2hUw0.jpg)](https://mpz.brovary.org/novi-zirochky-slidchogo-gromadskogo/xflfwy2huw0-300x224/)

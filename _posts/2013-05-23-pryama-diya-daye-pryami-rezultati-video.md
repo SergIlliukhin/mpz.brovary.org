@@ -14,6 +14,7 @@ tags:
   - "dorogi"
   - "pokrashhennya"
   - "udar"
+coverImage: "wp-content/uploads/2013/05/IMG_9456_resize1.jpg"
 ---
 
 [![IMG_9456_resize](https://mpz.brovary.org/wp-content/uploads/2013/05/IMG_9456_resize1.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/05/IMG_9456_resize1.jpg)**Майже відразу після проведення [автопробігу "Дайте дорогу!"](https://mpz.brovary.org/pid-chas-aktsiyi-dayte-dorogu-vlada-provela-obryad-pokrashhennya-yami/), що його організували броварські УДАР, "Свобода" та "Демократичний Альянс", міська влада таки була змушена відреагувати на катастрофічний стан броварських автошляхів.**

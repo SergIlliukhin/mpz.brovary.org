@@ -12,6 +12,7 @@ tags:
   - "meditsina"
   - "novini"
   - "tspmsd"
+coverImage: "wp-content/uploads/2015/06/vidkryttya-ambulatoriyi-4.jpg"
 ---
 
 **Сьогодні, 18 червня, у Броварах на Геологорозвідці відкрили чергову [амбулаторію загальної практики сімейної медицини](https://mpz.brovary.org/u-brovarah-na-geologorozvidtsi-vidkryyut-ambulatoriyu-simejnoyi-medytsyny-6/). Про це [повідомляє](http://www.brovary.kiev.ua/v%D1%96dkrittya-ambulator%D1%96%D1%97-s%D1%96meino%D1%97-meditsini) офіційний веб-сайт Броварської міської ради. Для потреб амбулаторії надали також нове легкове авто - ним будуть користуватися сімейні лікарі для виїзду на виклики.**

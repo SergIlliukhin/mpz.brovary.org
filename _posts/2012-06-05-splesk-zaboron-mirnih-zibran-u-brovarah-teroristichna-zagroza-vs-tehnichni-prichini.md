@@ -13,6 +13,7 @@ tags:
   - "vykonkom"
   - "zaborona"
   - "mirni-zibrannya"
+coverImage: "wp-content/uploads/2012/06/mirne-zibrannya.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/06/mirne-zibrannya.jpg "мирне зібрання")](https://mpz.brovary.org/wp-content/uploads/2012/06/mirne-zibrannya.jpg)Броварська влада активно занадилась забороняти мирні зібрання у Броварах. Спочатку тривожну новину про [заборону](https://mpz.brovary.org/brovarska-vlada-namagayetsya-zaboroniti-provedennya-mirnogo-protestu-brovarchan-ta-zhiteliv-rayonu/) мирного протесту у Броварах повідомив  правозахисник Юрій Кравець, потім про [заборону](https://mpz.brovary.org/sapozhko-zaboroniv-zustrich-klichka-z-brovarchanami/) соціально-культурного зібрання з нагоди Дня захисту дітей повідомила партія «УДАР».

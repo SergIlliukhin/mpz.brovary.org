@@ -14,6 +14,7 @@ tags:
   - "kochubej"
   - "novini"
   - "reglamentna-komisiya"
+coverImage: "wp-content/uploads/2016/03/IMG_4267.jpg"
 ---
 
 **Комісія з питань регламенту, правопорядку, депутатської етики та інформаційної політики, що [засідає](https://mpz.brovary.org/anons-oprylyudneno-grafik-zasidan-postijnyh-komisij-v-ramkah-16-yi-chergovoyi-sesiyi-miskrady/) сьогодні в рамках підготовки до чергової 16-ї сесії Броварської міської ради, рекомендувала змінити голову земельної комісії Василя Кочубея.**

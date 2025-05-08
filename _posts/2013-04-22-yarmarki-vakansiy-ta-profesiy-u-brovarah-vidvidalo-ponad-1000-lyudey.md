@@ -14,6 +14,7 @@ tags:
   - "tsentr-zaynyatosti"
   - "yakrmarok-profesiy"
   - "yarmarok-vakansiy"
+coverImage: "wp-content/uploads/2013/04/YArmarok-vakansiy_1.jpg"
 ---
 
 **[![Ярмарок вакансій_4](https://mpz.brovary.org/wp-content/uploads/2013/04/YArmarok-vakansiy_4.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/04/YArmarok-vakansiy_4.jpg)У Броварському міськрайцентрі зайнятості відповідно до плану проведення масових заходів 18 квітня 2013 року для підприємств, установ, організацій міста Бровари та Броварського району проведено [Ярмарок вакансій](https://mpz.brovary.org/18-kvitnya-u-brovarskomu-tsentri-zaynyatosti-vidbudutsya-yarmarki-vakansiy-ta-profesiy/).** У цей день центр зайнятості відвідали також соціальні партнери центру зайнятості: представники управління соціального захисту населення Броварської міської ради та районної адміністрації, управління економіки, управління освіти.

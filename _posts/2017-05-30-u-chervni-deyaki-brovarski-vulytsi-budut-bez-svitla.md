@@ -13,6 +13,7 @@ tags:
   - "vymknennya-elektroenergiyi"
   - "novini"
   - "svitlo"
+coverImage: "wp-content/uploads/2017/05/lampochka-e1496150992321.jpeg"
 ---
 
 **У зв’язку з виконанням робіт з обслуговування електричних мереж у місті, на сайті Броварської міської ради [оприлюднили](http://brovary-rada.gov.ua/news/15244.html)** **графік відсутності електроенергії на броварських вулицях з 1 по 30 червня.**

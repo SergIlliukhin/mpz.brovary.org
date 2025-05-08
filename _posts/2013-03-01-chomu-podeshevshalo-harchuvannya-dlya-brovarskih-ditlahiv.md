@@ -14,6 +14,7 @@ tags:
   - "rishennya-vikonkomu"
   - "upravlinnya-osviti"
   - "shkola"
+coverImage: "wp-content/uploads/2013/01/Sayt.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2013/01/Sayt.jpg "дитяче харчування")](https://mpz.brovary.org/wp-content/uploads/2013/01/Sayt.jpg)

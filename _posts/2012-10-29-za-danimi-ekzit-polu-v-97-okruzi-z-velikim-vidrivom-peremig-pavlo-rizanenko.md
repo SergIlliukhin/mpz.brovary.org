@@ -16,6 +16,7 @@ tags:
   - "okrug-97"
   - "rizanenko"
   - "sotsiologiya"
+coverImage: "wp-content/uploads/2012/10/Sotsdoslidzhennya-97-okrug.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/10/Sotsdoslidzhennya-97-okrug.jpg "Соцдослідження 97 округ")](https://mpz.brovary.org/wp-content/uploads/2012/10/Sotsdoslidzhennya-97-okrug.jpg)Сьогодні, 29 жовтня в інформаційному агентстві «Українські новини» компанії TNS  в Україні, SOCIS та GfK Ukraine презентували результати [екзит-полу в 97 виборчому окрузі](https://mpz.brovary.org/ekzit-pol-u-den-viboriv-u-97-okruzi-provedut-providni-sotsiologichni-kompaniyi-tns-gfk-ta-socis/). Результати презентували представники відразу всіх трьох компаній дослідників: **Ірина Панталій** (TNS в Україні), **Олександр Шульга** (SOCIS), **Гліб Вишлінський** (GfK Ukraine). Про це "Маєш право знати" повідомив піар-менеджер компанії TNS в Україні Іван Матейко.

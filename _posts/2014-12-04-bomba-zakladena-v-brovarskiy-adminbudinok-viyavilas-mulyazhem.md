@@ -12,6 +12,7 @@ tags:
   - "minuvannya"
   - "mvs"
   - "novini"
+coverImage: "wp-content/uploads/2014/12/DSC_1412.jpg"
 ---
 
 **[![DSC_1364](https://mpz.brovary.org/wp-content/uploads/2014/12/DSC_1364.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/12/DSC_1364.jpg)[Нещодавнє «мінування»](https://mpz.brovary.org/v-adminbudinku-na-maydani-svobodi-znayshli-samorobnu-vibuhivku-pratsivnikiv-evakuyuvali/) приміщення броварської міської ради та нової адмінбудівлі на Майдані Свободи виявилось або невдалим жартом невідомих, або ж свідомою провокацією злочинців.**

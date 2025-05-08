@@ -10,6 +10,7 @@ tags:
   - "aktivisti"
   - "brovary"
   - "vo-svoboda"
+coverImage: "wp-content/uploads/2013/06/Svoboda.jpg"
 ---
 
 [![Свобода](https://mpz.brovary.org/wp-content/uploads/2013/06/Svoboda.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/06/Svoboda.jpg)**Шановні українко та українцю! Броварчани!**

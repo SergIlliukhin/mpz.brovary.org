@@ -13,6 +13,7 @@ tags:
   - "kurchenko"
   - "novini"
   - "feliks-treyd"
+coverImage: "wp-content/uploads/2014/06/korre4.jpg"
 ---
 
 **[![d67725c6-916e-44df-b909-90b147c4c97a_mw1024_n_s](https://mpz.brovary.org/wp-content/uploads/2014/06/d67725c6-916e-44df-b909-90b147c4c97a_mw1024_n_s.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/06/d67725c6-916e-44df-b909-90b147c4c97a_mw1024_n_s.jpg)Компанія «Фелікс Енерджи» та ТОВ «Фелікс Трейд», що [заявили про наміри](https://mpz.brovary.org/kupavu-ta-brovarsku-rayonnu-likarnyu-hochut-opalyuvati-drovami/) збудувати на території броварського басейну «Купава» нову котельню, має прямий зв'язок з учасниками бізнес-групи одіозного Сергія Курченка – мільярдера-вундеркінда, який став одним з найбагатших людей України за час правління режиму Януковича.  Про це «Маєш право знати» повідомили власні джерела на умовах анонімності.**

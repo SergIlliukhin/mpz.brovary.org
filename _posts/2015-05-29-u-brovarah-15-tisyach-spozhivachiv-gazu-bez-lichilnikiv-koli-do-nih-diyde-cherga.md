@@ -12,6 +12,7 @@ tags:
   - "gazovi-lichilniki"
   - "novini"
   - "pat-kiyivoblgaz"
+coverImage: "wp-content/uploads/2015/05/Kiyivoblgaz-10.jpg"
 ---
 
 [![Київоблгаз (10)](https://mpz.brovary.org/wp-content/uploads/2015/05/Kiyivoblgaz-10.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/05/Kiyivoblgaz-10.jpg)**Отримані платіжки за газ у травні схвилювали багатьох броварчан. І не дивно: по-перше, ціна за куб газу зросла майже у 6 разів (з 1,299 до 7,188 грн), а по-друге, оскільки у квітні у Броварах вимикали гарячу воду, ПАТ «Київоблгаз» застосував [відповідну норму споживання](https://mpz.brovary.org/tarifi-na-zhitlovo-komunalni-poslugi-dlya-brovarchan-skilki-platimo-i-skilki-budemo-platiti/) - не 6, а 9 кубів газу на людину. Тому у квитанціях люди побачили тризначні цифри - і жахнулися. Єдине, що може врятувати ситуацію, – це газові лічильники. Та чи є можливість їх встановити - дізнавалися наші журналісти у Броварській філії ПАТ «Київоблгаз» (вул. Шевченка, 4).**

@@ -19,6 +19,7 @@ tags:
   - "pres-konferentsiya"
   - "protest"
   - "stop-budivnytstvu-na-symonenka-chornovola"
+coverImage: "wp-content/uploads/2016/10/14682080_10210546570122272_8141164871771626194_o.jpg"
 ---
 
 **13 жовтня мешканці Броварів, що виступають проти забудови на місці лісопаркової зони на розі Симоненка-Чорновола, провели [прес-конференцію](http://press.unian.net/press/1570997-jiteli-brovarov-namerenyi-trebovat-v-sude-otmenyi-stroitelstva-jilogo-kompleksa-na-territorii-sosnovogo-lesa.html) в УНІАН. Про це [зазначають](http://save.brovary.org/pres-konferentsiya-v-unian/) активісти на новоствореному сайті save.brovary.org.**

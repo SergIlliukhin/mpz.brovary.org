@@ -10,6 +10,7 @@ tags:
   - "mayesh-pravo-znati"
   - "novini"
   - "sajt"
+coverImage: "wp-content/uploads/2013/02/feedback.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2013/02/feedback.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/02/feedback.jpg)**Друзі, вже більше року сайт "Маєш право знати" працює у медіа- та Інтернет-просторі Броварів.**

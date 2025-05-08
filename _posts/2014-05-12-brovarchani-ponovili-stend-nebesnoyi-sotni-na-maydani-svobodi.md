@@ -10,6 +10,7 @@ tags:
   - "nebesna-sotnya"
   - "novini"
   - "rekonstruktsiya"
+coverImage: "wp-content/uploads/2014/05/st1.jpg"
 ---
 
 **[![фото 1](https://mpz.brovary.org/wp-content/uploads/2014/05/foto-1.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/05/foto-1.jpg)Сьогодні, 12 травня небайдужі активісти переклеїли частину стенду з портретами героїв Небесної сотні, встановлений на Майдані Свободи у Броварах. Нагадаємо, нещодавно невідомими зловмисниками стенд було понівечено – одну з його частин вандали спаплюжили фашистськими написами.**

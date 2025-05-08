@@ -7,6 +7,7 @@ author:
 tags: 
   - "vibir-redaktsiyi"
   - "novini"
+coverImage: "wp-content/uploads/2014/04/17d9a2605e491efb9cfa66b1f30ab8c2.jpg"
 ---
 
 **[![be6f2b8848f6ffd85a628a7774c48d8a](https://mpz.brovary.org/wp-content/uploads/2014/04/be6f2b8848f6ffd85a628a7774c48d8a.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/04/be6f2b8848f6ffd85a628a7774c48d8a.jpg)Переможна хода весни спонукає броварчан [не зупинятися на досягнутому](https://mpz.brovary.org/tsiyeyi-suboti-brovarchani-planuyut-pribrati-zhitloviy-masiv-a-nastupnoyi-vzyatis-za-chistotu-v-lisi/) в плані очищення міста після зими, розвинути успіх минулого тижня і освоїти суботниками вже нові території. 5 квітня об 11:00 людей закликають  вийти на прибирання парку «Приозерний, що на Пекарні.**

@@ -14,6 +14,7 @@ tags:
   - "oflayn"
   - "rozvirtualizatsiya"
   - "strategichna-sesiya"
+coverImage: "wp-content/uploads/2015/02/stand.jpg"
 ---
 
 **[![stand](https://mpz.brovary.org/wp-content/uploads/2015/02/stand.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/02/stand.jpg)Забув нагадати: участь у [стратегічній сесії «Нове місто – Бровари»](https://mpz.brovary.org/brovarchan-zaproshuyut-razom-stvoriti-viziyu-novogo-mista/) - це не лише унікальний шанс разом спробувати створити візію, нове бачення міста, в якому всі ми мріємо жити. Важливо й те, що захід, який відбудеться вже цієї суботи – це, напевно, перша велика офлайнова зустріч активних броварчан, які досі були знайомі між собою лише по Фейсбуку чи Вконтакте.**

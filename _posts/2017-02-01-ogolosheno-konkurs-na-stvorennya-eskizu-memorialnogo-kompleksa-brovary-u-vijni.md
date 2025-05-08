@@ -15,6 +15,7 @@ tags:
   - "novini"
   - "park-peremoga"
   - "rekonstruktsiya-parku"
+coverImage: "wp-content/uploads/2017/01/82_big.jpg"
 ---
 
 **Впродовж осінньо-зимових місяців триває [реконструкція парку Перемога](https://mpz.brovary.org/shho-hochut-zrobyty-z-parkom-peremoga-oprylyudneno-plan-rekonstruktsiyi-2/). На цей час прокладено [доріжки](https://mpz.brovary.org/dlya-kogo-proklaly-dorizhky-v-parku-fotoreportazh/), встановлюються опори освітлення, демонтована плитка з головної алеї.** **Броварська міська рада підготувала новий об'єкт для оновлення центрального парку. Вчора [розпорядженням](http://brovary-rada.gov.ua/documents/26665.html) міського голови було оголошено конкурс на кращу проектну пропозицію пам’ятного меморіалу "Бровари у війні" в парку "Перемога". Як повідомляє офіційний сайт міськради, конкурс триватимиме місяць: з 1 лютого до 3 березня.**

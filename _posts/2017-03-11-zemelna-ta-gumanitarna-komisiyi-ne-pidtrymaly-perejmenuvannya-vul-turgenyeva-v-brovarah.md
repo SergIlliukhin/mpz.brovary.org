@@ -17,6 +17,7 @@ tags:
   - "perejmenuvannya-vulyts"
   - "sokur"
   - "turgenyev"
+coverImage: "wp-content/uploads/2017/03/street_Turgeneva.jpg"
 ---
 
 **На найближчу [сесію](https://mpz.brovary.org/anons-23-bereznya-vidbudetsya-chergova-sesiya-brovarskoyi-miskoyi-rady/) Броварської міської ради виносять питання перейменування вулиці Івана Тургенєва, що пролягає на території І-го житлового району, на вулицю Івана Сокура. Гуманітарна та земельна комісії не підтримали цей [проект](http://brovary-rada.gov.ua/documents/26798.html), остаточне рішення будуть приймати місцеві депутати 23 березня на засіданні 26-ї чергової сесії.**

@@ -15,6 +15,7 @@ tags:
   - "terakt"
   - "udar"
   - "fedorenko"
+coverImage: "wp-content/uploads/2013/06/tachka1.jpg"
 ---
 
 [![tachka1](https://mpz.brovary.org/wp-content/uploads/2013/06/tachka1.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/06/tachka1.jpg)**Напевно, ні в кого не залишилось сумнівів, що дика за своєю формою та суттю акція залякування глави броварського УДАРу Романа Сімутіна не призвела до бажаного ефекту, на який розраховувала влада.**

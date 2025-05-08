@@ -17,6 +17,7 @@ tags:
   - "pereyaslavskyj-shlyah"
   - "remont"
   - "ruh"
+coverImage: "wp-content/uploads/2017/03/Knyazhychi-platforma-zaliznytsya_00036.jpg"
 ---
 
 **Із понеділка по середу для усіх видів автотранспорту не працюватиме залізничний переїзд у межах платформи "Княжичі" перегону Бровари-Дарниця. Про це [йдеться](http://brovary-rada.gov.ua/news/15394.html) на сайті Броварської міської ради.**

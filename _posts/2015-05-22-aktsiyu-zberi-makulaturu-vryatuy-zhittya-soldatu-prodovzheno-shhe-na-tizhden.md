@@ -14,6 +14,7 @@ tags:
   - "makulatura"
   - "novini"
   - "papir"
+coverImage: "wp-content/uploads/2015/05/PICT0017-e1432229517313.jpg"
 ---
 
 [![PICT0016](https://mpz.brovary.org/wp-content/uploads/2015/05/PICT0016.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/05/PICT0016.jpg)

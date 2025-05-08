@@ -9,6 +9,7 @@ categories:
 tags: 
   - "brovarska-miska-rada"
   - "videozapis-sesiyi"
+coverImage: "wp-content/uploads/2012/04/P1060085-002.jpg"
 ---
 
 **Подія:** Чергове 20-те сесійне засідання Броварської міської ради **Дата:** 12.04.2012 **Камера:** [Павло Різаненко](http://rizanenko.org "Павло Різаненко")

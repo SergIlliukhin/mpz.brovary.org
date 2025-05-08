@@ -6,6 +6,7 @@ author:
   display_name: "Тетяна Панкратьєва"
 categories: 
   - "kolonka-avtora"
+coverImage: "wp-content/uploads/2017/09/111222.jpg"
 ---
 
 Останні два роки "Маєш право знати" видозмінювалося і наповнювалося новими сенсами. Команда видання змінювалася також. Наприкінці 2015-го з посади головної редакторки пішла засновниця "МПЗ" [**Аліна Дяченко**](https://mpz.brovary.org/alina-dyachenko-zhurnalistika-dlya-mene-tse-sposib-zminiti-svit-i-chinovnikiv/), а через півроку проект залишив і ще один старожил броварської журналістики - [**Андрій Качор**](https://mpz.brovary.org/andriy-kachor-dlya-mene-zhurnalistika-tse-instrument-u-borotbi-za-spravedlivist/).

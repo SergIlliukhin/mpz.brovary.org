@@ -18,6 +18,7 @@ tags:
   - "pavlyk"
   - "torgmash"
   - "shlyahoprovid"
+coverImage: "wp-content/uploads/2016/08/Mist_Torgmash00012.jpg"
 ---
 
 **Автомобільний рух шляхопроводом по вулиці Олега Онікієнка, на якому з 2014 року [виконують ремонтні роботи](https://mpz.brovary.org/navit-pislya-koshtovnogo-remontu-mist-na-torgmashi-prozhyve-vid-5-do-25-rokiv-ekspert/), запланували відкрити за місяць – 1 жовтня. Про це під час сьогоднішньої оперативної наради в мера розповіла Людмила Павлик, очільниця відділу капітального будівництва Броварської міської ради.**

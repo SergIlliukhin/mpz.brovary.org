@@ -15,6 +15,7 @@ tags:
   - "mer-brovariv"
   - "novini"
   - "sapozhko"
+coverImage: "wp-content/uploads/2013/06/logo.jpg"
 ---
 
 [![50 тис.грн. за мера - корупціонера](https://mpz.brovary.org/wp-content/uploads/2013/06/logo.jpg "50 тис.грн. за мера - корупціонера")](https://mpz.brovary.org/wp-content/uploads/2013/06/logo.jpg)**Цими вихідними у Броварах офіційно стартувала кампанія "50 тисяч за мера-корупціонера", [оголошена](https://mpz.brovary.org/za-vikrittya-koruptsiynih-diy-igorya-sapozhka-ogolosheno-vinagorodu-v-50-tisyach/) "Демократичним альянсом".** 

@@ -13,6 +13,7 @@ tags:
   - "kandidat-u-narodni-deputati"
   - "oleg-ivanenko"
   - "tsentr-pragnennya"
+coverImage: "wp-content/uploads/2012/08/Ivanenko-i-diti.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/08/Ivanenko-i-diti.jpg "Іваненко і діти")](https://mpz.brovary.org/wp-content/uploads/2012/08/Ivanenko-i-diti.jpg)1 вересня 2012 року відбудеться автопробіг на підтримку кандидата в народні депутати України в одномандатному мажоритарному окрузі № 97 **Олега Іваненка**. Автопробіг пройде вулицями Броварів та населеними пунктами Броварського району. Про це «Маєш право знати» повідомив організатор автопробігу помічник Іваненка **Олексій Данилюк**.

@@ -19,6 +19,7 @@ tags:
   - "pavelyev"
   - "parlamentski-vibori-2014"
   - "feshhun"
+coverImage: "wp-content/uploads/2014/10/clg4.jpg"
 ---
 
 [![clg4](https://mpz.brovary.org/wp-content/uploads/2014/10/clg4.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/10/clg4.jpg)**У [попередньому матеріалі](https://mpz.brovary.org/shho-vibori-priydeshni-brovaram-gotuyut-oglyad-golovnih-uchasnikiv-peregoniv/) ми намагались знайти відповідь на запитання, хто з представлених кандидатів-мажоритарників по нашому округу може реально претендувати на перемогу або принаймні на "призові" місця.**

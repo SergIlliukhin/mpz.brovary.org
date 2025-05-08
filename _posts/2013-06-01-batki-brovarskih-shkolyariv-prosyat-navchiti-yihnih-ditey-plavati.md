@@ -13,6 +13,7 @@ tags:
   - "novini"
   - "onyshhenko"
   - "tisk-gromadi"
+coverImage: "wp-content/uploads/2013/02/Baseyn-pidpisi_0.jpg"
 ---
 
 **[![Басейн підписи_0](https://mpz.brovary.org/wp-content/uploads/2013/02/Baseyn-pidpisi_0.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/02/Baseyn-pidpisi_0.jpg)Вчора активісти громадської ініціативи "Басейн - дітям!" передали начальнику Управління освіти, науки та молоді Володимиру Онищенку та броварському міському голові Ігорю Сапожку [колективне звернення](https://mpz.brovary.org/initsiativa-baseyn-dityam-zbiraye-pidpisi-za-bezkoshtovni-uroki-plavannya-dlya-shkolyariv/) від броварчан, чиї діти навчаються у міських школах, з проханням передбачити у шкільних програмах заняття з плавання. Збір підписів батьків учнів броварських шкіл тривав 10 днів - з 21 по 31 травня. За цей час активістам вдалось залучитись підтримкою майже 400 броварчан.**

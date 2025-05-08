@@ -12,6 +12,7 @@ tags:
   - "livoberezhna-kiyivshhina"
   - "pavlo-rizanenko"
   - "fond-rozvitku-gromad-livoberezhna-kiyivshhina"
+coverImage: "wp-content/uploads/2014/10/challange201.jpg"
 ---
 
 **[![challange17](https://mpz.brovary.org/wp-content/uploads/2014/10/challange17.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/10/challange17.jpg)У суботу, 11 жовтня, у приміщенні  броварської ЗОШ №6  відбувся щорічний конкурс з англійської мови «Brovary Challenge». Уже вшосте конкурс пройшов за підтримки Фонду  розвитку громад «Лівобережна Київщина», засновник якого – народний депутат Павло Різаненко – відкривав захід.**

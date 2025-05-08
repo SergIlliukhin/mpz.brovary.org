@@ -12,6 +12,7 @@ tags:
   - "prezentatsiya"
   - "sila-lyudey"
   - "solontay"
+coverImage: "wp-content/uploads/2013/07/Sila-lyudey-9.jpg"
 ---
 
 **[![Сила людей 13](https://mpz.brovary.org/wp-content/uploads/2013/07/Sila-lyudey-13.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/07/Sila-lyudey-13.jpg)9 липня у Броварах, у приміщенні міської бібліотеки, мала відбутись презентаційна зустріч представників всеукраїнської ініціативи «Сила людей» з активними броварчанами, однак в останній момент стало відомо, що у бібліотеці даний захід відбутися не зможе.**

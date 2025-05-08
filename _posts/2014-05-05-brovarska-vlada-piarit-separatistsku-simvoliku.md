@@ -13,6 +13,7 @@ tags:
   - "georgiyivska-strichka"
   - "den-peremogi"
   - "sapozhko"
+coverImage: "wp-content/uploads/2014/05/IMG_9631.jpg"
 ---
 
 [![IMG_9631](https://mpz.brovary.org/wp-content/uploads/2014/05/IMG_9631.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/05/IMG_9631.jpg)**За кілька днів до 9 травня [офіційний сайт відділу культури](http://www.kulturabr.kiev.ua/) Броварської міської ради опублікував програму заходів, приурочених до Дня Перемоги.**

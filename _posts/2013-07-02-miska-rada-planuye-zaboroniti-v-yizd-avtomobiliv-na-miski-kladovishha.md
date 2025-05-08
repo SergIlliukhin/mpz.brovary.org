@@ -14,6 +14,7 @@ tags:
   - "novini"
   - "proekti-rishen"
   - "ritualna-sluzhba"
+coverImage: "wp-content/uploads/2013/06/Golovna-zaborona-vyizdu.jpg"
 ---
 
 [![Головна заборона кладовище](https://mpz.brovary.org/wp-content/uploads/2013/06/Golovna-zaborona-kladovishhe.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/06/Golovna-zaborona-kladovishhe.jpg)**На пленарному засіданні Броварської міської ради, що [відбудеться 4 липня](https://mpz.brovary.org/4-lipnya-vidbudetsya-36-a-chergova-sesiya-brovarskoyi-miskoyi-radi/), депутати збираються розглянути [проект рішення](http://docs.pravo-znaty.org.ua/p7705/04.07.2013), яким буде заборонено в'їзд авто-мототранспорту на територію броварських кладовищ.**

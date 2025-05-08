@@ -12,6 +12,7 @@ tags:
   - "shevchuk"
   - "sud"
   - "cheh"
+coverImage: "wp-content/uploads/2012/11/Sud-na-Vozzyednannya.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/11/sud.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/11/sud-300x198.jpg)10 жовтня у Броварському міськрайонному суді відбулося судове засідання з приводу дій одного з учасників [акції «Страта судді»](https://mpz.brovary.org/mirna-aktsiya-starata-suddi-zakinchilas-pobittyam-ta-zatrimannyami-yiyi-uchasnikiv-militsiyeyu/)  **Руслана Чеха**. Нагадаємо, що перше засідання щодо затриманого відбулося за місяць до того, 10 вересня. Тоді з’ясувалося, що на Руслана [із порушеннями був складений протокол про адміністративне правопорушення](https://mpz.brovary.org/sudi-nad-uchasnikami-strati-suddi-trivayut-odnomu-z-aktivistiv-prisudili-60-godin-gromadskih-robit/), про який він не знав, який не підписував і копію якого не отримував.

@@ -16,6 +16,7 @@ tags:
   - "maydan-svobodi"
   - "novini"
   - "ultras"
+coverImage: "wp-content/uploads/2014/02/hoda_avtomaydan31.jpg"
 ---
 
 **Минулої  суботи, 1 лютого, у Броварах відбувся автопробіг на підтримку Майдану та піша хода "Бровари, вставай!" проти режиму Януковича. Пропонуємо увазі наших читачів відеоролики про ці два заходи. Текстовий репортаж з події читайте за [цим посиланням](https://mpz.brovary.org/pislya-avtoprobigu-protestuvalniki-pidsvitili-ofis-brovarskih-regionaliv-fayerami/).**

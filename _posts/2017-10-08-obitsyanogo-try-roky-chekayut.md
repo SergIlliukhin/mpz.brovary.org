@@ -6,6 +6,7 @@ author:
   display_name: "Ірина Нікітчина"
 categories: 
   - "kolonka-avtora"
+coverImage: "wp-content/uploads/2017/10/zastavka.png"
 ---
 
 #### **.... або: ЯК «АЛЬЯНС НОВОБУД» ІНВЕСТИЦІЙНИЙ ДОГОВІР ВИКОНУЄ**

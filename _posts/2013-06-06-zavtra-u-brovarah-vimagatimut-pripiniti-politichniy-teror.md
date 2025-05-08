@@ -16,6 +16,7 @@ tags:
   - "smirnov"
   - "teror"
   - "tkachenko"
+coverImage: "wp-content/uploads/2013/06/Brovarska-militsiya-ta-Svoboda.jpg"
 ---
 
 **[![Броварська міліція та Свобода](https://mpz.brovary.org/wp-content/uploads/2013/06/Brovarska-militsiya-ta-Svoboda.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/06/Brovarska-militsiya-ta-Svoboda.jpg)7 червня о 13:00 у Броварах районна організація Всеукраїнського об'єднання "Свобода" проведе акцію "Геть політичний терор!" Акція спричинена хвилею політичних репресій проти свободівців та опозиційних активістів міста. Захід відбудеться за адресою: м. Бровари, вул. Кірова, 24, Броварський районний відділ ГУ МВС України в Київській області. Про це ВО "Свобода" [повідомляє](http://www.svoboda.org.ua/diyalnist/anonsy/039743/) на своєму веб-сайті.**

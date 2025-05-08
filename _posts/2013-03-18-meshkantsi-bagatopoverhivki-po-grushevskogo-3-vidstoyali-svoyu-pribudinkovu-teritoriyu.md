@@ -18,6 +18,7 @@ tags:
   - "rishennya"
   - "ribakova"
   - "sesiya"
+coverImage: "wp-content/uploads/2013/03/Image00009.jpg"
 ---
 
 [![Image00009](https://mpz.brovary.org/wp-content/uploads/2013/03/Image00009.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/Image00009.jpg)Кілька місяців тому у Броварах розгорівся [скандал](https://mpz.brovary.org/nezakonne-budivnitstvo-na-grushevskogo-3-prizupinene-zabudovnik-ne-zdayetsya/): власник однієї з квартир на першому поверсі за адресою вул. Грушевського, 3 почав будівництво окремого входу до свого приміщення. На той момент історія протистояння з мешканцями та залякування сусідів тривала вже не перший рік, проте до активної реалізації своїх задумів забудовник взявся лише після прийняття Броварською міською радою відповідного [рішення](http://docs.pravo-znaty.org.ua/p727/16.02.2012/546-19-06) (п. 3.1), яке, щоправда, вже зовсім скоро під тиском громадськості визнають незаконним.

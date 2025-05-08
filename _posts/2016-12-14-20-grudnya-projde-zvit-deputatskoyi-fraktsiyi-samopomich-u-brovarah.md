@@ -14,6 +14,7 @@ tags:
   - "novini"
   - "samopomich"
   - "samopomich-zustrich"
+coverImage: "wp-content/uploads/2015/10/sobolev-9.jpg"
 ---
 
 **Наступного тижня за рік роботи у Броварській міській раді звітуватиме фракція "Самопоміч". Про це йдеться в [оголошенні](https://www.facebook.com/events/1833924570159438/?notif_t=plan_user_invited&notif_id=1481713317000750) цієї політсили.**

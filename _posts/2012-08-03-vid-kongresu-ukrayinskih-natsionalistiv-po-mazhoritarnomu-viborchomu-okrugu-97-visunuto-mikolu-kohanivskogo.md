@@ -12,6 +12,7 @@ tags:
   - "kongres-ukrayinskih-natsionalistiv"
   - "kohanivskiy"
   - "novini"
+coverImage: "wp-content/uploads/2012/08/KUN3.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/08/KUN2.png "КУН2")](https://mpz.brovary.org/wp-content/uploads/2012/08/KUN2.png)31 липня [на XIV-му позачерговому Зборі](http://cun.org.ua/2012/u-kiyevi-vidbuvsya-zbir-kongresu-ukrayinskih-natsionalistiv/) **Конгресу Українських Націоналістів** було затверджено кандидатів у депутати до Верховної Ради України на мажоритарних округах та список кандидатів по багатомандатному загальнонаціональному виборчому округу для делегування кандидатів у списки інших політичних сил. По мажоритарному виборчому округу № 97, до якого входять Бровари, від політичної партії Конгрес Українських Націоналістів кандидатом обрано **Миколу Коханівського.**

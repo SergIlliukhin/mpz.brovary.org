@@ -16,6 +16,7 @@ tags:
   - "simonenko"
   - "smittya"
   - "sortuvannya-smittya"
+coverImage: "wp-content/uploads/2013/06/IMG_0671_resize.jpg"
 ---
 
 **[![IMG_0671_resize](https://mpz.brovary.org/wp-content/uploads/2013/06/IMG_0671_resize.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/06/IMG_0671_resize.jpg)****Минулої суботи, 1 червня, біля новобудов на вул. Симоненка відбувся досить оригінальний суботник. Після прибирання лісосмуги, що розташована поруч з будинками, для юних жителів було проведено майстер-клас, на якому їх вчили, як зі сміття робити різноманітні іграшки та прикраси.**

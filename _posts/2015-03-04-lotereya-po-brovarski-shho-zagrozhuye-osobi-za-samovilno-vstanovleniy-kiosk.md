@@ -13,6 +13,7 @@ tags:
   - "dp-derzhavni-lotereyi"
   - "kioski"
   - "faii"
+coverImage: "wp-content/uploads/2015/03/lotereyi.jpg"
 ---
 
 \[caption id="attachment\_34283" align="alignleft" width="300"\][![Колаж Олександра Плахова](https://mpz.brovary.org/wp-content/uploads/2015/03/lotereyi.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/03/lotereyi.jpg) Колаж з Facebook\[/caption\]

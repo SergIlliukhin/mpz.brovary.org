@@ -15,6 +15,7 @@ tags:
   - "novini"
   - "panahida"
   - "tserkva"
+coverImage: "wp-content/uploads/2013/11/Golodomor-Brovari.png"
 ---
 
 [![Ukraine-holodomor](https://mpz.brovary.org/wp-content/uploads/2013/11/Ukraine-holodomor.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/11/Ukraine-holodomor.jpg)**Цієї суботи, 23 листопада, в Україні вшановуватимуть пам'ять **жертв голодоморів: саме на цей день припадає 80-та річниця трагедії. **У Броварах офіційні заходи, присвячені цим сумним сторінкам нашої історії, розпочинаються вже сьогодні. Безпосередньо у [День пам'яті жертв голодоморів](http://uk.wikipedia.org/wiki/%D0%94%D0%B5%D0%BD%D1%8C_%D0%BF%D0%B0%D0%BC'%D1%8F%D1%82%D1%96_%D0%B6%D0%B5%D1%80%D1%82%D0%B2_%D0%B3%D0%BE%D0%BB%D0%BE%D0%B4%D0%BE%D0%BC%D0%BE%D1%80%D1%96%D0%B2) на броварчан чекатимуть на панахиді біля церкви Петра і Павла, а також на загальноміській акції - зі свічками та спогадами про невинно загиблих.******

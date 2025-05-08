@@ -14,6 +14,7 @@ tags:
   - "novini"
   - "sesiya"
   - "sesiya-miskoyi-rady"
+coverImage: "wp-content/uploads/2017/01/Tablichka-miskoyi-radi-2.jpg"
 ---
 
 **Післязавтра, 19 січня, о 10:00 відбудеться 24-та позачергова сесія Броварської міської ради. Про це повідомляється на сайті міськради в [оприлюдненому](http://brovary-rada.gov.ua/documents/26604.html) сьогодні розпорядженні міського голови. Депутати розглянуть 10 питань і розділ "різне", зокрема голосуватимуть за визнання результатів [громадських слухань](https://mpz.brovary.org/u-brovarah-vidbulysya-gromadski-sluhannya-adminresurs-peremig-foto/) щодо забудови на розі Симоненка-Чорновола.**

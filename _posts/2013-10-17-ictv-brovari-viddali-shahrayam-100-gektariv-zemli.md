@@ -16,6 +16,7 @@ tags:
   - "radioperedavalniy-tsentr"
   - "simutin"
   - "sapozhko"
+coverImage: "wp-content/uploads/2013/10/sapozhko_ictv.jpg"
 ---
 
 **[![сапожко_ictv](https://mpz.brovary.org/wp-content/uploads/2013/10/sapozhko_ictv.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/10/sapozhko_ictv.jpg)З екранів центральних телеканалів не сходить новина про земельний скандал в Броварах. Цього разу сюжет вийшов у ["Фактах ICTV"](http://fakty.ictv.ua/ua/index/read-news/id/1490516).**

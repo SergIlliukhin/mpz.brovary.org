@@ -13,6 +13,7 @@ tags:
   - "krugliy-stil"
   - "narodna-rada"
   - "novini"
+coverImage: "wp-content/uploads/2014/02/Krugliy-stil-BNR-03.jpg"
 ---
 
 **[![Круглий стіл БНР 11](https://mpz.brovary.org/wp-content/uploads/2014/02/Krugliy-stil-BNR-11.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/02/Krugliy-stil-BNR-11.jpg)Вчора у Броварах публічно стартував процес формування Народної Ради. [Круглий стіл](https://mpz.brovary.org/sklad-brovarskoyi-narodnoyi-radi-pochnut-formuvati-za-kruglim-stolom-12-lyutogo/), на якому ініціативна група презентувала своє бачення Броварської Народної Ради, став першим кроком на шляху до формування органу громадського самоврядування у нашому місті. Тепер броварчанам пропонується спільно обговорити структуру та цілі БНР, а також проаналізувати перелік кандидатів на членство, щоб уже цієї суботи, 15 лютого, на Народному Віче затвердити її склад та концепцію.**

@@ -15,6 +15,7 @@ tags:
   - "deputati"
   - "novini"
   - "sesiya"
+coverImage: "wp-content/uploads/2016/12/5510809.jpg"
 ---
 
 **Сьогодні народні депутати прийняли державний бюджет-2017. Міські депутати збираються завтра на [позачергову сесію](https://mpz.brovary.org/anons-22-grudnya-vidbudetsya-pozachergova-sesiya-brovarskoyi-miskoyi-rady/), аби поміж інших 30 питань затвердити бюджет Броварів на наступний рік. Зокрема, прийматимуть і різні програми, що будуть фінансуватися за бюджетний кошт.**

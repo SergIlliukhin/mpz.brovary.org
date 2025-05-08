@@ -16,6 +16,7 @@ tags:
   - "novini"
   - "svitlana-zagorovka"
   - "shturm-bankovoyi"
+coverImage: "wp-content/uploads/2014/02/Rodina-Zagorovko.jpg"
 ---
 
 [![Родина Загоровко](https://mpz.brovary.org/wp-content/uploads/2014/02/Rodina-Zagorovko.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/02/Rodina-Zagorovko.jpg)**Журналістка "[Громадського радіо](http://hromadskeradio.org/)" Ірина Соломко записала інтерв'ю з ["в'язнем Банкової"](https://mpz.brovary.org/sered-pobitih-pid-administratsiyeyu-prezidenta-ta-zaareshtovanih-za-organizatsiyu-masovih-bezporyadkiv-ye-brovarchanin/), броварчанином Владиславом Загоровкою та його дружиною Світланою. Постраждалий від знущань "Беркуту" чоловік розповідає, як змінилось його життя [після подій 1 грудня біля Адміністрації Президента](https://mpz.brovary.org/sered-pobitih-pid-administratsiyeyu-prezidenta-ta-zaareshtovanih-za-organizatsiyu-masovih-bezporyadkiv-ye-brovarchanin/).**

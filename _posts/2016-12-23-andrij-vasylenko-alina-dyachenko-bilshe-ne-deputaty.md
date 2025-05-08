@@ -16,6 +16,7 @@ tags:
   - "novini"
   - "sesiya"
   - "skladannya-povnovazhen"
+coverImage: "wp-content/uploads/2016/12/deputaty.jpg"
 ---
 
 **Голови двох опозиційних фракцій Аліна Дяченко (ДемАльянс) та Андрій Василенко ([Самопоміч](https://mpz.brovary.org/brovarska-samopomich-tsya-miskrada-krashha-za-poperednyu-ale-kardynalnyh-zmin-ne-vidbulosya-foto/)) остаточно покинули стіни Броварської міської ради та броварську політику. На останній позачерговій сесії 22 грудня міські депутати проголосували за складання ними депутатських повноважень.**

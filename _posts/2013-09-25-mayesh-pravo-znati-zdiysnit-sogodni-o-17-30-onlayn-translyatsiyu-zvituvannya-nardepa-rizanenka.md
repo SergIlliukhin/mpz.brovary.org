@@ -16,6 +16,7 @@ tags:
   - "novini"
   - "onlayn-translyatsiya"
   - "rizanenko"
+coverImage: "wp-content/uploads/2013/09/Onlayn.jpg"
 ---
 
 **[![Онлайн](https://mpz.brovary.org/wp-content/uploads/2013/09/Onlayn.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/09/Onlayn.jpg)Команда "Маєш право знати" проведе пряму онлайн-трансляцію звітування народного депутата України Павла Різаненка, яке [відбудеться](https://mpz.brovary.org/25-veresnya-narodniy-deputat-pavlo-rizanenko-zvituvatime-pered-brovarchanami/) сьогодні, 25 вересня, з 17:30 до 19:30. У режимі реального часу за звітуванням можна буде спостерігати на нашому [ustream-каналі](http://www.ustream.tv/channel/pravoznaty) або у [розділі "Онлайн-трансляції"](https://mpz.brovary.org/online) на сайті.**

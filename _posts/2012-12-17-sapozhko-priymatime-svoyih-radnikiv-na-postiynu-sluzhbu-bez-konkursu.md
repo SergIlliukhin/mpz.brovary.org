@@ -15,6 +15,7 @@ tags:
   - "sapozhko"
   - "sdobnyakova"
   - "shokun"
+coverImage: "wp-content/uploads/2012/12/DSC_1507.jpg"
 ---
 
 **[![](https://mpz.brovary.org/wp-content/uploads/2012/12/DSC_1507.jpg "DSC_1507")](https://mpz.brovary.org/wp-content/uploads/2012/12/DSC_1507.jpg)Броварський виконком нарешті визначив порядок прийняття на службу радників мера, їх права та коло повноважень: на засіданні 11 грудня рішенням № [569](http://docs.pravo-znaty.org.ua/p6228/11.12.2012/569) члени виконкому затвердили «Положення [про радника міського голови Броварської міської ради](http://docs.pravo-znaty.org.ua/f?u=https%3A%2F%2Fskydrive.live.com%2Fredir%3Fresid%3D72571393D4771099!159%26amp%3Bauthkey%3D!ANdBhI-qYmx7qYc)».**

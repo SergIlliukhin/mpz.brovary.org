@@ -13,6 +13,7 @@ tags:
   - "novini"
   - "spozhivach-maye-pravo"
   - "feysbuk"
+coverImage: "wp-content/uploads/2013/08/Logo-golovne.jpg"
 ---
 
 [![Лого головне](https://mpz.brovary.org/wp-content/uploads/2013/08/Logo-golovne.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/08/Logo-golovne.jpg)**За час існування рубрики "[Споживач має право](https://mpz.brovary.org/mayesh-pravo-znati-zapochatkovuye-novu-rubriku-spozhivach-maye-pravo/)" на її "гарячу електронну скриньку" надійшло чимало листів від наших читачів з проханнями допомогти розібратись у тій чи іншій ситуації, пов'язаній із захистом прав споживачів. І хоч дана рубрика була розрахована насамперед на броварського споживача, ми отримували листи від людей з різних куточків України. На кожне звернення ми намагалися дати вичерпні відповіді з порадами та роз'ясненнями у листах, а типові та показові випадки і ситуації щодо захисту споживацьких прав броварчан ми висвітлювали в [окремих статтях](https://mpz.brovary.org/tag/spozhivach-maye-pravo/).**

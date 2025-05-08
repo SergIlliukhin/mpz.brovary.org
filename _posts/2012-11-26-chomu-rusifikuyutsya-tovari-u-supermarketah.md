@@ -19,6 +19,7 @@ tags:
   - "spozhivach"
   - "supermarket"
   - "tovar"
+coverImage: "wp-content/uploads/2012/11/supermarket.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/11/supermarket.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/11/supermarket.jpg)Останнім часом на полицях супермаркетів стало з’являтися все більше товарів з російськомовними надписами. Така тенденція дещо насторожує, особливо зважаючи на нещодавнє cкандальне прийняття Закону «Про засади державної мовної політики». Тому я вирішив дослідити продукцію броварських супермаркетах на предмет належного маркування виробів.

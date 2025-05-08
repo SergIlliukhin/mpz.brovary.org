@@ -32,6 +32,7 @@ tags:
   - "fedorenko"
   - "tsvk"
   - "tsentralna-viborcha-komisiya"
+coverImage: "wp-content/uploads/2014/10/col1.jpg"
 ---
 
 **[![col1](https://mpz.brovary.org/wp-content/uploads/2014/10/col1.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/10/col1.jpg)Нарешті завершився термін для реєстрації кандидатів-мажоритарників по всій країні: тих претендентів на мандат, які не пішли за виборчими списками партій, а боротимуться за місце в парламенті віч-на-віч з конкурентами.**

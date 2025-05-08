@@ -14,6 +14,7 @@ tags:
   - "den-zahistu-ditey"
   - "novini"
   - "programa-svyatkuvannya"
+coverImage: "wp-content/uploads/2014/03/diti-proti-viyni21.jpg"
 ---
 
 **[![діти проти війни21](https://mpz.brovary.org/wp-content/uploads/2014/03/diti-proti-viyni21.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/03/diti-proti-viyni21.jpg)У День захисту дітей, 1 червня, у Броварах планується [насичена програма ігор та розваг](http://docs.pravo-znaty.org.ua/p12085/28.05.2014): конкурс малюнку, веселі старти, лялькова вистава, благодійна акція, виставка домашніх улюбленців, святкові концерти та акція "Морозиво у подарунок". Заходи відбуватимуться у п'яти локаціях - у парку "Перемога", на Майдані Свободи, у парку ім. Т. Шевеченка, в "Прометеї" та у сквері "Юність" на Короленка.**

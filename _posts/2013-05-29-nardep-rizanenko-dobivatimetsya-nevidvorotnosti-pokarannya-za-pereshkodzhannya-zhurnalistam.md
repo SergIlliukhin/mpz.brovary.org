@@ -14,6 +14,7 @@ tags:
   - "rizanenko"
   - "krivaviy-subotnik"
   - "tisk-na-zhurnalistiv"
+coverImage: "wp-content/uploads/2013/05/Rizanenko-na-aktsiyi-u-parku.jpg"
 ---
 
 **[![Різаненко на акції у парку](https://mpz.brovary.org/wp-content/uploads/2013/05/Rizanenko-na-aktsiyi-u-parku.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/05/Rizanenko-na-aktsiyi-u-parku.jpg)Нині вкрай важливо створити прецедент невідворотності покарання за побиття журналістів та перешкоджання їх професійній діяльності. Про це, як [повідомляє прес-служба депутата](http://rizanenko.org/rizanenko-neobhidno-stvoryty-pretsedent-nevidvorotnosti-pokarannya-za-pereshkodzhannya-zhurnalistskij-diyalnosti.html), заявив народний депутат від “УДАРу” Павло Різаненко в ефірі ТВі.** Він зауважив,  що сповідування законів – це не те, коли чітко прописані закони, а те, коли є невідворотність покарання за будь-який злочин чи порушення.

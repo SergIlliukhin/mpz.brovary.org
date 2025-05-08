@@ -11,6 +11,7 @@ tags:
   - "novini"
   - "obgovorennya"
   - "plan-teritoriy"
+coverImage: "wp-content/uploads/2012/07/Projects.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/07/Projects.jpg "Проекти")](https://mpz.brovary.org/wp-content/uploads/2012/07/Projects.jpg)На сайті Броварської міської ради оприлюднено 4 нові проекти містобудівної документації для врахування громадських інтересів під час їх розробки.

@@ -13,6 +13,7 @@ tags:
   - "tisk-vladi"
   - "hosting"
   - "hosting-ukrayina"
+coverImage: "wp-content/uploads/2012/08/1274566126_CAEEEBFEF7E0FF20EFF0EEE2EEEBEEEAE0203031.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/08/1274566126_CAEEEBFEF7E0FF20EFF0EEE2EEEBEEEAE0203031.jpg "Хостинг Україна")](https://mpz.brovary.org/wp-content/uploads/2012/08/1274566126_CAEEEBFEF7E0FF20EFF0EEE2EEEBEEEAE0203031.jpg)**Хостингова компанія в односторонньому порядку відмовилась від подальшої співпраці з сайтом "Маєш Право Знати". Задля безпеки даних ресурс змушений залишити межі України.**

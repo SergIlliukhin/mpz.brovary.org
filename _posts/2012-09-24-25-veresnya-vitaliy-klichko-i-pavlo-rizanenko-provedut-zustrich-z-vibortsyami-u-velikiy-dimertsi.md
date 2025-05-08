@@ -14,6 +14,7 @@ tags:
   - "okrug-97"
   - "rizanenko"
   - "udar"
+coverImage: "wp-content/uploads/2012/09/Klichko-Rizanenko.jpg"
 ---
 
 ![](http://groza.org/wp-content/uploads/2012/09/udar-dymerka.gif)25 вересня, об 11:00 у смт. Велика Димерка **Віталій Кличко** і кандидат в народні депутати від партії "УДАР" **Павло Різаненко** проведуть зустріч з виборцями.

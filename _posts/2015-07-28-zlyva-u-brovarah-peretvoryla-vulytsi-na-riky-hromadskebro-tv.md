@@ -12,6 +12,7 @@ tags:
   - "brovary"
   - "gromadske-telebachennya"
   - "zliva"
+coverImage: "wp-content/uploads/2015/07/zlyva.jpg"
 ---
 
 

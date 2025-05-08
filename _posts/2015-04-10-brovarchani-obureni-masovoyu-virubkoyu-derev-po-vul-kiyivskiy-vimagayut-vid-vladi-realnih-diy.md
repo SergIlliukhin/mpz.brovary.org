@@ -13,6 +13,7 @@ tags:
   - "virubka-derev"
   - "vulitsya-kiyivska"
   - "novini"
+coverImage: "wp-content/uploads/2015/03/07D_3386.jpg"
 ---
 
 [![вирубка_дерев_київська_9](https://mpz.brovary.org/wp-content/uploads/2015/03/07D_3386.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/03/07D_3386.jpg)**[Історія з вирубкою дерев](https://mpz.brovary.org/dereva-na-vul-kiyivskiy-prodovzhuyut-spilyuvati-pid-avtomiyku/) по вул. Київській навпроти ТРЦ «Термінал» триває. На особистий прийом міського голови, 8 квітня у ЗОШ №2 прийшли представники ГО «Броварський народний контроль» разом з ініціативною групою мешканців будинків, які розташовані поряд із зеленою зоною, що знищується. Люди подали колективне звернення, підписане 25 особами.**

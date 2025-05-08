@@ -13,6 +13,7 @@ tags:
   - "garyache-vodopostachannya"
   - "novini"
   - "tarifi"
+coverImage: "wp-content/uploads/2014/08/voda-1.jpg"
 ---
 
 **[![вода 1](https://mpz.brovary.org/wp-content/uploads/2014/08/voda-1.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/08/voda-1.jpg)8 травня в домівках броварчан нарешті має з'явитися гаряча вода. Але коштуватиме послуга з підігріву води на 60 % дорожче, ніж було дотепер - по 39,38 грн/куб. Про це журналістів "Маєш право знати" повідомили працівники КП "Броваритепловодоенергія".**

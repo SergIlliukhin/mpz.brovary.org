@@ -23,6 +23,7 @@ tags:
   - "novini"
   - "taktichna-meditsina"
   - "teritorialna-oborona"
+coverImage: "wp-content/uploads/2015/03/DSC_2755.jpg"
 ---
 
 **[![DSC_2755](https://mpz.brovary.org/wp-content/uploads/2015/03/DSC_2755.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/03/DSC_2755.jpg)Незважаючи на те, що війна в Україні триває вже понад рік, далеко не всі наші співгромадяни – і навіть не всі чоловіки – встигли за цей час навчитись елементарно користуватися зброєю.**

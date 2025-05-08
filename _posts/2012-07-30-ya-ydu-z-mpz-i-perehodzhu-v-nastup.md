@@ -12,6 +12,7 @@ tags:
   - "kachor"
   - "nastup"
   - "tisk-na-zhurnalistiv"
+coverImage: "wp-content/uploads/2012/07/kachor.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/07/1309251452.jpg "1309251452")](https://mpz.brovary.org/wp-content/uploads/2012/07/1309251452.jpg)Останні епізоди моєї діяльності як журналіста та громадського активіста змусили  задуматись над ефективністю своїх дій.

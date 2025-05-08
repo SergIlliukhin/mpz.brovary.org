@@ -11,6 +11,7 @@ tags:
   - "gu-mvs-ukrayini-u-kiyivskiy-oblasti"
   - "novini"
   - "trts-terminal"
+coverImage: "wp-content/uploads/2015/04/title_14.png"
 ---
 
 [![title_14](https://mpz.brovary.org/wp-content/uploads/2015/04/title_14.png)](https://mpz.brovary.org/wp-content/uploads/2015/04/title_14.png)**[Офіційний веб-сайт головного управління МВС України в Київській області](http://www.mvs.gov.ua/mvs/control/kyivska/uk/publish/article/155173;jsessionid=73661FB0DF27D98EB5EDCD3CCC2D9C40) інформує, що в Броварах закрито два підпільних гральних заклади.**

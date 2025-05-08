@@ -15,6 +15,7 @@ tags:
   - "park-peremoga"
   - "politsiya"
   - "politsiya-kyyivskoyi-oblasti"
+coverImage: "wp-content/uploads/2016/09/14141548_513460208864592_7548051736731998948_n.jpg"
 ---
 
 * * *

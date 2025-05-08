@@ -18,6 +18,7 @@ tags:
   - "petytsiyi"
   - "servis-petytsij"
   - "fontan"
+coverImage: "wp-content/uploads/2017/08/11_32.jpg"
 ---
 
 **З травня у нашому місті [працює](https://mpz.brovary.org/u-brovarah-zapratsyuvaly-elektronni-petytsiyi-lider-nabrav-65-golosiv-za-dobu/) офіційний сервіс електронних петицій від Броварської міської ради. З того часу [дві петиції](https://petition.brovary-rada.gov.ua/petitions/?tp=3&cn=-1) вже отримали достатню кількость голосів (250) та були розглянуті міською владою: про облаштування кругового руху на вулиці Київській та про зупинку будівництва автомийок та АЗС. Ще 5 петицій набрали більше чверті потрібних голосів.**

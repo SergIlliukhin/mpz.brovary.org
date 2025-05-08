@@ -13,6 +13,7 @@ tags:
   - "brovarska-miska-rada"
   - "novini"
   - "sklikannya-sesiyi"
+coverImage: "wp-content/uploads/2012/07/gerb-Brovari.jpg"
 ---
 
 **[![герб Бровари](https://mpz.brovary.org/wp-content/uploads/2012/07/gerb-Brovari.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/07/gerb-Brovari.jpg)21 травня 2015 року о 14:00 у приміщенні малої зали броварського міськвиконкому (вул. Гагаріна, 15) відбудеться п’ятдесят четверта чергова сесія Броварської міської ради VІ скликання. Відповідне розпорядження міського голови опубліковано [на офіційному веб-сайті міськради.](http://www.brovary.kiev.ua/rozporyadzhennya-m%D1%96skogo-golovi-v%D1%96d-20042015-%E2%84%9664-od-pro-sklikannya-p%E2%80%99yatdesyat-chetverto%D1%97-chergovo%D1%97)**

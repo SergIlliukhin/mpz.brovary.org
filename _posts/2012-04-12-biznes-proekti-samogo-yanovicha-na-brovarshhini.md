@@ -11,6 +11,7 @@ tags:
   - "brovary"
   - "varta"
   - "zelena-energiya"
+coverImage: "wp-content/uploads/2012/04/vlada.jpg"
 ---
 
 Влада інтенсивно підгрібає під себе фінансові ресурси, землю, надра. От і на Броварщині та сама пошесть.

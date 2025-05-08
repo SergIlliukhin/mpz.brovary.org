@@ -13,6 +13,7 @@ tags:
   - "brovary"
   - "miskrada"
   - "novini"
+coverImage: "wp-content/uploads/2016/07/1762-e1467882865546.jpg"
 ---
 
 **Про скликання чергової 16-ї сесії Броварської міської ради у сьогоднішньому** [розпорядженн](http://brovary.kiev.ua/rozporyadzhennya-m%D1%96skogo-golovi-v%D1%96d-07072016%E2%84%96163-odpro-sklikannya-sh%D1%96stnadtsyato%D1%97-chergovo%D1%97-ses%D1%96%D1%97-br)[і](http://brovary.kiev.ua/rozporyadzhennya-m%D1%96skogo-golovi-v%D1%96d-07072016%E2%84%96163-odpro-sklikannya-sh%D1%96stnadtsyato%D1%97-chergovo%D1%97-ses%D1%96%D1%97-br) **повідомив міський голова на офіційному сайті міськради. У порядок денний засідання включено 59 питань і розділ "Різне".**

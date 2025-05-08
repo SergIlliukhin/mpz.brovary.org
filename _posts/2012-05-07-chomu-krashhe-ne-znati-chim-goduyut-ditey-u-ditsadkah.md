@@ -12,6 +12,7 @@ tags:
   - "onyshhenko"
   - "tenderi"
   - "harchuvannya"
+coverImage: "wp-content/uploads/2012/05/Children_Eating_Toby_Talbot1.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/05/Children_Eating_Toby_Talbot1.jpg "Дитяче харчування")](https://mpz.brovary.org/wp-content/uploads/2012/05/Children_Eating_Toby_Talbot1.jpg)Вже кілька місяців журналісти МПЗ намагаються отримати від управління освіти інформацію про використання бюджетних коштів та про харчування дітей у дошкільних навчальних закладах.

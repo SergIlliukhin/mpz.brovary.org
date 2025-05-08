@@ -13,6 +13,7 @@ tags:
   - "militsiya"
   - "mv"
   - "novini"
+coverImage: "wp-content/uploads/2015/01/Gromadska-rada-pri-MV-DSC_0815.jpg"
 ---
 
 **[![Громадська рада при МВ DSC_0815](https://mpz.brovary.org/wp-content/uploads/2015/01/Gromadska-rada-pri-MV-DSC_0815.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/01/Gromadska-rada-pri-MV-DSC_0815.jpg)Від якості роботи правоохоронних органів залежить, чи працюватимуть у нашій країни закони та чи почуватиметься кожен громадянин захищеним. Майже рік тому броварчани, вкрай незадоволені роботою місцевої міліції, [відправили у відставку](https://mpz.brovary.org/nachalnik-brovarskoyi-militsiyi-napisav-raport-na-zvilnennya-cherez-nedoviru-samooboroni/) начальника відділку Сергія Семікопа. Після цього [через процедуру обговорення](https://mpz.brovary.org/mvs-kiyivshhini-raditimetsya-z-gromadskistyu-shhodo-novogo-kerivnitstva-brovarskoyi-militsiyi/) громада майже півроку добирала нового очільника. Кандидата, який [врешті й очолив МВ](https://mpz.brovary.org/u-brovarah-noviy-prokuror-ta-nachalnik-militsiyi-gromada-zaproshuye-yih-na-dialog/), Миколу Клименка попередили одразу – громадськість здійснюватиме пильний контроль за роботою правоохоронців. На виконання своєї обіцянки активісти нещодавно створили Громадську ради при МВ й обрали її головою відомого броварського журналіста, який неодноразово критикував у своїх публікаціях роботу міліціянтів, - Андрія Качора.**

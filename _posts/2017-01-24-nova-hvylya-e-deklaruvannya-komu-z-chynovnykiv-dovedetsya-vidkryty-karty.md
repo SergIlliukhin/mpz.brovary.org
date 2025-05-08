@@ -14,6 +14,7 @@ tags:
   - "nazk"
   - "novini"
   - "finansy"
+coverImage: "wp-content/uploads/2017/01/dekl.jpg"
 ---
 
 **Із 1 січня по 1 квітня 2017 року в Україні триває [друга хвиля е-декларацій](http://www.pravda.com.ua/articles/2017/01/25/7133354/), цього разу подати їх доведеться значно ширшому колу суб'єктів. Про це [повідомляє](https://nazk.gov.ua/news/nazk-z-1-sichnya-2017-roku-znachno-rozshyrytsya-kolo-subyektiv-e-deklaruvannya) Національне агентство з питань запобігання корупції_._ У той же час, за [даними](https://nazk.gov.ua/news/ruslan-radeckyy-rozpochalas-druga-hvylya-e-deklaruvannya) НАЗК, деякі посадові особи наразі звільнені від подання декларацій, зокрема директори шкіл. Нагадаємо, строк подання декларацій першої хвилі закінчився 31 жовтня 2016 року. Тоді свої декларації за 2015 рік оприлюднили: міський голова Броварів [Ігор Сапожко](https://mpz.brovary.org/e-deklaratsiya-sapozhka-groshi-zhytlo-zemelni-dilyanky-majzhe-vse-vlasnist-druzhyny/), броварські [судді](https://mpz.brovary.org/e-deklaratsiyi-11-brovarskyh-sudej/) та [прокурори](https://mpz.brovary.org/e-deklaratsiyi-brovarskyh-prokuroriv-svoyi-pomeshkannya-j-avtivky-mayut-ne-vsi/).**

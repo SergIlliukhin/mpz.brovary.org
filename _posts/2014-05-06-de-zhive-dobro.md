@@ -10,6 +10,7 @@ tags:
   - "gimnaziya-imeni-oliynika"
   - "diti-dlya-ditey"
   - "zeelandiya"
+coverImage: "wp-content/uploads/2014/05/gimnaziya-10.jpg"
 ---
 
 [![гімназія 17](https://mpz.brovary.org/wp-content/uploads/2014/05/gimnaziya-17.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/05/gimnaziya-17.jpg)

@@ -12,6 +12,7 @@ tags:
   - "novini"
   - "park-sosnovyj"
   - "stop-budivnytstvu-na-symonenka-chornovola"
+coverImage: "wp-content/uploads/2016/11/header222.jpg"
 ---
 
 **У листопаді у Броварах відбудуться громадські слухання щодо збереження Парку Сосновий.**

@@ -14,6 +14,7 @@ tags:
   - "sapozhko"
   - "separatisti"
   - "teroristi"
+coverImage: "wp-content/uploads/2014/05/zvernennya-sapozhku02.jpg"
 ---
 
  **[![Щодо 9 травня 4](https://mpz.brovary.org/wp-content/uploads/2014/05/SHHodo-9-travnya-4.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/05/SHHodo-9-travnya-4.jpg) Вранці 6 травня активісти Броварської Народної Ради здійснили візит до міського голови Ігоря Сапожка, під час якого передали броварському меру звернення БНР з приводу цьогорічного відзначення завершення Другої світової війни в Україні.**

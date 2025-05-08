@@ -11,6 +11,7 @@ tags:
   - "vibir-redaktsiyi"
   - "lantsyug-yednannya"
   - "novini"
+coverImage: "wp-content/uploads/2014/04/UKR_A4_print.jpg"
 ---
 
 **[![UKR_A4_print](https://mpz.brovary.org/wp-content/uploads/2014/04/UKR_A4_print.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/04/UKR_A4_print.jpg)Цієї суботи, 12 квітня, о 12:00 біля зупинки "Порошинка" оголошено збір для броварчан, які хочуть долучитись до всеукраїнського Ланцюга єднання. Учасників акції закликають брати з собою українську символіку та приходити на вул. Гагаріна.**

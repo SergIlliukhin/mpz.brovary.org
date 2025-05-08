@@ -11,6 +11,7 @@ tags:
   - "vibori-2012"
   - "kravets"
   - "novini"
+coverImage: "wp-content/uploads/2012/12/collage-2.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/12/collage-2.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/12/collage-2.jpg)**Олег Іваненко та Юрій Кравець не надали до Центральної виборчої комісії звіти про надходження та використання коштів виборчого фонду кандидата у народні депутати України** - про це журналістам "Маєш право знати" повідомила секретар ЦВК Тетяна Лукаш.

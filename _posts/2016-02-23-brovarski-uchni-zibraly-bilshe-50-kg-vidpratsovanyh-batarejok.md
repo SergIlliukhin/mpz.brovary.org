@@ -6,6 +6,7 @@ author:
   display_name: "Бровари Вторма"
 categories: 
   - "kolonka-avtora"
+coverImage: "wp-content/uploads/2016/02/be96d2e089c5215955da500c9c2ee273c4d15c59e1650daf01244fbe87a80164.jpg"
 ---
 
 Не секрет, що потрапляючи в навколишнє середовище, **одна пальчикова батарейка** забруднює **20 м² ґрунту** або **400 літрів води**, ну і, як відомо – **вбиває одного їжака**. Три місяці тому компанія «[Бровари Вторма](http://www.vtorma.ua)» [встановила у школах м.Бровари](http://www.vtorma.ua/news/konteyneri-dlya-zboru-vtorinnoyi-sitorini-vidprats-10.html) контейнери для збору відпрацьованих батарейок та акумуляторів.

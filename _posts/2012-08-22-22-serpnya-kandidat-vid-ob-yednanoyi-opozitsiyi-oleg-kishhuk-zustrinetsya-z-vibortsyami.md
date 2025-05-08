@@ -13,6 +13,7 @@ tags:
   - "zustrich-z-vibortsyami"
   - "kandidat-u-narodni-deputati"
   - "kishhuk"
+coverImage: "wp-content/uploads/2012/08/Kishhuk-kandidat-2012.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/08/Kishhuk-kandidat-2012.jpg "Кищук кандидат 2012")](https://mpz.brovary.org/wp-content/uploads/2012/08/Kishhuk-kandidat-2012.jpg)22 серпня о 17:00 на броварському майдані Свободи напроти приміщення Броварської районної державної адміністрації відбудеться зустріч з кандидатом від Об’єднаної опозиції ВО «Батьківщина» в 97 виборчому окрузі Олегом Кищуком та народним депутатом України Борисом Тарасюком. Про це «Маєш право знати» повідомили організатори зустрічі.

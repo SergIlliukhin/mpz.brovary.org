@@ -13,6 +13,7 @@ tags:
   - "vibir-redaktsiyi"
   - "galina-krushelnitska"
   - "novini"
+coverImage: "wp-content/uploads/2015/06/velozmag-20.jpg"
 ---
 
 **У суботу, 30 травня, в броварському лісництві відбувся [відкритий чемпіонат з велокросу для школярів](https://mpz.brovary.org/u-brovarskomu-lisi-proyde-vidkritiy-chempionat-z-veloperegoniv-kros-kantri-mtb-sered-shkolyariv/). Невтомні велоорганізатори - Борис Слюсар та Галина Крушельницька - вже кілька років поспіль проводять змагання для дорослих [«Броварські дюни»](https://mpz.brovary.org/na-den-mista-velosipedisti-pidkoryuvatimut-brovarski-dyuni/), а от змагання для дітей — уперше. І судячи із задоволених облич юних спортсменів та їхніх батьків — дуже вдало.**

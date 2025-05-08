@@ -13,6 +13,7 @@ tags:
   - "novini"
   - "prezentatsiya-knigi"
   - "chomu-gruziyi-vdalosya"
+coverImage: "wp-content/uploads/2012/10/Gruziya.png"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/10/Gruziya.png "Грузія")](https://mpz.brovary.org/wp-content/uploads/2012/10/Gruziya.png)У середу, 3 жовтня, о 17:00 у Броварах відбудеться презентація україномовного видання книги Лариси Буракової «**Чому Грузії вдалося**». Про це "Маєш право знати" повідомили організатори зустрічі.

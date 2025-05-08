@@ -19,6 +19,7 @@ tags:
   - "simutin"
   - "sapozhko"
   - "sesiya"
+coverImage: "wp-content/uploads/2015/01/krugliy-stil-18.jpg"
 ---
 
 **[![krugliy-stil-18](https://mpz.brovary.org/wp-content/uploads/2015/01/krugliy-stil-18.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/01/krugliy-stil-18.jpg)Дане звернення броварські депутати направили також у Євросоюз, ПАРЄ, ОБСЄ, ГУАМ та в парламенти держав світу.**

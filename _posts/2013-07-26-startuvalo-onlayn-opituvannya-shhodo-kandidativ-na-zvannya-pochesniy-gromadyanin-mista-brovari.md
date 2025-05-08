@@ -14,6 +14,7 @@ tags:
   - "pochesniy-gromadyanin"
   - "pochesniy-gromadyanin-mista-brovari"
   - "prisvoyennya-zvannya"
+coverImage: "wp-content/uploads/2012/09/Sotsdoslidzhennya.jpg"
 ---
 
 **[![Соцдослідження](https://mpz.brovary.org/wp-content/uploads/2012/09/Sotsdoslidzhennya.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/09/Sotsdoslidzhennya.jpg)На сайті Броварської міської ради сьогодні стартувало [онлайн-опитування](http://www.brovary.kiev.ua/opituvannya) з приводу того, кому у цьому році, на думку громадян, варто присвоїти звання «Почесний громадянин міста Бровари».** На громадське обговорення винесено три кандидатури: [Зотов Володимир Ілліч](http://docs.pravo-znaty.org.ua/p8497/22.08.2013), [Прудка Лідія Олексіївна](http://docs.pravo-znaty.org.ua/p8471/22.08.2013) та [Юрченко Микола Свиридович](http://docs.pravo-znaty.org.ua/p8498/22.08.2013). Також учасники онлайн-опитування можуть обрати варіант "_не присвоювати звання жодному з кандидатів_".

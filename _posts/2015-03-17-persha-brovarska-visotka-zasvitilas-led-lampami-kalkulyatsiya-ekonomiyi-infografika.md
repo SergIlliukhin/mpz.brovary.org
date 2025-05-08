@@ -13,6 +13,7 @@ tags:
   - "novini"
   - "osbb"
   - "simonenka-2a"
+coverImage: "wp-content/uploads/2015/03/Zamina-2.png"
 ---
 
 **[![infografics_light_4](https://mpz.brovary.org/wp-content/uploads/2015/03/infografics_light_4.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/03/infografics_light_4.jpg)У листопаді минулого року перша броварська висотка по - будинок 2-А по вул. Симоненка (ЖК «Купава») засвітилась енергозберігаючими LED-лампочками. Ми вирішили дізнатись, що спонукало мешканців до заміни ламп та чи здійснились їх сподівання.**

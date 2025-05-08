@@ -13,6 +13,7 @@ tags:
   - "kp-brovariteplovodoenergiya"
   - "novini"
   - "ogoloshennya"
+coverImage: "wp-content/uploads/2014/10/vanna.jpg"
 ---
 
 **[![ванна](https://mpz.brovary.org/wp-content/uploads/2014/10/vanna.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/10/vanna.jpg)Після перерви на місяць у Броварах відновили централізоване гаряче водопостачання. Як і в серпні, гарячу воду у міських багатоповерхівках подаватимуть чотири дні на тиждень - з четверга по неділю.** 

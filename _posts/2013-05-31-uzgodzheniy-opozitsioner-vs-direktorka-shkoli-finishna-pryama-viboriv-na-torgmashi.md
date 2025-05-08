@@ -17,6 +17,7 @@ tags:
   - "promizhni-vibori"
   - "tehnichni-kandidati"
   - "torgmash"
+coverImage: "wp-content/uploads/2013/05/Opalko-Melnik.png"
 ---
 
 [![Опалько Мельник](https://mpz.brovary.org/wp-content/uploads/2013/05/Opalko-Melnik.png)](https://mpz.brovary.org/wp-content/uploads/2013/05/Opalko-Melnik.png)**Через 2 дні у Броварах [відбудуться вибори](https://mpz.brovary.org/zaminu-rizanenku-zhiteli-torgmashu-obiratimut-na-pochatku-lita/). Мешканці вул. Олімпійської, що на Торгмаші, обиратимуть свого представника у Броварській міській раді – замість Павла Різаненка, який минулої осені став депутатом Верховної Ради України. З [семи кандидатів](https://mpz.brovary.org/u-viborah-na-torgmashi-z-23-pretendentiv-na-krislo-u-miskiy-radi-berut-uchast-lishe-semero/), чиї прізвища будуть зазначені у виборчому бюлетені, за нашими спостереженнями активну агітаційну кампанію вели лише двоє – директорка школи № 2 Оксана Мельник (партія «Єдність») та висуванець від об’єднаної опозиції Володимир Опалько (партія «Батьківщина»). Напередодні «дня тиші» ми вирішили проаналізувати, які інструменти використовували обидва претенденти у боротьбі за голоси виборців та як це може відобразитися на їхніх шансах на перемогу.**

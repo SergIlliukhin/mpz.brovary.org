@@ -11,6 +11,7 @@ tags:
   - "vbivstvo"
   - "novini"
   - "soldat"
+coverImage: "wp-content/uploads/2014/01/Viyskova-chastina.png"
 ---
 
 **[![Військова частина](https://mpz.brovary.org/wp-content/uploads/2014/01/Viyskova-chastina.png)](https://mpz.brovary.org/wp-content/uploads/2014/01/Viyskova-chastina.png)У Броварах загинув солдат-контрактник. Тіло старшого сержанта із розбитою головою знайшли у казармі. Характер травми свідчить про те, що його вдарили по голові важким предметом, ймовірно, саморобною штангою. Про це йдеться в [сюжеті телеканалу "Інтер"](http://podrobnosti.ua/podrobnosti/2014/01/17/953381.html).**

@@ -17,6 +17,7 @@ tags:
   - "reyestratsiya-kandidativ"
   - "tsvk"
   - "tsentralna-viborcha-komisiya"
+coverImage: "wp-content/uploads/2014/09/kishhuk1.jpg"
 ---
 
 **[![kishhuk](https://mpz.brovary.org/wp-content/uploads/2014/09/kishhuk1.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/09/kishhuk1.jpg)Рух ЧЕСНО зробив попередній аналіз кандидатів у  народні депутати України та закликає лідерів  політичних сил не висувати або зняти з участі у виборах тих кандидатів у народні депутати, які за даними журналістських розслідувань були причетні до корупційних справ та/або голосували за «диктаторські закони» 16 січня.**

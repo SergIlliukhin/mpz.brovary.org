@@ -15,6 +15,7 @@ tags:
   - "novini"
   - "programa-svyatkuvannya"
   - "svyatkuvannya"
+coverImage: "wp-content/uploads/2013/06/Den-molodi.jpg"
 ---
 
 [![День молоді](https://mpz.brovary.org/wp-content/uploads/2013/06/Den-molodi.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/06/Den-molodi.jpg)На сайті Броварської міської ради опубліковано [Програму](http://docs.pravo-znaty.org.ua/p7943/25.06.2013) [святкування Дня молоді  у Броварах](http://docs.pravo-znaty.org.ua/p7943/25.06.2013), який відзначатиметься у неділю, 30 червня. У цей день броварську молодь запрошують на Майдан Свободи, де будуть проведені спортивні, інформаційно-пропагандистські та розважальні заходи, а також відбудеться нагородження кращих представників молоді міста преміями міського голови.

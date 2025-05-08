@@ -14,6 +14,7 @@ tags:
   - "novini"
   - "rishennya-vikonkomu"
   - "skasuvannya-rishennya"
+coverImage: "wp-content/uploads/2012/11/Tablichka-vikonkomu-2.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/11/Tablichka-vikonkomu-2.jpg "Табличка виконкому 2")](https://mpz.brovary.org/wp-content/uploads/2012/11/Tablichka-vikonkomu-2.jpg)Броварський виконком [скасував три власних рішення](http://brovary.kiev.ua/rіshennya-vikonavchogo-komіtetu-445), які під час парламентських виборів у 97 виборчому окрузі використовувались насамперед для боротьби з опозиційними політичними силами та кандидатами: для примусового демонтажу агітаційних наметів та заборони зустрічей з виборцями у центрі міста.

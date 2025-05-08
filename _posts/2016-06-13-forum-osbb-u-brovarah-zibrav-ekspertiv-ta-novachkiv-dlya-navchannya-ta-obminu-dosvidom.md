@@ -20,6 +20,7 @@ tags:
   - "trening"
   - "forum-osbb"
   - "tsentr-pidtrymky-osbb-da-shkola-osbb-andriya-sauka"
+coverImage: "wp-content/uploads/2016/06/Forum-OSBB-1.jpg"
 ---
 
 **Більше 200 відвідувачів, більше 20 лекторів з усієї України, 2 локації, 7 годин безперервної роботи - це все [Форум ОСББ Києва та Київської області](http://forum-osbb.brovary.org/), що відбувся в Броварах минулої суботи, 11 червня. [Захід](https://mpz.brovary.org/anons-11-chervnya-u-brovarah-vidbudetsya-oblasnyj-forum-osbb/) був корисний як для новачків, що тільки збираються організовувати ОСББ, так і для досвідчених членів таких об'єднань. Організаторами Форуму виступили: Школа ОСББ Андрія Саука, Центр підтримки ОСББ ДА, Kyiv Urban Fest, за підтримки ЖК "Scandia".**

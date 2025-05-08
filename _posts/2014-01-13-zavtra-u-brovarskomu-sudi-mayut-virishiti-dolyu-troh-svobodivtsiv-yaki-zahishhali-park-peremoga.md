@@ -12,6 +12,7 @@ tags:
   - "vo-svoboda"
   - "park-peremoga"
   - "sud"
+coverImage: "wp-content/uploads/2012/07/Brovarskiy-miskrayonniy-sud.jpg"
 ---
 
 **[![патріоти](https://mpz.brovary.org/wp-content/uploads/2014/01/patrioti.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/01/patrioti.jpg)У вівторок, 14 cічня, у Броварському міськрайонному суді відбудеться одне з вирішальних засідань у справі трьох свободівців - Олега Шевчука, Миколи Смірнова та Руслана Ткаченка. Хлопцям, які захищали центральний парк міста від незаконної забудови, інкримінують ч. 2 ст. 296 - хуліганство, вчинене групою осіб.**

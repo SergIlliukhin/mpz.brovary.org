@@ -14,6 +14,7 @@ tags:
   - "styagov"
   - "sud"
   - "krivaviy-subotnik"
+coverImage: "wp-content/uploads/2013/09/Styagov-sud.jpg"
 ---
 
 \[caption id="attachment\_20603" align="alignleft" width="300"\][![DSC_1091](https://mpz.brovary.org/wp-content/uploads/2013/09/DSC_1091.jpg "Обвинувачуваний Сергій Стягов та його адвокат Жанна Гусейнова")](https://mpz.brovary.org/wp-content/uploads/2013/09/DSC_1091.jpg) Обвинувачуваний Сергій Стягов та його адвокат Жанна Гусейнова\[/caption\]

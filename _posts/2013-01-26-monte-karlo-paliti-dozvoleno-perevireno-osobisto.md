@@ -11,6 +11,7 @@ tags:
   - "monte-karlo"
   - "palinnya"
   - "perevirka"
+coverImage: "wp-content/uploads/2013/01/IMG_20130126_160637.jpg"
 ---
 
 [![Monte karlo](https://mpz.brovary.org/wp-content/uploads/2012/10/Monte-karlo.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/10/Monte-karlo.jpg)Останні кілька днів від кількох друзів я отримував інформацію, що у ресторані **"Монте Карло"** _(хоча ресторан - це якось занадто пишно, як для такого генделика)_ нарешті ніби-то обмежели паління. Ну що ж, це добре! - подумав я і вирішив перевірити особисто.

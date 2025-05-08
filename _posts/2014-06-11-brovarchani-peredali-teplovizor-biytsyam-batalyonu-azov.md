@@ -13,6 +13,7 @@ tags:
   - "novini"
   - "smert-teroristam"
   - "teplovizor"
+coverImage: "wp-content/uploads/2014/06/teplovizor-2.jpg"
 ---
 
 **[![тепловізор (2)](https://mpz.brovary.org/wp-content/uploads/2014/06/teplovizor-2.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/06/teplovizor-2.jpg)Вже два тижні бійці батальйону «Азов», які воюють із терористами під Маріуполем, користуються новим тепловізором. Це незамінна річ, за допомогою якої можна в умовах повної темряви на відстані відслідковувати противника, з'явилась в "Азову" завдяки броварській громаді.**

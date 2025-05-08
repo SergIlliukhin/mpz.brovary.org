@@ -14,6 +14,7 @@ tags:
   - "mkts-prometej"
   - "novini"
   - "polske-kulturno-osvitnye-tovaristvo"
+coverImage: "wp-content/uploads/2016/12/dNI-KINO-flaer-e1481024034559.jpg"
 ---
 
 **З 9 по 11 грудня в броварському МКЦ "Прометей" відбудеться показ польського кіно. Захід пройде за сприяння Міністерства закордонних справ Польщі. На глядачів чекає показ трьох польських кінокартин. Вхід вільний. Про це зазначено в [оголошенні](http://www.kulturabr.kiev.ua/afisha/mkc-prometey/dni-polskogo-kino-u-brovarah) на сайті Броварського міського відділу культури.**

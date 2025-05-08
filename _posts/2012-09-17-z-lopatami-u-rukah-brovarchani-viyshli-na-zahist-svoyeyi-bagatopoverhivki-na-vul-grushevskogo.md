@@ -11,6 +11,7 @@ tags:
   - "grushevskogo"
   - "novini"
   - "tov-zhek-40"
+coverImage: "wp-content/uploads/2012/09/Pochatok-budivnitstva.jpg"
 ---
 
 **_[![](https://mpz.brovary.org/wp-content/uploads/2012/09/Spilniy-dvir-19-ta-21-budinku-po-vul-Grushevskogo.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/09/Spilniy-dvir-19-ta-21-budinku-po-vul-Grushevskogo.jpg)_Неабияку тревогу у мешканців будинку по вулиці Михайла Грушевського, 19 викликало відкриття дитячого кафе на нежитловому цокольному поверсі багатоповерхівки. Власне стурбував не так факт відкриття кафе, як те, що зовнішній вхід до нього власник закладу зібрався робити фактично через фундамент дев’ятиповерхівки.**

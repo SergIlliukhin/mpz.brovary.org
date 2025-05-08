@@ -19,6 +19,7 @@ tags:
   - "orts"
   - "proekt-rishennya"
   - "sesiya"
+coverImage: "wp-content/uploads/2017/05/orc1.jpg"
 ---
 
 **Сьогодні під час засідання 28-ї чергової сесії Броварської міської ради на голосування було винесене питання щодо виділення 780 тисяч гривень КП "Оздоровчо-реабілітаційний центр". Нагадаємо, перший варіант програми фінансування КП передбачав [3,2 млн грн](https://mpz.brovary.org/kp-orts-znovu-potribni-groshi-3-2-mln-grn-shho-vyrishat-deputaty/), а зміни виникли на останньому засіданні бюджетної комісії [5 травня](https://mpz.brovary.org/byudzhetna-komisiya-progolosuvala-za-nadannya-kp-orts-780-tysyach-gryven/).**

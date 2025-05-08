@@ -10,6 +10,7 @@ tags:
   - "novini"
   - "opituvannya"
   - "chitachi-mpz"
+coverImage: "wp-content/uploads/2013/05/Opituvannya-po-garyachiy-vodi.png"
 ---
 
 [![гаряча вода7](https://mpz.brovary.org/wp-content/uploads/2013/04/garyacha-voda7.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/04/garyacha-voda7.jpg)Уже два тижні мешканці броварських багатоповерхівок живуть без гарячої води. Щойно дізнавшись, що [все місто залишилось без цього важливого блага цивілізації](https://mpz.brovary.org/brovari-ta-vsyu-kiyivsku-oblast-zalishili-bez-garyachoyi-vodi-cherez-vidklyuchennya-gazu-dlya-teplomerezh/), ми одразу почали телефонувати до відповідних комунальних служб з тим, щоб дізнатись найголовніше - коли ж гаряча вода повернеться до кранів броварчан. Заступник директора КП "Броваритепловодоенергія" ще 24 квітня запевнив нас у телефонній розмові, що [вода з'явиться "вже найближчим часом"](https://mpz.brovary.org/u-teplomerezhi-obitsyayut-dati-garyachu-vodu-vzhe-nayblizhchim-chasom-i-provesti-pererahunok-za-dni-bez-vodi/).

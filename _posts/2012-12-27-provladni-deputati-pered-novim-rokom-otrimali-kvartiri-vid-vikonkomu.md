@@ -15,6 +15,7 @@ tags:
   - "nuzhnenko"
   - "rishennya-vikonkomu"
   - "sluzhbove-zhitlo"
+coverImage: "wp-content/uploads/2012/12/15-main.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/12/15-main.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/12/15-main.jpg)**Депутат Броварської міської ради Юрій Нужненко та син начальника управління економіки, депутата Миколи Загуменного перед Новим Роком отримали постійні ордери на двокімнатні квартири у Броварах.**

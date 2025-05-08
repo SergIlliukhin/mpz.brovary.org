@@ -9,6 +9,7 @@ tags:
   - "novini"
   - "pozhezha"
   - "pozhezha-na-kyivskiy-302"
+coverImage: "wp-content/uploads/2013/06/main2.jpg"
 ---
 
 **[![main1](https://mpz.brovary.org/wp-content/uploads/2013/06/main1.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/06/main1.jpg)Сьогодні, 17 червня близько четвертої ранку загорілась квартира на п’ятому поверсі будинку за адресою Київська, 302. Вогонь швидко поширився на дах і за деякий час охопив його практично повністю.**

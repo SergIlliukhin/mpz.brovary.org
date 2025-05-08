@@ -13,6 +13,7 @@ tags:
   - "represiyi"
   - "suddya"
   - "fedorenko"
+coverImage: "wp-content/uploads/2015/06/rabets3.jpg"
 ---
 
 [![rabets3](https://mpz.brovary.org/wp-content/uploads/2015/06/rabets3.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/06/rabets3.jpg)**За зверненням ГО «Український союз автомайдан» справу судді броварського міжрайонного суду Миколи Рабця [передали у Вищу кваліфікаційну комісію суддів](http://www.day.kiev.ua/uk/news/030615-speckomisiya-z-perevirky-suddiv-vyyavyla-oznaky-porushennya-prysyagy-pyatma-suddyamy). Громадянину Рабцю, який у суддівській мантії виконував замовлення режиму Януковича та репресував активістів Майдану, тепер доведеться відповідати за свої дії.**

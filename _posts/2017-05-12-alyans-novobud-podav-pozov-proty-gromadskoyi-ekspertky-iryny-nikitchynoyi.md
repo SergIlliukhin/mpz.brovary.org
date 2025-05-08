@@ -19,6 +19,7 @@ tags:
   - "novini"
   - "pozov"
   - "unian"
+coverImage: "wp-content/uploads/2017/05/Nikitchina_sud.jpg"
 ---
 
 **Вже пройшло майже півроку, як відбулися [громадські слухання](https://mpz.brovary.org/u-brovarah-vidbulysya-gromadski-sluhannya-adminresurs-peremig-foto/), де більшістю голосів було вирішено не зупиняти будівництво чергового житлового комплексу від компанії "Альянс Новобуд". І хоча проти будівництва виступала [частина громади](https://mpz.brovary.org/brovarchany-protestuyut-proty-budivnytstva-na-symonenka-chornovola-znesly-ogorozhu-foto/) та [депутатського корпусу](https://mpz.brovary.org/brovarskyh-deputativ-na-sesiyi-prosyly-zberegty-lis-foto/), сосни на місці лісопаркової зони було [вирубано](https://mpz.brovary.org/zeleni-krasuni-sosny-na-symonenka-vse-zh-spylyaly-foto-video/), а із забудовником підписано меморандум. Але відголоски цих подій мають продовження й сьогодні. Нещодавно на своїй сторінці у FB громадська активістка та експертка з питань забудов Ірина Нікітчина [оприлюднила](https://www.facebook.com/profile.php?id=100008920808835&fref=ts) інформацію про судовий позов, який був поданий на неї забудовником ТОВ "Альянс-Новобуд". Справа стосується захисту ділової репутації, яку забудовник вважає постраждалою під час [прес-конференції](https://mpz.brovary.org/brovarchany-daly-pres-konferentsiyu-v-unian-shhodo-vyrubky-derev-v-misti/) в інформаційному агенстві УНІАН, що її давали активісти. Судове засідання призначено на 17 травня.**

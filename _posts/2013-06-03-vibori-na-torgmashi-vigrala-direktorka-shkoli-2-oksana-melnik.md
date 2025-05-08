@@ -14,6 +14,7 @@ tags:
   - "rezultati-viboriv"
   - "tvk"
   - "torgmash"
+coverImage: "wp-content/uploads/2013/06/Torgmash-den-viboriv-3.jpg"
 ---
 
 **[![Торгмаш день виборів 3](https://mpz.brovary.org/wp-content/uploads/2013/06/Torgmash-den-viboriv-3.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/06/Torgmash-den-viboriv-3.jpg)Вчора у мажоритарному одномандатному виборчому окрузі № 20 відбулись [проміжні вибори депутата Броварської міської ради](https://mpz.brovary.org/zaminu-rizanenku-zhiteli-torgmashu-obiratimut-na-pochatku-lita/) – замість вибулого Павла Різаненка, який нині є депутатом Верховної Ради України. Беззаперечним переможцем виборчої кампанії стала директорка школи № 2 Оксана Мельник. Друге місце посів кандидат від об’єднаної опозиції – голова броварського міського осередку партії «Батьківщина» Володимир Опалько.**

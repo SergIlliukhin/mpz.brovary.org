@@ -12,6 +12,7 @@ tags:
   - "vijskovi-navchannya"
   - "viyskoviy-komisariat"
   - "novini"
+coverImage: "wp-content/uploads/2016/12/1_54.jpg"
 ---
 
 **Цієї неділі в районі "Промзона" відбудуться планові навчання, [повідомляє](http://brovary-rada.gov.ua/news/14595.html) Броварський об’єднаний міський військовий комісаріат в оголошенні, опублікованому на сайті міської ради.**

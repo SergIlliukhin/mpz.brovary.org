@@ -11,6 +11,7 @@ tags:
   - "novini"
   - "rokford"
   - "sapozhko"
+coverImage: "wp-content/uploads/2012/06/6847239609_3ef61f3cd1_b.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/06/6847239609_3ef61f3cd1_b.jpg "Rockford College")](https://mpz.brovary.org/wp-content/uploads/2012/06/6847239609_3ef61f3cd1_b.jpg)Броварський міський голова, який перебував з візитом у місті-побратимі Рокфорді (США), оголосив, виступаючи на засіданні ради міста Рокфорд 14.05.2012, що Рокфордський коледж запропонував **4 освітні гранти** для навчання 4 студентів з м. Бровари.

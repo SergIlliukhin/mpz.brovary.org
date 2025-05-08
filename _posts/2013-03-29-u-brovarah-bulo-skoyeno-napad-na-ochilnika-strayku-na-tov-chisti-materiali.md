@@ -12,6 +12,7 @@ tags:
   - "smirnov"
   - "strayk"
   - "chisti-materiali"
+coverImage: "wp-content/uploads/2013/02/Image000026.jpg"
 ---
 
 \[caption id="attachment\_14043" align="alignleft" width="300"\][![Микола Смірнов](https://mpz.brovary.org/wp-content/uploads/2013/02/Image000026.jpg "Микола Смірнов")](https://mpz.brovary.org/wp-content/uploads/2013/02/Image000026.jpg) Микола Смірнов\[/caption\]

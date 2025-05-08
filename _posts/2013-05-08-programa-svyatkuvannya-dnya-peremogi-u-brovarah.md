@@ -15,6 +15,7 @@ tags:
   - "programa-svyatkuvannya"
   - "svyatkuvannya"
   - "feyerverk"
+coverImage: "wp-content/uploads/2012/05/IMG_9559.jpg"
 ---
 
 [![День перемоги Бровари](https://mpz.brovary.org/wp-content/uploads/2012/05/IMG_9559.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/05/IMG_9559.jpg)**9 травня з нагоди Дня Перемоги на броварчан чекає програма святкових заходів та урочистостей.**

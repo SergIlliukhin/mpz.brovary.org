@@ -14,6 +14,7 @@ tags:
   - "matsanyuk"
   - "ovk"
   - "sidanich"
+coverImage: "wp-content/uploads/2012/09/35.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/09/35.jpg "Зицпредседатель Фунт")](https://mpz.brovary.org/wp-content/uploads/2012/09/35.jpg)

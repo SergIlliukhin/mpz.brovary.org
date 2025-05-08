@@ -15,6 +15,7 @@ tags:
   - "demokratichniy-alyans"
   - "zustrich"
   - "novini"
+coverImage: "wp-content/uploads/2016/12/gatsko-ptashnyk-10.jpg"
 ---
 
 **Вчора, 27 грудня, до Броварів [завітали](https://mpz.brovary.org/anons-27-grudnya-do-brovariv-pryyidut-vasyl-gatsko-ta-viktoriya-ptashnyk/) співголови "Демократичного Альянсу" Василь Гацько та Вікторія Пташник. Захід пройшов у закладі "Чарівна тайстра" та зібрав пару десятків містян: здебільшого партійців і активістів, та трохи пересічних броварчан.**

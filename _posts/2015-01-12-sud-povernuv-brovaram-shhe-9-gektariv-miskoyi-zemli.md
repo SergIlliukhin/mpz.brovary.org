@@ -12,6 +12,7 @@ tags:
   - "radiobashti"
   - "radioperedavalniy-tsentr"
   - "sud"
+coverImage: "wp-content/uploads/2015/01/glako1.jpg"
 ---
 
 [![121011_original](https://mpz.brovary.org/wp-content/uploads/2015/01/121011_original.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/01/121011_original.jpg)**Суд визнав незаконною передачу Броварською міськрадою 9 га землі під забудову фірмам ТОВ «ДІББ» і ТОВ «Глако» в 3-му мікрорайоні IV житлового району. Ідеться про дві земельні ділянки площею по 4,5 га по вул. Київській, де раніше знаходились дві опори-башти Радіопередавального центру. Про це [повідомляє](http://nashigroshi.org/2015/01/11/sud-povernuv-brovaram-9-hektariv-yaki-miskrada-nezakonno-viddala-pid-zabudovu/) проект «Наші гроші» з посиланням на матеріали справи Господарського суду Київської області від 17 грудня 2014 р. за позовом заступника прокурора Київської області.**

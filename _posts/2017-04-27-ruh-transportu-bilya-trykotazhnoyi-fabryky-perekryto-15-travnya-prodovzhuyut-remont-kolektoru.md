@@ -16,6 +16,7 @@ tags:
   - "perekrittya-vulitsi"
   - "perekryttya-ruhu"
   - "remont"
+coverImage: "wp-content/uploads/2017/04/kolektor-avariya-04.2017.jpg"
 ---
 
 **Перехрестя Незалежності-Петлюри буде перекрито ще до 15 травня. Про це [повідомляється](http://brovary-rada.gov.ua/documents/27123.html) у розпорядженні міського голови на офіційному сайті Броварської міської ради.**

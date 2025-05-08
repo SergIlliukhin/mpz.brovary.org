@@ -14,6 +14,7 @@ tags:
   - "novini"
   - "simutin"
   - "udar"
+coverImage: "wp-content/uploads/2013/11/Diktant09.jpg"
 ---
 
 [![Диктант09](https://mpz.brovary.org/wp-content/uploads/2013/11/Diktant09.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/11/Diktant09.jpg)**Як відомо, диктант національної єдності щорічно проводиться на День української писемності 9 листопада. Однак цього року його перенесли на 11 число в зв’язку з тим, що дата випала на вихідний. Отже, в понеділок о 12.30 броварчани прийшли перевірити свою граматику до кафе «Візит». Саме тут молодіжне крило партії «УДАР» [організувало](https://mpz.brovary.org/vseukrayinskiy-diktant-natsionalnoyi-yednosti-v-brovarah-2/) колективне написання диктанту національної єдності.** 

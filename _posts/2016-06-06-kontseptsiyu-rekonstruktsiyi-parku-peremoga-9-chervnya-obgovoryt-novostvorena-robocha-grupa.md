@@ -15,6 +15,7 @@ tags:
   - "peremoga"
   - "rekonstruktsiya"
   - "robocha-grupa"
+coverImage: "wp-content/uploads/2014/08/Park-Peremoga.jpg"
 ---
 
 **Цієї середи вперше збереться робоча група з питань обговорення та розроблення концепції реконструкції парку «Перемога». Про це [йдеться](http://docs.brovary.org/p36166/03.06.2016/135) у розпорядженні міського голови.**

@@ -11,6 +11,7 @@ tags:
   - "vodovugilne-palivo"
   - "kotelnya"
   - "novini"
+coverImage: "wp-content/uploads/2015/04/2913fbe4083fabeffa9fda9354726fd4b2a3366b.jpg"
 ---
 
 **[![вугілля](https://mpz.brovary.org/wp-content/uploads/2015/04/2913fbe4083fabeffa9fda9354726fd4b2a3366b.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/04/2913fbe4083fabeffa9fda9354726fd4b2a3366b.jpg)У Броварах планують збудувати нову котельню на водовугільному паливі. Розташовуватись об'єкт має за адресою: вул. Красовського, 16/1 (ділянка 0,18 Га). Економія коштів для бюджету за рахунок впроваждення проекту має складати не менше 10%, а термін будівництва нової котельні - не менше 3 років. Для пошуку інвестора оголошено конкурс, проект має назву "Заміщення природного газу водовугільним паливом шляхом будівництва водогрійної котельні у м. Бровари”. Про це сказано в оголошенні, розміщеному вчора  на офіційному [веб-сайті Броварської міської ради](http://www.brovary.kiev.ua/ogoloshennya-pro-provedennya-%D1%96nvestits%D1%96inogo-konkursu-%D1%96z-viznachennya-%D1%96nvestora-dlya-real%D1%96zats%D1%96%D1%97-pro).** 

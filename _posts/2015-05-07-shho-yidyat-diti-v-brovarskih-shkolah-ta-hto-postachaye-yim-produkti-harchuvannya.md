@@ -13,6 +13,7 @@ tags:
   - "novini"
   - "harchuvannya"
   - "shkoli"
+coverImage: "wp-content/uploads/2015/05/Image00008.jpg"
 ---
 
 [![харчування](https://mpz.brovary.org/wp-content/uploads/2015/05/Image00027.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/05/Image00027.jpg)

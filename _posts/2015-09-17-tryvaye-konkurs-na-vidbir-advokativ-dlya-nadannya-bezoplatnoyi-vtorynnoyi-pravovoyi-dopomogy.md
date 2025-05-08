@@ -11,6 +11,7 @@ tags:
   - "konkurs"
   - "novini"
   - "pravova-dopomoga"
+coverImage: "wp-content/uploads/2015/09/1-1.jpg"
 ---
 
 **По всій Україні шукають адвокатів, яких залучатимуть до надання безоплатної вторинної правової допомоги на постійній основі за контрактом або на тимчасовій основі на підставі договору. Відбір кандидатів триває до 30 вересня, а письмове тестування учасників із Київської області відбудеться 13 жовтня. Про це [йдеться](http://kyivreg.legalaid.gov.ua/ua/holovna/oholosheno-konkurs-z-vidboru-advokativ-iaki-zaluchaiutsia-dlia-nadannia-bezoplatnoi-vtorynnoi-pravovoi-dopomohy) на сайті державного Координаційного центру з надання правової допомоги.**

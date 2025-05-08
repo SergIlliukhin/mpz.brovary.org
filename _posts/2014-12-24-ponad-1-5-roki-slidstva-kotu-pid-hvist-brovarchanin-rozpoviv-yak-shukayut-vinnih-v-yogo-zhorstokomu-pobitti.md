@@ -15,6 +15,7 @@ tags:
   - "prokuratura"
   - "slidchiy-viddil"
   - "sud"
+coverImage: "wp-content/uploads/2014/12/DSC09088.jpg"
 ---
 
 \[caption id="attachment\_31674" align="alignleft" width="300"\]![DSC09088](https://mpz.brovary.org/wp-content/uploads/2014/12/DSC09088.jpg) Дмитро Полонський\[/caption\]

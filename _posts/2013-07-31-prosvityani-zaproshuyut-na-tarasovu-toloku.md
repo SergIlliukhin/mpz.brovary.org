@@ -14,6 +14,7 @@ tags:
   - "skver-shevchenka"
   - "toloka"
   - "shevchenko"
+coverImage: "wp-content/uploads/2013/07/shevchenko.jpg"
 ---
 
 **[![шевченко](https://mpz.brovary.org/wp-content/uploads/2013/07/shevchenko.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/07/shevchenko.jpg)Менше року залишилось до 200-річчя з Дня народження Тараса Шевченка. Напевне, не треба говорити, що це значить для кожного українця. Великий Кобзар неодноразово бував у Броварах і на Броварщині, тому гідно відзначити славний ювілей –  наш прямий обов’язок.**

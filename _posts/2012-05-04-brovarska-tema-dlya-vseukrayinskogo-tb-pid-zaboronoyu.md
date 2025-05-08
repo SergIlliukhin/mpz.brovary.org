@@ -17,6 +17,7 @@ tags:
   - "fesko"
   - "tsenzura"
   - "chornovil"
+coverImage: "wp-content/uploads/2012/05/stopcenzor-logo.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/05/stopcenzor-logo.jpg "stopcenzor-logo")](https://mpz.brovary.org/wp-content/uploads/2012/05/stopcenzor-logo.jpg)Відомі українські журналісти заявляють про цензуру на телебаченні, якщо тема стосується Броварів в контексті зв'язків Федоренка та Азарова.

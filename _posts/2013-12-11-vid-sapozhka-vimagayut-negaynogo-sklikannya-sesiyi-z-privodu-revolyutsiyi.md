@@ -14,6 +14,7 @@ tags:
   - "simutin"
   - "sapozhko"
   - "shtab-narodnogo-suprotivu"
+coverImage: "wp-content/uploads/2013/12/197_UKRAINE-Barikadi1.jpg"
 ---
 
 **[![LsNu3Frxnhk](https://mpz.brovary.org/wp-content/uploads/2013/12/LsNu3Frxnhk.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/12/LsNu3Frxnhk.jpg)Термінового скликання позачергової сесії вимагають від міського голови Броварів Ігоря Сапожка у зв’язку з вибухонебезпечною ситуацією, що склалася в країні. Під час сесії, яка може відбутися вже завтра, 12 грудня, планується розглянути низку звернень до Президента, Уряду, силовиків та Верховної Ради України.**

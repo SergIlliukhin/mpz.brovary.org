@@ -15,6 +15,7 @@ tags:
   - "mns"
   - "novini"
   - "np"
+coverImage: "wp-content/uploads/2015/01/zapravka-5-1.jpg"
 ---
 
 **[![заправка 1](https://mpz.brovary.org/wp-content/uploads/2015/01/zapravka-1.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/01/zapravka-1.jpg)На газовій заправці «БРСМ –Нафта» бахнуло так, що було чути не лише на Торгмаші, а й на околицях міста в радіусі майже 10 км**.

@@ -12,6 +12,7 @@ tags:
   - "pidrobka"
   - "unian"
   - "falshivka"
+coverImage: "wp-content/uploads/2012/05/newyork1.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/05/newyork1.jpg "брудні технології")](https://mpz.brovary.org/wp-content/uploads/2012/05/newyork1.jpg)Журналіст «Маєш право знати»Андрій Качор візьме участь у прес-конференції «Чорні технології на майбутніх виборах: регіональний зріз – Київщина», яка відбудеться сьогодні о 12:30 в інформаційній агенції УНІАН.

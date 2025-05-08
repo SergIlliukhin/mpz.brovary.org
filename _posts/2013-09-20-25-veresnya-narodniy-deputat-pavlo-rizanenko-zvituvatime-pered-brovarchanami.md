@@ -14,6 +14,7 @@ tags:
   - "narodniy-deputat"
   - "novini"
   - "rizanenko"
+coverImage: "wp-content/uploads/2012/11/RPO-Afisha-2.jpg"
 ---
 
 [![Павло Різаненко](https://mpz.brovary.org/wp-content/uploads/2012/11/EWc0JnWtP5o.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/11/EWc0JnWtP5o.jpg)**Наступної середи, 25 вересня 2013 року, в актовій залі ЗОШ № 7 (вул. Гагаріна, 23а) відбудеться звітування народного депутата України Різаненка Павла Олександровича перед мешканцями Броварів та району. Про це "Маєш право знати" повідомили у громадській приймальні народного обранця.**

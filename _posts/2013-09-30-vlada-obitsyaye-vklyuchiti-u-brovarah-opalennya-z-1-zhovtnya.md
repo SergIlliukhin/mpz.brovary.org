@@ -14,6 +14,7 @@ tags:
   - "rozporyadzhennya"
   - "rozporyadzhennya-miskogo-golovi"
   - "teplovodoenergiya"
+coverImage: "wp-content/uploads/2013/09/Opalennya.jpg"
 ---
 
 **[![Опалення](https://mpz.brovary.org/wp-content/uploads/2013/09/Opalennya.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/09/Opalennya.jpg)Схоже, броварчанам не доведеться мерзнути у своїх домівках до 15 жовтня. Сьогодні броварський міський голова видав розпорядженя "[Про початок опалювального  сезону в 2013/2014 році](http://docs.pravo-znaty.org.ua/p9193/30.09.2013/146)", згідно з яким у житлових будинках мають включити централізоване опалення вже завтра - 1 жовтня.**

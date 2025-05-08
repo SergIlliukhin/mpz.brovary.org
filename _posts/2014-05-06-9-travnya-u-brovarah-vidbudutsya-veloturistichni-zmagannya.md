@@ -10,6 +10,7 @@ tags:
   - "9-travnya"
   - "veloturistichni-zmagannya"
   - "novini"
+coverImage: "wp-content/uploads/2014/05/ArticleImages_222_GalleryBigFileName_700p.jpg"
 ---
 
 [![ArticleImages_222_GalleryBigFileName_700p](https://mpz.brovary.org/wp-content/uploads/2014/05/ArticleImages_222_GalleryBigFileName_700p.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/05/ArticleImages_222_GalleryBigFileName_700p.jpg)**9 травня міський велоклуб «Атлас» влаштовує велотуристичні змагання, присвячені Дню Перемоги. Збір учасників почнеться об 11:30 біля літака в парку «Перемога». Як повідомили МПЗ організатори, такі змагання проводяться щорічно і взяти в них участь може кожен броварчанин.**

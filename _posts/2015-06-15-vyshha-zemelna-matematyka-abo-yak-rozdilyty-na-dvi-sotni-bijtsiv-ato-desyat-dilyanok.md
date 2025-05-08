@@ -15,6 +15,7 @@ tags:
   - "zemlya"
   - "novini"
   - "uchasniki-ato"
+coverImage: "wp-content/uploads/2015/06/10-dilyanok-zemli-46.jpg"
 ---
 
 [![10 ділянок землі (5)](https://mpz.brovary.org/wp-content/uploads/2015/06/10-dilyanok-zemli-5.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/06/10-dilyanok-zemli-5.jpg)**У четвер, 11 червня, у приміщенні Броварської міської ради відбулося засідання робочої групи щодо опрацювання питання виділення та надання земельних ділянок в м. Бровари учасникам АТО, [створеної](http://www.brovary.kiev.ua/rozporyadzhennya-m%D1%96skogo-golovi-v%D1%96d-12012015-%E2%84%9601-od-pro-stvorennya-robocho%D1%97-grupi) у січні 2015 року. Воно ознаменувалося кількома конфузами. Зважаючи на те, що питання стосується бійців, що захищають нашу країну, це було би смішно, якби не було так сумно.** 

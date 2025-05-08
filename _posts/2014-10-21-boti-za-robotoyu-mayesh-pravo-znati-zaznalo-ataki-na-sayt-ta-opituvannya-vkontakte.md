@@ -10,6 +10,7 @@ tags:
   - "vibori"
   - "novini"
   - "parlamentski-vibori-2014"
+coverImage: "wp-content/uploads/2014/10/bots2-jpg.jpg"
 ---
 
 **[![bots2-jpg](https://mpz.brovary.org/wp-content/uploads/2014/10/bots2-jpg.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/10/bots2-jpg.jpg)З кінця минулого тижня ресурси «Маєш право знати»  - веб-сайт та представництва у соціальних мережах – перебувають під масованою кібератакою.**

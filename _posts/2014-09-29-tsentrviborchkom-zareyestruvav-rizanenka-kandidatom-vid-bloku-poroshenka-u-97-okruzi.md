@@ -18,6 +18,7 @@ tags:
   - "reyestratsiya-kandidativ"
   - "tsvk"
   - "tsentralna-viborcha-komisiya"
+coverImage: "wp-content/uploads/2014/09/Rizanenko-foto-VRU.jpg"
 ---
 
 **[![Різаненко фото ВРУ](https://mpz.brovary.org/wp-content/uploads/2014/09/Rizanenko-foto-VRU.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/09/Rizanenko-foto-VRU.jpg)Центральна виборча комісія рішенням від 27 вересня 2014 року зареєструвала кандидатом в народні депутати в одномандатному виборчому окрузі № 97 Павла Різаненка, висунутого партією "Блок Петра Порошенка".** **Павло Різаненко нині є депутатом Верховної Ради України та був [обраний до її складу](https://mpz.brovary.org/viborchi-bataliyi-u-brovarah-zaversheno-tsvk-viznala-rizanenka-peremozhtsem/) на парламентських виборах у 2012 року від партії "УДАР Віталія Кличка" у мажоритарному окрузі № 97 (м. Бровари, Броварський район, м. Березань, Баришівський район).**

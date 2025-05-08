@@ -11,6 +11,7 @@ tags:
   - "brovary"
   - "gromadske-telebachennya"
   - "parad-vishivanok"
+coverImage: "wp-content/uploads/2015/05/parad-11-e1432572178214.jpg"
 ---
 
 

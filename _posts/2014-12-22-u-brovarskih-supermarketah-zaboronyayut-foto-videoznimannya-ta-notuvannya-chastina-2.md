@@ -19,6 +19,7 @@ tags:
   - "fora"
   - "forum"
   - "yuristi"
+coverImage: "wp-content/uploads/2014/09/Image00001.jpg"
 ---
 
 **[![Image00001](https://mpz.brovary.org/wp-content/uploads/2014/09/Image00001.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/09/Image00001.jpg)У [першій частині розслідування](https://mpz.brovary.org/u-brovarskih-supermarketah-zaboronyayut-foto-videoznimannya-ta-notuvannya-chastina-1/) ми розповіли читачам «Маєш право знати» про факти заборон збиранню інформації громадянам у броварських супермаркетах. Висновки були невтішними – в усіх відвіданих магазинах тим чи іншим чином забороняють проводити фото- та відеознімання. Відомі також і випадки перешкоджання громадянам, які реалізують свої конституційні права таким шляхом.**

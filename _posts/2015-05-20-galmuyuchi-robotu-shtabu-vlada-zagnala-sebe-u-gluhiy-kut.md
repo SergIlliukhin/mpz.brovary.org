@@ -12,6 +12,7 @@ tags:
   - "misto"
   - "shtab"
   - "shtab-z-rozrobki-zmin-do-genplanu"
+coverImage: "wp-content/uploads/2015/06/gadannya-shtab-7.jpg"
 ---
 
 [![Ірина Нікітчина: «Гальмуючи роботу Штабу, влада загнала себе у глухий кут»](https://mpz.brovary.org/wp-content/uploads/2015/05/7.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/05/7.jpg)Існує запитання: «Чи зайшов Штаб щодо розробки та громадського обговорення змін до Генерального плану міста Бровари у глухий кут?».

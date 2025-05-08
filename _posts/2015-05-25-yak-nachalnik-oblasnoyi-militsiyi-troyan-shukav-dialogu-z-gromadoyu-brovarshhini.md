@@ -11,6 +11,7 @@ tags:
   - "gu-mvs-ukrayini-u-kiyivskiy-oblasti"
   - "mikola-klimenko"
   - "novini"
+coverImage: "wp-content/uploads/2015/05/troyan-3.jpg"
 ---
 
 **[![троян (7)](https://mpz.brovary.org/wp-content/uploads/2015/05/troyan-7.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/05/troyan-7.jpg)Нещодавно у Броварах вкотре піднімалось питання якості роботи міліції та способів її вдосконалення. 13 травня в актовій залі Броварської райдержадміністрації відбулася зустріч начальника Головного управління МВС в Київській області Вадима Трояна з громадою міста Бровари та району.**

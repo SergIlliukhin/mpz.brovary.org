@@ -15,6 +15,7 @@ tags:
   - "melnychuk"
   - "novini"
   - "svyato"
+coverImage: "wp-content/uploads/2016/06/Constitution_of_Ukraine.jpg"
 ---
 
 **28 червня, з нагоди відзначення ювілейного Дня Конституції, у Броварах анонсують низку заходів. Мешканцям міста обіцяють, зокрема, різноманітні художні виставки, виступи народних колективів, діджейський сет тощо. Про це [йдеться](http://www.kulturabr.kiev.ua/golovny-novyny/urochystosti-do-dnya-konstytuciyi-ukrayiny) на офіційному сайті відділу культури Броварської міської ради.**

@@ -12,6 +12,7 @@ tags:
   - "ataka"
   - "zahyst"
   - "novini"
+coverImage: "wp-content/uploads/2016/04/Google-Project-Shield.png"
 ---
 
 **Компанія Google включила сайт "Маєш право знати" до переліку інформаційних проектів, які перебуватимуть під її захистом від цифрових атак в рамках проекту [Project Shield](https://jigsaw.google.com/products/project-shield/).**

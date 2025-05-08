@@ -13,6 +13,7 @@ tags:
   - "novini"
   - "ovk"
   - "okruzhna-viborcha-komisiya"
+coverImage: "wp-content/uploads/2012/09/OVK-3-zasidannya.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/09/OVK-3-zasidannya.jpg "ОВК 3 засідання")](https://mpz.brovary.org/wp-content/uploads/2012/09/OVK-3-zasidannya.jpg)Цього тижня засідання броварської окружної виборчої комісії відбуваються мало не щодня, і хоч рішень ухвалюється не багато, подій довколо роботи комісії відбувається чимало. Однак для того, щоб не порушувати хронологію засідань, перш ніж перейти до опису особливостей роботи ОВК «ери нового голови [Ситєнкова](https://mpz.brovary.org/chergove-zasidannya-ovk-provede-noviy-golova-uzhe-tretiy/)», розповімо про те, як завершилась «ера [довгоочікуваного Мацанюка](https://mpz.brovary.org/zitspredsedatel-funt/)».

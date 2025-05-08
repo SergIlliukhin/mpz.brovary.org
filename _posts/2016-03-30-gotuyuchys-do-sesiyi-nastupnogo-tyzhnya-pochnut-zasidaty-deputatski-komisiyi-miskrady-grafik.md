@@ -16,6 +16,7 @@ tags:
   - "novini"
   - "rozglyad"
   - "sesiya"
+coverImage: "wp-content/uploads/2015/12/Image00002.jpg"
 ---
 
 **Починаючи із 7 квітня і протягом тижня у Броварах засідатимуть постійні депутатські комісії міської ради.** **На розгляд обранців виносять питання порядку денного найближчої [чергової сесії, яка відбудеться 21 квітня](https://mpz.brovary.org/chergova-sesiya-za-planom-sapozhko-zavchasno-sklykav-zasidannya-na-21-kvitnya/). Графік нещодавно [оприлюднили](http://docs.brovary.org/p35513/29.03.2016) на офіційному сайті міськради.**

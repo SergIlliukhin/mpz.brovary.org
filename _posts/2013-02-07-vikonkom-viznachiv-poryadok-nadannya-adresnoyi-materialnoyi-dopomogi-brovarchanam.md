@@ -12,6 +12,7 @@ tags:
   - "dokumenti"
   - "materialna-dopomoga"
   - "novini"
+coverImage: "wp-content/uploads/2013/02/Golovna2.jpg"
 ---
 
 **[![Головна](https://mpz.brovary.org/wp-content/uploads/2013/02/Golovna2.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/02/Golovna2.jpg)На засіданні у січні броварський виконком затвердив «[Положення про надання адресної матеріальної допомоги мешканцям міста](http://docs.pravo-znaty.org.ua/p6498/08.01.2013/14)», яким визначив умови та порядок надання допомоги для підтримки малозахищених верств населення міста Бровари, що опинилися в складних життєвих обставинах.**

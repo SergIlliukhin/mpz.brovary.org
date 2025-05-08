@@ -14,6 +14,7 @@ tags:
   - "novini"
   - "tarifi"
   - "tarifi-na-proyizd"
+coverImage: "wp-content/uploads/2017/01/zustrich_berestovyj_taryfy_proyizd-5.jpg"
 ---
 
 **24 січня відбулася [відкрита зустріч](https://mpz.brovary.org/taryfy-na-marshrutky-sogodni-vidbudetsya-vidkryta-zustrich-dlya-koordynatsiyi-dij/) для координації дій броварчан стосовно різкого підвищення цін на проїзд у громадському транспорті. Подію анонсував депутат Броварської міської ради Олег Берестовий (ДемАльянс).**

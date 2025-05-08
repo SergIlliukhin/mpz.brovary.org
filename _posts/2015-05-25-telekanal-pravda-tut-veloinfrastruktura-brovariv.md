@@ -9,6 +9,7 @@ categories:
 tags: 
   - "brovary"
   - "veloinfrastruktura"
+coverImage: "wp-content/uploads/2015/05/berestoviy.jpg"
 ---
 
 [![воркшоп](https://mpz.brovary.org/wp-content/uploads/2015/05/Image000211.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/05/Image000211.jpg)

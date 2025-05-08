@@ -9,6 +9,7 @@ categories:
 tags: 
   - "vo-svoboda"
   - "marchenko"
+coverImage: "wp-content/uploads/2012/11/marchenko.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/12/240x180n_photo_1a5a8a7c47172519154e1e794e5d41dd.jpg "Олександр Марченко")](https://mpz.brovary.org/wp-content/uploads/2012/12/240x180n_photo_1a5a8a7c47172519154e1e794e5d41dd.jpg)2 грудня 2012 року в Пущі-Водиці на Київщині відбулася Х конференція Київської обласної організації Всеукраїнського об'єднання "Свобода". Основним питанням порядку денного конференції було обрання нового керівника обласного осередку об'єднання.

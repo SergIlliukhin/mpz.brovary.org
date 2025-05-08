@@ -16,6 +16,7 @@ tags:
   - "konkursnyj-vidbir-kerivnykiv-navchalnyh-zakladiv"
   - "novini"
   - "upravlinnya-osviti"
+coverImage: "wp-content/uploads/2015/08/sadochky-7.jpg"
 ---
 
 **Управління освіти і науки Броварської міської ради оголосило конкурс на заміщення вакантної посади керівника нового дошкільного закладу «Казка». На посаді хочуть бачити людину з профільною освітою, спеціаліста або магістра, зі стажем роботи не менше трьох років. Документи від бажаючих прийматимуть впродовж місяця. Про це йдеться в повідомленнях на [сайті](http://www.brovary-osvita.gov.ua/konkurs-na-zamischennya-vakantnoji-posady-kerivnyka-dnz/)  управління освіти та на [сторінці](https://www.facebook.com/permalink.php?story_fbid=1150453558330033&id=1103471506361572) у Фейсбуці.**

@@ -10,6 +10,7 @@ tags:
   - "anons"
   - "prava-spozhivacha"
   - "ukrtelekom"
+coverImage: "wp-content/uploads/2012/07/35670_content3.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/07/35670_content3.jpg "Платіжка Укртелекому")](https://mpz.brovary.org/wp-content/uploads/2012/07/35670_content3.jpg)На звернення читачів "Маєш право знати" з'ясовує причини включення авансового платежу в рахунок на сплату телекомунікаційних послуг ПАТ "Укртелеком".

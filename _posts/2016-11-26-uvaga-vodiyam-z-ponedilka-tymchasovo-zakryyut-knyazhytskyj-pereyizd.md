@@ -12,6 +12,7 @@ tags:
   - "zakryto"
   - "knyazhytskyj-pereyizd"
   - "novini"
+coverImage: "wp-content/uploads/2016/11/pereyizd.jpg"
 ---
 
 **У понеділок та вівторок буде закрито рух через залізничні колії в районі станції "Княжичі", [повідомляють](http://brovary-rada.gov.ua/news/14541.html) на офіційному сайті Броварської міської ради.**

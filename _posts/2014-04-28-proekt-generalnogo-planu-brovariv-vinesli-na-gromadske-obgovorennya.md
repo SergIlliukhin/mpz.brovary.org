@@ -12,6 +12,7 @@ tags:
   - "dostup-do-genplanu"
   - "novini"
   - "obgovorennya"
+coverImage: "wp-content/uploads/2014/04/genplan-kartinka.jpg"
 ---
 
 **[![генплан картинка](https://mpz.brovary.org/wp-content/uploads/2014/04/genplan-kartinka.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/04/genplan-kartinka.jpg)25 квітня на офіційному веб-сайті міськради [оприлюднили](http://brovary.kiev.ua/pov%D1%96domlennya-pro-oprilyudnennya-p%D1%96d-chas-rozroblennya-na-m%D1%96stsevomu-r%D1%96vn%D1%96-proektu-m%D1%96stobud%D1%96vno%D1%97-d-0) проект «Генерального плану міста Бровари Київської області». Документ, який довгий час залишався недоступним для громадськості, нині проходить широке обговорення для врахування інтересів броварчан.**

@@ -4,6 +4,7 @@ date: 2015-09-16
 author: 
   username: "pravoZnaty"
   display_name: "Маєш право знати"
+coverImage: "wp-content/uploads/2015/10/12027301_1512763719046261_3119068586415649542_o.jpg"
 ---
 
 \[vc\_row full\_width="" parallax="" parallax\_image=""\]\[vc\_column width="1/1"\]\[vc\_column\_text\]

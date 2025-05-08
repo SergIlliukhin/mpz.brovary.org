@@ -15,6 +15,7 @@ tags:
   - "nove-misto-brovari"
   - "sidorenko"
   - "shkola-gromadskogo-aktivista"
+coverImage: "wp-content/uploads/2015/04/11133742_777828072332027_1713965557937377920_n1.jpg"
 ---
 
 **[![11036844_777369362377898_1074752419082581363_o](https://mpz.brovary.org/wp-content/uploads/2015/04/11036844_777369362377898_1074752419082581363_o.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/04/11036844_777369362377898_1074752419082581363_o.jpg)У неділю, 5 квітня активісти проекту «Brain Event» та Молоді демократичного Альянсу» проведуть перший захід проекту – Школа громадського активіста.**

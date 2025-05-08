@@ -11,6 +11,7 @@ tags:
   - "brovarska-molod"
   - "molod-da"
   - "molod-demokratichnogo-alyansu"
+coverImage: "wp-content/uploads/2015/02/Spid-Deyting.jpg"
 ---
 
 [![Спід Дейтінг 14](https://mpz.brovary.org/wp-content/uploads/2015/02/Spid-Deyting-14.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/02/Spid-Deyting-14.jpg)

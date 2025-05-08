@@ -17,6 +17,7 @@ tags:
   - "fotokonkurs"
   - "yama"
   - "yami"
+coverImage: "wp-content/uploads/2013/04/Dorogi.png"
 ---
 
 [![Ями 9](https://mpz.brovary.org/wp-content/uploads/2013/04/YAmi-9.png)](https://mpz.brovary.org/wp-content/uploads/2013/04/YAmi-9.png)**Після того, як ми опублікували дві порції фотографій [ям та калюж на броварських](https://mpz.brovary.org/yami-kalyuzhi-ta-prosidannya-asfaltu-na-brovarskih-dorogah-druga-portsiya-fotoznimkiv/) вулицях у рамках проекту "[Геть весняні артефакти](https://mpz.brovary.org/get-vesnyani-artefakti-fotokampaniya-proti-yam-ta-kalyuzh-na-brovarskih-dorogah/)!", кілька моїх знайомих запитали мене, навіщо ми так нещадно критикуємо міську владу, адже у такому жалюгідному стані нині дороги по всій країні. Ці слова неабияк мене здивували.**

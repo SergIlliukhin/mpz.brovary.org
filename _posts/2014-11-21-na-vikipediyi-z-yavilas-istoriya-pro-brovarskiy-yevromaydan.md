@@ -11,6 +11,7 @@ tags:
   - "vibir-redaktsiyi"
   - "novini"
   - "richnitsya"
+coverImage: "wp-content/uploads/2014/11/Wikipedia-Ukraina-protest-v-internete-855364.jpg"
 ---
 
 \[caption id="attachment\_31199" align="alignleft" width="300"\][![Wikipedia-Украина-протест в интернете-855364](https://mpz.brovary.org/wp-content/uploads/2014/11/Wikipedia-Ukraina-protest-v-internete-855364.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/11/Wikipedia-Ukraina-protest-v-internete-855364.jpg) Фото: Wikimedia.\[/caption\]

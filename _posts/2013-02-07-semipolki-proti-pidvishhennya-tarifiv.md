@@ -6,6 +6,7 @@ author:
   display_name: "Володимир Брюхов"
 categories: 
   - "kolonka-avtora"
+coverImage: "wp-content/uploads/2013/02/56_main.jpg"
 ---
 
 **Звернення ініціативної групи мешканців села Семиполки з питань місцевої ініціативи**

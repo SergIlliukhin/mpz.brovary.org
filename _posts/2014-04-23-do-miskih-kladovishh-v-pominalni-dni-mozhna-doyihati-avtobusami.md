@@ -6,6 +6,7 @@ author:
   display_name: "Маєш право знати"
 tags: 
   - "novini"
+coverImage: "wp-content/uploads/2012/04/Marshrutka.jpg"
 ---
 
 **[![Маршрутка](https://mpz.brovary.org/wp-content/uploads/2012/04/Marshrutka.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/04/Marshrutka.jpg)27 та 28 квітня з 10:00 до 19:00 до міських кладовищ з різних районів Броварів курсуватимуть комунальні автобуси. Відповідне розпорядження підписав міський голова Ігор Сапожко. У поминальні дні громадський транспорт [їздитиме трьома маршрутами](http://brovary-rada.gov.ua/perevezennya-pasazhir%D1%96v-do-m%D1%96skikh-kladovishch-v-pominaln%D1%96-dn%D1%96-komunalnimi-avtobusami-m%D1%96sta):**

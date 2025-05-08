@@ -20,6 +20,7 @@ tags:
   - "fedorenko"
   - "hartanovich"
   - "chorniy-spisok"
+coverImage: "wp-content/uploads/2012/10/chorni-spiski.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/10/chorni-spiski.jpg "чорні списки")](https://mpz.brovary.org/wp-content/uploads/2012/10/chorni-spiski.jpg)Громадянська кампанія «Наступу» розпочинає оприлюднення фігурантів Чорного списку – людей, котрі співпрацюють з окупаційною владою Партії регіонів, порушуючи при цьому права та свободи громадян, перешкоджаючи рівноправному та чесному виборчому процесу. Про це активісти кампанії повідомили на **[своєму сайті](http://nastup.info).**

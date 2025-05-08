@@ -15,6 +15,7 @@ tags:
   - "okrug-97"
   - "rizanenko"
   - "udar"
+coverImage: "wp-content/uploads/2012/08/TSVK3.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/08/TSVK3.jpg "ЦВК3")](https://mpz.brovary.org/wp-content/uploads/2012/08/TSVK3.jpg)**Постановою [№ 1569](http://www.cvk.gov.ua/pls/acts/ShowCard?id=32704&what=0) від 16 жовтня 2012 року Центральна виборча комісія скасувала реєстрацію кандидата у народні депутати України Кищука О.Є., висунутого політичною партією Всеукраїнське об’єднання "Батьківщина", в одномандатному виборчому окрузі № 97.**

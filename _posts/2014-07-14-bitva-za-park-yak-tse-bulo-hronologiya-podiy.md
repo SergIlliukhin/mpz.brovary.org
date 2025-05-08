@@ -7,6 +7,7 @@ author:
 tags: 
   - "vibir-redaktsiyi"
   - "novini"
+coverImage: "wp-content/uploads/2014/07/DSC2720.jpg"
 ---
 
 **[![Збережемо-Перемогу](https://mpz.brovary.org/wp-content/uploads/2014/07/Zberezhemo-Peremogu.png)](https://mpz.brovary.org/wp-content/uploads/2014/07/Zberezhemo-Peremogu.png)**

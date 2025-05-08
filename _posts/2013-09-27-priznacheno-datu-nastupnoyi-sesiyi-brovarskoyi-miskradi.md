@@ -12,6 +12,7 @@ tags:
   - "novini"
   - "sesiya"
   - "sklikannya-sesiyi"
+coverImage: "wp-content/uploads/2012/08/gerb-Brovari.jpg"
 ---
 
 **[![GorodBrovory_gerb](https://mpz.brovary.org/wp-content/uploads/2013/09/GorodBrovory_gerb.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/09/GorodBrovory_gerb.jpg)**24 жовтня 2013 року о 14:00 у приміщенні малої зали броварського міськвиконкому за адресою: вул. Гагаріна, 15 відбудеться тридцять восьма чергова сесія Броварської міської ради VІ скликання.****

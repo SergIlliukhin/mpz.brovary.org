@@ -14,6 +14,7 @@ tags:
   - "vibir-redaktsiyi"
   - "zakryttya-zakladu"
   - "novini"
+coverImage: "wp-content/uploads/2016/12/88-2-1-e1482435911730.jpg"
 ---
 
 **Броварський заклад у форматі вільного простору “88 Free Space” повідомив про своє закриття. Власники міркують щодо відкриття нового кафе в Києві.** 

@@ -13,6 +13,7 @@ tags:
   - "novini"
   - "oseredok"
   - "samorozpusk"
+coverImage: "wp-content/uploads/2013/06/Svoboda.jpg"
 ---
 
 **[![Свобода 2](https://mpz.brovary.org/wp-content/uploads/2013/11/Svoboda-2.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/11/Svoboda-2.jpg)Сьогодні на сайті "[Інформатор](http://informator.su/brovarska-svoboda-povnim-skladom-viyshla-z-lav-partiyi/)" з'явилась інформація про те, Броварська міська організація ВО “Свобода” саморозпустилась. Буцімто ще 31 жовтня 2013 року на зборах партійного комітету було ухвалене відповідне рішення, після чого протокол зборів партійного осередку було передано до керівництва Київської обласної організації ВО “Свобода”. Сайт "Інформатор" посилається на колишніх членів броварської «Свободи».**

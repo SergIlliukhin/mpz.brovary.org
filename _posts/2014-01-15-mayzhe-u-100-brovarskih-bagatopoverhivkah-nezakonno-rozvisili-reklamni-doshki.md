@@ -21,6 +21,7 @@ tags:
   - "reklama"
   - "teplyuk"
   - "tsk"
+coverImage: "wp-content/uploads/2013/11/Image00001.jpg"
 ---
 
 \[caption id="attachment\_22207" align="alignleft" width="300"\][![Image00001](https://mpz.brovary.org/wp-content/uploads/2013/11/Image00001.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/11/Image00001.jpg) Дошка у ліфті по вул. Короленка, 56а\[/caption\]

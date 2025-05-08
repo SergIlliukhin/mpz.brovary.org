@@ -12,6 +12,7 @@ tags:
   - "novini"
   - "reklama"
   - "serpokrilova"
+coverImage: "wp-content/uploads/2012/03/Vikonkom.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/03/Vikonkom.jpg "Виконком")](https://mpz.brovary.org/wp-content/uploads/2012/03/Vikonkom.jpg)27 березня відбулось позачергове засідання виконавчого комітету Броварської міської ради. Як [повідомляється](http://docs.pravo-znaty.org.ua/p1053/28.03.2012 "Засідання міськвиконкому") на сайті Броварської міської ради, було прийнято 10 рішень. З самими рішеннями можна ознайомитись в реєстрі публічної інформації: [рішення виконавчого комітету за 27 березня 2012 року](http://docs.pravo-znaty.org.ua/s/0/20/2/0?from=27.03.2012&to=27.03.2012&ENGINE=1&status=0)

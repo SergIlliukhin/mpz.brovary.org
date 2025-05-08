@@ -9,6 +9,7 @@ categories:
 tags: 
   - "brovarska-miska-rada"
   - "videozapis-sesiyi"
+coverImage: "wp-content/uploads/2013/03/Sesiya-pro-zemlyu_3.jpg"
 ---
 
 **Подія:** Пленарне засідання 38-мої позачергової сесії Броварської міської ради **Дата:** 01.09.2013 **Камера:** Роман Сімутін

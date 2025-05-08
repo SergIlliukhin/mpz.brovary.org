@@ -15,6 +15,7 @@ tags:
   - "den-mista"
   - "den-mista-brovari"
   - "novini"
+coverImage: "wp-content/uploads/2014/09/IMG_8808.jpg"
 ---
 
 **[![IMG_8808](https://mpz.brovary.org/wp-content/uploads/2014/09/IMG_8808.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/09/IMG_8808.jpg)На День міста, 20 вересня, об 11:30 на лісовому масиві Броварського лісництва стартують велозмагання «[Броварські дюни](http://bikeportal.org.ua/index.php?option=com_content&view=article&id=2943&Itemid=735)», які організовує велосипедна спільнота міста спільно з міськрадою. Щоб взяти участь у веломарафоні, потрібно мати мтб-велосипед та пройти реєстрацію, яка почнеться безпосередньо в місці проведення змагань о 9:00 і триватиме до 10:30.** 

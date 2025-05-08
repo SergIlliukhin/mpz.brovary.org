@@ -11,6 +11,7 @@ tags:
   - "megamarsh-vishivanok"
   - "novini"
   - "onum"
+coverImage: "wp-content/uploads/2014/07/megamarsh24.jpg"
 ---
 
 **[![мегамарш19](https://mpz.brovary.org/wp-content/uploads/2014/07/megamarsh19.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/07/megamarsh19.jpg)"Конституційний" вечір 28 червня зібрав на центральній площі міста майже дві сотні броварчан. Цього дня містяни цілими сім’ями стікались до Майдану Свободи у вишитому червоними і чорними нитками одязі та в синьо-жовтій атрибутиці. А все тому, що активісти з Об’єднання незалежної української молоді (ОНУМ) влаштували [«Мегамарш вишиванок»](https://mpz.brovary.org/na-den-konstitutsiyi-brovarchan-zaklikayut-viyti-na-megamarsh-vishivanok/), що у День Конституції проходив у багатьох містах України.**

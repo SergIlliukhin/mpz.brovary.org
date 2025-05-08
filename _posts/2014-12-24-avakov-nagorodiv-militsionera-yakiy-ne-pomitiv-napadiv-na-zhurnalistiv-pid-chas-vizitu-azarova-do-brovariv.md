@@ -10,6 +10,7 @@ tags:
   - "vibir-redaktsiyi"
   - "nemirovets"
   - "novini"
+coverImage: "wp-content/uploads/2014/12/nmr3.jpg"
 ---
 
 **[![nmr3](https://mpz.brovary.org/wp-content/uploads/2014/12/nmr3.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/12/nmr3.jpg)19 грудня [під час відзначення Дня міліції](https://mpz.brovary.org/mikolaychiki-dlya-militsiyi-v-peredden-profesiynogo-svyata-u-brovarah-vitali-strazhiv-poryadku/) в приміщенні актової зали Броварської РДА було вручено медалі «За сумлінну службу» місцевим правоохоронцям. Серед нагороджених опинився і майор Сергій Немировець – той самий правоохоронець, на очах якого відбувся [скандальний інцидент](http://korrespondent.net/ukraine/1411329-ohrana-azarova-napala-na-zhurnalistov-skandalnyj-vizit-premera-v-brovary) з нападом на журналістів під час візиту Азарова до Броварів 20 жовтня 2012 року.**

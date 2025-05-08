@@ -13,6 +13,7 @@ tags:
   - "perekryttya-ruhu"
   - "remont-kolektora"
   - "ruh-avtotransportu"
+coverImage: "wp-content/uploads/2017/04/kolektor-avariya-04.2017.jpg"
 ---
 
 **Дорога на перехресті Петлюри-Незалежності буде перекрита ще до 8 липня. Про це йдеться у сьогоднішньому [розпорядженні](http://brovary-rada.gov.ua/documents/27353.html) міського голови на сайті Броварської міської ради.**

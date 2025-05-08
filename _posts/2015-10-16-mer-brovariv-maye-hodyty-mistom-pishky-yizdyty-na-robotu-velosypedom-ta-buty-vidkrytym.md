@@ -11,6 +11,7 @@ tags:
   - "brovary"
   - "demokratichniy-alyans"
   - "mistsevi-vybory-2015"
+coverImage: "wp-content/uploads/2015/10/Sauk.jpg"
 ---
 
 **Написав для броварчан ось такого листа:**

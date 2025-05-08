@@ -9,6 +9,7 @@ tags:
   - "novini"
   - "rizanenko"
   - "sapozhko"
+coverImage: "wp-content/uploads/2013/03/Sapozhko-Igor-Vasilovich-ofitsiyne-foto.jpg"
 ---
 
 ![](https://mpz.brovary.org/wp-content/uploads/2011/12/Igor-Sapozhko.jpg "Сапожко Ігор Васильович")Броварський міський голова **Ігор Сапожко** знову сьогодні (24 січня 2012 р.) об 11:00 скликає позачергову сесію міської ради, і знову депутати про це дізнаються менше ніж за 24 години.

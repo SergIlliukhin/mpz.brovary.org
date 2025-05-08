@@ -13,6 +13,7 @@ tags:
   - "kontseptsiya-parku"
   - "park"
   - "park-peremoga"
+coverImage: "wp-content/uploads/2014/08/Park-Peremoga.jpg"
 ---
 
 **[![Парк Перемога](https://mpz.brovary.org/wp-content/uploads/2014/08/Park-Peremoga.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/08/Park-Peremoga.jpg)Сьогодні, 26 серпня, о 20:00 броварський осередок "Демократичного Альянсу" запрошує всіх бажаючих на відкриту зустріч-планування розробки нової сучасної концепції центрального міського парку "Перемога". У якості експерта на захід запрошено київського урбаніста, тренера Школи міських проектів Григорія Мельничука.**

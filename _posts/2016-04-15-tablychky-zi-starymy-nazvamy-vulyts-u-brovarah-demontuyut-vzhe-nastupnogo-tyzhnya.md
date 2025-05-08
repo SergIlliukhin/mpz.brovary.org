@@ -15,6 +15,7 @@ tags:
   - "novini"
   - "perejmenuvannya"
   - "tablychky"
+coverImage: "wp-content/uploads/2015/04/Image00002.jpg"
 ---
 
 **Управління житлово-комунального господарства Броварської міської ради видало наказ провести роботи із демонтажу вуличних покажчиків. Комунальні служби міста мають повністю прибрати таблички із назвами [70-ти перейменованих вулиць](https://mpz.brovary.org/u-brovarah-z-yavylys-vulytsi-na-chest-stepana-bandery-nebesnoyi-sotni-ta-geroyiv-ato/) вже до 20 квітня. Про це йдеться у [відповіді](http://www.slideshare.net/DmytroKarpiy/ss-60946900) міськради на запит нашого журналіста.**

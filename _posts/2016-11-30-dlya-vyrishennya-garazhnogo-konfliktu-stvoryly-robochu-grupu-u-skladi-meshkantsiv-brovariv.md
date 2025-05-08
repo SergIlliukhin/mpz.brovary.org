@@ -17,6 +17,7 @@ tags:
   - "nezalezhnosti"
   - "novini"
   - "robocha-grupa"
+coverImage: "wp-content/uploads/2016/11/Garazhi-Nezalezhnosti-12_00007.jpg"
 ---
 
 **Останніми тижнями під час здійснення демонтажу гаражів по [вул. Героїв УПА](https://mpz.brovary.org/pratsivnyky-blagoustroyu-bmr-ta-brovarchany-pobylysya-cherez-demontazh-garazhiv/) і [бульв. Незалежності](https://mpz.brovary.org/viddil-blagoustroyu-vidnovyv-demontazh-garazhiv-u-brovarah-na-bulv-nezalezhnosti-foto/) відбувались конфлікти та, навіть, сутички між працівниками спецвідділу із контролю за станом благоустрою міста та місцевими власниками металевих споруд. З метою вивчення та пошуку шляхів вирішення конфлікту днями утворили робочу групу. До неї ввійшли переважно місцеві мешканці. Про це йдеться у нещодавньому [розпорядженні](http://brovary-rada.gov.ua/documents/26269.html) міського голови.**

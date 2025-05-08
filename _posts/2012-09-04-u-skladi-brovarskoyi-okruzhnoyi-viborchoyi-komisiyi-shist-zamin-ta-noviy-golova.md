@@ -21,6 +21,7 @@ tags:
   - "sidanich"
   - "sklad-ovk"
   - "shherbakova"
+coverImage: "wp-content/uploads/2012/09/shahovi-perestanovki.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/09/shahovi-perestanovki.jpg "шахові перестановки")](https://mpz.brovary.org/wp-content/uploads/2012/09/shahovi-perestanovki.jpg)З моменту утворення [у складі окружної виборчої комісії](https://mpz.brovary.org/brovarsku-okruzhnu-viborchu-komisiyu-ocholiv-predstavnik-partiyi-bratstvo/) в одномандатному виборчому окрузі № 97 відбулось шість замін. Офіційна причина у всіх замін одна – "_у зв'язку із внесенням подання про заміну члена виборчої комісії суб'єктом, за поданням якого кандидатуру такого члена було включено до складу виборчої комісії_". У результаті цих змін до складу ОВК увійшли двоє членів броварської територіальної виборчої комісії, які працювали на місцевих виборах-2010, Олександр Грицай та Роман Мацанюк, який став новим головою ОВК по квоті партії "Братство".

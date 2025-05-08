@@ -12,6 +12,7 @@ tags:
   - "mayesh-pravo-znati"
   - "novini"
   - "statistika"
+coverImage: "wp-content/uploads/2014/11/Statistika-MPZ-zhovten.png"
 ---
 
 **[![Статистика МПЗ жовтень](https://mpz.brovary.org/wp-content/uploads/2014/11/Statistika-MPZ-zhovten.png)](https://mpz.brovary.org/wp-content/uploads/2014/11/Statistika-MPZ-zhovten.png)В останній місяць парламентських перегонів «Маєш право знати» встановило черговий рекорд відвідуваності сайту: в жовтні аудиторія нашого видання склала понад 37 тисяч унікальних користувачів.**

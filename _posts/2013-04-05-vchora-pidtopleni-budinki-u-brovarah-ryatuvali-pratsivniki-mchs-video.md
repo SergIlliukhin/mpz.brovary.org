@@ -13,6 +13,7 @@ tags:
   - "mns"
   - "novini"
   - "pidtoplennya"
+coverImage: "wp-content/uploads/2013/04/pidtoplennya2.jpg"
 ---
 
 [![підтоплення](https://mpz.brovary.org/wp-content/uploads/2013/04/pidtoplennya.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/04/pidtoplennya.jpg)Як [повідомила](http://www.mns.gov.ua/news/24517.html) Держслужба з надзвичайних ситуацій, вчора упродовж доби  79 працівників підрозділів ДСНС та 31 одиниця техніки залучались для надання допомоги мешканцям Київської області з мінімізації наслідків весняного водопілля у населених пунктах Броварського, Вишгородського, Іванківського, Києво-Святошинського та Бородянського районів, Ірпінської зони.

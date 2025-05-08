@@ -12,6 +12,7 @@ tags:
   - "novini"
   - "pavlichenki"
   - "futbolni-fanati"
+coverImage: "wp-content/uploads/2013/01/Pavlichenki--.jpg"
 ---
 
 **[![](https://mpz.brovary.org/wp-content/uploads/2013/01/Pavlichenki--.jpg "Павличенки++")](https://mpz.brovary.org/wp-content/uploads/2013/01/Pavlichenki--.jpg)У неділю, 13 грудня, о 15:00 на броварському Майдані Свободи розпочнеться марш «Волю Павличенкам!» в рамках всеукраїнської акції на підтримку несправедливо засуджених Дмитра та Сергія Павличенків.**

@@ -14,6 +14,7 @@ tags:
   - "znushhannya-nad-tvarynamy"
   - "novini"
   - "chotyrylapi-druzi"
+coverImage: "wp-content/uploads/2017/01/1-1-e1484049111555.jpg"
 ---
 
 **Близько місяця тому Бровари сколихнула [історія](https://mpz.brovary.org/zabyv-bezdomnogo-psa-napivsmerti-lyudy-vymagayut-kryvdnyku-pokarannya/) побиття чоловіком дворового собаки Рекса - майже до смерті, на очах людей. Про цю історію [розказали](https://www.youtube.com/watch?v=LeBSs0TAG6s&index=8&list=PL8r7jBSECRoCnVF3g62xtma338w9K4env) навіть центральні українські канали. На той час на захист собаки об'єдналося чимало небайдужих броварчан - збирали кошти для обстеження, лікування та піклування.**

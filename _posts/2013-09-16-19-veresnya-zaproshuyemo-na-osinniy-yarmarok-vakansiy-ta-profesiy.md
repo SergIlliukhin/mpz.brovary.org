@@ -13,6 +13,7 @@ tags:
   - "tsentr-zaynyatosti"
   - "yarmarok"
   - "yarmarok-vakansiy"
+coverImage: "wp-content/uploads/2013/09/yarmarka_vakansii.jpg"
 ---
 
 [![yarmarka_vakansii](https://mpz.brovary.org/wp-content/uploads/2013/09/yarmarka_vakansii.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/09/yarmarka_vakansii.jpg)**Інформуємо, що у четвер, 19 вересня 2013 року, у приміщені Броварського міськрайонного центру зайнятості (м. Бровари, вул. Кірова, 92) відбудеться:** **• з 10:00 до 12:00 - Ярмарок вакансій;** **• з 13:00 до 14:00 - Ярмарок професій.**

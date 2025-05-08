@@ -14,6 +14,7 @@ tags:
   - "mazhori"
   - "sapozhko"
   - "tarifi"
+coverImage: "wp-content/uploads/2013/04/scr_sap.jpg"
 ---
 
 **_[![scr_sap](https://mpz.brovary.org/wp-content/uploads/2013/04/scr_sap.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/04/scr_sap.jpg)"Шановні броварчани! Сьогодні треба відверто сказати: існуюча система не витримала вимог часу. На жаль, ми не можемо похвалитися значним зростанням нашого добробуту. Нам потрібні негайні зміни"._**

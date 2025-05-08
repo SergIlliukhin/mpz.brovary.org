@@ -15,6 +15,7 @@ tags:
   - "perejmenuvannya"
   - "sud"
   - "femida"
+coverImage: "wp-content/uploads/2016/04/SHubina_pozov_2_00045.jpg"
 ---
 
 **Сьогодні у Броварському міськрайонному суді Київської області мав відбутися розгляд справи за позовом громадянок** **Людмили Шубіної, Світлани Федяніної та Наталі Олейнік. Позивачки звернулись до Феміди із проханням скасувати [перейменування усіх 70-ти вулиць у Броварах](https://mpz.brovary.org/u-brovarah-z-yavylys-vulytsi-na-chest-stepana-bandery-nebesnoyi-sotni-ta-geroyiv-ato/). Однак, ані на [перше](https://mpz.brovary.org/bazhayuchi-povernuty-brovarskym-vulytsyam-komunistychni-nazvy-ne-z-yavylysya-na-sud/), ані на сьогоднішнє засідання жодна із позивачок так і не з’явилась. Суд лишив справу без розгляду.**

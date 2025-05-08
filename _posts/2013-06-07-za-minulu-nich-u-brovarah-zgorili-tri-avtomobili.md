@@ -12,6 +12,7 @@ tags:
   - "novini"
   - "pozhezha"
   - "pozhezhniki"
+coverImage: "wp-content/uploads/2013/06/Zgorile-avto.jpg"
 ---
 
 \[caption id="attachment\_18314" align="alignleft" width="300"\][![м.Бровари, вул.Черняховського, 11-Г](https://mpz.brovary.org/wp-content/uploads/2013/06/Zgorile-avto.jpg "м.Бровари, вул.Черняховського, 11-Г")](https://mpz.brovary.org/wp-content/uploads/2013/06/Zgorile-avto.jpg) м.Бровари, вул.Черняховського, 11-Г\[/caption\]

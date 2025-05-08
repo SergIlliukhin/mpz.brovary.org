@@ -15,6 +15,7 @@ tags:
   - "novorichni-svyata"
   - "samopomich"
   - "yalinka"
+coverImage: "wp-content/uploads/2016/12/43_big.jpg"
 ---
 
 **Завтра, 27 грудня, об'єднання "Самопоміч" запрошує маленьких броварчан взяти участь у прикрашанні Новорічної ялинки. Таке [оголошення](https://www.facebook.com/samopomich.brovary/posts/1123002044465824) було опубліковано на офіційній сторінці "Самопоміч" Бровари у FB.**

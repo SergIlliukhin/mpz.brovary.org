@@ -15,6 +15,7 @@ tags:
   - "novini"
   - "oksana-melnyk"
   - "upravlinnya-osviti"
+coverImage: "wp-content/uploads/2016/11/5-5.jpg"
 ---
 
 **Нещодавно броварський відділ культури залишився без керівника - "незмінна" Наталія Багмут [заявила](https://mpz.brovary.org/ochilnytsya-viddilu-kultury-nataliya-bagmut-zayavyla-pro-svoye-zvilnennya/) про своє звільнення, і вже оголошено [конкурс](https://mpz.brovary.org/ogolosheno-konkurs-na-vakantnu-posadu-nachalnyka-viddilu-kultury-bmr/) на цю вакансію. Проте вона не єдина зі "старої гвардії", хто роками обіймав посади у виконавчій владі Броварів, а тепер - пішов. У січні минає рік, як Володимир Онищенко залишив місце начальника управління освіти та науки Броварської міської ради, яке він займав 13 років. Відтоді з поля зору броварчан він практично зник. Куди ж  подівся екс-начальник управління освіти?**

@@ -12,6 +12,7 @@ tags:
   - "gromadske-telebachennya"
   - "stritbol"
   - "chempionat-ukrayiny-zi-stritbolu"
+coverImage: "wp-content/uploads/2015/08/stritbol.jpg"
 ---
 
 

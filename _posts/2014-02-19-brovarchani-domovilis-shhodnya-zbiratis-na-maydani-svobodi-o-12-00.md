@@ -10,6 +10,7 @@ tags:
   - "brovarska-narodna-rada"
   - "vibir-redaktsiyi"
   - "novini"
+coverImage: "wp-content/uploads/2014/02/Brovari-vstavay-19-02.jpg"
 ---
 
 **[![Бровари вставай координація](https://mpz.brovary.org/wp-content/uploads/2014/02/Brovari-vstavay-koordinatsiya.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/02/Brovari-vstavay-koordinatsiya.jpg)Сьогодні о 12:00 на броварському Майдані зібралось близько сотні людей, які вийшли на заклики небайдужих активістів в Інтернеті. Під час спонтанного мітингу громадяни обговорили свої подальші дії в Броварах, після чого частина людей вирушила до міської лікарні, решта поїхали на виїзд з Броварів робити блок-пост та стежити, щоб до столиці не прорвались "тітушки" та силовики.**

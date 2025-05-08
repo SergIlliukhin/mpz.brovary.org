@@ -12,6 +12,7 @@ tags:
   - "zasidannya"
   - "komisiya"
   - "novini"
+coverImage: "wp-content/uploads/2012/07/Bud_vlya-m_skoyi-radi-zagalniy-plan-3.jpg"
 ---
 
 **Сьогодні, завтра та наступного тижня відбудуться засідання постійних депутатських комісій. Обранці мають ухвалити рішення щодо низки питань, які виносять на розгляд 6-ої чергової сесії 28 січня. Графік засідань і перелік питань [опублікований](http://brovary-rada.gov.ua/graf%D1%96k-provedennya-zas%D1%96dan-post%D1%96inikh-deputatskikh-kom%D1%96s%D1%96i-ta-perel%D1%96k-pitan-shcho-budut-vinesen%D1%96-do) на офіційному сайті Броварської міської ради.**

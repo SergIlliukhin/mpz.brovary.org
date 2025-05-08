@@ -11,6 +11,7 @@ tags:
   - "direktor-baseynu"
   - "kupava"
   - "novini"
+coverImage: "wp-content/uploads/2014/01/kupava-11.jpg"
 ---
 
 **[![kupava 1](https://mpz.brovary.org/wp-content/uploads/2014/01/kupava-1.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/01/kupava-1.jpg)З 7 квітня на офіційному сайті Броварської міської ради триває [онлайн-опитування кандидатів](http://www.brovary.kiev.ua/opituvannya-gromadsko%D1%97-dumki-stosovno-kandidaturi-ker%D1%96vnika-plavalnogo-baseinu-%C2%ABkupava%C2%BB-1) на пост директора плавального басейну "Купава". Нагадаємо, Міністр молоді та спорту Дмитро Булатов, [відвідавши олімпійський басейн](https://mpz.brovary.org/ministr-molodi-i-sportu-bulatov-kupava-mozhe-zapratsyuvati-cherez-tizhden/), наголосив на важливості громадського обговорення претендентів на посаду очільника об'єкту та виступив з ініціативою створити відповідне голосування в мережі. Нині на сайті можна підтримати або відомого спортсмена Сергія Бреуса, або голову профспілки працівників освіти Андрія Артемчука. Також можна запропонувати свою кандидатуру в коментарях. Зараз "Купаву" очолює дружина масажиста Азарова Тетяна Федоренко.**

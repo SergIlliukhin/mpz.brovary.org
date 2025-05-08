@@ -12,6 +12,7 @@ tags:
   - "promizhni-vibori"
   - "tehnichni-kandidati"
   - "torgmash"
+coverImage: "wp-content/uploads/2013/05/187582470c0434b0223e11020a3f64a1.jpg"
 ---
 
 [![187582470c0434b0223e11020a3f64a1](https://mpz.brovary.org/wp-content/uploads/2013/05/187582470c0434b0223e11020a3f64a1.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/05/187582470c0434b0223e11020a3f64a1.jpg)Сьогодні відбулось засідання броварської виборчої комісії щодо проміжних виборів депутата броварської міської ради на Торгмаші.

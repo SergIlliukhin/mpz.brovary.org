@@ -16,6 +16,7 @@ tags:
   - "simutin"
   - "sapozhko"
   - "tovari"
+coverImage: "wp-content/uploads/2015/01/53j334OUyHc-Kopiya.jpg"
 ---
 
 **[![1409764864-1216](https://mpz.brovary.org/wp-content/uploads/2015/01/1409764864-1216.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/01/1409764864-1216.jpg)**

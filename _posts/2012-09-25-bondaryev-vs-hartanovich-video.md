@@ -11,6 +11,7 @@ tags:
   - "bondaryev"
   - "militsiya"
   - "hartanovich"
+coverImage: "wp-content/uploads/2012/09/2012-09-25_1511.png"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/09/Bondarev.jpg "Бондарев")](https://mpz.brovary.org/wp-content/uploads/2012/09/Bondarev.jpg)Нещодавно у Інтернет-мережі з'явився відеозапис того, як броварська міліція буцім-то [побила народного депутата України **Костянтина Бондарєва**](https://mpz.brovary.org/ukrayinska-pravda-u-brovarah-militsiya-pobila-deputata-batkivshhini/ "Українська Правда: У Броварах міліція побила народного депутата “Батьківщини”"), а Бондарєв буцім-то завдав тілесних ушкоджень **Руслану Хартановичу** - заступнику начальника Броварського МВ ГУ МВС у Київській області та позривав з нього погони.

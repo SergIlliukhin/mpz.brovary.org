@@ -12,6 +12,7 @@ tags:
   - "marshrutki"
   - "novini"
   - "tsina-na-proyizd"
+coverImage: "wp-content/uploads/2016/10/marshrutka.jpg"
 ---
 
 **Вже цієї суботи вартість проїзду в маршрутках в межах міста зросте із 3,00 до 3,50 грн. Про це йдеться в** [**оголошенні**](http://brovary-rada.gov.ua/news/14373.html) **на сайті Броварської міської ради.**

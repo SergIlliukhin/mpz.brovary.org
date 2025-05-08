@@ -17,6 +17,7 @@ tags:
   - "simutin"
   - "krivaviy-subotnik"
   - "fedorenko"
+coverImage: "wp-content/uploads/2013/05/DSC8985.jpg"
 ---
 
 [![_DSC8923](https://mpz.brovary.org/wp-content/uploads/2013/05/DSC89232.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/05/DSC89232.jpg)**Побиттям журналістів та жорстокими сутичками мешканців міста з міліцією та «Братками» закінчилась мирна акція в Броварах на захист центрального міського парку «Перемога».**

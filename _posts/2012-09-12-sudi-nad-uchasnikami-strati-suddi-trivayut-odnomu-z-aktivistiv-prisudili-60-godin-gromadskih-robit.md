@@ -16,6 +16,7 @@ tags:
   - "strata-suddi"
   - "sud"
   - "cheh"
+coverImage: "wp-content/uploads/2012/09/Zatsarniy.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/09/Image00004.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/09/Image00004.jpg)У понеділок, 10 вересня, пройшли одразу два судові засідання з [приводу подій, що відбувалися 4 вересня під час акції «Страта судді»](https://mpz.brovary.org/mirna-aktsiya-starata-suddi-zakinchilas-pobittyam-ta-zatrimannyami-yiyi-uchasnikiv-militsiyeyu/ "Мирна акція «Страта судді» закінчилась побиттям та затриманнями її учасників міліцією"). Судили **Костя Зацарного**, голову секретаріату ОУН(м), який у дійстві виконував роль «ката», та **Руслана Чеха**, члена УНСО, що зачитував вирок судді від імені «Революційного трибуналу». Першого визнали винним та присудили 60 годин громадських робіт, справу другого повернули для належного оформлення. Нагадаємо, 7 вересня до 50 годин громадських робіт [уже засудили Миколу Смірнова](https://mpz.brovary.org/uchasnika-mirnoyi-aktsiyi-strata-suddi-zasudili-do-50-godin-vipravnih-robit/ "Учасника мирної акції «Страта судді» засудили до 50 годин виправних робіт").

@@ -13,6 +13,7 @@ tags:
   - "novini"
   - "osbb"
   - "resursniy-tsentr-osbb"
+coverImage: "wp-content/uploads/2014/11/lichilnik.jpg"
 ---
 
 **[![лічильник](https://mpz.brovary.org/wp-content/uploads/2014/11/lichilnik.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/11/lichilnik.jpg)Наступного четверга, 20 листопада, броварчан запрошують на навчальний захід «Практичні варіанти економії енергоресурсів». Захід розпочнеться о 14:00 в залі виконкому на 4 поверсі адмінбудинку по вул. Гагаріна, 18. Про це повідомляє ресурсний центр ОСББ Броварів у [фейсбуку](https://www.facebook.com/photo.php?fbid=757354814301285&set=gm.929100483786585&type=1#) та броварське управління житлово-комунального госодарства на [офіційному веб-сайті](http://docs.pravo-znaty.org.ua/p14168/13.11.2014) Броварської міської ради.**

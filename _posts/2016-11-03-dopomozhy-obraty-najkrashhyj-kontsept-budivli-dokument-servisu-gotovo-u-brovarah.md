@@ -16,6 +16,7 @@ tags:
   - "lev-partshaladze"
   - "novini"
   - "tsentr-gotovo"
+coverImage: "wp-content/uploads/2016/11/13892129_1016179435161819_8679034082841905281_n.png"
 ---
 
 **В Броварах планують [відкрити](https://mpz.brovary.org/ogolosheno-konkurs-na-stvorennya-filialu-gotovo-u-brovarah/) центр по наданню адміністративних послуг «ГОТОВО!». Конкурс на архітектурний проект будівлі тривав до 28 жовтня і тепер обирають переможця. Проголосувати можна [на сторінці](https://www.facebook.com/lev.partskhaladze/posts/651158681705244) у FB в.о.голови Київської облдержадміністрації Льва Парцхаладзе.**

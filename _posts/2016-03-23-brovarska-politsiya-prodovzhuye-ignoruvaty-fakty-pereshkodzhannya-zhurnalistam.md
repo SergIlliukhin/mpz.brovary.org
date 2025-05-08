@@ -16,6 +16,7 @@ tags:
   - "novini"
   - "politsiya"
   - "yanchynskyj"
+coverImage: "wp-content/uploads/2016/03/Politsiya_11.11.2015_00073.jpg"
 ---
 
 **Броварський міськвідділ поліції відмовив у відкритті кримінального провадження за фактом [перешкоджання професійній діяльності журналістів 2 березня в МКЦ «Прометей».](https://mpz.brovary.org/pensionery-ta-komunisty-vyslovyly-pidtrymku-vynogradovij-i-kuznyetsovu-na-z-yizdi-u-prometeyi-video/) Про це сьогодні стало відомо з висновку по заяві про злочин, наданому журналісту «Маєш право знати» Андрію Качору у броварській поліції.**

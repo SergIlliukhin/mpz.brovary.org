@@ -15,6 +15,7 @@ tags:
   - "sergiy-vasilyuk"
   - "tin-sontsya"
   - "ukrayinskiy-marsh"
+coverImage: "wp-content/uploads/2014/05/marsh-ukr27.jpg"
 ---
 
 **[![марш укр13](https://mpz.brovary.org/wp-content/uploads/2014/05/marsh-ukr13.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/05/marsh-ukr13.jpg)Напередодні Дня Перемоги броварська молодь пройшла [Українським маршем](https://mpz.brovary.org/brovarska-molod-viyde-na-ukrayinskiy-marsh/) по рідному місту. На заклик [Об’єднання незалежної української молоді](https://vk.com/onymua) - організаторів ходи - на Майдані Свободи зібрались близько півтори сотні мешканців міста у вишиванках та з українською символікою. Звідти колоною молодь рушила вулицями Броварів. Як зазначили активісти-організатори, захід приурочений до Днів пам'яті та примирення в Україні та світі.**

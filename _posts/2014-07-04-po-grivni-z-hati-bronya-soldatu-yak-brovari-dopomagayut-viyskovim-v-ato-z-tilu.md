@@ -10,6 +10,7 @@ tags:
   - "vibir-redaktsiyi"
   - "koordinatsiyniy-tsentr-dopomogi-brovarskim-viyskovim"
   - "novini"
+coverImage: "wp-content/uploads/2014/07/desna.jpg"
 ---
 
 **[![полтавка 12](https://mpz.brovary.org/wp-content/uploads/2014/07/poltavka-12.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/07/poltavka-12.jpg)Громадські активісти, чиновники, підприємці й небайдужі містяни активно взялися допомагати броварським солдатам, які проходять військові навчання та відвойовують український Донбас у бойовиків.**

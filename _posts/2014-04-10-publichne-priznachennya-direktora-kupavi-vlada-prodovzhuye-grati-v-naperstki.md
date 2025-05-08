@@ -8,6 +8,7 @@ categories:
   - "rozsliduvannya"
 tags: 
   - "vibir-redaktsiyi"
+coverImage: "wp-content/uploads/2014/04/7ff508a5-620b-4eef-a1c0-94f809363dbe_1.jpg"
 ---
 
 **[![bulatov_kupava09](https://mpz.brovary.org/wp-content/uploads/2014/04/bulatov_kupava091.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/04/bulatov_kupava091.jpg)Як і обіцяв новопризначений міністр молоді та спорту Дмитро Булатов, у Броварах стартувало «громадське обговорення» кандидатур на посаду директора басейну «Купава» замість дружини масажиста Азарова – Тетяни Федоренко – яка очолювала басейн донедавна.**

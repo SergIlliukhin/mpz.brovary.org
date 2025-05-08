@@ -12,6 +12,7 @@ tags:
   - "den-primirennya"
   - "druga-svitova"
   - "novini"
+coverImage: "wp-content/uploads/2014/05/7162945_cb2f76c4.jpg"
 ---
 
 [![Den-pobedy](https://mpz.brovary.org/wp-content/uploads/2014/05/Den-pobedy.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/05/Den-pobedy.jpg)**8 травня у Броварах відбудеться [«Український Марш»](https://vk.com/event70282803), присвячений дню завершення Другої Світової війни в Україні. Стартує марш о 18:00 з Майдану Свободи. Як повідомляють організатори акції  - [Об’єднання незалежної української молоді](https://vk.com/onymua) - після маршу планується сольний концерт фронтмена музичної групи «Тінь Сонця» Сергія Василюка.**

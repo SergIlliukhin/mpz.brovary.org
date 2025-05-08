@@ -13,6 +13,7 @@ tags:
   - "liliya-grynevych"
   - "mizhnarodnyj-kongres"
   - "novini"
+coverImage: "wp-content/uploads/2017/03/2c5d1e0-grynevych-minister.jpg"
 ---
 
 **28 березня у** **Бровар****ах пройде Міжнародний конгрес, у рамках якого заплановано обмін досвідом педагогів задля активізації інноваційних процесів у освітній сфері. Про це на своїй офіційній сторінці [повідомив](http://www.kyiv-oblosvita.gov.ua/component/content/article/2-uncategorised/9809-reestratsiya-uchasnikiv-mizhnarodnogo-kongresu-osvita-kijivshchini-v-evropejskomu-vimiri) Департамент освіти і науки Київської обласної державної адміністрації.** 

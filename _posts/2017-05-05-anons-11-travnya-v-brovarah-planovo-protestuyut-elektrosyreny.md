@@ -13,6 +13,7 @@ tags:
   - "elektrosyrena"
   - "novini"
   - "tsivilniy-zahist"
+coverImage: "wp-content/uploads/2017/05/315ff161ccaa971d729199fe86322be7.jpg"
 ---
 
 **11 травня в Броварах будуть перевіряти систему оповіщення населення із включенням електросирен. Про це повідомляється в [оголошенні](http://brovary-rada.gov.ua/news/15124.html) на офіційному сайті Броварської міськради.**

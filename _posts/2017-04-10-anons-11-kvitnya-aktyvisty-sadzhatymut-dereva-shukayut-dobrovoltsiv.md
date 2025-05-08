@@ -19,6 +19,7 @@ tags:
   - "sadzhantsi"
   - "sadzhaty"
   - "uzhkg"
+coverImage: "wp-content/uploads/2017/04/sadzhantsi-sadzhaty-dity-derevo.jpg"
 ---
 
 **Завтра на 19:00 до Броварів привезуть 40 саджанців для парку «Перемога». Активісти шукають не менш як десятьох «сміливців», які допоможуть посадити дерева. Про це [йдеться](https://www.facebook.com/events/1705270413104324/) у фейсбук-зустрічі від організації «[ЕКО Бровари](https://mpz.brovary.org/anons-18-sichnya-vidbudutsya-zbory-novostvorenoyi-go-eko-brovary/)».**

@@ -17,6 +17,7 @@ tags:
   - "novini"
   - "obshuk"
   - "uzvakonennya"
+coverImage: "wp-content/uploads/2017/02/Screenshot_30.jpg"
 ---
 
 **Сьогодні зранку в кабінеті міського голови Ігоря Сапожка працювала слідчо-оперативна група. Озброєні правоохоронці нібито шукали документи, пов’язані із ТОВ «Брігус». Про це розповіли свідки подій, зокрема Ігор Сапожко. У вересні минулого року Броварська міська рада «[узаконила](https://mpz.brovary.org/18-ta-sesiya-brovarskoyi-miskoyi-rady-rishennya-pryjmaye-sformovana-bilshist-hto-proty/)» надбудову по вул. Лісовій, 24, зведену цією компанією.**

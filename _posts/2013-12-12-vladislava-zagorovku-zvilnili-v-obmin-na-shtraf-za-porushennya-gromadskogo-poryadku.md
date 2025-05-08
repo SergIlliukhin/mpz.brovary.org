@@ -18,6 +18,7 @@ tags:
   - "sud"
   - "shevchenkivskiy-sud"
   - "shturm-bankovoyi"
+coverImage: "wp-content/uploads/2013/12/Zagorovka-sud-2.jpg"
 ---
 
 **[![Загоровка суд 2](https://mpz.brovary.org/wp-content/uploads/2013/12/Zagorovka-sud-2.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/12/Zagorovka-sud-2.jpg)Вчора Печерський районний суд міста Києва звільнив броварчанина Владислава Загоровку, який [перебував під арештом](https://mpz.brovary.org/sered-pobitih-pid-administratsiyeyu-prezidenta-ta-zaareshtovanih-za-organizatsiyu-masovih-bezporyadkiv-ye-brovarchanin/) за підозрою в "організації масових заворушень" на вул. Банковій. При цьому суд визнав його винним у "порушенні громадського порядку" та присудив штраф  у розмірі 850 грн. Звинувачень в інших злочинах стосовно броварчанина наразі немає. Чоловік продовжить лікування у відділенні неврології, де нині також перебуває його дружина.**

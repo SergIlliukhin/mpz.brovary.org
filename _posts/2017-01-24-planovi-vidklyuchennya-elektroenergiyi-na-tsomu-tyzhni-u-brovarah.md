@@ -12,6 +12,7 @@ tags:
   - "vidklyuchennya-elektroenergiyi"
   - "grafik-vidklyuchen-elektroenergiyi"
   - "novini"
+coverImage: "wp-content/uploads/2017/01/lampochka.jpeg"
 ---
 
 **Протягом цього та наступного тижня у Броварах відбудеться низка відключень електроенергії через розчищення ліній електропередач та капітальний ремонт. Про це йдеться на офіційних сайтах [Броварської міської ради](http://brovary-rada.gov.ua/news/14722.html) та [ПАТ «Київобленерго»](http://www.koe.vsei.ua/koe/index.php?page=76&ok=1).**

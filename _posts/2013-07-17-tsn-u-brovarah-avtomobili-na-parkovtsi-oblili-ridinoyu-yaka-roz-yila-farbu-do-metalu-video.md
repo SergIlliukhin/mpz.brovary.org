@@ -15,6 +15,7 @@ tags:
   - "np"
   - "parkovki"
   - "tsn"
+coverImage: "wp-content/uploads/2013/07/Poshkodzheni-avto.png"
 ---
 
 **[![Пошкоджені авто](https://mpz.brovary.org/wp-content/uploads/2013/07/Poshkodzheni-avto.png)](https://mpz.brovary.org/wp-content/uploads/2013/07/Poshkodzheni-avto.png)Вчора, 16 липня, у Броварах півтора десятка автомобілів облили невідомою рідиною. Про це йшлось у [сюжеті ТСН](http://tsn.ua/kyiv/u-brovarah-avtomobili-na-parkovci-oblili-ridinoyu-yaka-roz-yila-farbu-do-metalu-302612.html) в ефірі телеканалу "1+1" о 19:30.**

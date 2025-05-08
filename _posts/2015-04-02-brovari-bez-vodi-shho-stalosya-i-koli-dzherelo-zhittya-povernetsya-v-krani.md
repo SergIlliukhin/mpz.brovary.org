@@ -11,6 +11,7 @@ tags:
   - "vibir-redaktsiyi"
   - "kp-brovariteplovodoenergiya"
   - "novini"
+coverImage: "wp-content/uploads/2015/04/1-Grushevskogo.jpg"
 ---
 
 **_[![1 Грушевського](https://mpz.brovary.org/wp-content/uploads/2015/04/1-Grushevskogo.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/04/1-Grushevskogo.jpg)_Лише вчора у групі «Бровари» на Фейсбук броварчани цікавилися, чи буде в місті гаряча вода після 1 квітня. Та вже сьогодні набагато актуальнішим постало питання, чи буде в Броварах вода взагалі, адже з самого ранку 2 квітня у кранах броварчан тільки шипіло. Куди ж зникла холодна вода з кранів і чи надовго?**

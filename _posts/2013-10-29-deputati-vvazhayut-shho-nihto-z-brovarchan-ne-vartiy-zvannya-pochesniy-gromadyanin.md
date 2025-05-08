@@ -16,6 +16,7 @@ tags:
   - "pochesniy-gromadyanin"
   - "pochesniy-gromadyanin-mista-brovari"
   - "prisvoyennya-zvannya"
+coverImage: "wp-content/uploads/2013/10/Stend-Pochesnogo-gromadyanina.jpg"
 ---
 
 **[![Краєзнавчий музей](https://mpz.brovary.org/wp-content/uploads/2013/10/Krayeznavchiy-muzey.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/10/Krayeznavchiy-muzey.jpg)Цього року для того, щоб визначити, кому присвоїти звання Почесний громадянин міста Бровари, на сайті міськради було проведено [онлайн-опитування читачів](https://mpz.brovary.org/startuvalo-onlayn-opituvannya-shhodo-kandidativ-na-zvannya-pochesniy-gromadyanin-mista-brovari/). У такий спосіб влада вирішила проконсультуватись з громадськістю з приводу досить непростого питання, де справді важлива думка людей. За задумом чиновників, це мало б допомогти б спільними зусиллями визначити найдостойнішого з номінантів на звання. Однак коли настав час ухвалювати рішення, Броварська міська рада постановила нікому не присвоювати звання  "Почесний громадянин міста Бровари". І так депутати роблять вже третій рік поспіль, вочевидь, вважаючи, що в 100-тисячному місті немає людей, вартих таких почестей.**

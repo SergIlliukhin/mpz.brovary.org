@@ -9,6 +9,7 @@ categories:
 tags: 
   - "brovary"
   - "vulytsi"
+coverImage: "wp-content/uploads/2012/03/Brovary1.jpg"
 ---
 
 ![](https://mpz.brovary.org/wp-content/uploads/2012/03/Brovary.jpg "Бровари")На минулій сесії Броварської міської ради депутати затвердили перелік назв вулиць, провулків, площ, бульвару та майдану на території м.Бровари - рішення Броварської міської ради [№551-19-06 від 16.02.2012](http://docs.pravo-znaty.org.ua/p776/16.02.2012/551-19-06 "Вулиці Броварів").

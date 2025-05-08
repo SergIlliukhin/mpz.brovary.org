@@ -14,6 +14,7 @@ tags:
   - "novini"
   - "rizanenko"
   - "udar"
+coverImage: "wp-content/uploads/2012/08/Logotip-UDAR.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/08/Logotip-UDAR.jpg "Логотип УДАР")](https://mpz.brovary.org/wp-content/uploads/2012/08/Logotip-UDAR.jpg)Вчора на 10-му з’їзді партії «УДАР» Віталія Кличка було затверджено виборчі списки кандидатів, які братимуть участь у виборах до Верховної Ради України, зокрема [список кандидатів у багатомандатному виборчому окрузі](http://klichko.org/ua/news/news/zyizd-udaru-zatverdiv-spiski-kandidativ-na-parlamentskih-viborah) та [список кандидатів «УДАРу» в одномандатних округах](http://klichko.org/ua/news/news/spisok-kandidativ-udaru-v-mazhoritarnih-okrugah). По мажоритарному виборчому округу № 97, до якого входять Бровари, кандидатом став **Павло Різаненко.** Про це повідомляється на [офіційному сайті](http://klichko.org) політичної партії «УДАР».

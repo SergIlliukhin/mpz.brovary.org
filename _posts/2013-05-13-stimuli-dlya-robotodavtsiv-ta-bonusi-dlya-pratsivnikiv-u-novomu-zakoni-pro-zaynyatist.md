@@ -12,6 +12,7 @@ tags:
   - "pratsevlashtuvannya"
   - "robotodavtsi"
   - "tsentr-zaynyatosti"
+coverImage: "wp-content/uploads/2013/05/Pratsevlashtuvannya.jpg"
 ---
 
 [![Працевлаштування](https://mpz.brovary.org/wp-content/uploads/2013/05/Pratsevlashtuvannya.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/05/Pratsevlashtuvannya.jpg)Що отримають працівники та роботодавці від дії Закону України «Про зайнятість населення»? Які компенсації для підприємців прийшли з новим законом, що набрав чинності 1 січня 2013 року?

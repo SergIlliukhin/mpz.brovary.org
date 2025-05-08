@@ -14,6 +14,7 @@ tags:
   - "novini"
   - "rekonstruktsiya"
   - "svitlo"
+coverImage: "wp-content/uploads/2016/02/1444583060-60982f67c7b22380463f655437744e79.jpg"
 ---
 
 **Мешканців деяких вулиць приватного сектора старої частини Броварів залишать без електроенергії. Світло вимикатимуть від ранку до вечора - 8-го, 15-го та 16-го лютого. Про це [йдеться](http://brovary-rada.gov.ua/do-v%D1%96doma-brovarchan-shchodo-timchasovogo-pripinennya-postachannya-elektroenerg%D1%96%D1%97) на офіційному сайті Броварської міської ради.**

@@ -11,6 +11,7 @@ tags:
   - "kalishuk"
   - "shevchuk"
   - "priymalnya-deputata"
+coverImage: "wp-content/uploads/2013/08/240x180n_photo_ba0a94e8f24af9123e3998f28b41ac0c.jpg"
 ---
 
 [![Сергій Калішук](https://mpz.brovary.org/wp-content/uploads/2013/08/240x180n_photo_ba0a94e8f24af9123e3998f28b41ac0c.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/08/240x180n_photo_ba0a94e8f24af9123e3998f28b41ac0c.jpg)

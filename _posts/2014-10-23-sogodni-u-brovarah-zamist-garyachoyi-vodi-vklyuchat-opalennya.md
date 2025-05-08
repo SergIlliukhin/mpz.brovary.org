@@ -12,6 +12,7 @@ tags:
   - "novini"
   - "opalennya"
   - "opalyuvalniy-sezon"
+coverImage: "wp-content/uploads/2014/10/opalennya.jpg"
 ---
 
 **[![opalennya](https://mpz.brovary.org/wp-content/uploads/2014/10/opalennya.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/10/opalennya.jpg)Сьогодні у Броварах офіційно розпочинається опалювальний сезон, однак при цьому буде відключено гаряче водопостачання. Про це сказано в [оголошенні](http://brovary.kiev.ua/do-uvagi-brovarchan-u-brovarakh-rozpochina%D1%94tsya-opalyuvalnii-per%D1%96od) на офіційному веб-сайті Броварської міської ради.**

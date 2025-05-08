@@ -15,6 +15,7 @@ tags:
   - "mpz"
   - "novini"
   - "rubrika-lyudi"
+coverImage: "wp-content/uploads/2015/02/Alina-Dyachenko-DSC_2366-.jpg"
 ---
 
 **![Люди](https://mpz.brovary.org/wp-content/uploads/2014/10/Lyudi.png)**_Три роки тому - [у лютому 2012 року](https://mpz.brovary.org/zareyestrovano-gazetu-mayesh-pravo-znati-gotuyetsya-pershiy-nomer-2/) - «Маєш право знати» офіційно отримало статус ЗМІ. Ми вирішили, що ця річниця – чудова нагода ближче познайомити читачів з нашою командою та розповісти про наших засновників та журналістів, їх цілі, цінності та плани на майбутнє. І розпочати хочемо з історії головного редактора видання - Аліни Дяченко._

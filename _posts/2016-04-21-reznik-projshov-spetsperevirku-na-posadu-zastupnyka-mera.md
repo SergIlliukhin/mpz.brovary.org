@@ -13,6 +13,7 @@ tags:
   - "novini"
   - "reznik"
   - "sapozhko"
+coverImage: "wp-content/uploads/2016/04/reznik-1.jpg"
 ---
 
 **Голова фракції «Батьківщина», депутат броварської міськради Олександр Резнік, якого раніше [обрали на посаду](https://mpz.brovary.org/klyuchova-sesiya-sapozhko-vtratyv-vynogradovu-svoboda-pidtrymala-regionala-ta-otrymala-sekretarya/) заступника міського голови Ігоря Сапожка, пройшов спецперевірку перед входженням на посаду. Про це під час сьогоднішньої сесії повідомив мер Броварів Ігор Сапожко.**

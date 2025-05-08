@@ -12,6 +12,7 @@ tags:
   - "novini"
   - "osbb"
   - "shevchenko-4a"
+coverImage: "wp-content/uploads/2012/09/IMG_9953.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/09/897595777.jpg "ЖК Купава")](https://mpz.brovary.org/wp-content/uploads/2012/09/897595777.jpg)**Конфлікт між мешканцями ОСББ "Шевченко 4-А" та ;итлового комплексу "Купава" на вул. Симоненка виник ще кілька років тому, але цими днями, після втручання депутата, спалахнув з новою силою.**

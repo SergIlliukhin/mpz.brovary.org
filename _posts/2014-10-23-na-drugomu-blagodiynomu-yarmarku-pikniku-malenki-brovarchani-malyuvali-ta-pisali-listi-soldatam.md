@@ -14,6 +14,7 @@ tags:
   - "koordinatsiyniy-tsentr-dopomogi-brovarskim-viyskovim"
   - "novini"
   - "yarmarok"
+coverImage: "wp-content/uploads/2014/10/Drugiy-yarmarok-DSC_0150.jpg"
 ---
 
 **[![Другий ярмарок DSC_0057](https://mpz.brovary.org/wp-content/uploads/2014/10/Drugiy-yarmarok-DSC_0057.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/10/Drugiy-yarmarok-DSC_0057.jpg)У суботу, 18 жовтня, на численні прохання тих, хто не встиг приєднатися минулого разу, і просто через життєву необхідність Координаційний центр допомоги броварським військовим організував другий ярмарок-пікнік на підтримку наших солдат, котрі служать у зоні АТО.**

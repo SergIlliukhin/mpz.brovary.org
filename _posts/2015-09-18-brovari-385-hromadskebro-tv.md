@@ -13,6 +13,7 @@ tags:
   - "gromadske-telebachennya"
   - "lyudy"
   - "richnitsya"
+coverImage: "wp-content/uploads/2015/09/ryatuvalnyk.jpg"
 ---
 
 

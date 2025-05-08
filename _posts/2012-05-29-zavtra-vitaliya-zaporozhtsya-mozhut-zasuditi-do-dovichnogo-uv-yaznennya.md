@@ -11,6 +11,7 @@ tags:
   - "vo-svoboda"
   - "novini"
   - "sud"
+coverImage: "wp-content/uploads/2012/05/vitaliy-zaporozhets.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/05/vitaliy-zaporozhets.jpg "віталій запорожець")](https://mpz.brovary.org/wp-content/uploads/2012/05/vitaliy-zaporozhets.jpg)Завтра, 30 травня, о 9:30 у броварському міськрайонному суді за адресою: м. Бровари, вул. Воз’єднання, 1, відбудеться вирішальне засідання по справі Віталія Запорожця. У цей час поряд із приміщенням суду проходитиме мітинг на підтримку підсудного. Про це "Маєш право знати" повідомили у броварському районному осередку ВО "Свобода".

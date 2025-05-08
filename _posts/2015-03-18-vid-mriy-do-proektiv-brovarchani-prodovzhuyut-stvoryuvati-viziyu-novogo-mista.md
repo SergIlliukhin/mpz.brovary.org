@@ -17,6 +17,7 @@ tags:
   - "olena-hil"
   - "proektna-sesiya"
   - "tetyana-boyko"
+coverImage: "wp-content/uploads/2015/03/active_citizens_partner_ua4.jpg"
 ---
 
 **[![active_citizens_partner_ua4](https://mpz.brovary.org/wp-content/uploads/2015/03/active_citizens_partner_ua4.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/03/active_citizens_partner_ua4.jpg)Цими вихідними – 21 та 22 березня – відбудеться проектна сесія «Нове місто - Бровари» яка є логічним продовженням [стратегічної сесії «Нове місто – Бровари»](https://mpz.brovary.org/viziya-novih-brovariv-pershiy-krok-na-pochatku-velikogo-shlyahu/), проведеної громадськими активістами наприкінці лютого.**

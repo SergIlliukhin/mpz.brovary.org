@@ -13,6 +13,7 @@ tags:
   - "kryza"
   - "novini"
   - "sapozhko"
+coverImage: "wp-content/uploads/2016/02/IMG_4058.jpg"
 ---
 
 **Сьогодні о 14:00 мала відбутися позачергова сесія броварської міської ради щодо подолання [вчорашнього вето](https://mpz.brovary.org/sapozhko-naklav-veto-na-vchorashnye-rishennya-miskrady-ta-sklykaye-sesiyu-na-zavtra/) мера Ігоря Сапожка на рішення депутатів про затвердження нового складу виконкому.**

@@ -12,6 +12,7 @@ tags:
   - "rekonstruktsiya"
   - "sapozhko"
   - "firma-gf"
+coverImage: "wp-content/uploads/2012/12/4_94.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/12/4_94.jpg "Басейн Купава")](https://mpz.brovary.org/wp-content/uploads/2012/12/4_94.jpg)**Басейн "Купава" буде введено в експлуатацію не раніше грудня 2013 року** - саме такі терміни встановлені у договорі підряду на виконання робіт по реконструкції.

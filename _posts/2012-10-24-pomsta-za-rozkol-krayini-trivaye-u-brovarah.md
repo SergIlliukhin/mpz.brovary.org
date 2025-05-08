@@ -14,6 +14,7 @@ tags:
   - "pomsta-za-rozkol-krayini"
   - "ratnikov"
   - "fedorenko"
+coverImage: "wp-content/uploads/2012/10/362258791.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/10/Image00051.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/10/Image00051.jpg)Цього разу активісти всеукраїнської кампанії «[Помста за розкол країни](http://uk.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BC%D1%81%D1%82%D0%B0_%D0%B7%D0%B0_%D1%80%D0%BE%D0%B7%D0%BA%D0%BE%D0%BB_%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8)» у 97-му мажоритарному округу обрали об’єктом своєї уваги не лише **Партію регіонів** та офіційного кандидата від неї **Сергія Федоренка**, а й «запасного регіонала» **Дмитра Ратнікова**. Кандидат, маскуючись під опозиційними кольорами та опозиційною риторикою, ретельно приховує факти своєї біографії, зокрема й [своє входження до фракції Партії регіонів у Київській обласній раді](https://mpz.brovary.org/chi-gotoviy-regional-ratnikov-voyuvati-proti-svoyih-dokument/) та спільне голосування з нею.

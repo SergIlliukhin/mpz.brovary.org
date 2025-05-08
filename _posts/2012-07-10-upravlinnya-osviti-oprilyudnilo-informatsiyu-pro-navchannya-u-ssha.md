@@ -12,6 +12,7 @@ tags:
   - "novini"
   - "rokford"
   - "sapozhko"
+coverImage: "wp-content/uploads/2012/07/geo_osvita_new.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/07/geo_osvita_new.jpg "Управління освіті Броварської міської ради")](https://mpz.brovary.org/wp-content/uploads/2012/07/geo_osvita_new.jpg)4 сертифікати на навчання у Рокфордському коледжі для броварських студентів знаходяться в Управлінні освіти Броварської міської ради - [повідомляється](http://brovaru-osvita.ucoz.ua/news/http_brovaru_osvita_ucoz_ua_fp_forumimage_jpg/2012-06-27-2 "Управління освіти Бровари") на офіційному сайті управління. Номінал кожного сертифікату становить **15725$** на рік. За умови успішного навчання сертифікати продовжуються на наступний рік.

@@ -19,6 +19,7 @@ tags:
   - "porushennya"
   - "prypys"
   - "sud"
+coverImage: "wp-content/uploads/2016/09/14256503_1027704953995072_2071860464_n.jpg"
 ---
 
 **Сумнозвісне [будівництво по вул. Василя Симоненка, 41](https://mpz.brovary.org/roman-bagmut-nezakonno-buduye-bagatopoverhivku-v-pryvatnomu-sektori-susidy-shokovani/) знову дало про себе знати. На ділянці нещодавно помітили відновлення робіт, будівельники вже майже звели перший поверх. Рік тому уповноважений контролюючий орган [припиняв це будівництво](https://mpz.brovary.org/derzharhbudinspektsiya-zupynyla-samochynne-budivnytstvo-u-brovarah/). Сьогодні в броварському держархбудконтролі переконують: роботи ведуться із порушеннями та є незаконними. У разі подальшого ігнорування приписів відомство обіцяє подати до суду на власника.**

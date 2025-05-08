@@ -15,6 +15,7 @@ tags:
   - "novini"
   - "okrug-97"
   - "yatsenyuk"
+coverImage: "wp-content/uploads/2012/09/YAtsenyuk_11--.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/09/YAtsenyuk_12.jpg "Яценюк_12")](https://mpz.brovary.org/wp-content/uploads/2012/09/YAtsenyuk_12.jpg)Виборча кампанія-2012 у розпалі. Лідери політичних сил їздять Україною та проводять агітаційні зустрічі за дуже щільним графіком. Цього тижня місцем зустрічі з виборцями наше місто обрав лідер партії "Фронт змін" та голова ради Об’єднаної опозиції **Арсеній Яценюк**.

@@ -9,6 +9,7 @@ tags:
   - "kishhuk"
   - "novini"
   - "rda"
+coverImage: "wp-content/uploads/2014/03/13516874308242b.jpg"
 ---
 
 **[![hkMpamKwrdo](https://mpz.brovary.org/wp-content/uploads/2014/03/hkMpamKwrdo.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/03/hkMpamKwrdo.jpg)З метою ефективного підбору кадрів та врахування думки громади при призначенні голів місцевих адміністрацій, налагодження конструктивного та прозорого діалогу між владою та суспільством, Київська обласна державна адміністрація ініціює відкрите обговорення кандидатур на посади голів районних державних адміністрацій у Київській області. Про це [повідомляється](http://www.brovary-rada.gov.ua/gromadske-obgovorennya-kandidat%D1%96v-na-posadi-gol%D1%96v-raiderzhadm%D1%96n%D1%96strats%D1%96i-ki%D1%97vshchini) на офіційному сайті Броварської міської ради.**

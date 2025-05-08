@@ -14,6 +14,7 @@ tags:
   - "sbu"
   - "transport"
   - "trotuar"
+coverImage: "wp-content/uploads/2012/04/Miskvikonkom.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/04/Miskvikonkom.jpg "Міськвиконком")](https://mpz.brovary.org/wp-content/uploads/2012/04/Miskvikonkom.jpg)Розподіл безплатних квартир у Броварах, ремонт тротуарів та утворення нового громадського формування з охорони громадського порядку - ці та інші важливі рішення були ухвалені на черговому засіданні виконавчого комітету, яке відбулось 10 квітня під головуванням Ігоря Сапожка.

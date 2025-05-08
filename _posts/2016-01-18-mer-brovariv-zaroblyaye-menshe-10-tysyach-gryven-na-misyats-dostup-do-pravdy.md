@@ -16,6 +16,7 @@ tags:
   - "zarobitna-plata"
   - "novini"
   - "sapozhko"
+coverImage: "wp-content/uploads/2016/01/Miting_tarifi_22.jpg"
 ---
 
 **Проект "Доступ до правди" [оприлюднив](https://dostup.pravda.com.ua/news/publications/zastupnyky-mera-brovariv-zarobliaiut-bilshe-nizh-miskyi-holova) відомості щодо [заробітної плати броварських очільників](https://dostup.pravda.com.ua/request/zarplata_miera_brovariv_ta_iogho/new) та [автопарку броварської мерії](https://dostup.pravda.com.ua/request/avtopark_ochilnikiv_brovarskoyi/new). Мер Броварів та його заступники офіційно заробляють 9-10 тисяч гривень на місяць, також мер має водія, а керуючий справами виконкому їздить на службовому авто Opel Omega.**

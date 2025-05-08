@@ -12,6 +12,7 @@ tags:
   - "kiyivska"
   - "novini"
   - "trolejbus"
+coverImage: "wp-content/uploads/2012/10/instrument.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/10/instrument.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/10/instrument.jpg)**Броварський виконком дозволив Відділу капітального будівництва зрізати 230 дерев листяної породи вздовж вулиці Київської.**

@@ -12,6 +12,7 @@ tags:
   - "brovarski-dyuni"
   - "velozmagannya"
   - "gromadske-telebachennya"
+coverImage: "wp-content/uploads/2015/09/brovarski-dyuny.jpg"
 ---
 
 

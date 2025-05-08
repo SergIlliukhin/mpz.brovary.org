@@ -13,6 +13,7 @@ tags:
   - "vibir-redaktsiyi"
   - "novini"
   - "strayk"
+coverImage: "wp-content/uploads/2014/01/main23.jpeg"
 ---
 
 **[![image (1)](https://mpz.brovary.org/wp-content/uploads/2014/01/image-1.jpeg)](https://mpz.brovary.org/wp-content/uploads/2014/01/image-1.jpeg)Сьогодні о 12:00 близько сотні броварчан під стінами міської ради взяли участь в попереджувальному страйку, який оголосила опозиція на 23 січня. Люди вийшли з транспарантами та вимогами до влади припинити вбивства власних громадян.**   

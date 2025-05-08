@@ -12,6 +12,7 @@ tags:
   - "demokratichniy-alyans"
   - "koruptsiya"
   - "sapozhko"
+coverImage: "wp-content/uploads/2013/04/image.jpeg"
 ---
 
 **Політична партія Демократичний Альянс [оголосила](http://dem-alliance.org/news/demaljans-ogolosiv-vinagorodu-v-50-tisjach-za-mera-korupcionera.html) винагороду 50 000 гривень тому, хто доведе корупцію мера свого міста. Сміливцям, які виступлять проти мерів-корупціонерів, партія надасть інформаційну та організаційну підтримку.**

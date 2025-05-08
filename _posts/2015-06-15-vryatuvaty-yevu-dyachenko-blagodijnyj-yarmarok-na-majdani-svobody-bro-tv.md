@@ -11,6 +11,7 @@ tags:
   - "yeva-dyachenko"
   - "blagodiyniy-yarmarok"
   - "gromadske-telebachennya"
+coverImage: "wp-content/uploads/2015/05/yarmarka-yeva-3-e1432571051517.jpg"
 ---
 
 

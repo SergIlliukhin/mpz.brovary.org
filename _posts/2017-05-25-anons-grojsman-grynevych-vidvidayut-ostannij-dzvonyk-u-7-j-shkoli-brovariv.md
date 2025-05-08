@@ -19,6 +19,7 @@ tags:
   - "osvita"
   - "ostannij-dzvonyk"
   - "chinovniki"
+coverImage: "wp-content/uploads/2017/05/Grojsman-Grynevych-CHernigiv.jpg"
 ---
 
 **Завтра, 26 травня, Прем'єр-міністр України Володимир Гройсман та міністр освіти і науки Лілія Гриневич візьмуть участь у святкуванні останнього дзвоника у 7-й школі. Про це йдеться в [повідомленні](http://mon.gov.ua/usi-novivni/novini/2017/05/25/26-travnya-premer-ministr-ukrayini-volodimir-grojsman-ta-ministr-osviti-i-nauki-liliya-grinevich/) на сайті Міністерства освіти і науки України.**

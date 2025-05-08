@@ -11,6 +11,7 @@ tags:
   - "veremchuk"
   - "sud"
   - "chernyahovskogo"
+coverImage: "wp-content/uploads/2013/09/protigaz.png"
 ---
 
 **[![протигаз](https://mpz.brovary.org/wp-content/uploads/2013/09/protigaz.png)](https://mpz.brovary.org/wp-content/uploads/2013/09/protigaz.png)«Надягти протигази!» - віддала команду Броварська міська рада мешканцям Броварів. Не подумайте, шановні читачі, що мова йде про успішно проведені військові навчання. Хоча мешканці будинків по вулиці Черняховського 25, 25-Б, 23-В  протягом вже 11 місяців перебувають у стані підвищеної боєготовності.**

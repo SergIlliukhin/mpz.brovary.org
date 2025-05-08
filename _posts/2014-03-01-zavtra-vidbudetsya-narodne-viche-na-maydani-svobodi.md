@@ -12,6 +12,7 @@ tags:
   - "vibir-redaktsiyi"
   - "narodne-viche"
   - "novini"
+coverImage: "wp-content/uploads/2014/03/viche_nedovira021.jpg"
 ---
 
 **[![viche_nedovira02](https://mpz.brovary.org/wp-content/uploads/2014/03/viche_nedovira021.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/03/viche_nedovira021.jpg)У неділю, 2 березня, о 12:00 на Майдані Свободи відбудеться Народне Віче, на яке броварчан скликає Броварська Народна Рада.**

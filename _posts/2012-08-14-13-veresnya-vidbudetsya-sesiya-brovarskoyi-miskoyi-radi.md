@@ -10,6 +10,7 @@ tags:
   - "brovarska-miska-rada"
   - "sesiya"
   - "sklikannya-sesiyi"
+coverImage: "wp-content/uploads/2012/08/gerb-Brovari.jpg"
 ---
 
 **[![](https://mpz.brovary.org/wp-content/uploads/2012/10/gerb-Brovari-zmenshena1.jpg "герб Бровари зменшена")](https://mpz.brovary.org/wp-content/uploads/2012/10/gerb-Brovari-zmenshena1.jpg)13 вересня 2012 року о 14:00** відбудеться чергова 23-тя сесія Броварської міської ради.

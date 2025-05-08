@@ -13,6 +13,7 @@ tags:
   - "narodniy-deputat"
   - "novini"
   - "rizanenko"
+coverImage: "wp-content/uploads/2013/09/Zvituvannya-Rizanenka-15.jpg"
 ---
 
 **[![Звітування Різаненка 02+](https://mpz.brovary.org/wp-content/uploads/2013/09/Zvituvannya-Rizanenka-02-.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/09/Zvituvannya-Rizanenka-02-.jpg)Вчора в актовій залі 7 школи було не дуже велелюдно. На [звітування народного депутата Павла Різаненка](https://mpz.brovary.org/25-veresnya-narodniy-deputat-pavlo-rizanenko-zvituvatime-pered-brovarchanami/) прийшли його найвідданіші прихильники, журналісти та ті броварчани, кому пощастило дізнатись про зустріч. Офіційне оголошення про звіт нардепа згідно із законом мали опублікувати у комунальній «Броварській панорамі», проте редакція «випадково» забула його розмістити. Врятували листівки та оголошення на під’їздах, а також Інтернет. Зрештою у тих, хто прийшов, вистачило запитань та звернень, щоб зустріч протривала майже дві години.**

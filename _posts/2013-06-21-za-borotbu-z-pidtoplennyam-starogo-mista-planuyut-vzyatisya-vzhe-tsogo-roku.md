@@ -9,6 +9,7 @@ tags:
   - "novini"
   - "pidtoplennya"
   - "stare-misto"
+coverImage: "wp-content/uploads/2013/06/0196.jpg"
 ---
 
 [![Підтоплення](https://mpz.brovary.org/wp-content/uploads/2013/06/0196.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/06/0196.jpg)**Цього року броварська влада планує виділити 130 тис.грн. на заходи щодо усунення підтоплення дощовими та талими водами окремих районів міста.**

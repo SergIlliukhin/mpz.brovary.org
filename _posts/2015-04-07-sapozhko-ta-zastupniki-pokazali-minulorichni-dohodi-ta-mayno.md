@@ -18,6 +18,7 @@ tags:
   - "mer-brovariv"
   - "novini"
   - "sapozhko"
+coverImage: "wp-content/uploads/2015/04/14.jpg"
 ---
 
 **[![deklaracuya](https://mpz.brovary.org/wp-content/uploads/2015/04/deklaracuya.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/04/deklaracuya.jpg)На офіційному сайті міськради [опублікували](http://www.brovary.kiev.ua/deklarats%D1%96%D1%97) декларації про доходи та майно броварських чиновників найвищого рангу – міського голови Ігоря Сапожка та його заступників Василя Андрєєва, Григорія Голубовського і Лариси Виноградової. Щорічно оприлюднювати декларації чиновників зобовязує Закон України "Про запобігання та протидію корупції".**

@@ -12,6 +12,7 @@ tags:
   - "sud"
   - "sumski-trafareti"
   - "yanukovych"
+coverImage: "wp-content/uploads/2013/04/305877_582545975102350_2076390605_n.jpg"
 ---
 
 [![Суд на Воззєднання](https://mpz.brovary.org/wp-content/uploads/2013/04/Sud-na-Vozzyednannya.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/04/Sud-na-Vozzyednannya.jpg)**Цієї ночі відразу чотири зображення людини, схожої на Віктора Януковича, з’явилось на стінах центрального входу до броварського міськрайонного суду на вулиці Возз’єднання. Трафаретні малюнки червоного та чорного кольору були нанесені на фасаді, дверях та навіть на одному з вікон установи.**

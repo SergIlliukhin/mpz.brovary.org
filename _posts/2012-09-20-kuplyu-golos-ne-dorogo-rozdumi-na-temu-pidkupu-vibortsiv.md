@@ -11,6 +11,7 @@ tags:
   - "brovary"
   - "vibori-2012"
   - "pidkup-vibortsiv"
+coverImage: "wp-content/uploads/2012/09/holosujte.jpeg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/09/holosujte.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/09/holosujte.jpeg)**_Чи могли ми колись уявити, що спорудження дитячого майданчика у дворі чи отримання новорічного подарунку для дитини викликатиме гіркуватий присмак відрази?! Напевно, не могли, але уявити і відчути це в повній мірі нам допомагають кандидати в народні депутати._**

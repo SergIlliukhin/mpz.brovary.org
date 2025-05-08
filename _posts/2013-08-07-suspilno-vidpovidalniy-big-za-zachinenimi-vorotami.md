@@ -17,6 +17,7 @@ tags:
   - "stadion"
   - "stadion-spartak"
   - "fedorenko"
+coverImage: "wp-content/uploads/2013/08/Big-dlya-zdorovya.jpg"
 ---
 
 [![Біг для здоров'я](https://mpz.brovary.org/wp-content/uploads/2013/08/Big-dlya-zdorovya.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/08/Big-dlya-zdorovya.jpg)**Для того, щоб постійно моніторити, чи бува хтось [не обгородив знову парканом ділянку у парку "Перемога"](https://mpz.brovary.org/25-travnya-u-brovarah-zvilnyatimut-miskiy-park-vid-masazhista-azarova/), ми з колегами почали регулярно бігати на стадіоні "Спартак", у такий спосіб поєднавши приємне з корисним.** Щоразу, йдучи на чи з пробіжки, ми стежимо, щоб земля улюбленого міського парку лишалась недоторканною для тих, хто чомусь вирішив, що ласий шматок зеленої зони з кількома десятками дерев не є парком, а тому його можна спершу [безпідставно орендувати, а потім й привласнити](https://mpz.brovary.org/park-peremoga-u-nebezpeci/).

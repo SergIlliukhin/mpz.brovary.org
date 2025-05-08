@@ -19,6 +19,7 @@ tags:
   - "programuvannya"
   - "robototehnika"
   - "shkola"
+coverImage: "wp-content/uploads/2017/02/Sokrat-robototehnika-programuvannya-prezentatsiya_2.jpg"
 ---
 
 **Цієї суботи в броварській школі №7 відбулась презентація** **STEM-центру «Сократ». Компанія, яка планує на базі закладу організувати навчання дітей робототехніці та програмуванню, вже почала попередній запис у групи. Про це на своїй сторінці у Фейсбуку [розповів](https://www.facebook.com/bazhen.levkovets/posts/1817040458547361) Бажен Левковець, гість презентації та викладач курсів [«BroBots - Brovary IT Hub»](https://mpz.brovary.org/u-brobots-vidkrylysya-novi-kursy-robototehniky-ta-programuvannya/).**

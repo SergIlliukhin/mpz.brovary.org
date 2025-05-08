@@ -9,6 +9,7 @@ tags:
   - "vibir-redaktsiyi"
   - "den-smihu"
   - "novini"
+coverImage: "wp-content/uploads/2015/04/0_aa812_352f1cc7_orig.jpg"
 ---
 
 **[![0_aa812_352f1cc7_orig](https://mpz.brovary.org/wp-content/uploads/2015/04/0_aa812_352f1cc7_orig.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/04/0_aa812_352f1cc7_orig.jpg)Танк Т-34 часів Другої світової війни, що вже кілька років стояв в якості пам’ятника в ПКіВ «Перемога» незабаром почне виконувати бойові завдання на східному фронті.**

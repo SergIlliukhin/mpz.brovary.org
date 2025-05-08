@@ -17,6 +17,7 @@ tags:
   - "reyestratsiya-kandidativ"
   - "tsvk"
   - "tsentralna-viborcha-komisiya"
+coverImage: "wp-content/uploads/2014/09/Andreev.jpg"
 ---
 
 **[![andreev1 (1)](https://mpz.brovary.org/wp-content/uploads/2014/09/andreev1-1.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/09/andreev1-1.jpg)Центральна виборча комісія заявила про реєстрацію в 97-му виборчому окрузі з центром в Броварах кандидата в народні депутати Василя Андрєєва. Василь Олександрович балотуватиметься до парламенту в якості самовисуванця, таким чином ставши п’ятим зареєстрованим мажоритарником в нашому окрузі.**  

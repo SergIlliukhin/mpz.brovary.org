@@ -10,6 +10,7 @@ tags:
   - "napad"
   - "rizanenko"
   - "troshhenko"
+coverImage: "wp-content/uploads/2012/02/x_36f272171.jpg"
 ---
 
 \[caption id="attachment\_1190" align="alignleft" width="208" caption="Андрій Качор"\][![](https://mpz.brovary.org/wp-content/uploads/2012/02/x_36f27217.jpg "x_36f27217")](https://mpz.brovary.org/wp-content/uploads/2012/02/x_36f27217.jpg)\[/caption\]

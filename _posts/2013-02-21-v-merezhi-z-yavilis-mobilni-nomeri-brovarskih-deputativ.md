@@ -10,6 +10,7 @@ tags:
   - "deputati"
   - "novini"
   - "telefon"
+coverImage: "wp-content/uploads/2013/02/Matrix_1.jpg"
 ---
 
 [![Matrix_1](https://mpz.brovary.org/wp-content/uploads/2013/02/Matrix_1.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/02/Matrix_1.jpg)Увечері 21 лютого на електронні адреси низки броварських журналістів надійшов лист, в якому містилось посилання на веб-ресурс, де опубліковані номери мобільних телефонів усіх депутатів броварської міської ради.

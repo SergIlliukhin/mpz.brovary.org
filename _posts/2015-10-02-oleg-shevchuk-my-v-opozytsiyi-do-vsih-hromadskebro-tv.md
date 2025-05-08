@@ -16,6 +16,7 @@ tags:
   - "shevchuk"
   - "svoboda"
   - "tvk"
+coverImage: "wp-content/uploads/2015/10/oleg-shevchuk-8220-my-v-opozytsi.jpg"
 ---
 
 **Кандидат на посаду броварського міського голови Олег Шевчук на виході з тервиборчкому прокоментував свою позицію щодо цьогорічних виборів. Про це [передає](https://www.youtube.com/watch?v=KNnwWnyE9K0) Громадське Бровари.**

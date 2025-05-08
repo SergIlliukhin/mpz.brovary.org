@@ -15,6 +15,7 @@ tags:
   - "reyd"
   - "ses"
   - "test"
+coverImage: "wp-content/uploads/2015/08/kavuny.jpg"
 ---
 
 

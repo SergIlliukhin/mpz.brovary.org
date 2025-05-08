@@ -13,6 +13,7 @@ tags:
   - "zosh-7"
   - "novini"
   - "osvita"
+coverImage: "wp-content/uploads/2015/04/831.jpg"
 ---
 
 **[![школа№7_4](https://mpz.brovary.org/wp-content/uploads/2015/04/831.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/04/831.jpg)Броварські громадські активісти продовжують свою перевірку витрат бюджетних коштів на ремонтні роботи у школах: наступний об'єкт для ревізії - ЗОШ №7. Звіти про результати попередніх візитів ГО "Броварський народний контроль" і "Асоціації батьків міста Бровари" можна прочитати [тут](https://mpz.brovary.org/brovarskiy-narodniy-kontrol-pereviriv-na-shho-pishli-byudzhetni-koshti-v-zosh-2/) (ЗОШ №2) і [тут](https://mpz.brovary.org/remonti-provedeni-u-zosh-6-viklikali-chimalo-zapitan-u-gromadskih-inspektoriv/) (ЗОШ №6)**.

@@ -16,6 +16,7 @@ tags:
   - "zhkg"
   - "novini"
   - "tarif"
+coverImage: "wp-content/uploads/2013/01/Listivka-aktsiyi-.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2013/01/Listivka-aktsiyi.jpg "Листівка акції")](https://mpz.brovary.org/wp-content/uploads/2013/01/Listivka-aktsiyi.jpg)**Завтра, 11 січня 2013 року, о 13:00 на Майдані Свободи відбудеться акція громадського протесту проти необґрунтованого [підвищення тарифу](https://mpz.brovary.org/brovarski-posadovtsi-planuyut-zbilshiti-tarif-na-obslugovuvannya-vodo-ta-teplomerezh-mayzhe-v-tri-razi/) на обслуговування систем водопроводу, каналізації, центрального опалення та гарячого водопостачання, який броварська влада планує підвищити майже в три рази. Про це повідомляє громадська організація «Громадський захист Київщини».**

@@ -10,6 +10,7 @@ tags:
   - "novini"
   - "radnik-miskogo-golovi"
   - "sapozhko"
+coverImage: "wp-content/uploads/2013/03/radniki.jpg"
 ---
 
 [![радники](https://mpz.brovary.org/wp-content/uploads/2013/03/radniki.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/radniki.jpg)Відповідно до «[Положення про радника міського голови…](http://docs.pravo-znaty.org.ua/f?u=https%3A%2F%2Fskydrive.live.com%2Fredir%3Fresid%3D72571393D4771099!159%26amp%3Bauthkey%3D!ANdBhI-qYmx7qYc)» мер Броварів має право призначати собі радників з числа осіб, які «_своєю професійною або громадською діяльністю заслужили авторитет та суспільне визнання, досягли професійних успіхів у відповідній сфері діяльності_». Як вдалось з’ясувати «Маєш право знати», Ігор Сапожко має 14 радників, які сприяють йому у здійсненні його повноважень, а один з них виконує ці функції на платній основі.

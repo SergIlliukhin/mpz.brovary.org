@@ -14,6 +14,7 @@ tags:
   - "novini"
   - "pidtoplennya"
   - "stare-misto"
+coverImage: "wp-content/uploads/2013/04/pidtoplennya4.jpg"
 ---
 
 [![підтоплення4](https://mpz.brovary.org/wp-content/uploads/2013/04/pidtoplennya4.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/04/pidtoplennya4.jpg)**13 квітня 2013 року о 15:00 в актовій залі школи № 1 відбудуться збори громади, на яких обговорюватимуть проблему підтоплення старої частини нашого міста та шукатимуть способи її вирішення. Про це "Маєш право знати" повідомив один з організаторів заходу Віктор Малофієнко.**

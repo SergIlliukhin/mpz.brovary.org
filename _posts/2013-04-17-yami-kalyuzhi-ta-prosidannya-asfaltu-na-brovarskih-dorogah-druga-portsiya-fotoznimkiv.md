@@ -16,6 +16,7 @@ tags:
   - "fotokonkurs"
   - "yama"
   - "yami"
+coverImage: "wp-content/uploads/2013/04/YAma-na-proyizdi-Lagunova-Nezalezhnosti.jpg"
 ---
 
 **[![квіти на дорозі](https://mpz.brovary.org/wp-content/uploads/2013/04/kviti-na-dorozi.png)](https://mpz.brovary.org/wp-content/uploads/2013/04/kviti-na-dorozi.png)Пропонуємо увазі наших читачів другу порцію фотографій ям, калюж та просідань асфальту, які нам вдалось зібрати у рамках фотокампанії “[Геть весняні артефакти](https://mpz.brovary.org/get-vesnyani-artefakti-fotokampaniya-proti-yam-ta-kalyuzh-na-brovarskih-dorogah/)!” Усі нижче зафіксовані об’єкти будуть перелічені у зверненні до броварської влади, яке ми плануємо подати  для того, щоб праця громадських фотографів, що відгукнулись на наш заклик робити знімки понівечених негодою вулиць та дворів, не минула дарма, а вади на дорогах отримали шанс на ремонт.**

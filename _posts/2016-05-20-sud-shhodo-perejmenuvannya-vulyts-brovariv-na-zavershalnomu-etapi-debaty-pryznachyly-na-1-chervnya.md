@@ -19,6 +19,7 @@ tags:
   - "sudovyj-protses"
   - "femida"
   - "shynkar"
+coverImage: "wp-content/uploads/2016/05/Sud_perejmenuvannya_18.05.2016_00012.jpg"
 ---
 
 **Цього тижня броварський суд значно просунувся в розгляді справи про скасування [перейменування 70-ти вулиць міста](https://mpz.brovary.org/u-brovarah-z-yavylys-vulytsi-na-chest-stepana-bandery-nebesnoyi-sotni-ta-geroyiv-ato/). За два дні – середу і четвер – Феміда заслухала докази захисників нових назв, залучених свідків, а також дослідила наявні матеріали справи. Після цього суддя оголосив перерву до 1 червня, того дня мають перейти до дебатів.**

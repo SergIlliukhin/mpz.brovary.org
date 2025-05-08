@@ -11,6 +11,7 @@ tags:
   - "park-peremoga"
   - "sud"
   - "tviter-translyatsiya"
+coverImage: "wp-content/uploads/2013/08/pryama-translyatsiya.jpg"
 ---
 
 [![Youtube_afp](https://mpz.brovary.org/wp-content/uploads/2013/08/Youtube_afp.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/08/Youtube_afp.jpg)**13 серпня, під час пікетування броварського суду, де [розглядатимуть справу](https://mpz.brovary.org/13-serpnya-vidbudetsya-sudilishhe-nad-rayonnimi-brovarskimi-svobodivtsyami/) проти захисників парку «Перемога», «МПЗ» здійснюватиме онлайн-відеотрансляцію. Всі події, що відбуватимуться під час процесу над активістами «Свободи», яких хочуть засудити до кількох років  ув’язнення за демонтаж незаконно встановленого паркану в парку «Перемога», транслюватимуться наживо [на каналі «Маєш право знати».](http://www.ustream.tv/channel/pravoznaty)**

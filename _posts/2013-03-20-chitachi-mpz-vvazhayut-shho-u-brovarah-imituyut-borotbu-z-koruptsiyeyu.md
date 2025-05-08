@@ -11,6 +11,7 @@ tags:
   - "novini"
   - "opituvannya"
   - "chitachi-mpz"
+coverImage: "wp-content/uploads/2013/03/Opituvannya-po-koruptsiyi.jpg"
 ---
 
 **[![корупція імітація](https://mpz.brovary.org/wp-content/uploads/2013/03/koruptsiya-imitatsiya.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/koruptsiya-imitatsiya.jpg)У рамках чергового [онлай-опитування читачів сайту "Маєш право знати"](https://mpz.brovary.org/chitachi-mpz-vvazhayut-shho-ratnikov-vidtyaguvav-golosi-na-viborah-a-straykaryam-brakuye-yuristiv/) ми поцікавились у броварчан, чи вірять вони, що в нашому місті хтось дійсно бореться з хабарництвом та "кумівством".**

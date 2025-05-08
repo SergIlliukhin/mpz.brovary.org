@@ -13,6 +13,7 @@ tags:
   - "likvidatsiya"
   - "nashe-misto"
   - "telestudiya"
+coverImage: "wp-content/uploads/2014/07/tb1.jpg"
 ---
 
 _[![фото 2 (1)](https://mpz.brovary.org/wp-content/uploads/2014/07/foto-2-12.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/07/foto-2-12.jpg)Коли всі інші гасять полум’я, найгучніше кричить «Пожежа!» сам палій._

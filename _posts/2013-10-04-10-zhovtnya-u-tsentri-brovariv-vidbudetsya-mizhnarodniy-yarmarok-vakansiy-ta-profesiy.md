@@ -12,6 +12,7 @@ tags:
   - "tsentr-zaynyatosti"
   - "yarmarok"
   - "yarmarok-vakansiy"
+coverImage: "wp-content/uploads/2013/04/yarmarok-vakansiy-e1365426429906.jpg"
 ---
 
 **[![ярмарок вакансій](https://mpz.brovary.org/wp-content/uploads/2013/04/yarmarok-vakansiy-e1365426429906.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/04/yarmarok-vakansiy-e1365426429906.jpg)10 жовтня 2013 року  з 13.00 на Майдані Свободи буде проводитися міжрайонний ярмарок вакансій та професій «Будуємо** **кар’єру разом».**

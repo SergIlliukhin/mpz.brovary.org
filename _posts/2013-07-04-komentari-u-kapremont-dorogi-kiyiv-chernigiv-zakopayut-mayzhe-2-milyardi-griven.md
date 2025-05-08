@@ -12,6 +12,7 @@ tags:
   - "remont"
   - "remontni-roboti"
   - "chernigiv"
+coverImage: "wp-content/uploads/2013/07/kapremont-dorogi.jpg"
 ---
 
 **[![капремонт дороги](https://mpz.brovary.org/wp-content/uploads/2013/07/kapremont-dorogi.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/07/kapremont-dorogi.jpg)Кабмін затвердив проект ремонту ділянки автодороги Київ-Чернігів вартістю 1,88 млрд грн, який займе більше трьох років. Про це йдеться в опублікованому на сайті уряду розпорядженні № 455-р «Про затвердження проекту «Капітальний ремонт автомобільної дороги М-01 Київ - Чернігів - Нові Яриловичі на ділянці км 18 +730 - км 61 +160 в межах Київської області» від 26 червня 2013 року, повідомляють «[Коментарі](http://ua.comments.ua/money/205215-u-kapremont-47-km-dorogi-kiivchernigiv.html)».**

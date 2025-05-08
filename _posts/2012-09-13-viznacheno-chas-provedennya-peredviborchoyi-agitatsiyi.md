@@ -13,6 +13,7 @@ tags:
   - "novini"
   - "tsvk"
   - "chas-kiyivshhini"
+coverImage: "wp-content/uploads/2012/09/agitatsiya.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/09/agitatsiya.jpg "Агітація")](https://mpz.brovary.org/wp-content/uploads/2012/09/agitatsiya.jpg)Кожен кандидат у народні депутати, який балотується у мажоритарному окрузі, має право на друк своєї передвиборчої програми у регіональних друкованих ЗМІ та ефірний час для проведення агітації на регіональних радіо- та телеканалах за рахунок коштів Державного бюджету України.

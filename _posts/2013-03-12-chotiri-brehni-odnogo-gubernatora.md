@@ -9,6 +9,7 @@ categories:
   - "video"
 tags: 
   - "vibir-redaktsiyi"
+coverImage: "wp-content/uploads/2013/03/783781_3.jpg"
 ---
 
 \[caption id="attachment\_14836" align="alignleft" width="300"\][![783781_3](https://mpz.brovary.org/wp-content/uploads/2013/03/783781_3.jpg "Анатолій Присяжнюк")](https://mpz.brovary.org/wp-content/uploads/2013/03/783781_3.jpg) Анатолій Присяжнюк\[/caption\]

@@ -10,6 +10,7 @@ tags:
   - "vibir-redaktsiyi"
   - "novini"
   - "rem"
+coverImage: "wp-content/uploads/2014/12/lampa.jpg"
 ---
 
 **[![lampa](https://mpz.brovary.org/wp-content/uploads/2014/12/lampa.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/12/lampa.jpg)Близько 15:00 до редакції «Маєш право знати» з кількох джерел надійшла інформація про можливе вимкнення електропостачання в м. Бровари 16 грудня у період з 16:00 й аж до 22:00.**

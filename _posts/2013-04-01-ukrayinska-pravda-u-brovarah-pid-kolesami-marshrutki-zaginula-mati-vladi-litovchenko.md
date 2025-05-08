@@ -11,6 +11,7 @@ tags:
   - "novini"
   - "tsn"
   - "ukrayinska-pravda"
+coverImage: "wp-content/uploads/2013/04/litovchenko.jpg"
 ---
 
 **[![литовченко](https://mpz.brovary.org/wp-content/uploads/2013/04/litovchenko.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/04/litovchenko.jpg)У Броварах на Київщині під колесами маршрутки загинула мати колишньої моделі Влади Литовченко. Про це [повідомив](http://www.pravda.com.ua/news/2013/03/31/6986854/) сайт "Українська правда" з посиланням на ТСН.**

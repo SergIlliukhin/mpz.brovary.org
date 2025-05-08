@@ -23,6 +23,7 @@ tags:
   - "pavlo-rizanenko"
   - "polishhuk"
   - "fond-shidna-yevropa"
+coverImage: "wp-content/uploads/2017/03/zvit-pavla-rizanenka-11.jpg"
 ---
 
 **3 березня у приміщенні Броварської РДА [відзвітував](https://mpz.brovary.org/anons-pavlo-rizanenko-prozvituye-pered-gromadskistyu-3-bereznya-u-brovarah/) про результати своєї роботи народний депутат Павло Різаненко, обраний від 97-го виборчого округу, до складу якого входять Бровари. Всі охочі мали змогу відвідати зустріч та задати питання народному обранцю.**

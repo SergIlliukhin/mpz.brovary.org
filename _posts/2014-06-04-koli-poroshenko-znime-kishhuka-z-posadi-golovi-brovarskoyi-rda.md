@@ -12,6 +12,7 @@ tags:
   - "kishhuk"
   - "poroshenko"
   - "turchinov"
+coverImage: "wp-content/uploads/2014/05/kishhuk.jpg"
 ---
 
 **[![Кищук кандидат 2012](https://mpz.brovary.org/wp-content/uploads/2012/08/Kishhuk-kandidat-2012.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/08/Kishhuk-kandidat-2012.jpg)Позаминулого тижня з легкої руки Олександра Турчинова [Олег Кищук став до керма Броварського району](https://mpz.brovary.org/kishhuk-spodivayetsya-shho-poroshenko-zalishit-yogo-na-posadi). Та чи довго посидить в теплому кабінеті новопризначений голова залишається під великим знаком питання.**

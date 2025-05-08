@@ -15,6 +15,7 @@ tags:
   - "operatyvna-narada"
   - "reklama"
   - "rytualni-poslugy"
+coverImage: "wp-content/uploads/2016/11/Bez-imeni-2.png"
 ---
 
 **140 тисяч гривень. Саме таку суму на програму з реклами [КП "Броварська ритуальна служба"](http://brovary.kiev.ua/brovarska-ritualna-sluzhba-%D1%96nformu%D1%94) озвучив міський голова на оперативній нараді, що відбулася 21 листопада у малій залі Броварського міськвиконкому**

@@ -15,6 +15,7 @@ tags:
   - "oldi"
   - "poroshinka"
   - "rishennya-radi"
+coverImage: "wp-content/uploads/2013/11/OLDI-Brovari.jpg"
 ---
 
 **[![ОЛДІ Бровари](https://mpz.brovary.org/wp-content/uploads/2013/11/OLDI-Brovari.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/11/OLDI-Brovari.jpg)Таємниця будівництва на Порошинці розкрилась сама собою: нещодавно там [відкрився](http://www.oldi.kiev.ua/index.php?option=com_content&view=article&id=340&Itemid=40)** [**будівельн****ий** **супермаркет «****Олді»**](http://www.oldi.kiev.ua/index.php?option=com_content&view=article&id=340&Itemid=40)**. От тільки досі залишається не зрозумілим, чому ще півроку тому забудовник – ТОВ «АвангардЦентр» - робив з цього великий секрет, і компанії уперто не визнавали зв'язку між собою.**

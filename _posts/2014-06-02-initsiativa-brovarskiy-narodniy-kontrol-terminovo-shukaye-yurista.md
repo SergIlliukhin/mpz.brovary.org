@@ -12,6 +12,7 @@ tags:
   - "narodniy-kontrol"
   - "novini"
   - "yurist"
+coverImage: "wp-content/uploads/2014/06/Narodniy-kontrol.png"
 ---
 
 **[![Народний контроль](https://mpz.brovary.org/wp-content/uploads/2014/06/Narodniy-kontrol.png)](https://mpz.brovary.org/wp-content/uploads/2014/06/Narodniy-kontrol.png)Громадська ініціатива «Броварський Народний Контроль» терміново шукає юриста. [Оголошення](http://nk.mybrovary.com/job) про відповідну вакансію активісти розмістили на своєму веб-сайті.**

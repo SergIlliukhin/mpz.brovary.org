@@ -11,6 +11,7 @@ tags:
   - "novini"
   - "styagov"
   - "krivaviy-subotnik"
+coverImage: "wp-content/uploads/2013/06/kol3.jpg"
 ---
 
 **[![kol3](https://mpz.brovary.org/wp-content/uploads/2013/06/kol3.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/06/kol3.jpg)Броварська міліція кваліфікувала дії «бойовика» Стягова по найбільш «м’якій» статті**

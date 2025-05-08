@@ -12,6 +12,7 @@ tags:
   - "novini"
   - "rizanenko"
   - "radioperedavalniy-tsentr"
+coverImage: "wp-content/uploads/2014/12/IMG_0051.jpg"
 ---
 
 **[![IMG_9399](https://mpz.brovary.org/wp-content/uploads/2014/12/IMG_9399.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/12/IMG_9399.jpg)Рішенням Вищого адміністративного суду України 4 грудня було поставлено, найпевніше, останню крапку в резонансній справі земель броварського Радіопередавального центру, що були незаконно відчуджені з державної власності.**

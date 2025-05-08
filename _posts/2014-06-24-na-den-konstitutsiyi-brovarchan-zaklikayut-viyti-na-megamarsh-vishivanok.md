@@ -12,6 +12,7 @@ tags:
   - "megamarsh-vishivanok"
   - "novini"
   - "onum"
+coverImage: "wp-content/uploads/2014/06/0000012801-parad-vyshivanok.jpg"
 ---
 
 **[![марш вишиванки](https://mpz.brovary.org/wp-content/uploads/2014/06/marsh-vishivanki.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/06/marsh-vishivanki.jpg)У День Конституції України, 28 червня, о 19:00 на броварському Майдані Свободи [стартує Мегамарш вишиванок](https://vk.com/event72526557), який влаштовує Об’єднання незалежної української молоді ([ОНУМ](https://vk.com/onymua)). Ходу в національному одязі центральними вулицями Броварів планують зробити традиційною та щорічною, зазначають організатори.**

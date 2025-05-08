@@ -12,6 +12,7 @@ tags:
   - "gromadske-telebachennya"
   - "patrul"
   - "torgmash"
+coverImage: "wp-content/uploads/2015/08/patrul.jpg"
 ---
 
 

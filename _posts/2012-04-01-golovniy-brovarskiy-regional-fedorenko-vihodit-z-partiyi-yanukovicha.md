@@ -7,6 +7,7 @@ author:
 tags: 
   - "vibir-redaktsiyi"
   - "novini"
+coverImage: "wp-content/uploads/2012/04/fed1.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/04/fed1.jpg "Сергій Федоренко")](https://mpz.brovary.org/wp-content/uploads/2012/04/fed1.jpg)Голова Партії регіонів у Броварах **Сергій Федоренко** напередодні заявив про вихід з партії Януковича та створення нової політичної сили.

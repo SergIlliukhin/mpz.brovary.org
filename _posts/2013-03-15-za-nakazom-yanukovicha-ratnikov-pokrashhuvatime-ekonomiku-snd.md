@@ -13,6 +13,7 @@ tags:
   - "posolstvo"
   - "ratnikov"
   - "snd"
+coverImage: "wp-content/uploads/2013/03/ratnikov1.jpg"
 ---
 
 [![ратніков](https://mpz.brovary.org/wp-content/uploads/2013/03/ratnikov1.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/ratnikov1.jpg)**Не встигли ми [повідомити](https://mpz.brovary.org/dmitra-ratnikova-priznachili-diplomatom-u-rosiyskiy-federatsiyi/) про те, що МЗС призначило Дмитра Ратнікова виконувати дипломатичну місію у посольстві України в Росії, як Дмитра Геннадійовича знову підвищили. Відтепер член "Європейської партії України" та депутат від Броварів в Київоблраді  налагоджуватиме економічну співпрацю України в СНД.**

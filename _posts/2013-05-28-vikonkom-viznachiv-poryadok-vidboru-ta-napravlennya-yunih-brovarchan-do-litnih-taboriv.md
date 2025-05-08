@@ -12,6 +12,7 @@ tags:
   - "ozdorovlennya-ditey"
   - "sluzhba-u-spravah-ditey"
   - "shkilni-tabori"
+coverImage: "wp-content/uploads/2013/05/Ozdorovlennya-ditey.jpg"
 ---
 
 **[![Оздоровлення дітей](https://mpz.brovary.org/wp-content/uploads/2013/05/Ozdorovlennya-ditey.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/05/Ozdorovlennya-ditey.jpg)Рішенням [№ 202](http://docs.pravo-znaty.org.ua/p7485/14.05.2013/202) виконавчий комітет Броварської міськради затвердив Порядок підбору та направлення дітей міста Бровари до закладів відпочинку та оздоровлення.**

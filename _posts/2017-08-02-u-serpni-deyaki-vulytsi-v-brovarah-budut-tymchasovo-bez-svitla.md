@@ -13,6 +13,7 @@ tags:
   - "grafik-vidklyuchen-elektroenergiyi"
   - "novini"
   - "svitlo"
+coverImage: "wp-content/uploads/2017/08/f20111221110916-kirovt-e1501686692401.jpg"
 ---
 
 **Вже традиційно на сайті Броварської міської ради [оприлюднили графік](http://brovary-rada.gov.ua/news/15460.html) тимчасового обмеження електроенергії на броварських вулицях з 1 по 31 серпня.**

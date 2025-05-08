@@ -9,6 +9,7 @@ categories:
 tags: 
   - "kalita"
   - "shvidka-dopomoga"
+coverImage: "wp-content/uploads/2013/01/383584649.jpg"
 ---
 
 **Новая медицинская реформа оставила сельских жителей без медицинской помощи.**

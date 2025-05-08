@@ -12,6 +12,7 @@ tags:
   - "novini"
   - "sapozhko"
   - "trolejbus"
+coverImage: "wp-content/uploads/2013/03/Sapozhko-Igor-Vasilovich-ofitsiyne-foto.jpg"
 ---
 
 [![Сапожко Ігор Васильович](https://mpz.brovary.org/wp-content/uploads/2013/03/Sapozhko-Igor-Vasilovich-ofitsiyne-foto.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/Sapozhko-Igor-Vasilovich-ofitsiyne-foto.jpg)

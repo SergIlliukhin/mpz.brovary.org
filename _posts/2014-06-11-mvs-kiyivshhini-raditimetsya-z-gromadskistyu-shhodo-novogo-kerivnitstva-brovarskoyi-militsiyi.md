@@ -13,6 +13,7 @@ tags:
   - "lyustratsiya"
   - "militsiya"
   - "novini"
+coverImage: "wp-content/uploads/2014/06/823aa48137eacdeb847806187a82b86b.jpg"
 ---
 
 [![ment1](https://mpz.brovary.org/wp-content/uploads/2014/06/ment1.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/06/ment1.jpg)**При розгляді кандидатів на посаду начальника Броварського міського відділу міліції в обов’язковому порядку буде врахована думка громадськості. Про це заявив начальник ГУ МВС в Київській області Ярослав Голомша у відповіді на [звернення Броварської Народної Ради](https://mpz.brovary.org/brovarchani-vimagayut-uzgoditi-z-gromadoyu-kandidaturu-na-posadu-nachalnika-militsiyi/) щодо процедури призначення нового начальника міської міліції.**

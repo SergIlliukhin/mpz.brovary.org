@@ -14,6 +14,7 @@ tags:
   - "promizhni-vibori"
   - "tehnichni-kandidati"
   - "torgmash"
+coverImage: "wp-content/uploads/2013/05/Agitatsiya-Torgmash_2.jpg"
 ---
 
 [![Агітація Торгмаш_2](https://mpz.brovary.org/wp-content/uploads/2013/05/Agitatsiya-Torgmash_2.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/05/Agitatsiya-Torgmash_2.jpg)**Вчора група журналістів «Маєш право знати» вирушила на Торгмаш у 20 виборчий округ, в якому на початку літа [мають відбутись проміжні вибори](https://mpz.brovary.org/zaminu-rizanenku-zhiteli-torgmashu-obiratimut-na-pochatku-lita/). Зважаючи на те, що до 2 червня залишилось менше двох тижнів, ми очікували побачити та зробити матеріал про запеклу агітаційну боротьбу [між сімома кандидатами](https://mpz.brovary.org/u-viborah-na-torgmashi-z-23-pretendentiv-na-krislo-u-miskiy-radi-berut-uchast-lishe-semero/), що претендують на крісло депутата у Броварські міській раді. Яким же було наше здивування, коли під час спілкування з тамтешніми мешканцями ми з’ясували, що більшість людей досі не знає, хто балотується по їхньому округу, а дехто взагалі ні сном ні духом не відає, що скоро має обирати нового представника у владі.**

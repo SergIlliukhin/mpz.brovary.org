@@ -11,6 +11,7 @@ tags:
   - "novini"
   - "pravoohorontsi"
   - "chornovol"
+coverImage: "wp-content/uploads/2013/12/19a27ec-tanechka-derzhis-.jpg"
 ---
 
 **[![19a27ec-tanechka-derzhis-](https://mpz.brovary.org/wp-content/uploads/2013/12/19a27ec-tanechka-derzhis-.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/12/19a27ec-tanechka-derzhis-.jpg)Ми, команда Інтернет-видання "Маєш право знати", висловлюємо своє обурення з приводу того, що сталось сьогодні вночі поблизу Борисполя. На відому українську журналістку та активістку Євромайдану Тетяну Чорновол [було скоєно звірячий напад](http://www.pravda.com.ua/news/2013/12/25/7008295/). Це відбулось через кілька годин після публікації її [статті про маєток міністра МВС Захарченка](http://blogs.pravda.com.ua/authors/chornovol/52b9e29e4286c/) у блозі на "Українській правді". Також Тетяна написала чимало викривальних матеріалів про Медведчука, Клюєва, Азарова, Льовочкіна та сім'ю Януковичей, а під час Євромайдану неодноразово ходила з пікетами на [Межигір'я](http://blogs.pravda.com.ua/authors/chornovol/52a19ae496aef/) та до будинків [Клюєва](http://blogs.pravda.com.ua/authors/chornovol/52aee9ed2fba4/) й [Медведчука](http://blogs.pravda.com.ua/authors/chornovol/52b5fdc763bb2/).**

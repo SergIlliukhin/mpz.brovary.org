@@ -15,6 +15,7 @@ tags:
   - "poputky"
   - "proyizd"
   - "feysbuk"
+coverImage: "wp-content/uploads/2017/01/16142612_1238897716201185_4898973584048837100_n.jpg"
 ---
 
 **Раптове та різке [подорожчання тарифів](https://mpz.brovary.org/proyizd-kyyeva-12-grn-brovaram-pidgotuvatysya/) на проїзд у міжміських маршрутках викликало неабияке обурення та спротив броварчан. Доцільність цього рішення громада вже який день бурхливо обговорює у соцмережах. Влада реагує по-різному: заступник броварського міського голови каже про діалог з перевізниками. Голова КОДА Олександр Горган [заявив](https://mpz.brovary.org/z-brovariv-startuye-proekt-zaprovadzhennya-elektronnoyi-kartky-meshkantsya-kyyivshhyny/) про створення державного або комунального транспорту області. А міський депутат Олег Берестовий (ДемАльянс) з цього приводу сьогодні [збирає круглий стіл](https://mpz.brovary.org/taryfy-na-marshrutky-sogodni-vidbudetsya-vidkryta-zustrich-dlya-koordynatsiyi-dij/), на який запрошує перевізників та небайдужих містян. А броварчани у цей час намагаються пристосуватися до реалій - та пересісти з маршруток на [попутки](https://mpz.brovary.org/poputniki-vs-marshrutniki-hto-vigraye-i-hto-vtrachaye-vid-nelegalnogo-proyizdu-do-stolitsi/).**

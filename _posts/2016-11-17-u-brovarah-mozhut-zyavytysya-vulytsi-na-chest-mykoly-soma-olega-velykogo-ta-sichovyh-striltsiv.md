@@ -17,6 +17,7 @@ tags:
   - "obgovorennya"
   - "perejmenuvannya"
   - "proekt-rishennya"
+coverImage: "wp-content/uploads/2016/11/perejmenuvannya-sichovyh-striltsiv.jpg"
 ---
 
 **Питання про перейменування вулиць Степана Разіна, Лермонтова та Щолківської [винесене](https://mpz.brovary.org/anons-15-grudnya-vidbudetsya-chergova-sesiya-brovarskoyi-miskoyi-rady/) на розгляд чергової сесії Броварської міської ради, яка має відбутися 15 грудня. Відповідний [проект рішення](http://brovary-rada.gov.ua/documents/26186.html) сьогодні оприлюднили на офіційному сайті міськради. Вирішення долі назв іще двох вулиць – Тургенєва та Декабристів – відтермінували. За таке [проголосували](http://www.slideshare.net/DmytroKarpiy/3-07102016) на останньому засіданні комісії з питань найменувань та пам’ятних знаків.**

@@ -12,6 +12,7 @@ tags:
   - "brovary"
   - "grafik-komisiy"
   - "novini"
+coverImage: "wp-content/uploads/2012/07/gerb-Brovari.jpg"
 ---
 
 **[![герб Бровари](https://mpz.brovary.org/wp-content/uploads/2012/07/gerb-Brovari.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/07/gerb-Brovari.jpg)На [офіційному веб-сайті Броварської міської ради](http://www.brovary.kiev.ua/graf%D1%96k-provedennya-zas%D1%96dan-post%D1%96inikh-deputatskikh-kom%D1%96s%D1%96i-0) оприлюднено графік засідань постійних депутатських комісій у рамках 54-ї чергової сесії міськради. Нагадаємо, саме пленарне засідання Броварської міської ради відбудеться 21 травня 2015 року о 14:00, на розгляд депутатів виноситься більш ніж [36 питань](https://mpz.brovary.org/21-travnya-vidbudetsya-54-a-chergova-sesiya-brovarskoyi-miskoyi-radi/) порядку денного.**

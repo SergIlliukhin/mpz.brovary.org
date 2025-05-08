@@ -14,6 +14,7 @@ tags:
   - "prilyepko"
   - "sud"
   - "telepenko"
+coverImage: "wp-content/uploads/2012/09/sud.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/09/sud.jpg "Суддя Костюк")](https://mpz.brovary.org/wp-content/uploads/2012/09/sud.jpg)**20 вересня 2012 року відбулось засідання Київського апеляційного адміністративного суду по справі Іллюхіна Сергія Миколайовича проти Броварської міської ради.**

@@ -13,6 +13,7 @@ tags:
   - "nezakonna-zabudova"
   - "novini"
   - "sholom-aleyhema"
+coverImage: "wp-content/uploads/2012/07/Grushevskogo_Kiyivska.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/06/10_mkr_proplan.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/06/10_mkr_proplan.jpg)Понад місяць тому Броварська міська рада оприлюднила [проект внесення змін до Детального плану території 10-го мікрорайону](https://mpz.brovary.org/oprilyudneno-proekt-detalnogo-planu-teritoriyi-10-go-mikrorayonu/). Як стало відомо «Маєш право знати», у рамках громадського обговорення цієї містобудівної документації подано низку пропозицій від жителів 10-мікрорайону, які виступають проти окремих змін у детплані та висувають свої варіанти вирішення проблем [скандального мікрорайону](https://mpz.brovary.org/brovari-yak-rozplidnik-budivelnih-shahrayiv/).

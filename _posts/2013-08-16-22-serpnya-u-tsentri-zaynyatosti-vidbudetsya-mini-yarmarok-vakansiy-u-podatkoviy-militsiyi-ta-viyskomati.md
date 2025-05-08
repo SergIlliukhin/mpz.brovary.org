@@ -11,6 +11,7 @@ tags:
   - "brovary"
   - "tsentr-zaynyatosti"
   - "yarmarok-vakansiy"
+coverImage: "wp-content/uploads/2013/04/yarmarok-vakansiy-e1365426429906.jpg"
 ---
 
 **[![ярмарок вакансій](https://mpz.brovary.org/wp-content/uploads/2013/04/yarmarok-vakansiy-e1365426429906.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/04/yarmarok-vakansiy-e1365426429906.jpg)22 серпня 2013 року в приміщенні Броварського міськрайонногоцентру зайнятості (м. Бровари, вул. Кірова, 92) з 9:00 до 10:00 відбудеться міні-ярмарок вакансій.**

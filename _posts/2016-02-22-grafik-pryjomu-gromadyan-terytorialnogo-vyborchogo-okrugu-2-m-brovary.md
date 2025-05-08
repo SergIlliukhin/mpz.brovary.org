@@ -10,6 +10,7 @@ tags:
   - "brovary"
   - "priyom-gromadyan"
   - "cherepeynik"
+coverImage: "wp-content/uploads/2016/02/12360028_1623097844622285_9154606017775001288_n.jpg"
 ---
 
 Шановні мешканці!

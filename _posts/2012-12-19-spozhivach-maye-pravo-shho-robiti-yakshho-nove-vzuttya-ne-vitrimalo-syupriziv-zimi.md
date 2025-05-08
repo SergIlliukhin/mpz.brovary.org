@@ -15,6 +15,7 @@ tags:
   - "remont-vzuttya"
   - "spozhivach-maye-pravo"
   - "yakist-tovaru"
+coverImage: "wp-content/uploads/2012/12/Poshkodzhene-vzuttya.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/12/Spozhivach-maye-pravo.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/12/Spozhivach-maye-pravo.jpg)**Мабуть, багатьом знайоме неприємне почуття, коли нова річ, якою ще не встиг насолодитись та поносити, розпадається на очах, не прослуживши і декількох днів. Особливо неприємно, коли ця річ – зимове взуття, яке, зіпсувавшись, не залишає нам альтернативи у питанні «що взути», що у сильні морози взагалі неприпустимо.**

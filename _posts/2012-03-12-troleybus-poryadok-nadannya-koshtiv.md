@@ -9,6 +9,7 @@ tags:
   - "vibir-redaktsiyi"
   - "novini"
   - "trolejbus"
+coverImage: "wp-content/uploads/2012/03/%D0%A2%D1%80%D0%BE%D0%BB%D0%B5%D0%B9%D0%B1%D1%83%D1%81.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/03/Тролейбус1.jpg "Тролейбус")](https://mpz.brovary.org/wp-content/uploads/2012/03/Тролейбус1.jpg)

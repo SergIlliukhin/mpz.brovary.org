@@ -15,6 +15,7 @@ tags:
   - "medychnyj-oglyad"
   - "novini"
   - "rak"
+coverImage: "wp-content/uploads/2016/12/1413655682_brustkrebsmonat-ia.jpg"
 ---
 
 **Наразі в Броварах проходить медична акція для жінок "Рак можна зупинити!" У жінок є можливість безкоштовно проконсультуватися та пройти огляд у профільних лікарів. Про це йдеться в [оголошенні](https://www.facebook.com/groups/brovary/permalink/1454919834537978/?match=0YDQsNC6INC80L7QttC90LA%3D) у соціальній мережі FB.**

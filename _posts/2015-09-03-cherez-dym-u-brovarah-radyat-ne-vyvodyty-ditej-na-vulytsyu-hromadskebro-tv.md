@@ -16,6 +16,7 @@ tags:
   - "onyshhenko"
   - "upravlinnya-osviti"
   - "shkoli"
+coverImage: "wp-content/uploads/2015/09/dym.jpg"
 ---
 
 

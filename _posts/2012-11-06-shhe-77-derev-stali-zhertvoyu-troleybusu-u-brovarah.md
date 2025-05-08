@@ -9,6 +9,7 @@ tags:
   - "dereva"
   - "novini"
   - "trolejbus"
+coverImage: "wp-content/uploads/2012/11/cherniahovskogo.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/11/cherniahovskogo.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/11/cherniahovskogo.jpg)**Броварський виконком надав дозвіл на ліквідацію ще семидесяти семи дерев вздовж вулиці Черняховського.**

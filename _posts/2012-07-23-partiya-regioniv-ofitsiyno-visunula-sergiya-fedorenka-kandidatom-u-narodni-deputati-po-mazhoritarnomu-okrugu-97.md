@@ -13,6 +13,7 @@ tags:
   - "novini"
   - "partiya-regioniv"
   - "fedorenko"
+coverImage: "wp-content/uploads/2012/07/b_pr.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/04/fed1.jpg "Сергій Федоренко")](https://mpz.brovary.org/wp-content/uploads/2012/04/fed1.jpg)21 липня у місті Вишгород відбулись збори київської обласної організації **Партії регіонів**, на яких було висунуто кандидатів у народні депутати по мажоритарних округах Київщини. Про це [повідомила інформаційна агенція УНІАН](http://www.unian.ua/news/516124-poplavskiy-yde-v-deputati-pid-krilom-pr.html) з посиланням на прес-службу Партії регіонів.

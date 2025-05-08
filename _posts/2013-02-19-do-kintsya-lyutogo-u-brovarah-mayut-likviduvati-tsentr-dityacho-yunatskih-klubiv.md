@@ -13,6 +13,7 @@ tags:
   - "novini"
   - "reorganizatsiya"
   - "tsentr-dityachih-ta-yunatskih-klubiv"
+coverImage: "wp-content/uploads/2013/02/Golovna-2.jpg"
 ---
 
 **[![Головна (2)](https://mpz.brovary.org/wp-content/uploads/2013/02/Golovna-2.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/02/Golovna-2.jpg)Згідно з Указом Президента України №756 від 28.12.2012 року «Про проведення у 2013 році в Україні Року дитячої творчості» Кабінет Міністрів України повинен розробити та затвердити план заходів з підготовки та проведення у 2013 році в Україні Року дитячої творчості, а обласним державним адміністраціям слід здійснювати відповідні заходи протягом усього року.**

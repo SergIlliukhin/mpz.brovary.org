@@ -16,6 +16,7 @@ tags:
   - "demalyans"
   - "novini"
   - "oleg-berestoviy"
+coverImage: "wp-content/uploads/2015/05/Image000211.jpg"
 ---
 
 [![воркшоп](https://mpz.brovary.org/wp-content/uploads/2015/05/Image00043.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/05/Image00043.jpg)

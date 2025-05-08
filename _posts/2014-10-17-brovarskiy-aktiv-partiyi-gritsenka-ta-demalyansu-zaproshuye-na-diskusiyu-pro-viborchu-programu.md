@@ -18,6 +18,7 @@ tags:
   - "oseredok"
   - "parlamentski-vibori-2014"
   - "partiya-gritsenka"
+coverImage: "wp-content/uploads/2014/10/spilni-prapori.jpg"
 ---
 
 **[![спільне лого](https://mpz.brovary.org/wp-content/uploads/2014/10/spilne-logo.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/10/spilne-logo.jpg)Цієї суботи, 18 жовтня, на Майдані Свободи броварські активісти партії "Громадянська позиція (Анатолія Гриценка)" та партії "ДемАльянс" влаштовують зустріч з виборцями, щоб обговорити програму партії, а також свою подальшу діяльність у Броварах. Про це "Маєш право знати" повідомили у [спільному виборчому штабі](https://www.facebook.com/Grytsenko.DemAlliance.Brovary)** **[двох політичних сил](https://www.facebook.com/Grytsenko.DemAlliance.Brovary), які обираються до парламенту єдиною командою. Початок дискусії запланований на 16:00.**

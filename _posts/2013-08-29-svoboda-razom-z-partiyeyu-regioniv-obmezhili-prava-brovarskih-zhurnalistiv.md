@@ -9,6 +9,7 @@ categories:
 tags: 
   - "vibir-redaktsiyi"
   - "novini"
+coverImage: "wp-content/uploads/2013/08/photo.jpg"
 ---
 
 \[caption id="attachment\_20482" align="alignleft" width="265"\][![Ганна Брусенська](https://mpz.brovary.org/wp-content/uploads/2013/08/Image000181.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/08/Image000181.jpg) Ганна Брусенська\[/caption\]

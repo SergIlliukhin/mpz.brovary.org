@@ -11,6 +11,7 @@ tags:
   - "krim"
   - "litki"
   - "novini"
+coverImage: "wp-content/uploads/2014/04/140310161624_crimean_refugees_640x360_bbc_nocredit.jpg"
 ---
 
 **[![jk](https://mpz.brovary.org/wp-content/uploads/2014/04/jk.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/04/jk.jpg)Днями на базу відпочинку «Метро», що в селі Літки Броварського району прибуло півcотні біженців з Кримського півострову. Люди приїхали цілими родинами, багато з приїжджих – кримські татари, крім дорослих на базі відпочинку проживають і 15 дітей віком від півтора року.**

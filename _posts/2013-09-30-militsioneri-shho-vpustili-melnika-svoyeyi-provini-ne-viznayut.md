@@ -16,6 +16,7 @@ tags:
   - "novini"
   - "rektor-koruptsioner"
   - "sud"
+coverImage: "wp-content/uploads/2013/09/Sud-po-Melniku-1.jpg"
 ---
 
 **[![Суд по Мельнику 3](https://mpz.brovary.org/wp-content/uploads/2013/09/Sud-po-Melniku-3.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/09/Sud-po-Melniku-3.jpg)30 вересня Броварський міськрайонний суд розпочав [розгляд кримінального провадження проти двох ірпінських міліціонерів](https://mpz.brovary.org/ukrayinska-pravda-militsioneriv-yaki-progavili-melnika-suditimut-u-brovarah/), які допустили втечу ректора-корупціонера Петра Мельника. На лаві підсудних опинились заступник начальника Ірпінської міліції Микола Бедрій та оперативно-черговий Києво-Святошинського відділу міліції Василь Вдовиченко.**

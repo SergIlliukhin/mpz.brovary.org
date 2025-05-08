@@ -12,6 +12,7 @@ tags:
   - "brovarska-narodna-rada"
   - "vibir-redaktsiyi"
   - "narodna-rada"
+coverImage: "wp-content/uploads/2014/02/DSC_0079.jpg"
 ---
 
 **[![viche_nedovira02](https://mpz.brovary.org/wp-content/uploads/2014/03/viche_nedovira021.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/03/viche_nedovira021.jpg)Публікую звернення Броварської Народної Ради, яке було виголошене на вчорашньому Віче на Майдані Свободи.**

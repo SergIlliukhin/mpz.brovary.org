@@ -12,6 +12,7 @@ tags:
   - "kornet"
   - "novini"
   - "povnovazhennya"
+coverImage: "wp-content/uploads/2016/06/kontrol-yakosty.jpg"
 ---
 
 **8 червня Бровари отримали власні повноваження в контролі за архітектурно-будівельною діяльністю. Відповідні акти приймання-передавання справ чиновники підписали вчора. Про це йдеться у [повідомленні](http://dabi.gov.ua/index.php/pres-sluzhba/novini/1911-misto-brovari-otrimalo-povnovazhennya-derzharkhbudkontrolyu) прес-служби Державної архітектурно-будівельної інспекції України.**

@@ -13,6 +13,7 @@ tags:
   - "grafik-komisiy"
   - "novini"
   - "postijni-komisiyi"
+coverImage: "wp-content/uploads/2016/08/1762orig.jpg"
 ---
 
 **На офіційному сайті Броварської міської ради [оприлюднено](https://onedrive.live.com/view.aspx?resid=72571393D4771099!8303&ithint=file%2cdocx&app=Word&authkey=!AGZAxriTvOIBMYE)** **графік засідань постійних депутатських комісій, які відбуватимуться з 7 по 13 вересня у рамках підготовки до чергової 18-ї сесії. Саме засідання сесії Броварської міської ради VII скликання,** **як** **[повідомлялося](https://mpz.brovary.org/anons-22-veresnya-vidbudetsya-chergova-18-ta-sesiya-brovarskoyi-miskoyi-rady/) раніше,** **призначено на** **22 вересня 2016 року. На розгляд депутатів винесено** **41 питан****ня і розділ "Різне".**

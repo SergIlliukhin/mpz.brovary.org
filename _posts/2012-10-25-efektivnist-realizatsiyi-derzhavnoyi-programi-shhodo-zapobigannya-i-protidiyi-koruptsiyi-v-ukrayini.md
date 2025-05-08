@@ -10,6 +10,7 @@ tags:
   - "koruptsiya"
   - "nemchina"
   - "sotsialniy-zahist"
+coverImage: "wp-content/uploads/2012/08/Nemchina_Tatyana--.jpg"
 ---
 
 **Ефективність реалізації Державної програми щодо запобігання і протидії корупції в Україні**.

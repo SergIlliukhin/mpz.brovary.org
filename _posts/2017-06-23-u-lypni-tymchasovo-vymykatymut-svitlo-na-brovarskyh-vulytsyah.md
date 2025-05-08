@@ -13,6 +13,7 @@ tags:
   - "vymknennya-elektroenergiyi"
   - "novini"
   - "svitlo"
+coverImage: "wp-content/uploads/2017/06/zhivotnye_kot_lampa_1592-e1498216006369.jpg"
 ---
 
 **На сайті Броварської міської ради [оприлюднили графік](http://brovary-rada.gov.ua/news/15331.html) тимчасового обмеження електроенергії на броварських вулицях з 1 по 31 липня.**

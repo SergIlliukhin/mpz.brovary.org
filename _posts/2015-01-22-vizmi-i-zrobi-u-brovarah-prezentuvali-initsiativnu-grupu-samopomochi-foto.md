@@ -18,6 +18,7 @@ tags:
   - "priymalnya"
   - "samopomich"
   - "yuridichna-priymalnya"
+coverImage: "wp-content/uploads/2015/01/IMG_1490.jpg"
 ---
 
 **[![IMG_1490](https://mpz.brovary.org/wp-content/uploads/2015/01/IMG_1490.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/01/IMG_1490.jpg)Вчора, 21 січня, по обіді в офісному центрі на розі вулиць Марії Лагунової та Рокосовського було більш людно, ніж зазвичай: біля входу тупцяли відеооператори та кілька фотокореспондентів, поруч окремою групою – чоловіки в ділових костюмах.**

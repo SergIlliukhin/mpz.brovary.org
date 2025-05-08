@@ -25,6 +25,7 @@ tags:
   - "feshhun"
   - "tsvk"
   - "tsentralna-viborcha-komisiya"
+coverImage: "wp-content/uploads/2014/10/1397479555_lyashko.jpg"
 ---
 
 **[![voytovske](https://mpz.brovary.org/wp-content/uploads/2014/10/voytovske.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/10/voytovske.jpg)Днями постановою Центрвиборчкому черговим кандидатом в народні депутати по виборчому округу №97 зареєстрований висуванець від Радикальної партії Олега Ляшка Олександр Фещун.**

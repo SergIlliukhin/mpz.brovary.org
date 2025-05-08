@@ -14,6 +14,7 @@ tags:
   - "pozhezha"
   - "pozhezhniki"
   - "chirka"
+coverImage: "wp-content/uploads/2015/04/kashtanoviy-7.jpg"
 ---
 
 **[![каштановий 01](https://mpz.brovary.org/wp-content/uploads/2015/04/kashtanoviy-01.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/04/kashtanoviy-01.jpg)Пізно вночі на вулиці Кірова спалахнув магазин «Каштановий». Про це [в соцмережах повідомили](https://www.facebook.com/groups/brovary/permalink/1019030744793558/) місцеві мешканці – очевидці події. Полум’я охопило дах продуктового маркету та сусіднього закладу громадського харчування.**

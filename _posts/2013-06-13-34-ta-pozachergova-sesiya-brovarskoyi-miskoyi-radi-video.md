@@ -10,6 +10,7 @@ tags:
   - "brovary"
   - "brovarska-miska-rada"
   - "videozapis-sesiyi"
+coverImage: "wp-content/uploads/2013/06/tushka_melnik.jpg"
 ---
 
 **Подія:** Пленарне засідання 34-ої позачергової сесії Броварської міської ради **Дата:** 13.06.2013 **Камера:** Роман Сімутін

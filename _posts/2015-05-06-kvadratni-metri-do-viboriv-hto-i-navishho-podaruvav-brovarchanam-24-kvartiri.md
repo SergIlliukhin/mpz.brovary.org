@@ -14,6 +14,7 @@ tags:
   - "lisoviy-kvartal"
   - "novini"
   - "cherga"
+coverImage: "wp-content/uploads/2015/04/1429790355-6737.jpg"
 ---
 
 \[caption id="attachment\_37026" align="alignleft" width="300"\][![1429790355-6737](https://mpz.brovary.org/wp-content/uploads/2015/04/1429790355-6737.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/04/1429790355-6737.jpg) Фото: УНІАН.\[/caption\]

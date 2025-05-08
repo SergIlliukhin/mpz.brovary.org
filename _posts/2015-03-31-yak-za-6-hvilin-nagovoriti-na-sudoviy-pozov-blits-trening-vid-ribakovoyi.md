@@ -13,6 +13,7 @@ tags:
   - "zlochin"
   - "porushennya-prav"
   - "ribakova"
+coverImage: "wp-content/uploads/2015/03/rybakova.jpg"
 ---
 
 \[caption id="attachment\_35591" align="alignleft" width="300"\][![rybakova](https://mpz.brovary.org/wp-content/uploads/2015/03/rybakova.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/03/rybakova.jpg) Головний архітектор м. Бровари Лілія Рибакова\[/caption\]

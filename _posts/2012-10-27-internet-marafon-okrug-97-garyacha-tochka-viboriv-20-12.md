@@ -13,6 +13,7 @@ tags:
   - "nastup"
   - "novini"
   - "okrug-97"
+coverImage: "wp-content/uploads/2012/10/Marafon.jpg"
 ---
 
 **[![](https://mpz.brovary.org/wp-content/uploads/2012/10/Marafon.jpg "Марафон")](https://mpz.brovary.org/wp-content/uploads/2012/10/Marafon.jpg)У кульмінаційний момент цьогорічної виборчої кампанії - День виборів - команда "Маєш право знати" спільно з громадянською кампанією "Наступ" проведе Інтернет-марафон "Округ № 97: гаряча точка виборів-2012".**

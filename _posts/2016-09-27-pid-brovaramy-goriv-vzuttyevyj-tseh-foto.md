@@ -11,6 +11,7 @@ tags:
   - "brovary"
   - "novini"
   - "pozhezha"
+coverImage: "wp-content/uploads/2016/09/pozhezha-5.jpg"
 ---
 
 **Броварчани сьогодні спостергігали великий стовп диму - під Броварами у Княжичах горів цех по виробництву взуття. Жертв та постраждалих немає, [повідомляє](http://kyivobl.dsns.gov.ua/ua/Nadzvichayni-podiyi/10000.html) Головне управління ДСНС у Київській області.**

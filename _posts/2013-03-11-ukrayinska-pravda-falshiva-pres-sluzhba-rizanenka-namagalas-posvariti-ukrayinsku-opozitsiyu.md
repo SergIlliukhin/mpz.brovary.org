@@ -12,6 +12,7 @@ tags:
   - "udar"
   - "falshivka"
   - "feysbuk"
+coverImage: "wp-content/uploads/2012/08/RPO-foto-3.jpg"
 ---
 
 [![РПО фото 3](https://mpz.brovary.org/wp-content/uploads/2012/08/RPO-foto-3.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/08/RPO-foto-3.jpg)**Від імені нардепа від УДАРу Павла Різаненка розсилалися фальшиві повідомлення з метою посварити опозиційні партії. Про це [повідомляє](http://www.pravda.com.ua/news/2013/03/10/6985209/) сайт "Українська правда".**

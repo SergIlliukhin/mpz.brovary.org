@@ -11,6 +11,7 @@ tags:
   - "vibori-2014"
   - "novini"
   - "parlamentski-vibori-2014"
+coverImage: "wp-content/uploads/2014/10/1504691.jpg"
 ---
 
 **[![1504691](https://mpz.brovary.org/wp-content/uploads/2014/10/1504691.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/10/1504691.jpg)За тиждень до виборів "Маєш право знати" пропонує нашим читачам взяти участь в онлайн-опитуванні, аби визначити, які політичні партії планує підтримувати інтернет-аудиторія округу. Нагадаємо, з минулого тижня триває аналогічне [онлайн-голосування про кандидатів-мажоритарників у 97 виборчому окрузі.](https://mpz.brovary.org/kogo-pidtrimuye-internet-peredviborche-onlayn-opituvannya-vid-mpz/)**

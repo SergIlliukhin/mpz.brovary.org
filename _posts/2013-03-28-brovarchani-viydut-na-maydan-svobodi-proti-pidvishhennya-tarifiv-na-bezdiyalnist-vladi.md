@@ -9,6 +9,7 @@ categories:
 tags: 
   - "komunalni-tarifi"
   - "udar"
+coverImage: "wp-content/uploads/2013/03/tarif.jpg"
 ---
 
 [![OLYMPUS DIGITAL CAMERA](https://mpz.brovary.org/wp-content/uploads/2013/03/tarif.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/tarif.jpg)Цієї суботи, 30 березня о 13:00 розпочнеться загальноміська акція протесту проти незаконного підвищення тарифів на житлово-комунальні послуги у Броварах. Про це повідомила прес-служба броварського осередку партії "УДАР".

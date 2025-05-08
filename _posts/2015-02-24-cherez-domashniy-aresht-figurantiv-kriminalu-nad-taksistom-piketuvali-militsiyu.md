@@ -16,6 +16,7 @@ tags:
   - "novini"
   - "piket-militsiyi"
   - "pograbuvannya-taksista"
+coverImage: "wp-content/uploads/2015/02/piket-klimenko-4.jpg"
 ---
 
 **[![пікет клименко 3](https://mpz.brovary.org/wp-content/uploads/2015/02/piket-klimenko-3.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/02/piket-klimenko-3.jpg)Близько півсотні броварчан, переважно працівників місцевих служб таксі, влаштували сьогодні пікет біля місцевого міліцейського відділку. Громадяни прийшли з'ясувати, чому двох співучасників [резонансного злочину](https://mpz.brovary.org/brovarski-taksisti-menshe-nizh-za-2-dobi-znayshli-zniklogo-kolegu-ta-yogo-krivdnika/) проти їх колеги Михайла Артемчука відпустили під домашній арешт. Чоловіку та жінці з Великої Димерки інкримінують збут викраденого та приховування особливо тяжкого злочину, який вчинив їх знайомий - 21-річний молодик заволодів автомобілем таксі, вистріливши у водія та викинувши його вмирати посеред поля.**

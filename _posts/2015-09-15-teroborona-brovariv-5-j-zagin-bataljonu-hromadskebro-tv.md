@@ -14,6 +14,7 @@ tags:
   - "zagin-ohorony-i-oborony"
   - "pokazovi-vystupy"
   - "richnitsya"
+coverImage: "wp-content/uploads/2015/09/5-zagin.jpg"
 ---
 
 

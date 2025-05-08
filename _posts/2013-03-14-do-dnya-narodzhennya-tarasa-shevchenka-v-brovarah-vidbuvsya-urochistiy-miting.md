@@ -11,6 +11,7 @@ tags:
   - "vo-svoboda"
   - "ploshha-shevchenka"
   - "shevchenko"
+coverImage: "wp-content/uploads/2013/03/shevchenko_31-169.jpg"
 ---
 
 [![OLYMPUS DIGITAL CAMERA](https://mpz.brovary.org/wp-content/uploads/2013/03/shevchenko.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/shevchenko.jpg)

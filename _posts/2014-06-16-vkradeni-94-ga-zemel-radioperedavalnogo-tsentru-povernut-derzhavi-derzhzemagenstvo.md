@@ -11,6 +11,7 @@ tags:
   - "novini"
   - "pavlo-rizanenko"
   - "radioperedavalniy-tsentr"
+coverImage: "wp-content/uploads/2014/06/brovary_021.jpg"
 ---
 
 **[![Interprofit-4](https://mpz.brovary.org/wp-content/uploads/2013/10/Interprofit-41.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/10/Interprofit-41.jpg)Скандальні 94 га земель Радіопередавалього центру в районі вул. Кутузова повернуть у власність держави. Про це повідомляє [офіційний сайт Головного управління держземагентства у Київській області.](http://www.kievoblzem.org/news.php?page=2541)** «_Земельну ділянку загальною площею 94,67 га у місті Броварах, яку **незаконно передано** у приватну власність підставним особам, буде повернуто у державну власність_», - говориться в повідомленні.

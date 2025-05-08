@@ -12,6 +12,7 @@ tags:
   - "vybuh-na-zupyntsi"
   - "vognegasnyk"
   - "gromadske-telebachennya"
+coverImage: "wp-content/uploads/2015/07/vybuh-MAF-zupynka-shevchenko.jpg"
 ---
 
 

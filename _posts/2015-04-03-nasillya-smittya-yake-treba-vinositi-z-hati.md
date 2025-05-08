@@ -13,6 +13,7 @@ tags:
   - "nasillya"
   - "novini"
   - "tsentr-sotsialnih-sluzhb"
+coverImage: "wp-content/uploads/2015/03/53.jpg"
 ---
 
 [![5](https://mpz.brovary.org/wp-content/uploads/2015/03/53.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/03/53.jpg)

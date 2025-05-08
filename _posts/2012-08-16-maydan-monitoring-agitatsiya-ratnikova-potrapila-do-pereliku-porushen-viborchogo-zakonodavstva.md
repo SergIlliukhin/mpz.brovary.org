@@ -13,6 +13,7 @@ tags:
   - "novini"
   - "porushennya"
   - "ratnikov"
+coverImage: "wp-content/uploads/2012/08/Agitatsiya-Ratnikova-zmensh.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/08/Agitatsiya-Ratnikova-zmensh.jpg "Агітація Ратнікова зменш")](https://mpz.brovary.org/wp-content/uploads/2012/08/Agitatsiya-Ratnikova-zmensh.jpg)Вчора на Інтернет-сайті «**Майдан**» у рамках проекту «**Майдан Моніторинг: Вибори 2012**», який відстежує факти порушень на виборах народних депутатів України 2012, у розділі «Скарги» з’явилось повідомлення про порушення порядку агітації кандидатом у народні депутати у 97-му виборчому окрузі Дмитром Ратніковим під заголовком «**[Дмитро Ратніков набирає "команду" в метро](http://maidanua.org/vybory2012/reports/view/465)».**

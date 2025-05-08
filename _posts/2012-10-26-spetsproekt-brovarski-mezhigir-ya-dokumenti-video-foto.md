@@ -17,6 +17,7 @@ tags:
   - "rizanenko"
   - "ratnikov"
   - "fedorenko"
+coverImage: "wp-content/uploads/2012/10/mezh1.jpg"
 ---
 
 **[![](https://mpz.brovary.org/wp-content/uploads/2012/10/mezh1.jpg "mezh1")](https://mpz.brovary.org/wp-content/uploads/2012/10/mezh1.jpg)Де знаходяться «родинні гнізда» трьох основних претендентів на депутатський мандат по броварському виборчому округу та якою ще власністю володіють найвідоміші броварські політики? Спеціальне розслідування [Громадянської кампанії «Наступ»](http://www.nastup.info/?p=407).** 

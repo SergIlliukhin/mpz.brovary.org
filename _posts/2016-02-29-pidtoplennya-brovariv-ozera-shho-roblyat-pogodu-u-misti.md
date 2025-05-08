@@ -14,6 +14,7 @@ tags:
   - "ozera"
   - "pidtoplennya"
   - "rayisa-shherbakova-kajdan"
+coverImage: "wp-content/uploads/2016/02/0.-Obolonya4.jpg"
 ---
 
 **Про те, як найкраще пустити [гроші на вітер](https://mpz.brovary.org/za-borotbu-z-pidtoplennyam-starogo-mista-planuyut-vzyatisya-vzhe-tsogo-roku), точніше, за водою, знають у Броварській мерії. Тут  десятками років щовесни та  дощовитої осені за допомогою наносів, водокачки, мотопомп, пожежних автоцистерн борються з «повітряним млином» -  [підтопленням](https://mpz.brovary.org/chomu-brovari-pislya-kozhnoyi-zlivi-peretvoryuyutsya-u-venetsiyu) Старої частини міста: відкачують, перекривають, «задамблюють» природній потік земної лімфи.**

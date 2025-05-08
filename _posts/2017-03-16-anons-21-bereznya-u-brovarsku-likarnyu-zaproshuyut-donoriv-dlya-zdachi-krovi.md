@@ -13,6 +13,7 @@ tags:
   - "donorstvo-krovi"
   - "meditsina"
   - "novini"
+coverImage: "wp-content/uploads/2017/03/article_1107_1429346963718_3-e1489601930481.jpg"
 ---
 
 **Наступного тижня у Броварській центральній районній лікарні донори зможуть здати кров. Про це** **[повідомляється](http://brovcrl.in.ua/zday-krov-vryatuy-zhyttya-6) на сайті БЦРЛ.**

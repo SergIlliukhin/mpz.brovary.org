@@ -15,6 +15,7 @@ tags:
   - "kinopokaz"
   - "kanter"
   - "samopomich"
+coverImage: "wp-content/uploads/2015/04/DUK_main.png"
 ---
 
 **[![prom_anons](https://mpz.brovary.org/wp-content/uploads/2015/04/prom_anons.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/04/prom_anons.jpg)У четвер, 9 квітня о 19:00 в МКЦ «Прометей» відбудеться благочинний показ художньо-документальної стрічки Леоніда Кантера «Добровольці Божої чоти».**

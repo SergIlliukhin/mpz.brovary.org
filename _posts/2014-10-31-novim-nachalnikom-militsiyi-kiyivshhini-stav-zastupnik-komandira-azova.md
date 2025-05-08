@@ -15,6 +15,7 @@ tags:
   - "mvs"
   - "novini"
   - "troyan"
+coverImage: "wp-content/uploads/2014/10/9edb110-1.jpg"
 ---
 
 [![9edb110-1](https://mpz.brovary.org/wp-content/uploads/2014/10/9edb110-1.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/10/9edb110-1.jpg)**35-річний підполковник Вадим Троян, заступник командиру батальйону «Азов», очолив міліцію Київської області.**

@@ -11,6 +11,7 @@ tags:
   - "kradizhki-z-avto"
   - "militsiya"
   - "novini"
+coverImage: "wp-content/uploads/2014/11/Ogoloshennya-Militsiya-5.jpg"
 ---
 
 **[![Міліція](https://mpz.brovary.org/wp-content/uploads/2014/05/Militsiya.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/05/Militsiya.jpg)Справа з розкриттям крадіжок з автомобілів у Броварах зрушила з місця. Крадіїв, які тероризували броварчан, впіймали. Містом ходить багато чуток щодо затриманих - правоохоронці ж повідомляють відомі їм факти.**

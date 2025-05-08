@@ -11,6 +11,7 @@ tags:
   - "promizhni-vibori"
   - "tvk"
   - "torgmash"
+coverImage: "wp-content/uploads/2013/04/kalendar.jpg"
 ---
 
 **[![календарь](https://mpz.brovary.org/wp-content/uploads/2013/04/kalendar.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/04/kalendar.jpg)Напередодні початку виборчого процесу проміжних виборів на Тормаші, який має стартувати 13 квітня 2013 року, ми вирішили опублікувати календарний план основних організаційних заходів з підготовки та проведення проміжних виборів депутатів місцевих рад, розроблений ЦВК. Нагадаємо, вибори депутата Броварської міської ради [призначено](https://mpz.brovary.org/zaminu-rizanenku-zhiteli-torgmashu-obiratimut-na-pochatku-lita/) на 2 червня 2013 року.**

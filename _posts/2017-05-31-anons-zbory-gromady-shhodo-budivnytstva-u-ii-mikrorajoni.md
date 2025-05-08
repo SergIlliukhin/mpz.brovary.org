@@ -16,6 +16,7 @@ tags:
   - "pidtoplennya"
   - "skandiya"
   - "stare-misto"
+coverImage: "wp-content/uploads/2017/04/Malofiyenko.jpg"
 ---
 
 **Завтра відбудуться збори громади щодо питання будівництва в районі вулиць Богунської-Маяковського. Про це [повідомляється](http://brovary-rada.gov.ua/news/15238.html) на офіційному сайті Броварської міськради.**

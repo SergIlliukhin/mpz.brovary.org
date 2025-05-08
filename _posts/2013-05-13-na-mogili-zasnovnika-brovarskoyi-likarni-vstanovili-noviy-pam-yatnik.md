@@ -14,6 +14,7 @@ tags:
   - "pamyatnik"
   - "stare-kladovishhe"
   - "feldman"
+coverImage: "wp-content/uploads/2013/05/Feldman-pamyatnik2.jpg"
 ---
 
 [![DSC01702 - копия](https://mpz.brovary.org/wp-content/uploads/2013/05/DSC01702-kopiya.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/05/DSC01702-kopiya.jpg)На початку травня на могилі видатного лікаря, засновника першої лікарні у Броварах, Ісаака Фельдмана встановили новий кам’яний пам’ятник. Роботи із упорядкування два місяці тому [взяла](https://mpz.brovary.org/mogilu-vidatnogo-likarya-isaaka-feldmana-obitsyayut-vporyadkuvati-vzhe-tsiyeyi-vesni/) на себе міська влада та виконала їх у обіцяний строк. Поховання Фельдмана та його сестри Олени Павлової, розстріляних німецькими окупантами у 1942 році, розміщене на Старому кладовищі у Броварах по вул. Кірова.

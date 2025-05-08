@@ -16,6 +16,7 @@ tags:
   - "mikovets"
   - "novini"
   - "ntn"
+coverImage: "wp-content/uploads/2013/09/Koridorami-rayviddilku.jpg"
 ---
 
 **[![емблема](https://mpz.brovary.org/wp-content/uploads/2013/09/emblema.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/09/emblema.jpg)5 вересня броварська міліція продемонструвала журналістам та всім охочим свою роботу зсередини, організувавши [День відкритих дверей](https://mpz.brovary.org/zavtra-brovarska-militsiya-zaproshuye-gromadskist-ta-zhurnalistiv-na-den-vidkritih-dverey/). Подібний захід місцеві правоохоронці проводять цього року вже вдруге. Першими в стінах броварського райвідділку [побували підлітки міста та району](https://mpz.brovary.org/1-1-shkolyaram-proveli-ekskursiyu-do-brovarskogo-viddilku-militsiyi-video/).**

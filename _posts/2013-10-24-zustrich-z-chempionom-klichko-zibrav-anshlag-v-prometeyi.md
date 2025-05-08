@@ -15,6 +15,7 @@ tags:
   - "rizanenko"
   - "simutin"
   - "udar"
+coverImage: "wp-content/uploads/2013/10/kl_main.jpg"
 ---
 
 **[![Візит Кличко 08](https://mpz.brovary.org/wp-content/uploads/2013/10/Vizit-Klichko-08.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/10/Vizit-Klichko-08.jpg)Не зважаючи на традиційні перепони міської влади, 23 жовтня в «Прометеї» відбувся очікуваний аншлаг: найбільша зала міста не змогла вмістити усіх бажаючих поспілкуватись з лідером партії УДАР Віталієм Кличком.**

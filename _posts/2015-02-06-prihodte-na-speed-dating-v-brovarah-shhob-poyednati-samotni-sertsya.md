@@ -13,6 +13,7 @@ tags:
   - "molod"
   - "molod-da"
   - "molod-demokratichnogo-alyansu"
+coverImage: "wp-content/uploads/2015/02/jFYuSHGusLk.jpg"
 ---
 
 [![jFYuSHGusLk](https://mpz.brovary.org/wp-content/uploads/2015/02/jFYuSHGusLk.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/02/jFYuSHGusLk.jpg)

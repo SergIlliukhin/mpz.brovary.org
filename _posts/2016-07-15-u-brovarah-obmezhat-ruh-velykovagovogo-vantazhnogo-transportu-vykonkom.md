@@ -19,6 +19,7 @@ tags:
   - "obmezhennya"
   - "perekryttya"
   - "ruh"
+coverImage: "wp-content/uploads/2016/07/news029.jpg"
 ---
 
 **Виконавчий комітет Броварської міської ради під час останнього засідання ухвалив обмежити рух великовагових транспортних засобів вулицями та дорогами міста, які перебувають у комунальній власності. Про це йдеться в оприлюдненому сьогодні [рішенні](http://brovary.kiev.ua/r%D1%96shennya-vikonavchogo-kom%D1%96tetu-v%D1%96d-12072016%E2%84%96411-pro-obmezhennya-rukhu-velikovagovogo-transportu) виконкому.**

@@ -11,6 +11,7 @@ tags:
   - "vibir-redaktsiyi"
   - "novini"
   - "hronika"
+coverImage: "wp-content/uploads/2014/02/DSC67111.jpg"
 ---
 
 **[![_DSC7136](https://mpz.brovary.org/wp-content/uploads/2014/02/DSC7136.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/02/DSC7136.jpg)Колись ці теплі лютневі дні увійдуть до книжок історії України та Броварів. Ну а зараз час є лише на кілька коротких реплік з передової броварської революції.**

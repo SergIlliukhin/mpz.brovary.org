@@ -14,6 +14,7 @@ tags:
   - "novini"
   - "parlamentski-vibori"
   - "parlamentski-vibori-2014"
+coverImage: "wp-content/uploads/2014/10/dideskul_suprun1.jpg"
 ---
 
 **[![dideskul_suprun1](https://mpz.brovary.org/wp-content/uploads/2014/10/dideskul_suprun1.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/10/dideskul_suprun1.jpg)Загострюється ситуація в роботі Окружної виборчої комісії №97 у Броварах: керівництво комісії заблокувало прийом протоколів з дільниць через заяву кандидата мажоритарника від «Народного фронту» Миколи Семеняки.**

@@ -11,6 +11,7 @@ tags:
   - "blagodiynist"
   - "novini"
   - "psiheya"
+coverImage: "wp-content/uploads/2015/03/parents_psycheya.jpg"
 ---
 
 [![parents_psycheya](https://mpz.brovary.org/wp-content/uploads/2015/03/parents_psycheya.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/03/parents_psycheya.jpg)**У цю суботу, 4 квітня, з 12:00 до 19:00 у Броварах відбудеться щорічний благодійний захід психологічного центру «Психея» - День відкритих дверей. Зібрані кошти цього разу буде направлено на підтримку поранених бійців АТО.**

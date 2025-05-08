@@ -12,6 +12,7 @@ tags:
   - "pravova-dopomoga"
   - "yuridichni-konsultatsiyi"
   - "yuridichniy-viddil"
+coverImage: "wp-content/uploads/2014/01/yuridichna-konsultatsiya.jpg"
 ---
 
 **[![юридична консультація](https://mpz.brovary.org/wp-content/uploads/2014/01/yuridichna-konsultatsiya.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/01/yuridichna-konsultatsiya.jpg)При юридичному відділі броварського виконкому розпочала роботу громадська приймальня з надання безоплатної первинної правової допомоги. Про це сказано в [оголошенні](http://docs.pravo-znaty.org.ua/p11267/11.01.2014), опублікованому на офіційному веб-сайті Броварської міської ради 11 січня. Прийом осіб, які бажають отримати безкоштовну юридичну консультацію, проводить начальник юридичного відділу Баба-Мірзоєва Альбіна Валентинівна у середу та п’ятницю з 10:00 до 12:00 за адресою: вул. Гагаріна, 15, каб. 205.**

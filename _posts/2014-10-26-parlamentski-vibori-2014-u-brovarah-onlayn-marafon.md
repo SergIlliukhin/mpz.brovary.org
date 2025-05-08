@@ -14,6 +14,7 @@ tags:
   - "novini"
   - "parlamentski-vibori"
   - "parlamentski-vibori-2014"
+coverImage: "wp-content/uploads/2014/10/marafon-vybory-2014-445.jpg"
 ---
 
 **[![marafon-vybory-2014-445](https://mpz.brovary.org/wp-content/uploads/2014/10/marafon-vybory-2014-4451.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/10/marafon-vybory-2014-4451.jpg)Сьогодні, у день виборів Верховної Ради України, команда “Маєш право знати” розпочинає онлайн-марафон, щоб максимально оперативно й повно висвітлювати перебіг подій у Броварах - на виборчих дільницях, в окружній комісії, штабах партій та кандидатів тощо.**

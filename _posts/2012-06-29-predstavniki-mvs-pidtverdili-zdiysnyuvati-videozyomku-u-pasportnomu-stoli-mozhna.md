@@ -10,6 +10,7 @@ tags:
   - "zakordonniy-pasport"
   - "mvs"
   - "pasportniy-stil"
+coverImage: "wp-content/uploads/2012/04/Kabinet-nomer-2.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/04/Kabinet-nomer-2.jpg "Kabinet nomer 2")](https://mpz.brovary.org/wp-content/uploads/2012/04/Kabinet-nomer-2.jpg)Нещодавно, під час нашого з Аліною візиту до броварського паспортного столу, інспектор нас звинуватила у тому, що [відеозйомку під час прийому](https://mpz.brovary.org/dovidka-pro-vidsutnist-sudimosti-mif-chi-realnist/) ми проводили незаконно і що вона буде скаржитись на нас, оскільки ми порушуємо закон.

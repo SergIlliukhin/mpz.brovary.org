@@ -14,6 +14,7 @@ tags:
   - "natsyzm"
   - "novini"
   - "pomynalni-dni"
+coverImage: "wp-content/uploads/2016/04/dsc06473.jpg"
 ---
 
 **Відділ культури Броварської міської ради [оприлюднив](http://www.kulturabr.kiev.ua/golovny-novyny/zahody-shchodo-vidznachennya-dnya-pamyati-ta-prymyrennya) перелік офіційних заходів у Броварах, присвячених Дню пам’яті та примирення та Дню перемоги над нацизмом у Другій світовій війні. Концерти, вшанування та спортивні турніри мають відбутися із 6-го по 9-те травня.**

@@ -18,6 +18,7 @@ tags:
   - "kiyiv"
   - "novini"
   - "prezentatsiya"
+coverImage: "wp-content/uploads/2017/02/Vidkrytyj-gromadskyj-byuzhet-uchasti-prezentatsiya-19.02.2017_00035.jpg"
 ---
 
 **[Цієї неділі](https://mpz.brovary.org/anons-aktyvnu-gromadu-zaproshuyut-dialogu-pro-gromadskyj-byudzhet-uchasti/) у Броварах розповідали, як працювати з «[бюджетом участі](https://mpz.brovary.org/gromadskyj-byudzhet-uchasti-mozhe-zapratsyuvaty-v-brovarah-vzhe-nastupnogo-roku/)», нововведенням для України, завдяки якому кожен охочий має шанс за бюджетні кошти реалізувати той чи інший проект. Під час заходу розказали про концепцію реформи, яку вже почали втілювати в багатьох містах України. Окрім того, двоє гостей із Києва поділилися історією реалізації своїх проектів, що вже перемогли у столичному конкурсі. Зустріч організував броварський осередок Молоді Демократичного альянсу.**

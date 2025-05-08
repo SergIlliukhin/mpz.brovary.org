@@ -12,6 +12,7 @@ tags:
   - "garyache-vodopostachannya"
   - "kp-brovariteplovodoenergiya"
   - "novini"
+coverImage: "wp-content/uploads/2013/04/garyacha-voda7.jpg"
 ---
 
 **[![гаряча вода7](https://mpz.brovary.org/wp-content/uploads/2013/04/garyacha-voda7.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/04/garyacha-voda7.jpg)"Маєш право знати" вдалось з'ясувати нові подробиці щодо [відключення гарячої води у Броварах](https://mpz.brovary.org/brovari-ta-vsyu-kiyivsku-oblast-zalishili-bez-garyachoyi-vodi-cherez-vidklyuchennya-gazu-dlya-teplomerezh/), від якого мешканці потерпають уже другий день. Зателефонувавши повторно до КП "Броваритепловодоенергія" ми змогли поспілкуватись із заступником директора Володимиром Чипаченком. Насамперед нас цікавило питання - коли ж нарешті у кранах броварчан з'явиться гаряча вода.**

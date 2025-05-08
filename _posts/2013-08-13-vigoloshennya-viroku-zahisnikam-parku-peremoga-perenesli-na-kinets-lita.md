@@ -7,6 +7,7 @@ author:
 tags: 
   - "vibir-redaktsiyi"
   - "novini"
+coverImage: "wp-content/uploads/2013/08/vybrane1.jpg"
 ---
 
 \[caption id="attachment\_20172" align="alignleft" width="300"\][![Прокурор Людмила Таран](https://mpz.brovary.org/wp-content/uploads/2013/08/Drugiy-sud-nad-svobodivtsyami-za-park-4.jpg "Прокурор Людмила Таран")](https://mpz.brovary.org/wp-content/uploads/2013/08/Drugiy-sud-nad-svobodivtsyami-za-park-4.jpg) Прокурор Людмила Таран\[/caption\]

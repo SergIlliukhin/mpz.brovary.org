@@ -16,6 +16,7 @@ tags:
   - "sud"
   - "udar"
   - "fedorenko"
+coverImage: "wp-content/uploads/2013/10/semen2.jpg"
 ---
 
 **[![semen4](https://mpz.brovary.org/wp-content/uploads/2013/10/semen4.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/10/semen4.jpg)На Покрову у Броварах відбудеться черговий суд над районною організацією партії «Свобода» – цього разу проти «свободівців» позивається «регіонал»  Віктор Семенюк у зв’язку з «приниженням честі й гідності Партії регіонів» та його, як члена даної партії.**

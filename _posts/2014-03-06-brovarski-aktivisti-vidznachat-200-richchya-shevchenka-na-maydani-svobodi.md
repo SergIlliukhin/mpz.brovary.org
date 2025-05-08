@@ -10,6 +10,7 @@ tags:
   - "vibir-redaktsiyi"
   - "novini"
   - "shevchenko"
+coverImage: "wp-content/uploads/2014/03/Nash-Shevchenko.jpg"
 ---
 
 **[![10logo](https://mpz.brovary.org/wp-content/uploads/2014/03/10logo.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/03/10logo.jpg)Ініціативна група броварчан вирішила власними силами вшанувати 200-ту річницю від Дня народження Тараса Шевченка, зважаючи на практичне ігнорування міської влади ювілею Великого Кобзаря.**

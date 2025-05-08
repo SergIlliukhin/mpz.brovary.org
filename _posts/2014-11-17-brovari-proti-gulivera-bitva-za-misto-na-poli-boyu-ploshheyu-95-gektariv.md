@@ -23,6 +23,7 @@ tags:
   - "simutin"
   - "sapozhko"
   - "tehenergotreyd"
+coverImage: "wp-content/uploads/2014/11/95ga_3.jpg"
 ---
 
 **[![brovary_04](https://mpz.brovary.org/wp-content/uploads/2014/11/brovary_04.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/11/brovary_04.jpg)У розпалі кривавого «перемир’я» на Донбасі та в гонитві виборчої кампанії броварчанами лишилась малопоміченою одна з принципових земельних перемог вартістю в річний міський бюджет – близько 300 мільйонів гривень.**

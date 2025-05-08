@@ -16,6 +16,7 @@ tags:
   - "molod"
   - "novini"
   - "sotsialniy-rolik"
+coverImage: "wp-content/uploads/2014/10/avatarka.jpg"
 ---
 
 **У рамках [спецпроекту «Парламентські вибори-2014»](https://mpz.brovary.org/mi-zapuskayemo-spetsproekt-parlamentski-vibori-2014-u-brovarah/) команда «Маєш право знати» прагне не лише спостерігати, висвітлювати та контролювати хід виборчого процесу, але й спонукати наших читачів до дій.**

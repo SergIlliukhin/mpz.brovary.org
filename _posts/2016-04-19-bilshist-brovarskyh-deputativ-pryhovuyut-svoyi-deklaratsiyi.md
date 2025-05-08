@@ -13,6 +13,7 @@ tags:
   - "deputati"
   - "koruptsiya"
   - "novini"
+coverImage: "wp-content/uploads/2016/04/1347041032_yak-zapovniti-blank-deklaraciyi-z-sso.jpg"
 ---
 
 **Лише 17 з 36 броварських депутатів подали свої декларації про доходи в апарат броварської міськради до 1 квітня, як того вимагає антикорупційне законодавство.**

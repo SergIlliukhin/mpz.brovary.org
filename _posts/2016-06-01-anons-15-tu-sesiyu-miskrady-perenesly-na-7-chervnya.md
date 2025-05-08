@@ -12,6 +12,7 @@ tags:
   - "brovary"
   - "vibir-redaktsiyi"
   - "novini"
+coverImage: "wp-content/uploads/2012/07/Bud_vlya-m_skoyi-radi-zagalniy-plan-3.jpg"
 ---
 
 **Анонсовану на завтра 15-ту чергову сесію перенесли на 7 червня, повідомляється на сайті Броварської міської ради - відповідне розпорядження [підписав](http://brovary.kiev.ua/rozporyadzhennya-m%D1%96skogo-golovi-v%D1%96d-01062016%E2%84%96133-odpro-perenesennya-dati-provedennya-p%E2%80%99yatnadtsyato%D1%97) сьогодні міський голова.**

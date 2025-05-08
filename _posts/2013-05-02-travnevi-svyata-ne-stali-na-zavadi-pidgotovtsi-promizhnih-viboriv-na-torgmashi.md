@@ -11,6 +11,7 @@ tags:
   - "novini"
   - "promizhni-vibori"
   - "tvk"
+coverImage: "wp-content/uploads/2013/05/IMAG1887.jpg"
 ---
 
 [![Табличка виборчої комісії 5](https://mpz.brovary.org/wp-content/uploads/2013/04/Tablichka-viborchoyi-komisiyi-5.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/04/Tablichka-viborchoyi-komisiyi-5.jpg)****У дні травневих свят** Броварська міська виборча комісія, яка нині займається підготовкою та проведенням [проміжних виборів у 20 виборчому окрузі](https://mpz.brovary.org/zaminu-rizanenku-zhiteli-torgmashu-obiratimut-na-pochatku-lita/), працюватиме у режимі чергування, тобто по 4 години на день.**

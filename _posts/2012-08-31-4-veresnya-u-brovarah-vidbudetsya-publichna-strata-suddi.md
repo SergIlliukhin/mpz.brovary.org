@@ -11,6 +11,7 @@ tags:
   - "brovary"
   - "vitaliy-zaporozhets"
   - "sud"
+coverImage: "wp-content/uploads/2012/08/SHibenitsya-2.jpg"
 ---
 
 Друзі!

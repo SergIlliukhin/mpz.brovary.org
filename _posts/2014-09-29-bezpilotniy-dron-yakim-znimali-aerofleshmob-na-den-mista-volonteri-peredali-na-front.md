@@ -11,6 +11,7 @@ tags:
   - "kvadrokopter"
   - "koordinatsiyniy-tsentr-dopomogi-brovarskim-viyskovim"
   - "novini"
+coverImage: "wp-content/uploads/2014/09/kopter-10.jpg"
 ---
 
 **[![коптер 10](https://mpz.brovary.org/wp-content/uploads/2014/09/kopter-10.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/09/kopter-10.jpg)Квадрокоптер DJI Phantom 2 з відеокамерою на борту, що ним волонтери [Координаційного центру допомоги броварським військовим](https://www.facebook.com/koordcentr.brovary) напередодні відзняли [ефектне відеопривітання](https://www.youtube.com/watch?v=1wAGMNmpNpk) бійцям на фронті, активісти вирішили передати для потреб розвідувальних підрозділів 11-го батальйону «Київська Русь».**

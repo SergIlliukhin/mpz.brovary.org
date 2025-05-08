@@ -20,6 +20,7 @@ tags:
   - "rizanenko"
   - "semenyuk"
   - "sud"
+coverImage: "wp-content/uploads/2012/07/Brama-lyutiy.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/07/Brama-lyutiy.jpg "Брама лютий")](https://mpz.brovary.org/wp-content/uploads/2012/07/Brama-lyutiy.jpg)Сьогодні, 9 липня, о 13:30 має розпочатись судове засідання, на якому буде розглядатись позов депутата Броварської міської ради **Павла Різаненка** проти комунальної газети «**Броварська панорама**», яка, на думку позивача, поширила про нього неправдиву інформацію і цим завдало шкоди його честі, гідності та діловій репутації. Минуле засідання, на якому були присутні журналісти "Маєш право знати" [було перенесене за заявою сторони відповідача](https://mpz.brovary.org/sud-rozglyadatime-pozov-pavla-rizanenka-proti-gazeti-brovarska-panorama/). «Маєш право знати» планує здійснювати твітер-трансляцію сьогоднішнього судового засідання. Твіттер-трансляція буде доступна за тегом **[#bramasud](https://twitter.com/search/bramasud "Твіттер #bramasud").**

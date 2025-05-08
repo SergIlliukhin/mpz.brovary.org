@@ -13,6 +13,7 @@ tags:
   - "torgmash"
   - "chernyahovskogo"
   - "shkola-10"
+coverImage: "wp-content/uploads/2015/03/chernyahovskogo_subotnik.jpg"
 ---
 
 **[![суботник торгмаш 2](https://mpz.brovary.org/wp-content/uploads/2015/03/07D_3188.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/03/07D_3188.jpg)Сезон суботників у Броварах несамовито набирає обертів. Так, нещодавно [мешканці Торгмашу прибрали територію закинутої поліклініки](https://mpz.brovary.org/sezon-subotnikiv-u-brovarah-vidkrito-meshkantsi-torgmashu-oblagorodili-zakinutu-polikliniku/). У ці вихідні броварчанам-любителям чистоти також буде чим зайнятися. У соціальних мережах місцеві жителі закликають долучатись до прибирання у різних мікрорайонах міста. Зокрема наразі є дві пропозиції.**

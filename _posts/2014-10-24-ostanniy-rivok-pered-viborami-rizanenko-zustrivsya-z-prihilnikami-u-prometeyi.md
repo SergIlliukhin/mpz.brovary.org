@@ -23,6 +23,7 @@ tags:
   - "semenyaka"
   - "tsvk"
   - "tsentralna-viborcha-komisiya"
+coverImage: "wp-content/uploads/2014/10/Rizanenko-05.jpg"
 ---
 
 **[![Різаненко 07](https://mpz.brovary.org/wp-content/uploads/2014/10/Rizanenko-07.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/10/Rizanenko-07.jpg)22 жовтня в «Прометеї» відбулась остання велика передвиборча зустріч одного з фаворитів парламентських перегонів по нашому округ, народного депутата України Павла Різаненка.**

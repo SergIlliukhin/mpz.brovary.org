@@ -13,6 +13,7 @@ tags:
   - "ovk"
   - "okrug-97"
   - "siverinsen"
+coverImage: "wp-content/uploads/2012/10/7640621.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/10/764062.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/10/764062.jpg)**Ханне Северінсен розкритикувала стан приміщення Окружної виборчої комісії в 97-му окрузі. Про це повідомляє прес-служба ГО «Громадський захист Київщини».**

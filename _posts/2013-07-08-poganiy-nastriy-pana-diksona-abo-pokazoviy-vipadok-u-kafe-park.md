@@ -14,6 +14,7 @@ tags:
   - "park"
   - "park-peremoga"
   - "shum"
+coverImage: "wp-content/uploads/2013/06/Kafe-Park-4.jpg"
 ---
 
 **[![Кафе Парк 4](https://mpz.brovary.org/wp-content/uploads/2013/06/Kafe-Park-4.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/06/Kafe-Park-4.jpg)Готуючи матеріал про кафе «Парк», що вже кілька років [стоїть на території міського парку без жодних законних підстав](https://mpz.brovary.org/zamist-znesennya-nezakonnogo-kafe-u-parku-peremoga-vlada-vimiryuye-u-nomu-riven-shumu/), я мимоволі став свідком несподіваного, але дуже показового інциденту. Завітавши до цього закладу, щоб оглянути його зсередини, я побачив сутичку. І це було не просто якесь з’ясування стосунків між відвідувачами: активним учасником сутички був… директор закладу.**

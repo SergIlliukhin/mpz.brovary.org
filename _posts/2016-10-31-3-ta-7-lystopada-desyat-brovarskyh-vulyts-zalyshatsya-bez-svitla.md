@@ -12,6 +12,7 @@ tags:
   - "vymknennya-elektroenergiyi"
   - "vymknennya-svitla"
   - "novini"
+coverImage: "wp-content/uploads/2016/10/main_0078c.jpg"
 ---
 
 **В найближчі дні у Броварах будуть проводитися ремонтні роботи на електричних мережах. У зв'язку з цим без електроенергії залишаться 10 вулиць. Про це йдеться в [оголошенні](http://brovary-rada.gov.ua/news/14439.html) на офіційному сайті Броварської міської ради.**

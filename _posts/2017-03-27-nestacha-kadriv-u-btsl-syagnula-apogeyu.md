@@ -14,6 +14,7 @@ tags:
   - "btsrl"
   - "nestacha-personalu"
   - "novini"
+coverImage: "wp-content/uploads/2016/10/3.jpg"
 ---
 
 **Сьогодні на оперативній нараді у міськраді [знову](https://mpz.brovary.org/brovarski-likari-zbyrayutsya-strajkuvaty/) говорили про відтік кадрів з Броварської центральної районної лікарні, а також про велику кількість амбулаторних звернень без направлення сімейного лікаря.**

@@ -14,6 +14,7 @@ tags:
   - "novini"
   - "rishennya-vikonkomu"
   - "sluzhba-u-spravah-ditey"
+coverImage: "wp-content/uploads/2014/05/clock-300x199.jpg"
 ---
 
 **[![0,,6547804_4,00](https://mpz.brovary.org/wp-content/uploads/2014/05/06547804_400.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/05/06547804_400.jpg)20 травня виконавчий комітет Броварської міської ради ухвалив рішення [«Про обмеження часу перебування дітей в громадських місцях» в новій редакції](http://www.brovary.kiev.ua/r%D1%96shennya-vikonkomu-v%D1%96d-20052014-%E2%84%96264-pro-obmezhennya-chasu-perebuvannya-d%D1%96tei-v-gromadskikh-m%D1%96stsya). Згідно із документом, дітям до 16 років заборонено перебувати в громадських місцях з 22:00 до 6:00 без супроводу принаймні б одного з батьків або осіб, які їх замінюють.**

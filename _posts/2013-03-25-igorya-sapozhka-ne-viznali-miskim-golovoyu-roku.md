@@ -9,6 +9,7 @@ tags:
   - "novini"
   - "premiya"
   - "sapozhko"
+coverImage: "wp-content/uploads/2013/03/bed03ad3b1baff3c8b4aea3ff84715601b4db8e2.jpg"
 ---
 
 [![Премія Людина Року](https://mpz.brovary.org/wp-content/uploads/2013/03/bed03ad3b1baff3c8b4aea3ff84715601b4db8e2.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/bed03ad3b1baff3c8b4aea3ff84715601b4db8e2.jpg)

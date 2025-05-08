@@ -12,6 +12,7 @@ tags:
   - "deputati"
   - "zemelna-komisiya"
   - "simutin"
+coverImage: "wp-content/uploads/2012/07/Bud_vlya-m_skoyi-radi-zagalniy-plan-3.jpg"
 ---
 
 25 грудня має відбутись чергова сесія Броварської міської ради, на яку виноситься [більше трьох десятків питань](http://docs.pravo-znaty.org.ua/p14366/27.11.2014/212). Хочу звернути окрему увагу громадськості на окремі з них.

@@ -12,6 +12,7 @@ tags:
   - "novini"
   - "palinnya"
   - "prokuratura"
+coverImage: "wp-content/uploads/2013/03/336358628.jpg"
 ---
 
 [![паління](https://mpz.brovary.org/wp-content/uploads/2013/03/336358628.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/336358628.jpg)**Фахівці державної інспекції з питань захисту прав споживачів у Київській області виявили порушення у діяльності ресторану "Монте Карло", однак винних не знайшли.**

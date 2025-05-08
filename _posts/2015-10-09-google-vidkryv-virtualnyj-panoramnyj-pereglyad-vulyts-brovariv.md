@@ -13,6 +13,7 @@ tags:
   - "panorama"
   - "pereglyad"
   - "gugl"
+coverImage: "wp-content/uploads/2015/10/Bro_vyu_1.jpg"
 ---
 
 **Компанія Google представила масштабне оновлення режиму "Перегляд вулиць" (_Street View_) на своїх картах в Україні. Стали доступними панорамні перегляди в більш ніж 300 великих і маленьких населених пунктах. Про це у своєму офіційному блозі [повідомляє](http://google-ukraine-blog.blogspot.com/2015/10/street-view.html?m=1) Google. Відтепер на ресурсах _Google Maps_ та _Google Earth_ можна переглянути і вулиці Броварів.**

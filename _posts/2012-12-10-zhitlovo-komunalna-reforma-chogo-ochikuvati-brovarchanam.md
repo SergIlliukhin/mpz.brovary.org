@@ -13,6 +13,7 @@ tags:
   - "novini"
   - "reformi"
   - "sluzhba-zamovnika"
+coverImage: "wp-content/uploads/2012/12/20120328113706.jpg"
 ---
 
 **[![](https://mpz.brovary.org/wp-content/uploads/2012/12/20120328113706.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/12/20120328113706.jpg)Під час позачергової [26-ої сесії](https://mpz.brovary.org/dlya-stvorennya-komunalnih-pidpriyemstv-u-terminovomu-poryadku-sklikano-pozachergovu-sesiyu/ "Для створення комунальних підприємств у терміновому порядку скликано позачергову сесію") Броварської міської ради 7 грудня заступник міського голови Григорій Голубовський представив депутатам  план реформування житлово-комунального господарства, який броварська влада планує реалізувати вже у найближчі роки**.

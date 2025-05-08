@@ -18,6 +18,7 @@ tags:
   - "perevirka"
   - "perevirka-stanu-povitrya"
   - "shkidlyvi-vykydy"
+coverImage: "wp-content/uploads/2017/03/44534.jpg"
 ---
 
 **3 квітня відбудеться перша зустріч, присвячена збору підписів для перевірки стану повітря у Броварах. Перші збори планують провести біля ЖК "Купава". Зустріч ініціювали члени [ГО "ЕКО Бровари"](https://www.facebook.com/ekobrovary).**

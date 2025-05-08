@@ -10,6 +10,7 @@ tags:
   - "brovary"
   - "demalyans"
   - "zvit"
+coverImage: "wp-content/uploads/2015/12/zustrich-u-mera-sauk-nikitchyna-symonenka-lis-12.jpg"
 ---
 
 **Другий місяць роботи у Броварській міській раді виявився для команди “Демократичного Альянсу” не менш насиченим, ніж** [**перший**](https://mpz.brovary.org/zrobleno-za-misyats-znajomstvo-pershyj-dialog-navchannya-onlajn-petytsiyi-ta-novyj-ofis/)**: нами було започатковано кілька нових проектів, налагоджено системну роботу з виборцями та роботу на пленарних засіданнях міськради.**

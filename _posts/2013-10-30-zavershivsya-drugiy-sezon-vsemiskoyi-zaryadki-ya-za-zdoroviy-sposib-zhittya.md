@@ -9,6 +9,7 @@ categories:
 tags: 
   - "zaryadka"
   - "mobi"
+coverImage: "wp-content/uploads/2013/10/COK9NTDIREs.jpg"
 ---
 
 **_«Коли наступна зарядка?» - з такими питаннями підходили до нас діти й дорослі ще до початку зарядки_**

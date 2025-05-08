@@ -11,6 +11,7 @@ tags:
   - "grafik-avariynih-vidklyuchen-elektroenergiyi"
   - "novini"
   - "yuriy-sliva"
+coverImage: "wp-content/uploads/2014/12/aktsiya-elektrovidklyuchennya-02.jpg"
 ---
 
 **[![акція електровідключення 10](https://mpz.brovary.org/wp-content/uploads/2014/12/aktsiya-elektrovidklyuchennya-10.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/12/aktsiya-elektrovidklyuchennya-10.jpg)"Дістало!" – мешканці Броварського району не хочуть терпіти хаотичні відключення електрики і перепади напруги, через які псується побутова техніка та електроприлади. 23 грудня кілька десятків активістів з різних сіл приїхали в броварський РЕМ отримати пояснення, коли очікувати хоч якоїсь урегульованості та належної поінформованості населення про зникнення електрики.**

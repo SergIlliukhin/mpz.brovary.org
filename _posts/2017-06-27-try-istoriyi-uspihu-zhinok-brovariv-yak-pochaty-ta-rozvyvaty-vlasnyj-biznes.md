@@ -17,6 +17,7 @@ tags:
   - "zustrich"
   - "mariya-prydma"
   - "novini"
+coverImage: "wp-content/uploads/2017/06/vuman-pablik-tok-49.jpg"
 ---
 
 **Цієї неділі у Броварах пройшла зустріч, яка зібрала декілька десятків жінок послухати тих дівчат, які мають свої власні історії успіху. Поставити їм запитання, познайомитися, поспілкуватися, надихнутися, а ще - отримати подарунки - все це вони мали змогу на заході ["Public Talk: Жінки. Бізнес vs краса"](https://mpz.brovary.org/anons-25-chervnya-zhinky-brovariv-rozmovlyatymut-pro-biznes-ta-krasu/).**

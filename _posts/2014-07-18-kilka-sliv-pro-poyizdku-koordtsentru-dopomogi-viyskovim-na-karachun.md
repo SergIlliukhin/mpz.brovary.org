@@ -9,6 +9,7 @@ categories:
 tags: 
   - "koordinatsiyniy-tsentr-dopomogi-brovarskim-viyskovim"
   - "slovyansk"
+coverImage: "wp-content/uploads/2014/07/slavyansk30.jpg"
 ---
 
 [![славянск30](https://mpz.brovary.org/wp-content/uploads/2014/07/slavyansk30.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/07/slavyansk30.jpg)**Вчора команда активістів координаціного центру допомоги броварським військовим повернулась зі Слов'янська. Всі адресні посилки від рідних, а також закуплені на пожертви броварчан спорядження, ліки, вода та харчі успішно доставили в руки нашим воїнам.**

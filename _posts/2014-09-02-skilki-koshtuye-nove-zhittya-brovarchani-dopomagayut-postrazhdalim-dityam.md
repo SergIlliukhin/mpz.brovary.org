@@ -12,6 +12,7 @@ tags:
   - "novi-odnoklasniki"
   - "novini"
   - "yarmarok"
+coverImage: "wp-content/uploads/2014/09/YArmarok-2-Novi-odnoklasniki-690.jpg"
 ---
 
 **[![Ярмарок 2 Нові однокласники 690](https://mpz.brovary.org/wp-content/uploads/2014/09/YArmarok-2-Novi-odnoklasniki-690.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/09/YArmarok-2-Novi-odnoklasniki-690.jpg)29 серпня в **броварському МКЦ «Прометей» вже вдруге відбувся благодійний ярмарок «Нові однокласники» для збору коштів на підтримку**** **дітей з родин військовослужбовців та переселенців. Цього разу вдалося зібрати 1 054 гривень.**

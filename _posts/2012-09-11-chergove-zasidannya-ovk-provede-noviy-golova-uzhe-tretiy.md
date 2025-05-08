@@ -15,6 +15,7 @@ tags:
   - "ovk"
   - "okruzhna-viborcha-komisiya"
   - "sityenkov"
+coverImage: "wp-content/uploads/2012/09/Maksim-Sitenkov.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/09/Maksim-Sitenkov.jpg "Максим Ситенков")](https://mpz.brovary.org/wp-content/uploads/2012/09/Maksim-Sitenkov.jpg)7 вересня постанової ЦВК № 817 припинено повноваження [голови](https://mpz.brovary.org/u-skladi-brovarskoyi-okruzhnoyi-viborchoyi-komisiyi-shist-zamin-ta-noviy-golova/ "У складі броварської окружної виборчої комісії шість замін та новий голова") окружної виборчої комісії по одномандатному округу №97 **Мацанюка Романа Вікторовича**. Замість нього головою окружної виборчої комісії призначено **Ситєнкова Максима Миколайович**, 1975 року народження. Зміну здійснено за поданням Всеукраїнської політичної партії "Братство", яка отримала квоту на посаду голови комісії у 97 виборчому окрузі.

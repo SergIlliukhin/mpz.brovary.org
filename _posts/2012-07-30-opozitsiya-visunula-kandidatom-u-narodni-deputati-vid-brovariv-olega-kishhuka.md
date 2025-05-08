@@ -13,6 +13,7 @@ tags:
   - "kishhuk"
   - "novini"
   - "obyednana-opozitsiya"
+coverImage: "wp-content/uploads/2012/07/opozitsiya.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/07/opozitsiya.jpg "опозиція")](https://mpz.brovary.org/wp-content/uploads/2012/07/opozitsiya.jpg)Сьогодні на з'їзді об'єднаної опозиції від всеукраїнського об'єднання «Батьківщина» було [офіційно висунуто](http://byut.com.ua/news/11912.html) кандидатів у депутати в багатомандатному виборчому окрузі від ВО  «Батьківщина» та кандидатів у депутати в одномандатних виборчих округах від ВО «Батьківщина». По мажоритарному виборчому округу № 97, до якого входять Бровари, кандидатом став **Олег Євгенович Кищук**.

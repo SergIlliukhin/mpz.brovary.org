@@ -13,6 +13,7 @@ tags:
   - "rekonstruktsiya"
   - "skver-shevchenka"
   - "shevchenko"
+coverImage: "wp-content/uploads/2012/11/Ploshha-SHevchenka_5.jpg"
 ---
 
 На броварській площі Шевченка днями нарешті розпочнуться роботи з реконструкції. В усякому разі, почнуть звільняти місце для проведення таких робіт.

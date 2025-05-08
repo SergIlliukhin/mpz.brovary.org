@@ -13,6 +13,7 @@ tags:
   - "novini"
   - "park-sosnovyj"
   - "stop-budivnytstvu-na-symonenka-chornovola"
+coverImage: "wp-content/uploads/2016/10/sesiya-lis-symonenka-3.jpg"
 ---
 
 **Броварська міська рада зареєструвала звернення депутатів про проведення громадських слухань у місті Бровари щодо збереження Парку Сосновий. Про це йдеться в [повідомленні](http://brovary-rada.gov.ua/news/14467.html) на офіційному сайті Броварської міської ради.**

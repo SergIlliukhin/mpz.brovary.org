@@ -18,6 +18,7 @@ tags:
   - "novini"
   - "samopomich"
   - "skotnikov"
+coverImage: "wp-content/uploads/2017/03/nezak.jpg"
 ---
 
 **На чергову сесію міськради 23 березня виносять [проект рішення](http://brovary-rada.gov.ua/documents/26789.html) про створення комунального підприємства "Броварипарксервіс". Нагадаємо, утворення КП збиралися розглядати в листопаді минулого року на 20-й черговій сесії БМР, але тоді його [зняли з розгляду](https://mpz.brovary.org/na-sesiyi-ne-rozglyadayut-pytannya-zarplaty-mera-stvorennya-kp-brovaryparkservis-ta-znyattya-golovy-dekomunizatsijnoyi-komisiyi/). Зараз проект попередньо розглянули на комунальній комісії: він знову викликав бурхливе обговорення та розкол між членами комісії, проте вони все ж проголосували за те, аби винести його на розгляд сесії.** 

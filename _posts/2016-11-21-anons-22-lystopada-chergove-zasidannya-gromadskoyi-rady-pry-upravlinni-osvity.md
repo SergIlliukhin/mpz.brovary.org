@@ -12,6 +12,7 @@ tags:
   - "zasidannya"
   - "novini"
   - "osvita"
+coverImage: "wp-content/uploads/2016/02/gromadska-rada-1.jpg"
 ---
 
 **Завтра, 22 листопада, відбудеться засідання Громадської ради при управлінні освіти і науки Броварської міськради.**

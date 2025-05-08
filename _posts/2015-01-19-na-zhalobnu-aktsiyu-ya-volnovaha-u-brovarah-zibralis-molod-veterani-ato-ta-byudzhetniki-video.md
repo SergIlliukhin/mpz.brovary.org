@@ -12,6 +12,7 @@ tags:
   - "maydan-svobodi"
   - "novini"
   - "ya-volnovaha"
+coverImage: "wp-content/uploads/2015/01/foto-1-2.jpg"
 ---
 
 [![фото 1 (1)](https://mpz.brovary.org/wp-content/uploads/2015/01/foto-1-1.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/01/foto-1-1.jpg)**Близько двох сотень людей зібрались на броварському Майдані Свободи вдень 18 січня, аби долучитись до всеукраїнської акції зі вшанування пам’яті жертв російського тероризму на Донбасі.**

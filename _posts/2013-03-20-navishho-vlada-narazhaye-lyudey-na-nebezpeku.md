@@ -15,6 +15,7 @@ tags:
   - "ozero"
   - "park"
   - "priozerniy"
+coverImage: "wp-content/uploads/2013/03/Image00101.jpg"
 ---
 
 [![Image00101](https://mpz.brovary.org/wp-content/uploads/2013/03/Image00101.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/Image00101.jpg)Ще наприкінці минулого року «Маєш право знати» опублікувало [матеріал](https://mpz.brovary.org/chi-bezpechno-kupatisya-u-ozeri-v-parku-priozerniy/) про небезпеку купатися в озері у парку «Приозерний». Тоді журналісти з’ясували, що перебування у водоймі небезпечне для здоров’я. Однак, органи місцевого самоврядування не лише не посприяли покращанню інформування людей про небезпеку, а й 19 січня, на Водохреща, провели традиційні офіційні святкові заходи із купанням усіх охочих.

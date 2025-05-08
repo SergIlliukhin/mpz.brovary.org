@@ -12,6 +12,7 @@ tags:
   - "novini"
   - "partiya-zelenih-ukrayini"
   - "chabur"
+coverImage: "wp-content/uploads/2013/10/2013-7.jpg"
 ---
 
 [![газова заправка](https://mpz.brovary.org/wp-content/uploads/2013/10/chabur1.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/10/chabur1.jpg)**У кінці минулого року пильні броварчани [помітили](https://mpz.brovary.org/bilya-starogo-kladovishha-na-vulitsi-kirova-deputat-zbuduye-gazozapravnu-stantsiya/ "Біля старого кладовища на Кірова депутат збудує газозаправну станцію"), що біля центрального входу на кладовище по вул.Кірова розпочалось дивне будівництво. Численні скарги активістів мали ефект - роботи припинились, розпочались перевірки. Однак ненадовго. Нещодавно газозаправну станцію біля кладовища було повністю завершено. Мало того, розпочалось аналогічне будівництво у центрі міста - біля зупинки "Порошинка".**

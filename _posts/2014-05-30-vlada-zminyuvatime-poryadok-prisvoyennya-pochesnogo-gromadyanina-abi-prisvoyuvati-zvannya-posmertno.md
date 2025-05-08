@@ -12,6 +12,7 @@ tags:
   - "pochesniy-gromadyanin-mista-brovari"
   - "sapozhko"
   - "smikola-lisenko"
+coverImage: "wp-content/uploads/2014/03/dvoryanets.jpg"
 ---
 
 \[caption id="attachment\_25019" align="alignleft" width="225"\][![Антоніна Дворянець09](https://mpz.brovary.org/wp-content/uploads/2014/03/Antonina-Dvoryanets09.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/03/Antonina-Dvoryanets09.jpg) Антоніна Дворянець\[/caption\]

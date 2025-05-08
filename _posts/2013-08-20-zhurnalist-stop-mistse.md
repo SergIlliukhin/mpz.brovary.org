@@ -15,6 +15,7 @@ tags:
   - "tisk-na-presu"
   - "fedorenko"
   - "cherednik"
+coverImage: "wp-content/uploads/2013/08/SS3.jpg"
 ---
 
 **[![SC1](https://mpz.brovary.org/wp-content/uploads/2013/08/SC1.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/08/SC1.jpg)Учорашнє [рішення](https://mpz.brovary.org/brovarski-deputati-hochut-zaboroniti-zhurnalistam-peresuvatis-po-zali-pid-chas-sesiy/) депутатської комісії броварської міськради щодо контролю над місцевими журналістами, хоч і було прийняте у майже безконфліктній атмосфері, насправді може спричинити дуже конфліктні наслідки.**

@@ -15,6 +15,7 @@ tags:
   - "novini"
   - "prokuratura"
   - "sobolyev"
+coverImage: "wp-content/uploads/2014/05/logo_mpz.jpg"
 ---
 
 **[![logo_mpz](https://mpz.brovary.org/wp-content/uploads/2014/05/logo_mpz.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/05/logo_mpz.jpg)19 травня об 11:00 під стінами Броварської міжрайонної прокуратури (м. Бровари, вул. Київська, 137) активісти  Броварської Народної Ради презентують Люстраційний комітет – «підрозділ» БНР, що займатиметься очищення місцевої влади від чиновників режиму Януковича. Про це [повідомляється на сайті місцевого Люстраційного комітету.](http://lustrationbrovary.wordpress.com/2014/05/14/%D0%BD%D0%B0-%D0%BC%D1%96%D1%81%D1%86%D1%96-%D0%B7%D1%80%D1%83%D0%B9%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BB%D0%B5%D0%BD%D1%96%D0%BD%D0%B0-%D1%81%D0%BF%D0%B0%D0%BB%D1%8F%D1%82%D1%8C/#more-144)** 

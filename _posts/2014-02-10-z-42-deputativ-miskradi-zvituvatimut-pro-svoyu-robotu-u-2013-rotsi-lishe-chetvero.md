@@ -15,6 +15,7 @@ tags:
   - "onyshhenko"
   - "oskyutenko"
   - "simutin"
+coverImage: "wp-content/uploads/2013/01/Zvituvannya-Ivanenka_2.jpg"
 ---
 
 **[![Звітування Іваненка_2](https://mpz.brovary.org/wp-content/uploads/2013/01/Zvituvannya-Ivanenka_2.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/01/Zvituvannya-Ivanenka_2.jpg)Протягом лютого 2014 року всі депутати Броварської міськради мають прозвітувати перед виборцями про свою роботу у 2013 році. Таке рішення [вони самі ухвалили на сесії у січні](https://mpz.brovary.org/u-brovarskih-deputativ-rozpochavsya-sezon-zvituvannya-za-2013-rik/). Та, схоже, міські обранці знову не планують виконувати власне рішення та Закон України «Про статус депутатів місцевих рад», який передбачає обов'язок депутатів звітувати про свою діяльність раз на рік.**

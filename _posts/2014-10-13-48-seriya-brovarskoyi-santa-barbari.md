@@ -10,6 +10,7 @@ tags:
   - "brovary"
   - "simutin"
   - "sesiya"
+coverImage: "wp-content/uploads/2014/10/09.10_8.jpg"
 ---
 
 **[![09.10_8](https://mpz.brovary.org/wp-content/uploads/2014/10/09.10_8.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/10/09.10_8.jpg)Комунальний пиріг:**

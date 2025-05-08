@@ -7,6 +7,7 @@ author:
 tags: 
   - "vibir-redaktsiyi"
   - "novini"
+coverImage: "wp-content/uploads/2014/02/foto-11.jpg"
 ---
 
 **[![фото 11](https://mpz.brovary.org/wp-content/uploads/2014/02/foto-11.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/02/foto-11.jpg)Учора, 21 лютого, о 18:00 в приміщенні нової адмінбудівлі на Майдані Свободи відбулося розширене засідання Народної Ради Броварів де було оголошено про створення Броварського Штабу Самооборони та висунуто вимогу негайної відставки мера Ігоря Сапожка.**

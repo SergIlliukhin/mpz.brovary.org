@@ -14,6 +14,7 @@ tags:
   - "zagibli"
   - "maydan"
   - "novini"
+coverImage: "wp-content/uploads/2014/02/svichka.jpg"
 ---
 
 **[![свічка](https://mpz.brovary.org/wp-content/uploads/2014/02/svichka.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/02/svichka.jpg)Сьогодні о 12:30 відбудеться похорон Антоніни Дворянець – 62-річної мешканки Броварів, котру насмерть забили кийками бійці спецпідрозділів під час масових протестів у центрі Києва 18 лютого. Про це "Маєш право знати" повідомив чоловік загиблої Іван Дворянець.**

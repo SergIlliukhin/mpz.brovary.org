@@ -12,6 +12,7 @@ tags:
   - "novini"
   - "strategichna-sesiya"
   - "charivna-taystra"
+coverImage: "wp-content/uploads/2015/03/DSC_88001.jpg"
 ---
 
 **[![DSC_8800](https://mpz.brovary.org/wp-content/uploads/2015/03/DSC_8800.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/03/DSC_8800.jpg)Стратегічна сесія «Нове місто – Бровари» передбачувано стала наймасштабнішим та найбільш представницьким заходом третього сектору Броварів з моменту перемоги Революції Гідності.**

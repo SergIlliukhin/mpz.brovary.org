@@ -14,6 +14,7 @@ tags:
   - "partiya-regioniv"
   - "tsentr-zaynyatosti"
   - "yarmarok-vakansiy"
+coverImage: "wp-content/uploads/2013/10/pr4.jpg"
 ---
 
 **[![12](https://mpz.brovary.org/wp-content/uploads/2013/10/12.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/10/12.jpg)Сьогодні, 10 жовтня, у Броварах відбулася [міжрайонна ярмарка вакансій](https://mpz.brovary.org/10-zhovtnya-u-tsentri-brovariv-vidbudetsya-mizhnarodniy-yarmarok-vakansiy-ta-profesiy/), організована Київським обласним Центром зайнятості. Щоправда, сторонній споглядач міг сплутати захід з агітаційною акцією «Партії регіонів»: атрибутика була оформлена в корпоративних кольорах президентської партії, на наметах обігрувались «регіоналівські» передвиборчі гасла, а мало не центральним об’єктом ярмарки стала «громадська приймальня Партії регіонів», розміщена в наметі ПР.**

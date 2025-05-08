@@ -17,6 +17,7 @@ tags:
   - "tender"
   - "firma-gf"
   - "fedorenko"
+coverImage: "wp-content/uploads/2014/07/11.jpg"
 ---
 
 \[caption id="attachment\_27142" align="alignleft" width="300"\][![kupava-3](https://mpz.brovary.org/wp-content/uploads/2014/07/kupava-31.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/07/kupava-31.jpg) Ігор Сапожко та сім'я Федоренків на відкритті "Купави" в січні\[/caption\]

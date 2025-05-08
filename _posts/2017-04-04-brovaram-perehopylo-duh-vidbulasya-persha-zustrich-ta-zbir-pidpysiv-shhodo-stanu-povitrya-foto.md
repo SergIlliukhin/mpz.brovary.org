@@ -21,6 +21,7 @@ tags:
   - "prokopenko"
   - "ses"
   - "feliks-enerdzhi-grup"
+coverImage: "wp-content/uploads/2017/04/IMG_0111.jpg"
 ---
 
 **3 квітня, під зливою й із вимкненим світлом, мешканці житлового комплексу "Купава" таки розпочали [збір підписів](https://mpz.brovary.org/anons-u-brovarah-pochaly-zbyraty-pidpysy-shhodo-perevirky-stanu-povitrya/) для перевірки стану повітря у Броварах. Ця зустріч стала першою в рамках ініціативи [громадської організації "ЕКО Бровари"](https://mpz.brovary.org/go-eko-brovary-pora-pochynaty-vyrishuvaty-ekologichni-problemy-mista-foto/).**

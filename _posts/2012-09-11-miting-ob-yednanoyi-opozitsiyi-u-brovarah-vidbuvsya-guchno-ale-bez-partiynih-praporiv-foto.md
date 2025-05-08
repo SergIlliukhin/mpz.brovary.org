@@ -14,6 +14,7 @@ tags:
   - "obyednana-opozitsiya"
   - "sapozhko"
   - "sdobnyakova"
+coverImage: "wp-content/uploads/2012/09/IMAG1267.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/09/IMAG1267.jpg "Вимоги мітингувальників")](https://mpz.brovary.org/wp-content/uploads/2012/09/IMAG1267.jpg)Сонячним ранком **10 вересня** о 8 годині ранку біля супермаркету "Перекресток" зібралося не менше сотні людей з прапорами України.

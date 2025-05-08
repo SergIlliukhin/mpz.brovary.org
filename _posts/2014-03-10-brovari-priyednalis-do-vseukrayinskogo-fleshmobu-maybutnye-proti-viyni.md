@@ -10,6 +10,7 @@ tags:
   - "diti-proti-viyni"
   - "novini"
   - "fleshmob"
+coverImage: "wp-content/uploads/2014/03/diti-proti-viyni13.jpg"
 ---
 
 **[![діти проти війни13](https://mpz.brovary.org/wp-content/uploads/2014/03/diti-proti-viyni13.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/03/diti-proti-viyni13.jpg)8 березня на Майдані Свободи в Броварах відбувся дитячий флешмоб "Майбутнє проти війни". Маленькі броварчани в національній символіці продемонстрували, що хочуть жити під мирним і чистим небом. В цей день такі акції одночасно відбулися в багатьох містах України. Організатором всеукраїнської акції став Жіночий легіон України.**

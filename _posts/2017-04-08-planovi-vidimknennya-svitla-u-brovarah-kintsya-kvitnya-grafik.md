@@ -19,6 +19,7 @@ tags:
   - "svitlo"
   - "transformator"
   - "chyshhennya"
+coverImage: "wp-content/uploads/2017/04/svitlo-elektryka-lampa-vidklyuchennya-vidimknennya.jpg"
 ---
 
 **Протягом цього місяця на деякі житлові райони Броварів та міські підприємства чекають відключення електроенергії. Працівники проводитимуть планові ремонтні роботи та чищення трас. Про це [йдеться](http://www.koe.vsei.ua/koe/index.php?page=76&ok=1) на офіційному сайті ПАТ «Київобленерго».**

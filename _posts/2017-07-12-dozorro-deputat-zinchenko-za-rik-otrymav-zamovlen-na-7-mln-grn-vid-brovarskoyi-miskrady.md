@@ -17,6 +17,7 @@ tags:
   - "palyvo"
   - "tenderi"
   - "uzhkg"
+coverImage: "wp-content/uploads/2017/03/Mykola-Zinchenko.jpg"
 ---
 
 **Підприємства родини Миколи Зінченка є постійними постачальниками для виконавчого комітету Броварської міської ради. Лише за останній рік депутат отримав замовлень більше, ніж на 7 млн. грн. від різних установ органу місцевого самоврядування. Про це йдеться у розслідуванні ["Трипільский край"](https://www.facebook.com/trypilskiikrai), опублікованому на** **[Dozorro](https://dozorro.org/blog/deputatskij-mandat-na-peremogu-v-zakupivlyah-brovariv).**

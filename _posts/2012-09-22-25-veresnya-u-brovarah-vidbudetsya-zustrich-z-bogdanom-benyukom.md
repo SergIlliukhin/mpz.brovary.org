@@ -15,6 +15,7 @@ tags:
   - "vo-svoboda"
   - "zustrich-z-vibortsyami"
   - "okrug-97"
+coverImage: "wp-content/uploads/2012/09/art_288.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/09/art_288.jpg "Богдан Бенюк")](https://mpz.brovary.org/wp-content/uploads/2012/09/art_288.jpg)Українко! Українцю!

@@ -16,6 +16,7 @@ tags:
   - "novini"
   - "pokaznyky"
   - "servis"
+coverImage: "wp-content/uploads/2016/01/Gazovyj-membrannyj-lichylnyk-Samgaz-vstanovlenyj-po-bezkoshtovnij-programi.jpg"
 ---
 
 **Створені нові сервіси, завдяки яким показники за газ та електроенергію можна передавати дистанційно. Користувачі послуг отримали змогу повідомляти дані з побутових лічильників через інтернет або телефоном. Про це [йдеться](http://docs.brovary.org/p33353/25.01.2016) на офіційному сайті Броварської міської ради.**

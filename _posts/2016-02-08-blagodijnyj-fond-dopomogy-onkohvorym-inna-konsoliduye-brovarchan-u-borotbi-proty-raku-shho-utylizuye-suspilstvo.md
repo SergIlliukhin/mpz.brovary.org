@@ -14,6 +14,7 @@ tags:
   - "narkotychni-preparaty"
   - "novini"
   - "onkohvori"
+coverImage: "wp-content/uploads/2016/02/1-3.jpg"
 ---
 
 **4 лютого в Броварах, у Міжнародний день боротьби з раком,** [**активісти**](https://mpz.brovary.org/brovarskyj-blagodijnyj-fond-inna-dopomagaye-onkohvorym-borotys-zi-smertelnoyu-nedugoyu) **[](https://mpz.brovary.org/brovarskyj-blagodijnyj-fond-inna-dopomagaye-onkohvorym-borotys-zi-smertelnoyu-nedugoyu)Благодійного фонду допомоги онкохворим** [**«Інна**](http://fond-inna.org/o-nas.html)**[»](http://fond-inna.org/o-nas.html),** **представники влади міста, благодійники та підопічні Фонду заклали фундамент для спільної боротьби зі смертельним недугом.**

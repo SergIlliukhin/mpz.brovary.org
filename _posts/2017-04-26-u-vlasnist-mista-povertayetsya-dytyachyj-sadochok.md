@@ -14,6 +14,7 @@ tags:
   - "novini"
   - "reabilitatsijna-baza"
   - "taras-kostanchuk"
+coverImage: "wp-content/uploads/2015/02/DSC_1655.jpg"
 ---
 
 **[Дитсадочок](https://mpz.brovary.org/vid-partiyi-regioniv-do-batalyonu-donbas-hto-sogodni-vselivsya-v-kolishniy-ditsadok-na-kiyivskiy/), що колись був офісом Партії Регіонів, а згодом - реабілітаційною базою для ветеранів АТО, повертається у комунальну власність та перепрофілюється знову під ДНЗ. Про це [повідомляється](https://spravedlyvist-ato.org.ua/reabilitatsijna-baza-dlya-veteraniv-ato-peretvorytsya-v-dytyachyj-sadok/#more-885) у заяві ГО «ВПО учасників АТО «Справедливість», що зайняли це приміщення у 2014 році.**

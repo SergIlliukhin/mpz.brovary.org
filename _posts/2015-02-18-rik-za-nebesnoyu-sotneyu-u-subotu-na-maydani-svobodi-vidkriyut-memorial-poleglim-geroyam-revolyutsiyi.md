@@ -20,6 +20,7 @@ tags:
   - "revolyutsiya"
   - "revolyutsiya-gidnosti"
   - "rokovini"
+coverImage: "wp-content/uploads/2015/02/vshanuv_kvity_maydan_25febr_gm1ea2p1qwm01-baseimage.jpg"
 ---
 
 **[![Ukraine's national flag flies at a make-shift memorial for those killed in recent violence in Kiev](https://mpz.brovary.org/wp-content/uploads/2015/02/vshanuv_kvity_maydan_25febr_gm1ea2p1qwm01-baseimage.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/02/vshanuv_kvity_maydan_25febr_gm1ea2p1qwm01-baseimage.jpg)У суботу, 21 лютого о 13:00 на броварському Майдані Свободи розпочнеться вшанування героїв Небесної Сотні, загиблих рік тому  в сутичках зі спецназом і "тітушками" в урядовому кварталі Києва та на вул. Інститутській. Головної подією заходу стане відкриття меморіалу на честь Небесної Сотні, розробленого та виготовленого броварськими учасниками Майдану та революційних подій у Києві та Броварах.**

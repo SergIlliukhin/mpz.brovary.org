@@ -13,6 +13,7 @@ tags:
   - "polske-kulturno-osvitnye-tovaristvo"
   - "polskiy-institut"
   - "prometey"
+coverImage: "wp-content/uploads/2013/11/DSC_0268.jpg"
 ---
 
 **[![Польське кіно 9](https://mpz.brovary.org/wp-content/uploads/2013/11/DSC_0268.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/11/DSC_0268.jpg)На відкритті Днів польського кіно у Броварах розкрилась важлива інтрига: з'ясувалось, хто ж є організатором цієї культурної події, адже у [повідомленнях про захід](https://mpz.brovary.org/8-10-listopada-u-prometeyi-proydut-dni-polskogo-kino-u-brovarah/) згадувались лише ті установи, за підтримки яких він став можливий. Скромним ініціатором днів польського кіноматографу виявилось Польське культурно-освітнє товариство «Родина», яке [діє в нашому місті уже понад 10 років](https://mpz.brovary.org/brovarski-polyaki-shukayut-primishhennya-dlya-svogo-kulturno-osvitnogo-tovaristva/).**

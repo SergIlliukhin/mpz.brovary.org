@@ -13,6 +13,7 @@ tags:
   - "gazeta"
   - "pidrobka"
   - "falshivka"
+coverImage: "wp-content/uploads/2012/05/ignor-milicii.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/05/ignor-milicii.jpg "ignor milicii")](https://mpz.brovary.org/wp-content/uploads/2012/05/ignor-milicii.jpg)Повідомляючи про злочин чи правопорушення, людина розраховує, що правоохоронні органи розслідуватимуть інцидент та справді шукатимуть зловмисників. Та у броварської міліції, схоже, інший підхід: замість встановлення винних осіб, вони вирішили перевірити заявника. Принаймні саме так вони вчинили стосовно факту самовільного випуску та розповсюдження у Броварах підробленого видання "Маєш право знати" невідомими особами 19 квітня 2012 року, про що міліцію [було повідомлено 23 квітня](https://mpz.brovary.org/zayava-do-militsiyi-maye-ubezpechiti-redaktsiyu-vid-vidpovidalnosti-za-chiyus-hvoru-uyavu-ta-fantaziyi/).

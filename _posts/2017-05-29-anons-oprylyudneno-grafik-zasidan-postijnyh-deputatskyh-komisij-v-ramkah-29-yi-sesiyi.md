@@ -13,6 +13,7 @@ tags:
   - "brovarska-miska-rada"
   - "grafik-zasidan-komisij"
   - "novini"
+coverImage: "wp-content/uploads/2017/05/1762orig-1.jpg"
 ---
 
 **Броварська міська рада [оприлюднила](http://brovary-rada.gov.ua/news/15221.html) графік проведення засідань постійних депутатських комісій, що триватимуть з 7 по 13 червня. Саме засідання 30-ї чергової сесії Броварської міськради VII скликання [відбудеться](https://mpz.brovary.org/anons-22-chervnya-u-brovarah-vidbudetsya-29-ta-chergova-sesiya-miskrady/) 22 червня. На розгляд депутатів винесено 36 питань і розділ «Різне».**

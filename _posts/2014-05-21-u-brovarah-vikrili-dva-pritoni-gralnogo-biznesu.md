@@ -8,6 +8,7 @@ tags:
   - "brovary"
   - "gralniy-biznes"
   - "novini"
+coverImage: "wp-content/uploads/2013/07/Igrovi-avtomati.jpg"
 ---
 
 **[![Ігрові автомати2](https://mpz.brovary.org/wp-content/uploads/2013/07/Igrovi-avtomati2.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/07/Igrovi-avtomati2.jpg)У Броварах правоохоронці Київщини викрили два підпільні гральні заклади. Із незаконних азартних притонів вилучили 84 гральних автомати та готівку на суму понад 10 тисяч гривень. Про це повідомляє [офіційний сайт ГУ МВС України у Київській області.](http://mvs.gov.ua/mvs/control/kyivska/uk/publish/article/108669)**

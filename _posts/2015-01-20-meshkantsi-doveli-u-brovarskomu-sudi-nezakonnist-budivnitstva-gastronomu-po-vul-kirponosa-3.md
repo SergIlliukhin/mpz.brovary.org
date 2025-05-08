@@ -17,6 +17,7 @@ tags:
   - "serdinskiy"
   - "sud"
   - "suddya-serdinskiy"
+coverImage: "wp-content/uploads/2015/01/kirponosa-4.jpg"
 ---
 
 [![кирпоноса 1](https://mpz.brovary.org/wp-content/uploads/2015/01/kirponosa-1.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/01/kirponosa-1.jpg)

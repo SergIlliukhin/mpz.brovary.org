@@ -13,6 +13,7 @@ tags:
   - "novini"
   - "rozmova"
   - "frilans"
+coverImage: "wp-content/uploads/2016/04/Frilanser.jpg"
 ---
 
 **7 квітня відбудеться відверта розмова про фріланс, фрілансерів, ІТ-індустрію в Україні та можливості, які відкривають сучасні технології. Цього четверга відомий блогер і фрілансер [Пилип Духлій](https://mpz.brovary.org/brovarskyj-zabudovnyk-ta-vidomyj-frilanser-obitsyayut-vidkryty-sotsialni-it-kursy/) поділиться своїми знаннями в цих галузях. Такий захід днями** [**анонсували**](https://www.facebook.com/events/647245995431350/) **на Фейсбуку.**

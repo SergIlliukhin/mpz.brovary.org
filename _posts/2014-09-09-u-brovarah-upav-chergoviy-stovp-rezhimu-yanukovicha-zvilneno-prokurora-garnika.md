@@ -10,6 +10,7 @@ tags:
   - "garnyk"
   - "zvilnennya"
   - "prokuror"
+coverImage: "wp-content/uploads/2014/07/Prokuratura-narada-4.jpg"
 ---
 
 **_Спеціальна заява Броварського Люстраційного комітету_**

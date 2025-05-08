@@ -15,6 +15,7 @@ tags:
   - "novini"
   - "pivdenzahidshlyahbud"
   - "trolejbus"
+coverImage: "wp-content/uploads/2013/09/015788936_30300.jpg"
 ---
 
 **[![відмивання коштів](https://mpz.brovary.org/wp-content/uploads/2013/09/015788936_30300.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/09/015788936_30300.jpg)Відділ капітального будівництва Броварської міської ради відмовився надати інформацію про те, яким чином були витрачені 131,6 млн грн, **[виділені](https://mpz.brovary.org/komentari-troleybusnu-liniyu-brovari-kiyiv-buduvatime-kompaniya-pivdenzahidshlyahbud/) у минулому році на роботи по будівництву тролейбусної лінії Бровари-Київ. Своє рішення чиновники мотивують тим, що фірма-підрядник заперечує проти оприлюднення кошторисів.****

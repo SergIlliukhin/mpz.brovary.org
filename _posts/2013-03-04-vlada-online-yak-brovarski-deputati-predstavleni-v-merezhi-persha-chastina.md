@@ -17,6 +17,7 @@ tags:
   - "plaksya"
   - "simutin"
   - "sotsmerezhi"
+coverImage: "wp-content/uploads/2013/03/1206_Facebook_glass.jpg"
 ---
 
 [![Facebook Privacy](https://mpz.brovary.org/wp-content/uploads/2013/03/1206_Facebook_glass.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/1206_Facebook_glass.jpg)**Йти в ногу з часом та бути ближчим до народу – природні прагнення будь-якого депутата. Звісно, якщо цей депутат – суспільно притомний та бажає бути корисним тим людям, котрі обрали його у владу.**

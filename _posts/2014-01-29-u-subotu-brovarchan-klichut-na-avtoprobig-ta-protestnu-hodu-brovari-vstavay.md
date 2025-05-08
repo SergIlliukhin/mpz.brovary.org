@@ -14,6 +14,7 @@ tags:
   - "novini"
   - "piket"
   - "hoda"
+coverImage: "wp-content/uploads/2014/01/Brovari-vstavay-avtoproyizd-.jpg"
 ---
 
 **[![Бровари вставай автопроїзд+](https://mpz.brovary.org/wp-content/uploads/2014/01/Brovari-vstavay-avtoproyizd-.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/01/Brovari-vstavay-avtoproyizd-.jpg)Цієї суботи, 1 лютого 2014 року, у Броварах відбудеться автопробіг центральними вулицями міста та масова протестна хода "Бровари, вставай!" Про це сьогодні повідомили на мітингу, який традиційно відбувся опівдні на Майдані Свободи.**

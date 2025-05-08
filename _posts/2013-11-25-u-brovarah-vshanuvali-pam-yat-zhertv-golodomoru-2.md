@@ -19,6 +19,7 @@ tags:
   - "simutin"
   - "udar"
   - "upts-kp"
+coverImage: "wp-content/uploads/2013/11/DSC_1340.jpg"
 ---
 
 **[![DSC_1382](https://mpz.brovary.org/wp-content/uploads/2013/11/DSC_1382.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/11/DSC_1382.jpg)Минулої суботи, у День пам'яті жертв голодоморів, у Броварах відбулась [акція-реквієм](https://mpz.brovary.org/vshanuymo-razom-pam-yat-nevinnih-zhertv-naystrashnishogo-v-istoriyi-lyudstva-golodomoru/) біля пам'ятника на території церкви Покрови Пресвятої Богородиці. Цей захід було організовано силами громадськості. На жаль, броварські чиновники цю важливу дату в історії нашої держави [вирішили відзначити завчасно](https://mpz.brovary.org/tsogo-tizhnya-u-brovarah-vidbudutsya-nizka-zahodiv-iz-vshanuvannya-zhertv-golodomoru/), відтак 23 листопада, коли вся країна єдналась у згадуванні сумних подій, небайдужим мешканцям не залишалось нічого іншого, окрім як провести свій захід.**

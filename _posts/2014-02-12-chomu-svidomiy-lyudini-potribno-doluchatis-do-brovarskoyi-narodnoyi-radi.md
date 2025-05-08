@@ -12,6 +12,7 @@ tags:
   - "brovarska-narodna-rada"
   - "vibir-redaktsiyi"
   - "krugliy-stil"
+coverImage: "wp-content/uploads/2014/02/inclusive-society2.jpg"
 ---
 
 **[![inclusive-society-300x293](https://mpz.brovary.org/wp-content/uploads/2014/02/inclusive-society.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/02/inclusive-society-300x293.jpg)Сьогодні о 19:00 у Броварах відбудеться один дуже важливий, на мою думку, захід з дещо офіціозною назвою - круглий [стіл по формуванню Броварської Народної Ради](https://mpz.brovary.org/sklad-brovarskoyi-narodnoyi-radi-pochnut-formuvati-za-kruglim-stolom-12-lyutogo/). Попри те, що звучить це не дуже надихаюче, на нього варто прийти. Принаймні щоб дізнатись, що це власне за Народна Рада, хто хоче увійти до її складу та найголовніше - чим вона планує займатись. Однак є ще ряд причин, через які варто взяти участь у формуванні Броварської Народної Ради, особливо якщо ви вважаєте себе активною, але аполітичною особистістю.**

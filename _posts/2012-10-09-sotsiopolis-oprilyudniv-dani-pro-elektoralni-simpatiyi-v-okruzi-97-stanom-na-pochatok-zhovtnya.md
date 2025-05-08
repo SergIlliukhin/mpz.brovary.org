@@ -21,6 +21,7 @@ tags:
   - "sotsiopolis"
   - "udar"
   - "fedorenko"
+coverImage: "wp-content/uploads/2012/10/Sotsiopolis.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/10/Sotsiopolis2.jpg "Социополис2")](https://mpz.brovary.org/wp-content/uploads/2012/10/Sotsiopolis2.jpg)**Центр соціальних технологій "Соціополіс" провів соціологічне дослідження електоральної ситуації в одномандатному виборчому окрузі № 97 (центр – м. Бровари) станом на кінець вересня – початок жовтня 2012 року.**

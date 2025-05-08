@@ -12,6 +12,7 @@ tags:
   - "styagov"
   - "sud"
   - "titushko"
+coverImage: "wp-content/uploads/2013/08/styagov_main.jpg"
 ---
 
 \[caption id="attachment\_20370" align="alignleft" width="172"\][![Сергій Стягов](https://mpz.brovary.org/wp-content/uploads/2013/08/bydlo_nazi.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/08/bydlo_nazi.jpg) Сергій Стягов\[/caption\]

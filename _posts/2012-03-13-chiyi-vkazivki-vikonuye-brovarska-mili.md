@@ -16,6 +16,7 @@ tags:
   - "rizanenko"
   - "semikop"
   - "shlyahovskyj"
+coverImage: "wp-content/uploads/2012/03/7e6394cefcf5452db1e04aeaf00253f7.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/03/7e6394cefcf5452db1e04aeaf00253f71.jpg "7e6394cefcf5452db1e04aeaf00253f7")](https://mpz.brovary.org/wp-content/uploads/2012/03/7e6394cefcf5452db1e04aeaf00253f71.jpg)Спілкування з міліцією приємними не буває майже ніколи – про це знає кожен українець ще з дитинства. І не суть важливо, в якості кого вас викликають у відділок: як заявника, свідка чи підозрюваного. Особливої радості від перебування в казенних стінах чекати годі.

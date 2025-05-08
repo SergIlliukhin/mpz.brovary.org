@@ -12,6 +12,7 @@ tags:
   - "novini"
   - "styagov"
   - "titushko"
+coverImage: "wp-content/uploads/2013/06/Napadnik-na-Kachora-3.jpg"
 ---
 
 **[![20130525_191951](https://mpz.brovary.org/wp-content/uploads/2013/06/20130525_191951.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/06/20130525_191951.jpg)Cергій Стягов** – [бойовик Федоренка](https://mpz.brovary.org/stvoryuyemo-reyestr-brovarskih-sportsmeniv-boyovikiv/), котрий завдав черепно-мозкової травми журналісту «Маєш право знати» **Андрію Качору** під час [подій в парку «Перемога» 25 травня](https://mpz.brovary.org/krivavi-sutichki-vidbulis-u-brovarah-mizh-meshkantsyami-ta-zabudovnikami-tsentralnogo-parku/) - раніше вже двічі притягався до кримінальної відповідальності за розбій та крадіжку. Про це нашому виданню стало відомо із власних джерел.

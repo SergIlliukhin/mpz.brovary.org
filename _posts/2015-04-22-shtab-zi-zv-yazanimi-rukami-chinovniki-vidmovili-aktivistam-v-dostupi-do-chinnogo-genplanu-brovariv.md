@@ -19,6 +19,7 @@ tags:
   - "siverska"
   - "upravlinnya-arhitekturi"
   - "shtab-z-rozrobki-zmin-do-genplanu"
+coverImage: "wp-content/uploads/2015/04/shtab-genplann-17.jpg"
 ---
 
 **[![штаб генпланн 13](https://mpz.brovary.org/wp-content/uploads/2015/04/shtab-genplann-13.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/04/shtab-genplann-13.jpg)Штаб з питань розробки та громадського обговорення змін до Генерального плану Броварів минулого тижня, 16 квітня, зібрався вдруге. Одним з перших етапів роботи, як домовлялись [на першому зібранні](https://mpz.brovary.org/shtab-po-rozrobtsi-zmin-do-genplanu-brovariv-planuye-pochati-z-viroblennya-strategiyi-rozvitku-mista/), мало стати вивчення необхідної містобудівної документації, зокрема, члени штабу просили чиновників надати їм для ознайомлення матеріали чинного нині генплану в редакції 1999 року. Втім, на повторному засіданні головний архітектор міста Лілія Рибакова відмовила штабістам, вкотре посилаючись на гриф «Для службового користування».**

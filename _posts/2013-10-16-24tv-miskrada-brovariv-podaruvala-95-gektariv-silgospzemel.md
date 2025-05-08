@@ -14,6 +14,7 @@ tags:
   - "novini"
   - "sapozhko"
   - "fedorenko"
+coverImage: "wp-content/uploads/2013/10/sapojko24_2.png"
 ---
 
 [![24tv](https://mpz.brovary.org/wp-content/uploads/2013/10/24tv.png)](https://mpz.brovary.org/wp-content/uploads/2013/10/24tv.png)**Міськрада Броварів подарувала 95 гектарів сільгоспземель - [повідомляє](http://24tv.ua/home/showSingleNews.do?krupnim_planom_miskrada_brovariv_podaruvala_95_gektariv_silgospzemel&objectId=375890) "Телеканал новин 24". Сюжет про наше місто нещодавно вийшов у програмі "Крупним планом".**

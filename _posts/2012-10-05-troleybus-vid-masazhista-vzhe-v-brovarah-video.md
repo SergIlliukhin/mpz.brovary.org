@@ -15,6 +15,7 @@ tags:
   - "okrug-97"
   - "trolejbus"
   - "fedorenko"
+coverImage: "wp-content/uploads/2012/10/Troleybus.jpg"
 ---
 
 **Обіцяний Сергієм Федоренком тролейбус “Бровари-Київ” уже в Броварах!**

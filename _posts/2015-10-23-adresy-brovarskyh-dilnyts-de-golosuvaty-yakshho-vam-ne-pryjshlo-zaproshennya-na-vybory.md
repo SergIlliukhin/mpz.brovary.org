@@ -13,6 +13,7 @@ tags:
   - "vyborchi-dilnytsi"
   - "mistsevi-vybory-2015"
   - "novini"
+coverImage: "wp-content/uploads/2015/10/mapa-dilnyts.jpg"
 ---
 
 **Куди йти голосувати, якщо вам не прийшло запрошення на вибори? Публікуємо адреси виборчих дільниць в м.Бровари на місцевих виборах, які відбудуться 25 жовтня 2015 року ([за даними сайту Державного реєстру виборців](https://www.drv.gov.ua/portal/!cm_core.cm_index?option=ext_dvk&pid100=32&pf3001=287&prejim=2)).**

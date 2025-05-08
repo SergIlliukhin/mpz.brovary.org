@@ -12,6 +12,7 @@ tags:
   - "marsh-geroyiv"
   - "novini"
   - "onum"
+coverImage: "wp-content/uploads/2014/10/98KPpSME6PE1.jpg"
 ---
 
 **[![98KPpSME6PE](https://mpz.brovary.org/wp-content/uploads/2014/10/98KPpSME6PE.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/10/98KPpSME6PE.jpg)У понеділок, 13 жовтня о 18:30 з Майдані Свободи у Броварах стартує [Благодійний Марш Героїв](https://vk.com/dayheroes), який влаштовує Об’єднання незалежної української молоді (ОНУМ).**

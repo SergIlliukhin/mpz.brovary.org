@@ -15,6 +15,7 @@ tags:
   - "novini"
   - "sesiya"
   - "chergova-sesiya"
+coverImage: "wp-content/uploads/2016/10/Brovarska-miska-rada.jpg"
 ---
 
 **За місяць відбудеться наступна чергова сесія Броварської міської ради, йдеться в [розпорядженні](http://brovary-rada.gov.ua/documents/24532.html), опублікованому на сайті міськради. Засідання пройде 3 листопада о 10:00 в малій залі виконкому.**

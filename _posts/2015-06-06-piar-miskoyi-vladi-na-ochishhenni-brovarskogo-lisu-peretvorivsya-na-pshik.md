@@ -12,6 +12,7 @@ tags:
   - "lis"
   - "siverska"
   - "sapozhko"
+coverImage: "wp-content/uploads/2015/04/slonik.jpg"
 ---
 
 [![Сіверська-ліс (3)](https://mpz.brovary.org/wp-content/uploads/2015/05/Siverska-lis-3.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/05/Siverska-lis-3.jpg)**Нещодавно в одному з броварських видань мені довелося побачити замітку, в якій піднімалася проблема засмічення лісової смуги, що територіально межує з нашим містом. Йдеться про вулицю Кокінакі.**

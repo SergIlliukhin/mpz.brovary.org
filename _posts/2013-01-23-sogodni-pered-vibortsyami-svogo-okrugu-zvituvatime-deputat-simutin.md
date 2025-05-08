@@ -11,6 +11,7 @@ tags:
   - "deputati"
   - "zvituvannya"
   - "simutin"
+coverImage: "wp-content/uploads/2013/01/Simutin2.jpg"
 ---
 
 [![Сімутін](https://mpz.brovary.org/wp-content/uploads/2013/01/Simutin.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/01/Simutin.jpg)Сьогодні, 23 січня, о 19:30 депутат Броварської міської ради Роман Сімутін, обраний по мажоритарному виборчому округу № 10, звітуватиме перед виборцями. Зустріч з мешканцями проходитиме в актовій залі загальноосвітньої школи № 7 (вул. Гагаріна, 23а).

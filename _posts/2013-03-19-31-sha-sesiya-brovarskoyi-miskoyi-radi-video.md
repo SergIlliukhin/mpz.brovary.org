@@ -11,6 +11,7 @@ tags:
   - "videozapis-sesiyi"
   - "videozyomka"
   - "sesiya"
+coverImage: "wp-content/uploads/2012/06/21-sesiya_6.jpg"
 ---
 
 **Подія:** Пленарне засідання 31-ої позачергової сесії Броварської міської ради **Дата:** 19.03.2013 **Камера:** Роман Сімутін

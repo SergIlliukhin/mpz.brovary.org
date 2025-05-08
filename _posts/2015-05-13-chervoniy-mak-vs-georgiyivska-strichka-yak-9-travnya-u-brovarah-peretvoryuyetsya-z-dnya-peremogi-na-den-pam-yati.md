@@ -16,6 +16,7 @@ tags:
   - "novini"
   - "peremoga-nad-natsizmom"
   - "chervoniy-mak"
+coverImage: "wp-content/uploads/2015/05/den-pamyati-peremogi-067.jpg"
 ---
 
 **[![maindpp](https://mpz.brovary.org/wp-content/uploads/2015/05/maindpp.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/05/maindpp.jpg)Лише два роки минуло відтоді, коли на початку травня Бровари [вздовж і впоперек перев’язували георгіївськими стрічками](https://mpz.brovary.org/navishho-den-peremogi-peretvorili-na-parad-partiyi-simonenka-bagato-foto/), а центральним вулицями урочисто носили комуністичні стяги – символіку, визнану сьогодні злочинною.**

@@ -14,6 +14,7 @@ tags:
   - "rozporyadzhennya-miskogo-golovi"
   - "sesiya"
   - "sklikannya-sesiyi"
+coverImage: "wp-content/uploads/2012/08/gerb-Brovari.jpg"
 ---
 
 **[![герб Бровари зменшена](https://mpz.brovary.org/wp-content/uploads/2012/10/gerb-Brovari-zmenshena1.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/10/gerb-Brovari-zmenshena1.jpg)27 лютого 2014 року о 14:00 у приміщенні малої зали броварського міськвиконкому за адресою: вул. Гагаріна, 15 відбудеться сорок третя чергова сесія Броварської міської ради VІ скликання. Про це сказано у розпорядженні міського голови [№ 10 від 29.01.2014](http://docs.pravo-znaty.org.ua/p12063/29.01.2014/10), оприлюдненому на офіційному веб-сайті Броварської міської ради 3 лютого.**

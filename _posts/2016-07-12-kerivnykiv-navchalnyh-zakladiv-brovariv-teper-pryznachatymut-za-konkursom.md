@@ -16,6 +16,7 @@ tags:
   - "novini"
   - "rishennya-vikonkomu"
   - "upravlinnya-osviti"
+coverImage: "wp-content/uploads/2016/07/bed2.jpg"
 ---
 
 **Відтепер керівників загальноосвітніх, дошкільних та позашкільних закладів у Броварах обиратимуть на конкурсній основі - таке [рішення](http://brovary.kiev.ua/r%D1%96shennya-vikonavchogo-kom%D1%96tetu-v%D1%96d-05072016-%E2%84%96385-pro-zatverdzhennya-poryadku-priznachennya-na-posad) прийняв броварський міськвиконком минулого тижня. Прийняття документу ініціювали активісти з Громадської ради при управлінні освіти.**

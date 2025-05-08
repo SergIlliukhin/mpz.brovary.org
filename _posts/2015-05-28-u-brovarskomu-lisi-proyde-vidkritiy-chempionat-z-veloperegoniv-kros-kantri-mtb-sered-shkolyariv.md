@@ -15,6 +15,7 @@ tags:
   - "kros-kantri"
   - "mtb"
   - "novini"
+coverImage: "wp-content/uploads/2015/05/velotrenuvannya8.jpg"
 ---
 
 **[![велотренування8](https://mpz.brovary.org/wp-content/uploads/2015/05/velotrenuvannya8.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/05/velotrenuvannya8.jpg)Цієї суботи, 30 травня, в лісовому масиві Броварського лісництва відбудеться [Відкритий чемпіонат м. Броварів серед школярів з велоперегонів — крос-кантрі (МТБ)](https://www.facebook.com/events/296229970547342/). Старт змагань - об 11:00.**

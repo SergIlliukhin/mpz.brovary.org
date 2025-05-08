@@ -15,6 +15,7 @@ tags:
   - "tvi"
   - "tisk-na-zhurnalistiv"
   - "fedorenko"
+coverImage: "wp-content/uploads/2012/08/Nastup.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/08/Nastup.jpg "Наступ")](https://mpz.brovary.org/wp-content/uploads/2012/08/Nastup.jpg)У вівторок, 28 серпня, о 12:00 в місті Бровари біля будівлі броварського міськрайонного суду (вул. Возз’єднання, 1) відбудеться прес-конференція місцевої громадянської кампанії «**Наступ**», координатора якої можуть ув’язнити за сфабрикованою справою. Про це [повідомляється](http://www.nastup.info/?p=188) на веб-сайті громадянської кампанії.

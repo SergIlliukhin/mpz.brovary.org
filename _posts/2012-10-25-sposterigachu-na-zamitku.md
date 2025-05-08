@@ -10,6 +10,7 @@ categories:
 tags: 
   - "videolektsiyi"
   - "vibori-2012"
+coverImage: "wp-content/uploads/2012/10/422435_471575729533524_1160245224_n.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/10/422435_471575729533524_1160245224_n.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/10/422435_471575729533524_1160245224_n.jpg)Вже цієї неділі, 28 жовтня 2012 року, відбудуться вибори до Верховної Ради України.

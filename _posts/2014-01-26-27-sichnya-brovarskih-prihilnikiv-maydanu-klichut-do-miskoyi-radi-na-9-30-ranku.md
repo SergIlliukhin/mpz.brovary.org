@@ -15,6 +15,7 @@ tags:
   - "miting"
   - "novini"
   - "piket"
+coverImage: "wp-content/uploads/2014/01/Brovari-vstavay.jpg"
 ---
 
 **[![Бровари вставай](https://mpz.brovary.org/wp-content/uploads/2014/01/Brovari-vstavay.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/01/Brovari-vstavay.jpg)Завтра, 27 січня 2014 року, біля стін Броварської міської ради (вул. Гагаріна, 15) відбудеться акція на підтримку вимог громади до депутатів. Про це було оголошено у суботу, 25 січня, на [мітингу на Майдані Свободи](https://mpz.brovary.org/brovarchani-tretiy-den-straykuyut-proti-vladi-ta-vdruge-proveli-hodu-brovari-vstavay/). Також листівки з відповідною інформацією поширюються нині у Броварах.**

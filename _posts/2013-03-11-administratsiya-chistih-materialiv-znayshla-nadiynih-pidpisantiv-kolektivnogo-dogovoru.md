@@ -21,6 +21,7 @@ tags:
   - "strayk"
   - "harik"
   - "chisti-materiali"
+coverImage: "wp-content/uploads/2013/03/Image00014.jpg"
 ---
 
 [![Image00014](https://mpz.brovary.org/wp-content/uploads/2013/03/Image00014.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/Image00014.jpg)У четвер, 7 березня, на території ТОВ «Чисті матеріали» відбулося засідання колективу підприємства. Метою проведення заходу, організованого адміністрацією, було призначення осіб, що підписуватимуть колективний договір. Нагадаємо, що на [минулому засіданні](https://mpz.brovary.org/kolektivniy-dogovir-na-chistih-materialah-zatverdila-menshist-trudovogo-kolektivu/) 1 березня нерозгляд цього питання був одним із небагатьох рішень, які задовольнили страйкарів.

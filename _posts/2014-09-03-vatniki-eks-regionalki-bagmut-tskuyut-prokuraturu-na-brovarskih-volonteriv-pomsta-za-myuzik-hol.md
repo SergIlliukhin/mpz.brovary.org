@@ -16,6 +16,7 @@ tags:
   - "myuzik-holl"
   - "negozinskiy"
   - "simutin"
+coverImage: "wp-content/uploads/2014/09/Fotor0902181124.jpg"
 ---
 
 **[![IMG_2768](https://mpz.brovary.org/wp-content/uploads/2014/09/IMG_2768.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/09/IMG_2768.jpg)В той час, як Координаційний центр допомоги броварським військовим впродовж кількох місяців [забезпечує наших солдат всім необхідним на передовій](https://mpz.brovary.org/brovari-slov-yansk-pershiy-marsh-kidok-dorogoyu-dopomogi/), укомплектовує новобранців, що їдуть воювати на Схід, в місті знайшлись особи, що підозрюють волонтерів в _«нецільовому використанні зібраних для допомоги солдатам коштів»_.** 

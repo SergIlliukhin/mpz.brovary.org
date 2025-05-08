@@ -14,6 +14,7 @@ tags:
   - "kupannya"
   - "novini"
   - "park-pryozernyj"
+coverImage: "wp-content/uploads/2017/01/Vodohreshha-3.jpg"
 ---
 
 **З самого ранку 19 січня на броварському озері Біле у парку «Приозерний» [проходили](https://mpz.brovary.org/novorichno-rizdvyani-zahody-tryvayut-u-brovarah-podiyi/) водохресні гуляння. Для [охочих зануритися](https://mpz.brovary.org/chy-mozhna-kupatysya-u-brovarskyh-ozerah-na-vodohreshhu-odnoznachnoyi-vidpovidi-nema/) в крижану йорданську воду підготували традиційну ополонку у формі хреста. Ще не дочекавшись приїзду священників, броварчани лишали одяг просто на льоду і стрибали  у крижану воду.**

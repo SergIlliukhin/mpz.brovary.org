@@ -11,6 +11,7 @@ tags:
   - "opalyuvalniy-sezon"
   - "rozporyadzhennya-miskogo-golovi"
   - "sapozhko"
+coverImage: "wp-content/uploads/2013/10/file1336095_9d1afe41.jpg"
 ---
 
 [![2356952](https://mpz.brovary.org/wp-content/uploads/2013/10/2356952.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/10/2356952.jpg)**З 13:00 7 жовтня в Броварах офіційно припиняється опалювальний сезон. Подача тепла більше не відбуватиметься на об’єкти житлового фонду, будівлі підприємств та організацій.**

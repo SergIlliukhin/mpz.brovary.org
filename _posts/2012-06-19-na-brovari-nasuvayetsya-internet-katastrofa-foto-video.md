@@ -16,6 +16,7 @@ tags:
   - "provayderi"
   - "sapozhko"
   - "triolan"
+coverImage: "wp-content/uploads/2012/06/title.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/06/title.jpg "title")](https://mpz.brovary.org/wp-content/uploads/2012/06/title.jpg)В найближчий місяць мерія обіцяє ліквідувати усі мережі кабельного інтернету в Броварах – вже цього тижня збираються зрізати магістральні дроти між будинками. Локальні провайдери в розпачі та впевнені: Сапожко «розчищає» Бровари від місцевого бізнесу для «донецьких».

@@ -12,6 +12,7 @@ tags:
   - "vivezennya-smittya"
   - "gromadske-telebachennya"
   - "komuntrans"
+coverImage: "wp-content/uploads/2015/09/smittya.jpg"
 ---
 
 

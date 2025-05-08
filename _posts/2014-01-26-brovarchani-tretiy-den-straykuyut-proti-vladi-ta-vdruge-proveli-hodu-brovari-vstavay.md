@@ -19,6 +19,7 @@ tags:
   - "protest"
   - "strayk"
   - "hoda"
+coverImage: "wp-content/uploads/2014/01/Tretiy-strayk-Maydan-15.jpg"
 ---
 
 **[![Третій страйк Майдан 15](https://mpz.brovary.org/wp-content/uploads/2014/01/Tretiy-strayk-Maydan-15.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/01/Tretiy-strayk-Maydan-15.jpg)З кожним днем на страйк броварчан проти насильства влади виходить усе більше людей. Якщо на [перший страйк 23 січня](https://mpz.brovary.org/brovarchani-viyshli-na-stihiyniy-poperedzhuvalniy-strayk/) зібралось близько сотні мешканців, то [24 січня їх було вже близько двох сотень](https://mpz.brovary.org/pid-tiskom-gromadi-mer-brovariv-pogodivsya-sklikati-pozachergovu-sesiyu-shhodo-podiy-v-ukrayini-foto-video/), а 25 січня прийшло майже триста громадян. Вчора мітингувальники обговорили текст звернення для затвердження депутатами Броварської міськради на позачерговій сесії у понеділок, а також пішли до голови райдержадміністрації  з вимогою піти у відставку.**

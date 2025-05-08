@@ -12,6 +12,7 @@ tags:
   - "petro-poroshenko"
   - "poroshenko"
   - "rezultati-viboriv"
+coverImage: "wp-content/uploads/2014/05/Poroshenko.jpg"
 ---
 
 **[![Порошенко](https://mpz.brovary.org/wp-content/uploads/2014/05/Poroshenko.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/05/Poroshenko.jpg)37 300 виборців Броварів проголосували за кандидата-самовисуванця Петра Порошенка, що становить 67,8 %. Такі дані [оприлюднив](https://www.facebook.com/photo.php?fbid=484591864974866&set=gm.833358950027406&type=1) народний депутат Павло Різаненко у фейсбук-групі "Бровари" з посиланням на результати паралельного підрахунку броварського штабу Порошенка.**

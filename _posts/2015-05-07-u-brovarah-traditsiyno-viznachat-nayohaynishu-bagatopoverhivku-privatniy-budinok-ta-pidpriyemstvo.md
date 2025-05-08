@@ -12,6 +12,7 @@ tags:
   - "konkurs"
   - "naykrashhiy-budinok"
   - "novini"
+coverImage: "wp-content/uploads/2015/05/IMAG1504.jpg"
 ---
 
 **[![IMAG1504](https://mpz.brovary.org/wp-content/uploads/2015/05/IMAG1504.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/05/IMAG1504.jpg)Броварська міська рада [знову](https://mpz.brovary.org/brovarchan-zaohochuyut-pratsyuvati-zamist-zhekiv-shlyahom-provedennya-konkursu-na-krashhiy-budinok/) оголосила конкурс на найкращий будинок та благоустрій території. Участь у "змаганні чистоти" можуть брати всі мешканці міста, в тому числі запрошуються ОСББ, ЖБК, будинкові, вуличні комітети, інші об’єднання громадян, керівники підприємств, організацій, установ, власники підприємств малого та середнього бізнесу. Про це йдеться в оголошенні на [офіційному сайті Броварської міської ради](http://www.brovary.kiev.ua/do-uvagi-meshkants%D1%96v-m%D1%96sta-brovari-takozh-budinkovikh-vulichnikh-kom%D1%96tet%D1%96v-osbb-zhbk-ta-%D1%96nshikh-ob%E2%80%99%D1%94).**

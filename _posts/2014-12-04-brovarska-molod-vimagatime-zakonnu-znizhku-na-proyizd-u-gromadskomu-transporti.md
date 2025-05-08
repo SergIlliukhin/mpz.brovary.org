@@ -17,6 +17,7 @@ tags:
   - "novini"
   - "pilgi"
   - "studenti"
+coverImage: "wp-content/uploads/2014/12/Molod-DA-protest.jpg"
 ---
 
 **[![Молодь ДА знижка](https://mpz.brovary.org/wp-content/uploads/2014/12/Molod-DA-znizhka.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/12/Molod-DA-znizhka.jpg)У п’ятницю, 5 грудня, о 15.00 біля будівлі Броварської міської ради активісти громадської організації «Молодь Демократичного Альянсу» розпочнуть перший етап кампанії «Знижки для студентів», щоб відстояти своє право на пільговий проїзд у міському транспорті. Про це [повідомляється на сайті](http://molod-da.org/announce/?id=301) молодіжної громадської організації.**

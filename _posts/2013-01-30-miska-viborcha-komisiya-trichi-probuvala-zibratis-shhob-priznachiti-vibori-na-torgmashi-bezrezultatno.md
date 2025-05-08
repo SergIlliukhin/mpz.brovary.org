@@ -17,6 +17,7 @@ tags:
   - "sapozhko"
   - "tvk"
   - "torgmash"
+coverImage: "wp-content/uploads/2013/01/Tablichka-viborchoyi-komisiyi-3.jpg"
 ---
 
 [![Табличка виборчої комісії 3](https://mpz.brovary.org/wp-content/uploads/2013/01/Tablichka-viborchoyi-komisiyi-3.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/01/Tablichka-viborchoyi-komisiyi-3.jpg)**У понеділок, 28 січня, Броварська міська виборча комісія втретє не змогла провести власне засідання з приводу призначення проміжних виборів до Броварської міської ради по мажоритарному виборчому округу № 20 (замість Павла Різаненка, який склав свої повноваження як депутат міськради у зв'язку з обранням до Верховної Ради України).**

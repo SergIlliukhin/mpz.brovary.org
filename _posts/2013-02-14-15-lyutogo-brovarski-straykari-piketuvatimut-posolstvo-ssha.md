@@ -11,6 +11,7 @@ tags:
   - "brovary"
   - "smirnov"
   - "strayk"
+coverImage: "wp-content/uploads/2013/02/Image00033.jpg"
 ---
 
 Броварські страйкарі пікетуватимуть Посольство США.

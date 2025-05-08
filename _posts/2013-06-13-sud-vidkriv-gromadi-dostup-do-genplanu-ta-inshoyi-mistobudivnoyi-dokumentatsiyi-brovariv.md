@@ -16,6 +16,7 @@ tags:
   - "obmezheniy-dostup"
   - "rizanenko"
   - "sud"
+coverImage: "wp-content/uploads/2012/07/Projects.jpg"
 ---
 
 **[![Проекти](https://mpz.brovary.org/wp-content/uploads/2012/07/Projects.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/07/Projects.jpg)Вищий адміністративний суд України скасував пункт розпорядження мера Броварів Ігоря Сапожка про обмеження доступу мешканців до містобудівної документації, включаючи генеральний та детальні плани міста. Таке рішення ВАСУ виніс у відповідь на касаційну скаргу народного депутата України Павла Різаненка.**

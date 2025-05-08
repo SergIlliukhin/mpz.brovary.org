@@ -14,6 +14,7 @@ tags:
   - "novini"
   - "post-dai"
   - "semipolki"
+coverImage: "wp-content/uploads/2015/03/militsiya-ekskursiya-05.jpg"
 ---
 
 **[![міліція екскурсія 11](https://mpz.brovary.org/wp-content/uploads/2015/03/militsiya-ekskursiya-11.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/03/militsiya-ekskursiya-11.jpg)Погіршення кримінальної ситуації серед броварських підлітків змушує батьків шукати нові підходи у вихованні своїх чад. Оригінальний спосіб перевиховання дітей ініціювала** **«Асоціація батьків м. Бровари», яка об'єднує актив батьківських комітетів різних закладів освіти в місті: школярів вирішили привести на екскурсію до відділку міліції.**

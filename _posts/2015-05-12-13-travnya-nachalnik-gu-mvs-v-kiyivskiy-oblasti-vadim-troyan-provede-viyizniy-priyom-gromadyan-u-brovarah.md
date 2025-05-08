@@ -11,6 +11,7 @@ tags:
   - "viyizniy-priyom-gromadyan"
   - "gu-mvs-ukrayini-u-kiyivskiy-oblasti"
   - "novini"
+coverImage: "wp-content/uploads/2015/05/384571089.png"
 ---
 
 [![384571089](https://mpz.brovary.org/wp-content/uploads/2015/05/384571089.png)](https://mpz.brovary.org/wp-content/uploads/2015/05/384571089.png)**13 травня в Броварах начальник ГУ МВС України в Київській області підполковник міліції Троян Вадим Анатолійович проведе особистий виїзний прийом громадян. Про це повідомляє зокрема [офіційний веб-сайт Броварської міської ради](http://www.brovary.kiev.ua/do-uvagi-brovarchan-vi%D1%97znii-priiom-gromadyan-nachalnikom-gu-mvs-ukra%D1%97ni-v-ki%D1%97vsk%D1%96i-oblast%D1%96-va-troyan).**

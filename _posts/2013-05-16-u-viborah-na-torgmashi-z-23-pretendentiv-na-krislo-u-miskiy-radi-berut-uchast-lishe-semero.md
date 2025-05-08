@@ -15,6 +15,7 @@ tags:
   - "tehnichni-kandidati"
   - "torgmash"
   - "tsvk"
+coverImage: "wp-content/uploads/2012/10/karikatura-vibori-urna.jpg"
 ---
 
 **[![карикатура вибори урна](https://mpz.brovary.org/wp-content/uploads/2012/10/karikatura-vibori-urna.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/10/karikatura-vibori-urna.jpg)Сьогодні Броварська виборча комісія нарешті [оприлюднила](http://www.brovary.kiev.ua/vibori-2013r) свої постанови, ухвалені протягом 7-15 травня. Проаналізувавши ці документи, нам вдалось встановити, що у виборчих перегонах на Торгмаші виявили бажання взяти участь 23 кандидати, проте 8 з них відмовили у реєстрації, а ще 8 через кілька днів після реєстрації зняли свої кандидатури. У підсумку, станом на сьогодні, у проміжних виборах у 20 окрузі беруть участь всього 7 кандидатів.**

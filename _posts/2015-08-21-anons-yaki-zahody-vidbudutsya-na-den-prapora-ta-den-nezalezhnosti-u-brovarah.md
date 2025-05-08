@@ -12,6 +12,7 @@ tags:
   - "den-prapora"
   - "novini"
   - "svyatkuvannya"
+coverImage: "wp-content/uploads/2015/08/Ukr-jitnitsa.jpg"
 ---
 
 **Перші святкування відбудуться вже завтра, 22 серпня. Однак головні події анонсують на День Державного Прапора України 23 серпня та на День Незалежності України 24 серпня. Погодинний графік заходів на своєму сайті [виклав](http://www.kulturabr.kiev.ua/afisha/viddil-kultury/afisha-do-dnya-derzhavnogo-prapora-ukrayiny-ta-dnya-nezalezhnosti-ukrayiny) відділ культури Броварської міської ради.**

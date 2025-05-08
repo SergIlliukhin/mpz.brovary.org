@@ -13,6 +13,7 @@ tags:
   - "gromadske-telebachennya"
   - "likuvannya"
   - "nodus"
+coverImage: "wp-content/uploads/2015/08/nodus.jpg"
 ---
 
 

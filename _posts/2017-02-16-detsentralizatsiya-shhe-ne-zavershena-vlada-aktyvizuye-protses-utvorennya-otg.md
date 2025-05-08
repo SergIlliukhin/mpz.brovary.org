@@ -16,6 +16,7 @@ tags:
   - "otg"
   - "robocha-grupa"
   - "rozporyadzhennya"
+coverImage: "wp-content/uploads/2017/02/detsentralizatsiya-obyednana-terytorialna-gromada.jpg"
 ---
 
 **Днями міський голова Броварів видав [розпорядження](http://brovary-rada.gov.ua/documents/26761.html) про створення робочої групи, яка займеться питанням популяризації об'єднання територіальних громад. До її складу ввійшли працівники міськвиконкому та депутати.**

@@ -14,6 +14,7 @@ tags:
   - "dudar"
   - "novini"
   - "otsinka-zemli"
+coverImage: "wp-content/uploads/2016/11/ZHK-SHokolad2C-Brovary2C-ul.-Kyevskaya2C-265-BZBK.jpg"
 ---
 
 **На минулому тижні тільки [відбувся](https://mpz.brovary.org/sud-tov-terminal-brovary-proty-brovarskoyi-miskrady-vidklaly/) суд ТОВ «Термінал Бровари» проти Броварської міськради щодо неправомірної нормативно-грошової оцінки землі, як новим судом погрожує ТОВ БЗБК, один з броварських забудовників. Про це йдеться в [повідомленні](https://www.facebook.com/groups/brovary/permalink/1439328119430483/?__mref=message_bubble) представниці БЗБК Олександри Дудар.**

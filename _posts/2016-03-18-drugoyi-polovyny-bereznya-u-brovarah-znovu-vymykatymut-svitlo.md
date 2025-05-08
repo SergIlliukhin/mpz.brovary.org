@@ -13,6 +13,7 @@ tags:
   - "novini"
   - "svitlo"
   - "stare-misto"
+coverImage: "wp-content/uploads/2016/03/Osvitlennya-strum-lampochka-svitlo-tok.jpg"
 ---
 
 **22-го та 28-го березня відбудуться планові відімкнення електроенергії на деяких вулицях приватного сектора Масиву та Старого міста. Про це на своїй сторінці у Фейсбуку [повідомляє](https://www.facebook.com/i.sapozhko.official/photos/a.1280198871997016.1073741827.1277675122249391/1300995136584056/?type=3&theater) міський голова Ігор Сапожко.**

@@ -15,6 +15,7 @@ tags:
   - "opalko"
   - "pridelyuk"
   - "tehnichniy-kandidat"
+coverImage: "wp-content/uploads/2013/06/05-kopiya.jpg"
 ---
 
 [![Приделюк_7 - Копія](https://mpz.brovary.org/wp-content/uploads/2013/06/Pridelyuk_7-Kopiya.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/06/Pridelyuk_7-Kopiya.jpg)**Після тривалих розслідувань за допомогою небайдужих громадян журналістам «Маєш право знати» вдалося з’ясувати імена багатьох осіб, що брали участь у різноманітних нападах та перешкоджаннях журналістській та громадській діяльності у Броварах протягом останніх місяців.**

@@ -14,6 +14,7 @@ tags:
   - "kashirina-15"
   - "nezakonne-budivnitstvo"
   - "prokuratura"
+coverImage: "wp-content/uploads/2013/02/DSC02264-kopiya.jpg"
 ---
 
 **Інспекція державного архітектурно-будівельного контролю у Київській області застерігає осіб, які мають наміри інвестувати у житло.** На [своєму сайті](http://www.dabiko.com.ua/news/zasterezhennya-inspektsiyi-derzhavnogo-arhitekturno-budivel-nogo-kontrolyu-u-kiyivs-kij-oblasti/) вона розмістила перелік об’єктів, які будуються або побудовані з порушеннями містобудівного законодавства.

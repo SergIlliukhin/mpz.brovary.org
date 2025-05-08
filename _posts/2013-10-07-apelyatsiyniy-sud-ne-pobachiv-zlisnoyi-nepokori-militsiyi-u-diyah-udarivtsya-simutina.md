@@ -10,6 +10,7 @@ tags:
   - "novini"
   - "simutin"
   - "sud"
+coverImage: "wp-content/uploads/2013/10/Sud-Styagov-02.jpg"
 ---
 
 [![Суд Стягов 02](https://mpz.brovary.org/wp-content/uploads/2013/10/Sud-Styagov-02.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/10/Sud-Styagov-02.jpg)**Апеляційний суд Київської області скасував [рішення](https://mpz.brovary.org/deputata-simutina-oshtrafuvali-za-nepokoru-militsiyi-ta-pozbavili-advokatskogo-posvidchennya/ "Депутата Сімутіна оштрафували за «непокору міліції» та позбавили права на адвокатську діяльність") броварського суду, який наклав штраф на голову осередку «УДАРу» Романа Сімутіна за вчинення «злісної непокори працівникам міліції». Більше того, суддя Ігнатюк О. В. постановив закрити провадження у даній справі «за відсутністю події правопорушення». Вирішальним доказом для відновлення справедливості став відеозапис, долучений до справи.**

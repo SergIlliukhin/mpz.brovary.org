@@ -10,6 +10,7 @@ tags:
   - "sapozhko"
   - "hram"
   - "tserkva"
+coverImage: "wp-content/uploads/2012/12/IMG_0046.jpg"
 ---
 
 **[![](https://mpz.brovary.org/wp-content/uploads/2012/12/IMG_0046.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/12/IMG_0046.jpg)**

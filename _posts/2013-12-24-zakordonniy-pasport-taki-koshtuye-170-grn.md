@@ -12,6 +12,7 @@ tags:
   - "zakordonniy-pasport"
   - "koruptsiya"
   - "sud"
+coverImage: "wp-content/uploads/2013/12/1349194382.jpg"
 ---
 
 [![1349194382](https://mpz.brovary.org/wp-content/uploads/2013/12/1349194382.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/12/1349194382.jpg)**Вже кілька років ми досліджували питання [оформлення закордонного паспорту у Броварах](https://mpz.brovary.org/chi-mozhlivo-oformiti-zakordonniy-pasport-u-brovarah/ "Чи можливо оформити закордонний паспорт у Броварах?"). Було знайдено дуже багато порушень, однак сьогоднішнє повідомлення, безперечно, є найгучнішою новиною на цю тематику.**

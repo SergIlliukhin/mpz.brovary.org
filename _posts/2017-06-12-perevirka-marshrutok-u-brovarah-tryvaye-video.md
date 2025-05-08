@@ -14,6 +14,7 @@ tags:
   - "marshrutki"
   - "novini"
   - "perevirka"
+coverImage: "wp-content/uploads/2012/04/Marshrutka.jpg"
 ---
 
 **Після [пожежі](https://mpz.brovary.org/na-rozvyltsi-spalahnula-zgorila-vshhent-411-marshrutka-obijshlosya-bez-zhertv-foto/) автобусу №411, у Броварах триває перевірка стану маршруток. 8 червня [перевіряючі були на підприємстві](https://mpz.brovary.org/u-brovarah-pochaly-perevirku-tehnichnogo-stanu-marshrutok/) ТОВ "ТК "Автосоюз" (директор Сергій Возняк), а у п'ятницю, 9 червня, робоча група, міські депутати, поліція відвідали АТП-13209.**

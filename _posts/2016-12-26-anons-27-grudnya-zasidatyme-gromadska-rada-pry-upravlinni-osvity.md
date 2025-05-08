@@ -12,6 +12,7 @@ tags:
   - "brovary"
   - "gromadska-rada-pri-upravlinni-osviti"
   - "novini"
+coverImage: "wp-content/uploads/2016/12/maxresdefault-e1482776437429.jpg"
 ---
 
 **Завтра, 27 грудня, відбудеться засідання Громадської ради при управлінні освіти і науки Броварської міської ради, на якій будуть розглядатися 10 питань. Про це йдеться в [оголошенні](https://www.facebook.com/gromadska.rada.osvita/posts/1872124833023106) на сторінці Громради у FB.**

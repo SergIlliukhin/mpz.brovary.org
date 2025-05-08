@@ -10,6 +10,7 @@ tags:
   - "garyache-vodopostachannya"
   - "kp-brovariteplovodoenergiya"
   - "novini"
+coverImage: "wp-content/uploads/2013/08/Dlya-zakalki-goditsya-tolko-holodnaya-voda.jpg"
 ---
 
 **[![2011_01_0_26_572](https://mpz.brovary.org/wp-content/uploads/2013/08/2011_01_0_26_572.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/08/2011_01_0_26_572.jpg)Учора, 8 серпня, в окремих районах міста комунальники почали відновлювати гаряче водопостачання. Проте частина мешканців досі гріють воду на плиті.** 

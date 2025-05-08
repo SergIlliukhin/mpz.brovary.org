@@ -15,6 +15,7 @@ tags:
   - "komisiya"
   - "novini"
   - "perejmenuvannya-vulyts"
+coverImage: "wp-content/uploads/2016/05/DSC_3456.jpg"
 ---
 
 **У Броварах продовжать перейменовувати вулиці. До [70 вулиць](https://mpz.brovary.org/u-brovarah-z-yavylys-vulytsi-na-chest-stepana-bandery-nebesnoyi-sotni-ta-geroyiv-ato/), які півроку тому волею депутатів і мера вже змінили назви у рамках декомунізації, додадуться нові. Принаймні таке рішення рекомендуватиме органам влади новоутворена [комісія з питань найменувань та пам’ятних знаків](http://brovary.kiev.ua/r%25D1%2596shennya-m%25D1%2596sko%25D1%2597-radi-v%25D1%2596d-21042016-%25E2%2584%2596193-13-07-pro-stvorennya-kom%25D1%2596s%25D1%2596%25D1%2597-z-pitan-naimenuvan-ta-pam%25E2%2580%2599yatni), яка вперше зібралась на засідання 25 травня.**

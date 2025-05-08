@@ -15,6 +15,7 @@ tags:
   - "pribirannya"
   - "subotnik"
   - "chistota"
+coverImage: "wp-content/uploads/2014/03/smittya.jpg"
 ---
 
 **[![сміття](https://mpz.brovary.org/wp-content/uploads/2014/03/smittya.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/03/smittya.jpg)22 березня ініціативна група броварчан, які [взялись організувати серію загальноміських суботників у нашому місті](https://mpz.brovary.org/gromada-brovariv-planuye-provesti-seriyu-subotnikiv-shhob-zrobiti-misto-ohaynim-ta-chistim/), остаточно визначилась з датами прибирання та "місцями найбільших забруднень". Також активісти обговорили, як забезпечити чистоту у майбутньому та додати креативу цій справі.**

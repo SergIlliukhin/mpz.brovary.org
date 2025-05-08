@@ -10,6 +10,7 @@ tags:
   - "byudzhet-mista-2013"
   - "vibir-redaktsiyi"
   - "novini"
+coverImage: "wp-content/uploads/2012/12/byudzhet2.jpg"
 ---
 
 **[![](https://mpz.brovary.org/wp-content/uploads/2012/12/byudzhet2.jpg "бюджет2")](https://mpz.brovary.org/wp-content/uploads/2012/12/byudzhet2.jpg)Сьогодні, на 28-ій позачерговій сесії Броварська міська рада ухвалила рішення «Про бюджет міста на 2013 рік». Згідно з цим документом, загальний обсяг доходів бюджету міста у наступному році очікується у сумі 305 726,15 тис. грн.**

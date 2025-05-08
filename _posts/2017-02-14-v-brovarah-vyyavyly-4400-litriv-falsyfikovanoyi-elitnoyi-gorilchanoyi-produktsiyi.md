@@ -14,6 +14,7 @@ tags:
   - "novini"
   - "prokuratura-kiyivskoyi-oblasti"
   - "falsyfikat"
+coverImage: "wp-content/uploads/2017/02/skladd-e1487078741367.jpg"
 ---
 
 **Прокуратура Київської області [повідомляє](http://kobl.gp.gov.ua/ua/news.html?_m=publications&_c=view&_t=rec&id=202053) про викриття в Броварах незаконного підпільного цеху, який виготовляв фальсифіковану елітну горілчану продукцію.**

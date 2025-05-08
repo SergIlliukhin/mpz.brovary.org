@@ -14,6 +14,7 @@ tags:
   - "strayk"
   - "tov-chisti-materiali"
   - "trudovi-prava"
+coverImage: "wp-content/uploads/2013/01/IMAG1658.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2013/01/IMAG1656.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/01/IMAG1656.jpg)**У Броварах розпочався безстроковий страйк працівників ТОВ «Чисті матеріали».  Роботу підприємства повністю заблоковано.  Кількагодинні переговори результатів не принесли.**

@@ -13,6 +13,7 @@ tags:
   - "prava-spozhivacha"
   - "produktsiya"
   - "spozhivach-maye-pravo"
+coverImage: "wp-content/uploads/2013/06/spoiled_vegetables_3.jpg"
 ---
 
 **[![<](https://mpz.brovary.org/wp-content/uploads/2013/06/spoiled_vegetables_3.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/06/spoiled_vegetables_3.jpg)Спеціалістами Інспекції з питань захисту прав споживачів у Київській області у травні поточного року проведено перевірку магазину у м. Бровари щодо дотримання вимог Закону України “Про захист прав споживачів” при обслуговуванні споживачів продукцією продовольчої групи. Про це [УНН](http://www.unn.com.ua/) повідомили у прес-службі Державної інспекції з питань захисту прав споживачів.**

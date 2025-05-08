@@ -21,6 +21,7 @@ tags:
   - "potop"
   - "fontanuvannya"
   - "foto"
+coverImage: "wp-content/uploads/2017/02/Zalylo-fontanuye-Grushevskogo-vulytsya-20.02.2017_00005.jpg"
 ---
 
 **Тільки-но чиновники [прозвітували](https://mpz.brovary.org/dirky-na-dorogah-ta-pavodky-brovarski-komunalnyky-zvituyut-pro-pochatok-roboty/) про готовність до ліквідації паводків, як «потекло» на перехресті вулиць Грушевського та Героїв Небесної Сотні. З-під люків на асфальтове покриття виливається вода. Окрім того, броварські комунальники «скидають» просто на перехрестя відкачану воду із колодязя неподалік.**

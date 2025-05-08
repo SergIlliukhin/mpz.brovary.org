@@ -10,6 +10,7 @@ tags:
   - "hromadskebro-tv"
   - "brovary"
   - "gromadske-telebachennya"
+coverImage: "wp-content/uploads/2015/07/tytanyk.jpg"
 ---
 
 

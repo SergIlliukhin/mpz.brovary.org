@@ -18,6 +18,7 @@ tags:
   - "novini"
   - "hend-mejd"
   - "yarmarok"
+coverImage: "wp-content/uploads/2017/05/Mamyn-Hend-Mejd-Aktyvni-mamy-Brovariv-afisha-anons-yarmarok-inna.jpg"
 ---
 
 **Цієї суботи у парку «Перемога» відбудеться благодійний ярмарок. На охочих долучитися очікуватимуть ласощі, конкурси, майстер-класи, спортивні змагання тощо. А всі виручені кошти підуть благодійному фонду «[Інна](https://mpz.brovary.org/brovarskyj-blagodijnyj-fond-inna-dopomagaye-onkohvorym-borotys-zi-smertelnoyu-nedugoyu/)». Про це йдеться у [фейсбук-зустрічі](https://www.facebook.com/events/289319088161197/) від спільноти «[Активних мам Броварів](https://mpz.brovary.org/aktyvni-mamy-brovariv-u-dekreti-zhyttya-tilky-pochynayetsya/)».**

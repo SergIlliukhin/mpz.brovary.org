@@ -14,6 +14,7 @@ tags:
   - "narodniy-deputat"
   - "novini"
   - "onlayn-translyatsiya"
+coverImage: "wp-content/uploads/2013/09/Onlayn.jpg"
 ---
 
 **[![Онлайн](https://mpz.brovary.org/wp-content/uploads/2013/09/Onlayn.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/09/Onlayn.jpg)Команда “Маєш право знати” проведе пряму онлайн-трансляцію [візиту народного депутата України Віталія Кличка до Броварів](https://mpz.brovary.org/23-zhovtnya-vitaliy-klichko-v-prometeyi-video/). Зустріч лідера партії «УДАР»з мешканцями нашого міста відбудеться сьогодні, 23 жовтня о 18:30 у приміщенні МКЦ "Прометей". У режимі реального часу за подією можна буде спостерігати на нашому [ustream-каналі](http://www.ustream.tv/channel/pravoznaty) або у [розділі “Онлайн-трансляції”](https://mpz.brovary.org/online) на сайті.**

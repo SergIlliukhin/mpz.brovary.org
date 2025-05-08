@@ -7,6 +7,7 @@ author:
 tags: 
   - "vibir-redaktsiyi"
   - "novini"
+coverImage: "wp-content/uploads/2014/02/Barikada-12.jpg"
 ---
 
 **[![1795568_10152229871129916_1448173470_n](https://mpz.brovary.org/wp-content/uploads/2014/02/1795568_10152229871129916_1448173470_n.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/02/1795568_10152229871129916_1448173470_n.jpg)Потреби броварської барикади. ОНОВЛЮЄТЬСЯ ПОСТІЙНО**

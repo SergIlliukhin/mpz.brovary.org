@@ -9,6 +9,7 @@ tags:
   - "byudzhet"
   - "novini"
   - "trolejbus"
+coverImage: "wp-content/uploads/2012/09/troleybus.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/09/troleybus.jpg "тролейбус")](https://mpz.brovary.org/wp-content/uploads/2012/09/troleybus.jpg)Новий тролейбусний маршрут будуватимуть два з половиною роки, - повідомляє сайт [Forbes.ua](http://forbes.ua/nation/1337791-iz-kieva-v-brovary-za-500-mln-grn).

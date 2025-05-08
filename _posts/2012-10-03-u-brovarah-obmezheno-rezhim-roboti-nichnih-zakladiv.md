@@ -15,6 +15,7 @@ tags:
   - "myuzik-holl"
   - "novini"
   - "obmezhennya"
+coverImage: "wp-content/uploads/2012/10/IMG_1304.jpg"
 ---
 
 **[![](https://mpz.brovary.org/wp-content/uploads/2012/10/IMG_1304.jpg "IMG_1304")](https://mpz.brovary.org/wp-content/uploads/2012/10/IMG_1304.jpg)На численні прохання мешканців броварська влада обмежила режим роботи чотирьох нічних закладів у нашому місті.**

@@ -16,6 +16,7 @@ tags:
   - "prodavets"
   - "spozhivach"
   - "spozhivach-maye-pravo"
+coverImage: "wp-content/uploads/2012/08/mototsikl.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/08/mototsikl.jpg "мотоцикл")](https://mpz.brovary.org/wp-content/uploads/2012/08/mototsikl.jpg)На електронну скриньку рубрики «**Споживач має право**» надійшов лист від броварчанки Валентини, яка нещодавно придбала на броварському ринку мотоцикл, однак не встигла насолодитись їздою на ньому, оскільки її новий транспортний засіб «даїшники» забрали на «штрафмайданчик» через відсутність належних документів. Ситуація була така:

@@ -15,6 +15,7 @@ tags:
   - "debaltsevo"
   - "dobrotvorets"
   - "novini"
+coverImage: "wp-content/uploads/2016/04/PH_S1554_1.jpg"
 ---
 
 **Що ви знаєте про війну?**

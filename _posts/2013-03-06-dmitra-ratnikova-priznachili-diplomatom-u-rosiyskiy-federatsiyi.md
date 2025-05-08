@@ -12,6 +12,7 @@ tags:
   - "novini"
   - "posolstvo"
   - "ratnikov"
+coverImage: "wp-content/uploads/2013/03/ratnikov_D.jpg"
 ---
 
 [![Дмитро Ратніков](https://mpz.brovary.org/wp-content/uploads/2013/03/ratnikov_D.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/ratnikov_D.jpg)**Міністерство закордонних справ України призначило Дмитра Ратнікова співробітником Посольства України у Російській Федерації.** Спочатку інформація про це з'явилася на [сайті посольства](http://russia.mfa.gov.ua/ua/embassy/diplomats), а пізніше її підтвердив Департамент інформаційної політики Міністерства закордонних справ України.

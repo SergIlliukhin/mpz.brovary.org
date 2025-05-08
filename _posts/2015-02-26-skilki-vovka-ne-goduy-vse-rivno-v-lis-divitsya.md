@@ -12,6 +12,7 @@ tags:
   - "kotelnya"
   - "simutin"
   - "tverdopalivni-kotelni"
+coverImage: "wp-content/uploads/2015/02/sergey-tiron.3-fevralya.jpg"
 ---
 
 **[![сергей тирон.3 февраля](https://mpz.brovary.org/wp-content/uploads/2015/02/sergey-tiron.3-fevralya.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/02/sergey-tiron.3-fevralya.jpg)Ви правильно здогадалися, це до теми наших броварських чиновників, насамперед, їхніх дій стосовно котелень та яскравої обгортки, в яку їх замотали.**

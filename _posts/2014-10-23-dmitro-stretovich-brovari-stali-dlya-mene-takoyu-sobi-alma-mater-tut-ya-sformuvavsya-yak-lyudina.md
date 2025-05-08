@@ -14,6 +14,7 @@ tags:
   - "nova-rubrika"
   - "novini"
   - "rubrika-lyudi"
+coverImage: "wp-content/uploads/2014/10/Stretovich-IMG_0107.jpg"
 ---
 
 _![Люди](https://mpz.brovary.org/wp-content/uploads/2014/10/Lyudi.png)_

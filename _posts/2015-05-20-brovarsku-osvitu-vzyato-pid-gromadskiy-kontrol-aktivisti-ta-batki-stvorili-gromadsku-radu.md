@@ -15,6 +15,7 @@ tags:
   - "gromadska-rada-pri-upravlinni-osviti"
   - "novini"
   - "upravlinnya-osviti"
+coverImage: "wp-content/uploads/2015/05/gromadska-rada-upravlinnya-osviti-16.jpg"
 ---
 
 **[![громадська рада управління освіти (11)](https://mpz.brovary.org/wp-content/uploads/2015/05/gromadska-rada-upravlinnya-osviti-11.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/05/gromadska-rada-upravlinnya-osviti-11.jpg)Броварські активісти та голови батьківських комітетів вирішили взяти сферу освіти нашого міста  під громадський контроль. Для цього нещодавно утворили** [**Громадську раду при управлінні освіти Броварської міської ради**](https://mpz.brovary.org/pri-upravlinni-osviti-brovarskoyi-miskoyi-radi-stvoryuyut-gromadsku-radu/)**. На установчих зборах, що відбулися 12 травня, до складу ради ввійшло 8 осіб, однак набір бажаючих пильнувати за роботою закладів освіти та чиновниками, триває. Також активісти визначилася з датою першого засідання Громадської ради - домовились зібратись 26 травня (вівторок) о 14:00, щоб затвердити Положення, обрати голову ради та окреслити напрямки роботи.**

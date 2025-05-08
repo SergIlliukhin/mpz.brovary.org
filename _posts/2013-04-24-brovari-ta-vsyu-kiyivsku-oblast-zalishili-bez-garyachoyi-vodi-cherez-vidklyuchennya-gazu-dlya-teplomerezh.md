@@ -12,6 +12,7 @@ tags:
   - "garyache-vodopostachannya"
   - "kp-brovariteplovodoenergiya"
   - "novini"
+coverImage: "wp-content/uploads/2013/04/teplomerezha2.jpg"
 ---
 
 **[![тепломережа2](https://mpz.brovary.org/wp-content/uploads/2013/04/teplomerezha2.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/04/teplomerezha2.jpg)На жаль, [минулорічна ситуація з відключенням гарячої води невдовзі після завершення опалювального сезону](https://mpz.brovary.org/brovarchani-zalishilis-bez-garyachoyi-vodi-cherez-borgi-teplovodoenergiyi/) знову повторилась. І причина того, що сотні тисяч людей, які справно сплачують комунальні платежі, залишились без можливості прийняти душ чи ванну, залишилась та сама - заборгованість підприємств теплокомуненерго перед НАК "Нафтогазом", щоправда, офіційно цю інформацію ніхто не хоче підтверджувати: ні комунальники, ні газовщики.**

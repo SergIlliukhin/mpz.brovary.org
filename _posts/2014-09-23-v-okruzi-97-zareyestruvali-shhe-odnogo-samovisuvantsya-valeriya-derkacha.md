@@ -17,6 +17,7 @@ tags:
   - "sergiy-krizhanivskiy"
   - "tsvk"
   - "tsentralna-viborcha-komisiya"
+coverImage: "wp-content/uploads/2014/09/47220.jpg"
 ---
 
 **[![47220](https://mpz.brovary.org/wp-content/uploads/2014/09/47220.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/09/47220.jpg)Центральна виборча комісія зареєструвала у виборчому окрузі №97 ще одного кандидата в народні депутати - Валерія Деркача. Кандидат балотується до парламенту шляхом самовисування.**  

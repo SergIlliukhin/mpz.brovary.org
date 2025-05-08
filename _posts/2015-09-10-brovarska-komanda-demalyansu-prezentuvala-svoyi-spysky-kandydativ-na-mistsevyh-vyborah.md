@@ -15,6 +15,7 @@ tags:
   - "mistsevi-vybory-2015"
   - "novini"
   - "spysky"
+coverImage: "wp-content/uploads/2015/09/74130_1.jpg"
 ---
 
 **Броварський "ДемАльянс" презентував свою команду - список майбутніх кандидатів на посаду мера та депутатів місцевої ради, - [повідомляється](http://dem-alliance.org/districts/29/district_news/3012) на офіційному сайті партії. При цьому партійний осередок заявив, що перелік не є остаточним і що команда відкрита для нових людей. Нагадаємо, свої потенційні виборчі списки вже відкрили місцеві осередки [ВО "Батьківщина"](https://mpz.brovary.org/brovarska-batkivshhyna-oprylyudnyla-svoyih-virogidnyh-kandydativ-v-deputaty-brovarskoyi-miskrady/) та [Об'єднання "Самопоміч"](https://mpz.brovary.org/samopomich-vidkryla-mozhlyvyj-spysok-kandydativ-na-mistsevyh-vyborah-u-brovarah/).**

@@ -14,6 +14,7 @@ tags:
   - "kp-brovariteplovodoenergiya"
   - "novini"
   - "pat-kiyivoblgaz"
+coverImage: "wp-content/uploads/2013/08/Ogoloshennya-teplomerezhi-pro-garyachu-vodu-z-logotipom1.jpg"
 ---
 
 [![Ogoloshennya-teplomerezhi-pro-garyachu-vodu-z-logotipom](https://mpz.brovary.org/wp-content/uploads/2013/08/Ogoloshennya-teplomerezhi-pro-garyachu-vodu-z-logotipom1.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/08/Ogoloshennya-teplomerezhi-pro-garyachu-vodu-z-logotipom1.jpg)**Сьогодні, 07 серпня 2013 року, спливає термін припинення гарячого водопостачання в місті Бровари.** Згідно з [розпорядженням міського голови](http://docs.pravo-znaty.org.ua/p7810/11.06.2013/94) Ігоря Сапожка, в період з 11 червня по 07 серпня 2013 року було припинено надання послуг з підігріву води і проводились випробування на щільність та ремонт магістральних і розподільчих теплових мереж.

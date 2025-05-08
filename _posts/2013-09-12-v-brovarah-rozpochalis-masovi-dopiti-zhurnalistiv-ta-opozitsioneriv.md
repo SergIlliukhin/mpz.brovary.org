@@ -15,6 +15,7 @@ tags:
   - "panchenko"
   - "svidki"
   - "udar"
+coverImage: "wp-content/uploads/2013/09/dopiti.jpg"
 ---
 
 **[![00078472](https://mpz.brovary.org/wp-content/uploads/2013/09/00078472.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/09/00078472.jpg)Майже все керівництво броварських «Свободи» та УДАРу, а також місцевих журналістів сьогодні викликають до броварської міліції.**

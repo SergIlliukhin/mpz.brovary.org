@@ -14,6 +14,7 @@ tags:
   - "knizhki"
   - "molod-da"
   - "novini"
+coverImage: "wp-content/uploads/2015/05/zustrich-z-pismennikom-ivchenko-breyn-ivent-221.jpg"
 ---
 
 **_[![зустріч з пиьсменником івченко брейн івент (2)](https://mpz.brovary.org/wp-content/uploads/2015/05/zustrich-z-pismennikom-ivchenko-breyn-ivent-25.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/05/zustrich-z-pismennikom-ivchenko-breyn-ivent-25.jpg)_****_«Те, що я став письменником, у стосунках з дівчатами мені нічим не допомогло, але мені це настільки сподобалося, що це було вже неважливо»_****, - український письменник Владислав Івченко, відомий своїми історичними ретро-детективами та тонким почуттям гумору, завітав до Броварів з книжковою презентацією на запрошення [«Молоді Демократичного Альянсу»](https://www.facebook.com/pages/%D0%9C%D0%BE%D0%BB%D0%BE%D0%B4%D1%8C-%D0%94%D0%B5%D0%BC%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D0%B8%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%90%D0%BB%D1%8C%D1%8F%D0%BD%D1%81%D1%83-%D0%91%D1%80%D0%BE%D0%B2%D0%B0%D1%80%D0%B8/580521665380982?fref=ts).** **Минулої суботи в міській бібліотеці стартував сезон літературних зустрічей з майстрами слова, а сучасна українська література вихором увірвалася до Броварів.**

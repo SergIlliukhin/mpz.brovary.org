@@ -13,6 +13,7 @@ tags:
   - "brovary"
   - "movnyj-klub"
   - "novini"
+coverImage: "wp-content/uploads/2017/06/18882244_1357796207638280_559420586674961100_n.jpg"
 ---
 
 **8 червня о 19:00 волонтерська спільнота [English Speaking Club Bro](https://www.facebook.com/EnglishSpeakingClubBro/) запрошує броварчан на відкриття нового мовного клубу та запрошує на подію German Speaking Meetings. Про це [йдеться](https://www.facebook.com/events/252544848557823/?active_tab=about) у соціальній мережі FB. Навчання у цих спікінг-клабах безкоштовне, проекти існують на волонтерських засадах.**

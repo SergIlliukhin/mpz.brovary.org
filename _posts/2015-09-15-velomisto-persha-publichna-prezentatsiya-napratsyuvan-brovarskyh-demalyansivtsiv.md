@@ -16,6 +16,7 @@ tags:
   - "novini"
   - "oleg-berestoviy"
   - "plotnikova"
+coverImage: "wp-content/uploads/2015/09/PH_S9493.jpg"
 ---
 
 **Бровари можуть стати велосипедним містом. Окрім простих любителів велосипедів, у місті є активісти, які зробили вже перші ґрунтовні кроки для створення цільової програми з розвитку велоінфраструктури. 9 вересня активісти [Демократичного Альянсу](https://www.facebook.com/demalliancebrovary?fref=ts) поділилися результатами напрацювань з розвитку міської велоінфраструктури з громадськістю, зокрема з ініціативою [“Велопокатушки”](https://mpz.brovary.org/shhoseredy-brovarski-lyubyteli-zdorovogo-sposobu-zhyttya-organizovuyut-velopokatushky/).**

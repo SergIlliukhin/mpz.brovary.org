@@ -15,6 +15,7 @@ tags:
   - "muzey"
   - "narodna-viyna"
   - "novini"
+coverImage: "wp-content/uploads/2013/11/narodna-viyna6.jpg"
 ---
 
 **[![народна війна](https://mpz.brovary.org/wp-content/uploads/2013/11/narodna-viyna.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/11/narodna-viyna.jpg)Сьогодні, 7 листопада, о 15:00 у [Броварському краєзнавчому музеї](http://uk.wikipedia.org/wiki/%D0%91%D1%80%D0%BE%D0%B2%D0%B0%D1%80%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BA%D1%80%D0%B0%D1%94%D0%B7%D0%BD%D0%B0%D0%B2%D1%87%D0%B8%D0%B9_%D0%BC%D1%83%D0%B7%D0%B5%D0%B9) відкриється експозиція «[Народна війна](http://www.narodnaviyna.org.ua/index.html)», присвячена історії українських визвольних змагань у 1917-32 рр.**

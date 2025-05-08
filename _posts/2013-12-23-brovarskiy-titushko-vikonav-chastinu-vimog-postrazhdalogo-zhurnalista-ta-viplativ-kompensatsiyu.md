@@ -17,6 +17,7 @@ tags:
   - "subotnik"
   - "sud"
   - "titushko"
+coverImage: "wp-content/uploads/2013/12/image_3.jpeg"
 ---
 
 **[![Стягов](https://mpz.brovary.org/wp-content/uploads/2013/12/image_3.jpeg)](https://mpz.brovary.org/wp-content/uploads/2013/12/image_3.jpeg)Минулого тижня завершилась судова епопея довкола нападу на журналіста Андрія Качора під час [суботника в парку «Перемога»](https://mpz.brovary.org/krivavi-sutichki-vidbulis-u-brovarah-mizh-meshkantsyami-ta-zabudovnikami-tsentralnogo-parku/). 18 грудня суддя Олена Кічинська винесла ухвалу, де підтвердила кваліфікацію дій Сергія Стягова, який заподіяв потерпілому легкі тілесні ушкодження, що призвели до короткочасного розладу здоров'я. Однак до колонії нападника відправлено не було, оскільки під час судового засідання журналіст відмовився від обвинувачення, відтак суд закрив кримінальне провадження.** 

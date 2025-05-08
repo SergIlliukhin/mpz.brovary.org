@@ -10,6 +10,7 @@ tags:
   - "ivanenko"
   - "nastup"
   - "rizanenko"
+coverImage: "wp-content/uploads/2012/07/kachor.jpg"
 ---
 
 [Остання серія проекту «Під ковпаком у Наступу»](http://www.youtube.com/watch?v=IOLFpxyPVQQ&feature=plcp) не лише викликала резонанс у броварчан, але й змусила реагувати окремих кандидатів в депутати та представників, власне, Олега Іваненка.

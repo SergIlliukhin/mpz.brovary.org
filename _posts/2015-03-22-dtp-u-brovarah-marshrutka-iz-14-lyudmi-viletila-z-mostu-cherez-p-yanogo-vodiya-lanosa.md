@@ -15,6 +15,7 @@ tags:
   - "mikola-klimenko"
   - "novini"
   - "pyaniy-vodiy"
+coverImage: "wp-content/uploads/2015/03/327-avariya-06.jpg"
 ---
 
 **[![327 аварія 09](https://mpz.brovary.org/wp-content/uploads/2015/03/327-avariya-09.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/03/327-avariya-09.jpg)Маршрутне таксі №327 впало з мосту після зіткнення з автомобілем Daewoo Lanos. ДТП сталось у суботу, 21 березня, пізно ввечері на шляхопроводі району Торгмаш. 14 постраждалих пасажирів маршрутки відразу госпіталізували, одна неповнолітня дівчина у важкому стані в реанімації. Очевидці аварії звинувачують в ДТП водія Ланоса. За їх словами, він був дуже нетверезий, що пізніше [підтвердили і в броварській міліції](http://mvs.gov.ua/mvs/control/kyivska/uk/publish/article/151370;jsessionid=4744A3258B75256B99F8E394BF759F23).**

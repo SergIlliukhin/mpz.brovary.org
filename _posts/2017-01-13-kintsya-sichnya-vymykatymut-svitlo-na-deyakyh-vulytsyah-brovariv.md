@@ -17,6 +17,7 @@ tags:
   - "kiyivoblenergo"
   - "novini"
   - "svitlo"
+coverImage: "wp-content/uploads/2017/01/svitlo-elektryka-elektroenergiya-temryava-lampa-lampochka.jpg"
 ---
 
 **Протягом наступних двох тижнів у Броварах відбудеться низка відключень від електроенергії. Світло зникатиме як у мешканців деяких вулиць, так і в деяких торговельних закладах і, навіть, бойлерній – у зв’язку із плановими роботами. Про це йдеться на офіційних сайтах** [**Броварської міської ради**](http://brovary-rada.gov.ua/news/14689.html) **та** [**ПАТ «Київобленерго»**](http://www.koe.vsei.ua/koe/index.php?page=76&ok=1)**.**

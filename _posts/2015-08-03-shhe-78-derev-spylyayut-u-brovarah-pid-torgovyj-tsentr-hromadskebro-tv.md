@@ -12,6 +12,7 @@ tags:
   - "gromadske-telebachennya"
   - "dereva"
   - "zrizannya-derev"
+coverImage: "wp-content/uploads/2015/08/dereva.jpg"
 ---
 
 

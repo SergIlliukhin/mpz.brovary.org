@@ -16,6 +16,7 @@ tags:
   - "t-faktor"
   - "chernyahovskogo"
   - "chernyahovskogo-21-b"
+coverImage: "wp-content/uploads/2015/01/t-faktor6.jpg"
 ---
 
 [![т фактор1](https://mpz.brovary.org/wp-content/uploads/2015/01/t-faktor1.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/01/t-faktor1.jpg)

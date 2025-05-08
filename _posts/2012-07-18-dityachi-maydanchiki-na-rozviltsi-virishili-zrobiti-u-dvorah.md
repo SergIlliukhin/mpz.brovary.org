@@ -18,6 +18,7 @@ tags:
   - "oleg-ivanenko"
   - "ploshha-shevchenka"
   - "rozvilka"
+coverImage: "wp-content/uploads/2012/07/Zustrich-Ivanenka_4.jpg"
 ---
 
 **[![](https://mpz.brovary.org/wp-content/uploads/2012/07/Zustrich-Ivanenka_1.jpg "Зустріч Іваненка_1")](https://mpz.brovary.org/wp-content/uploads/2012/07/Zustrich-Ivanenka_1.jpg)Вчора на площі Шевченка було хоч і не дуже велелюдно, проте на [обговорення місця розташування дитячого майданчика на Розвилці](https://mpz.brovary.org/17-lipnya-na-ploshhi-shevchenka-obgovoryat-pitannya-vstanovlennya-dityachogo-maydanchika/) прийшли у першу чергу люди зацікавлені, які мали свою думку з цього приводу. Відтак після жвавих дискусій місце для дитячих ігор таки визначили.**

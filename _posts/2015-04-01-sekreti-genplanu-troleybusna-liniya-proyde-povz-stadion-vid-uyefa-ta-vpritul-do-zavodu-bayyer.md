@@ -9,6 +9,7 @@ tags:
   - "vibir-redaktsiyi"
   - "den-smihu"
   - "novini"
+coverImage: "wp-content/uploads/2015/04/25-2.jpg"
 ---
 
 [![BenQ 4.0M DIGITAL STILL CAMERA](https://mpz.brovary.org/wp-content/uploads/2015/04/25-2.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/04/25-2.jpg)**Громадським активістам Броварів стали відомі нові подробиці нового Генерального плану м . Бровари, що його депутати планують ухвалити вже на наступній сесії.**

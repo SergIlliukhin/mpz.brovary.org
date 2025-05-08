@@ -14,6 +14,7 @@ tags:
   - "okrug-97"
   - "rizanenko"
   - "ukrayinska-pravda"
+coverImage: "wp-content/uploads/2012/11/RPO-Afisha-2.jpg"
 ---
 
 _[![](https://mpz.brovary.org/wp-content/uploads/2012/11/RPO-Afisha.jpg "РПО Афіша")](https://mpz.brovary.org/wp-content/uploads/2012/11/RPO-Afisha.jpg)_

@@ -15,6 +15,7 @@ tags:
   - "plyazhnyj-volejbol"
   - "sportmajdanchyk"
   - "torgmash"
+coverImage: "wp-content/uploads/2015/08/sportmajdanchyk.jpg"
 ---
 
 

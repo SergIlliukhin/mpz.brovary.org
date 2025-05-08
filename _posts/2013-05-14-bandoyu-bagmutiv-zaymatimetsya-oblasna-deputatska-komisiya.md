@@ -12,6 +12,7 @@ tags:
   - "kreynin"
   - "myuzik-holl"
   - "panchenko"
+coverImage: "wp-content/uploads/2013/05/50854.jpg"
 ---
 
 [![50854](https://mpz.brovary.org/wp-content/uploads/2013/05/50854.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/05/50854.jpg)Дива не сталося: броварська міліція вчергове захистила депутатського сина-«мажора» **Романа Багмута** та його «бойовиків» від законного покарання за [цинічне побиття](https://mpz.brovary.org/vosmogo-bereznya-ohorontsi-myuzik-holu-privitali-kliyentku-podviynim-perelomom-video/) беззахисної жінки восьмого березня. З моменту інциденту слідча в цій справі **Мар’яна Панченко** так і не спромоглась вчинити бодай якоїсь дії, аби розслідування дійшло логічного фіналу. У Броварах справу проти «регіоналів» знову спустили на гальмах.

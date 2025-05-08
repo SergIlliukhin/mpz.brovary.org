@@ -12,6 +12,7 @@ tags:
   - "melnik"
   - "novini"
   - "sekretar"
+coverImage: "wp-content/uploads/2015/11/tushka_melnik.jpg"
 ---
 
 **На посаду секретаря Броварської міської ради ані міський голова Ігор Сапожко, ані партія «Єдність» більше не висуватимуть депутата Оксану Мельник. Про це офіційно заявив лідер фракції «Єдність» Володимир Оксютенко, [повідомляє](http://brovary.net.ua/novyny/sekretar-miskoyi-rady-sapozhko-ta-yednist-znyaly-kandydaturu-oksany-melnyk/sekretar-miskoyi-rady-sapozhko-ta-yednist-znyaly-kandydaturu-oksany-melnyk/) видання «Трибуна Бровари».**

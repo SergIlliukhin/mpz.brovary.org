@@ -11,6 +11,7 @@ tags:
   - "zvernennya-do-fininspetsktsiyi"
   - "kp-orts"
   - "novini"
+coverImage: "wp-content/uploads/2013/03/url.jpg"
 ---
 
 [![Головна](https://mpz.brovary.org/wp-content/uploads/2013/03/GFRANQ_SERZHOV_31460129_.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/GFRANQ_SERZHOV_31460129_.jpg)**Після того, як броварські активісти [домоглися](https://mpz.brovary.org/deputati-ne-riziknuli-zabrati-baseyn-u-brovarchan/) зняття з розгляду скандального питання щодо внесення змін до статуту Комунального підприємства "Оздоровчо-реабілітаційний центр", учасники громадської ініціативи "Басейн - дітям" звернулися до Державної фінансової інспекції в Київській області (колишнє КРУ) з проханням здійснити перевірку законності ведення фінансово-господарської діяльності підприємства.**

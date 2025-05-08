@@ -13,6 +13,7 @@ tags:
   - "novini"
   - "onum"
   - "sokil"
+coverImage: "wp-content/uploads/2015/02/DSC_3262.jpg"
 ---
 
 **[![Молодь_вшанування_НС_заг](https://mpz.brovary.org/wp-content/uploads/2015/02/Molod_vshanuvannya-NS_zag.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/02/Molod_vshanuvannya-NS_zag.jpg)У вечір п’ятниці, 20 лютого, о 19:00 на броварському Майдані Свободи відбулося вшанування Героїв Небесної Сотні. Бровари долучилися до загальноукраїнської хвилі пам'ятних заходів.**

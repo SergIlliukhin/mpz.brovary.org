@@ -15,6 +15,7 @@ tags:
   - "proektuvannya"
   - "rekonstruktsiya"
   - "shevchenko"
+coverImage: "wp-content/uploads/2013/07/Mariya-Ovdiyenko.jpg"
 ---
 
 **[![Пам'ятник Тарасу Шевченку](https://mpz.brovary.org/wp-content/uploads/2013/03/31004937.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/31004937.jpg)****Тарас Шевченко багато разів бував у нашому місті. Кожного разу він не міг оминути Розвилки, адже тут міняв коней на місцевій поштово-кінній станції, обідав, ходив П'ятницьким базаром, знайомився з людьми.**

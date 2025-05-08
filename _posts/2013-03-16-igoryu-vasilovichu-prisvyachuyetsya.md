@@ -9,6 +9,7 @@ categories:
 tags: 
   - "sapozhko"
   - "feysbuk"
+coverImage: "wp-content/uploads/2013/03/fb-sapozhko.jpg"
 ---
 
 **Дуже прикро, що броварський міський голова [не має аккаунту](https://mpz.brovary.org/shovani-pid-parasoleyu-oflaynu/ "Сховані під парасолею офлайну") у соціальних мережах, де мешканці могли б «з перших вуст» дізнаватися про те, що відбувається у місті та про реакцію міського очільника на ці події.**

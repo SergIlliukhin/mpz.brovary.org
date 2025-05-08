@@ -12,6 +12,7 @@ tags:
   - "novini"
   - "sud"
   - "telepenko"
+coverImage: "wp-content/uploads/2012/07/Brovarskiy-miskrayonniy-sud.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/07/Brovarskiy-miskrayonniy-sud.jpg "Броварський міськрайонний суд")](https://mpz.brovary.org/wp-content/uploads/2012/07/Brovarskiy-miskrayonniy-sud.jpg)У понеділок, **2 липня 2012 року о 10 годині** відбудеться друга частина судового засідання по справі активіста "Маєш Право Знати" Сергія Іллюхіна проти Броварської міської ради. Нагадаємо: позивач вважає, що відповідачем було незаконно обмежено доступ до публічної інформації, відповідач звинувачення заперечує.

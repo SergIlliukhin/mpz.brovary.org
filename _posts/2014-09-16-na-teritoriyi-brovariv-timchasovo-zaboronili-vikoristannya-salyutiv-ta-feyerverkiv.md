@@ -7,6 +7,7 @@ author:
 tags: 
   - "vibir-redaktsiyi"
   - "novini"
+coverImage: "wp-content/uploads/2014/09/Salyut.jpg"
 ---
 
 **[![Салют](https://mpz.brovary.org/wp-content/uploads/2014/09/Salyut.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/09/Salyut.jpg)Рішенням виконавчого комітету Броварської міської ради [№ 527 від 9 вересня 2014 року](http://docs.pravo-znaty.org.ua/p13506/09.09.2014/527) тимчасово заборонено використання салютів, феєрверків та інших піротехнічних виробів на території міста Бровари.**

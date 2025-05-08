@@ -7,6 +7,7 @@ author:
 tags: 
   - "vibir-redaktsiyi"
   - "novini"
+coverImage: "wp-content/uploads/2014/09/kishhuk.jpg"
 ---
 
 **[![kishhuk](https://mpz.brovary.org/wp-content/uploads/2014/09/kishhuk.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/09/kishhuk.jpg)Президент України Петро Порошенко своїм розпорядженням №1014\\2014 рп звільнив із посади голови Броварської райдержадміністрації Олега Кищука. Відповідний документ, датований 13 вересня, [опублікований сьогодні](http://www.president.gov.ua/documents/18073.html) на сайті глави держави.**

@@ -16,6 +16,7 @@ tags:
   - "protoiyerej-ioann-mysiv"
   - "tserkva-ioanna-bogoslova"
   - "tserkovni-dzvony"
+coverImage: "wp-content/uploads/2016/08/9-2.jpg"
 ---
 
 **У сучасному динамічному насиченому світі  без шуму не можна ніяк. Та занадто гучні звуки все частіше стають причиною головного болю (як у прямому, так і переносному значенні) броварчан. Ми неодноразово писали  про [порушення тиші](https://mpz.brovary.org/krik-dushi-meshkantsiv-budinkiv-kotri-poterpayut-vid-susidstva-z-myuzik-holom/)  як  галасливими сусідами, так і [магазинами](https://mpz.brovary.org/yak-zabezpechiti-svoye-zakonne-pravo-na-tishu-ta-priborkati-shumnih-susidiv/), [кафе](https://mpz.brovary.org/zamist-znesennya-nezakonnogo-kafe-u-parku-peremoga-vlada-vimiryuye-u-nomu-riven-shumu/), [комп’ютерним клубом](https://mpz.brovary.org/vidviduvachi-komp-yuternogo-klubu-na-vul-sholom-alejhema-katuyut-meshkantsiv-budynku-shumom/). У цих випадках виною шуму були музика, гучна нецензурна лайка, п’яні крики та бійки. Нещодавно до переліку можливих причин порушення тиші додалася ще одна – церковні дзвони. Однак протоієрей Іоанн Мисів вважає, що скарга на його храм – лише привід «наїхати» на церкву Іоанна Богослова.**

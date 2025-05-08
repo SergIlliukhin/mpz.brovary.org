@@ -19,6 +19,7 @@ tags:
   - "nepravomirna-vygoda"
   - "novini"
   - "habar"
+coverImage: "wp-content/uploads/2017/06/NABU-forma-koruptsiya.jpg"
 ---
 
 **Учора, 14 червня, правоохоронці затримали суддю Броварського міськрайонного суду при одержанні неправомірної вигоди. Про це [йдеться](https://nabu.gov.ua/novyny/suddyu-brovarskogo-miskrayonnogo-sudu-kyyivskoyi-oblasti-vykryto-na-garyachomu) на сайті Національного антикорупційного бюро України. На оприлюднених світлинах затриманої жінки можна впізнати суддю Ганну Білик.**

@@ -14,6 +14,7 @@ tags:
   - "zrizannya-derev"
   - "novini"
   - "rishennya-vikonkomu"
+coverImage: "wp-content/uploads/2013/11/virubka-derev.jpg"
 ---
 
 **[![вирубка дерев](https://mpz.brovary.org/wp-content/uploads/2013/11/virubka-derev.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/11/virubka-derev.jpg)Виконавчий комітет Броварської міської ради надав дозвіл зрізати 29 дерев на території м. Бровари. З них 19 зелених насаджень має знести КП "Бровари-Благоустрій", 8 дерев - ЖЕК № 3, що по 1 дереву планують зрубати ЖЕК № 4 та № 5. Про це йдеться в рішенні виконкому [№ 533 від 22.10.2013](http://docs.pravo-znaty.org.ua/p9610/22.10.2013/533).**

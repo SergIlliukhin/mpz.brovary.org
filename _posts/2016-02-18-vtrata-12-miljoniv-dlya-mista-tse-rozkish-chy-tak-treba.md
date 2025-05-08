@@ -6,6 +6,7 @@ author:
   display_name: "Роман Сімутін"
 categories: 
   - "kolonka-avtora"
+coverImage: "wp-content/uploads/2016/02/zobrazhennya-viber.jpg"
 ---
 
 Хто буде платити 12 мільйонів за утримання Броварського ПТУ, громада міста чи Держава? Битва почалася, відбулося перше засідання робочої групи Київської обласної ради.

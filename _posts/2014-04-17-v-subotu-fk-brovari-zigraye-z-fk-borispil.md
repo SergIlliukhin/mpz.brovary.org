@@ -12,6 +12,7 @@ tags:
   - "fk-brovari"
   - "futbol"
   - "chempionat-kiyivskoyi-oblasti-z-futbolu"
+coverImage: "wp-content/uploads/2014/04/2F6RNWaauTs.jpg"
 ---
 
 **[![2F6RNWaauTs](https://mpz.brovary.org/wp-content/uploads/2014/04/2F6RNWaauTs.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/04/2F6RNWaauTs.jpg)Цієї суботи, 19 квітня, о 15:00 в рамках 3 туру Вищої ліги чемпіонату Київської області ФК «Бровари» на своєму полі прийматиме ФК «Бориспіль». Це перша домашня гра  броварської футбольної команди у сезоні 2014 року.**

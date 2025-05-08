@@ -10,6 +10,7 @@ tags:
   - "bpp"
   - "brovary"
   - "militsiya"
+coverImage: "wp-content/uploads/2015/03/IMAG0504-1024x7541.jpg"
 ---
 
 \[caption id="attachment\_35427" align="alignleft" width="300"\][![10428138_817910421617643_9020744853888528745_n](https://mpz.brovary.org/wp-content/uploads/2015/03/10428138_817910421617643_9020744853888528745_n.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/03/10428138_817910421617643_9020744853888528745_n.jpg) Подібні картини загрозливо почастішали\[/caption\]

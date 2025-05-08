@@ -14,6 +14,7 @@ tags:
   - "strilyanina"
   - "sutichka"
   - "tokar"
+coverImage: "wp-content/uploads/2014/12/vesta-1.jpg"
 ---
 
 **[![веста 1](https://mpz.brovary.org/wp-content/uploads/2014/12/vesta-1.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/12/vesta-1.jpg)Стріляниною з використанням автоматичної зброї завершилась спроба мешканця Броварів Дмитра Полонського потрапити до власної оселі на вул. Київській.**

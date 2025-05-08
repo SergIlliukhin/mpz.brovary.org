@@ -6,6 +6,7 @@ author:
   display_name: "Юрій Чередник"
 categories: 
   - "kolonka-avtora"
+coverImage: "wp-content/uploads/2015/05/Komuntrans.jpg"
 ---
 
 [![komuntrans](https://mpz.brovary.org/wp-content/uploads/2015/05/komuntrans1.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/05/komuntrans1.jpg)Протягом вчорашнього дня до мене, як до депутата міськради, неодноразово звертались мешканці мого виборчого округу № 17 (район «Розвилка») з приводу повного зникнення з продажу сміттєвих пакетів **ТОВ «Комунтранс-Бровари»**. Зазначена структура займається вивозом сміття через свої «фірмові» пакети.

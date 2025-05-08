@@ -16,6 +16,7 @@ tags:
   - "trolejbus"
   - "udar"
   - "fedorenko"
+coverImage: "wp-content/uploads/2012/10/troleysub-vid-opozitsioneriv.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/10/troleysub-vid-opozitsioneriv.jpg "тролейсуб від опозиціонерів")](https://mpz.brovary.org/wp-content/uploads/2012/10/troleysub-vid-opozitsioneriv.jpg)«Віковічна мрія» броварців збулася – на вулицях їхнього міста 22 жовтня з’явився новий вид транспорту – тролейбус. Він і справді винятково екологічний, щоправда, картонно-паперовий. Активісти опозиційних сил вивели вранці на маршрути одразу три такі «тролейбуси». Про це [на своєму сайті повідомляє](http://groza.org/brovarska-opozytsiya-doluchylasya-do-zapusku-trolejbusa-brovary-kyjiv/) "Громадський захист Київщини".

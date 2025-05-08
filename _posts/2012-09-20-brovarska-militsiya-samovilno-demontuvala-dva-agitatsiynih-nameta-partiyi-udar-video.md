@@ -13,6 +13,7 @@ tags:
   - "novini"
   - "udar"
   - "hartanovich"
+coverImage: "wp-content/uploads/2012/09/Hartanovich.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/09/Hartanovich.jpg "Хартанович")](https://mpz.brovary.org/wp-content/uploads/2012/09/Hartanovich.jpg)Вчора у Броварах працівники міліції демонтували 2 намети партії «**УДАР**» (по вул. Кірова та вул. Короленка) та вилучили інформаційні матеріали, які в них поширювалися. Про це повідомляє громадська організація «**Громадський захист Київщини**» [на своєму сайті](http://groza.org/zastupnyk-nachalnyka-brovarskoji-militsiji-osobysto-brav-uchast-v-demontazhi-nametu-partiji-udar-video/).

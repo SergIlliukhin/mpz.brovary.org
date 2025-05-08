@@ -12,6 +12,7 @@ tags:
   - "golodomor-1932-1933"
   - "novini"
   - "onum"
+coverImage: "wp-content/uploads/2014/11/DSC_1278.jpg"
 ---
 
 **[![DSC_1294](https://mpz.brovary.org/wp-content/uploads/2014/11/DSC_1294.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/11/DSC_1294.jpg)Минулої суботи, 22 листопада, вся країна вшановувала пам****’****ять жертв голодоморів. У Броварах молодь міста не залишилась осторонь страшної біди та [закликала громадян згадати про невинно загиблих людей.](https://mpz.brovary.org/u-subotu-molod-zaklikaye-brovachan-vshanuvati-pam-yat-zhertv-golodomoru/) Організатори акції -  Об’єднання незалежної української молоді -**  **приєдналися до всеукраїнського дня жалоби та провели пам’ятну ходу у Броварах й пом’янули тих, хто став жертвами жорстокого режиму.**

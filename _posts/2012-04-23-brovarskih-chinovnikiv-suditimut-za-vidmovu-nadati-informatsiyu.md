@@ -12,6 +12,7 @@ tags:
   - "novini"
   - "ozdorovcho-reabilitatsiyniy-tsentr"
   - "sud"
+coverImage: "wp-content/uploads/2012/04/do-not-judge-too-hard.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/04/do-not-judge-too-hard.jpg "На броварських чиновників подали до суду")](https://mpz.brovary.org/wp-content/uploads/2012/04/do-not-judge-too-hard.jpg)Активіст «Маєш право знати» Сергій Іллюхін звернувся до суду з вимогою притягнути до відповідальності броварських чиновників, котрі всупереч Закону «Про доступ до публічної інформації» відмовляються надати запитувану інформації.

@@ -12,6 +12,7 @@ tags:
   - "vyviz-smittya"
   - "novini"
   - "pp-ammuson-kyyiv"
+coverImage: "wp-content/uploads/2017/07/Smittyevoz-Komunatrans-2-e1501240633816.jpg"
 ---
 
 **Новий перевізник сміття ПП «Амуссон Київ» розпочинає свою роботу в Броварах з 1 серпня. Про це зазначається в [оголошенні](http://brovary-rada.gov.ua/news/15437.html) на сайті Броварської міської ради.**

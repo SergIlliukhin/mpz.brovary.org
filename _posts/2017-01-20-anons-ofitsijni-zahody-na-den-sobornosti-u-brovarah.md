@@ -15,6 +15,7 @@ tags:
   - "zahody"
   - "lantsyug-yednannya"
   - "novini"
+coverImage: "wp-content/uploads/2017/01/prapory-Ukrayina-den-sobornosti-mityng.jpg"
 ---
 
 **Цьогоріч до 98-ї річниці проголошення Акта Злуки Української Народної Республіки та Західноукраїнської Народної Республіки влаштують традиційний «Ланцюг єднання», а також - книжкову виставку, тематичні екскурсії та вшанування полеглих за Україну. Про це на своєму сайті [повідомив](http://www.kulturabr.kiev.ua/golovny-novyny/plan-miskyh-zahodiv-z-vidznachennya-u-2017-roci-dnya-sobornosti-ukrayiny-98-yi) відділ культури Броварської міської ради.**

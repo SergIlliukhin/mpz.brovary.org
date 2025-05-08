@@ -13,6 +13,7 @@ tags:
   - "opalyuvalniy-sezon"
   - "reforma-zhkg"
   - "sapozhko"
+coverImage: "wp-content/uploads/2013/10/main_lastraiting.jpg"
 ---
 
 [![Сапожко_Ігор_Васильович](https://mpz.brovary.org/wp-content/uploads/2013/10/Sapozhko_Igor_Vasilovich.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/10/Sapozhko_Igor_Vasilovich.jpg)За даними Міністерства регіонального розвитку і ЖКГ, в Україні до опалення підключено вже 99,5% житлового фонду або 173698 з наявних в країні 174591 будинків. Станом на ранок 14 жовтня із 24 685 котелень в роботу запущені 24 645 (99,8%).

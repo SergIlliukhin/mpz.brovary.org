@@ -20,6 +20,7 @@ tags:
   - "plotnikova"
   - "uzhkg"
   - "finansuvannya"
+coverImage: "wp-content/uploads/2017/03/UZHKG-programa-finansuvannya_00002.jpg"
 ---
 
 **Наприкінці минулого року Броварська міська рада [затвердила](http://brovary-rada.gov.ua/documents/26484.html) програму капітального ремонту, утримання об’єктів житлового фонду та благоустрою міста на 2017-2021 роки. Серед пунктів фінансування – від охорони кладовищ до проектування та будівництва каналізацій і доріг чи ремонту багатоквартирних будинків. Цього грудня депутати схвалили виділення на програму 54 млн грн. Однак, вже в [лютому](https://mpz.brovary.org/anons-9-lyutogo-vidbudetsya-chergova-sesiya-brovarskoyi-miskrady/) гроші [перерозподілили](http://brovary-rada.gov.ua/documents/26725.html), передбачивши 78 млн грн. А наступної [сесії](https://mpz.brovary.org/anons-23-bereznya-vidbudetsya-chergova-sesiya-brovarskoyi-miskoyi-rady/), 23 березня, обранцям [запропонують](http://brovary-rada.gov.ua/documents/26780.html) підкоригувати програму ще раз, на суму 79,5 млн грн.**

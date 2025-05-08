@@ -17,6 +17,7 @@ tags:
   - "mirni-zibrannya"
   - "pereshkodzhannya"
   - "yatsenyuk"
+coverImage: "wp-content/uploads/2012/09/YAtsenyuk_komunalna-tehnika_1.jpg"
 ---
 
 Щойно проїжджала повз майдан Свободи, де ввечері має відбутись зустріч броварчан з **[Арсенієм Яценюком](https://mpz.brovary.org/24-veresnya-u-brovarah-vidbudetsya-zustrich-z-arseniyem-yatsenyukom/)**. Поряд з монтажем сцени, де робота дійсно кипить, уже традиційно "працює" комунальна техніка. І знову "якась  несподівана поламка" сталась саме у день проведення мітингу, і знову ремонтувати її треба саме у час підготовки до нього.

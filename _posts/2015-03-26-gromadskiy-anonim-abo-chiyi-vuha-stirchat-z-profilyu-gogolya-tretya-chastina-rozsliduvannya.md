@@ -13,6 +13,7 @@ tags:
   - "gromadskiy-revizor"
   - "popelyanskiy"
   - "sapozhko"
+coverImage: "wp-content/uploads/2015/03/popel2.jpg"
 ---
 
 **[![popel2](https://mpz.brovary.org/wp-content/uploads/2015/03/popel2.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/03/popel2.jpg)Спеціальне розслідування щодо походження, історії та приналежності першої “офіційно-анонімної” броварської газети “Громадський ревізор” – єдиного видання в місті, де УСІ журналісти пишуть під вигаданими іменами та навіть головний редактор – підставна особа. Першу частину можна прочитати [за цим посиланням](https://mpz.brovary.org/gromadskiy-anonim-abo-chiyi-vuha-stirchat-z-profilyu-gogolya-chastina-persha/), другу частину - за [цим посиланням](https://mpz.brovary.org/gromadskiy-anonim-abo-chiyi-vuha-stirchat-z-profilyu-gogolya-druga-chastina-rozsliduvannya/).** 

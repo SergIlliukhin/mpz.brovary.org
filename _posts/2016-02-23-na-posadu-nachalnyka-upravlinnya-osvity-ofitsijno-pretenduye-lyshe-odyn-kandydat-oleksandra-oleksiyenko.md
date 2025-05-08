@@ -17,6 +17,7 @@ tags:
   - "romanenko"
   - "tenderi"
   - "upravlinnya-osviti"
+coverImage: "wp-content/uploads/2016/02/oleksiyenko1-1.jpg"
 ---
 
 **На черговому засіданні Громадської ради при управлінні освіти і науки Броварської міської ради 23 лютого говорили про таке:**

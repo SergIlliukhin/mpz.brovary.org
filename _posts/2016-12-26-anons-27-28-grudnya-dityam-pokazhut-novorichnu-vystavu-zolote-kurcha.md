@@ -16,6 +16,7 @@ tags:
   - "zolote-kurcha"
   - "novini"
   - "tevtr"
+coverImage: "wp-content/uploads/2016/12/teatr-dity-podyv-vystava-pokaz.jpg"
 ---
 
 **У вівторок та середу для дітей від 4 до 10 років влаштують безкоштовну казкову новорічну виставу.  Про це [йдеться](http://www.bdut.org.ua/zaproshujemo-na-fejerychnu-novorichnu-vystavu-zolote-kurcha/) на сайті будинку дитячої та юнацької творчості Броварів.**

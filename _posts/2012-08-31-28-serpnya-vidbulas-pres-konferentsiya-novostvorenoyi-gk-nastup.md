@@ -15,6 +15,7 @@ tags:
   - "novini"
   - "sud"
   - "shako"
+coverImage: "wp-content/uploads/2012/08/Nastup_pres-konferentsiya_6.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/08/Nastup_pres-konferentsiya_6.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/08/Nastup_pres-konferentsiya_6.jpg)28 серпня біля броварського міськрайонного суду по вул. Возз’єднання відбулась прес-конференція броварської  громадянської кампанії «**[Наступ](http://www.nastup.info/)**», під час якої її учасники - координатор **Андрій Качор,** прес-секретар **Тарас Шако** та політолог **Євген Золотарьов** - презентували кампанію та окреслили майбутню діяльність.

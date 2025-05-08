@@ -13,6 +13,7 @@ tags:
   - "kp-brovariteplovodoenergiya"
   - "novini"
   - "ogoloshennya"
+coverImage: "wp-content/uploads/2014/05/Garyacha-voda-2014.jpg"
 ---
 
 **[![Гаряча вода 2014](https://mpz.brovary.org/wp-content/uploads/2014/05/Garyacha-voda-2014.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/05/Garyacha-voda-2014.jpg)Перші два місяці літа броварчанам доведеться обходитись без гарячої води: з 2 червня по 1 серпня 2014 року буде припинене гаряче водопостачання.  Як сказано у [повідомленні КП "Броваритепловодоенергія"](http://brovary.kiev.ua/ogoloshennya-pro-pripinennya-garyachogo-vodopostachannya-0) це робиться "у зв’язку з проведенням випробувань на гідравлічну щільність та значних обсягів ремонтно-профілактичних робіт на теплових мережах та теплотехнічному обладнані".**

@@ -13,6 +13,7 @@ tags:
   - "vibir-redaktsiyi"
   - "dyrektor-kp-brovaryteplovodoenergiya"
   - "novini"
+coverImage: "wp-content/uploads/2017/04/Andreev.jpg"
 ---
 
 **Про те, що новим очільником КП «Броваритепловодоенергія» став екс-заступник міського голови Василь Андрєєв, стало відомо сьогодні, 7 квітня.**

@@ -13,6 +13,7 @@ tags:
   - "znikli-bezvisti"
   - "kiyiv"
   - "novini"
+coverImage: "wp-content/uploads/2013/12/divchata-znikli.jpg"
 ---
 
 **[![дівчата зниклі](https://mpz.brovary.org/wp-content/uploads/2013/12/divchata-znikli.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/12/divchata-znikli.jpg)Після [кривавого розгону «Беркутом»](http://youtu.be/6HtbdFfaYUc) мирних мітингувальників на Майдані Незалежності вночі 30 листопада зникло безвісти 34 особи. На щастя, 21 з них вже вдалось знайти, повідомила у своєму** [**Facebook**](https://www.facebook.com/lesyaorobets/posts/629580963744486) **народний депутат Леся Оробець. Серед інших 13 осіб, місцезнаходження яких досі не відомо, на жаль, є дві броварчанки: 16-річна Марина Цебоєва та 18-річна Лілія Хачатурова.**

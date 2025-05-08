@@ -17,6 +17,7 @@ tags:
   - "sergiy-krizhanivskiy"
   - "tsvk"
   - "tsentralna-viborcha-komisiya"
+coverImage: "wp-content/uploads/2014/09/140912140337_tihipko_party_624x351_unian.jpg"
 ---
 
 **[![140912140337_tihipko_party_624x351_unian](https://mpz.brovary.org/wp-content/uploads/2014/09/140912140337_tihipko_party_624x351_unian.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/09/140912140337_tihipko_party_624x351_unian.jpg)22 вересня черговим зареєстрованим мажоритарним кандидатом по виборчому округу №97 з центром в Броварах став Михайло Трохимович Алєксєєнко – висуванець від політичної партії «Сильна Україна».**

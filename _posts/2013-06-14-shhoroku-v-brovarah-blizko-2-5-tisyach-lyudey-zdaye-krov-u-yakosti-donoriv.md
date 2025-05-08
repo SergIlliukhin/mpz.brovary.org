@@ -16,6 +16,7 @@ tags:
   - "perelivannya-krovi"
   - "rayonna-likarnya"
   - "transfuziologichne-viddilennya"
+coverImage: "wp-content/uploads/2013/06/Den-donora.png"
 ---
 
 **[![День донора](https://mpz.brovary.org/wp-content/uploads/2013/06/Den-donora.png)](https://mpz.brovary.org/wp-content/uploads/2013/06/Den-donora.png)Незважаючи на значні досягнення науково-технічного прогресу, на жаль, ще не винайдено доступний штучний замінник крові. Тому кожного дня люди, що ведуть боротьбу за своє життя які потребують негайного переливання крові, сподіваються, що з семи мільярдів населення Землі, знайдуться ті, хто стане добровільним донором та подарує частину себе заради іншого.**

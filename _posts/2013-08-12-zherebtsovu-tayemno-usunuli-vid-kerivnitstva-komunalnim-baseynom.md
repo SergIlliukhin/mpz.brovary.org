@@ -15,6 +15,7 @@ tags:
   - "smirnov"
   - "fedorenko"
   - "fesko"
+coverImage: "wp-content/uploads/2012/08/DSC_0018.jpg"
 ---
 
 \[caption id="attachment\_6225" align="alignleft" width="300"\][![Людмила Жеребцова](https://mpz.brovary.org/wp-content/uploads/2012/08/DSC_0018.jpg "Людмила Жеребцова")](https://mpz.brovary.org/wp-content/uploads/2012/08/DSC_0018.jpg) Людмила Жеребцова\[/caption\]

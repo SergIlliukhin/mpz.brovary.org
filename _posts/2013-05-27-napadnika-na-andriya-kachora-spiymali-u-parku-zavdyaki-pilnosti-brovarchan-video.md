@@ -15,6 +15,7 @@ tags:
   - "styagov"
   - "krivaviy-subotnik"
   - "hartanovich"
+coverImage: "wp-content/uploads/2013/05/Napadnik-na-Kachora-4.jpg"
 ---
 
 [![Нападник на Качора 4](https://mpz.brovary.org/wp-content/uploads/2013/05/Napadnik-na-Kachora-4.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/05/Napadnik-na-Kachora-4.jpg)**"Спортсмена", який вдарив журналіста "Маєш право знати" Андрія Качора під час [громадянського суботника у парку "Перемога"](https://mpz.brovary.org/krivavi-sutichki-vidbulis-u-brovarah-mizh-meshkantsyami-ta-zabudovnikami-tsentralnogo-parku/), вдалось спіймати в той же день.**

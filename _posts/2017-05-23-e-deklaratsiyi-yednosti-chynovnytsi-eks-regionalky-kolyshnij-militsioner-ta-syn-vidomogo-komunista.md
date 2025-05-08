@@ -18,6 +18,7 @@ tags:
   - "e-deklaruvannya"
   - "mayno"
   - "novini"
+coverImage: "wp-content/uploads/2016/08/sesiya-golos-rada-2.jpg"
 ---
 
 **Друга за чисельністю депутатів фракція Броварської міської ради – УП «Єдність» - демонструє контрасти статків і доходів. Згідно із деклараціями, ніхто, крім лідера списку Володимира Оксютенка, не причетний до приватного бізнесу. «Маєш право знати» продовжує знайомити читачів із е-деклараціями депутатів Броварської міської ради. Раніше ми розповіли про доходи і статки осередків фракцій «**[**Радикальної партії Ляшка**](https://mpz.brovary.org/e-deklaruvannya-blysk-zlydni-brovarskoyi-fraktsiyi-radykalna-partiya-lyashka/)**», «[Демальянсу](https://mpz.brovary.org/e-deklaruvannya-shho-zaroblyayut-brovarski-demalyansivtsi/)»,** [**БПП «Солідарності»**](https://mpz.brovary.org/e-deklaratsiyi-fraktsiyi-bpp-uspishni-pidpryyemtsi-ta-nebagati-pensionery/)**, «**[**Самопомочі**](https://mpz.brovary.org/e-deklaruvannya-brovarska-fraktsiya-samopomich-obyednala-pidpryyemtsiv/)**», «**[**Укропу**](https://mpz.brovary.org/e-deklaratsiyi-brovarskogo-ukropu-torgivlya-palnym-avtoperevezennya-budivnytstvo/)**» та** [**ВО «Батьківщини»**](https://mpz.brovary.org/brovarska-vo-batkivshhyna-nebagati-bagati-sabotazh-e-deklaruvannya/)**.**

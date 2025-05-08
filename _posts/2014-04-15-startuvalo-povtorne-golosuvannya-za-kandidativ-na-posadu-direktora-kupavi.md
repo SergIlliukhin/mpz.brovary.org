@@ -8,6 +8,7 @@ tags:
   - "vibir-redaktsiyi"
   - "kupava"
   - "novini"
+coverImage: "wp-content/uploads/2014/04/Kupava.png"
 ---
 
 **[![Купава](https://mpz.brovary.org/wp-content/uploads/2014/04/Kupava.png)](https://mpz.brovary.org/wp-content/uploads/2014/04/Kupava.png)Сьогодні, 15 квітня, о 12:00 розпочалось повторне голосування за визначення найпопулярнішої кандидатури на посаду директора басейну «Купаву». Опитування відбувається на спеціально створеному веб-сайті [kupava.cobat.com.ua.](http://kupava.cobat.com.ua/) Як запевняють розробники, система обліку голосів, встановлена на ресурсі,  відповідає найвищим вимогам з точки зору захисту від несанкціонованого впливу.**  

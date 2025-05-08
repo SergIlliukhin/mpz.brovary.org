@@ -12,6 +12,7 @@ tags:
   - "novini"
   - "osbb"
   - "uzhkg"
+coverImage: "wp-content/uploads/2012/07/Bud_vlya-m_skoyi-radi-zagalniy-plan-3.jpg"
 ---
 
 **[![Броварська міська рада](https://mpz.brovary.org/wp-content/uploads/2012/07/Bud_vlya-m_skoyi-radi-zagalniy-plan-3.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/07/Bud_vlya-m_skoyi-radi-zagalniy-plan-3.jpg)У середині травня броварських голів ОСББ та мешканців міста вчитимуть енергоефективності, зокрема ознайомлять з Державною програмою компенсації вартості на утеплення будинків ОСББ та запровадженням нових інвестиційних можливостей. Організатори навчального заходу  - управлі-ння житлово-комунального господарства Броварської міської ради спільно з громадською спілкою «Асоціація управителів житла». Про це сказано в оголошенні на [офіційному веб-сайті Броварської міської ради](http://www.brovary.kiev.ua/uzhkg-zaproshu%D1%94-na-navchalnii-zakh%D1%96d-praktichn%D1%96-zakhodi-z-energoefektivnost%D1%96).**

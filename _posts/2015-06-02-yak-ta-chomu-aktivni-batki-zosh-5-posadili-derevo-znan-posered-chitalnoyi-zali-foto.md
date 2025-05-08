@@ -13,6 +13,7 @@ tags:
   - "knigi"
   - "novini"
   - "shkola-5"
+coverImage: "wp-content/uploads/2015/05/biblioteka-ZOSH---5-3.jpg"
 ---
 
 [![бібліотека-ЗОШ№5 (3)](https://mpz.brovary.org/wp-content/uploads/2015/05/biblioteka-ZOSH---5-3.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/05/biblioteka-ZOSH---5-3.jpg)

@@ -15,6 +15,7 @@ tags:
   - "okrug-97"
   - "rizanenko"
   - "rezultati-viboriv"
+coverImage: "wp-content/uploads/2012/12/Zapitannya-do-Rizanenka_rezultati-golosuvannya.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/11/vopros.jpg "вопрос")](https://mpz.brovary.org/wp-content/uploads/2012/11/vopros.jpg)Щойно завершилось [голосування](https://mpz.brovary.org/chitachi-mayesh-pravo-znati-viznachayut-nayaktualnishe-zapitannya-do-rizanenka-doluchaytes/) за найактуальніше запитання до переможця виборів-2012 у броварському мажоритарному окрузі **Павла Різаненка**. Три найкращих запитання обирались серед тих, які [запропонували самі читачі на початку грудня](https://mpz.brovary.org/mayesh-pravo-znati-ogoloshuye-konkurs-zapitan-do-pavla-rizanenka/). Виявилось, броварчан найбільше цікавить подальша діяльність Різаненка саме у Броварах, а також плани народного депутата стосовно притягнення до відповідальності найбільших порушників законодавства під час виборів-2012.

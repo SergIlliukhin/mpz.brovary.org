@@ -19,6 +19,7 @@ tags:
   - "novini"
   - "semenov"
   - "senko"
+coverImage: "wp-content/uploads/2016/12/Semenov-Senko-zvit-zvituvannya_00003.jpg"
 ---
 
 **Учора в актовій залі 10-ї школи [мало](https://mpz.brovary.org/anons-27-grudnya-vidzvituyutsya-deputaty-vid-fraktsiyi-yednist-ta-maksym-semenov/) відбутися звітування двох обранців Броварської міської ради. Позафракційний Максим Семенов і представниця «Єдності» Лідія Сенько чекали на місцевих мешканців протягом півгодини, після чого захід закрили, так і не відкривши.**

@@ -20,6 +20,7 @@ tags:
   - "krivaviy-subotnik"
   - "tkachenko"
   - "udar"
+coverImage: "wp-content/uploads/2013/09/Richnitsya-postrilu-Zaporozhtsya-5.jpg"
 ---
 
 **[![Річниця пострілу Запорожця 14](https://mpz.brovary.org/wp-content/uploads/2013/09/Richnitsya-postrilu-Zaporozhtsya-14.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/09/Richnitsya-postrilu-Zaporozhtsya-14.jpg)Річниця події, коли мешканець Семиполок Віталій Запорожець вбив місцевого дільничного міліціонера, цього разу збіглась у часі з черговим судовим засіданням проти захисників броварського парку «Перемога».**

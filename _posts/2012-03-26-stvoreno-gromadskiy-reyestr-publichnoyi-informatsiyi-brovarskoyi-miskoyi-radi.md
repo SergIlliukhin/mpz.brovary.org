@@ -11,6 +11,7 @@ tags:
   - "miska-rada"
   - "novini"
   - "reyestr-publichnoyi-informatsiyi"
+coverImage: "wp-content/uploads/2012/03/reestr-informatsii.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/03/reestr-informatsii.jpg "реестр информации")](https://mpz.brovary.org/wp-content/uploads/2012/03/reestr-informatsii.jpg)Броварські активісти громадської ініціативи "Маєш Право Знати" оголосили про створення незалежного реєстру публічної інформації, розпорядником якої є виконавчий комітет Броварської міської ради.

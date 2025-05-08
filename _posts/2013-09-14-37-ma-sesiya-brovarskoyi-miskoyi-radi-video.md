@@ -9,6 +9,7 @@ categories:
 tags: 
   - "brovarska-miska-rada"
   - "videozapis-sesiyi"
+coverImage: "wp-content/uploads/2012/04/rada1.jpg"
 ---
 
 **Подія:** Пленарне засідання 37-мої чергової сесії Броварської міської ради **Дата:** 22.08.2013 **Камера:** Роман Сімутін

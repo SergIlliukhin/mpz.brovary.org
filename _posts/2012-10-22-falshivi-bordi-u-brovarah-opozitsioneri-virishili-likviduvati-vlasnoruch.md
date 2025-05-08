@@ -15,6 +15,7 @@ tags:
   - "rizanenko"
   - "simutin"
   - "udar"
+coverImage: "wp-content/uploads/2012/10/IMG_4248.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/10/IMG_4248.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/10/IMG_4248.jpg)**Представники партії "УДАР" та ВО "Батьківщина" 21 жовтня вирішили власноруч ліквідувати [фальшиві борди](https://mpz.brovary.org/u-brovarah-z-yavilisya-falshivi-bigbordi-shho-svaryat-udar-i-batkivshhinu/ "У Броварах з’явилися фальшиві бігборди, що сварять УДАР і “Батьківщину”"), розміщені напередодні у Броварах.**

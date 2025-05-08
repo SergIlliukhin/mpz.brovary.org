@@ -15,6 +15,7 @@ tags:
   - "novini"
   - "onishhenko"
   - "osvita"
+coverImage: "wp-content/uploads/2015/04/271.jpg"
 ---
 
 **[![школа№6_3](https://mpz.brovary.org/wp-content/uploads/2015/04/123.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/04/123.jpg)Нещодавно представники організацій "Асоціація батьків міста Бровари" та "Броварський народний контроль" вже [відвідували броварську ЗОШ №2](https://mpz.brovary.org/brovarskiy-narodniy-kontrol-pereviriv-na-shho-pishli-byudzhetni-koshti-v-zosh-2/) і залишилися задоволені побаченим. Наступний візит відбувся до ЗОШ №6, до якої в у громадських інспекторів виникло чимало запитань.**

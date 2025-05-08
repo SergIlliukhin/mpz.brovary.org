@@ -15,6 +15,7 @@ tags:
   - "novini"
   - "svyatkovyj-yarmarok"
   - "torgivlya-spyrtnym"
+coverImage: "wp-content/uploads/2016/12/19-grudnya-5.jpg"
 ---
 
 **З 19 грудня по 19 січня на броварському Майдані Свободи проводитимуть “Святковий різдвяний ярмарок” від ГО “Громадське коло”, таке рішення [прийняв](http://brovary-rada.gov.ua/documents/26288.html) броварський виконком 29 листопада.**

@@ -12,6 +12,7 @@ tags:
   - "novini"
   - "sud"
   - "suddya-bilik"
+coverImage: "wp-content/uploads/2013/01/collageSud2.jpg"
 ---
 
 **[![](https://mpz.brovary.org/wp-content/uploads/2013/01/IMAG1616.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/01/IMAG1616.jpg)Броварський міськрайонний суд Київської області визнав правомірним рішення виконавчого комітету Броварської міської ради, яким суттєво обмежувалась свобода мирних зібрань у Броварах, відхиливши позовні вимоги громадського активіста Сергія Іллюхіна.**

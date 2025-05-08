@@ -4,6 +4,7 @@ date: 2013-02-26
 author: 
   username: "admin"
   display_name: "admin"
+coverImage: "wp-content/uploads/2013/02/brovary-small.jpg"
 ---
 
 **Пропонуємо до уваги броварчан повний перелік депутатів, обраних у мажоритарних округах із зазначенням меж цих округів.**

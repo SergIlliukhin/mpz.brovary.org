@@ -17,6 +17,7 @@ tags:
   - "novini"
   - "shtab"
   - "shtab-z-rozrobki-zmin-do-genplanu"
+coverImage: "wp-content/uploads/2015/06/gadannya-shtab-16.jpg"
 ---
 
 **Уже сьогодні о 17:00 у залі засідань Броварської міської ради відбудеться четверте засідання [Штабу з підготовки та громадського обговорення змін до Генерального плану Броварів](http://brovary.kiev.ua/rozporyadzhennya-m%D1%96skogo-golovi-v%D1%96d-03042015-%E2%84%9650-od-pro-stvorennya-shtabu-shchodo-rozrobki-ta-gromad). Після значної перерви, що тривала понад місяць (нагадаємо, востаннє громадськість та чиновники  разом [збиралися 23 квітня](https://mpz.brovary.org/dostup-do-genplanu-za-10-tisyach-griven-chi-pogoditsya-vlada-na-noviy-variant-znyattya-grifu-dsk/)) Штаб планує продовжити свою роботу й перейти на наступний етап - від вивчення документації до її аналізу.**

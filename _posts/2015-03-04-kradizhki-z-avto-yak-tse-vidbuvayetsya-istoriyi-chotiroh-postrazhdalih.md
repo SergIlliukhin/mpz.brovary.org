@@ -9,6 +9,7 @@ tags:
   - "vibir-redaktsiyi"
   - "kradizhki-z-avto"
   - "novini"
+coverImage: "wp-content/uploads/2015/03/Olena-Danko.jpg"
 ---
 
 [![1416401500_autohrabizh](https://mpz.brovary.org/wp-content/uploads/2015/03/1416401500_autohrabizh.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/03/1416401500_autohrabizh.jpg)**«Маєш право знати» вже [писало](https://mpz.brovary.org/wp-admin/post.php?post=33735&action=edit) про стрімке зростання кількості крадіжок з автомобілів у Броварах. За словами та відчуттями броварчан такі випадки стаються десятками чи не кожного дня (а радше ночі), але броварська міліція каже про значно менші обсяги: наприклад, 12 зареєстрованих крадіжок у січні. Як би там не було, подія для автовласника ця геть неприємна, але у чомусь повчальна. Постраждалі броварчани розповіли нам, як це лихо трапилося з ними.**

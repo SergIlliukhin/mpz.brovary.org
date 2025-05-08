@@ -18,6 +18,7 @@ tags:
   - "ortopedychna-operatsiya"
   - "sergij-sugak"
   - "travmatologichne-viddilennya"
+coverImage: "wp-content/uploads/2016/12/7-3.jpg"
 ---
 
 **24 листопада у травматологічному відділенні Броварської центральної районної лікарні уперше за останні 17 років було [проведено операцію](http://brovcrl.in.ua/u-travmatologichnomu-viddilenni-brovarskoyi-crl-vpershe-za-20-rokiv-bulo-provedeno-operaciyu-po) із ендопротезування тазокульшового суглобу. Такі операції проводять на Київщині лише у Білій Церкві та Вишгороді. Після перерви майже в два десятиріччя до них приєдналися і Бровари. Та чи надовго?**

@@ -13,6 +13,7 @@ tags:
   - "kupava"
   - "novini"
   - "onlayn-opituvannya"
+coverImage: "wp-content/uploads/2014/04/bulatov_kupava06.jpg"
 ---
 
 [![bulatov_kupava02](https://mpz.brovary.org/wp-content/uploads/2014/04/bulatov_kupava02.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/04/bulatov_kupava02.jpg)**У п’ятницю, 11 квітня, о 12:00 Міністр молоді та спорту Дмитро Булатов знову приїжджає в Бровари. [Минулого тижня він заявляв](https://mpz.brovary.org/ministr-molodi-i-sportu-bulatov-kupava-mozhe-zapratsyuvati-cherez-tizhden/), що плавальний басейн «Купава» можна запустити 10-11 квітня. Тоді ж глава міністерства роздав доручення місцевим чиновникам – прокурор Гарник мав перевірити документацію на предмет правових ризиків запуску басейну, а міська рада – організувати онлайн-опитування стосовно претендентів на посаду нового директора «Купави».**

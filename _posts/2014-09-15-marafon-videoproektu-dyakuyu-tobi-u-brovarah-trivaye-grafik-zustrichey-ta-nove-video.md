@@ -15,6 +15,7 @@ tags:
   - "dyakuyu-tobi"
   - "koordinatsiyniy-tsentr-dopomogi-brovarskim-viyskovim"
   - "novini"
+coverImage: "wp-content/uploads/2014/09/DSC_1360.jpg"
 ---
 
 **[![DSC_1360](https://mpz.brovary.org/wp-content/uploads/2014/09/DSC_1360.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/09/DSC_1360.jpg)Марафон відеопроекту "Дякую тобі", який [стартував у Броварах 6 вересня](https://mpz.brovary.org/brovarchan-zaklikayut-skazati-ukrayinskim-voyinam-dyakuyu-tobi/), триває. Як [повідомили](https://www.facebook.com/koordcentr.brovary/posts/1515942611980216) на своїй сторінці у фейсбуку волонтери [Координаційного центру допомоги броварським військовим](https://www.facebook.com/koordcentr.brovary), цими вихідними у рамках вуличної кампанії** **було проведено серію зустрічей на Торгмаші та Масиві. Зважаючи на те, як позитивно сприйняли цю ініціативу броварчани, активісти продовжують свій проект та планують нові зустрічі - у четвер, п'ятницю та суботу.** 

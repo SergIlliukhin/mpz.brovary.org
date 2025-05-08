@@ -19,6 +19,7 @@ tags:
   - "nachalnyk-upravlinnya-osvity"
   - "novini"
   - "oksana-melnyk"
+coverImage: "wp-content/uploads/2016/11/30_big.jpg"
 ---
 
 **Старі будівлі навчальних закладів іноді в такому аварійному стані, що небезпечні для відвідування дітей: то [тріщина](https://mpz.brovary.org/aktyvisty-pereviryly-shho-potribno-remontuvaty-u-brovarskyh-shkolah-ta-sadochkah/) на півстіни у садочку, то взагалі обвалюються перекриття, як у школі в [Василькові](http://www.unian.net/incidents/1565942-v-vasilkove-obrushilas-chast-shkolyi-foto.html). Нещодавно виникла проблема з приміщенням броварського ДНЗ "Зірочка" і йде мова навіть про знесення будівлі. Проблема існує давно, а корпус треба було закривати ще влітку. Натомість були набрані нові групи дітей, які зараз збираються розформовувати та переводити у інші садочки.**

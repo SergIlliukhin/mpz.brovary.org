@@ -15,6 +15,7 @@ tags:
   - "novini"
   - "serpokrilova"
   - "sud"
+coverImage: "wp-content/uploads/2012/07/Sud-na-Nezalezhnosti-4a-viviska-1.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/07/Sud-na-Nezalezhnosti-4a-viviska-1.jpg "Суд на Незалежності 4а вивіска 1")](https://mpz.brovary.org/wp-content/uploads/2012/07/Sud-na-Nezalezhnosti-4a-viviska-1.jpg)У той час як місцева влада та правоохоронні органи відхрещуються від  [горе-інвесторів будинку № 15 по вул. Каширіна](https://mpz.brovary.org/budivelni-aferisti-prodayut-u-brovarah-kimnati-vlasnih-privatnih-budinkiv-yak-kvartiri/) та відсилають їх до суду, броварська феміда також явно не поспішає вирішувати цивільний спір ошуканих громадян. Та ще й відповідач докладає усіх зусиль, аби максимально затягнути розгляд справи. А в цей час громадяни, які придбали «кімнати» замість квартир та яких свавільно було виселено з помешкань, мусять поневірятись у чужих квартирах та нести нові матеріальні й моральні збитки.

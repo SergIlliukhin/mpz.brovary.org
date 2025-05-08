@@ -21,6 +21,7 @@ tags:
   - "smirnov"
   - "strayk"
   - "chisti-materiali"
+coverImage: "wp-content/uploads/2013/02/Image00011.jpg"
 ---
 
 [![Image00011](https://mpz.brovary.org/wp-content/uploads/2013/02/Image00011.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/02/Image00011.jpg)Вчора, 4 лютого, робітники-страйкарі ТОВ «Чисті матеріали» вже [вдруге](https://mpz.brovary.org/u-brovarah-vidbuvsya-marsh-straykuyuchih-pratsivnikiv-chistih-materialiv/) провели марш на захист своїх прав.  Причиною ходи, за словами активістів, стало не лише не припинення погроз із боку керівництва, а й бездіяльність міської влади та міжрайонної прокуратури. Нагадаємо, що 27 лютого робітники [оголосили безстроковий страйк](https://mpz.brovary.org/straykuyuchi-pratsivniki-zablokuvali-robotu-pidpriyemstva-u-brovarah/) через порушення трудових прав. Окрім частих затримань виплати зарплатні, жахливих умов праці, страйкарів непокоїть відсутність укладених договорів з робітниками, зокрема колективного, які би полегшили захист прав «робітничого класу».

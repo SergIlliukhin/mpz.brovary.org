@@ -10,6 +10,7 @@ tags:
   - "golodomor"
   - "postishev"
   - "chubar"
+coverImage: "wp-content/uploads/2013/11/Image000041.jpg"
 ---
 
 [![Image00004](https://mpz.brovary.org/wp-content/uploads/2013/11/Image000041.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/11/Image000041.jpg)У Броварах активісти вирішили своєрідно вшанувати пам’ять жертв Голодомору. Молоді люди заліпили наліпками таблички з іменем [Павла Постишева](https://uk.wikipedia.org/wiki/%D0%9F%D0%BE%D1%81%D1%82%D0%B8%D1%88%D0%B5%D0%B2_%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D1%87). Вулиця на честь цього радянського партійного та державного діяча, визнаного судом винним в організації Голодомору 1932-33 років, досі офіційно існує у нашому місті.

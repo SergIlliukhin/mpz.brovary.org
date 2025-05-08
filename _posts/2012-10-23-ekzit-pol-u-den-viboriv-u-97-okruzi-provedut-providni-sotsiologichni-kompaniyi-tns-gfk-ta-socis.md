@@ -15,6 +15,7 @@ tags:
   - "novini"
   - "okrug-97"
   - "sotsiologiya"
+coverImage: "wp-content/uploads/2012/10/Sotsdoslidzhennya-97-okrug.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/10/Sotsdoslidzhennya-97-okrug.jpg "Соцдослідження 97 округ")](https://mpz.brovary.org/wp-content/uploads/2012/10/Sotsdoslidzhennya-97-okrug.jpg)Центр соціальних та маркетингових досліджень **SOCIS**, компанії **TNS** в Україні та **GFK** Ukraine будуть проводити спільний екзіт-пол у 97 виборчому окрузі. Про це "Маєш право знати" щойно повідомив піар-менеджер компанії TNS **Іван Матейко**.

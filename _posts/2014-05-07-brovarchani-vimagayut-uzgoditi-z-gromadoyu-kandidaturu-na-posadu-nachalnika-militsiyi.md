@@ -15,6 +15,7 @@ tags:
   - "novini"
   - "obgovorennya"
   - "obgovorennya-kandidatur"
+coverImage: "wp-content/uploads/2014/05/Militsiya.jpg"
 ---
 
 **[![Голомша](https://mpz.brovary.org/wp-content/uploads/2014/05/Golomsha.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/05/Golomsha.jpg)Минулого тижня члени Броварської Народної Ради звернулись до новопризначеного керівника обласного управління міліції [Ярослава Голомші](http://mvs.gov.ua/mvs/control/main/uk/publish/article/1025140) з вимогою провести громадське обговорення кандидатур на посаду начальника броварського відділку. Нагадаємо, призачення Голомші також відбувалось [через проведення відкритого конкурсу та обговорення](http://mvs.gov.ua/mvs/control/main/uk/publish/article/1030497).**

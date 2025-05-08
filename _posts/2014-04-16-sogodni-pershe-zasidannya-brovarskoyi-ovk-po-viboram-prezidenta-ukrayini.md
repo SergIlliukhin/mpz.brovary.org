@@ -11,6 +11,7 @@ tags:
   - "vibori-2014"
   - "novini"
   - "ovk"
+coverImage: "wp-content/uploads/2014/04/1397077246_votes.jpg"
 ---
 
 **[![1397077246_votes](https://mpz.brovary.org/wp-content/uploads/2014/04/1397077246_votes.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/04/1397077246_votes.jpg)Сьогодні, 16 квітня о 18:00 в приміщенні Броварського центру зайнятості (вул. Кірова, 92) відбудеться перше засідання Окружної виборчої комісії з виборів Президента України по броварському виборчому округу.**

@@ -16,6 +16,7 @@ tags:
   - "novini"
   - "piket"
   - "piketuvannya"
+coverImage: "wp-content/uploads/2012/07/Bud_vlya-m_skoyi-radi-zagalniy-plan-3.jpg"
 ---
 
 **_[![Броварська міська рада](https://mpz.brovary.org/wp-content/uploads/2012/07/Bud_vlya-m_skoyi-radi-zagalniy-plan-3.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/07/Bud_vlya-m_skoyi-radi-zagalniy-plan-3.jpg)Завтра, 11 липня, о 10:00 розпочнеться  безстрокове пікетування приміщення Броварської міської ради забудовниками IV житлового району м. Бровари, яке триватиме до моменту підключення електроенергії до індивідуальних будинків і земельних ділянок забудовників. Про це "Маєш право знати" повідомив голова виробничого кооперативу "Яблуневий сад" Юрій Могильний._**

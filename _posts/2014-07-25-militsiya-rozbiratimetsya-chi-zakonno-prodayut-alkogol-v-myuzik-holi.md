@@ -13,6 +13,7 @@ tags:
   - "nezakonniy-prodazh"
   - "novini"
   - "taran"
+coverImage: "wp-content/uploads/2014/07/foto-1.jpg"
 ---
 
 **[![фото 1](https://mpz.brovary.org/wp-content/uploads/2014/07/foto-1.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/07/foto-1.jpg)Скандальне кафе «Мюзік хол» надалі продовжує [збурювати мешканців міста](https://mpz.brovary.org/krik-dushi-meshkantsiv-budinkiv-kotri-poterpayut-vid-susidstva-z-myuzik-holom/), що живуть неподалік. Гучні гулянки до ранку, крики, бійки та шум п’яних відвідувачів закладу не раз ставали причиною викликів міліції, скарг в прокуратуру, в місцеві та обласні органи влади. Однак через [впливових покровителів власника «Мюзік холу»](https://mpz.brovary.org/brovarska-sim-ya-istoriya-odniyeyi-kulturnoyi-shemi-chastina-2/), сина місцевої начальниці відділу культури «регіонали» Наталії Багмут Романа, жодних наслідків для закладу це [ніколи не спричиняло.](https://mpz.brovary.org/18-kvitnya-deputati-vimagatimut-zakrittya-myuzik-holu-video/)**

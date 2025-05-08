@@ -13,6 +13,7 @@ tags:
   - "pozachergova-sesiya"
   - "sesiya"
   - "sklikannya-sesiyi"
+coverImage: "wp-content/uploads/2014/01/372445.jpg"
 ---
 
 **[![sapozhko_ictv-300x207](https://mpz.brovary.org/wp-content/uploads/2014/01/sapozhko_ictv.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/01/sapozhko_ictv-300x207.jpg)Завтра, 22 січня, відбудеться 42-г позачергова сесії Броварської міської ради VI скликання. Про це «Маєш право знати» повідомив депутат від УДАРу Роман Сімутін, а пізніше відповідне розпорядження міського голови було опубліковане на офіційному веб-сайті міськради. Згідно [з офіційним повідомленням](http://www.brovary-rada.gov.ua/rozporyadzhennya-m%D1%96skogo-golovi-v%D1%96d-21012014-%E2%84%9605-od-pro-sklikannya-sorok-drugo%D1%97-pozachergovo%D1%97-ses%D1%96%D1%97) серед інших питань депутати голосуватимуть за бюджет міста на 2014 рік.**

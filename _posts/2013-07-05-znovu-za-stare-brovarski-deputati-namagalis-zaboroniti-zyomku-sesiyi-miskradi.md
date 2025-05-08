@@ -16,6 +16,7 @@ tags:
   - "fedorenko"
   - "tsenzura"
   - "chabur"
+coverImage: "wp-content/uploads/2013/07/Druga-seriya-.png"
 ---
 
 [![nk4](https://mpz.brovary.org/wp-content/uploads/2013/07/nk4.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/07/nk4.jpg)**Вчора, 5 липня, під час [пленарного засідання 36-ої сесії](https://mpz.brovary.org/4-lipnya-vidbudetsya-36-a-chergova-sesiya-brovarskoyi-miskoyi-radi/) броварської міської ради окремі депутати заговорили про заборону зйомки сесії журналістами «Маєш право знати».**

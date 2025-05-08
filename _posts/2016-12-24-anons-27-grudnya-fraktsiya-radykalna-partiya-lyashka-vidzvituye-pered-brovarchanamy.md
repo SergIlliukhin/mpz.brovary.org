@@ -14,6 +14,7 @@ tags:
   - "zvit-deputativ"
   - "novini"
   - "rpl"
+coverImage: "wp-content/uploads/2016/12/deputaty-1.jpg"
 ---
 
 **Ще двоє депутатів Броварської міської ради вирішили відзвітуватися перед виборцями про свою роботу. Зустріч із депутатами від "РПЛ" Вадимом Андрієвським та Вікторією Коваленко пройде в будинку побуту «Ювілейний» у вівторок, 27 грудня, о 17:00. За дивним збігом обставин цього ж дня будуть [звітуватися](https://mpz.brovary.org/anons-27-grudnya-vidzvituyutsya-deputaty-vid-fraktsiyi-yednist-ta-maksym-semenov/) ще 4 міських депутатів з фракції "Єдність" та Максим Семенов, а також фракція ["УКРОП"](https://mpz.brovary.org/anons-27-grudnya-vidbudetsya-zvit-deputativ-vid-fraktsiyi-ukrop/).**

@@ -13,6 +13,7 @@ tags:
   - "vymknennya-elektroenergiyi"
   - "novini"
   - "svitlo"
+coverImage: "wp-content/uploads/2017/07/post-451740-1284361235-e1499088365537.jpg"
 ---
 
 **На сайті Броварської міської ради оприлюднили [оголошення](http://brovary-rada.gov.ua/news/15349.html) щодо відключення електропостачання по вулиці Гагаріна у зв’язку з плановими роботами.**

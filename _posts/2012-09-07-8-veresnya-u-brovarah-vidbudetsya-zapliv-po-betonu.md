@@ -15,6 +15,7 @@ tags:
   - "kupava"
   - "novini"
   - "fedorenko"
+coverImage: "wp-content/uploads/2012/09/Kupava.jpg"
 ---
 
 ![](https://mpz.brovary.org/wp-content/uploads/2012/09/Kupava.jpg "Купава")

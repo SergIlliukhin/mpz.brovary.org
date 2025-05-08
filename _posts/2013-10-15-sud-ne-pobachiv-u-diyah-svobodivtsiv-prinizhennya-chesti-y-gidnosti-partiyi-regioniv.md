@@ -18,6 +18,7 @@ tags:
   - "sergiy-gubanov"
   - "udar"
   - "hartanovich"
+coverImage: "wp-content/uploads/2013/10/Semenyuk.jpg"
 ---
 
 \[caption id="attachment\_21705" align="alignleft" width="300"\][![Віктор Семенюк](https://mpz.brovary.org/wp-content/uploads/2013/10/Semenyuk.jpg "Віктор Семенюк")](https://mpz.brovary.org/wp-content/uploads/2013/10/Semenyuk.jpg) Віктор Семенюк\[/caption\]

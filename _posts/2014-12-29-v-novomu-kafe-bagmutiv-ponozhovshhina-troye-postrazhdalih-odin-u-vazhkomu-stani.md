@@ -11,6 +11,7 @@ tags:
   - "vahtang-mardzhamishvili"
   - "vibir-redaktsiyi"
   - "novini"
+coverImage: "wp-content/uploads/2014/12/10893402_905440092834330_254337313_n.jpg"
 ---
 
 \[caption id="attachment\_32055" align="alignleft" width="233"\][![10877645_905440086167664_2017240239_n](https://mpz.brovary.org/wp-content/uploads/2014/12/10877645_905440086167664_2017240239_n.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/12/10877645_905440086167664_2017240239_n.jpg) Підозрюваний Вахтанг Марджамішвілі\[/caption\]

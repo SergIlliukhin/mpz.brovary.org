@@ -17,6 +17,7 @@ tags:
   - "smert"
   - "stosuyetsya-kozhnogo"
   - "strum"
+coverImage: "wp-content/uploads/2016/10/stosuyetsya-kozhnogo.jpg"
 ---
 
 **Батьки та близькі 14-річного Влада Даценка невдоволені безкарністю винних у [загибелі підлітка](https://mpz.brovary.org/v-ozeri-na-pekarni-zagynula-dytyna-mozhlyvo-vdarylo-strumom-vid-zemsnaryadu/). Вони зазначають, що хлопець помер від ураження електрострумом, про що є офіційний остаточний [висновок судмедекспертизи](https://mpz.brovary.org/kerivnyk-kp-brovary-blagoustrij-hlopchyka-na-ozeri-vtopyly-dity-elektrostrum-vid-zemsnaryada-ni-chogo-video/). Тим часом, представники міської влади продовжують наполягати: хлопець не міг загинути від струму. Втім, зазначають, що деякі висновки зробили: треба було ставити більше табличок про заборону купатися та, можливо, встановлювати паркан довкола водойми у парку «Приозерному». Про це йшлося у нещодавньому випуску програми «Стосується кожного» на телеканалі «Інтер».**

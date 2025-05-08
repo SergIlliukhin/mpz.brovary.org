@@ -10,6 +10,7 @@ tags:
   - "novini"
   - "obitsyanki"
   - "fedorenko"
+coverImage: "wp-content/uploads/2012/05/Dityachiy-maydanchik-Brovari.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/05/Dityachiy-maydanchik-Brovari.jpg "Дитячий майданчик (Бровари)")](https://mpz.brovary.org/wp-content/uploads/2012/05/Dityachiy-maydanchik-Brovari.jpg)В останньому [випуску](http://docs.pravo-znaty.org.ua/p1636/24.05.2012 "Броварська Панорама") "Броварської панорами" (№26) вийшла стаття з промовистою назвою ["Акція "Дитячий майданчик"](http://docs.pravo-znaty.org.ua/p1643/25.05.2012 "Акція Дитячий Майданчик"). Стаття присвячена Сергію Федоренку - керівнику броварської Партії Регіонів. ГО "Наше майбутнє", яке він очолює, вирішила зробити дитячі майданчики на 5 подвір'ях Броварів: бул.Незалежності, 15, бул.Незалежності, 11, вул.Черняхівського, 15, бул.Незалежності, 16-А, вул.Черняхівського, 18/1.

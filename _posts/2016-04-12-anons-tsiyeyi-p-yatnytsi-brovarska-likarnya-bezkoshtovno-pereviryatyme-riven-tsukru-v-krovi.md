@@ -15,6 +15,7 @@ tags:
   - "likarnya"
   - "novini"
   - "tsukor"
+coverImage: "wp-content/uploads/2016/04/nizkij-riven-cukru-v-krovi.jpg"
 ---
 
 **15 квітня Броварська центральна районна лікарня організовує «день діабету». Цього дня охочі зможуть безкоштовно перевірити рівень глюкози у крові. Про це [йдеться](https://www.facebook.com/BROVARYCRL/posts/945370155577488) на сторінці лікарні у Фейсбуку.**

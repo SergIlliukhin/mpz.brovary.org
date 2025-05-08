@@ -12,6 +12,7 @@ tags:
   - "novini"
   - "sesiya"
   - "sklikannya-sesiyi"
+coverImage: "wp-content/uploads/2012/08/gerb-Brovari.jpg"
 ---
 
 [![герб Бровари зменшена](https://mpz.brovary.org/wp-content/uploads/2012/10/gerb-Brovari-zmenshena1.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/10/gerb-Brovari-zmenshena1.jpg)**21 лютого 2013 року о 14-й годині в приміщенні малої зали броварського міськвиконкому за адресою: вул. Гагаріна, 15 відбудеться тридцята чергова сесія Броварської міської ради VІ скликання. Про це сказано у [розпорядженні міського голови №10-ОД від 21 січня 2013 року](http://docs.pravo-znaty.org.ua/p6581/24.01.2013/10), оприлюдненому на офіційному веб-сайті Броварської міської ради.**

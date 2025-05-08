@@ -16,6 +16,7 @@ tags:
   - "okrug-97"
   - "rizanenko"
   - "chas-kiyivshhini"
+coverImage: "wp-content/uploads/2012/10/Teleefir.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/10/Teleefir.jpg "Телеефір")](https://mpz.brovary.org/wp-content/uploads/2012/10/Teleefir.jpg)Згідно з розкладом ефірного часу, [визначеного ЦВК](http://www.cvk.gov.ua/pls/vnd2012/WP010?PT001F01=900&pf7331=97), з 12 по 17 жовтня кандидати виборчого округу № 97 мають по 20 хвилин ефіру  для проведення передвиборної агітації на телеканалі "КДРТ" ("[Київська державна регіональна телерадіокомпанія](http://kdrtrk-tv.com.ua/On-line.html)").

@@ -14,6 +14,7 @@ tags:
   - "vyrubuvannya-lisu"
   - "vul-symonenka"
   - "novini"
+coverImage: "wp-content/uploads/2017/02/16730259_802892616560183_689429811530297101_n.jpg"
 ---
 
 **Пасивність мешканців Броварів обернулася знищенням частини лісу:  50-літні сосни на вул. Симоненка, які міські чиновники [назвали](http://save.brovary.org/akt-obstezhennya-dilyanky-2007-rik-derev-ne-znajshly/) «чагарниками», забудовник "Альянс Новобуд" усе ж таки спиляв, щоб на їхньому місці згодом з’явилася чергова багатоповерхівка. Незважаючи на [протести](https://mpz.brovary.org/brovarchany-protestuyut-proty-budivnytstva-na-symonenka-chornovola-znesly-ogorozhu-foto/) частини громади, справа зроблена. Увечері 16 лютого поліція лише підрахує кількість спиляних сосен.**   

@@ -8,6 +8,7 @@ categories:
   - "rozsliduvannya"
 tags: 
   - "vibir-redaktsiyi"
+coverImage: "wp-content/uploads/2014/05/1397415.jpg"
 ---
 
 **[![2014-04-24-Separatuzm](https://mpz.brovary.org/wp-content/uploads/2014/05/2014-04-24-Separatuzm.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/05/2014-04-24-Separatuzm.jpg)Декілька знакових подій, які повз увагу пропустила більшість броварчан, вже днями можуть мати трагічні наслідки для всього міста.**

@@ -12,6 +12,7 @@ tags:
   - "programa-svyatkuvannya"
   - "rozporyadzhennya-miskogo-golovi"
   - "yarmarok"
+coverImage: "wp-content/uploads/2013/08/Z-Dnem-Nezalezhnosti-21.jpg"
 ---
 
 [![Z-Dnem-Nezalezhnosti-2](https://mpz.brovary.org/wp-content/uploads/2013/08/Z-Dnem-Nezalezhnosti-21.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/08/Z-Dnem-Nezalezhnosti-21.jpg)**Цього року броварські чиновники вирішили відзначити найголовніше державне свято - День Незалежності України - у вельми скромний та навіть прагматичний спосіб. Вранці жителям Броварів пропонують скупитись на "святковому" [ярмарку продовольчих та промислових товарів](http://docs.pravo-znaty.org.ua/p8721/19.08.2013/132), який відбудеться на бульварі Незалежності, пограти в настільний теніс на Майдані Свободи та пограти у шахи у парку "Перемога", а ввечері броварчан запрошують послухати художні колективи міста на літній естраді.**

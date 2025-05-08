@@ -16,6 +16,7 @@ tags:
   - "predstavlennya"
   - "prezentatsiya"
   - "systema"
+coverImage: "wp-content/uploads/2016/04/649815-12-22-13-16-37-271.jpg"
 ---
 
 **28 квітня, у малій залі броварського виконкому декілька компаній представлятимуть системи електронного голосування для депутатів. Про це [повідомив](https://www.facebook.com/groups/brovary/permalink/1249023308460966/?hc_location=ufi) броварський обранець Олег Берестовий.**

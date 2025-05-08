@@ -14,6 +14,7 @@ tags:
   - "rishennya-vikonkomu"
   - "sud"
   - "suddya-bilik"
+coverImage: "wp-content/uploads/2012/11/Sud-na-Nezalezhnosti-2-viviska-3.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/11/Sud-na-Nezalezhnosti-2-viviska-3.jpg "Суд на Незалежності 2 вивіска 3")](https://mpz.brovary.org/wp-content/uploads/2012/11/Sud-na-Nezalezhnosti-2-viviska-3.jpg)Вчора у Броварському міськрайонному суді мав відбутись розгляд позову **Сергія Іллюхіна** проти місцевого виконкому про визнання дій останнього протиправними та скасування рішення № 394 "[Про визначення місця у місті Бровари для проведення зборів, мітингів, демонстрацій](http://docs.pravo-znaty.org.ua/p3930/21.08.2012/394)".

@@ -13,6 +13,7 @@ tags:
   - "viddil-kulturi"
   - "vibir-redaktsiyi"
   - "novini"
+coverImage: "wp-content/uploads/2016/12/Inna-Viktorivna-Savchenko-1.jpg"
 ---
 
 **Вчора заступник міського голови Григорій Голубовський [заявив](https://mpz.brovary.org/ochilnytseyu-viddilu-kultury-brovariv-stala-inna-savchenko/), що за результатами конкурсу на заміщення вакансії начальника відділу культури перемогу отримала Інна Савченко. Сьогодні ж відбулася співбесіда у міського голови з двома претендентками на цю посаду - Інною Савченко та Катериною Меліковою - для остаточного визначення кандидатури.**

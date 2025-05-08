@@ -17,6 +17,7 @@ tags:
   - "zayava"
   - "novini"
   - "skladannya-povnovazhen"
+coverImage: "wp-content/uploads/2016/10/alina-1.jpg"
 ---
 
 **Голова фракції ДемАльянсу в Броварській міській раді Аліна Дяченко заявила про складання повноважень депутата та голови броварського осередку парті. Про це вона повідомила на [своїй сторінці](https://www.facebook.com/alina.dyachenko/posts/1315780098446104) в FB, а також у [блозі](https://mpz.brovary.org/ya-ne-zalyshayu-ridne-misto-nazavzhdy/) на "Маєш право знати".**

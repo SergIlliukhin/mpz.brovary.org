@@ -14,6 +14,7 @@ tags:
   - "kuzik"
   - "mandat"
   - "novini"
+coverImage: "wp-content/uploads/2014/06/kuzyk.jpg"
 ---
 
 \[caption id="attachment\_27084" align="alignleft" width="300"\][![Петро Кузик](https://mpz.brovary.org/wp-content/uploads/2014/06/139.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/06/139.jpg) Петро Кузик\[/caption\]

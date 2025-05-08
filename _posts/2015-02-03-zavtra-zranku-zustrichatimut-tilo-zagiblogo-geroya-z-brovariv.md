@@ -14,6 +14,7 @@ tags:
   - "dmitro-yanchenko"
   - "zagibliy"
   - "novini"
+coverImage: "wp-content/uploads/2015/02/8AASKcJeWgc.jpg"
 ---
 
 [![9bMx_Dkm5dU](https://mpz.brovary.org/wp-content/uploads/2015/02/9bMx_Dkm5dU.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/02/9bMx_Dkm5dU.jpg)**Завтра, 4 лютого, до Броварів з Артемівська прибуде тіло броварчанина Дмитра Янченка, який загинув сьогодні в результаті мінометного обстрілу позицій українських військ під Дебальцевим.**

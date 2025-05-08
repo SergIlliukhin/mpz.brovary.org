@@ -11,6 +11,7 @@ tags:
   - "podatkova"
   - "rozshuk"
   - "chepura"
+coverImage: "wp-content/uploads/2012/12/4epura_rozsh11.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/12/4epura_rozsh.jpg "4epura_rozsh")](https://mpz.brovary.org/wp-content/uploads/2012/12/4epura_rozsh.jpg)Журналістам «Маєш право знати» стало відомо, що головний фігурант [резонансних інцидентів](https://mpz.brovary.org/napadniki-na-lyudey-pid-chas-vizitu-azarova-zaslugovuyut-prinaymni-na-publichniy-osud-foto-video/) під час візиту до Броварів Миколи Азарова перебуває в розшуку. Павла Чепуру, котрий [розбив журналістам знімальну техніку](http://www.youtube.com/watch?v=-9qmLAiHtV0), розшукують херсонські правоохоронці за скоєння ще одного злочину.

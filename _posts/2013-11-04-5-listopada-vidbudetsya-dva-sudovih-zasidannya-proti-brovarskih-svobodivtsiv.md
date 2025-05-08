@@ -16,6 +16,7 @@ tags:
   - "peresliduvannya-zahisnikiv-parku"
   - "sud"
   - "huliganstvo"
+coverImage: "wp-content/uploads/2013/06/Svoboda.jpg"
 ---
 
 **[![Свобода](https://mpz.brovary.org/wp-content/uploads/2013/06/Svoboda.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/06/Svoboda.jpg)Завтра, 5 листопада, у Броварському міськрайонному суді  відбудеться два засідання проти активістів ВО "Свобода". Очільники [районного осередку партії](http://www.facebook.com/pages/%D0%91%D1%80%D0%BE%D0%B2%D0%B0%D1%80%D1%81%D1%8C%D0%BA%D0%B0-%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D0%BD%D0%B0-%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D1%96%D0%B7%D0%B0%D1%86%D1%96%D1%8F-%D0%92%D0%9E%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%B0/530160797037763) закликають небайдужих громадян прийти та підтримати підсудних. Про це вони [повідомляють](http://www.facebook.com/events/559693224085756/) у соціальних мережах та запрошують на акцію, яка розпочнеться о 9:00.**

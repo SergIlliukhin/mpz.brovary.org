@@ -13,6 +13,7 @@ tags:
   - "onlajn-petytsiyi"
   - "osvitlennya"
   - "perehody"
+coverImage: "wp-content/uploads/2016/01/perehody.jpg"
 ---
 
 **Броварські депутати планують офіційно розглянути першу Інтернет-петицію від громадян**

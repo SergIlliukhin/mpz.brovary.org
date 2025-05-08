@@ -13,6 +13,7 @@ tags:
   - "myuzik-holl"
   - "novini"
   - "sapozhko"
+coverImage: "wp-content/uploads/2014/08/myuzik-hol1411.jpg"
 ---
 
 **[![myuzik-hol141](https://mpz.brovary.org/wp-content/uploads/2014/08/myuzik-hol1411.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/08/myuzik-hol1411.jpg)На черговому засіданні міськвиконкому, що відбулось 5 серпня, ключовим питанням для розгляду виявилась ситуація зі скандальним кафе «Мюзік-Хол», що розташоване в МКЦ «Прометей» та належить родині місцевої депутатки від Партії регіонів Наталії Багмут.**

@@ -13,6 +13,7 @@ tags:
   - "vibir-redaktsiyi"
   - "den-gollandiyi-u-brovarah"
   - "novini"
+coverImage: "wp-content/uploads/2015/10/gollandiya-zeelandia-5.jpg"
 ---
 
 **У цю суботу, 10 жовтня з 10-ї ранку у міському парку "Перемога" відбувалася благодійно-розважальна подія [“День Голландії у Броварах”](https://mpz.brovary.org/anons-10-zhovtnya-den-golandiyi-u-brovarah/). Організатором виступила компанія Zeelandia, а споносорами  - 10 броварських підприємств. Зібрані кошти обіцяють віддати на потреби школи для дітей з особливими потребами "Мозаїка".**

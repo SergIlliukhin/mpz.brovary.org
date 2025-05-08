@@ -19,6 +19,7 @@ tags:
   - "pogrebi"
   - "stop-koruptsiyi"
   - "stop-koruptsiya"
+coverImage: "wp-content/uploads/2017/06/Stop-koruptsiyi-aktsiya-piketuvannya-Kyshhuk-1.jpg"
 ---
 
 **Депутат Київської обласної ради від ВО «Батьківщина» Олег Кищук «кришує» інтереси піщаних нелегалів і хоче захопити під видобуток землю на березі Десни. Такі** **[звинувачення](http://stopcor.org/stopkor-piketuye-meriyu-brovariv-cherez-sprobu-psevdoantikoruptsionera-kishhuka-zahopiti-zemlyu-na-kiyivshhini-pid-nezakonniy-vidobutok-pisku/)** **озвучив портал «Стоп корупції», передачі якого [виходять](http://www.5.ua/programy/stop-koruptsii-42.html) на «5 каналі». Водночас, в організації політика такі закиди спростовують і називають їх помстою.**

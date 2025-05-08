@@ -11,6 +11,7 @@ tags:
   - "brovarskiy-narodniy-kontrol"
   - "lyustratsiya"
   - "narodniy-kontrol"
+coverImage: "wp-content/uploads/2014/12/Lyustratsiya-narodna-300.jpg"
 ---
 
 **[![Люстрація-народна-300](https://mpz.brovary.org/wp-content/uploads/2014/12/Lyustratsiya-narodna-300.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/12/Lyustratsiya-narodna-300.jpg)Закон України «Про очищення влади» - більш відомий  у народі як Закон про Люстрацію -  був прийнятий ще на початку цієї осені.** **Керівництво держави у випусках новин майже щодня доповідає про те, скільки чиновників було звільнено. Однак часто складається враження, що люстраційні процеси майже оминули Бровари, адже більшість чиновників часів Януковича досі зберігають за собою посади.**

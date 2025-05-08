@@ -9,6 +9,7 @@ categories:
 tags: 
   - "kultura"
   - "mkts-prometey"
+coverImage: "wp-content/uploads/2015/04/IMAG0802.jpg"
 ---
 
 [![IMAG0774](https://mpz.brovary.org/wp-content/uploads/2015/04/IMAG0774.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/04/IMAG0774.jpg)**Особисто для мене МКЦ «Прометей» завжди вважався другим центром міста. А спостерігаючи за тим, як він видозмінюється останнім часом, мимохідь хвилюєшся за наше культурне майбутнє.**

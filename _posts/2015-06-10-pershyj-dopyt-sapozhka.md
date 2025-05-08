@@ -10,6 +10,7 @@ tags:
   - "antimaydan"
   - "dopyt"
   - "sapozhko"
+coverImage: "wp-content/uploads/2015/06/dopyt1.jpg"
 ---
 
 **Як я вже писав у [попередньому своєму дописі](https://mpz.brovary.org/brovarskogo-suddyu-suditimut-za-represiyi-aktivistiv/), відплата броварським чиновникам за репресій проти Майдану та підтримку окупаційного режиму починає набувати  окресленого характеру.**

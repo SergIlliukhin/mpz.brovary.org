@@ -14,6 +14,7 @@ tags:
   - "zakordonniy-pasport"
   - "pasport"
   - "pasportniy-stil"
+coverImage: "wp-content/uploads/2012/07/zakordonniy-pasport.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/07/zakordonniy-pasport.jpg "закордонний паспорт")](https://mpz.brovary.org/wp-content/uploads/2012/07/zakordonniy-pasport.jpg)Під час написання розслідування "**[Обов’язкова необов’язковість: за що не потрібно платити при оформленні закордонного паспорта](https://mpz.brovary.org/dovidka-pro-vidsutnist-sudimosti-mif-chi-realnist/)"** я була щиро впевнена, що оскільки довідка про відсутність судимості законом не вимагається і оскільки без неї у мене двічі (спочатку у броварському паспортному столі, а потім в обласному) прийняли документи, то свій новенький закордонний паспорт я отримаю без жодних проблем та перешкод через місяць-півтора після [подання документів](https://mpz.brovary.org/zakordonny-pasport-brovary-instrukciya/). Проте не так сталося, як гадалося... Та "перешкода" вивилась досить легко здоланною!

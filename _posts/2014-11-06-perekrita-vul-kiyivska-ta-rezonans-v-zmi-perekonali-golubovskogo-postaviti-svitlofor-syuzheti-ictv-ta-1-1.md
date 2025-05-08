@@ -11,6 +11,7 @@ tags:
   - "golubovskyj"
   - "novini"
   - "perekrittya-vulitsi"
+coverImage: "wp-content/uploads/2014/11/golub.jpg"
 ---
 
 **[![qXkd2h4KA-o](https://mpz.brovary.org/wp-content/uploads/2014/11/qXkd2h4KA-o.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/11/qXkd2h4KA-o.jpg)1 листопада мешканці багатоповерхівок в районі ТРЦ "Термінал" та "Ринку на Київській" [перекрили найдовшу вулицю Броварів](https://www.facebook.com/pravo.znaty.brovary/posts/677983768976539) - вул. Київську - з вимогою зробити  на цій ділянці дороги безпечний пішохідний перехід. Ця частина магістральної вулиці особливо небезпечна: кількість ДТП тут зашкалює й дуже часто вони закінчуються летальними наслідками для пішоходів, - заявляють активісти.**

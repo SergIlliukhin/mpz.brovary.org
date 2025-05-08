@@ -12,6 +12,7 @@ tags:
   - "novini"
   - "ozdorovchi-poslugi"
   - "fitnes"
+coverImage: "wp-content/uploads/2014/07/Fitnesbum-4.jpg"
 ---
 
 **[![Фітнесбум 4](https://mpz.brovary.org/wp-content/uploads/2014/07/Fitnesbum-4.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/07/Fitnesbum-4.jpg)Щосуботи протягом літа на центральній площі міста Бровари - Майдані Свободи - проходитимуть безкоштовні заняття з фітнесу. З такою соціальною ініціативою виступила одна з броварських компаній, що працює у сфері надання оздоровчих послуг.**

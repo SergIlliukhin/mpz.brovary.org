@@ -12,6 +12,7 @@ tags:
   - "den-mista"
   - "zaborona-prodazhu-alkogolyu"
   - "novini"
+coverImage: "wp-content/uploads/2015/06/Antyalkogolnyj-rejd_Image00080.jpg"
 ---
 
 **Броварський міськвиконком прийняв рішення про заборону реалізації алкогольних напоїв під час святкування Дня міста. Про це зазначається у [рішенні](http://brovary-rada.gov.ua/documents/24440.html) виконавчого комітету, опублікованому на сайті Броварської міськради.**

@@ -13,6 +13,7 @@ tags:
   - "oleg-kishhuk"
   - "parlamentski-vibori-2014"
   - "tehnichni-kandidati"
+coverImage: "wp-content/uploads/2012/08/bagato-kandidativ-.jpg"
 ---
 
 **[![багато кандидатів+](https://mpz.brovary.org/wp-content/uploads/2012/08/bagato-kandidativ-.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/08/bagato-kandidativ-.jpg)Отже, шахова дошка мажоритарного округу №97 фактично відкрита. Серед зареєстрованих в ЦВК фігур особливу увагу привертають [молоді кандидати](https://mpz.brovary.org/u-brovarskomu-viborchomu-okruzi-tsvk-zarayestruvala-shhe-5-kandidativ/), яким лише нещодавно "перевалило" за 20. Після побіжного аналізу їх аккаунтів в соцмережах та програм, опублікованих на сайті ЦВК, складається враження, що перед нами класичні технічні кандидати.**

@@ -13,6 +13,7 @@ tags:
   - "kp-brovariteplovodoenergiya"
   - "novini"
   - "teplovodoenergiya"
+coverImage: "wp-content/uploads/2013/10/Ochistka-vodi.jpg"
 ---
 
 **[![Гіпохлорит](https://mpz.brovary.org/wp-content/uploads/2013/10/Gipohlorit.png)](https://mpz.brovary.org/wp-content/uploads/2013/10/Gipohlorit.png)У нашому місті змінено технологію знезараження питної води: замість використання хлору у в міській водомережі застосовуватимуть гіпохлорит натрію. Про це йдеться у [повідомленні](http://brovary-rada.gov.ua/zam%D1%96st-khloru-g%D1%96pokhlorit-natr%D1%96yu), опублікованому на офіційному веб-сайті Броварської міської ради від 25 жовтня.**

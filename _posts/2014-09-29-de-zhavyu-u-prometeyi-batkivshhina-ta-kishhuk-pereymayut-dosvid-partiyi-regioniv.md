@@ -22,6 +22,7 @@ tags:
   - "titushki"
   - "tsvk"
   - "tsentralna-viborcha-komisiya"
+coverImage: "wp-content/uploads/2014/09/Bez-imeni.jpg"
 ---
 
 **_[![фото (2)](https://mpz.brovary.org/wp-content/uploads/2014/09/foto-2.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/09/foto-2.jpg)Регіонал – це не лише членство в партії Януковича. Регіонал – це стан душі._**

@@ -11,6 +11,7 @@ tags:
   - "brovary"
   - "novini"
   - "sesiya"
+coverImage: "wp-content/uploads/2016/01/2042.jpg"
 ---
 
 **У вівторок, 12 січня об 11:30 в малій залі виконавчого комітету відбудеться п’ята позачергова сесія Броварської міської ради VII скликання. Про це [йдеться у розпорядженні](http://www.brovary.kiev.ua/rozporyadzhennya-m%D1%96skogo-golovi-v%D1%96d-11012016-%E2%84%9602-od-pro-sklikannya-p%E2%80%99yato%D1%97-pozachergovo%D1%97-ses%D1%96%D1%97-brova) міського голови Ігоря Сапожка, опублікованому сьогодні на офіційному сайті міськради.**

@@ -6,6 +6,7 @@ author:
   display_name: "Андрій Качор"
 categories: 
   - "kolonka-avtora"
+coverImage: "wp-content/uploads/2012/07/kachor.jpg"
 ---
 
 6+1 поверхових висновків у перші години після виборів. <!--more-->

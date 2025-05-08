@@ -14,6 +14,7 @@ tags:
   - "likvidatsiya"
   - "nashe-misto"
   - "telestudiya"
+coverImage: "wp-content/uploads/2014/02/Ekta.jpg"
 ---
 
 **[![Екта](https://mpz.brovary.org/wp-content/uploads/2014/02/Ekta.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/02/Ekta.jpg)Останнім часом, а особливо - після появи [новини про ліквідацію комунальної телестудії «Наше місто»](https://mpz.brovary.org/operatsiya-likvidatsiya-brovarski-deputati-hochut-lishiti-misto-bez-telebachennya/) мене все частіше запитують: «Що ж ми тепер будемо робити без телебачення? Невже 100-тисячне місто залишиться без свого каналу?» При чому питають усі – просто знайомі, учасники акцій протесту, громадські діячі, депутати, підприємці. Більшість з них не дивились «ЕКТУ», але вони знали, що вона є, а тепер от переполошились – як же ми тепер, без неї?...**

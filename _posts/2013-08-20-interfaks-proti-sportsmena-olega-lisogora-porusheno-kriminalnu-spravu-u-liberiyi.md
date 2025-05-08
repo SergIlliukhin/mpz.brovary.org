@@ -11,6 +11,7 @@ tags:
   - "lisogor"
   - "novini"
   - "plavannya"
+coverImage: "wp-content/uploads/2013/08/lisogor.jpg"
 ---
 
 **[![лісогор](https://mpz.brovary.org/wp-content/uploads/2013/08/lisogor.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/08/lisogor.jpg)Чемпіон світу з плавання Олег Лісогор підтвердив порушення проти нього в Ліберії кримінальної справи за підозрою в насильницькому утриманні людини, [повідомляє](http://ua.interfax.com.ua/news/general/164766.html) інформаційне агентство "Інтерфакс-Україна" з посиланням на МЗС.**

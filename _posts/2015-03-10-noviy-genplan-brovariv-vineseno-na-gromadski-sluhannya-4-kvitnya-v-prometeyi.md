@@ -12,6 +12,7 @@ tags:
   - "vibir-redaktsiyi"
   - "genplan-brovariv"
   - "novini"
+coverImage: "wp-content/uploads/2015/03/genplan-05.jpg"
 ---
 
 **[![генплан 07](https://mpz.brovary.org/wp-content/uploads/2015/03/genplan-07.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/03/genplan-07.jpg)Новий Генеральний план міста Бровари нарешті винесено на громадські слухання. Такий результат дало [нещодавне пікетування](https://mpz.brovary.org/genplan-dlya-brovarchan-gromada-mista-zmusila-sapozhka-znyati-punkt-z-sesiyi-ta-provesti-sluhannya/) сесії Броварської міської ради громадськими активістами та небайдужими мешканцями міста. Під тиском протестувальників питання про затвердження проекту нового генплану міста було знято з порядку денного засідання. І вже за кілька годин мер Броварів виконав й другу вимогу активістів - щодо проведення громадських слухань.**

@@ -17,6 +17,7 @@ tags:
   - "mediki"
   - "novini"
   - "ohorona"
+coverImage: "wp-content/uploads/2016/12/Security-ohorona-ohorontsi-bezpeka-ratsiya.jpg"
 ---
 
 **У дитячій і дорослій лікарнях спокій медиків і пацієнтів тепер берегтимуть працівники приватної служби охорони [«Комкон»](https://mpz.brovary.org/politsiya-lovyla-p-yanyh-vodiyiv-na-brovarshhyni-a-pijmala-avtivku-komkon-video/). Договір про це уклали на грудень 2016 року. Однак, в лікарні сподіваються, що охорона працюватиме й у подальшому. Про таке нашим журналістам розповів Валентин Багнюк, головний лікар Броварської центральної районної лікарні.**

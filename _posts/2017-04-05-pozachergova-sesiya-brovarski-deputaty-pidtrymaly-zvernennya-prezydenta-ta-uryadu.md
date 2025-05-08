@@ -14,6 +14,7 @@ tags:
   - "deputaty-miskrady"
   - "zvernennya"
   - "novini"
+coverImage: "wp-content/uploads/2017/04/5-1.jpg"
 ---
 
 **3 квітня депутати Броварської міськради зібралися на [27-му](https://mpz.brovary.org/anons-3-kvitnya-vidbudetsya-27-ma-pozachergova-sesiya-brovarskoyi-miskrady/)** **позачергов****у**  **сес****ію****,** **аби висловити своє невдоволення діями Президента та Уряду**. **На розгляд депутатів було винесено 2 питання, але додалося ще 3, два з яких об’єднали за темою.**

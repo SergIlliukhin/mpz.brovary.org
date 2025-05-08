@@ -14,6 +14,7 @@ tags:
   - "prava-spozhivacha"
   - "spozhivach-maye-pravo"
   - "yakist-tovaru"
+coverImage: "wp-content/uploads/2012/11/Spozhivach-maye-pravo.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/11/Spozhivach-maye-pravo.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/11/Spozhivach-maye-pravo.jpg)В коментарі до нашої публікації **["Споживач має право": як замінити або повернути кошти за товар неналежної якості"](https://mpz.brovary.org/spozhivach-maye-pravo-yak-zaminiti-abo-povernuti-koshti-za-tovar-nenalezhnoyi-yakosti/ "Як замінити або повернути кошти за товар неналежної якості")** читач запитав:

@@ -22,6 +22,7 @@ tags:
   - "rotatsiya"
   - "sirotyuk"
   - "front"
+coverImage: "wp-content/uploads/2015/03/11030788_949934378384901_2041115470_o.jpg"
 ---
 
 **[![11030788_949934378384901_2041115470_o](https://mpz.brovary.org/wp-content/uploads/2015/03/11030788_949934378384901_2041115470_o.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/03/11030788_949934378384901_2041115470_o.jpg)Лірично-бойове музичне відео наших журналістів Тараса Шако та Андрія Качора з Пісків - безпосередньо з окопів та зони бойових дій, де утримують українські позиції броварчани добровольчої чоти батальйону "Карпатська Січ". Дякуємо за поширення! Детальний репортаж - [за цим посиланням.](https://mpz.brovary.org/brovarski-sichoviki-prodovzhuyut-trimati-edelveys-v-garyachih-piskah-donbasu/)**

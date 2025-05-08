@@ -12,6 +12,7 @@ tags:
   - "simutin"
   - "sapozhko"
   - "sekretar"
+coverImage: "wp-content/uploads/2014/03/narodna-rada_simutin02.jpg"
 ---
 
 **[![народна рада_сімутін09](https://mpz.brovary.org/wp-content/uploads/2014/03/narodna-rada_simutin09.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/03/narodna-rada_simutin09.jpg)Після [зустрічей 17 березня з міським головою](https://mpz.brovary.org/sapozhko-narodna-rada-i-pidpriyemtsi-pogovorili-pro-politichnu-krizu-v-brovarah/) Ігорем Сапожком та місцевими підприємцями, Броварська Народна Рада визначилась з новою кандидатурою на посаду секретаря міської ради. Як відомо, Юрія Плаксю, раніше підтриманого громадським активом, різко розкритикували депутати більшості та підприємці. На  тригодинному засіданні члени Народної ради вирішили запропонувати на пост секретаря депутата від «УДАРу» Романа Сімутіна. На круглому столі в Сапожка підприємці та присутні депутати від влади не заперечували проти кандидатури «ударівця».**

@@ -15,6 +15,7 @@ tags:
   - "kachor"
   - "logovchenko"
   - "novini"
+coverImage: "wp-content/uploads/2012/04/rada1.jpg"
 ---
 
 ![](https://mpz.brovary.org/wp-content/uploads/2012/04/rada1.jpg)[Довгоочікуване засідання](https://mpz.brovary.org/taka-gromadska-rada-vladi-ne-potribn/) громадської ради при виконавчому комітеті Броварської міської ради, яке відбулось 15 березня, перетворилось на фарс та бутафорію. Принаймні так вважають найбільш активні члени Громради, котрі розробили більшість проектів рішень з-поміж інших членів органу.

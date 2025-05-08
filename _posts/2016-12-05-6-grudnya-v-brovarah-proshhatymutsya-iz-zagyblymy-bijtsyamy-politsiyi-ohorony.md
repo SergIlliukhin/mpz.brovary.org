@@ -19,6 +19,7 @@ tags:
   - "proshhannya"
   - "smert"
   - "tilo"
+coverImage: "wp-content/uploads/2016/12/svicha-skorbota-pamyat-pomynannya.jpg"
 ---
 
 **Завтра віддадуть останню шану двом бійцям поліції охорони, які загинули під час недільної [перестрілки](https://mpz.brovary.org/v-perestriltsi-pid-brovaramy-zagynulo-5-politsejskyh-dvoye-z-nyh-brovarchany/) в Княжичах. Про це розповів близький до родини одного із убитих правоохоронців, броварський депутат Сергій Батюк.**

@@ -13,6 +13,7 @@ tags:
   - "skochko"
   - "sud"
   - "telepenko"
+coverImage: "wp-content/uploads/2012/07/Suddya-Telepenko.jpg"
 ---
 
 **[![](https://mpz.brovary.org/wp-content/uploads/2012/07/Suddya-Telepenko.jpg "Суддя Телепенько")](https://mpz.brovary.org/wp-content/uploads/2012/07/Suddya-Telepenko.jpg)**Сьогодні Броварський міськрайонний суд виніс рішення у [справі про доступ до публічної інформації](https://mpz.brovary.org/brovarskiy-sud-prodovzhit-rozglyadati-spravu-po-podstupu-do-publichnoyi-informatsiyi/), яким визнав [відмову Броварської міської ради](https://mpz.brovary.org/brovarskih-chinovnikiv-suditimut-za-vidmovu-nadati-informatsiyu/) у задоволенні запиту на інформацію Сергія Іллюхіна протиправною. Тим самим суд спростував "аргументацію" юриста виконкому Олександра Прилєпка про те, що "запитувач має вказувати у запиті, що йому не відомо те, що йому не відомо" і "сторона позивача не вміє читати коми у законах". Відтак активіст "Маєш право знати" у судовому порядку довів, що його запит на інформацію відповідає усім вимогам закону "Про доступ до публічної інформації", а відтак має бути розглянутий і задоволений.

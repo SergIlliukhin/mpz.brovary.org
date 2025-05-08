@@ -11,6 +11,7 @@ tags:
   - "novini"
   - "oleksandr-ostapkovich"
   - "polon"
+coverImage: "wp-content/uploads/2015/05/Poloneniy.png"
 ---
 
 **[![Полонений](https://mpz.brovary.org/wp-content/uploads/2015/05/Poloneniy.png)](https://mpz.brovary.org/wp-content/uploads/2015/05/Poloneniy.png)55-річному добровольцю з Броварів вдалося втекти від ворогів, які погрожували жорстоко з ним розправитися. Три тижні бійця 11-го батальйону укривали місцеві жителі, а потім організували його відправку до Києва, повідомляють ["Факти"](http://fakty.ua/200203-aleksandr-ostapkovich-vse-pyat-mesyacev-plena-ya-budto-v-mogile-byl-menya-ne-sucshestvovalo).**

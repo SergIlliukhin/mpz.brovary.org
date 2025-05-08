@@ -11,6 +11,7 @@ tags:
   - "napad-na-zhurnalistiv"
   - "novini"
   - "chornovol"
+coverImage: "wp-content/uploads/2013/12/Avtomobil.jpg"
 ---
 
 [![Автомобіль](https://mpz.brovary.org/wp-content/uploads/2013/12/Avtomobil.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/12/Avtomobil.jpg)**Вчора ввечері у Броварах знайшли автомобіль, на якому пересувалися зловмисники, які напередодні [напали на журналістку Тетяну Чорновол](https://mpz.brovary.org/mi-obureni-pobittyam-zhurnalistki-tetyani-chornovol-ta-vimagayemo-spravedlivosti/) на трасі біля Борисполя. Про це [у своєму фейсбуку повідомив](http://www.facebook.com/andriy.kachor/posts/710889818934631) броварський журналіст та громадський активіст Андрій Качор. Також він розмістив фото і відео знайденого автомобіля.**

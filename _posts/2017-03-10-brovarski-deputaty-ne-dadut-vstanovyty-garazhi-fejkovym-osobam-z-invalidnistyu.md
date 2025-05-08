@@ -13,6 +13,7 @@ tags:
   - "deputaty-miskrady"
   - "zemelna-komisiya"
   - "novini"
+coverImage: "wp-content/uploads/2017/03/Avto.jpg"
 ---
 
 **Сьогодні, 10 березня, на засіданні земельної комісії броварські депутати серед інших розглядали питання надання громадянам земельних ділянок в оренду для встановлення гаражів. З огляду на кампанію по [знесенню гаражів](https://mpz.brovary.org/garazhnyj-konflikt-memorandum-pro-porozuminnya-spodivayutsya-pidpysaty-vzhe-10-bereznya/) у місті, обранці засумнівалися в намірах громадян, які подали заяви, та вирішили відділити справжніх інвалідів від "підробних".**

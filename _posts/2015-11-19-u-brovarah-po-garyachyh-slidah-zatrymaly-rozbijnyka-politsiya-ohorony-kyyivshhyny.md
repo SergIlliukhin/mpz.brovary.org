@@ -14,6 +14,7 @@ tags:
   - "politsiya"
   - "politsiya-ohorony"
   - "rozbij"
+coverImage: "wp-content/uploads/2015/11/1418141029_15388.jpg"
 ---
 
 **Учора, близько 23:00, правоохоронці** **затримали мешканця Броварів, якого підозрюють у нанесенні тілесних ушкоджень і грабежі. Про це [йдеться](https://www.dso.gov.ua/novini/politsija-ohoroni-kijivskoji-oblasti-po-garjachih-slidah-zatrimala-grabizhnika) на сайті поліції охорони Київської області.**

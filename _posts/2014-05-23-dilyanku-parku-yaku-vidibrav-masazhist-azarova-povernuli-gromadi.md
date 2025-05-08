@@ -7,6 +7,7 @@ author:
 tags: 
   - "vibir-redaktsiyi"
   - "novini"
+coverImage: "wp-content/uploads/2012/05/Dereva-v-Parku-Peremogi.jpg"
 ---
 
 **[![Дерева в Парку Перемоги](https://mpz.brovary.org/wp-content/uploads/2012/05/Dereva-v-Parku-Peremogi.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/05/Dereva-v-Parku-Peremogi.jpg)На 45 черговій сесії Броварської міської ради 7 соток землі в парку «Перемога», які взяв в оренду та збирався викупити екс-головний регіонал Броварів Сергій Федоренко, повернули до земель запасу. Як [зазначено в рішенні](http://www.brovary.kiev.ua/r%D1%96shennya-m%D1%96sko%D1%97-radi-v%D1%96d-22052014-%E2%84%961236-45-06-pro-pripinennya-prava-koristuvannya-zemelnimi-d%D1%96lyank), повернення земельної ділянки відбулось у зв’язку з відмовою ПП «Феско» надалі її орендувати. Відтак внаслідок тривалої боротьби броварчан шматок паркової землі нарешті повертається у власність територіальної громади.**

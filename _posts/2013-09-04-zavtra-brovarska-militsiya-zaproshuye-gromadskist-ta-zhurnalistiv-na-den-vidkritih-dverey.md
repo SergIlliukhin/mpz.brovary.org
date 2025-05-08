@@ -18,6 +18,7 @@ tags:
   - "militsiya"
   - "novini"
   - "rayviddilok"
+coverImage: "wp-content/uploads/2013/09/Militsiya-brovari.jpg"
 ---
 
 **[![Міліція бровари](https://mpz.brovary.org/wp-content/uploads/2013/09/Militsiya-brovari.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/09/Militsiya-brovari.jpg)Як стало відомо "Маєш право знати" від колег-тележурналістів, завтра, 5 вересня о 12:00 у Броварському РВ МВС (вул. Кірова, 24) відбудеться День відкритих дверей. Цю інформацію підтвердив і речник ГУ МВС у Київській області Микола Жукович у телефонній розповів з нашим журналістом.**

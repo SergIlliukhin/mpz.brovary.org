@@ -6,6 +6,7 @@ author:
   display_name: "Броварська Самооборона"
 categories: 
   - "kolonka-avtora"
+coverImage: "wp-content/uploads/2014/02/samooborona-Maydanu.jpg"
 ---
 
 [![s419x0-pr-11298174413-1129818916](https://mpz.brovary.org/wp-content/uploads/2014/03/s419x0-pr-11298174413-1129818916.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/03/s419x0-pr-11298174413-1129818916.jpg)**Увага! Броварська самооборона, яка розташована на бульв. Незалежності, 2, звертається до броварчан із закликом допомогти нашим хлопцям, яких призвали в армію (військова частина 2167, м. Біла Церква).**

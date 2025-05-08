@@ -17,6 +17,7 @@ tags:
   - "prava-spozhivacha"
   - "spozhivach"
   - "spozhivach-maye-pravo"
+coverImage: "wp-content/uploads/2013/07/14780-5u.jpg"
 ---
 
 [![Салон меблів](https://mpz.brovary.org/wp-content/uploads/2013/07/14780-5u.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/07/14780-5u.jpg)**Купуючи меблі для дому, ми розраховуємо, що вони будуть безпечними, практичними, зручними та прослужать не один рік. Але іноді трапляється, що в результаті ми отримуємо не той товар, на який сподівалися, та ще й неналежної якості.**

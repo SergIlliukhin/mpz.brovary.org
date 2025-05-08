@@ -10,6 +10,7 @@ tags:
   - "vitaliy-zaporozhets"
   - "vo-svoboda"
   - "sud"
+coverImage: "wp-content/uploads/2012/06/Skanirovanie7.jpg"
 ---
 
 \[quote style="1"\] Шановні земляки !

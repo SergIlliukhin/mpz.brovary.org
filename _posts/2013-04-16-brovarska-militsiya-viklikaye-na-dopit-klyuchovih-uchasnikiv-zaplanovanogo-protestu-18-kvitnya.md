@@ -12,6 +12,7 @@ tags:
   - "militsiya"
   - "myuzik-holl"
   - "novini"
+coverImage: "wp-content/uploads/2013/04/382521.jpg"
 ---
 
 [![38252](https://mpz.brovary.org/wp-content/uploads/2013/04/38252.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/04/38252.jpg)Кілька годину тому [постраждала](https://mpz.brovary.org/18-kvitnya-deputati-vimagatimut-zakrittya-myuzik-holu-video/) в кафе «Мюзік Хол» **Вікторія Заєць** отримала дзвінок від слідчої броварського міськвідділу **Мар’яни Панченко.** Слідча вимагає від Заєць прибути на допит 18 квітня о 13:00 – саме в той день і в той час, коли запланована [акція протесту](https://mpz.brovary.org/u-brovarah-gotuyutsya-privesti-vladu-do-tyami-pryamim-vplivom-meshkantsi-vimagatimut-zupiniti-mazhorskiy-bezpryedyel-ta-skasuvati-nezakonne-pidvishhennya-komunalnih-tarifiv/) проти мажорського свавілля у Броварах, де Вікторія мала би бути одним з ключових учасників.

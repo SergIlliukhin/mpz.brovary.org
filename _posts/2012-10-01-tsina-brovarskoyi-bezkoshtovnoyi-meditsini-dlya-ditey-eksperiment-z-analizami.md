@@ -13,6 +13,7 @@ tags:
   - "likarnya"
   - "poliklinika"
   - "shkurenko"
+coverImage: "wp-content/uploads/2012/09/1312943516_analizy.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/09/1312943516_analizy.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/09/1312943516_analizy.jpg)_**Не рідко пацієнти віддячують медикам з власної ініціативи та відповідно до можливостей свого гаманця. Але бувають випадки, коли медики самі "складають" собі ціну – і по суті змушують пацієнтів платити.**_

@@ -13,6 +13,7 @@ tags:
   - "novini"
   - "rishennya-vikonkomu"
   - "sluzhba-zamovnika"
+coverImage: "wp-content/uploads/2013/02/Dereva-zrubuyut.jpg"
 ---
 
 **[![Дерева зрубують](https://mpz.brovary.org/wp-content/uploads/2013/02/Dereva-zrubuyut.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/02/Dereva-zrubuyut.jpg)Виконавчий комітет Броварської міської ради [надав КП «Служба замовника» дозвіл](http://docs.pravo-znaty.org.ua/p6745/12.02.2013/73) на знесення зелених насаджень у Броварах. Загалом працівники комунального підприємства мають зрізати 122 дерева. Водночас виконком зобов'язав «Службу замовника» висадити дерева у двократному розмірі від знесених та узгодити це з міським управлінням житлово-комунального господарства.**

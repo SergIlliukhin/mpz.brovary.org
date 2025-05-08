@@ -12,6 +12,7 @@ tags:
   - "diti-pereselentsi"
   - "molod-da"
   - "molod-demokratichnogo-alyansu"
+coverImage: "wp-content/uploads/2015/05/Listivki-Molod-DA-2.jpg"
 ---
 
 **[![Листівки Молодь ДА 2](https://mpz.brovary.org/wp-content/uploads/2015/05/Listivki-Molod-DA-2.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/05/Listivki-Molod-DA-2.jpg)Минулої суботи, 2 травня, активісти «Молоді ДемАльянсу» разом із волонтерами проекту «Бест друг» навчили дітлахів створювати оригінальні листівки-побажання для найрідніших.**

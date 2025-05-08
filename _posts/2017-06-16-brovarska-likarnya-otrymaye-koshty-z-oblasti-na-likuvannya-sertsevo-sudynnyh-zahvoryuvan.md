@@ -13,6 +13,7 @@ tags:
   - "btsrl"
   - "byudzhet"
   - "novini"
+coverImage: "wp-content/uploads/2017/06/123101.jpg"
 ---
 
 **Броварська центральна районна лікарня отримає фінансування в рамках програми "Запобігання та лікування серцево-судинних захворювань на 2017-2019 роки", затвердженої на черговому засіданні Київської обласної ради. Про це [повідомляє](http://kievvlast.com.ua/news/kievoblsovet_videlil_na_lechenie_serdechnikov_svishe_80_mln_griven52993.html) видання "КиевVласть".**

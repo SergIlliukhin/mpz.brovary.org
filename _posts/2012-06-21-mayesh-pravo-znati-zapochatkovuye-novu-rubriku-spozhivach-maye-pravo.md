@@ -15,6 +15,7 @@ tags:
   - "prava-spozhivacha"
   - "spozhivach"
   - "spozhivach-maye-pravo"
+coverImage: "wp-content/uploads/2012/06/spozhivach.jpg"
 ---
 
 ![](https://mpz.brovary.org/wp-content/uploads/2012/06/spozhivach.jpg "споживач")

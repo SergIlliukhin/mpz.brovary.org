@@ -11,6 +11,7 @@ tags:
   - "brovary"
   - "gromadske-telebachennya"
   - "torgi"
+coverImage: "wp-content/uploads/2015/09/torgy.jpg"
 ---
 
 

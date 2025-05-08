@@ -16,6 +16,7 @@ tags:
   - "rda"
   - "sapozhko"
   - "fedorenko"
+coverImage: "wp-content/uploads/2012/12/napad.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/12/11.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/12/11.jpg)Нещодавно броварська міліція та прокуратура [поставили](https://mpz.brovary.org/u-brovarah-ne-diye-st-171-kriminalnogo-kodeksu-prokuratura/) нібито крапку у подіях, що відбувалися 20 жовтня біля МКЦ «Прометей». Того дня, коли до приміщення кінотеатру приїздив Прем’єр-міністр Микола Азаров на зустріч із педагогами, особи, пов'язані прямо чи опосередковано з владою, [розбили](http://www.vstavay.info/news.php/news/862/group/13) декільком журналістами телефони, перешкоджали їм та довіреним особам партій пройти у приміщення, де були розташовані дві виборчі дільниці, [нападали](https://mpz.brovary.org/yak-prisluzhniki-azarova-zabezpechuvali-yomu-spokiy-u-brovarah/) на активістів, які роздавали листівки. І все це відбувалося на очах очільників міста, району й області, правоохоронці та було зафіксовано на відеокамери.

@@ -15,6 +15,7 @@ tags:
   - "novini"
   - "programa"
   - "sotsialniy-zahist"
+coverImage: "wp-content/uploads/2016/01/Gazovyj-membrannyj-lichylnyk-Samgaz-vstanovlenyj-po-bezkoshtovnij-programi.jpg"
 ---
 
 **Міська влада планує розпочати соціальну програму по встановленню індивідуальних газових лічильників. Про це говорили сьогодні на сесії Броварської міської ради. Проте на яку кількість броварчан вона буде розрахована та у скільки обійдеться міському бюджету - поки невідомо.**

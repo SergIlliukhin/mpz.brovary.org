@@ -6,6 +6,7 @@ author:
   display_name: "Дмитро Карпій"
 categories: 
   - "kolonka-avtora"
+coverImage: "wp-content/uploads/2016/09/x33.jpg.pagespeed.ic_.31e10eOGEm.jpg"
 ---
 
 **Уже цієї суботи, 10 вересня, о 19:25 на "5 каналі" обіцяють показ першої частини нового двосерійного історичного фільму про наше місто. Стрічку продемонструють у рамках циклу передач "[Машина часу](http://www.5.ua/programy/mashyna-chasu-33.html)".**

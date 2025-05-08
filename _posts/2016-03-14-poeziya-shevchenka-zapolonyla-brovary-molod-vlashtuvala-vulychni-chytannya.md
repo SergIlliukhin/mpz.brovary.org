@@ -12,6 +12,7 @@ tags:
   - "poeziya"
   - "chytannya"
   - "shevchenko"
+coverImage: "wp-content/uploads/2016/03/taras-shevchenko-10-1024x682-1.jpg"
 ---
 
 ![тарас шевченко (10)](https://mpz.brovary.org/wp-content/uploads/2016/03/taras-shevchenko-10.jpg)

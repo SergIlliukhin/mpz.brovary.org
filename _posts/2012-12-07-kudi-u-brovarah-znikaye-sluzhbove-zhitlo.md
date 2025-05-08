@@ -12,6 +12,7 @@ tags:
   - "vykonkom"
   - "kvartiri"
   - "sluzhbove-zhitlo"
+coverImage: "wp-content/uploads/2012/12/zhytlo-481x305-481x305.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/12/zhytlo-481x305-481x305.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/12/zhytlo-481x305-481x305.jpg)**Службове житло є одним із факторів, які мотивують людей йти на державну службу. Гідної зарплати наша держава забезпечити не може, але житло, хоч і тимчасове, на період роботи, іноді надає: це може бути або кімната в гуртожитку, або навіть індивідуальна квартира.**

@@ -7,6 +7,7 @@ author:
 tags: 
   - "vibir-redaktsiyi"
   - "novini"
+coverImage: "wp-content/uploads/2012/04/1236035974_950_msg-big.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/04/1236035974_950_msg-big.jpg "супер-тролейбус")](https://mpz.brovary.org/wp-content/uploads/2012/04/1236035974_950_msg-big.jpg)Міська влада знайшла спосіб максимально здешевити вартість проїзду на майбутньому тролейбусі. «До такого не додумався ще ніхто» - заявляють в мерії.

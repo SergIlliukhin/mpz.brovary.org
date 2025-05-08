@@ -12,6 +12,7 @@ tags:
   - "konkurs"
   - "livoberezhna-kiyivshhina"
   - "novini"
+coverImage: "wp-content/uploads/2013/09/brovary-challenge-2012.jpg"
 ---
 
 [![Конкурс з англійської](https://mpz.brovary.org/wp-content/uploads/2012/09/Konkurs-z-angliyskoyi.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/09/Konkurs-z-angliyskoyi.jpg)**Благодійний фонд розвитку громад "Лівобережна Київщина" [оголосив](http://www.livoberezhna.org/2-uncategorised/3818-pro-provedennia-konkursu-z-anhliiskoi-movy-brovary-challenge-dlia-uchniv-mista-brovary-ta-brovarskoho-raionu-2013-roku) про проведення щорічного конкурсу з англійської мови "Brovary Challenge" для учнів 9-10 класів середніх загальноосвітніх навчальних закладів м.Бровари та Броварського району. Змагання зі знання іноземної мови відбудуться під час осінніх канікул - 1 листопада.**

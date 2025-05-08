@@ -11,6 +11,7 @@ tags:
   - "brovarska-panorama"
   - "sapozhko"
   - "fedorenko"
+coverImage: "wp-content/uploads/2012/04/Fedorenko.png"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/04/Fedorenko.png "Федоренко")](https://mpz.brovary.org/wp-content/uploads/2012/04/Fedorenko.png)Зазвичай в авторських колонках ми не перепубліковуємо тексти інших авторів, але дуже вже цікаво, як на мене, написав пан **Зіновій Бровко** (думаю, використано псевдонім). Пропоную до уваги читачів текст, як він є (взято з [сайту СБН](http://city.brovary.net/portal/index.php?showtopic=104309 "Броварська ФЕДОРама"))

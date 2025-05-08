@@ -12,6 +12,7 @@ tags:
   - "novini"
   - "robota"
   - "tsentr-zaynyatosti"
+coverImage: "wp-content/uploads/2016/02/nw_1410202741_1369981024_jobs.jpg"
 ---
 
 **Броварський міськрайонний центр** **зайнятості** **[оприлюднив](http://brovary-rada.gov.ua/vakans%D1%96%D1%97-po-m-brovari-ta-brovarskomu-raionu)** **на сайті Броварської міської ради перелік 83-х актуальних вакансій по місту Бровари та Броварському району.**

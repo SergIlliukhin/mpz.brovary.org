@@ -18,6 +18,7 @@ tags:
   - "rizanenko"
   - "ratnikov"
   - "udar"
+coverImage: "wp-content/uploads/2012/08/Kupa-dumok.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/08/Kupa-dumok.jpg "Купа думок")](https://mpz.brovary.org/wp-content/uploads/2012/08/Kupa-dumok.jpg)В останній день літа об’єднана опозиція здивувала [своєю несподіваною заявою](http://ua.korrespondent.net/ukraine/politics/1389808-batkivshchina-gotova-znyati-svoyih-kandidativ-u-kievi-ta-oblasti-na-korist-partiyi-klichka) про готовність «_погодити з партією УДАР Віталія Кличка кандидатів у депутати, висунутих у Києві та області_». Невже дійсно схаменулись? Думаю, лише час покаже.

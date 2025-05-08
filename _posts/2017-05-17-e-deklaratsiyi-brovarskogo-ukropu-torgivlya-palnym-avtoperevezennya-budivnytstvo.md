@@ -20,6 +20,7 @@ tags:
   - "mayno"
   - "marshrutki"
   - "novini"
+coverImage: "wp-content/uploads/2016/12/25-2.jpg"
 ---
 
 **У складі фракції броварського осередку партії «Укроп» у Броварській міській раді перебуває троє чоловіків: нинішній секретар міськради Петро Бабич, власник броварських пасажирських маршруток Володимир Білокінь і володар будівельного та паливного бізнесу Микола Зінченко. Усі вони – небідні люди. Такого висновку можна дійти, проаналізувавши нещодавно опубліковані е-декларації депутатів. «Маєш право знати» продовжує знайомити своїх читачів зі статками броварських обранців та їхніх родин. Раніше ми опублікували огляди доходів фракцій «[Радикальної партії Ляшка](https://mpz.brovary.org/e-deklaruvannya-blysk-zlydni-brovarskoyi-fraktsiyi-radykalna-partiya-lyashka/)», «[Демальянсу](https://mpz.brovary.org/e-deklaruvannya-shho-zaroblyayut-brovarski-demalyansivtsi/)», [БПП «Солідарності»](https://mpz.brovary.org/e-deklaratsiyi-fraktsiyi-bpp-uspishni-pidpryyemtsi-ta-nebagati-pensionery/) та «[Самопомочі](https://mpz.brovary.org/e-deklaruvannya-brovarska-fraktsiya-samopomich-obyednala-pidpryyemtsiv/)».**

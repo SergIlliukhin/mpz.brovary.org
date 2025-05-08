@@ -11,6 +11,7 @@ tags:
   - "dityache-kafe"
   - "nezakonne-budivnitstvo"
   - "novini"
+coverImage: "wp-content/uploads/2012/12/Grushevskogo-19.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/12/Grushevskogo-19.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/12/Grushevskogo-19.jpg)**Спільними зусиллями мешканці броварської багатоповерхівки змогли зупинити незаконне будівництво дитячого кафе у підвалі, яке загрожувало руйнуванням фундаменту будинку.**

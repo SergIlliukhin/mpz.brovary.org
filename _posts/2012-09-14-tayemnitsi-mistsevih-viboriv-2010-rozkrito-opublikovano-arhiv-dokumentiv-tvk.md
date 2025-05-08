@@ -13,6 +13,7 @@ tags:
   - "ovk"
   - "protokol"
   - "tvk"
+coverImage: "wp-content/uploads/2012/09/Tablichka-viborchoyi-komisiyi.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/09/Tablichka-viborchoyi-komisiyi.jpg "Табличка виборчої комісії")](https://mpz.brovary.org/wp-content/uploads/2012/09/Tablichka-viborchoyi-komisiyi.jpg)Вчора депутат Броварської міської ради, а нині кандидат у народні депутати України **Павло Різаненко** на своєму персональному сайті [оприлюднив увесь архів документів](http://rizanenko.org/dokumenty-2/dokumenty-btvk-2010r) Броварської міської виборчої комісії за час роботи на місцевих виборах у 2010 році.

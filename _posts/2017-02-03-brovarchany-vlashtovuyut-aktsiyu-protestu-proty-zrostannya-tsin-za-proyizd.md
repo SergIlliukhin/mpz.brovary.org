@@ -14,6 +14,7 @@ tags:
   - "novini"
   - "pidvyshhennya-tsin"
   - "tarifi-na-proyizd"
+coverImage: "wp-content/uploads/2017/02/16406647_1822795564646654_1153169589808335882_n.jpg"
 ---
 
 **Зростання [цін на проїзд](https://mpz.brovary.org/proyizd-kyyeva-12-grn-brovaram-pidgotuvatysya/) призвело до занепокоєння броварчан. Як наслідок, у Фейсбуці виникла [група](https://www.facebook.com/groups/1656583937969272) «Проти ціни за проїзд. Бровари», а вже на понеділок, 6 лютого, [планується](https://www.facebook.com/events/883447331758238/) акція протесту в центрі міста.**

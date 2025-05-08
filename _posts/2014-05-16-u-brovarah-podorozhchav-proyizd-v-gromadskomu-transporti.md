@@ -12,6 +12,7 @@ tags:
   - "marshrutki"
   - "novini"
   - "proyizd"
+coverImage: "wp-content/uploads/2014/05/f230fec4c0f114f0f797603cb125fa185742a30a.jpg"
 ---
 
 **[![f230fec4c0f114f0f797603cb125fa185742a30a](https://mpz.brovary.org/wp-content/uploads/2014/05/f230fec4c0f114f0f797603cb125fa185742a30a.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/05/f230fec4c0f114f0f797603cb125fa185742a30a.jpg)З 15 травня у Броварах подорожчав проїзд в громадському транспорті: тепер він становить 2,5 грн. Відповідне [рішення](http://www.brovary.kiev.ua/r%D1%96shennya-vikonkomu-v%D1%96d-14052014-%E2%84%96250-pro-tarifi-na-pro%D1%97zd-po-mbrovari-v-avtobusnikh-marshrutakh-zag) ухвалив виконавчий комітет Броварської міської ради. Раніше броварчани їздили маршрутками та автобусами за тарифом 1, 75 грн.** 

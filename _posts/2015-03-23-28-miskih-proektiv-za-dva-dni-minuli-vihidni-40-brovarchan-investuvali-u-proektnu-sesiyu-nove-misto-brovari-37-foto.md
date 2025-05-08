@@ -33,6 +33,7 @@ tags:
   - "svitlana-fedyukova"
   - "tetyana-boyko"
   - "transport"
+coverImage: "wp-content/uploads/2015/03/DSC_4645.jpg"
 ---
 
 **[![DSC_4761](https://mpz.brovary.org/wp-content/uploads/2015/03/DSC_4761.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/03/DSC_4761.jpg)Цілу суботу і добру половину неділі, 21-22 березня активні броварчани провели разом для того, аби розробити, презентувати та обговорити власні проекти для розвитку міста.**

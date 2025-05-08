@@ -9,6 +9,7 @@ categories:
 tags: 
   - "pidkup-vibortsiv"
   - "fedorenko"
+coverImage: "wp-content/uploads/2012/05/mzl.dpcrfunj.320x480-75.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/05/mzl.dpcrfunj.320x480-75.jpg "mzl.dpcrfunj.320x480-75")](https://mpz.brovary.org/wp-content/uploads/2012/05/mzl.dpcrfunj.320x480-75.jpg)Вчора в Бровари знову приїжджало телебачення і знову з приводу "художеств" Сергія Федоренка та броварських регіоналів загалом. Інтерес "5-го каналу" викликав [мій сюжет на МПЗ](https://mpz.brovary.org/fedorenko-rozpochav-peredviborchu-rozdachu-produktovih-naboriv-video/) про роздачу Федоренком продуктових наборів в "Прометеї" напередодні Великодня. Нагадаю, що раніше цей наш сюжет [вже демонстрував в своєму ефірі канал "ТВі"](https://mpz.brovary.org/studiya-mayesh-pravo-znati-telekanal-tvi-pokazav-syuzhet-mpz-u-pryamomu-efiri/), а ось тепер інтерес до підкупу виборців броварськими "регіоналами" виявив ще й "5-ий канал".

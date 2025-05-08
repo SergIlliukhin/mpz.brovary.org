@@ -13,6 +13,7 @@ tags:
   - "novini"
   - "ogoloshennya"
   - "promzona"
+coverImage: "wp-content/uploads/2013/07/Zabudova-na-Lisoviy.jpg"
 ---
 
 **[![Забудова на Лісовій](https://mpz.brovary.org/wp-content/uploads/2013/07/Zabudova-na-Lisoviy.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/07/Zabudova-na-Lisoviy.jpg)Нещодавно на веб-сайті Броварської міської ради з'явилось [оголошення](http://brovary.kiev.ua/zasterіgaєmo-vas-vіd-pridbannya-nezakonno-zbudovanogo-zhitla), у якому міськвиконком застерігає громадян від придбання квартир у будинку за адресою вул. Лісова, 24 / вул. Щолківська, 16.**

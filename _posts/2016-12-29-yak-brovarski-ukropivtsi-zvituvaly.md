@@ -16,6 +16,7 @@ tags:
   - "zinchenko"
   - "novini"
   - "fraktsiya-ukrop"
+coverImage: "wp-content/uploads/2016/12/12-2.jpg"
 ---
 
 **Троє депутатів міської ради від фракції «Укроп» - Володимир Білокінь, Микола Зінченко та секретар міськради Петро Бабич - одні з [8](https://mpz.brovary.org/na-zvituvannya-deputativ-semenova-ta-senko-meshkantsi-ne-pryjshly/), які також вирішили [прозвітуватися](https://mpz.brovary.org/deputatka-tetyana-totska-vidzvituvalas-pered-vybortsyamy/)  саме 27 грудня. Для цього було обрано конференц-залу в офісному центрі ТД «Ліза». Як і під час [звітувань](https://mpz.brovary.org/veremchuk-opalko-vidzvituvalysya-za-rik-svoyeyi-deputatskoyi-diyalnosti-foto/) народних [обранців](https://mpz.brovary.org/pershyj-pishov-za-rik-roboty-vidzvituvavsya-brovarskyj-deputat-leonid-cherepejnik/)** **інших [політсил](https://mpz.brovary.org/richnyj-zvit-ta-rokirovky-u-komandi-brovarskogo-demalyansu-foto/), дива [не сталося](https://mpz.brovary.org/deputatka-galyna-negoda-vidzvituvalasya-za-rik-roboty-na-okruzi/): аншлагу присутності броварчан на підведенні підсумків від "укропівців" [не було](https://mpz.brovary.org/na-zvituvannya-deputativ-semenova-ta-senko-meshkantsi-ne-pryjshly). 20-ти присутнім, серед яких левова частка - члени цієї ж політичної сили, Микола Зінченко розказав, як за власні гроші вирішує проблеми міста;** **Володимир Білокінь розповів, як протягом року направляв свої зусилля на асфальтування вулиці Маяковського у Старому місті. А Петро Бабич заявив, що на своїй дільниці практично не працював в «силу тих чи інших обставин».**

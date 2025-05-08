@@ -11,6 +11,7 @@ tags:
   - "novini"
   - "reforma-zhkg"
   - "sapozhko"
+coverImage: "wp-content/uploads/2013/04/lampa-bez-svitla.jpg"
 ---
 
 **[![лампа без світла](https://mpz.brovary.org/wp-content/uploads/2013/04/lampa-bez-svitla.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/04/lampa-bez-svitla.jpg)Нещодавно до нас звернулися мешканці будинку по вул.Черняховського, 23-А, у яких 25 квітня о 20 годині вечора частково зникла електроенергія у будинку, більшість квартир залишились без світла. Люди були розгублені: куди телефонувати і що робити у такому випадку?**

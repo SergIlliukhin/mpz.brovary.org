@@ -14,6 +14,7 @@ tags:
   - "grafik-komisiy"
   - "novini"
   - "postijni-komisiyi"
+coverImage: "wp-content/uploads/2012/08/Tablichka-miskoyi-radi-2.jpg"
 ---
 
 **На офіційному сайті Броварської міської ради [оприлюднено](http://brovary-rada.gov.ua/news/14390.html)** **графік засідань постійних депутатських комісій, які відбуватимуться з 19 по 25 жовтня у рамках підготовки до чергової 19-ї сесії. Саме засідання сесії Броварської міської ради VII скликання,** **як** **[повідомлялося](https://mpz.brovary.org/anons-3-lystopada-vidbudetsya-chergova-19-ta-sesiya-brovarskoyi-miskoyi-rady/) раніше,** **призначено на** **3 листопада 2016 року. На розгляд депутатів винесено** **49 пита****нь і розділ “Різне”.**

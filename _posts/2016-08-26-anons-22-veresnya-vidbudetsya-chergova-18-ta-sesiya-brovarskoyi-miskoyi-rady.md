@@ -15,6 +15,7 @@ tags:
   - "poryadok-denniy"
   - "sesiya"
   - "chergova-sesiya"
+coverImage: "wp-content/uploads/2016/07/Tablichka-miskoyi-radi-2.jpg"
 ---
 
 **Про скликання чергової 18-ї сесії Броварської міської ради у своєму [розпорядженні](http://brovary-rada.gov.ua/documents/24330.html) повідомив міський голова Ігор Сапожко на офіційному сайті міськради. У порядок денний засідання включено 41 питання і розділ “Різне”.**

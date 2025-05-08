@@ -13,6 +13,7 @@ tags:
   - "noviy-kanal"
   - "novini"
   - "trolejbus"
+coverImage: "wp-content/uploads/2013/08/Reporter.jpg"
 ---
 
 [![Репортер](https://mpz.brovary.org/wp-content/uploads/2013/08/Reporter.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/08/Reporter.jpg)**Днями в ефірі "Нового каналу" у [вечірньому випуску новин програми "Репортер"](http://www.reporter.novy.tv/video/37778/Reporter-30072013-vypusk-1900) вийшов сюжет про те, коли у Бровари мають пустити тролейбус.**

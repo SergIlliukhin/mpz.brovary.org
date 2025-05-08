@@ -13,6 +13,7 @@ tags:
   - "sdobnyakova"
   - "sesiya"
   - "tisk-na-zhurnalistiv"
+coverImage: "wp-content/uploads/2012/04/IMG_7818.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/04/IMG_7818.jpg "Сдобнякова")](https://mpz.brovary.org/wp-content/uploads/2012/04/IMG_7818.jpg)Вчора, 12 квітня, перед початком чергової відкритої 20-ої сесії міської ради радник міського голови Сдобнякова К.Б. незаконно намагалась не допустити журналістів «Маєш право знати» на засідання відкритої сесії.

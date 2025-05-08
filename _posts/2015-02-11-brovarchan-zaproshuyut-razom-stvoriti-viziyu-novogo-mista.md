@@ -15,6 +15,7 @@ tags:
   - "nove-misto"
   - "novini"
   - "strategichna-sesiya"
+coverImage: "wp-content/uploads/2015/02/NM5.jpg"
 ---
 
 **[![stand](https://mpz.brovary.org/wp-content/uploads/2015/02/stand.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/02/stand.jpg)У суботу, 28 лютого, броварські громадські активісти та експерти [Громадянської Платформи "Нова Країна](http://novakraina.org/)" запрошують усіх небайдужих та активних громадян Броварів взяти участь у брейнштормінгу "Нове місто" та спільними зусиллями створити бачення майбутнього Броварів. Про це "Маєш право знати" повідомили в оргкомітеті по проведенню заходу.**

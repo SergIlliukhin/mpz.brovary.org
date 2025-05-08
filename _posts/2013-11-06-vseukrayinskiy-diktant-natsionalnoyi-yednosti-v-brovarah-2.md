@@ -11,6 +11,7 @@ tags:
   - "kafe-vizit"
   - "molodizhne-krilo-udaru"
   - "udar"
+coverImage: "wp-content/uploads/2013/11/diktant2.jpg"
 ---
 
 [![pismen](https://mpz.brovary.org/wp-content/uploads/2013/11/pismen.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/11/pismen.jpg)Молодіжне крило Броварської організації партії УДАР Віталія Кличка запрошує усіх броварчан перевірити своє знання рідної мови на Всеукраїнському диктанті національної єдності!

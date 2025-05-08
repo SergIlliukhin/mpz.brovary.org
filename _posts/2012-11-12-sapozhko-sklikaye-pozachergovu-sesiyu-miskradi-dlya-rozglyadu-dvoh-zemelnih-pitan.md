@@ -13,6 +13,7 @@ tags:
   - "rozporyadzhennya"
   - "sesiya"
   - "sklikannya-sesiyi"
+coverImage: "wp-content/uploads/2012/07/gerb-Brovari.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/10/gerb-Brovari-zmenshena1.jpg "герб Бровари зменшена")](https://mpz.brovary.org/wp-content/uploads/2012/10/gerb-Brovari-zmenshena1.jpg)Сьогодні броварський міський голова Ігор Сапожко видав [розпорядження №218-ОД](http://docs.pravo-znaty.org.ua/p5969/12.11.2012/218) про скликання двадцять п’ятої позачергової сесії Броварської міської ради. Згідно з цим документом, 25-та позачергова сесія Броварської міськради відбудеться 13 листопада 2012 року о 12-й годині в приміщенні малої зали Броварського міськвиконкому.

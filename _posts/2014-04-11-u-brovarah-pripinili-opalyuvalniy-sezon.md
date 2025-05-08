@@ -10,6 +10,7 @@ tags:
   - "novini"
   - "opalyuvalniy-sezon"
   - "sapozhko"
+coverImage: "wp-content/uploads/2014/03/sapozhko_pidpriyemtsi_narodna-rada08.jpg"
 ---
 
 **[![a6e85590c33d](https://mpz.brovary.org/wp-content/uploads/2014/04/a6e85590c33d.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/04/a6e85590c33d.jpg)З 7 квітня в Броварах припинили подачу тепла зі збереженням підігріву води. Відповідне [розпорядження](http://www.brovary.kiev.ua/rozporyadzhennya-m%D1%96skogo-golovi-338) підписав міський голова Ігор Сапожко на виконання розпорядження голови КОДА "Про завершення опалювального сезону в населених пунктах Київської області". Опалювальний сезон 2013-2014 завершили, так як середньодобова температура повітря зросла до 8 градусів та тривала впродовж 3 днів, а також з метою економії природного газу.**

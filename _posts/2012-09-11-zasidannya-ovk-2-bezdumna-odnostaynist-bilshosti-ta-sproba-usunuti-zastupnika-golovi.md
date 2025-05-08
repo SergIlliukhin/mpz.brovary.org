@@ -15,6 +15,7 @@ tags:
   - "ovk"
   - "okruzhna-viborcha-komisiya"
   - "sidanich"
+coverImage: "wp-content/uploads/2012/09/OVK-zasidannya-1.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/09/OVK-zasidannya-1.jpg "ОВК засідання 1")](https://mpz.brovary.org/wp-content/uploads/2012/09/OVK-zasidannya-1.jpg)Після того, як члени окружної комісії [двічі не могли зібрати кворум для проведення другого засідання](https://mpz.brovary.org/hto-i-navishho-sabotuvav-robotu-okruzhnoyi-viborchoyi-komisiyi-u-brovarah/), поява 4 вересня 16 з 18 членів комісії виглядала чимось з розряду фантастики. Проте не можна сказати, що це було несподіванкою: якраз напередодні [було замінено голову ОВК](https://mpz.brovary.org/u-skladi-brovarskoyi-okruzhnoyi-viborchoyi-komisiyi-shist-zamin-ta-noviy-golova/), задля чого власне і «затягувався» процес роботи комісії, тому наперед було зрозуміло, що засідання нарешті відбудеться.

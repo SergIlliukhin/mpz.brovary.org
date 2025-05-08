@@ -20,6 +20,7 @@ tags:
   - "sud"
   - "taran"
   - "tkachenko"
+coverImage: "wp-content/uploads/2013/07/Sud-nad-svobodivtsyami-za-park-31.jpg"
 ---
 
 **[![Суд над свободівцями за парк 7](https://mpz.brovary.org/wp-content/uploads/2013/07/Sud-nad-svobodivtsyami-za-park-7.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/07/Sud-nad-svobodivtsyami-za-park-7.jpg)Суддя броварського суду Олена Кічинська відхилила клопотання прокурора Людмили Таран про продовження терміну домашнього арешту «свободівцям» Смірнову, Ткаченку та Шевчуку до 10 листопада 2013 року в справі про демонтаж будівельного паркану в парку «Перемога». Таким чином до оголошення вироку активісти лишатимуться на волі.**

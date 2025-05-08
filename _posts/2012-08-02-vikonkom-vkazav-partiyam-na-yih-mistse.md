@@ -17,6 +17,7 @@ tags:
   - "partiya"
   - "partiya-regioniv"
   - "rizanenko"
+coverImage: "wp-content/uploads/2012/08/5_CHkalova-5A.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/08/1_Grushevskogo-15A.jpg "Місця для встановлення агітаційних наметів: Грушевського 15А")](https://mpz.brovary.org/wp-content/uploads/2012/08/1_Grushevskogo-15A.jpg)**Виконавчий комітет Броварської міської ради визначив місця на території міста Бровари для встановлення агітаційних наметів.**

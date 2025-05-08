@@ -11,6 +11,7 @@ tags:
   - "vibir-redaktsiyi"
   - "novini"
   - "shkola-aktivista"
+coverImage: "wp-content/uploads/2015/04/shkola-aktivista-17.jpg"
 ---
 
 **[![школа активіста 18](https://mpz.brovary.org/wp-content/uploads/2015/04/shkola-aktivista-18.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/04/shkola-aktivista-18.jpg)Минулої суботи, 5 квітня, у нашому місті відбулась перша подія у рамках нового освітньо-мотиваційного проекту «Brain Event». За задумом організаторів  -  МГО «Молодь Демократичного Альянсу» - Школа громадського активіста має стати першим заходом із цілої серії лекторіїв та тренінгів, які мають навчити броварчан бути більш активними.** 

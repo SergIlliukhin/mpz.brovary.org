@@ -14,6 +14,7 @@ tags:
   - "brovarska-miska-rada"
   - "grafik-komisiy"
   - "novini"
+coverImage: "wp-content/uploads/2012/08/Tablichka-miskoyi-radi-2.jpg"
 ---
 
 **Броварська міська рада [оприлюднила](http://brovary-rada.gov.ua/news/14805.html) графік проведення засідань постійних депутатських комісій, що триватимуть з 7 по 14 березня. Саме засідання 26-ї чергової сесії Броварської міськради VII скликання [відбудеться](https://mpz.brovary.org/anons-23-bereznya-vidbudetsya-chergova-sesiya-brovarskoyi-miskoyi-rady/) 23 березня. На розгляд депутатів винесено 31 питання і розділ «Різне».**

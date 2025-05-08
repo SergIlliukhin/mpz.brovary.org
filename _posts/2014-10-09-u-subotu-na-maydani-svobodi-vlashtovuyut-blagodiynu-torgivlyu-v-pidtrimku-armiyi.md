@@ -13,6 +13,7 @@ tags:
   - "koordinatsiyniy-tsentr-dopomogi-brovarskim-viyskovim"
   - "novini"
   - "yarmarok"
+coverImage: "wp-content/uploads/2014/10/formain.jpg"
 ---
 
 **[![nsht7twinna](https://mpz.brovary.org/wp-content/uploads/2014/10/nsht7twinna.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/10/nsht7twinna.jpg)****Цієї суботи, 11 жовтня, об 11:00 на Майдані Свободи відбудеться благодійний ярмарок на підтримку броварських бійців, що перебувають в зоні АТО.**

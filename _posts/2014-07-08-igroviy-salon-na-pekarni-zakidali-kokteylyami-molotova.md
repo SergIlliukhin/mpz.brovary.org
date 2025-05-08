@@ -12,6 +12,7 @@ tags:
   - "loto-klub"
   - "novini"
   - "pidpal"
+coverImage: "wp-content/uploads/2014/07/main2_1.jpg"
 ---
 
 **[![фото 4 (1)](https://mpz.brovary.org/wp-content/uploads/2014/07/foto-4-1.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/07/foto-4-1.jpg)Сьогодні вночі на вулиці Київській в районі «Пекарні» групою невідомих був здійснений напад на ігровий салон «Лото Клуб», в результаті чого заклад було спалено вщент.**

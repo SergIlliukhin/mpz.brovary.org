@@ -13,6 +13,7 @@ tags:
   - "okrug-97"
   - "parlamentski-vibori-2014"
   - "semenyaka"
+coverImage: "wp-content/uploads/2014/10/DSC_0949.jpg"
 ---
 
 **[![DSC_0949](https://mpz.brovary.org/wp-content/uploads/2014/10/DSC_0949.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/10/DSC_0949.jpg)Кандидат у народні депутати Микола Семеняка попросив членів окружної виборчої комісії № 97 залишити без розгляду його [ранкову заяву](https://mpz.brovary.org/robotu-ovk-zablokovano-kerivnitstvo-komisiyi-ne-priymaye-protokoli-z-dilnits-za-vimogoyu-semenyaki/) про перерахунок голосів на деяких дільницях. Таке рішення висуванець від "Народного Фронту" оголосив сьогодні на засіданні ОВК, агрументувавши свою відмову тим, що багато баришівчан-членів дільничних комісій довгий час стоять в черзі, аби здати бюлетені. «Перерахунок може затягнутись ще на годину-дві», - закінчив кандидат.** 

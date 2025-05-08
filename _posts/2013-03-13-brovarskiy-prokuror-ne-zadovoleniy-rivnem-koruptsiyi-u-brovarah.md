@@ -13,6 +13,7 @@ tags:
   - "novini"
   - "prokuratura"
   - "rishennya-vikonkomu"
+coverImage: "wp-content/uploads/2013/03/20120601171452.jpg"
 ---
 
 \[caption id="attachment\_14897" align="alignleft" width="288"\][![Микола Гарник](https://mpz.brovary.org/wp-content/uploads/2013/03/MVGarnyk.jpg "Броварський міжрайонний прокурор Гарник Микола Васильович")](https://mpz.brovary.org/wp-content/uploads/2013/03/MVGarnyk.jpg) Броварський міжрайонний прокурор Гарник Микола Васильович\[/caption\]

@@ -9,6 +9,7 @@ categories:
 tags: 
   - "vibir-redaktsiyi"
   - "novini"
+coverImage: "wp-content/uploads/2013/07/gopniki4.jpg"
 ---
 
 **[![gopniki5](https://mpz.brovary.org/wp-content/uploads/2013/07/gopniki5.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/07/gopniki5.jpg)Під стінами суду, де розглядатиметься справа броварського «тітушка», місцеві активісти проведуть конкурс серед присутніх на здобуття «чорного поясу Вадіка Румина». Про це повідомляють організатори акції, броварський осередок партії УДАР.** 

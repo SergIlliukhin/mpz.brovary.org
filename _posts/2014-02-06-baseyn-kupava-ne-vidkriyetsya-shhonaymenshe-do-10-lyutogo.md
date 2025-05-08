@@ -13,6 +13,7 @@ tags:
   - "kupava"
   - "novini"
   - "plavannya"
+coverImage: "wp-content/uploads/2014/02/Kupava-tablichka-1.jpg"
 ---
 
 **[![kupava 1](https://mpz.brovary.org/wp-content/uploads/2014/01/kupava-1.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/01/kupava-1.jpg)Плавальний басейн "Купава" не працюватиме ще щонайменше до 10 лютого 2014 року, оскільки у спортивній споруді продовжуються пуско-налагоджувальні роботи. Про це сказано в оголошенні адміністрації, яке розміщене на вхідних дверях до будівлі.**

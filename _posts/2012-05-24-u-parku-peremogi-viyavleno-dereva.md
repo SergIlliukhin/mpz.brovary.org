@@ -11,6 +11,7 @@ tags:
   - "petrenko"
   - "smalko"
   - "fedorenko"
+coverImage: "wp-content/uploads/2012/05/Dereva-v-Parku-Peremogi.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/05/Dereva-v-Parku-Peremogi.jpg "Дерева в Парку Перемоги")](https://mpz.brovary.org/wp-content/uploads/2012/05/Dereva-v-Parku-Peremogi.jpg)Ну ось і підійшла до завершення епопея зі славнозвісною довідкою КП "Служба замовника", згідно до якої на ділянці парку Перемоги, яку міська рада віддала Сергію **Федоренку**, дерев виявлено не було. Нагадаю, ця довідка була однією з підстав, які дозволяли керівнику броварських "регіоналів" отримати у оренду 0,07 га зелених насаджень у самому центрі міста.

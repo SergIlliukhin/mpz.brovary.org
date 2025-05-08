@@ -13,6 +13,7 @@ tags:
   - "gromadske-telebachennya"
   - "mistsevi-vybory-2015"
   - "tvk"
+coverImage: "wp-content/uploads/2015/09/tvk.jpg"
 ---
 
 

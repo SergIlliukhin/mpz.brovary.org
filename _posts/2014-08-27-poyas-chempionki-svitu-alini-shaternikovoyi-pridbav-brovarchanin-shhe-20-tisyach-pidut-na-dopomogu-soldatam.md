@@ -7,6 +7,7 @@ author:
 tags: 
   - "vibir-redaktsiyi"
   - "novini"
+coverImage: "wp-content/uploads/2014/08/303149.jpg"
 ---
 
 **[![303149](https://mpz.brovary.org/wp-content/uploads/2014/08/3031491.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/08/3031491.jpg)Всі кошти, отримані від благодійного аукціону, чемпіонка світу з боксу за версією GBU Аліна Шатерникова передала на лікування пораненим в зоні АТО бійцям: Іллі Дроздюк і Віктору Бойко.**

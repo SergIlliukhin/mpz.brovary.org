@@ -11,6 +11,7 @@ tags:
   - "zvituvannya-mera"
   - "novini"
   - "sapozhko"
+coverImage: "wp-content/uploads/2012/03/sapojko.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/03/sapojko.jpg "sapojko")](https://mpz.brovary.org/wp-content/uploads/2012/03/sapojko.jpg)Попри [наші сподівання](https://mpz.brovary.org/miskiy-golova-zvituvatime-u-lyutomu-2/), що міський голова Броварів виявиться сміливішим за своїх [теперішніх однопартійців](https://mpz.brovary.org/u-brovarah-na-zvituvanna-partii-regioniv-zabuli-zaprositi-viborciv/) та не побоїться зустрітись віч-на-віч з громадою, завчасно та відкрито повідомивши про час та місце проведення свого звітування за 2011 рік, Ігор Сапожко відзвітував лише один раз і лише перед обраною ним аудиторією, а решта броварчан про цю «відкриту» зустріч дізнались вже постфактум.

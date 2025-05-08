@@ -12,6 +12,7 @@ tags:
   - "mikola-garnik"
   - "novini"
   - "prokuratura"
+coverImage: "wp-content/uploads/2014/07/Prokuratura-narada-3.jpg"
 ---
 
 **[![Прокуратура Бровари](https://mpz.brovary.org/wp-content/uploads/2014/07/Prokuratura-Brovari.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/07/Prokuratura-Brovari.jpg)[Броварська міжрайонна прокуратура](http://brovaru-prokuratura.org.ua/) надала редакції "Маєш право знати" інформацію про стан законності на території м. Бровари за 6 місяців 2014 року. Розміщуємо ці відомості на сторінках нашого Інтернет-видання для того, щоб наші читачі могли ознайомитись з ними та дати належну оцінку роботі броварської прокуратури.**

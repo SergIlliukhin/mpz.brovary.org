@@ -8,6 +8,7 @@ tags:
   - "brovary"
   - "zemlya"
   - "novini"
+coverImage: "wp-content/uploads/2012/12/1324553943_nezakonnaya-arenda.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/12/1324553943_nezakonnaya-arenda.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/12/1324553943_nezakonnaya-arenda.jpg)20 грудня, на 26 черговій сесії Броварської міської ради, депутати планують затвердити [перелік земельних ділянок](http://docs.pravo-znaty.org.ua/p6093/22.11.2012) для **продажу права оренди** на земельних торгах окремими лотами. Також народні обранці планують [затвердити проекти землеустрою](http://docs.pravo-znaty.org.ua/p6092/22.11.2012) щодо відведення даних земельних ділянок. Про це йдеться у відповідних проектах рішень, які оприлюднено на офіційному веб-сайті міськради.

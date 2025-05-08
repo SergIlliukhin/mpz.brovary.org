@@ -14,6 +14,7 @@ tags:
   - "novini"
   - "yangol"
   - "yanchenko"
+coverImage: "wp-content/uploads/2015/02/dmitro-yanchenko-05.jpg"
 ---
 
 **[![дмитро янченко 05](https://mpz.brovary.org/wp-content/uploads/2015/02/dmitro-yanchenko-05.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/02/dmitro-yanchenko-05.jpg)Ще опів на дев’яту на в’їзді до міста з боку Києва почали збиратися люди, дехто – з національними прапорами в руках та чорними траурними стрічками. Броварчани, що приїхали сюди цього ранку, чекали на повернення свого героя. Тіло 25-річного Дмитра Янченка, який [загинув вчора під мінометним обстрілом в Дебальцево](https://mpz.brovary.org/sogodni-vrantsi-v-rezultati-obstrilu-pid-debaltsevo-odin-brovarchanin-zaginuv-inshiy-potrapiv-v-polon/), сьогодні привезли до рідних Броварів.**  

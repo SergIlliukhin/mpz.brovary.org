@@ -15,6 +15,7 @@ tags:
   - "rizanenko"
   - "unian"
   - "fedorenko"
+coverImage: "wp-content/uploads/2012/05/IMG_03631.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/05/IMG_03631.jpg "прес-конференція")](https://mpz.brovary.org/wp-content/uploads/2012/05/IMG_03631.jpg)Під час прес-конференції в УНІАН 14 травня громадські активісти Броварів оприлюднили нові схеми брудних передвиборчих технологій влади напередодні парламентських перегонів.

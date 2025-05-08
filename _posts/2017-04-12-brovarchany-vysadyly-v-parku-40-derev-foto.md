@@ -16,6 +16,7 @@ tags:
   - "novini"
   - "park"
   - "park-peremoga"
+coverImage: "wp-content/uploads/2017/04/17903840_1409440689119199_598752519612307967_n.jpg"
 ---
 
 **Вчора ввечері в парку "Перемога" біля озера броварчани [посадили](https://mpz.brovary.org/anons-11-kvitnya-aktyvisty-sadzhatymut-dereva-shukayut-dobrovoltsiv/) 40 дерев: берези та червоні дуби. Саджанці безкоштовно передав працівник лісництва із Зазим'я.**

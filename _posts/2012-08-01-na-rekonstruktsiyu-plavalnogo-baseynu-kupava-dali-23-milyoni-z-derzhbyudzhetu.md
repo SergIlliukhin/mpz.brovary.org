@@ -15,6 +15,7 @@ tags:
   - "tenderi"
   - "firma-gf"
   - "fedorenko"
+coverImage: "wp-content/uploads/2012/08/Kupava.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/08/Kupava.jpg "Kupava")](https://mpz.brovary.org/wp-content/uploads/2012/08/Kupava.jpg)Відділ капітального будівництва Броварської міськради Київської області 23 липня уклав угоду з **ТОВ «Фірма ГФ»** на реконструкцію плавального басейну «**Купава**» по вул.Шевченка, 10 в м.Бровари. Вартість угоди склала 22,53 млн грн. Про це [повідомляє сайт «**Наші гроші**»](http://nashigroshi.org/2012/08/01/azarov-dav-23-miljony-na-basejn-v-brovarah-svojemu-masazhystu-kandydatu-v-nardepy/) з посиланням на «Вісник державних закупівель».

@@ -13,6 +13,7 @@ tags:
   - "peredislokatsiya"
   - "simutin"
   - "semipolkivska-v-ch"
+coverImage: "wp-content/uploads/2013/12/1efd11468d_206030.jpg"
 ---
 
 **[![v-ukran-vdznachayut-den-suhoputnih-vysk-zbroynih-sil-1](https://mpz.brovary.org/wp-content/uploads/2013/12/v-ukran-vdznachayut-den-suhoputnih-vysk-zbroynih-sil-1.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/12/v-ukran-vdznachayut-den-suhoputnih-vysk-zbroynih-sil-1.jpg)Семиполківська військова частина А0415 відучора переведена в режим повної бойової готовності. Основна техніка частини перекинута в Київ разом з польовими кухнями, а особовий склад зобов’язали постійно перебувати в казармах в очікуванні наказу.**

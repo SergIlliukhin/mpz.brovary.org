@@ -12,6 +12,7 @@ tags:
   - "sapozhko"
   - "sesiya"
   - "sklikannya-sesiyi"
+coverImage: "wp-content/uploads/2012/07/gerb-Brovari.jpg"
 ---
 
 **[![герб Бровари зменшена](https://mpz.brovary.org/wp-content/uploads/2012/10/gerb-Brovari-zmenshena1.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/10/gerb-Brovari-zmenshena1.jpg)Завтра, 19 квітня 19 березня, о 9:00 розпочнеться позачергове засідання Броварської міської ради VI скликання. Про це йдеться у сьогоднішньому розпорядженні міського голови [№ 35](http://docs.pravo-znaty.org.ua/p7021/18.03.2013/35). На порядку денному всього одне питання - "Про розгляд питання щодо встановлення та зміни меж міста Києва за рахунок земель Броварської міської ради".**

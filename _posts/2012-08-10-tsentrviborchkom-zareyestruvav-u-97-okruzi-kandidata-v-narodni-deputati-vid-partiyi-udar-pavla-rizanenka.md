@@ -13,6 +13,7 @@ tags:
   - "rizanenko"
   - "reyestratsiya-kandidativ"
   - "tsvk"
+coverImage: "wp-content/uploads/2012/08/Rizanenko-ta-Klichko.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/08/Rizanenko-ta-Klichko.jpg "Різаненко та Кличко")](https://mpz.brovary.org/wp-content/uploads/2012/08/Rizanenko-ta-Klichko.jpg)9 серпня 2012 року Центральна виборча комісія зареєструвала висуванця політичної партії «УДАР» Павла Різаненка кандидатом у народні депутати України в одномандатному виборчому окрузі № 97.

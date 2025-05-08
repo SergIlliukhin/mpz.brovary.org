@@ -13,6 +13,7 @@ tags:
   - "novini"
   - "pidkup-vibortsiv"
   - "fedorenko"
+coverImage: "wp-content/uploads/2012/05/5-kanal.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/05/5-kanal.jpg "5-канал")](https://mpz.brovary.org/wp-content/uploads/2012/05/5-kanal.jpg)Сюжет «МПЗ» про підкуп виборців Сергієм Федоренком вкотре був продемонстрований на одному з провідних телеканалів країни. Цього разу відео журналіста Андрія Качора в підсумковому тижневому випуску новин продемонстрував «П’ятий канал».

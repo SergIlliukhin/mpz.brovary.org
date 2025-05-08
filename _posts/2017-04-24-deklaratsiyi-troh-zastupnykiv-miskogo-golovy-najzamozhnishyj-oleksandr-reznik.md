@@ -14,6 +14,7 @@ tags:
   - "e-deklaruvannya"
   - "zastupniki-miskogo-golovi"
   - "novini"
+coverImage: "wp-content/uploads/2017/04/dm-297-1.jpg"
 ---
 
 **"Маєш право знати" продовжує знайомити своїх читачів із е-деклараціями представників броварської влади. Свою декларацію вже [оприлюднив](https://mpz.brovary.org/e-deklaratsiya-igorya-sapozhka-za-2016-rik-bez-dzhypu-ale-z-novoyu-zemelnoyu-dilyankoyu/) міський голова Ігор Сапожко, також частково їх [публікують](https://mpz.brovary.org/e-deklaruvannya-blysk-zlydni-brovarskoyi-fraktsiyi-radykalna-partiya-lyashka/) депутати міськради. З'явилися в [Реєстрі](https://public.nazk.gov.ua/search) на сайті НАЗК і електронні декларації заступників броварського міського голови: Лариси Виноградової, Григорія Голубовського та Олександра Резніка.**

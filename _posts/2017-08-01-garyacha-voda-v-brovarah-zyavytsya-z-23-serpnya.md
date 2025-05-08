@@ -13,6 +13,7 @@ tags:
   - "garyache-vodopostachannya"
   - "novini"
   - "rozporyadzhennya-miskogo-golovi"
+coverImage: "wp-content/uploads/2017/08/voda1_6eae9-e1501597249941.jpg"
 ---
 
 **У другій половині серпня в оселях броварчан з’явиться гаряче водопостачання. Про це йдеться у [розпорядженні](http://brovary-rada.gov.ua/documents/27606.html) міського голови на офіційному сайті Броварської міської ради.**

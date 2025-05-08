@@ -13,6 +13,7 @@ tags:
   - "parlamentski-vibori-2014"
   - "sotsiologiya"
   - "sotsiopolis"
+coverImage: "wp-content/uploads/2012/09/Sotsdoslidzhennya.jpg"
 ---
 
 **[![Социополис2](https://mpz.brovary.org/wp-content/uploads/2012/10/Sotsiopolis2.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/10/Sotsiopolis2.jpg)Інститут соціальних технологій «Соціополіс» на замовлення Агентства моделювання ситуацій провів [опитування громадської думки мешканців виборчого округу № 97](http://sociopolis.ua/en/doslidzhenya/doslidzhenya/202-elect-97/) (м. Бровари, м. Березань, Баришівський район і частина Броварського району Київської області). Терміни проведення польового етапу опитування – з 4 по 8 жовтня 2014 року.**

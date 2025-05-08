@@ -12,6 +12,7 @@ tags:
   - "pozachergova-sesiya"
   - "sesiya"
   - "sklikannya-sesiyi"
+coverImage: "wp-content/uploads/2012/07/Bud_vlya-m_skoyi-radi-zagalniy-plan-3.jpg"
 ---
 
 **[![Броварська міська рада](https://mpz.brovary.org/wp-content/uploads/2012/07/Bud_vlya-m_skoyi-radi-zagalniy-plan-3.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/07/Bud_vlya-m_skoyi-radi-zagalniy-plan-3.jpg)Сьогодні в обід депутатів Броварської міськради почали обздвонювати та повідомляти, що завтра, 28 листопада, о 10:00 скликається позачергове пленарне засідання. При цьому депутату, що одразу вирушив до апарату ради за порядком денним та проектами рішень, відмовились надати ці документи. Також досі на офіційному веб-сайті не оприлюднено розпорядження міського голови про скликання позачергової сесії з переліком питань, що виносяться на розгляд .**

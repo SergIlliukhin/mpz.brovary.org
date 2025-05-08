@@ -17,6 +17,7 @@ tags:
   - "prozoro"
   - "remont"
   - "safronov"
+coverImage: "wp-content/uploads/2016/10/Proval_kanalizatsiya_GNS_00005.jpg"
 ---
 
 **Завтра, 11 листопада, відбудеться 21-ша позачергова сесія Броварської міської ради. Про це йдеться в [розпорядженні](http://brovary-rada.gov.ua/documents/26165.html) міського голови на офіційному сайті міськради.**

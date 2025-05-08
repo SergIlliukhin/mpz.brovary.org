@@ -13,6 +13,7 @@ tags:
   - "byudzhetni-sluhannya"
   - "viddil-kulturi"
   - "novini"
+coverImage: "wp-content/uploads/2016/08/den-nezalezhnosti-2016-34.jpg"
 ---
 
 **17 грудня в рамках планування місцевого бюджету на 2017 рік відбулися бюджетні слухання по броварському відділу культури.**

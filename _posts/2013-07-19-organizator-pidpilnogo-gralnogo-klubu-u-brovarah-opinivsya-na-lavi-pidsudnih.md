@@ -13,6 +13,7 @@ tags:
   - "novini"
   - "prokuratura-kiyivskoyi-oblasti"
   - "sud"
+coverImage: "wp-content/uploads/2013/07/Igrovi-avtomati2.jpg"
 ---
 
 **[![Ігрові автомати2](https://mpz.brovary.org/wp-content/uploads/2013/07/Igrovi-avtomati2.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/07/Igrovi-avtomati2.jpg)Прокуратура Київської області направила до суду обвинувальний акт відносно чоловіка, який  організував гральний бізнес в передмісті столиці. Про це [повідомляє прес-служба прокуратури](http://www.kobl.gp.gov.ua/ua/news.html?_m=publications&_t=rec&id=123404) на офіційному веб-сайті установи.**

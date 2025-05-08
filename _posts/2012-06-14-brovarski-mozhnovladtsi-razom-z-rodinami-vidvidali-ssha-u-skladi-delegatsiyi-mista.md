@@ -12,6 +12,7 @@ tags:
   - "rokford"
   - "sapozhko"
   - "troshhenko"
+coverImage: "wp-content/uploads/2012/06/Main.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/06/403402_405708332785227_1653856874_n.jpg "Rockford (Illinois, USA)")](https://mpz.brovary.org/wp-content/uploads/2012/06/403402_405708332785227_1653856874_n.jpg)Міжнародна Культурно-Освітня Асоціація ([ICEA](http://www.incea.org/ "International Cultural-Educational Association")) у партнерстві з Асоціацією Міст України ([АУМ](http://www.auc.org.ua "АУМ")) приймала делегацію з міста Бровари у місті Рокфорд (Іллінойс, США).

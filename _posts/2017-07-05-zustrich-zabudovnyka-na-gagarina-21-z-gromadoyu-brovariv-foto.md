@@ -15,6 +15,7 @@ tags:
   - "gagarina-21"
   - "novini"
   - "robocha-grupa"
+coverImage: "wp-content/uploads/2017/07/gagarina-1.jpg"
 ---
 
 **Майбутнє будівництво офісного центру на Гагаріна, 21 стало несподіванкою для мешканців прилеглих будинків. Свої наміри власники ділянки окреслили, коли два тижні тому зрізали там дерева. Відтоді відбулися імпровізовані [збори громади](https://mpz.brovary.org/meshkantsi-vyjshly-proty-zabudovy-na-vul-gagarina-zbyrayutsya-podavaty-sudu-foto/), міського голову Ігоря Сапожка [відвідали депутати з протестом](https://mpz.brovary.org/protest-proty-budivnytstva-ofisnogo-tsentru-na-gagarina-mer-poobitsyav-stvoryty-robochu-grupu-foto/), також було створено [робочу групу](http://brovary-rada.gov.ua/documents/27435.html) з цього питання. Сьогодні, 5 липня, відбулося перше засідання цієї групи.**

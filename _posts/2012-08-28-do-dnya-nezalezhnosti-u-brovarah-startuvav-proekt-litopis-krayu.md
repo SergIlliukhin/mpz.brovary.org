@@ -11,6 +11,7 @@ tags:
   - "litopis-krayu"
   - "novini"
   - "fond-rozvitku-gromad"
+coverImage: "wp-content/uploads/2012/08/Litopis-krayu.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/08/Litopis-krayu.jpg "Літопис краю")](https://mpz.brovary.org/wp-content/uploads/2012/08/Litopis-krayu.jpg)У День Незалежності у броварському інтернет-просторі відбулась онлайн-презентація культурно-історичного проекту «**[Літопис краю](http://www.livoberezhna.org/litopys-kraiu)**». У рамках даного проекту опубліковано електронний архів броварської міськрайонної газети "**Нове життя"**, яка виходить у нашому місті уже понад 75 років . Про це "Маєш право знати" повідомили у фонді розвитку громад "**Лівобережна Київщина**", за підтримки якого реалізовується даний проект.

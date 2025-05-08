@@ -12,6 +12,7 @@ tags:
   - "novini"
   - "okrug-97"
   - "parlamentski-vibori-2014"
+coverImage: "wp-content/uploads/2014/09/rps3.jpg"
 ---
 
 **[![rps3](https://mpz.brovary.org/wp-content/uploads/2014/09/rps3.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/09/rps3.jpg)Міський голова Броварів Ігор Сапожко, котрий донедавна був членом Партії регіонів, може бути висунутий кандидатом-мажоритарником на парламентських виборах від Радикальної партії Олега Ляшка по броварському виборчому округу. Про це [повідомляє сайт ТСН](http://ru.tsn.ua/politika/ekspert-v-brovarah-regionaly-krasyatsya-pod-radikalov-chtoby-poluchit-mandat-386037.html) з посиланням на відомого політтехнолога Володимира Цибулька.**

@@ -12,6 +12,7 @@ tags:
   - "virubka-derev"
   - "zeleni-nasadzhennya"
   - "novini"
+coverImage: "wp-content/uploads/2017/03/virubka-derev-e1490622851643.jpg"
 ---
 
 **Минулого тижня броварський виконавчий комітет надав дозвіл на зрізання 29 дерев в місті. Про це зазначено у [рішенні](http://brovary-rada.gov.ua/documents/26919.html) виконавчого комітету, опублікованого на офіційному сайті Броварської міської ради.**

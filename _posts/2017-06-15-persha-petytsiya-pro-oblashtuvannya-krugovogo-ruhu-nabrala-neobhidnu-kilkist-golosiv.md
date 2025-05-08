@@ -12,6 +12,7 @@ tags:
   - "brovarska-miska-rada"
   - "elektronni-petytsiyi"
   - "novini"
+coverImage: "wp-content/uploads/2017/06/4887775.jpg"
 ---
 
 **Навесні цього року на сайті Броварської міської ради запрацював [сервіс електронних петицій.](https://petition.brovary-rada.gov.ua/petitions/) Перша петиція про облаштування кругового руху на перехрестях міста набрала необхідні 250 голосів.**

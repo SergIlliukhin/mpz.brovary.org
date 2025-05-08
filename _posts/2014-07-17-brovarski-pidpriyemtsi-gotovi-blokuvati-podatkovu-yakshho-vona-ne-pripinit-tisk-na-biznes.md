@@ -13,6 +13,7 @@ tags:
   - "pidpriyemtsi"
   - "podatkova"
   - "tisk-podatkovoyi"
+coverImage: "wp-content/uploads/2014/07/Podatkova-pidpriyemtsi-3.jpg"
 ---
 
 **[![Податкова підприємці 3](https://mpz.brovary.org/wp-content/uploads/2014/07/Podatkova-pidpriyemtsi-3.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/07/Podatkova-pidpriyemtsi-3.jpg)Минулого тижня керівники броварських підприємств, які потерпають від тиску Броварської ОДПІ, ініціювали зустріч бізнесу, влади та податкової. Замість начальника інспекції прийшов його зам, який нині виконує обов’язки керівника, та й під час спілкування підприємці не отримали приводів для оптимізму. На наступну зустріч, що відбулась у цей вівторок як продовження діалогу, з податкової взагалі ніхто не прийшов.**

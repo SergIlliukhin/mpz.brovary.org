@@ -15,6 +15,7 @@ tags:
   - "sapozhko"
   - "sdobnyakova"
   - "tisk-na-zhurnalistiv"
+coverImage: "wp-content/uploads/2012/06/free-press.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/06/free-press.jpg "free press")](https://mpz.brovary.org/wp-content/uploads/2012/06/free-press.jpg)Нарешті в історії з [недопуском незалежної преси на сесії міськради](https://mpz.brovary.org/nevidomi-u-formi-militsiyi-blokuyut-bro/) можна поставити крапку. Сьогодні з'ясувалось, що ніяких порядків допуску ЗМІ на засідання ради у Броварах немає, як немає і правил акредитації ЗМІ при міськраді чи жодних інших документів, які б створювали додаткові зручності (чи незручності) для роботи місцевих журналістів.

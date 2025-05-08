@@ -12,6 +12,7 @@ tags:
   - "novini"
   - "pidkup-vibortsiv"
   - "fedorenko"
+coverImage: "wp-content/uploads/2012/04/napad21.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/04/HOTNEWS.jpg "HOTNEWS")](https://mpz.brovary.org/wp-content/uploads/2012/04/HOTNEWS.jpg)Сьогодні, 11 квітня, близько 12:00, в МКЦ «Прометей», під час проведення заходу в рамках соціальної програми депутата Сергія Федоренка «Люди наше майбутнє», на знімальну групу «Маєш право знати» відбувся напад з боку невідомих осіб.

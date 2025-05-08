@@ -15,6 +15,7 @@ tags:
   - "pohovannya"
   - "proshhannya"
   - "yanchenko"
+coverImage: "wp-content/uploads/2015/02/IMG_2289.jpg"
 ---
 
 **[![IMG_9989](https://mpz.brovary.org/wp-content/uploads/2015/02/IMG_9989.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/02/IMG_9989.jpg)Сьогодні, 5 лютого, на Майдані Свободи місто прощалося з молодим земляком, який два дні тому [загинув під мінометним обстрілом у Дебальцево.](https://mpz.brovary.org/sogodni-vrantsi-v-rezultati-obstrilu-pid-debaltsevo-odin-brovarchanin-zaginuv-inshiy-potrapiv-v-polon/)**

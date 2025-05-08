@@ -15,6 +15,7 @@ tags:
   - "pishohodi"
   - "pravila-dorozhnogo-ruhu"
   - "primusove-galmuvannya"
+coverImage: "wp-content/uploads/2012/10/1337932100_lezhachie-policeyskie.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/10/1337932100_lezhachie-policeyskie.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/10/1337932100_lezhachie-policeyskie.jpg)**Місто Бровари без перебільшення можна віднести до лідерів у нашій країні за кількістю встановлених пристроїв примусового зниження швидкості (більше відомих як «лежачі поліцейські»).** Важко пригадати хоча б одну вулицю з більш-менш інтенсивним рухом (окрім хіба що вул. Київської), на якій не встановлені подібні обмежувачі.

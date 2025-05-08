@@ -13,6 +13,7 @@ tags:
   - "novini"
   - "promizhni-vibori"
   - "torgmash"
+coverImage: "wp-content/uploads/2013/04/Sergii_Illiukhin.jpg"
 ---
 
 [![Сергій Іллюхін](https://mpz.brovary.org/wp-content/uploads/2013/04/Sergii_Illiukhin.jpg "Сергій Іллюхін")](https://mpz.brovary.org/wp-content/uploads/2013/04/Sergii_Illiukhin.jpg)**Минулого вівторка броварська ТВК [нарешті призначила](https://mpz.brovary.org/zaminu-rizanenku-zhiteli-torgmashu-obiratimut-na-pochatku-lita/) дату проміжних виборів до Броварської міськради у 20 виборчому окрузі - 2 червня 2013 року. Відповідно для місцевих осередків політичних сил розпочався період визначення майбутніх кандидатів для участі у виборчих перегонах. Першою партією, яка повідомила про те, кого планує незабаром висувати у якості претендента на "крісло" у раді, став "[Демократичний Альянс](http://dem-alliance.org)".**

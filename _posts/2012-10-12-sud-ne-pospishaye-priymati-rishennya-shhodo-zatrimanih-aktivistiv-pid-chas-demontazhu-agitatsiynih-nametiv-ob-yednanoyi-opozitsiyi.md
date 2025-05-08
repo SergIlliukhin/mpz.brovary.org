@@ -22,6 +22,7 @@ tags:
   - "tafiy"
   - "udar"
   - "hartanovich"
+coverImage: "wp-content/uploads/2012/10/pravosuddya.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/10/pravosuddya.jpg "правосуддя")](https://mpz.brovary.org/wp-content/uploads/2012/10/pravosuddya.jpg)Ще 11 вересня на Майдані Свободи відбулося перше [практичне «фізичне» застосування](https://mpz.brovary.org/shhoyno-na-brovarskomu-maydani-svobodi-militsiya-silomits-demontuvala-namet-batkivshhini/) незаконного, на думку багатьох суб'єктів виборчого процесу, [рішення виконкому Броварської міської ради №395 21.08.2012](http://docs.pravo-znaty.org.ua/p3929/21.08.2012/395) про визначення та обладнання місць для розміщення агітаційних наметів, яким було відведено всього два місця для проведення агітації у Броварах.  Міліція, керуючись цим документом, самовільно демонтувала агітаційні намети Об’єднаної опозиції. Під час дій правоохоронців відбулось затримання трьох активістів і вже наступного дня їх мали судити.

@@ -18,6 +18,7 @@ tags:
   - "okrug-97"
   - "sidanich"
   - "tsvk"
+coverImage: "wp-content/uploads/2012/10/cvk2.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/10/cvk3.jpg "cvk3")](https://mpz.brovary.org/wp-content/uploads/2012/10/cvk3.jpg)Активісти кількох опозиційних організацій з Броварів, серед яких члени «**УДАРу**», **ВО «Батьківщина**», **ВО «Свобода**», **КУН** та **УНА**, сьогодні пікетували Центральну виборчу комісію. Учасники пікетування вимагали замінити голову броварської ОВК №97 **Юліана Волошина** та секретаря **Максима Сіданіча**. Про це [на своєму сайті](http://groza.org/brovarskyj-komitet-protydiji-falsyfikatsiyam-piketuvav-tsvk/) повідомляє "**Громадський захист Київщини**".

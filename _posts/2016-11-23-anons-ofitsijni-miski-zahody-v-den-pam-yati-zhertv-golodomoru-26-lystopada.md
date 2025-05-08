@@ -13,6 +13,7 @@ tags:
   - "golodomor"
   - "den-pamyati-zhertv-golodomoriv"
   - "novini"
+coverImage: "wp-content/uploads/2016/11/65498304.jpg"
 ---
 
 **26 листопада в Україні відзначатимуть День пам’яті жертв голодомору і політичних репресій, який був запроваджений Указом Президента України в 1998 році. В Броварах в цей пам’ятний день пройде ряд офіційних заходів. Інформація про це [розміщена](http://www.kulturabr.kiev.ua/afisha/viddil-kultury/den-pamyati-zhertv-golodomoru) на сайті відділу культури Броварської міськради.**

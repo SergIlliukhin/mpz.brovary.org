@@ -13,6 +13,7 @@ tags:
   - "vibuh"
   - "novini"
   - "steyt-oil"
+coverImage: "wp-content/uploads/2015/01/6.jpg"
 ---
 
 **[![заправка 9](https://mpz.brovary.org/wp-content/uploads/2015/01/zapravka-9.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/01/zapravka-9.jpg)Пожежа на автозаправці "БРСМ-Нафта" виникла через навмисно закладену вибухівку. У цьому переконані  представники компанії «Стейт Оіл», що займається роздрібною торгівлею пальним в мережі АЗС з вказаним брендом. Після виходу [матеріалу про вибух](https://mpz.brovary.org/pozhezha-na-gazoviy-zapravtsi-brsm-nafta-u-brovarah-navmisniy-pidpal-chi-nedbalist/) на редакційну пошту «Маєш право знати» надійшов лист з офіційною позицією компанії стосовно події.**

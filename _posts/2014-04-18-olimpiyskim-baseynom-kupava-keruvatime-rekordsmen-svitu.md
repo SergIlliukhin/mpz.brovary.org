@@ -7,6 +7,7 @@ author:
 tags: 
   - "vibir-redaktsiyi"
   - "novini"
+coverImage: "wp-content/uploads/2014/04/breus3.jpg"
 ---
 
 **[![результати купава03](https://mpz.brovary.org/wp-content/uploads/2014/04/rezultati-kupava03.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/04/rezultati-kupava03.jpg)Сьогодні, о 15:00 було оголошено переможця громадського голосування за визначення кращої кандидатури на посаду директора басейну «Купава». З невеликим відривом перемогу здобув всесвітньо відомий пловець, броварчанин Сергій Бреус, отримавши 41% голосів.**

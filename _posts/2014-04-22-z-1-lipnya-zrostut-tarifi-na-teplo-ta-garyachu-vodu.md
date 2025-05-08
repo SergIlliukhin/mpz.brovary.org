@@ -10,6 +10,7 @@ tags:
   - "kp-brovariteplovodoenergiya"
   - "novini"
   - "tarifi"
+coverImage: "wp-content/uploads/2014/04/tarif.jpg"
 ---
 
 **[![tarif](https://mpz.brovary.org/wp-content/uploads/2014/04/tarif.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/04/tarif.jpg)З 1 липня 2014 року тарифи на тепло та підігрів води для населення зростуть на 30 %. Про це повідомляє офіційний [сайт Броварської міськради](http://brovary-rada.gov.ua/kp-%C2%ABbrovariteplovodoenerg%D1%96ya%C2%BB-pov%D1%96domlya%D1%94-pro-zm%D1%96nu-tarif%D1%96v-na-poslugi-z-tsentral%D1%96zovanogo-opalennya) з посиланням на КП «Броваритепловодоенергія». Підставою для підвищення тарифів стала Постанова Національної комісії, що здійснює державне регулювання у сфері комунальних послуг. Згідно з нею, нова вартість теплової енергії за 1 Гкал становитиме 290,48 грн. без ПДВ.**

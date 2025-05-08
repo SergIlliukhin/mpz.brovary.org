@@ -21,6 +21,7 @@ tags:
   - "peresliduvannya-zahisnikiv-parku"
   - "smirnov"
   - "tkachenko"
+coverImage: "wp-content/uploads/2013/06/Image00001.jpg"
 ---
 
 [![Image00001](https://mpz.brovary.org/wp-content/uploads/2013/06/Image00001.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/06/Image00001.jpg)**Сьогодні, 4 червня, у Броварському районному відділенні міліції допитували учасників суботника у парку «Перемога» 25 травня, під час якого сталися [сутички](https://mpz.brovary.org/krivavi-sutichki-vidbulis-u-brovarah-mizh-meshkantsyami-ta-zabudovnikami-tsentralnogo-parku/) активістів з міліцією та [молодиками](https://mpz.brovary.org/stvoryuyemo-reyestr-brovarskih-sportsmeniv-boyovikiv/) спортивної тілобудови. Нещодавно двом захисникам парку від ВО «Свобода» суд [присудив](https://mpz.brovary.org/u-brovarah-zirvavsya-blitskrig-vladi-yaka-vlashtuvala-sudilishhe-nad-svobodivtsyami/) адміністративний штраф, однак вже сьогодні, за словами активістів, міліція звинувачує вже більшу кількість учасників акції у кримінальному правопорушенні, зокрема у "хуліганстві, вчиненому групою осіб".**

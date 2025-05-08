@@ -18,6 +18,7 @@ tags:
   - "e-deklaratsiyi"
   - "e-deklaruvannya"
   - "novini"
+coverImage: "wp-content/uploads/2017/05/da.jpg"
 ---
 
 **1 травня сплив додатковий термін подачі електроних декларацій для місцевих депутатів. "Маєш право знати" вже [публікувало](https://mpz.brovary.org/e-deklaruvannya-blysk-zlydni-brovarskoyi-fraktsiyi-radykalna-partiya-lyashka/) декларації депутатів Броварської міської ради з фракції “Радикальної партії Ляшка”. Сьогодні аналізуємо е-декларації депутатів фракції “Демальянс”: Андрія Саука, Олега Берестового та Сергія Іллюхіна.**

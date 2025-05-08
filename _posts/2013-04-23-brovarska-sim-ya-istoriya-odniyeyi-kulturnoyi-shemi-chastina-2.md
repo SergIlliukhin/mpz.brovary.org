@@ -8,6 +8,7 @@ categories:
   - "rozsliduvannya"
 tags: 
   - "vibir-redaktsiyi"
+coverImage: "wp-content/uploads/2013/04/922929_582668558423425_2070445250_n1.jpg"
 ---
 
 [![922929_582668558423425_2070445250_n](https://mpz.brovary.org/wp-content/uploads/2013/04/922929_582668558423425_2070445250_n1.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/04/922929_582668558423425_2070445250_n1.jpg)

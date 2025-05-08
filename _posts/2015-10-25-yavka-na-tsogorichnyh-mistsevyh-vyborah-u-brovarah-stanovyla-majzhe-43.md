@@ -13,6 +13,7 @@ tags:
   - "mistsevi-vybory-2015"
   - "novini"
   - "yavka-vibortsiv"
+coverImage: "wp-content/uploads/2015/10/Den-vyboriv-IMG_3963.jpg"
 ---
 
 **Майже 43% виборців прийшло сьогодні на виборчі дільниці Броварів, повідомляють в одному з виборчих штабів.**

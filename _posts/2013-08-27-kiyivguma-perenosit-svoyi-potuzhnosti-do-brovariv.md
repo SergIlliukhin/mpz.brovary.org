@@ -10,6 +10,7 @@ tags:
   - "virobnitstvo"
   - "kiyivguma"
   - "novini"
+coverImage: "wp-content/uploads/2013/08/PIC_0315-11.jpg"
 ---
 
 [![Київгума](https://mpz.brovary.org/wp-content/uploads/2013/08/PIC_0315-11.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/08/PIC_0315-11.jpg)**Один з лідерів хімічної промисловості України - ТОВ "Київгума" - переносить свої виробничі потужності до Броварів. Відкриття заводу заплановано на вересень 2013 року** - про це [повідомляє](http://interfax.com.ua/news/economic/164969.html) "Інтерфакс-Україна" з посиланням на директора підприємства Андрія Острогруда.

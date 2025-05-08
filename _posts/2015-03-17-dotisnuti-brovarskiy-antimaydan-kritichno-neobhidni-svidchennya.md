@@ -15,6 +15,7 @@ tags:
   - "rizanenko"
   - "rozsliduvannya"
   - "shokin"
+coverImage: "wp-content/uploads/2015/03/640x480.jpg"
 ---
 
 **[![640x480](https://mpz.brovary.org/wp-content/uploads/2015/03/640x480.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/03/640x480.jpg)Учора мав зустріч з прокурором Броварів та району Романом Олефіренком з приводу ходу розслідування по справі Антимайдану, зокрема - щодо участі місцевих чиновників у відправці броварських бюджетників на мітинги за Януковича. Нагадаємо, що раніше був [оголошений збір свідчень від броварчан по цій справі](https://mpz.brovary.org/polyuvannya-na-titushok-2015-brovarska-prokuratura-zbiraye-svidchennya-pro-antimaydanivtsiv/), а паралельно ми почали систематизувати вже наявну інформацію, зібрану протягом усього періоду агонії режиму Януковича у Броварах.**  

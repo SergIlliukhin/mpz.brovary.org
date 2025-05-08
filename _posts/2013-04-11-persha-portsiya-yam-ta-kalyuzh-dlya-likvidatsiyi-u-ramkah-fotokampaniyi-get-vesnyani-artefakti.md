@@ -16,6 +16,7 @@ tags:
   - "fotokonkurs"
   - "yama"
   - "yami"
+coverImage: "wp-content/uploads/2013/04/YAma-bilya-Nezalezhnosti-4a.jpg"
 ---
 
 [![крокодил у калюжі](https://mpz.brovary.org/wp-content/uploads/2013/04/krokodil-u-kalyuzhi.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/04/krokodil-u-kalyuzhi.jpg)**Тиждень тому ми оголосили фотокампанію проти ям та калюж у Броварах від назвою "[Геть весняні артефакти](https://mpz.brovary.org/get-vesnyani-artefakti-fotokampaniya-proti-yam-ta-kalyuzh-na-brovarskih-dorogah/)!" На наш заклик робити знімки понівечених негодою та кинутих комунальниками напризволяще доріг та дворів відгукнулось чимало броварчан, які надіслали нам фото цих "артефактів". Наша редакція теж долучилась до цього "фотополювання" й, озброївшись об'єктивом, здійснила рейд по міських вулицях. Пропонуємо Вашій увазі 1 частину фотопідбірки.**

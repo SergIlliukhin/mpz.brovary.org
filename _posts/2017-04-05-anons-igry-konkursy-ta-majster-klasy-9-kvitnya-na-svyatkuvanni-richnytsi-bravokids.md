@@ -14,6 +14,7 @@ tags:
   - "novini"
   - "terminal"
   - "festival"
+coverImage: "wp-content/uploads/2017/02/bravokids-5.jpg"
 ---
 
 **9 квітня у Броварах [вчетверте](https://mpz.brovary.org/svyato-zhyvyh-emotsij/) проведуть дитячий фестиваль «БравоKids». Цього разу організатори планують відсвяткувати першу річницю від заснування. Обіцяють вільний вхід та насичену програму для дітей та батьків.**

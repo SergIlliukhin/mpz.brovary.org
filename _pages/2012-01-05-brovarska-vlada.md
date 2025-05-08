@@ -4,6 +4,7 @@ date: 2012-01-05
 author: 
   username: "pravoZnaty"
   display_name: "Маєш право знати"
+coverImage: "wp-content/uploads/2012/04/Igor-Sapozhko.jpg"
 ---
 
 ### Місцеве самоврядування у м.Бровари

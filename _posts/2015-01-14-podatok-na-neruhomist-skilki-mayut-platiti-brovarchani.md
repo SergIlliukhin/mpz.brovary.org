@@ -11,6 +11,7 @@ tags:
   - "vibir-redaktsiyi"
   - "podatok-na-neruhomist"
   - "simutin"
+coverImage: "wp-content/uploads/2015/01/Neruhomist.jpg"
 ---
 
 _[![Нерухомість](https://mpz.brovary.org/wp-content/uploads/2015/01/Neruhomist.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/01/Neruhomist.jpg)"**Податки - це ціна цивілізованості суспільства**"_ _Напис на фасаді Міністерства внутрішніх доходів США_

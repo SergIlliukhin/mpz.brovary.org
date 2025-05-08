@@ -16,6 +16,7 @@ tags:
   - "reyestratsiya-kandidativ"
   - "tsvk"
   - "tsentralna-viborcha-komisiya"
+coverImage: "wp-content/uploads/2012/08/TSVK3.jpg"
 ---
 
 **[![ЦВК3](https://mpz.brovary.org/wp-content/uploads/2012/08/TSVK3.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/08/TSVK3.jpg)Протягом минулих вихідних Центрвиборчком зареєстрував ще 10 кандидатів у виборчому окрузі № 97, до складу якого входять м. Бровари, м. Березань, частина Броварського та Баришівський райони. Загалом за інформацією на сайті ЦВК у розділі "[Кандидати в 97 окрузі](http://www.cvk.gov.ua/pls/vnd2014/WP033?PT001F01=910&pf7331=97)" станом на 1 жовтня 2014 року значиться 24 претендента на крісло в парламенті.**

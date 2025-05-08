@@ -11,6 +11,7 @@ tags:
   - "vaucheri"
   - "pratsevlashtuvannya"
   - "tsentr-zaynyatosti"
+coverImage: "wp-content/uploads/2013/05/Pidvishhennya-kvalifikatsiyi.jpg"
 ---
 
 **[![Підвищення кваліфікації](https://mpz.brovary.org/wp-content/uploads/2013/05/Pidvishhennya-kvalifikatsiyi.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/05/Pidvishhennya-kvalifikatsiyi.jpg)Здавалося  б, працівники з великим досвідом роботи та життєвим багажем - мрія кожного роботодавця. Проте сьогодні людям віком від 45 років та старше важко на рівних конкурувати на ринку праці.**

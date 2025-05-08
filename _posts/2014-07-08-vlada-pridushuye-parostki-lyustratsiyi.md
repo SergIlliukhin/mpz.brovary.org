@@ -10,6 +10,7 @@ tags:
   - "demontazh"
   - "lyustratsiya"
   - "mech-spravedlivosti"
+coverImage: "wp-content/uploads/2014/07/foto-1-22.jpg"
 ---
 
 **[![400328_rip_demotivators_to](https://mpz.brovary.org/wp-content/uploads/2014/07/400328_rip_demotivators_to.png)](https://mpz.brovary.org/wp-content/uploads/2014/07/400328_rip_demotivators_to.png)Вчора під стінами броварської прокуратури було вчинено акт політичного вандалізму.  Меч Справедливості, що його броварчани [встановили](https://mpz.brovary.org/mech-lyustratsiyi-navis-nad-prokurorom-garnikom/) на місці «люстрованого» під час революції пам’ятнику Леніну, був знищений разом з постаментом. Сам меч, який символізував очищення влади від залишків режиму Януковича і встановлення якого потрапило в прайм-тайм всеукраїнського ТБ, вивезений броварською владою на металолом.**

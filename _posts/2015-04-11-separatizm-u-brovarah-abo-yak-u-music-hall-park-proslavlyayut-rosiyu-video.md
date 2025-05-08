@@ -13,6 +13,7 @@ tags:
   - "proslavlyannya"
   - "rosiya"
   - "separatizm"
+coverImage: "wp-content/uploads/2015/04/Bez-imeni.jpg"
 ---
 
 [![Iu1T7Vs0DXw](https://mpz.brovary.org/wp-content/uploads/2015/04/Iu1T7Vs0DXw.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/04/Iu1T7Vs0DXw.jpg)**3 квітня, пізнього вечора п’ятниці, у центральній частині Броварів відбувся рейд закладами харчування. Громадські активісти, працівники соціальних служб та кримінальної міліції перевіряли, чи дотримуються ресторани, бари, нічні клуби вимог щодо захисту дітей. А саме – чи не продають неповнолітнім алкоголь і тютюнові вироби та чи не дозволяють їм перебувати в своїх закладах після 22:00. Як я вже [писав](https://mpz.brovary.org/hto-prodaye-alkogol-nepovnolitnim-aktivisti-proveli-reyd-po-zakladah-harchuvannya-u-brovarah/), з 7 перевірених закладів порушення знайшли лише в одному - «Music Hall Park». Однак про дещо я не згадав у своїй статті – у цьому кафе-барі не соромляться ані в присутності міліції, ані в присутності активістів прославляти Росію.**

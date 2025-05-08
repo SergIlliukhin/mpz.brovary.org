@@ -16,6 +16,7 @@ tags:
   - "rishennya-vikonkomu"
   - "rekonstruktsiya"
   - "shevchenko"
+coverImage: "wp-content/uploads/2013/03/31004937.jpg"
 ---
 
 \[caption id="attachment\_15313" align="alignleft" width="300"\][![Пам'ятник Тарасу Шевченку](https://mpz.brovary.org/wp-content/uploads/2013/03/31004937.jpg "Пам'ятник Тарасу Шевченку")](https://mpz.brovary.org/wp-content/uploads/2013/03/31004937.jpg) Парк ім.Т.Г.Шевченка (фото Panoramio.com)\[/caption\]

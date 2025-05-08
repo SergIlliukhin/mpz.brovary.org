@@ -15,6 +15,7 @@ tags:
   - "pidvyshhennya-tsin"
   - "tarifi-na-proyizd"
   - "tsini-na-proyizd"
+coverImage: "wp-content/uploads/2015/07/GroBro-marshrutky.jpg"
 ---
 
 **З 21 січня зросла ціна на проїзд міжміським маршрутом Бровари-Київ: з 9 до 12 гривень. Подорожчання відбувалося загалом по Київщині: в деяких містах проїзд наразі [становить 20 грн](http://bigkiev.com.ua/content/proezd-v-prigorodnyh-marshrutkah-podorozhal-do-20-griven) і більше, а десь підняття цін викликало протести - [громада намагається](https://www.facebook.com/trypilskiikrai/videos/597887127076758/?pnref=story) таким чином не допустити зростання тарифів. У Броварській міській раді прогнозують також здорожчання проїзду містом з 3.50 до 5 гривень, а може і більше.**

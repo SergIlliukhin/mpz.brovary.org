@@ -13,6 +13,7 @@ tags:
   - "novini"
   - "sapozhko"
   - "terorizm"
+coverImage: "wp-content/uploads/2012/06/IMG_4797.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/06/IMG_4797.jpg "блокування Майдану Свободи")](https://mpz.brovary.org/wp-content/uploads/2012/06/IMG_4797.jpg)Сьогодні, 29 червня, [за день до зустрічі лідера партії УДАР Віталія Кличка з броварчанами](https://mpz.brovary.org/z-nagodi-dnya-konstitutsiyi-do-brovariv-priyide-vitaliy-klichko/), на центральній площі Броварів – Майдані Свободи – знову з’явилась комунальна техніка, а сама площа обтягнута загороджувальними стрічками.  Саме на Майдані Свободи 30 червня має бути встановлена сцена, з якої близько 12:00 відомий спортсмен та політик має намір звернутись до громади Броварів.

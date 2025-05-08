@@ -13,6 +13,7 @@ tags:
   - "vibir-redaktsiyi"
   - "revolyutsiya-gidnosti"
   - "hroniki-revolyutsiyi"
+coverImage: "wp-content/uploads/2014/11/DSC67111.jpg"
 ---
 
 **«Маєш право знати» презентує 40-хвилинну відеохроніку революційних подій, що відбувались з кінця листопада 2013 і до початку березня 2014 років у Броварах.**

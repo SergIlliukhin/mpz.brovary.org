@@ -9,6 +9,7 @@ tags:
   - "vibir-redaktsiyi"
   - "novini"
   - "reyestr-publichnoyi-informatsiyi"
+coverImage: "wp-content/uploads/2012/05/Reyestr-Publichnoyi-Informatsiyi.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/05/Reyestr-Publichnoyi-Informatsiyi.jpg "Реєстр Публічної Інформації")](https://mpz.brovary.org/wp-content/uploads/2012/05/Reyestr-Publichnoyi-Informatsiyi.jpg)**Активістами "Маєш Право Знати" опубліковано повний електронний реєстр публічної інформації Броварської міської ради за 2011 рік.**

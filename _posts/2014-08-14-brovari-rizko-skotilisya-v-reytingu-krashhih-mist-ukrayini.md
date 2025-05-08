@@ -10,6 +10,7 @@ tags:
   - "novini"
   - "reyting"
   - "fokus"
+coverImage: "wp-content/uploads/2014/08/4GWZLYcS8dA.jpg"
 ---
 
 **[![4GWZLYcS8dA](https://mpz.brovary.org/wp-content/uploads/2014/08/4GWZLYcS8dA.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/08/4GWZLYcS8dA.jpg)Вперше за останні сім років місто Бровари не потрапили в рейтинг з 50 кращих міст України.**

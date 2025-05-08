@@ -12,6 +12,7 @@ tags:
   - "kuhnya"
   - "maydan-svobodi"
   - "novini"
+coverImage: "wp-content/uploads/2014/03/kuhnya.jpg"
 ---
 
 **[![кухня](https://mpz.brovary.org/wp-content/uploads/2014/03/kuhnya.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/03/kuhnya.jpg)Протягом трьох днів - сьогодні, завтра та післязавтра - на броварському Майдані Свободи буде проходити збір продуктів для Кухні Євроайдану, яка розташована біля Будинку Профспілок та забезпечує харчування активістів, що досі перебувають у центрі столиці.**

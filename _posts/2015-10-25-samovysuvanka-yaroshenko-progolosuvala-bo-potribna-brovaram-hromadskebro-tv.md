@@ -17,6 +17,7 @@ tags:
   - "mistsevi-vybory-2015"
   - "novini"
   - "yaroshenko"
+coverImage: "wp-content/uploads/2015/10/samovysuvanka-yaroshenko-progolo.jpg"
 ---
 
 Какдидат на посаду броварського міського голови **Олександра Ярошенко** проголосувала на виборчій дільниці у Броварському вищому училищі фізичної культури. Про це - у [сюжеті](https://www.youtube.com/watch?v=jXpy_-tJ1Tk) Громадського Бровари.

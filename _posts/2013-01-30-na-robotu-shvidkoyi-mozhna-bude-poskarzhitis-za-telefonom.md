@@ -14,6 +14,7 @@ tags:
   - "skargi"
   - "telefon"
   - "shvidka-dopomoga"
+coverImage: "wp-content/uploads/2013/01/1346056743_img_4596.jpg"
 ---
 
 [![1346056743_img_4596](https://mpz.brovary.org/wp-content/uploads/2013/01/1346056743_img_4596.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/01/1346056743_img_4596.jpg)**У Київському обласному центрі екстреної медичної допомоги організовано "гарячу телефонну лінію"** - [повідомляється](http://docs.pravo-znaty.org.ua/p6638/25.01.2013) на сайті Броварської міської ради.

@@ -13,6 +13,7 @@ tags:
   - "gryp"
   - "karantin"
   - "novini"
+coverImage: "wp-content/uploads/2016/02/maxresdefault.jpg"
 ---
 
 **У зв'язку з триваючою епідемією грипу, у міських школах вирішили продовжити карантин. Про це повідомила заступниця міського голови Лариса Виноградова, а згодом [підтвердив](http://brovary-rada.gov.ua/do-uvagi-shkolyar%D1%96v-ta-%D1%97kh-batk%D1%96v) сайт міськради.**

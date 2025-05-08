@@ -11,6 +11,7 @@ tags:
   - "zniknennya-taksista"
   - "novini"
   - "pograbuvannya-taksista"
+coverImage: "wp-content/uploads/2015/02/1015969_326731824194557_3106568316239235911_o.jpg"
 ---
 
 **[![Q9J3YY1f3W0](https://mpz.brovary.org/wp-content/uploads/2015/02/Q9J3YY1f3W0.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/02/Q9J3YY1f3W0.jpg)Зниклого 27-річного таксиста Михайла Артемчука колеги по роботі шукали дві доби. Знайшли в полі з двома кульовими пораненнями в голову, стікаючого кров'****ю, але живого і, не роздумуючи ні хвилини, відвезли в лікарню Броварів, чим врятували йому життя.** 

@@ -12,6 +12,7 @@ tags:
   - "novini"
   - "perevirka"
   - "sireni"
+coverImage: "wp-content/uploads/2016/02/sos-710x434.jpg"
 ---
 
 **11 лютого з 13:45 до 15 години у всьому місті відбудеться перевірка централізованої системи оповіщення населенням із включенням електросирен. Про це йдеться в офіційному [оголошенні](http://www.brovary.kiev.ua/11-lyutogo-2016-roku-bude-provoditis-perev%D1%96rka-sistemi-opov%D1%96shchennya-naselennya-%D1%96z-vklyuchennyam--0), опублікованому на сайті броварської міської ради.**

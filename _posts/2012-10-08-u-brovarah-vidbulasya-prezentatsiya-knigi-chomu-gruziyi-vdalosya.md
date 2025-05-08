@@ -19,6 +19,7 @@ tags:
   - "prezentatsiya"
   - "prezentatsiya-knigi"
   - "rizanenko"
+coverImage: "wp-content/uploads/2012/10/DSC_5793.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/10/DSC_5793.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/10/DSC_5793.jpg)У минулу середу, 3 жовтня, у Броварах відбулась [презентація](https://mpz.brovary.org/3-zhovtnya-vahtang-kipiani-rozkazhe-brovarchanam-chomu-gruziyi-vdalosya/) україномовного видання книги російської письменниці Лариси Буракової «**Чому Грузії вдалося?**». Участь у заході взяв український журналіст-публіцист грузинського походження **Вахтанг Кіпіані,** також до події долучилися філософ та публіцист **Анатолій Дністровий** і політолог **Євген Золотарьов**.

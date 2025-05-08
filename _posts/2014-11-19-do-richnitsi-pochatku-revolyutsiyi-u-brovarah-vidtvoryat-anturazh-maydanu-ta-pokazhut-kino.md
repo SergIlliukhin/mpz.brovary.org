@@ -12,6 +12,7 @@ tags:
   - "novini"
   - "richnitsya"
   - "revolyutsiya-gidnosti"
+coverImage: "wp-content/uploads/2014/11/0_15cbb4_c58058a2_orig.jpg"
 ---
 
 **[![36](https://mpz.brovary.org/wp-content/uploads/2014/11/36.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/11/36.jpg)21 листопада місцеві громадські активісти запрошують броварчан прийти на Майдан Свободи аби разом згадати, як і чому розпочався Майдан у столиці, як він переріс у національну революцію і до чого призвів у Броварах.**

@@ -18,6 +18,7 @@ tags:
   - "skochko"
   - "cherednik"
   - "chesno"
+coverImage: "wp-content/uploads/2013/03/pomichniki.jpg"
 ---
 
 **[![помічники](https://mpz.brovary.org/wp-content/uploads/2013/03/pomichniki.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/pomichniki.jpg)Як [повідомив](http://www.chesno.org/events/736/) всеукраїнський рух "ЧЕСНО", 20 народних депутатів України у відповідь на звернення учасників руху надали списки помічників-консультантів, які працюють на державній службі або залучені на громадських засадах.**

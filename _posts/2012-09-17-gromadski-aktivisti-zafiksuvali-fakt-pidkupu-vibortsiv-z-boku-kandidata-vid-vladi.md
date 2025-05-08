@@ -12,6 +12,7 @@ tags:
   - "novini"
   - "pidkup-vibortsiv"
   - "fedorenko"
+coverImage: "wp-content/uploads/2012/09/Rozdacha-paykiv.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/09/Rozdacha-paykiv.jpg "Роздача пайків")](https://mpz.brovary.org/wp-content/uploads/2012/09/Rozdacha-paykiv.jpg)Не зважаючи на [ганебне викриття ще на Великодень](https://mpz.brovary.org/fedorenko-rozpochav-peredviborchu-rozdachu-produktovih-naboriv-video/), коли масажист **Федоренко** на всю країну прославився роздачею продуктових наборів пенсіонерам, кандидат від **Партії регіонів** вирішив продовжити практику підкупу виборців вже за півтора місяці до дня голосування, - [повідомляє](http://www.nastup.info/?p=267) на своєму сайті броварська громадянська кампанія "**Наступ**".

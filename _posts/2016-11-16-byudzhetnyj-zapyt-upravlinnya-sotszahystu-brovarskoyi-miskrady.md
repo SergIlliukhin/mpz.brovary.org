@@ -13,6 +13,7 @@ tags:
   - "byudzhetni-sluhannya"
   - "novini"
   - "upravlinnya-sotsialnogo-zahystu"
+coverImage: "wp-content/uploads/2016/11/1458236207_pensoneri.jpg"
 ---
 
 **За [графіком](https://mpz.brovary.org/grafik-byudzhetnyh-sluhan-u-miskradi-na-tsej-tyzhden/) бюджетних слухань звіт броварського управління соцзахисту - 15 листопада.**

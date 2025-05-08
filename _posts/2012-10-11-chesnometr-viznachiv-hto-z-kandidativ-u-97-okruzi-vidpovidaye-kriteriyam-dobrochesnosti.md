@@ -19,6 +19,7 @@ tags:
   - "ratnikov"
   - "fedorenko"
   - "shapran"
+coverImage: "wp-content/uploads/2012/10/chesno2.jpg"
 ---
 
 **[![](https://mpz.brovary.org/wp-content/uploads/2012/10/chesno2.jpg "чесно2")](https://mpz.brovary.org/wp-content/uploads/2012/10/chesno2.jpg)Вчора громадянський рух "[Чесно](http://www.chesno.org)" оприлюднив результати аналізу відомостей про кандидатів у нардепи по 97 виборчому округу. Такими, що відповідають [критеріям](http://www.chesno.org/criteria/) "Чесно", визнано лише 4 з 9 потенційних народних обранців: Галицького, Діденка, Кравця та Різаненка. П'ятеро інших - Кищук, Коханівський, Ратніков, Федоренко та Шапран - не пройшли "фільтр громадськості".**

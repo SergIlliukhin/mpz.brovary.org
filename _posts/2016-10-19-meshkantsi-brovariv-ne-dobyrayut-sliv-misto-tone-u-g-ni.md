@@ -16,6 +16,7 @@ tags:
   - "kanalizatsiya"
   - "novini"
   - "proryv"
+coverImage: "wp-content/uploads/2016/10/Proryv_Grushevskogo_GNS_00024.jpg"
 ---
 
 **Броварські комунальники [ремонтують](https://mpz.brovary.org/vody-j-opalennya-sogodni-ne-bude-planuyut-daty-zavtra-zranku-komunalnyky/) прорив каналізації на Незалежності, по місту два дні немає води, а сьогодні прорвало і на вулиці Грушевського. Про каналізаційний апокаліпсис повідомляють мешканці у FB та місцеві ЗМІ.**

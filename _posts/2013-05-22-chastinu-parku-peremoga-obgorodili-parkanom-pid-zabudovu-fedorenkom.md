@@ -12,6 +12,7 @@ tags:
   - "sapozhko"
   - "fedorenko"
   - "fesko"
+coverImage: "wp-content/uploads/2013/05/IMG_01261.jpg"
 ---
 
 **[![Паркан у парку IMG_0075](https://mpz.brovary.org/wp-content/uploads/2013/05/Parkan-u-parku-IMG_0075.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/05/Parkan-u-parku-IMG_0075.jpg)Вчора ввечері стало відомо, що частину центрального міського парку «Перемога» обгородили дерев’яним парканом, який зазвичай використовують на будівництві.**

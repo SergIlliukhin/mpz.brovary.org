@@ -15,6 +15,7 @@ tags:
   - "rizanenko"
   - "trolejbus"
   - "fedorenko"
+coverImage: "wp-content/uploads/2013/01/20121.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2013/01/thumbnail.jpg "thumbnail")](https://mpz.brovary.org/wp-content/uploads/2013/01/thumbnail.jpg)_**Першу частину статті читайте [тут](https://mpz.brovary.org/drakonivskiy-2012-iy-golovni-podiyi-minulogo-roku-v-brovarah-shho-vplinut-na-maybutnye/)**_

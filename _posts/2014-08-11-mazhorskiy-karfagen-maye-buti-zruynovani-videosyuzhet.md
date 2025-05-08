@@ -13,6 +13,7 @@ tags:
   - "kafe"
   - "myuzik-holl"
   - "prometey"
+coverImage: "wp-content/uploads/2014/08/gl1.jpg"
 ---
 
 [![myuzik-hol141](https://mpz.brovary.org/wp-content/uploads/2014/08/myuzik-hol1412.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/08/myuzik-hol1412.jpg)3 серпня броварчани [провели акцію протесту](https://mpz.brovary.org/brovarchani-dali-vladi-10-dniv-na-viselennya-kafe-bagmutiv-z-prometeyu/) під МКЦ «Прометей» з вимогою виселити з міського культурного центру [скандальне кафе «Мюзік Хол»](https://mpz.brovary.org/krik-dushi-meshkantsiv-budinkiv-kotri-poterpayut-vid-susidstva-z-myuzik-holom/), що належить сину місцевої депутатки від Партії регіонів, начальниці відділу культури Наталії Багмут. Ініціатори акції – мешканці навколишніх будинків, активісти «Народного контролю» та журналісти «Маєш право знати» - показали присутнім театралізований перфоменс, яким хотіли продемонструвати, що відбувається зараз в «мажорському притоні», та що могло би бути замість нього в міському культурному центрі.

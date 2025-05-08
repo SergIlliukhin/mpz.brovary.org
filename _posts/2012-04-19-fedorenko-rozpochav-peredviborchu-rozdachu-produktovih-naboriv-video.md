@@ -18,6 +18,7 @@ tags:
   - "tisk-na-zhurnalistiv"
   - "fedorenko"
   - "chervoniy-hrest"
+coverImage: "wp-content/uploads/2012/04/fed11.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/04/fed11.jpg "fed1")](https://mpz.brovary.org/wp-content/uploads/2012/04/fed11.jpg)11 квітня в МКЦ «Прометей» відбувся захід під егідою депутата міської ради Сергія Федоренка, на якому броварчанам роздавали продуктові набори та показували фільм виробництва Московського патріархату «Сходження благодатного вогню».

@@ -12,6 +12,7 @@ tags:
   - "dopomoga-brovarskim-viyskovim"
   - "koordinatsiyniy-tsentr-dopomogi-brovarskim-viyskovim"
   - "koordtsentr"
+coverImage: "wp-content/uploads/2015/01/Koordtsentr-BVUFK-DSC01409.jpg"
 ---
 
 **[![Коордцентр БВУФК DSC01409](https://mpz.brovary.org/wp-content/uploads/2015/01/Koordtsentr-BVUFK-DSC01409.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/01/Koordtsentr-BVUFK-DSC01409.jpg)13 січня, напередодні Старого Нового року, волонтери Координаційного центру допомоги броварським військовим та доброволець 25 батальйону "Київська Русь" Леонід завітали до Броварського вищого училища фізичної культури, яке постійно надає допомогу нашим захисникам.**

@@ -16,6 +16,7 @@ tags:
   - "militsiya"
   - "novini"
   - "priyom-gromadyan"
+coverImage: "wp-content/uploads/2015/04/7TTfJT9Xz_g.jpg"
 ---
 
 **[![міліція_МВ](https://mpz.brovary.org/wp-content/uploads/2015/04/7TTfJT9Xz_g.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/04/7TTfJT9Xz_g.jpg)У Броварському МВ відбулась низка кадрових призначень, зокрема посади заступників начальника відділку обійняли Сергій Ступак та Віталій Курись. У зв'язку з цим публікуємо оновлений графік прийому громадян, який проводить керівний склад броварської міліції.** 

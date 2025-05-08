@@ -11,6 +11,7 @@ tags:
   - "vidstavka"
   - "vibir-redaktsiyi"
   - "sapozhko"
+coverImage: "wp-content/uploads/2012/06/21-sesiya_6.jpg"
 ---
 
 **[![21 сесія_6](https://mpz.brovary.org/wp-content/uploads/2012/06/21-sesiya_6.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/06/21-sesiya_6.jpg)Позиція Сапожка, що він просто три місяці намагався бути поза політикою і прагнув забезпечити в місті стабільність, не витримує жодної критики. Його [вихід з Партії регіонів](http://brovary.kiev.ua/of%D1%96ts%D1%96ina-zayava-brovarskogo-m%D1%96skogo-golovi-sapozhka-%D1%96v) стався надто пізно. Залишати лави кривавої партії, коли лік загиблим ведеться на десятки, - це не прояв мужності чи гідності. Це кон'юнктурництво та боягузтво. І, чесно кажучи, мені соромно за такого мера. Наше місто варте кращого.**

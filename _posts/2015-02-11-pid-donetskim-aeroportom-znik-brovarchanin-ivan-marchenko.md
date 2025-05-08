@@ -13,6 +13,7 @@ tags:
   - "donetskiy-aeroport"
   - "znikliy-brovarchanin"
   - "novini"
+coverImage: "wp-content/uploads/2015/02/image.jpeg"
 ---
 
 **[![image](https://mpz.brovary.org/wp-content/uploads/2015/02/image.jpeg)](https://mpz.brovary.org/wp-content/uploads/2015/02/image.jpeg)Після боїв за Донецький аеропорт в зоні АТО безвісти зник броварчанин Марченко Іван Миколайович, 1984 року народження. Востаннє на зв’язок з родичами боєць виходив 17 січня. Про це "Маєш право знати" повідомила сестра зниклого солдата Альона Марченко.**

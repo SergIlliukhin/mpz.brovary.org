@@ -8,6 +8,7 @@ categories:
   - "kolonka-avtora"
 tags: 
   - "brovary"
+coverImage: "wp-content/uploads/2016/03/verybig.jpeg"
 ---
 
 **Давайте спробуємо зрозуміти, що відбувається з нашим містом, тверезо подивившись в очі реальності.**

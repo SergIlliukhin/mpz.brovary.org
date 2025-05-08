@@ -14,6 +14,7 @@ tags:
   - "sapozhko"
   - "sesiya"
   - "sklikannya-sesiyi"
+coverImage: "wp-content/uploads/2012/08/gerb-Brovari.jpg"
 ---
 
 [![GorodBrovory_gerb](https://mpz.brovary.org/wp-content/uploads/2012/04/GorodBrovory_gerb.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/04/GorodBrovory_gerb.jpg)**У четвер, 14 серпня, о 14:00 в малій залі виконкому за адресою вул. Гагаріна, 15  відбудеться 46 чергова сесії Броварської міської ради. Відповідне [розпорядження](http://brovary-rada.gov.ua/rozporyadzhennya-m%D1%96skogo-golovi-%E2%84%96-133-od-v%D1%96d-10072014) міського голови з’явилось вчора на офіційному сайті міськради.**

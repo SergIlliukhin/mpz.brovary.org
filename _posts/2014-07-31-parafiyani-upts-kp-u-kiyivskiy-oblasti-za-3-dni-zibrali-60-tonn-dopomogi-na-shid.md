@@ -10,6 +10,7 @@ tags:
   - "koordinatsiyniy-tsentr-dopomogi-brovarskim-viyskovim"
   - "novini"
   - "otets-mihaylo"
+coverImage: "wp-content/uploads/2014/07/IMG_7268.jpg"
 ---
 
 **[![IMG_7268](https://mpz.brovary.org/wp-content/uploads/2014/07/IMG_7268.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/07/IMG_7268.jpg)****До кампанії по збору продуктів та коштів на потреби солдат активно долучились парафіяни Української православної церкви Київського патріархату.**

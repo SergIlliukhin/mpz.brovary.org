@@ -20,6 +20,7 @@ tags:
   - "yarmarok"
   - "yarmarok-vakansiy"
   - "yarmarok-profesij"
+coverImage: "wp-content/uploads/2017/04/383476.jpg"
 ---
 
 **20 квітня у Броварський центр зайнятості запрошують старшокласників (9-11 класи) та їхніх батьків. Про це йдеться в [оголошенні](http://brovary-rada.gov.ua/news/15037.html) на сайті Броварської міської ради.**

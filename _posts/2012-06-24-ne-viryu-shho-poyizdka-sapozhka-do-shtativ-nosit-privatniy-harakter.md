@@ -12,6 +12,7 @@ tags:
   - "rokford"
   - "sapozhko"
   - "ssha"
+coverImage: "wp-content/uploads/2011/11/%D0%86%D0%B3%D0%BE%D1%80-%D0%A1%D0%B0%D0%BF%D0%BE%D0%B6%D0%BA%D0%BE-%D1%81%D0%BF%D1%96%D0%BB%D0%BA%D1%83%D1%94%D1%82%D1%8C%D1%81%D1%8F-%D0%B7-%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D1%96%D1%81%D1%82%D0%B0%D0%BC%D0%B8.jpg"
 ---
 
 Хай би що там не вигадував пан Сапожко, але я не вірю, що його [поїздка до Штатів](https://mpz.brovary.org/sapozhko-zaperechuye-fakt-svogo-ofitsiynogo-vizitu-do-ssha/ "Сапожко заперечує факт свого офіційного візиту до США") носить приватний характер... Ось, що читаємо [на сайті ICEA:](http://www.incea.org/2012/05/26/icea-hosted-rockford-illinois-usa-and-brovary-kiev-ukraine-sister-cities-program-in-may-2012/)

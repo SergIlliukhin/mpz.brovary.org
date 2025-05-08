@@ -11,6 +11,7 @@ tags:
   - "vibir-redaktsiyi"
   - "oplata-za-pologi"
   - "pologove-viddilennya"
+coverImage: "wp-content/uploads/2015/01/Pologoviy-SAM_1279.jpg"
 ---
 
 **[![Пологовий SAM_1279](https://mpz.brovary.org/wp-content/uploads/2015/01/Pologoviy-SAM_1279.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/01/Pologoviy-SAM_1279.jpg)**

@@ -12,6 +12,7 @@ tags:
   - "kontsert"
   - "polske-kulturno-osvitnye-tovaristvo"
   - "rodina"
+coverImage: "wp-content/uploads/2015/02/YArmarok-Rodina_35.jpg"
 ---
 
 **[![Ярмарок Родина_9](https://mpz.brovary.org/wp-content/uploads/2015/02/YArmarok-Rodina_9.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/02/YArmarok-Rodina_9.jpg)В цю суботу, 14 лютого, об 11:30 у броварській Школі Мистецтв відбувся благодійний ярмарок та концерт «Добрі серця», що організувало Польське культурно-освітнє товариство «Родина» (Polskie kulturalno-oświatowe stowarzyszenie „Rodzina”). Запрошеними гостями були артисти київського ансамблю пісні і танцю «Поляни з-над Дніпра» (Zespół Folklorystyczny "Polanie znad Dniepru").**

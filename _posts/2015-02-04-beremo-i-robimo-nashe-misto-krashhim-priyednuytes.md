@@ -10,6 +10,7 @@ tags:
   - "v-yednosti-sila"
   - "vizmi-i-zrobi"
   - "samopomich"
+coverImage: "wp-content/uploads/2015/02/10959674_712942338805132_7723862099529278528_n.jpg"
 ---
 
 [![GzNQvQm4LW0](https://mpz.brovary.org/wp-content/uploads/2015/02/GzNQvQm4LW0.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/02/GzNQvQm4LW0.jpg)Вітаємо всіх мешканців нашого міста і всієї Броварщини! Наша команда вдячна порталу «Маєш право знати» за надану можливість вести на цьому сайті окрему колонку Броварської «Самопомочі»! Ми дуже раді, що відтепер ще більше броварчан дізнаються про нашу діяльність та долучатимуться до нас!

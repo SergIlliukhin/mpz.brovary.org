@@ -16,6 +16,7 @@ tags:
   - "mkts-prometej"
   - "novini"
   - "rodina"
+coverImage: "wp-content/uploads/2016/12/dni-polskiego-kina-20.jpg"
 ---
 
 **Цими вихідними у Броварах усі охочі могли відвідати міський культурний центр "Прометей" і поринути у атмосферу польського кіно. 9-11 грудня в місті [проходили](https://mpz.brovary.org/anons-u-brovarah-projdut-dni-polskogo-kino/) дні польського кіно: глядачам показали декілька стрічок, як художніх, так і документальних.**

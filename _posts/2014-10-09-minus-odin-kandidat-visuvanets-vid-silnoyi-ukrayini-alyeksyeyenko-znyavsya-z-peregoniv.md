@@ -22,6 +22,7 @@ tags:
   - "semenyaka"
   - "tsvk"
   - "tsentralna-viborcha-komisiya"
+coverImage: "wp-content/uploads/2014/10/aleks3.jpg"
 ---
 
 **[![aleks2](https://mpz.brovary.org/wp-content/uploads/2014/10/aleks2.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/10/aleks2.jpg)Михайло Трохимович Алєксєєнко, кандидатуру якого висунув партійний з’їзд Сильної України Сергія Тигіпка в якості мажоритарника по округу №97, зняв свою кандидатуру з виборів.**

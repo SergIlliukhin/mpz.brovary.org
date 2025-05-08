@@ -20,6 +20,7 @@ tags:
   - "parlamentski-vibori-2014"
   - "sadoviy"
   - "samopomich"
+coverImage: "wp-content/uploads/2014/10/DSC_0491.jpg"
 ---
 
 **[![DSC_0491](https://mpz.brovary.org/wp-content/uploads/2014/10/DSC_0491.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/10/DSC_0491.jpg)Під час короткого візиту до Броварів міський голова столиці Галичини розповів про реформи, які його політична сила планує ініціювати в парламенті та дав кілька порад Броварам щодо управління містом.**  

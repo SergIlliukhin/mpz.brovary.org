@@ -14,6 +14,7 @@ tags:
   - "novini"
   - "ombudsmen"
   - "prokuratura"
+coverImage: "wp-content/uploads/2012/12/Regionivska-shistka-044.jpg"
 ---
 
 **[![](https://mpz.brovary.org/wp-content/uploads/2012/12/Regionivska-shistka-044.jpg "Регіонівська шістка 044")](https://mpz.brovary.org/wp-content/uploads/2012/12/Regionivska-shistka-044.jpg)Броварська міжрайонна прокуратура та місцеві міліціонери не знайшли жодних ознак правопорушення під час скандального візиту Азарова в МКЦ «Прометей». На відповідні постанови місцевих правоохоронців журналісти «Маєш право знати» вже готують скарги до суду**  

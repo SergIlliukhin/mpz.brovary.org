@@ -10,6 +10,7 @@ tags:
   - "zaborona"
   - "mirni-zibrannya"
   - "novini"
+coverImage: "wp-content/uploads/2012/09/IMG_4032.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/08/Tablichka-vikonkomu-1.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/08/Tablichka-vikonkomu-1.jpg)**Виконавчий комітет Броварської міської ради, який і раніше [не вирізнявся дотриманням конституційного права громадян на мирні зібрання](https://mpz.brovary.org/splesk-zaboron-mirnih-zibran-u-brovarah-teroristichna-zagroza-vs-tehnichni-prichini/) та своїми рішеннями неодноразово пробував їх забороняти, вирішив поставити остаточну "крапку" у цьому питанні та визначив однє єдине місце на території міста, де броварчани можуть проводити мітинги, пікети, збори та демонстрації. Цим він вкотре перевищив власні повноваження та суттєво обмежив конституційне** **право громадян на мирні збори у Броварах.**

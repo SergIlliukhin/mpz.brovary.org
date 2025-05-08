@@ -17,6 +17,7 @@ tags:
   - "kashirina-15"
   - "notarius"
   - "serpokrilova"
+coverImage: "wp-content/uploads/2012/07/Kashirina-15-fotoskrin2.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/07/Kashirina-15-fotoskrin2.jpg "Каширіна 15 фотоскрін2")](https://mpz.brovary.org/wp-content/uploads/2012/07/Kashirina-15-fotoskrin2.jpg)У рамках проведення власного розслідування [ситуації, що сталась з інвесторами «індивідуально-багатоквартирного» будинку по вул. **Каширіна, 15**](https://mpz.brovary.org/budivelni-aferisti-prodayut-u-brovarah-kimnati-vlasnih-privatnih-budinkiv-yak-kvartiri/), журналісти «Маєш право знати» звернулись до незалежного експерта з питань нерухомості та нотаріальної справи і попросили прокоментувати ситуацію з будівельною аферою в Броварах та дати поради нашим читачам, щоб вони не повторювали помилок ошуканих покупців житла. Також ми попросили пані Юлію проаналізувати укладений громадянами-інвесторами попередній договір купівлі-продажу майнових прав.

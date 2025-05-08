@@ -16,6 +16,7 @@ tags:
   - "miskiy-golova"
   - "maryna-sapozhko"
   - "novini"
+coverImage: "wp-content/uploads/2016/08/sesiya-golos-rada-5.jpg"
 ---
 
 **"Маєш право знати" починає аналізувати електронні декларації, опубліковані в Реєстрі декларацій на сайті НАЗК. Серед перших - [декларація](https://public.nazk.gov.ua/declaration/a18e6f87-72cb-4a15-a41f-886cd1441f8c) міського голови Ігоря Сапожка.**

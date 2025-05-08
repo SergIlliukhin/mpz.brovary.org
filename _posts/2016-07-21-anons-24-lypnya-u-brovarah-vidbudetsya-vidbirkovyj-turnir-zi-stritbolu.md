@@ -18,6 +18,7 @@ tags:
   - "stritbol"
   - "turnir"
   - "usl"
+coverImage: "wp-content/uploads/2016/07/1469001685_afisha2016.jpg"
 ---
 
 **Цієї неділі у Броварах проведуть змагання з «баскетболу 3х3», більш відомого як стрітбол. Відбірковий турнір «[Street Sparta](http://www.3x3planet.com/en/event/details/TMG16HTCSHKPQUKR?tabView=Teams)» проходитиме в жіночій і чоловічій категоріях. Про це [йдеться](http://streetball.in.ua/featured/1136-usl-3h3-fiba-endorsed-street-sparta-brovari-24-lipnya.html) на сайті Української стрітбольної ліги 3х3 Міжнародної федерації баскетболу.**

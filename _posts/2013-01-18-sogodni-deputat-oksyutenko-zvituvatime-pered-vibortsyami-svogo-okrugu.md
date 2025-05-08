@@ -12,6 +12,7 @@ tags:
   - "deputati"
   - "zvituvannya"
   - "oksyutenko"
+coverImage: "wp-content/uploads/2013/01/Oksyutenko2.gif"
 ---
 
 **[![](https://mpz.brovary.org/wp-content/uploads/2013/01/Oksyutenko-616x1024.gif "Оксютенко")](https://mpz.brovary.org/wp-content/uploads/2013/01/Oksyutenko.gif)Сьогодні, 18 січня, о 18:00 депутат Броварської міської ради Володимир Оксютенко, обраний по мажоритарному виборчому округу № 15, звітуватиме перед виборцями. Зустріч проходитиме в актовій залі ЗОШ № 3 (вул. Леніна, 81).**

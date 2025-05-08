@@ -10,6 +10,7 @@ tags:
   - "brovary"
   - "gromadska-rada"
   - "militsiya"
+coverImage: "wp-content/uploads/2015/02/Gromadska-rada-pri-MV-DSC_0815.jpg"
 ---
 
 [![Gromadska-rada-pri-MV-DSC_0815](https://mpz.brovary.org/wp-content/uploads/2015/02/Gromadska-rada-pri-MV-DSC_0815.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/02/Gromadska-rada-pri-MV-DSC_0815.jpg)**Нещодавно Громадська рада при Броварській міліції нарешті [обрала своє керівництво](https://mpz.brovary.org/gromadsku-radu-pri-brovarskiy-militsiyi-ocholiv-zhurnalist-andriy-kachor/) і провела [перше «робоче» засідання.](http://7b.org.ua/articles/112-hromadska-rada-pry-mvs-nalahodzhuie-komunikatsii) Дуже приємно, що відбулось воно у конструктивному та продуктивному руслі. Під час обговорення плану діяльності на цей рік ми відразу охопили стільки питань та висунули стільки пропозицій до втілення, що марно їх описати в одному пості: такі кілометрові тексти перевантажують інформацією та замилюють головне.**

@@ -11,6 +11,7 @@ tags:
   - "novini"
   - "obgovorennya"
   - "plan-teritoriy"
+coverImage: "wp-content/uploads/2012/06/10_mkr_proplan.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/06/10_mkr_proplan.jpg "Детальний план території 10- го мікрорайону ")](https://mpz.brovary.org/wp-content/uploads/2012/06/10_mkr_proplan.jpg)На сайті Броварської міської ради [оприлюднено](http://docs.pravo-znaty.org.ua/p3162/21.06.2012 "Проект детального плану") Проект містобудівної документації для врахування громадських інтересів під час розроблення «Детального плану території 10- го мікрорайону (проект внесення змін)»

@@ -12,6 +12,7 @@ tags:
   - "novini"
   - "rem"
   - "sapozhko"
+coverImage: "wp-content/uploads/2014/12/krugliy-stil-17.jpg"
 ---
 
 [![krugliy-stil-17](https://mpz.brovary.org/wp-content/uploads/2014/12/krugliy-stil-17.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/12/krugliy-stil-17.jpg)**Постійні та раптові відключення електрики в місті Бровари, які тривають вже не перший тиждень, не підконтрольні місцевим органам влади та підприємствам, і керуються з поза меж нашого міста. Про це повідомив мер Броварів Ігор Сапожко під час зустрічі з громадою та журналістами 15 грудня в приміщенні малої зали міськвиконкому.**

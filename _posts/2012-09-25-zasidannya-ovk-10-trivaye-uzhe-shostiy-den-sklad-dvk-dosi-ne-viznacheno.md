@@ -15,6 +15,7 @@ tags:
   - "okrug-97"
   - "okruzhna-viborcha-komisiya"
   - "sityenkov"
+coverImage: "wp-content/uploads/2012/09/DSC_2510.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/09/DSC_2510.jpg "DSC_2510")](https://mpz.brovary.org/wp-content/uploads/2012/09/DSC_2510.jpg)Десяте засідання окружної комісії № 97 "триває" уже шостий день. Розпочавшись у четвер, 20 вересня, коли власне було [витягнуто жеребки для формування складу 135 ДВК у 97-му виборчому окрузі](https://mpz.brovary.org/zherebkuvannya-skladu-dvk-ne-dalo-rezultativ-gromadskist-zrobila-vlasniy-pidrahunok/), воно мало завершитись у п'ятницю, 21 вересня, встановленням остаточних результатів та оголошенням складу всіх дільничних комісій.

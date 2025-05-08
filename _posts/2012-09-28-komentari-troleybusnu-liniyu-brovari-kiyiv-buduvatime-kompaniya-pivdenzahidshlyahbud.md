@@ -11,6 +11,7 @@ tags:
   - "novini"
   - "trolejbus"
   - "fedorenko"
+coverImage: "wp-content/uploads/2012/09/troleybus1.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/09/troleybus1.jpg "тролейбус")](https://mpz.brovary.org/wp-content/uploads/2012/09/troleybus1.jpg)Відділ капітального будівництва Броварської міської ради Київської області вибрав вінницьку компанію «**Південьзахідшляхбуд**» для будівництва 1 і 2 черг тролейбусної лінії «Бровари-Київ». 24 вересня ПАТ «Південьзахідшляхбуд» отримала акцепт тендерної пропозиції на будівництво тролейбусної лінії «Бровари-Київ» вартістю **131,5 млн. грн**., повідомляє сайт «[Коментарі](http://ua.money.comments.ua/capital/2012/09/26/184052/troleybus-brovarikiiv-zapustit.html)» з посиланням на «[Вісник державних закупівель](http://www.ukrtender.com/)».

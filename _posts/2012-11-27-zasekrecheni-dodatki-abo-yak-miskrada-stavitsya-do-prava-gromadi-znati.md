@@ -13,6 +13,7 @@ tags:
   - "miska-rada"
   - "proekti-rishen"
   - "sesiya"
+coverImage: "wp-content/uploads/2012/11/Sayt-radi-2.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/11/Sayt-radi-2.jpg "Сайт ради 2")](https://mpz.brovary.org/wp-content/uploads/2012/11/Sayt-radi-2.jpg)Ретельно вивчаючи проекти рішень Броварської міськради, які виносяться на розгляд  [26-ої сесії 20 грудня](https://mpz.brovary.org/20-grudnya-vidbudetsya-26-chergova-sesiya-brovarskoyi-miskoyi-radi/), я зіштовхнулась з тим, що не з усіма з них я можу детально ознайомитись, хоч вони начебто всі й оприлюднені на офіційному веб-сайті у відповідний термін. А все тому, що частина з них не містить своєю  «невід’ємної» та вкрай важливої частини – додатків. І таких проектів рішень – 15 %.

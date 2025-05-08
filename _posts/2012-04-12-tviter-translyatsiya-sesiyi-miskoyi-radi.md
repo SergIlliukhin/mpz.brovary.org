@@ -15,6 +15,7 @@ tags:
   - "novini"
   - "sesiya"
   - "tviter-translyatsiya"
+coverImage: "wp-content/uploads/2012/04/1267601380_1262534858_twitter-icons-10.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/04/1267601380_1262534858_twitter-icons-10.jpg "1267601380_1262534858_twitter-icons-10")](https://mpz.brovary.org/wp-content/uploads/2012/04/1267601380_1262534858_twitter-icons-10.jpg)Сьогодні, о 14:00 розпочнеться twitter-трансляція 20-ої чергової сесії Броварської міської ради. Трансляцію вестиме журналіст «Маєш право знати» Аліна Дяченко безпосередньо з сесійної зали. Спостерігати за розвитком подій в міській раді під час відкритої сесії можна буде слідкуючи за твітер-екаунтом **[@pravoZnaty](https://twitter.com/#!/PravoZnaty).** Під час трансляції також використовуватиметься хештег трансляції - **#brovrada.**

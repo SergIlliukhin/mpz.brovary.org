@@ -12,6 +12,7 @@ tags:
   - "opituvannya"
   - "snigopad"
   - "chitachi-mpz"
+coverImage: "wp-content/uploads/2013/04/Myuzik-Hol-opituvannya.jpg"
 ---
 
 **У рамках [онлай-опитування читачів сайту “Маєш право знати”](https://mpz.brovary.org/chitachi-mpz-vvazhayut-shho-ratnikov-vidtyaguvav-golosi-na-viborah-a-straykaryam-brakuye-yuristiv/) ми поцікавились у броварчан, як вони оцінюють роботу влади та міських комунальних служб під час нещодавнього "[снігового колапсу](https://mpz.brovary.org/brovarchani-viyshli-na-borotbu-zi-snigovoyu-stihiyeyu-foto/)". А до того ми запитували у читачів, чи готові вони долучитись до [акцій протесту](https://mpz.brovary.org/yak-zupiniti-mazhorskiy-bezpredel-u-brovarah/) проти "мажорського" свавілля в Броварах, останній випадок якого зокрема стався у [кафе "Мюзік-Холл"](https://mpz.brovary.org/vosmogo-bereznya-ohorontsi-myuzik-holu-privitali-kliyentku-podviynim-perelomom-video/). 64 % відвідувачів "МПЗ" переконані, що влада не впоралась зі снігопадами, а 75 % готові брати участь в громадянських кампаніях проти закладів, у яких збиткуються з відвідувачів.**

@@ -17,6 +17,7 @@ tags:
   - "obmezhennya"
   - "rezhim-roboti"
   - "tandem"
+coverImage: "wp-content/uploads/2013/09/alkogol-tandem.jpg"
 ---
 
 **[![алкоголь тандем](https://mpz.brovary.org/wp-content/uploads/2013/09/alkogol-tandem.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/09/alkogol-tandem.jpg)Вчора, 24 вересня, броварський виконком [ухвалив рішення](http://docs.pravo-znaty.org.ua/p9134/24.09.2013/479) про обмеження часу роботи магазину «Тандем» з 6:00 години до 23:00 години. Раніше гастроном, розташований на центральній вулиці Броварів - бульв. Незалежності, працював у цілодобовому режимі.**

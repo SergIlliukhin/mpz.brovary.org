@@ -13,6 +13,7 @@ tags:
   - "kirova"
   - "lezhachi-politseski"
   - "remont"
+coverImage: "wp-content/uploads/2013/09/Politseyski-na-Kirova-4.jpg"
 ---
 
 **[![Поліцейські на Кірова 1](https://mpz.brovary.org/wp-content/uploads/2013/09/Politseyski-na-Kirova-1.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/09/Politseyski-na-Kirova-1.jpg)Уже майже тиждень біля парку ім. Шевченка, який "стаханівськими" темпами дореконструйовують до штучного дедлайну - Дня міста, встановлено "лежачі поліцейські". Усе б нічого, проте дбаючи про безпеку пішоходів, хтось при цьому геть забув про безпеку водіїв.**

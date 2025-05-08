@@ -13,6 +13,7 @@ tags:
   - "mobi"
   - "molod"
   - "sport"
+coverImage: "wp-content/uploads/2013/05/f73uAtKHuNE.jpg"
 ---
 
 Шановні броварчани!

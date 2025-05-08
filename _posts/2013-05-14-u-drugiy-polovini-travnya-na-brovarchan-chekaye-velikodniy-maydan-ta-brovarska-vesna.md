@@ -16,6 +16,7 @@ tags:
   - "rozporyadzhennya"
   - "rozporyadzhennya-miskogo-golovi"
   - "festival"
+coverImage: "wp-content/uploads/2013/05/pisanka.jpg"
 ---
 
 **[![писанка](https://mpz.brovary.org/wp-content/uploads/2013/05/pisanka.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/05/pisanka.jpg)Через два тижні після Пасхи у Броварах проведуть святкову програму під назвою "Великодній майдан", а наприкінці травня на творчих особистостей та їх шанувальників чекає міський фестиваль талантів "Броварська весна".**

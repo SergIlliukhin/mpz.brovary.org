@@ -12,6 +12,7 @@ tags:
   - "novini"
   - "sesiya"
   - "sklikannya-sesiyi"
+coverImage: "wp-content/uploads/2012/08/gerb-Brovari.jpg"
 ---
 
 **[![герб Бровари зменшена](https://mpz.brovary.org/wp-content/uploads/2012/10/gerb-Brovari-zmenshena1.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/10/gerb-Brovari-zmenshena1.jpg)4 липня 2013 року о 14-й годині в приміщенні малої зали броварського міськвиконкому за адресою: вул. Гагаріна, 15 відбудеться тридцять шоста чергова сесія Броварської міської ради VІ скликання.**

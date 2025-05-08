@@ -20,6 +20,7 @@ tags:
   - "peremoga"
   - "svyatkuvannya"
   - "sport"
+coverImage: "wp-content/uploads/2017/06/big-u-brovarah-polshha.jpg"
 ---
 
 **Цієї неділі спільнота [«Біг у Броварах»](https://mpz.brovary.org/amatorskyj-bigovyj-klub-u-brovarah-nedilni-probizhky-ta-marafony-foto/) святкуватиме річницю від свого створення. З цієї нагоди організатори клубу вирішили влаштувати в парку «Перемога» костюмовану естафету та інші спортивні заходи. Про це йдеться у [фейсбук-зустрічі](https://www.facebook.com/events/303593103422180/) «Бігу в Броварах».**

@@ -14,6 +14,7 @@ tags:
   - "novini"
   - "upravlinnya-osviti"
   - "shkoli"
+coverImage: "wp-content/uploads/2015/09/63.jpg"
 ---
 
 **Наше видання вже піднімало тему [переповненості броварських шкіл та садочків](https://mpz.brovary.org/brovarska-osvita-v-tsyfrah-tretyna-ditej-u-sadochkah-ponadnormovi-shkolyariv-masovo-perevodyat-na-drugu-zminu/). Одним з симптомів цього явища є розширення другої зміни у школах. Відповідно до даних управління освіти і науки Броварської міської ради, кількість дітей на другій зміні у цьому році зросла щонайменше на третину, найбільше потерпають п'ять шкіл міста.**

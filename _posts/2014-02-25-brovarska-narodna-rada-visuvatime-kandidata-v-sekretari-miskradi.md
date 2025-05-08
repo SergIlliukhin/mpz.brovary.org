@@ -7,6 +7,7 @@ author:
 tags: 
   - "vibir-redaktsiyi"
   - "novini"
+coverImage: "wp-content/uploads/2014/02/stock-footage-red-hot-news-earth-version-earth.jpg"
 ---
 
 [![stock-footage-red-hot-news-earth-version-earth](https://mpz.brovary.org/wp-content/uploads/2014/02/stock-footage-red-hot-news-earth-version-earth.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/02/stock-footage-red-hot-news-earth-version-earth.jpg)**Сьогодні, о 15:00 в приміщенні малої зали виконавчого комітету Броварської міської ради відбудеться екстрене засідання Народної Ради.**

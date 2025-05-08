@@ -12,6 +12,7 @@ tags:
   - "novini"
   - "ovk"
   - "sityenkov"
+coverImage: "wp-content/uploads/2012/09/Sitenkov.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/09/Sitenkov.jpg "Ситенков")](https://mpz.brovary.org/wp-content/uploads/2012/09/Sitenkov.jpg)У Броварах скандально відомий голова окружної виборчої комісії **Максим Ситєнков** пообіцяв знайти причину для "вигнання" одного з членів ОВК **Віталія Греня**, який не входить у провладну більшість, повідомляє сайт "Кореспондент" з посиланням на Громадський захист Київщини.

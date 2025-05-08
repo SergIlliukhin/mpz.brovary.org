@@ -16,6 +16,7 @@ tags:
   - "fedorenko"
   - "tsenzura"
   - "cherednik"
+coverImage: "wp-content/uploads/2013/07/zemelna-komisiya.jpg"
 ---
 
 \[caption id="attachment\_19076" align="alignleft" width="300"\][![Євген Віканов, член земельної комісії, депутат від Партії регіонів](https://mpz.brovary.org/wp-content/uploads/2013/07/vik3.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/07/vik3.jpg) Євген Віканов, член земельної комісії, депутат від Партії регіонів\[/caption\]

@@ -23,6 +23,7 @@ tags:
   - "skochko"
   - "tsvk"
   - "tsentralna-viborcha-komisiya"
+coverImage: "wp-content/uploads/2012/07/Prokuratura_3.jpg"
 ---
 
 **[![Прокуратура](https://mpz.brovary.org/wp-content/uploads/2012/07/Prokuratura_3.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/07/Prokuratura_3.jpg)Безслідне зникнення 136 печаток дільничних виборчих комісій в окрузі №97 тепер буде розслідувати прокуратура. Заяву про кримінальне правопорушення до правоохоронців подав народний депутат України Павло Різаненко. Нагадаємо, нещодавно один з членів окружкому Олексій Скочко заявив про про те, що всі печатки ДВК в окрузі [зникли.](https://mpz.brovary.org/u-viborchomu-okruzi-97-znikli-vsi-pechatki-dvk-chlen-okruzhnoyi-viborchoyi-komisiyi/)**

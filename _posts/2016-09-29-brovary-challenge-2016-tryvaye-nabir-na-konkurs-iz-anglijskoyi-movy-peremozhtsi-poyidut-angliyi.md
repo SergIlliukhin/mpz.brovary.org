@@ -20,6 +20,7 @@ tags:
   - "pryz"
   - "rizanenko"
   - "fond"
+coverImage: "wp-content/uploads/2016/09/1714.jpg"
 ---
 
 **У Броварах відбудеться конкурс із англійської мови «Brovary Challenge». Щороку його проводять серед старшокласників Броварів та Броварського району. Призери отримають цінні подарунки, а двох найкращих відправлять у двотижневу подорож до Англії. Про це йдеться у [повідомленні](http://www.livoberezhna.org/2-uncategorised/4325-pro-provedennia-konkursu-z-anhliiskoi-movy-brovary-challenge-dlia-uchniv-mista-brovary-ta-brovarskoho-raionu) на сайті фонду «Лівобережна Київщина».**

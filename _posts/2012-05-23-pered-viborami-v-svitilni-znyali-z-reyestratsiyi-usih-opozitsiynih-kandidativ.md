@@ -15,6 +15,7 @@ tags:
   - "rizanenko"
   - "svitilnya"
   - "tisk-na-zhurnalistiv"
+coverImage: "wp-content/uploads/2012/05/DSC_7286.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/05/DSC_7286.jpg "Прес-конференція щодо виборів в Світильні")](https://mpz.brovary.org/wp-content/uploads/2012/05/DSC_7286.jpg)23 травня в ІА «УНІАН» відбулась прес-конференція на тему: «Порушення виборчими комісіями прав співробітників ЗМІ: традиція чи привід визнати вибори недійсними?»

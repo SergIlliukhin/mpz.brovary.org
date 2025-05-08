@@ -13,6 +13,7 @@ tags:
   - "vibir-redaktsiyi"
   - "mayster-klas"
   - "novini"
+coverImage: "wp-content/uploads/2015/07/bardakova-majster-klas-102.jpg"
 ---
 
 **Як викинути з голови зайві думки, зняти напруження, позбутися комплексів, спробувала минулої неділі розповісти і навчити дикторка кіно та телебачення за фахом, модель та українська актриса, броварчанка Ірина Бардакова. 5 липня у парку «Перемога» за організації Центру молоді Броварів (ініціативна група "Самопоміч") відбувся її [майстер-клас з акторської майстерності](https://mpz.brovary.org/anons-na-majster-klasi-z-aktorskoyi-majsternosti-u-brovarah-vchytymut-improvizuvaty/).**

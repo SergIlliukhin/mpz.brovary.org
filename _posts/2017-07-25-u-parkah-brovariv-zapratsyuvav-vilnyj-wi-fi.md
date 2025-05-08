@@ -12,6 +12,7 @@ tags:
   - "brovary"
   - "vilnyj-internet"
   - "novini"
+coverImage: "wp-content/uploads/2017/07/wifi2.jpg"
 ---
 
 **З понеділка у місті запрацювали зони вільного Wi-Fi. Про це [повідомляється](http://brovary-rada.gov.ua/news/15425.html) на сайті Броварської міської ради.**

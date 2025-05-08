@@ -12,6 +12,7 @@ tags:
   - "provokatsiya"
   - "titushki"
   - "shturm"
+coverImage: "wp-content/uploads/2014/01/titushki2.jpg"
 ---
 
 **[![uwaga](https://mpz.brovary.org/wp-content/uploads/2014/01/uwaga.png)](https://mpz.brovary.org/wp-content/uploads/2014/01/uwaga.png)Джерела «Маєш право знати» повідомляють про можливу провокацію проти броварських протестувальників. За словами очевидців, наразі в мерію стягуються додаткові сили правоохоронців на додачу до тих, що були в приміщенні міськвиконкому на вул. Гагаріна, 15 ще зранку під час акції протесту.**

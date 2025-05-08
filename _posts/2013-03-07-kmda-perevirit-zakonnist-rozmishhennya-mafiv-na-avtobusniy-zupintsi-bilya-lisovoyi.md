@@ -14,6 +14,7 @@ tags:
   - "marshrutka"
   - "novini"
   - "sauk"
+coverImage: "wp-content/uploads/2013/03/Lesnaja-2.jpg"
 ---
 
 **[![Lesnaja-2](https://mpz.brovary.org/wp-content/uploads/2013/03/Lesnaja-2.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/Lesnaja-2.jpg)У відповідь на письмове прохання броварчан розширити місце для очікування пасажирів маршруток сполученням "Київ-Бровари" біля станції метро "Лісова" Київська міська державна адміністрація пообіцяла провести перевірку законності кіосків, які стоять вздовж усієї зупинки.**

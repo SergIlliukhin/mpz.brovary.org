@@ -14,6 +14,7 @@ tags:
   - "gromadskyj-byudzhet"
   - "novini"
   - "proekti"
+coverImage: "wp-content/uploads/2017/06/Dobrogorskyj-sportyvnyj-majdanchyk-byudzhet-uchasti.jpg"
 ---
 
 **Як [повідомляється](http://brovary-rada.gov.ua/news/15354.html) на офіційному сайті Броварської міської ради, голосування за проекти Громадського бюджету почнеться 7 липня і закінчиться 27 липня. Також оприлюднено протокол засідання Координаційної ради від 27.06.2017.**

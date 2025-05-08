@@ -13,6 +13,7 @@ tags:
   - "garyache-vodopostachannya"
   - "novini"
   - "tsini-na-teplo"
+coverImage: "wp-content/uploads/2015/04/12.jpg"
 ---
 
 [![10](https://mpz.brovary.org/wp-content/uploads/2015/04/10.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/04/10.jpg)

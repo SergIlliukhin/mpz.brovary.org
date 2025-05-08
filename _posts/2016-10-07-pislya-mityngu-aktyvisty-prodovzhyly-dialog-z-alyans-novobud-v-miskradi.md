@@ -19,6 +19,7 @@ tags:
   - "zustrich-z-meshkantsyami"
   - "novini"
   - "protest"
+coverImage: "wp-content/uploads/2016/10/14590358_1187753747948956_1413139884815373162_n.jpg"
 ---
 
 **Сьогодні, 7 жовтня, відбулася зустріч активних мешканців із забудовником “Альянс Новобуд” та мером Броварів Ігорем Сапожком щодо скасування дозволу про вирубку лісової смуги та припинення будівництва. Нагадаємо, люди вчора [зібрались](https://mpz.brovary.org/brovarchany-protestuyut-proty-budivnytstva-na-symonenka-chornovola-znesly-ogorozhu-foto/) на акцію протесту проти будівництва багатоповерхівок на вул. Симоненко.**

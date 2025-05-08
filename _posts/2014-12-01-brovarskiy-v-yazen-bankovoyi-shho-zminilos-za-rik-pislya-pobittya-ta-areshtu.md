@@ -13,6 +13,7 @@ tags:
   - "novini"
   - "svitlana-zagorovka"
   - "shturm-bankovoyi"
+coverImage: "wp-content/uploads/2014/12/Zagorovka-SAM_1028.jpg"
 ---
 
 **[![Загоровка SAM_1016](https://mpz.brovary.org/wp-content/uploads/2014/12/Zagorovka-SAM_1016.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/12/Zagorovka-SAM_1016.jpg)Броварчанин Владислав Загоровко – [один із дев’яти заарештованих](https://mpz.brovary.org/sered-pobitih-pid-administratsiyeyu-prezidenta-ta-zaareshtovanih-za-organizatsiyu-masovih-bezporyadkiv-ye-brovarchanin/), кого під час «мирної» акції 1 грудня 2013 року на вулиці Банковій побив «Беркут» та кого звинуватили в організації масових заворушень й взяли під варту. За те, що Владислав пішов на мирний мітинг, йому «світило» від 15 років позбавлення волі до довічного ув’язнення.** **Сьогодні виповнюється рівно рік від тих буремних подій, які разом з жорстоким розгоном студентів стали стали точкою неповернення на шляху до революційних подій на Майдані та назавжди змінили суспільну свідомість українців. А от які зміни ці події спричинили у житті [броварської родини Загоровок](https://mpz.brovary.org/gromadske-radio-zrobilo-interv-yu-z-vladislavom-ta-svitlanoyu-zagorovkami/), журналіст " Маєш право знати" вирішила запитати у самого подружжя.** 

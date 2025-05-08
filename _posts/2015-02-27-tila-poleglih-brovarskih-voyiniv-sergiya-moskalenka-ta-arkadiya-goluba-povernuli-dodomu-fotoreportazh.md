@@ -15,6 +15,7 @@ tags:
   - "novini"
   - "proshhannya"
   - "sergiy-moskalenko"
+coverImage: "wp-content/uploads/2015/02/Zustrich-zagiblih-brovarchan-IMG_0311.jpg"
 ---
 
 **[![Зустріч загиблих броварчан IMG_0311](https://mpz.brovary.org/wp-content/uploads/2015/02/Zustrich-zagiblih-brovarchan-IMG_0311.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/02/Zustrich-zagiblih-brovarchan-IMG_0311.jpg)Сьогодні вранці сотні броварчан зустрічали траурну автоколону з тілами загиблих земляків Сергія Москаленка та Аркадія Голуба, котрі віддали свої життя в боях під Дебальцевом ще на початку лютого.**

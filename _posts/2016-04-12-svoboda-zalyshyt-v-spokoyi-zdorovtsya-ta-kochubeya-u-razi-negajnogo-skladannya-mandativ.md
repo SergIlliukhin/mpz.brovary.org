@@ -12,6 +12,7 @@ tags:
   - "kochubej"
   - "mandaty"
   - "svoboda"
+coverImage: "wp-content/uploads/2016/04/svoboda-otzyv141111-1.jpg"
 ---
 
 **Заява броварського осередку ВО «Свобода» щодо депутатів міської ради В. Кочубея та О. Здоровця.**

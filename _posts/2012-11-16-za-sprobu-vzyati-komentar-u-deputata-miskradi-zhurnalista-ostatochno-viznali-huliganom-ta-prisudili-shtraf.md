@@ -16,6 +16,7 @@ tags:
   - "suddya-sliva"
   - "tisk-na-zhurnalistiv"
   - "fedorenko"
+coverImage: "wp-content/uploads/2012/11/Kachor2.png"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/11/Kachor2.png "Качор2")](https://mpz.brovary.org/wp-content/uploads/2012/11/Kachor2.png)Суддя апеляційного суду Київської області Юрій Слива залишив без розгляду апеляцію Андрія Качора  на позов підлеглих масажиста Азарова. Таким чином журналіста офіційно визнано винним у хуліганстві за здійснення професійної діяльності згідно з редакційним завданням. Про це [на своєму сайті](http://www.nastup.info/?p=467) повідомляє громадянська кампанія "Наступ".

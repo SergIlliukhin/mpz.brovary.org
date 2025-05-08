@@ -15,6 +15,7 @@ tags:
   - "kp-orts"
   - "novini"
   - "popovnennya-statutnogo-fondu"
+coverImage: "wp-content/uploads/2013/05/Baseyn-KP-ORTS-1.jpg"
 ---
 
 **На чергову 28-му [сесію](https://mpz.brovary.org/anons-11-travnya-u-brovarah-vidbudetsya-28-ma-chergova-sesiya-miskrady/) Броварської міської ради виноситься [проект рішення](http://brovary-rada.gov.ua/documents/27020.html) щодо фінансової підтримки КП "ОРЦ" на 3,2 млн грн. Першочергово розглядати його будуть на гуманітарній та бюджетній [комісіях](https://mpz.brovary.org/anons-oprylyudneno-grafik-zasidan-postijnyh-deputatskyh-komisij-v-ramkah-28-yi-sesiyi/). У той же час на профільну комунальну комісію проект не виноситься.**

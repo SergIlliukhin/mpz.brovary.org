@@ -14,6 +14,7 @@ tags:
   - "navchannya"
   - "novini"
   - "shkoli"
+coverImage: "wp-content/uploads/2017/01/1481877320_1_main.jpg"
 ---
 
 **У броварських школах відновлять навчання у найближчу середу, 11 січня. Про це [повідомляє](https://www.facebook.com/permalink.php?story_fbid=1388720814503305&id=1103471506361572) управління освіти і науки Броварської міської ради.**

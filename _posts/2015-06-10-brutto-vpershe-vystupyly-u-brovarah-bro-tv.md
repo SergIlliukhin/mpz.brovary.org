@@ -13,6 +13,7 @@ tags:
   - "gromadske-telebachennya"
   - "kontsert"
   - "trts-terminal"
+coverImage: "wp-content/uploads/2015/06/brutto-14.jpg"
 ---
 
 

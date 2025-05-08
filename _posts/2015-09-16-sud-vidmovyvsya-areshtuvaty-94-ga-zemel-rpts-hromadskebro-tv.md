@@ -13,6 +13,7 @@ tags:
   - "gromadske-telebachennya"
   - "pavlo-rizanenko"
   - "sud"
+coverImage: "wp-content/uploads/2015/09/suddya-kichynska.jpg"
 ---
 
 

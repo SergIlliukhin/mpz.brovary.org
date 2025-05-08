@@ -16,6 +16,7 @@ tags:
   - "semenyuk-kiyashko"
   - "fedorenko"
   - "fesko"
+coverImage: "wp-content/uploads/2012/11/fesko.jpg"
 ---
 
 **[![](https://mpz.brovary.org/wp-content/uploads/2012/11/fesko.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/11/fesko.jpg)Майже рік тому історія з «експропріацією» басейну школи № 9 на користь особистого масажиста Азарова прогриміла на всю країну. Спочатку [серію журналістських розслідувань](http://lb.ua/news/2011/12/12/127585_imenem_azarova.html) на цю тему зробила відома українська журналістка Тетяна Чорновіл для газети «Лівий берег», потім [підключився](https://mpz.brovary.org/yak-telekanal-tvi-znimav-syujet-pro-brovarsky-baseyny/) телеканал «ТВі». Команада «Маєш право знати» також неодноразово [намагалась з'ясувати](https://mpz.brovary.org/tarifi-kp-ozdorovcho-reabilitatsiyniy-tsentr-u-vilnomu-plavanni/) подробиці історії про те, як місце для уроків плавання міських школярів перетворилось на місце для оздоровлення та реабілітацію заможних броварчан, при цьому чомусь усе одно залишаючись збитковим.** 

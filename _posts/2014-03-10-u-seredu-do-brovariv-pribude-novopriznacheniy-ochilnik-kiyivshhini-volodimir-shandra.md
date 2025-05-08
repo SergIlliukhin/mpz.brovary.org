@@ -14,6 +14,7 @@ tags:
   - "novini"
   - "oblderzhadministratsiya"
   - "shandra"
+coverImage: "wp-content/uploads/2014/03/shandra_l2.jpg"
 ---
 
 **[![shandra_1m_1](https://mpz.brovary.org/wp-content/uploads/2014/03/shandra_1m_1.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/03/shandra_1m_1.jpg)Цієї середи, 12 березня, в приміщенні міського відділу по роботі зі зверненнями громадян (бульвар Незалежності, 2) з 10:00 виїзний прийом громадян буде проводити новопризначений голова Київської облдержадміністрації Володимир Шандра. Про це  [повідомляє](http://brovary-rada.gov.ua/do-uvagi-brovarchan-priiom-gromadyan) офіційний сайт Броварської міської ради. Аналогічна інформація подається і в [графіку прийомів](http://koda.gov.ua/grafiki_prijomu) Володимира Шандри на сайті КОДА.** 

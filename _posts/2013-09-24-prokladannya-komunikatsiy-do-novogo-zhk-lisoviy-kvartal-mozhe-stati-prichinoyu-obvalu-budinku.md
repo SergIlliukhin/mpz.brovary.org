@@ -12,6 +12,7 @@ tags:
   - "kiyivska-288"
   - "novini"
   - "obval-budinku"
+coverImage: "wp-content/uploads/2013/09/spetstehn_ka-shho-protyaguye-trubu-p_d-zemleyu.jpg"
 ---
 
 **[![спецтехн_ка, що протягує трубу п_д землею](https://mpz.brovary.org/wp-content/uploads/2013/09/spetstehn_ka-shho-protyaguye-trubu-p_d-zemleyu.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/09/spetstehn_ka-shho-protyaguye-trubu-p_d-zemleyu.jpg)Цілісність та непорушність багатоповерхівки  №288 по вул. Київській опинилась під загрозою. Будівельна компанія «Альянс Новобуд» буквально у кількох метрах від будинку прокладає комунікації до нового житлового комплексу «Лісовий квартал». Люди стурбовані, адже, за їх словами, внаслідок будівельних робіт на стінах їхньої будівлі вже починають з’являтись тріщини. Висотка стоїть на грунтовій «подушці», тому ймовірність обвалу дуже висока, переконані мешканці.**

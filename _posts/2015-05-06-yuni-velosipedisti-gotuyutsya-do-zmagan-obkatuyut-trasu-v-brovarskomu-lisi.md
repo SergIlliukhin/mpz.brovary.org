@@ -11,6 +11,7 @@ tags:
   - "vibir-redaktsiyi"
   - "novini"
   - "shkolyari"
+coverImage: "wp-content/uploads/2015/05/velotrenuvannya8.jpg"
 ---
 
 **[![велотренування4](https://mpz.brovary.org/wp-content/uploads/2015/05/velotrenuvannya4.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/05/velotrenuvannya4.jpg)30 травня у Броварах відбудуться незвичайні змагання — перший в історії нашого міста Відкритий чемпіонат з велокросу для школярів. На початку травня у броварському лісі відбулася своєрідна репетиція турніру — тренування майбутніх юних учасників.**

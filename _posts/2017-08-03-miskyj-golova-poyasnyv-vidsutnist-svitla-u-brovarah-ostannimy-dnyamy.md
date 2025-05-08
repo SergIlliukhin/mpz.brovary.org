@@ -14,6 +14,7 @@ tags:
   - "vymknennya-elektroenergiyi"
   - "novini"
   - "svitlo"
+coverImage: "wp-content/uploads/2017/08/p_196503_1_slidertop2-e1501771168710.jpg"
 ---
 
 **Міський голова Броварів Ігор Сапожко сьогодні [оприлюднив](https://www.facebook.com/i.sapozhko/posts/1934126316859045) на свої сторінці у соціальній мережі FB офіційне пояснення щодо відсутності світла останніми днями на деяких броварських вулицях.**

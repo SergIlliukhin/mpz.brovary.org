@@ -10,6 +10,7 @@ tags:
   - "melnik"
   - "novini"
   - "sud"
+coverImage: "wp-content/uploads/2013/09/melnik.jpg"
 ---
 
 **[![мельник](https://mpz.brovary.org/wp-content/uploads/2013/09/melnik.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/09/melnik.jpg)Прокуратура передала до суду справу міліціонерів, які неналежно контролювали роботу браслету екс-ректора податкової академії Петра Мельника. Про це [повідомляє](http://www.pravda.com.ua/news/2013/09/12/6997781/) сайт "Укранська правда" з посиланням на [прес-службу](http://www.kobl.gp.gov.ua/ua/news.html?_m=publications&_c=view&_t=rec&id=127451) київської прокуратури.**

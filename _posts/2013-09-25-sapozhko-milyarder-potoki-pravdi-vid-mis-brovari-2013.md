@@ -14,6 +14,7 @@ tags:
   - "mis-brovari"
   - "sapozhko"
   - "tetyana-luchko"
+coverImage: "wp-content/uploads/2015/06/sapozhko-milyarder-8211-strashna.jpg"
 ---
 
 **[![Лучко](https://mpz.brovary.org/wp-content/uploads/2013/09/Luchko.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/09/Luchko.jpg)Особливо коментувати дане відео не хочеться – все на моніторі, моралізаторство чи менторство в цьому випадку навряд чи доречні.** 

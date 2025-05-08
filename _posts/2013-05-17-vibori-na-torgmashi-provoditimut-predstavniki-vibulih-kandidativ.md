@@ -14,6 +14,7 @@ tags:
   - "tvk"
   - "tehnichni-kandidati"
   - "torgmash"
+coverImage: "wp-content/uploads/2013/05/Falsifikatsiya-viboriv.png"
 ---
 
 [![Фальсифікація виборів](https://mpz.brovary.org/wp-content/uploads/2013/05/Falsifikatsiya-viboriv.png)](https://mpz.brovary.org/wp-content/uploads/2013/05/Falsifikatsiya-viboriv.png)**14 травня Броварська міська виборча комісія [постановою № 38](http://www.brovary.kiev.ua/vibori-2013r) затвердила склад двох дільничних виборчих комісій.** **Саме ці люди відповідатимуть за організацію голосування та підрахунок голосів на [виборах на Торгмаші](https://mpz.brovary.org/zaminu-rizanenku-zhiteli-torgmashu-obiratimut-na-pochatku-lita/), що відбудуться на початку літа. Дивним чином, до складу цих комісій увійшло чимало представників "технічних" кандидатів (тих, які через кілька днів після реєстрації [відмовились балотуватись](https://mpz.brovary.org/u-viborah-na-torgmashi-z-23-pretendentiv-na-krislo-u-miskiy-radi-berut-uchast-lishe-semero/)). Прикметно також, що кілька років тому, на місцевих виборах, окремі члени цих ДВК працювали у дільничних виборчих комісіях від інших політичних сил, зокрема від Партії регіонів.**

@@ -15,6 +15,7 @@ tags:
   - "miska-rada"
   - "novini"
   - "sesiya"
+coverImage: "wp-content/uploads/2012/08/Tablichka-miskoyi-radi-2.jpg"
 ---
 
 **[![Табличка міської ради 2](https://mpz.brovary.org/wp-content/uploads/2012/08/Tablichka-miskoyi-radi-2.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/08/Tablichka-miskoyi-radi-2.jpg)На офіційному веб-сайті Броварської міської ради [оприлюднили](http://brovary.kiev.ua/do-vіdoma-deputatіv-mіskoї-radi-zhitelіv-mіsta-grafіk-provedennya-postіinikh-komіsіi-mіskoї-radi) графік засідань постійних депутатських комісій у рамках 46-ої чергової сесії міськради. Нагадаємо, саме пленарне засідання Броварської міської ради заплановане на 14 серпня 2014 року, на розгляд депутатів виноситься 49 питань. З проектами рішень можна ознайомитись за [цим посиланням](https://mpz.brovary.org/14-serpnya-vidbudetsya-46-chergova-sesiyi-brovarskoyi-miskradi/).**

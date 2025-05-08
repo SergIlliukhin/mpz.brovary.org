@@ -14,6 +14,7 @@ tags:
   - "richnitsya"
   - "revolyutsiya-gidnosti"
   - "film"
+coverImage: "wp-content/uploads/2014/11/IMG_3605.jpg"
 ---
 
 **[![IMG_3605](https://mpz.brovary.org/wp-content/uploads/2014/11/IMG_3605.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/11/IMG_3605.jpg)21 листопада, рівно за рік після доленосного допису на Фейсбуку Мустафи Найєма, що того дня закликав людей виходити на протест проти режиму Януковича, броварські майданцівці вийшли на місцевий Майдан Свободи, аби згадати, як починалася революція у нашому місті.**

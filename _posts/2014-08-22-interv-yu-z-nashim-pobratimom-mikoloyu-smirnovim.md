@@ -12,6 +12,7 @@ tags:
   - "vo-svoboda"
   - "svoboda"
   - "smirnov"
+coverImage: "wp-content/uploads/2014/08/Smirnov-Svoboda.jpg"
 ---
 
 **[![Смірнов Свобода](https://mpz.brovary.org/wp-content/uploads/2014/08/Smirnov-Svoboda.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/08/Smirnov-Svoboda.jpg)У нашого побратима, Миколи Смірнова, журналісти газети ВО "Свобода" [взяли інтерв'ю](http://www.svoboda.org.ua/dopysy/dopysy/053087/). Передруковуємо його, щоб йброварчани могли прочитати, що поранений боєць розповів про АТО.**

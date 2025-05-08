@@ -12,6 +12,7 @@ tags:
   - "pidsumki-2013"
   - "pidsumki-roku"
   - "statistika"
+coverImage: "wp-content/uploads/2014/01/Statistika-MPZ-2013-.jpg"
 ---
 
 **[![Статистика МПЗ 2013+](https://mpz.brovary.org/wp-content/uploads/2014/01/Statistika-MPZ-2013-.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/01/Statistika-MPZ-2013-.jpg)2013 рік став другим роком повноцінної журналістської роботи Інтернет-видання «Маєш право знати». Понад рік тому ми вже [публікували підсумкову статистику за перший рік діяльності.](https://mpz.brovary.org/mayesh-pravo-znati-2012-pidsumki-roboti-u-podiyah-ta-tsifrah/) Цього разу наша команда вирішила знову оприлюднити показники відвідуваності нашого сайту та порівняти їх з минулорічними.**

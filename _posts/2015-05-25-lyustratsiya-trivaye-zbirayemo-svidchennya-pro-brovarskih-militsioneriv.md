@@ -10,6 +10,7 @@ tags:
   - "lyustratsiyna-perevirka"
   - "lyustratsiya"
   - "ochishhennya-vladi"
+coverImage: "wp-content/uploads/2014/05/lyustratsiyniy-7.jpg"
 ---
 
 **[![LUSTRACIA](https://mpz.brovary.org/wp-content/uploads/2015/05/LUSTRACIA-206x300.gif)](https://mpz.brovary.org/wp-content/uploads/2015/05/LUSTRACIA.gif)В рамках виконання Закону України «Про очищення влади» по всій державі відбувається люстраційна перевірка працівників органів внутрішніх справ. Подібна перевірка проходить і щодо броварських правоохоронців, деякі з яких можуть не відповідати займаним посадам і за результатами цієї перевірки мають бути звільнені з міліції.**

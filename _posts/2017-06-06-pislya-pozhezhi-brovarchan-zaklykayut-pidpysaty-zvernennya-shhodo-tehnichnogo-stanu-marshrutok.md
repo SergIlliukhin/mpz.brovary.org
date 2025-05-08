@@ -13,6 +13,7 @@ tags:
   - "vibir-redaktsiyi"
   - "zbir-pidpisiv"
   - "novini"
+coverImage: "wp-content/uploads/2017/06/Pozhezha-Rozvylka-marshrutka-411_00130.jpg"
 ---
 
 **Після [вчорашньої пожежі](https://mpz.brovary.org/na-rozvyltsi-spalahnula-zgorila-vshhent-411-marshrutka-obijshlosya-bez-zhertv-foto/) міжміського автобуса, активісти [оголосили](https://www.facebook.com/groups/moibrovary/permalink/1368064709939967/) збір підписів та запрошують мешканців міста сьогодні, 6 червня, о 19:00 прийти на зустріч щодо ситуації технічного стану пасажирських автобусів та розглянути питання про створення громадської ради за контролем якості пасажирських перевезень в Броварах. Зустріч відбудеться в центрі міста, біля супермаркету "Варус".**

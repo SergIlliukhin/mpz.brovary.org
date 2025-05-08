@@ -13,6 +13,7 @@ tags:
   - "klub-4-lapi"
   - "novini"
   - "sterilizatsiya"
+coverImage: "wp-content/uploads/2013/11/bezpritulni-tvarini.jpg"
 ---
 
 **[![U](https://mpz.brovary.org/wp-content/uploads/2013/11/bezpritulni-tvarini.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/11/bezpritulni-tvarini.jpg)Вчора на сайті міської ради з'явилось [оголошення](http://docs.pravo-znaty.org.ua/p9823/12.11.2013) про те, що з 18 листопада у нашому місті будуть проводитись заходи зі стерилізації та вакцинації безпритульних тварин. Здійснюватимуть їх фахівці міжнародної організації VIER PFOTEN International ([Фонд „Чотири лапи”](http://www.four-paws.org.ua/ukraine/ua/about-fp-2/)).**

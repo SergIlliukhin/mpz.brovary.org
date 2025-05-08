@@ -14,6 +14,7 @@ tags:
   - "novini"
   - "flesh-mob"
   - "fleshmob"
+coverImage: "wp-content/uploads/2014/09/484812_514838131911083_1364618862_n.jpg"
 ---
 
 **[![formpz](https://mpz.brovary.org/wp-content/uploads/2014/09/formpz.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/09/formpz.jpg)20 вересня о 16:00 на честь Дня Броварів у парку «Перемога»  волонтери [Координаційного центру допомоги військовим](https://www.facebook.com/koordcentr.brovary) спільно з [Організацією Незалежної Української Молоді](https://vk.com/onymua) проведуть аерофлешмоб «Дякуємо героям!» на підтримку своїх земляків, що перебувають на східному фронті.**

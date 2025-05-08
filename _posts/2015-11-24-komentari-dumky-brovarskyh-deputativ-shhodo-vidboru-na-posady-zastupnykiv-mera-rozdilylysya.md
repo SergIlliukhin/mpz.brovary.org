@@ -16,6 +16,7 @@ tags:
   - "deputati"
   - "konkurs"
   - "novini"
+coverImage: "wp-content/uploads/2015/11/zastupnyky.jpg"
 ---
 
 **Учора, 23 листопада, на офіційному веб-сайті Броварської міської ради було [оприлюднене](https://mpz.brovary.org/ogolosheno-konkurs-na-zastupnykiv-miskogo-golovy-brovariv/) оголошення щодо відкритого прийому документів на посади заступників міського голови.**

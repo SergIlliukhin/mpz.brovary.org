@@ -16,6 +16,7 @@ tags:
   - "rezultati-viboriv"
   - "semenyaka"
   - "tsvk"
+coverImage: "wp-content/uploads/2014/10/ps3.jpg"
 ---
 
 **[![ps3](https://mpz.brovary.org/wp-content/uploads/2014/10/ps3.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/10/ps3.jpg)Станом на 10:38 сайт Центральної виборчої комісії оприлюднив дані по опрацьованим 85,92% протоколів голосування за мажоритарних кандидатів, та 85,18% за партійні списки.**

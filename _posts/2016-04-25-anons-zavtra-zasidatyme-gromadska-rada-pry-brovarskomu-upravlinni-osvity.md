@@ -14,6 +14,7 @@ tags:
   - "novini"
   - "osvita"
   - "upravlinnya-osviti"
+coverImage: "wp-content/uploads/2016/02/gromadska-rada-1.jpg"
 ---
 
 **26 квітня о 16:00 відбудеться засідання громадської ради при управлінні освіти і науки Броварської міської ради. Про це у групі «Бровари» на Фейсбуку [повідомила](https://www.facebook.com/groups/brovary/permalink/1249006475129316/) активістка Надія Лещик.**

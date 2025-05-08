@@ -13,6 +13,7 @@ tags:
   - "novini"
   - "obsye"
   - "sauk"
+coverImage: "wp-content/uploads/2016/04/93697.jpg"
 ---
 
 **Спеціальна моніторингова місія ОБСЄ в Україні розпочала дослідження загальної соціальної та політичної ситуації в м. Бровари, котра призвела зокрема до [масових сутичок під час сесії міської ради](https://mpz.brovary.org/u-brovarskij-miskradi-masova-bijka-ta-slozoginnyj-gaz-deputaty-strybaly-z-vikon-drugogo-poverhu-foto-video/), [спалення автомобіля депутат Скотнікова](https://mpz.brovary.org/tsiyeyi-nochi-brovarskomu-deputatu-znovu-spalyly-avto-foto-video/) та інших методів тиску на депутатський корпус. Про це «Маєш право знати» повідомив депутат Броварської міської ради Андрій Саук (ДемАльянс).** 

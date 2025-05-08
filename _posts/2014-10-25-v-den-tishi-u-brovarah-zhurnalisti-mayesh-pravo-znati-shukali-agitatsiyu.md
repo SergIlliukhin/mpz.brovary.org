@@ -12,6 +12,7 @@ tags:
   - "novini"
   - "parlamentski-vibori-2014"
   - "porushennya"
+coverImage: "wp-content/uploads/2014/10/Fotor0102514590.jpg"
 ---
 
 **[![Fotor0102514590](https://mpz.brovary.org/wp-content/uploads/2014/10/Fotor0102514590.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/10/Fotor0102514590.jpg)Сьогодні «День тиші» перед виборами. Цього дня з вулиць мають прибрати всю передвиборчу рекламу кандидатів. Аби перевірити, хто порушує "тишу", журналісти «Маєш Право Знати» провели рейд  в найбільших мікрорайонах Броварів.**

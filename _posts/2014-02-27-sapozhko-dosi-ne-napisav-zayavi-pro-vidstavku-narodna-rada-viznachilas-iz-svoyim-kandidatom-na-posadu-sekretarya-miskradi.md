@@ -13,6 +13,7 @@ tags:
   - "simutin"
   - "sapozhko"
   - "troshhenko"
+coverImage: "wp-content/uploads/2014/02/DSC_0059.jpg"
 ---
 
 **[![обговорення секретаря10](https://mpz.brovary.org/wp-content/uploads/2014/02/obgovorennya-sekretarya10.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/02/obgovorennya-sekretarya10.jpg)Як відомо, сьогодні о 14.00 мала відбутись чергова сесія Броварської міської ради. Депутати мали розглянути важливі для життєдіяльності міста рішення, зокрема про перерозподіл вільних залишків з міського бюджету. Крім того, сьогодні мало вирішитись питання зі складанням повноважень міського голови Ігоря Сапожка, якому [громада міста на Віче висловила недовіру](https://mpz.brovary.org/brovarchani-na-viche-vislovili-nedoviru-miskomu-golovi-sapozhku/). Також очікувалось, що депутати призначать нового секретаря, який буде виконувати обов****’****язки міського голови до призначення виборів.**

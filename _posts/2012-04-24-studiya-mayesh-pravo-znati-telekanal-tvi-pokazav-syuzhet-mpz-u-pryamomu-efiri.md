@@ -12,6 +12,7 @@ tags:
   - "pidkup-vibortsiv"
   - "tvi"
   - "fedorenko"
+coverImage: "wp-content/uploads/2012/04/tvi3.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/04/tvi3.jpg "ТВі")](https://mpz.brovary.org/wp-content/uploads/2012/04/tvi3.jpg)Найвідоміший опозиційний канал країни [«ТВі»](http://tvi.ua/ua/home/) в прямому ефірі продемонстрував частину відеосюжету «Маєш право знати» [«Федоренко розпочав передвиборчу роздачу продуктових наборів»](https://mpz.brovary.org/fedorenko-rozpochav-peredviborchu-rozdachu-produktovih-naboriv-video/). Відео нашого сайту було показано в п’ятницю увечері в підсумковому випуску новин в сюжеті [«Харчові паски для виборців»](http://tvi.ua/ua/watch/author/?prog=44&video=6273). Під час трансляції нашого відео журналісти телеканалу послались на «Студію «Маєш право знати».

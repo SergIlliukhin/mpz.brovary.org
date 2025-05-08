@@ -18,6 +18,7 @@ tags:
   - "proyizd"
   - "tarifi"
   - "tsina"
+coverImage: "wp-content/uploads/2017/01/marshrutka-bogdan-403.jpg"
 ---
 
 **Сьогодні, 24 січня, о 20:00 усіх небайдужих кличуть на зустріч для координації [стосовно різкого збільшення ціни на проїзд](https://mpz.brovary.org/proyizd-kyyeva-12-grn-brovaram-pidgotuvatysya/) у маршрутках «Київ – Бровари». Зібрання [анонсував](https://www.facebook.com/groups/brovary/permalink/1514495448580416/) через Фейсбук депутат Броварської міської ради Олег Берестовий.**

@@ -22,6 +22,7 @@ tags:
   - "ruh"
   - "ruhanka"
   - "sport"
+coverImage: "wp-content/uploads/2017/07/1340382288_zaryadka-v-parke.jpg"
 ---
 
 **Починаючи із 5 серпня кожної суботи в парку "Перемога" для всіх охочих проводитимуть зарядку. Про це йдеться в [оголошенні](https://www.facebook.com/groups/705366056304022/permalink/874068699433756/), оприлюдненому на Фейсбуку Євгеном Клочком, організатором броварського спеціалізованого клубу для занять із [крос-фіту](https://mpz.brovary.org/yevgenij-klochok-z-mogo-zalu-shhe-nihto-ne-povernuvsya-fitnes-tsentriv-foto/).**

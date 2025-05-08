@@ -12,6 +12,7 @@ tags:
   - "vodohreshha"
   - "kupava"
   - "novini"
+coverImage: "wp-content/uploads/2014/01/kupava-1.jpg"
 ---
 
 **[![kupava-1](https://mpz.brovary.org/wp-content/uploads/2014/01/kupava-11.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/01/kupava-11.jpg)Цієї неділі, 19 січня, у реконструйованому басейні «Купава» з нагоди Водохреща відбудеться День відкритих дверей, під час якого "всі бажаючі броварчани зможуть поплавати у басейні олімпійського резерву, який сьогодні за своїм оснащенням займає І місце в Україні". Про це [повідомляється](http://brovary-rada.gov.ua/plan-zakhod%D1%96v-na-svyato-vodokhreshcha-19-s%D1%96chnya-2014-roku) на офіційному сайті Броварської міської ради, також аналогічні повідомлення вже з'явилися в ефірі комунальної телестудії «Наше місто».**  

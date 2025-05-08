@@ -13,6 +13,7 @@ tags:
   - "novini"
   - "nozhenko"
   - "ukaz"
+coverImage: "wp-content/uploads/2015/02/b-00220362-a-00026128.jpg"
 ---
 
 **[![b-00220362-a-00026128](https://mpz.brovary.org/wp-content/uploads/2015/02/b-00220362-a-00026128.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/02/b-00220362-a-00026128.jpg)Явка в броварський ОМВК обов’язкова і для тих, хто не отримував повістку, а керівників підприємств і організацій зобов’язують негайно надати перелік справного автотранспорту до військомату. Про це йдеться в розпорядженні військового комісара, полковника Володимира Ноженка, [опублікованого вчора](http://www.brovary.kiev.ua/rozporyadzhennya-%E2%84%961mob-v%D1%96iskovogo-kom%D1%96sara-brovarskogo-ob%D1%94dnanogo-m%D1%96skogo-v%D1%96iskovogo-kom%D1%96sar%D1%96atu) на сайті Броварської міськради.**

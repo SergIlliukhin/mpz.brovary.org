@@ -16,6 +16,7 @@ tags:
   - "sapozhko"
   - "serdyuk"
   - "shulyak"
+coverImage: "wp-content/uploads/2015/02/draserd1.jpg"
 ---
 
 \[caption id="attachment\_33227" align="alignleft" width="300"\][![draserd1](https://mpz.brovary.org/wp-content/uploads/2015/02/draserd1.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/02/draserd1.jpg) Лідія Драпей і Михайло Сердюк\[/caption\]

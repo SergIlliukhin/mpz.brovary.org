@@ -16,6 +16,7 @@ tags:
   - "politsiya"
   - "skarga"
   - "trybuna"
+coverImage: "wp-content/uploads/2016/01/Vadym-Andriyevskyj-RPL.jpg"
 ---
 
 **Вадим Андрієвський, депутат Броварської міської ради від Радикальної партії Олега Ляшка, подав до поліції скаргу на журналіста видання «Трибуна – Бровари» Олексія Комаровського. Це підтверджують обидві сторони конфлікту. Причиною невдоволення політика стала** [**опублікована**](http://brovary.net.ua/golovni-novyny/deklaratsiya-deputata-brovarskoyi-miskrady-vadyma-andriyevskogo/deklaratsiya-deputata-brovarskoyi-miskrady-vadyma-andriyevskogo/) **на сайті мас-медіа декларація про його доходи за 2014 рік.**

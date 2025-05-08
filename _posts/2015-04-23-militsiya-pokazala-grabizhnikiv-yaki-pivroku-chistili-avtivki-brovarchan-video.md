@@ -15,6 +15,7 @@ tags:
   - "kriminal"
   - "novini"
   - "shlyahovskyj"
+coverImage: "wp-content/uploads/2015/04/grabizhniki-21.jpg"
 ---
 
 **[![грабіжники 1](https://mpz.brovary.org/wp-content/uploads/2015/04/grabizhniki-11.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/04/grabizhniki-11.jpg)Небувалий ріст крадіжок з автомобілів у Броварах, про які [неодноразово повідомлялось](https://mpz.brovary.org/kradizhki-z-avto-yak-tse-vidbuvayetsya-istoriyi-chotiroh-postrazhdalih/), вдалось трохи знизити – наприкінці березня серійних грабіжників з автівок таки [спіймали правоохоронці](https://mpz.brovary.org/militsiya-spiymala-molodikiv-yaki-krali-z-avtivok-u-brovarah/). Затриманих зловмисників журналістам «Маєш право знати» вдалось зняти на відео. Хлопці каються та просять вибачення у броварчан.**

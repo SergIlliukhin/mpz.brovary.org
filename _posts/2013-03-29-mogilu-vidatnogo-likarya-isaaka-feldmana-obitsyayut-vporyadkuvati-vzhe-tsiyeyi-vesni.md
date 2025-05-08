@@ -12,6 +12,7 @@ tags:
   - "novini"
   - "pamyatnik"
   - "feldman"
+coverImage: "wp-content/uploads/2013/03/Feldman-foto.jpg"
 ---
 
 \[caption id="attachment\_15662" align="alignleft" width="249"\][![Фельдман _2](https://mpz.brovary.org/wp-content/uploads/2013/03/Feldman-_2.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/Feldman-_2.jpg) Ісаак Лазаревич Фельдман\[/caption\]

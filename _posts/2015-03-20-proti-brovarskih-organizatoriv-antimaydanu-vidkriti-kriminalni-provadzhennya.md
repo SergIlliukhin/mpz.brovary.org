@@ -11,6 +11,7 @@ tags:
   - "novini"
   - "prokuratura"
   - "rda"
+coverImage: "wp-content/uploads/2015/03/20952.jpg"
 ---
 
 **[![20952](https://mpz.brovary.org/wp-content/uploads/2015/03/20952.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/03/20952.jpg)**

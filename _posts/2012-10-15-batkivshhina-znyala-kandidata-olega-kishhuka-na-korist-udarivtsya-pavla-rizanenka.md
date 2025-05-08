@@ -16,6 +16,7 @@ tags:
   - "okrug-97"
   - "rizanenko"
   - "udar"
+coverImage: "wp-content/uploads/2012/10/kishhuk-oleg-2.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/10/kishhuk-oleg-2.jpg "кищук олег 2")](https://mpz.brovary.org/wp-content/uploads/2012/10/kishhuk-oleg-2.jpg)Як щойно [повідомив](http://www.pravda.com.ua/news/2012/10/15/6974685/) сайт "Українська правда", **ВО "Батьківщина**" зняла кандидатуру кандидатуру **Олега Кищука** у 97 окрузі - на користь **Павла Різаненка**. Таке рішення було ухвалено на з'їзді Об'єднаної опозиції "Батьківщина", який провадиться у закритому режимі.

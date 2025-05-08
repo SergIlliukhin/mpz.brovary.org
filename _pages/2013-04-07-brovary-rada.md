@@ -4,6 +4,7 @@ date: 2013-04-07
 author: 
   username: "admin"
   display_name: "admin"
+coverImage: "wp-content/uploads/2012/06/Brovarska-miska-rada.jpg"
 ---
 
 **Броварська міська рада I скликання**

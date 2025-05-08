@@ -11,6 +11,7 @@ tags:
   - "kandidat-u-narodni-deputati"
   - "kishhuk"
   - "novini"
+coverImage: "wp-content/uploads/2012/09/Kishhuk.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/09/Kishhuk.jpg "Кищук")](https://mpz.brovary.org/wp-content/uploads/2012/09/Kishhuk.jpg)Вчора вранці у Броварах на бульв. Незалежності біля міського культурного центру "Прометей" невідомі особи викрали 10 агітаційних стійок єдиного кандидата в народні депутати від об’єднаної опозиції, висуванця партії "ВО «Батьківщина» **Олега Кищука**. Про це кандидат [повідомив у своєму блозі](http://blogs.korrespondent.net/users/blog/olehkyshchuk/a76831) на сайті "Кореспондент".

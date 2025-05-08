@@ -20,6 +20,7 @@ tags:
   - "orenda"
   - "petro-velykyj"
   - "yurij-skotnikov"
+coverImage: "wp-content/uploads/2017/07/P70731-110504.jpg"
 ---
 
 **31 липня відбулося засіданя комунальної комісії в рамках підготовки до [31-ї чергової сесії Броварської міської ради](https://mpz.brovary.org/anons-15-serpnya-u-brovarah-vidbudetsya-31-sha-sesiya-miskrady/). Головним питанням [порядку денного](https://mpz.brovary.org/anons-grafik-zasidan-postijnyh-deputatskyh-komisij-v-ramkah-31-yi-sesiyi/) була здача в оренду площі у 47 кв.м в паталогоанатомічному відділенні лікарні похоронній фірмі "Петро Великий". Діяльність фірми та лікарні місцевий депутат Юрій Скотніков назвав корупційною схемою.**

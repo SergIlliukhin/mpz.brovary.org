@@ -15,6 +15,7 @@ tags:
   - "deputati"
   - "miska-rada"
   - "novini"
+coverImage: "wp-content/uploads/2012/06/Deputati-Brovarskoyi-miskoyi-radi-na-sesiyi.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/06/Deputati-Brovarskoyi-miskoyi-radi-na-sesiyi.jpg "Депутати Броварської міської ради на сесії")](https://mpz.brovary.org/wp-content/uploads/2012/06/Deputati-Brovarskoyi-miskoyi-radi-na-sesiyi.jpg)Відтепер броварчани мають можливість дізнатись, хто представляє їхні інтереси на рівні міста. Автобіографії усіх 42 депутатів Броварської міської ради VI скликання [оприлюднив](http://rizanenko.org/vyborets-maje-pravo-znaty%e2%80%a6.html) на своєму сайті депутат міськради **Павло Різаненко**.

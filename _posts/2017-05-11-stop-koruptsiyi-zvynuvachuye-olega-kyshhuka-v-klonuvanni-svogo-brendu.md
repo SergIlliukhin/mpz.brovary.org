@@ -20,6 +20,7 @@ tags:
   - "novini"
   - "stop-koruptsiyi"
   - "stop-koruptsiya"
+coverImage: "wp-content/uploads/2012/09/Kishhuk.jpg"
 ---
 
 **Олег Кищук, депутат до Київської обласної ради від ВО «Батьківщина», вирішив піратським шляхом створити клон ГО «Стоп Корупції» - відомого інформаційного порталу, передачі якого [виходять](http://www.5.ua/programy/stop-koruptsii-42.html) на «5 каналі».  Про це [розповіли](http://stopcor.org/fermer-z-brovarskogo-rayonu-oleg-kishhuk-virishiv-piratskim-shlyahom-stvoriti-klon-stop-koruptsiyi/) в самій громадській організації. Тим часом Олег Кищук спростовує звинувачення щодо порушення прав на інтелектуальну власність.**

@@ -20,6 +20,7 @@ tags:
   - "novini"
   - "sesiya"
   - "stadion"
+coverImage: "wp-content/uploads/2017/02/103603851_large_sovremennaya_shkola_foto.jpg"
 ---
 
 **На останній черговій сесії Броварської міськради [9 лютого](https://mpz.brovary.org/anons-9-lyutogo-vidbudetsya-chergova-sesiya-brovarskoyi-miskrady/) депутати прийняли низку змін до однієї з головних [містобудівних програм](http://brovary-rada.gov.ua/documents/26709.html). Згідно неї, в цьому році у Броварах може розпочатися будівництво футбольного стадіону в парку "Перемога", реконструкція садочків "Оленка" та "Зірочка", а також будуть зроблені проекти для двох нових шкіл.**

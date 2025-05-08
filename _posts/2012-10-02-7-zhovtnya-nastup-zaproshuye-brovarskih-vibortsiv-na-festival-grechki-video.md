@@ -17,6 +17,7 @@ tags:
   - "fedorenko"
   - "festival-grechki"
   - "shako"
+coverImage: "wp-content/uploads/2012/10/Grechka3.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/10/Grechka3.jpg "Гречка3")](https://mpz.brovary.org/wp-content/uploads/2012/10/Grechka3.jpg)У неділю, 7 жовтня, у Броварах відбудеться театралізований перформанс «**Фестиваль Гречки**». Про це [на своєму сайті](http://www.nastup.info/?p=293#more-293) повідомляє  міська громадянська кампанія «**Наступ**». За словами організаторів, мета акції – привернути увагу суспільства та броварчан зокрема до проблеми підкупу виборців напередодні голосування 28 жовтня.

@@ -17,6 +17,7 @@ tags:
   - "perejmenuvannya"
   - "sud"
   - "femida"
+coverImage: "wp-content/uploads/2016/04/Nemchyna_sud_13.04.2016_00002.jpg"
 ---
 
 **Учора броварський суд заслухав справу про перейменування вулиць. Позивачка Тетяна Немчина звернулась до Феміди із проханням визнати незаконним і скасувати рішення міськради про** [**перейменування 70-ти вулиць у Броварах**](https://mpz.brovary.org/u-brovarah-z-yavylys-vulytsi-na-chest-stepana-bandery-nebesnoyi-sotni-ta-geroyiv-ato/)**. Це було** [**вже друге**](https://mpz.brovary.org/za-i-proty-perejmenuvannya-brovarskyh-vulyts-rozpochalysya-sudovi-bataliyi/) **засідання у цій справі. Вчора суд почав її розгляд по суті.**

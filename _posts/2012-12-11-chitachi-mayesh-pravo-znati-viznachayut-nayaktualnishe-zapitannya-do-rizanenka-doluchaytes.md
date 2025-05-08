@@ -15,6 +15,7 @@ tags:
   - "okrug-97"
   - "rizanenko"
   - "rezultati-viboriv"
+coverImage: "wp-content/uploads/2012/11/vopros.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/11/vopros.jpg "вопрос")](https://mpz.brovary.org/wp-content/uploads/2012/11/vopros.jpg)Як ми [вже повідомляли](https://mpz.brovary.org/mayesh-pravo-znati-ogoloshuye-konkurs-zapitan-do-pavla-rizanenka/), незабаром команда «Маєш право знати» планує зробити інтерв’ю з переможцем виборів-2012 у броварському мажоритарному окрузі – **Павлом Різаненком**. На початку грудня ми запропонували нашим читачам долучитись до формування переліку запитань до новообраного народного депутата. І читачі охоче відреагували на нашу ідею та залишили у коментарях 18 запитань.

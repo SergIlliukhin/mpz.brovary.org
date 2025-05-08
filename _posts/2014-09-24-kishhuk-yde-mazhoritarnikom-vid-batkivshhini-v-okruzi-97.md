@@ -17,6 +17,7 @@ tags:
   - "sergiy-krizhanivskiy"
   - "tsvk"
   - "tsentralna-viborcha-komisiya"
+coverImage: "wp-content/uploads/2014/09/10708286_856510571039221_549235531_n.jpg"
 ---
 
 **[![Кищук кандидат 2012](https://mpz.brovary.org/wp-content/uploads/2012/08/Kishhuk-kandidat-2012.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/08/Kishhuk-kandidat-2012.jpg)24 вересня виборчий округ №97 поповнився ще одним зареєстрованим у Центральній виборчій комісії кандидатом. Ним став Олег Кищук. Екс-голова Броварської райдержадміністрації балотується до парламенту від партії "Батьківщина".**

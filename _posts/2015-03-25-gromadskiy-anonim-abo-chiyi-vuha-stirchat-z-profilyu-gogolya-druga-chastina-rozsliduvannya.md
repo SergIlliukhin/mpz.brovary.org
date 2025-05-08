@@ -16,6 +16,7 @@ tags:
   - "polishhuk"
   - "rizanenko"
   - "sapozhko"
+coverImage: "wp-content/uploads/2015/03/016211401_30300.jpg"
 ---
 
 **[![0,,16211401_303,00](https://mpz.brovary.org/wp-content/uploads/2015/03/016211401_30300.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/03/016211401_30300.jpg)Спеціальне розслідування щодо походження, історії та приналежності першої “офіційно-анонімної” броварської газети “Громадський ревізор” – єдиного видання в місті, де УСІ журналісти пишуть під вигаданими іменами та навіть головний редактор – підставна особа. Першу частину можна прочитати [за цим посиланням.](https://mpz.brovary.org/gromadskiy-anonim-abo-chiyi-vuha-stirchat-z-profilyu-gogolya-chastina-persha/)** 

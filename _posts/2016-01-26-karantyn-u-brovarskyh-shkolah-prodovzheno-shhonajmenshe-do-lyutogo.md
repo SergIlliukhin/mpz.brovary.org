@@ -13,6 +13,7 @@ tags:
   - "karantin"
   - "novini"
   - "shkoli"
+coverImage: "wp-content/uploads/2016/01/1452901846_gif.jpeg"
 ---
 
 **Карантин в загальноосвітніх закладах міста продовжили до 30 січня: в школу діти підуть 1 лютого, за умови зниження рівня захворюваності грипом. Розпорядження міського голови щодо цього сьогодні [з'явилося](http://brovary-rada.gov.ua/rozporyadzhennya-m%D1%96skogo-golovi-v%D1%96d-26012016-%E2%84%9616-od-pro-prodovzhennya-karantinu-u-zagalnoosv%D1%96tn%D1%96kh-n) на офіційному сайті Броварської міської ради.**

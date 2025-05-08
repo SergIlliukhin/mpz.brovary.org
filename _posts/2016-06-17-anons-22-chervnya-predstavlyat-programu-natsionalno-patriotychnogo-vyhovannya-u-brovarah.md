@@ -15,6 +15,7 @@ tags:
   - "patriotizm"
   - "programa"
   - "prometey"
+coverImage: "wp-content/uploads/2016/06/patriotyzm.jpg"
 ---
 
 **Наступної середи відбудеться презентація та обговорення проекту міської програми з національно-патріотичного виховання на 2016-2020 роки. Про це [повідомляється](http://www.brovary-osvita.gov.ua/obhovorennya-proektu-miskoji-prohramy-z-natsionalno-patriotychnoho-vyhovannya/) на офіційному сайті управління освіти і науки Броварської міської ради.**

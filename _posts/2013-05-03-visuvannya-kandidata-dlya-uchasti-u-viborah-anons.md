@@ -10,6 +10,7 @@ categories:
 tags: 
   - "vibori"
   - "demokratichniy-alyans"
+coverImage: "wp-content/uploads/2012/08/405492_4351618870435_1892298199_n.jpg"
 ---
 
 [![Демократичний Альянс](https://mpz.brovary.org/wp-content/uploads/2012/08/405492_4351618870435_1892298199_n.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/08/405492_4351618870435_1892298199_n.jpg)**Прес-анонс:**

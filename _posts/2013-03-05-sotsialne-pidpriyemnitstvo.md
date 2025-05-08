@@ -10,6 +10,7 @@ tags:
   - "komitet-gromadskogo-samovryaduvannya"
   - "nyemchyna"
   - "sotsialne-pidpriyemnitstvo"
+coverImage: "wp-content/uploads/2013/03/image.jpg"
 ---
 
 **В Броварах працює соціальне підприємство «Соціально-Інвестиційна Група».**

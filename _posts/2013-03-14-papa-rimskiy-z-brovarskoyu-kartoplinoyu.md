@@ -9,6 +9,7 @@ categories:
 tags: 
   - "vibir-redaktsiyi"
   - "danko"
+coverImage: "wp-content/uploads/2013/03/pokr1.jpg"
 ---
 
 _**[![75](https://mpz.brovary.org/wp-content/uploads/2013/03/75.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/75.jpg)Як повідомлення про випадок у броварському супермаркеті «порвало» український інтернет або «Міська програма Ігоря Сапожка «З турботою про кожного» в дії.**_ 

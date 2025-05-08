@@ -12,6 +12,7 @@ tags:
   - "novini"
   - "rizanenko"
   - "udar"
+coverImage: "wp-content/uploads/2014/01/Rizanenko-Insayder.jpg"
 ---
 
 ![Різаненко Інсайдер](https://mpz.brovary.org/wp-content/uploads/2014/01/Rizanenko-Insayder.jpg)**На сайті INSIDER вийшло [продовження інтерв’ю](http://www.theinsider.com.ua/politics/52cd66ce6308f/) з народним депутатом України, обраним по виборчому округу № 97, Павло Різаненком. Першу частину розмови можна прочитати за [цим посиланням](https://mpz.brovary.org/internet-sayt-insider-opublikuvav-interv-yu-z-nardepom-pavlom-rizanenkom/).**

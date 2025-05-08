@@ -10,6 +10,7 @@ tags:
   - "kiyiv"
   - "kpp"
   - "novini"
+coverImage: "wp-content/uploads/2015/02/KPP_zag.jpg"
 ---
 
 [![КПП_заг](https://mpz.brovary.org/wp-content/uploads/2015/02/KPP_zag.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/02/KPP_zag.jpg)**Як повідомляє інтернет-ресурс [«Наш Київ»](http://nashkiev.ua/zhurnal/novosti/pod-kievom-stroyat-novyy-usilennyy-blokpost-foto.html), в’їзди до Києва за наказом мера Віталія Кличка посилюються укріпленими блокпостами.**

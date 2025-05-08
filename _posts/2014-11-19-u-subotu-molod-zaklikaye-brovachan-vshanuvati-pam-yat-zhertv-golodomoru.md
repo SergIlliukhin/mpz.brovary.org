@@ -15,6 +15,7 @@ tags:
   - "onum"
   - "pamyat"
   - "svichka-pamyati"
+coverImage: "wp-content/uploads/2014/11/Golodomor.jpg"
 ---
 
 **[![Голодомор](https://mpz.brovary.org/wp-content/uploads/2014/11/Golodomor.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/11/Golodomor.jpg)У суботу****, 22 листопада, о 16**.**00 на Майдані Свободи відбудеться [акція вшанування пам’**яті жертв голодоморів**](http://vk.com/event79767231)****. Організатори акції - Об’єднання незалежної української молоді (ОНУМ) – закликають усіх небайдужих взяти участь у пам’ятній ході містом та долучитися до всеукраїнської ініціативи «[Запали свічку пам’яті](http://www.pravda.com.ua/news/2014/11/17/7044503/)».**

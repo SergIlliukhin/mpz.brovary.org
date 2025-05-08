@@ -15,6 +15,7 @@ tags:
   - "militsiya"
   - "novini"
   - "pravoohorontsi"
+coverImage: "wp-content/uploads/2015/05/gromadska-rada-pri-militsiyi-24.jpg"
 ---
 
 **[![громадська рада при міліції 24](https://mpz.brovary.org/wp-content/uploads/2015/05/gromadska-rada-pri-militsiyi-24.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/05/gromadska-rada-pri-militsiyi-24.jpg)**

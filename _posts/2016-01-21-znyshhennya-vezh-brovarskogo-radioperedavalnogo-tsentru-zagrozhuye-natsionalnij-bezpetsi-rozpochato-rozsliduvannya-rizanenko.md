@@ -15,6 +15,7 @@ tags:
   - "rizanenko"
   - "radioperedavalniy-tsentr"
   - "rpts"
+coverImage: "wp-content/uploads/2016/01/Radiobashti_1.jpg"
 ---
 
 **СБУ та військова прокуратура проводить розслідування за фактом незаконного демонтажу мачт та передавачів броварського Радіопередавального центру, що єдині в Україні могли покривати радіосигналом усю територію держави. Про це на [сьогоднішній прес-конференції](https://mpz.brovary.org/pres-konferentsiya-chy-povernut-derzhavi-94-ga-radioperedavalnogo-tsentru/) у Броварах заявив народний депутат України Павло Різаненко.**

@@ -17,6 +17,7 @@ tags:
   - "novini"
   - "onlayn-golosuvannya"
   - "chabanyuk"
+coverImage: "wp-content/uploads/2014/04/krugliy-stil-kupava02.jpg"
 ---
 
 **[![круглий стіл купава02](https://mpz.brovary.org/wp-content/uploads/2014/04/krugliy-stil-kupava02.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/04/krugliy-stil-kupava02.jpg)Вчора, 15 квітня, у басейні «Купава» відбувся круглий стіл-брифінг претендентів на посаду директора плавального закладу. Послухати їх програми розвитку басейну та поставити запитання прийшли журналісти, персонал «Купави» та громадськість. Нагадаємо, нині триває повторний етап онлайн-голосування за очільника плавального закладу на спеціальному сайті [kupava.cobat.com.ua](http://kupava.cobat.com.ua/).** 

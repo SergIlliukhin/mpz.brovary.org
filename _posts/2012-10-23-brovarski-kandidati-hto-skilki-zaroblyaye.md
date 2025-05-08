@@ -17,6 +17,7 @@ tags:
   - "rizanenko"
   - "ratnikov"
   - "fedorenko"
+coverImage: "wp-content/uploads/2012/10/1253180627_zolotie_slitki.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/10/1253180627_zolotie_slitki.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/10/1253180627_zolotie_slitki.jpg)**Кандидати в народні депутати по округу №97: хто вони? скільки заробляють? яким майном володіють?** Відповіді на ці запитання можуть допомогти виборцям зробити правильний та усвідомлений вибір.

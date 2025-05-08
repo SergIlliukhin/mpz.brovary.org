@@ -12,6 +12,7 @@ tags:
   - "strayk"
   - "straykari"
   - "chitachi-mpz"
+coverImage: "wp-content/uploads/2013/03/Ratnikov-opituvannya.jpg"
 ---
 
 **Минулого тижня "Маєш право знати" започаткувала практику онлайн-опитувань своїх читачів на теми опублікованих на сайті статей.**

@@ -15,6 +15,7 @@ tags:
   - "proekt-shkoly"
   - "remonty-osvitnih-zakladiv"
   - "harchuvannya-ditej"
+coverImage: "wp-content/uploads/2016/02/gromadska-rada-1.jpg"
 ---
 
 **Завтра, 18 жовтня, пройде чергове засідання Громадської ради при управліні освіти і науки Броварської міської ради. Про це [повідомляється](https://www.facebook.com/gromadska.rada.osvita/posts/1835645993337657) на сторінці колегіального органу у FB.**

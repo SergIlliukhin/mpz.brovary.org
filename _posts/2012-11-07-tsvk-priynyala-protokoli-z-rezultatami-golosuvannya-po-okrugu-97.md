@@ -11,6 +11,7 @@ tags:
   - "novini"
   - "ovk"
   - "rizanenko"
+coverImage: "wp-content/uploads/2012/08/TSVK3.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/08/TSVK3.jpg "ЦВК3")](https://mpz.brovary.org/wp-content/uploads/2012/08/TSVK3.jpg)**6 листопада 2012 року Окружна виборча комісія №97 остаточно встановила підсумки голосування у виборчому окрузі №97 з центром у місті Бровари.**

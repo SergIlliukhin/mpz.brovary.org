@@ -11,6 +11,7 @@ tags:
   - "vo-svoboda"
   - "koruptsiya"
   - "partiya-regioniv"
+coverImage: "wp-content/uploads/2013/10/korupcia.jpg"
 ---
 
 [![korupcia](https://mpz.brovary.org/wp-content/uploads/2013/10/korupcia.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/10/korupcia.jpg)**14 жовтня об 11:00 Броварський міськрайонний суд Київської області розгляне справу за позовом члена Партії регіонів Віктора Семенюка про захист “честі, гідності та ділової репутації” до броварської районної організації ВО “Свобода"**

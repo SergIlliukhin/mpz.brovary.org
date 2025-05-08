@@ -9,6 +9,7 @@ tags:
   - "vibir-redaktsiyi"
   - "den-smihu"
   - "novini"
+coverImage: "wp-content/uploads/2015/04/963817557.jpg"
 ---
 
 **[![963817557](https://mpz.brovary.org/wp-content/uploads/2015/04/963817557.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/04/963817557.jpg)У своїй відповіді на адресу броварських депутатів міжнародні організації висловили глибоку стурбованість та вкрай глибоке занепокоєння ситуацією.**

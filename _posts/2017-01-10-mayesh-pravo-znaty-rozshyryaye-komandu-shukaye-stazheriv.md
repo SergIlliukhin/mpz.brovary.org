@@ -11,6 +11,7 @@ tags:
   - "mayesh-pravo-znati"
   - "novini"
   - "stazhuvannya"
+coverImage: "wp-content/uploads/2013/02/Gazeta-MPZ_9.jpg"
 ---
 
 **“Маєш право знати” оголошує набір кандидатів для проходження стажування у нашому виданні.**

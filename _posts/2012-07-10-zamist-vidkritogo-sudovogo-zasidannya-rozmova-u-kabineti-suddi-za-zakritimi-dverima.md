@@ -16,6 +16,7 @@ tags:
   - "rizanenko"
   - "skochko"
   - "sud"
+coverImage: "wp-content/uploads/2012/07/Dutchak_kabinet_1.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/07/Dutchak_kabinet_1.jpg "Дутчак_кабінет_1")](https://mpz.brovary.org/wp-content/uploads/2012/07/Dutchak_kabinet_1.jpg)Вчора журналісти «Маєш право знати» планували потрапити на судове засідання у справі [«Павло Різаненко проти газети «Броварська панорама»](https://mpz.brovary.org/tviter-translyatsiya-sudovogo-zasidannya-proti-gazeti-brovarska-panorama/), яке мало відбутись у приміщенні Броварського суду. Ми планували робити твітер-трансляцію із зали засідань, адже це мала бути цікава стадія розгляду справи – судові дебати. Однак ані до зали засідань, ані на саме засідання нам потрапити не вдалось через те, що суддя вирішив провести його неформально, у власному кабінеті, зачинивши зсередини двері на ключ…

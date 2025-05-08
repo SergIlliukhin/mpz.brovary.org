@@ -10,6 +10,7 @@ tags:
   - "vaucheri"
   - "pratsevlashtuvannya"
   - "tsentr-zaynyatosti"
+coverImage: "wp-content/uploads/2013/07/Vruchennya-vauchera-1.jpg"
 ---
 
 **[![Вручення ваучера 1](https://mpz.brovary.org/wp-content/uploads/2013/07/Vruchennya-vauchera-1.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/07/Vruchennya-vauchera-1.jpg)В рамках  виконання нововведень Закону України «Про зайнятість населення», розробленого на виконання соціальних ініціатив Президента України, Броварським міськрайонним  центром зайнятості 11 липня 2013 року  видано перші три ваучер для підтримання конкурентоспроможності осіб на ринку праці.**  

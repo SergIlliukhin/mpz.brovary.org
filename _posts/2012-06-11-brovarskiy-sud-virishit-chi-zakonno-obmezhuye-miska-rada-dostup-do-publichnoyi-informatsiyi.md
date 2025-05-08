@@ -14,6 +14,7 @@ tags:
   - "skochko"
   - "sud"
   - "telepenko"
+coverImage: "wp-content/uploads/2012/06/sud-brovari.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/06/sud-brovari.jpg "суд бровари")](https://mpz.brovary.org/wp-content/uploads/2012/06/sud-brovari.jpg)**12 червня о 9 годині ранку** у Броварському міськрайонному суді Київської області розпочнеться розгляд судового позову активіста "Маєш Право Знати" Сергія Іллюхіна до Броварської міської ради щодо протиправного обмеження права на інформацію (деталі позову [вже повідомлялись раніше](https://mpz.brovary.org/brovarskih-chinovnikiv-suditimut-za-vidmovu-nadati-informatsiyu/ "Броварських чиновників судитимуть за відмову надати інформацію")). Справу розглядатиме суддя Телепенько.

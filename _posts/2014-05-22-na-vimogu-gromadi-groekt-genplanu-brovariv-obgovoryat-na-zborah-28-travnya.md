@@ -16,6 +16,7 @@ tags:
   - "zvernennya-gromadyan"
   - "novini"
   - "obgovorennya"
+coverImage: "wp-content/uploads/2014/04/genplan-kartinka.jpg"
 ---
 
 **[![генплан картинка](https://mpz.brovary.org/wp-content/uploads/2014/04/genplan-kartinka.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/04/genplan-kartinka.jpg)Під тиском громадськості [проект Генерального плану міста Бровари](https://mpz.brovary.org/wp-content/uploads/2014/04/br_pro_plan_a3.jpg) винесено на обговорення у вигляді публічної конференції. Збори громади призначено на наступну середу, 28 травня, о 17:00 у приміщенні актової зали школи № 1 (вул. Київська, 153). Про це сказано у розпорядженні міського голови [№ 89-ОД від 21.05.2014](http://www.brovary.kiev.ua/rozporyadzhennya-mіskogo-golovi-vіd-21052014-№89-od-pro-gromadske-obgovorennya-proektu-mіstobudіvnoї).**

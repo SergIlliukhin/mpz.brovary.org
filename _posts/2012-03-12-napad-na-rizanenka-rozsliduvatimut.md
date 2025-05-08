@@ -12,6 +12,7 @@ tags:
   - "simutin"
   - "sapozhko"
   - "semenyuk-kiyashko"
+coverImage: "wp-content/uploads/2012/03/kiyashko1.jpg"
 ---
 
 \[caption id="attachment\_1618" align="alignleft" width="300" caption="Голова депутатської комісії з розслідування нападу на Різаненка Олена Семенюк"\][![](https://mpz.brovary.org/wp-content/uploads/2012/03/kiyashko.jpg "kiyashko")](https://mpz.brovary.org/wp-content/uploads/2012/03/kiyashko.jpg)\[/caption\]

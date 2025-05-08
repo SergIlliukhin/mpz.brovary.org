@@ -15,6 +15,7 @@ tags:
   - "rozporyadzhennya-miskogo-golovi"
   - "sesiya"
   - "sklikannya-sesiyi"
+coverImage: "wp-content/uploads/2012/08/gerb-Brovari.jpg"
 ---
 
 **[![герб Бровари зменшена](https://mpz.brovary.org/wp-content/uploads/2012/10/gerb-Brovari-zmenshena1.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/10/gerb-Brovari-zmenshena1.jpg)9 жовтня 2014 року о 14:00 в приміщенні малої зали броварського міськвиконкому за адресою: вул. Гагаріна, 15 відбудеться сорок сьома чергова сесія Броварської міської ради VІ скликання. При це сказано у розпорядженні міського голови [№ 160-ОД від 11 вересня 2014 року](http://docs.pravo-znaty.org.ua/p13437/11.09.2014/160).**

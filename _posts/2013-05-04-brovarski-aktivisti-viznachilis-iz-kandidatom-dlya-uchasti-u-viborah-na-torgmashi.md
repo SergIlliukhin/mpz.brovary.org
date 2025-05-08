@@ -10,6 +10,7 @@ tags:
   - "illyuhin"
   - "demokratichniy-alyans"
   - "promizhni-vibori"
+coverImage: "wp-content/uploads/2013/05/IMG_4395_3_sm.jpg"
 ---
 
 \[caption id="attachment\_17073" align="alignleft" width="300"\][![Броварська міська організація політичної партії Демократичний Альянс](https://mpz.brovary.org/wp-content/uploads/2013/05/IMG_4395_3_sm.jpg "Броварська міська організація політичної партії Демократичний Альянс")](https://mpz.brovary.org/wp-content/uploads/2013/05/IMG_4395_3_sm.jpg) Броварська міська організація ДемАльянсу\[/caption\]

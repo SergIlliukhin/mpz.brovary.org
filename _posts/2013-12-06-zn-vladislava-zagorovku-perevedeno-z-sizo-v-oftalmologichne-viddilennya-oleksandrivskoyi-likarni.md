@@ -12,6 +12,7 @@ tags:
   - "oftalmologichne-viddilennya"
   - "sizo"
   - "sud"
+coverImage: "wp-content/uploads/2013/12/Zagorovka-Sud.jpg"
 ---
 
 \[caption id="attachment\_22703" align="alignleft" width="300"\][![Загоровка Суд](https://mpz.brovary.org/wp-content/uploads/2013/12/Zagorovka-Sud.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/12/Zagorovka-Sud.jpg) Суд над Загоровкою. Фото - Денис Гнатюк\[/caption\]

@@ -14,6 +14,7 @@ tags:
   - "grafik-zasidan-komisij"
   - "novini"
   - "postijni-deputatski-komisiyi"
+coverImage: "wp-content/uploads/2017/01/Tablichka-miskoyi-radi-2.jpg"
 ---
 
 **На офіційному сайті Броварської міської ради [оприлюднено](http://brovary-rada.gov.ua/news/14699.html) графік проведення засідань постійних депутатських комісій, які відбуватимуться в період з 25 по 31 січня 2017 року у рамках підготовки до чергової 25-ї сесії. Саме засідання сесії Броварської міськради VII скликання, як [повідомлялося](https://mpz.brovary.org/anons-9-lyutogo-vidbudetsya-chergova-sesiya-brovarskoyi-miskrady/) раніше, призначено на 9 лютого. На розгляд депутатів винесено 36 питань і розділ «різне».**

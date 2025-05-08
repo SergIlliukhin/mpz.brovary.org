@@ -14,6 +14,7 @@ tags:
   - "novini"
   - "turizm"
   - "turististichna-kompaniya"
+coverImage: "wp-content/uploads/2013/07/Grupa-ditey-Bolgariya-1.jpg"
 ---
 
 **[![Група дітей Болгарія 3](https://mpz.brovary.org/wp-content/uploads/2013/07/Grupa-ditey-Bolgariya-3.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/07/Grupa-ditey-Bolgariya-3.jpg)Наприкінці червня на румуно-молдовському кордоні сталась надзвичайна подія. Група дітей з Броварів, що два тижні відпочивали у Болгарії, на 6 годин застрягли у нейтральній смузі, бо за ними не зміг приїхати автобус з України.**

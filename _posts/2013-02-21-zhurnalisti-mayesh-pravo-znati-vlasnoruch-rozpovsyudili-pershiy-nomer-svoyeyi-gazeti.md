@@ -13,6 +13,7 @@ tags:
   - "mayesh-pravo-znati"
   - "novini"
   - "pershiy-vipusk"
+coverImage: "wp-content/uploads/2013/02/Gazeta-MPZ_00.jpg"
 ---
 
 **[![Газета МПЗ_00](https://mpz.brovary.org/wp-content/uploads/2013/02/Gazeta-MPZ_00.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/02/Gazeta-MPZ_00.jpg)У команди „Маєш право знати” є чудова новина: у вівторок вийшов з друку перший номер нашої газети. Як-то кажуть, не пройшло й року, і ми нарешті випустили друковану версію публікацій нашого сайту.**

@@ -13,6 +13,7 @@ tags:
   - "dovidka-pro-nesudimist"
   - "zakordonniy-pasport"
   - "pasportniy-stil"
+coverImage: "wp-content/uploads/2013/03/DMS.jpg"
 ---
 
 Минулого року ми досліджували, що [потрібно](https://mpz.brovary.org/zakordonny-pasport-brovary-instrukciya/) для отримання закордонного паспорта у Броварах та [виявили](https://mpz.brovary.org/dovidka-pro-vidsutnist-sudimosti-mif-chi-realnist/), що у нашому паспортному столі протиправно вимагають довідку про відсутність судимості, хоч закордонний паспорт [видають](https://mpz.brovary.org/byurokratichni-pereponi-podolano-zakordonniy-pasport-otrimano/) і без неї.

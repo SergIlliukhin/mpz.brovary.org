@@ -8,6 +8,7 @@ categories:
   - "kolonka-avtora"
 tags: 
   - "kozatstvo"
+coverImage: "wp-content/uploads/2012/10/vidkritiy-list-otamanam-kozackih-organizaciyi-brovarskogo-krayu-642c-1349814330205016-1-big.jpg"
 ---
 
 БРОВАСЬКА СОТНЯ КИЇВСЬКОГО КОЗАЦЬКОГО ПОЛКУ ВІДКРИТИЙ ЛИСТ – ЗВЕРНЕННЯ !!!

@@ -15,6 +15,7 @@ tags:
   - "lot"
   - "novini"
   - "torgi"
+coverImage: "wp-content/uploads/2014/07/Kozatska-auktsion.jpg"
 ---
 
 **[![Козацька аукціон 3](https://mpz.brovary.org/wp-content/uploads/2014/07/Kozatska-auktsion-3.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/07/Kozatska-auktsion-3.jpg)15 серпня 2014 року об 11:00 за адресою: м. Бровари, вул. Гагаріна, 18, мала зала, 3 поверх відбудеться [аукціон з продажу земельної ділянки по вул. Козацькій, 20](http://torgy.land.gov.ua/auction/lot-card/1566). Площа земельної ділянки - 44,2 сотки, стартова ціна лоту - 1 161 576 грн (26 280 грн за сотку). Цільове призначення землі - для будівництва та обслуговування будівель торгівлі.**

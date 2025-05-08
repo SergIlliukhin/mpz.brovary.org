@@ -15,6 +15,7 @@ tags:
   - "pozov"
   - "sapozhko"
   - "sud"
+coverImage: "wp-content/uploads/2016/02/1434820921_kompaniya-apple-oderzhala-neskolko-pobed-v-sude.jpg"
 ---
 
 **Броварський міськрайонний суд призначив дату судового розгляду [за позовом](https://mpz.brovary.org/deputat-alina-dyachenko-podala-do-sudu-na-mera-brovariv-igorya-sapozhka/) депутата Аліни Дяченко проти мера Броварів Ігоря Сапожка на 15:00 10 березня. Саме цього дня кількома годинами раніше, о 10:00 [розпочнеться чергова сесія](https://mpz.brovary.org/sapozhko-sklykaye-nastupnu-sesiyu-v-berezni-sekretarya-znovu-ne-obyratymut/) броварської міської ради, на порядок денний якої винесено півсотні питань. Питань щодо кадрових призначень – що і стало причиною позову Дяченко – на цю сесію міський голова знову не виніс.**

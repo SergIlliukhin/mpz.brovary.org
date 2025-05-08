@@ -15,6 +15,7 @@ tags:
   - "militsiya"
   - "oleg-shevchuk"
   - "sud"
+coverImage: "wp-content/uploads/2012/08/kohanivskiy.jpg"
 ---
 
 Броварські "правоохоронці" порушили кримінальну справу "по факту опору працівникам міліці" 4 вересня під Броварським судом.

@@ -10,6 +10,7 @@ tags:
   - "novini"
   - "pozhezha"
   - "pozhezha-na-kyivskiy-302"
+coverImage: "wp-content/uploads/2013/06/main01.jpg"
 ---
 
 **[![main01](https://mpz.brovary.org/wp-content/uploads/2013/06/main01.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/06/main01.jpg)В суму еквівалентну 100 тисячам доларів США обійдеться броварським платникам податків ліквідація наслідків масштабної пожежі в п’ятиповерховому будинку на вул. Київській, 302 яка трапилась 17 червня.**

@@ -12,6 +12,7 @@ tags:
   - "maydan-svobodi"
   - "memorial"
   - "nebesna-sotnya"
+coverImage: "wp-content/uploads/2014/08/ns1.jpg"
 ---
 
 **[![ns2](https://mpz.brovary.org/wp-content/uploads/2014/08/ns2.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/08/ns2.jpg)П'ять місяців тому, через 40 днів  після того як на Інститутській найманці Януковича розстріляли героїв Небесної сотні, броварчани [встановили](https://mpz.brovary.org/na-maydani-svobodi-vshanuvali-pam-yat-geroyiv-nebesnoyi-sotni/) на своєму Майдані Свободи скромний меморіал на честь полеглих майданівців.**

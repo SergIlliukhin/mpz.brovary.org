@@ -11,6 +11,7 @@ tags:
   - "zemlya"
   - "maksim-viter"
   - "feldmana"
+coverImage: "wp-content/uploads/2014/07/batko.jpg"
 ---
 
 \[caption id="attachment\_27678" align="alignleft" width="250"\][![10489641_543989462390101_1848379658708045796_n](https://mpz.brovary.org/wp-content/uploads/2014/07/10489641_543989462390101_1848379658708045796_n.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/07/10489641_543989462390101_1848379658708045796_n.jpg) Максим Вітер, директор Броварського центру зайнятості\[/caption\]

@@ -14,6 +14,7 @@ tags:
   - "deputati"
   - "novini"
   - "sesiya"
+coverImage: "wp-content/uploads/2012/07/Bud_vlya-m_skoyi-radi-zagalniy-plan-3.jpg"
 ---
 
 **Став [відомий](http://brovary-rada.gov.ua/news/15415.html) графік проведення засідань постійних депутатських комісій, що триватимуть з 27 липня по 3 серпня. Саме засідання 31-ї чергової сесії Броварської міськради VII скликання [відбудеться](https://mpz.brovary.org/anons-15-serpnya-u-brovarah-vidbudetsya-31-sha-sesiya-miskrady/) 15 серпня. На розгляд депутатів винесено 55 питань і розділ «Різне».**

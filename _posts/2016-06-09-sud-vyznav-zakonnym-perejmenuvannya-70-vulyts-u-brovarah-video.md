@@ -15,6 +15,7 @@ tags:
   - "postanova"
   - "rishennya"
   - "sud"
+coverImage: "wp-content/uploads/2016/05/Sud_perejmenuvannya_18.05.2016_00015.jpg"
 ---
 
 **Сьогодні, 9 червня, броварський суд виніс постанову у справі про перейменування вулиць. Феміда лишила без задоволення позов проти [зміни назв сімдесятьом вулицям і провулкам міста](https://mpz.brovary.org/u-brovarah-z-yavylys-vulytsi-na-chest-stepana-bandery-nebesnoyi-sotni-ta-geroyiv-ato/). Таке рішення оголосив суддя Андрій Шинкар.**

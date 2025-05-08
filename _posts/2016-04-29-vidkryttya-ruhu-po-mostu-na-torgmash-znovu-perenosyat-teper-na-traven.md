@@ -17,6 +17,7 @@ tags:
   - "perekryttya"
   - "remont"
   - "torgmash"
+coverImage: "wp-content/uploads/2016/02/Mist_Onykiyenka_Torgmash_00036.jpg"
 ---
 
 **Водії автомобілів та пасажири маршруток не зможуть повноцінно пересуватися шляхопроводом по вулиці Олега Оникієнка ще щонайменше** **[до 10 травня](http://docs.brovary.org/p35857/28.04.2016/101)****. Раніше чиновники** **[обіцяли](https://mpz.brovary.org/navit-pislya-koshtovnogo-remontu-mist-na-torgmashi-prozhyve-vid-5-do-25-rokiv-ekspert/)** **відкрити дві перекриті смуги для руху автотранспорту до 30 квітня. Про це йдеться в офіційних оголошеннях та розпорядженнях на сайті Броварської міської ради.**

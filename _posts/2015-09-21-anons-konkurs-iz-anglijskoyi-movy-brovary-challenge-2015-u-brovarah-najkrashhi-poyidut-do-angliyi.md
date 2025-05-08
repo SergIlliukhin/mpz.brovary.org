@@ -13,6 +13,7 @@ tags:
   - "konkurs"
   - "livoberezhna-kiyivshhina"
   - "novini"
+coverImage: "wp-content/uploads/2015/09/82444620_large_wallpaperbigben.jpg"
 ---
 
 **У Броварах проведуть черговий щорічний конкурс із англійської мови «Brovary Challenge» - серед старшокласників Броварів та Броварського району. Переможці отримають цінні призи, а двох найкращих (одного із міста та одного із району) чекатиме двотижнева подорож до Англії під час літніх канікул. Про це [повідомляє](http://www.livoberezhna.org/2-uncategorised/4325-pro-provedennia-konkursu-z-anhliiskoi-movy-brovary-challenge-dlia-uchniv-mista-brovary-ta-brovarskoho-raionu) фонд "Лівобережна Київщина", який організовує конкурс.**

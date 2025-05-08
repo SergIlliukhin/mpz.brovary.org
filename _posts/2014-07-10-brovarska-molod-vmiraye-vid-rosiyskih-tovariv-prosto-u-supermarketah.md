@@ -13,6 +13,7 @@ tags:
   - "pereshkodzhannya"
   - "supermarket"
   - "terminal"
+coverImage: "wp-content/uploads/2014/07/1Image00039.jpg"
 ---
 
 **[![1Image00058](https://mpz.brovary.org/wp-content/uploads/2014/07/1Image00058.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/07/1Image00058.jpg)**

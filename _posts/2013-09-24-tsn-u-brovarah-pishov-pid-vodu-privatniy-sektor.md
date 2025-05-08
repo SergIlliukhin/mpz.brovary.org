@@ -12,6 +12,7 @@ tags:
   - "pidtoplennya"
   - "stare-misto"
   - "tsn"
+coverImage: "wp-content/uploads/2013/09/tsn_povin.jpg"
 ---
 
  **[![tsn_povin](https://mpz.brovary.org/wp-content/uploads/2013/09/tsn_povin.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/09/tsn_povin.jpg)У Броварах люди у відчаї через повінь. Вода затоплює та руйнує їхні будинки, а на допомогу їм кинули лише одну мотопомпу. Про це йдеться у [сюжеті](http://tsn.ua/ukrayina/na-kiyivschini-povin-ruynuye-budinki-a-lyudi-u-vidchayi-cherez-bezdiyalnist-vladi-312291.html) ТСН.**

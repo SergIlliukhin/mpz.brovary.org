@@ -13,6 +13,7 @@ tags:
   - "perevizniki"
   - "sergiy-voznyak"
   - "tov-avtosoyuz"
+coverImage: "wp-content/uploads/2015/03/17.jpg"
 ---
 
 **_[![аварія маршрутка 4](https://mpz.brovary.org/wp-content/uploads/2015/03/avariya-marshrutka-4.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/03/avariya-marshrutka-4.jpg)_Журналісти "Маєш право знати" [вже писали про ДТП](https://mpz.brovary.org/dtp-u-brovarah-marshrutka-iz-14-lyudmi-viletila-z-mostu-cherez-p-yanogo-vodiya-lanosa/), яке сталося пізно ввечері 21 березня на естакаді при в'їзді на Торгмаш. Тоді в результаті зіткнення автомобіля «Ланос» та маршрутного таксі №327, в  якому перебувало більш ніж десяток пасажирів, автобус впав із майже 10-метрової висоти. Наші журналісти спробували дізнатися, як зараз почуваються потерпілі, та поцікавилися, чи відшкодують їм збитки винуватець ДТП і страхова компанія?**

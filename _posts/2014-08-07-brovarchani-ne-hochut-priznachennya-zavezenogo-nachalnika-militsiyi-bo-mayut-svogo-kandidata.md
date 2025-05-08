@@ -19,6 +19,7 @@ tags:
   - "plaksya"
   - "roman-simutin"
   - "samooborona"
+coverImage: "wp-content/uploads/2014/08/obgovorennya08.jpg"
 ---
 
 **![обговорення03](https://mpz.brovary.org/wp-content/uploads/2014/08/obgovorennya03.jpg)Після кількамісячної «тиші» Київське обласне ГУ МВС України врешті відреагувало на вимогу броварської громади провести [громадські слухання](https://mpz.brovary.org/brovarchani-vimagayut-uzgoditi-z-gromadoyu-kandidaturu-na-posadu-nachalnika-militsiyi/) стосовно кандидатур на посаду начальника міліції. Заступник начальника обласного главку Григорій Розум приїхав до Броварів, аби почути думку громадськості про кандидатів, які претендують очолювати правоохоронну структуру 100-тисячного міста.**

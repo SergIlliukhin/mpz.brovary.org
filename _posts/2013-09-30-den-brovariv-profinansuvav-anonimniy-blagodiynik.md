@@ -13,6 +13,7 @@ tags:
   - "vibir-redaktsiyi"
   - "den-mista"
   - "svyatkuvannya"
+coverImage: "wp-content/uploads/2013/09/Den-mista-Feyerverk-2.jpg"
 ---
 
 **[![8e-Hbb1ZGtU](https://mpz.brovary.org/wp-content/uploads/2013/09/8e-Hbb1ZGtU.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/09/8e-Hbb1ZGtU.jpg)Відзначаючи розмах, з яким цьогоріч святкувалась річниця міста Бровари, автор постійно задавався питанням «а за чий кошт цей бенкет?».**

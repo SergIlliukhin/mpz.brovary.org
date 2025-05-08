@@ -13,6 +13,7 @@ tags:
   - "vidmina-zanyat"
   - "vibir-redaktsiyi"
   - "novini"
+coverImage: "wp-content/uploads/2017/02/9-1.jpg"
 ---
 
 **У зв’язку з погіршенням погодних умов в молодших класах броварських шкіл призупинили навчання. Про це йдеться у [розпорядженні](http://brovary-rada.gov.ua/documents/26684.html) міського голови на офіційному сайті Броварської міської ради.**

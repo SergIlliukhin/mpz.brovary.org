@@ -15,6 +15,7 @@ tags:
   - "tsentr-zaynyatosti"
   - "yakrmarok-profesiy"
   - "yarmarok-vakansiy"
+coverImage: "wp-content/uploads/2013/04/yarmarok-vakansiy-e1365426429906.jpg"
 ---
 
 **[![ярмарок вакансій](https://mpz.brovary.org/wp-content/uploads/2013/04/yarmarok-vakansiy-e1365426429906.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/04/yarmarok-vakansiy-e1365426429906.jpg)18 квітня у рамках Ярмарку вакансій та Ярмарку професій броварчанам розкажуть про поточну ситуацію на ринку праці, наявні вакансії на підприємствах, послуги служби зайнятості та можливості професійної підготовки, перепідготовки та підвищення кваліфікації в навчальних закладах.  Про це "Маєш право знати" повідомив Броварський міськрайонний центр зайнятості.**

@@ -15,6 +15,7 @@ tags:
   - "tarifi"
   - "tverdopalivni-kotelni"
   - "feliks-enerdzhi-grup"
+coverImage: "wp-content/uploads/2015/02/kotelni_6.jpg"
 ---
 
 **[![котельні_6](https://mpz.brovary.org/wp-content/uploads/2015/02/kotelni_6.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/02/kotelni_6.jpg)Нещодавно невдоволені мешканці житлового комплексу «Купава» [подали скаргу на котельню](https://mpz.brovary.org/brovarchani-napisali-skargu-na-smorid-vid-kotelni-shho-z-tsogo-viyshlo/), розташовану поряд з їх домівками -на розі вулиць Симоненка і Шевченка. Люди нарікали на неприємний запах у повітрі і побоювалися, чи не шкідливі викиди у повітря з тієї котельні. Журналісти «МПЗ» одразу звернулися до компанії «Фелікс Енерджі», що є власником котельні, а також до броварської СЕС, яка проводила забір повітря. На той момент всі вони відмовились від коментарів, пропонуючи почекати висновків експертизи.**

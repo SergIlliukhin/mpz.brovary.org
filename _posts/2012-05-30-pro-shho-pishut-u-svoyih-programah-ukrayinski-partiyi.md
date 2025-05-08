@@ -10,6 +10,7 @@ tags:
   - "infografika"
   - "partiya"
   - "programa"
+coverImage: "wp-content/uploads/2012/05/da.jpg"
 ---
 
 Цікава інфографіка від порталу [**"Графічне інфо"**](http://grafichne.info/politychni_programy_partiy.html "Про що пишуть у своїх програмах українські партії?"): журналісти дослідили, які слова найчастіше використовуються у програмах політичних партій України.

@@ -16,6 +16,7 @@ tags:
   - "spozhivach"
   - "spozhivach-maye-pravo"
   - "ukrtelekom"
+coverImage: "wp-content/uploads/2012/07/Ukrtelekom.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/07/Ukrtelekom.jpg "Укртелеком")](https://mpz.brovary.org/wp-content/uploads/2012/07/Ukrtelekom.jpg)На електронну скриньку рубрики «**Споживач має право»** надійшов лист з проханням розібратися: чи потрібно сплачувати авансовий платіж, який нав’язливо виставляється надавачем телекомунікаційних послуг ПАТ «Укртелеком».

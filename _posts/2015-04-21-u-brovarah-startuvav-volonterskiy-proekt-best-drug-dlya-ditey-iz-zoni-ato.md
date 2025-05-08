@@ -14,6 +14,7 @@ tags:
   - "molod-demokratichnogo-alyansu"
   - "origami"
   - "pereselentsi"
+coverImage: "wp-content/uploads/2015/04/yd-zJalBuSY.jpg"
 ---
 
 **[![yd-zJalBuSY](https://mpz.brovary.org/wp-content/uploads/2015/04/yd-zJalBuSY.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/04/yd-zJalBuSY.jpg)Минулої суботи, 18 квітня, у Броварах стартував волонтерський проект «Бест Друг», покликаний допомагати дітям-переселенцям із зони АТО. Активісти громадської організації «[Молодь Демократичного Альянсу](https://vk.com/molodabrovary)» разом з волонтерами провели перший захід  для діток – майстер-клас з орігамі.**

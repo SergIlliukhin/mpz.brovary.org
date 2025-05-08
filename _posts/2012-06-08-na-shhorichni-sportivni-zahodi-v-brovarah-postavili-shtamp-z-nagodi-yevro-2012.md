@@ -12,6 +12,7 @@ tags:
   - "novini"
   - "sapozhko"
   - "fan-zona"
+coverImage: "wp-content/uploads/2012/06/58.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/06/58.jpg "логотип Євро")](https://mpz.brovary.org/wp-content/uploads/2012/06/58.jpg)

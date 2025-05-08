@@ -18,6 +18,7 @@ tags:
   - "okrug-97"
   - "okruzhna-viborcha-komisiya"
   - "sidanich"
+coverImage: "wp-content/uploads/2012/09/OVK-budivlya.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/09/OVK-budivlya.jpg "ОВК будівля")](https://mpz.brovary.org/wp-content/uploads/2012/09/OVK-budivlya.jpg)Після того, як дивом броварській ОВК [вдалось зібратись 29 серпня на перше - установче - засідання](https://mpz.brovary.org/pershe-zasidannya-brovarskoyi-ovk-proyshlo-z-drugoyi-sprobi-usuperech-pereshkodam-vladi-ta-bez-golovi/) та навіть за відсутності голови комісії провести його та привести членів ОВК до присяги, почались довгі митарства з проведенням другого засідання. Двічі - у неділю 2 вересня та в понеділок 3 вересня - сумлінні члени комісії приходили до місця виконання своїх обов'язків, і двічі не було кворуму. Проте, схоже, це було не випадково і зроблено навмисно.

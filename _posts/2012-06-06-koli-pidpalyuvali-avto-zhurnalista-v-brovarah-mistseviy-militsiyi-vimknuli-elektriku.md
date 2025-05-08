@@ -16,6 +16,7 @@ tags:
   - "pozhezhniki"
   - "tisk-na-zhurnalistiv"
   - "yuliya-shpak"
+coverImage: "wp-content/uploads/2012/06/IMG_0971.jpg"
 ---
 
 **[![](https://mpz.brovary.org/wp-content/uploads/2012/06/IMG_0971.jpg "авто Шпак підпал")](https://mpz.brovary.org/wp-content/uploads/2012/06/IMG_0971.jpg)Міліція не змогла вчасно прибути на виклик, бо працювала «при свічках», а броварські пожежники взагалі заблукали в місті.**

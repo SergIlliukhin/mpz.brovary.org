@@ -9,6 +9,7 @@ tags:
   - "vibir-redaktsiyi"
   - "den-smihu"
   - "novini"
+coverImage: "wp-content/uploads/2015/04/genplan-07.jpg"
 ---
 
 **[![genplan-07](https://mpz.brovary.org/wp-content/uploads/2015/04/genplan-07.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/04/genplan-07.jpg)Активна громада Броварів погрожує заблокувати громадське обговорення Генерального плану міста Бровари якщо перед цим не відбудуться громадські слухання. Про це повідомила лідер громадської ініціативи «Громадські слухання» Аліна Дяченко.**

@@ -17,6 +17,7 @@ tags:
   - "novini"
   - "oleg-berestoviy"
   - "sesiya"
+coverImage: "wp-content/uploads/2016/11/gromadskyj-byudzhet.jpg"
 ---
 
 **У Броварах запрацює бюджет участі - таке рішення вчора на сесії прийняли депутати Броварської міської ради. Проголосували одноголосно.**

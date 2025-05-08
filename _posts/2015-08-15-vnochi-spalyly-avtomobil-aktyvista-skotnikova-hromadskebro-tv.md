@@ -12,6 +12,7 @@ tags:
   - "gromadske-telebachennya"
   - "skotnikov"
   - "spalene-avto"
+coverImage: "wp-content/uploads/2015/08/skotnikov-avto.jpg"
 ---
 
 

@@ -19,6 +19,7 @@ tags:
   - "rizanenko"
   - "simonenka"
   - "chornovola"
+coverImage: "wp-content/uploads/2016/11/prokuratura.jpg"
 ---
 
 **Прокуратура Київської області розглянула [запит](https://mpz.brovary.org/budivnytstvo-na-rozi-symonenka-chornovola-nardep-podav-zapyt-prokurora-oblasti/) народного депутата Павла Різаненка щодо підроблення акту обстеження зелених насаджень лісової зони на розі вулиць В’ячеслава Чорновола та Василя Симоненка у 2007 році. В результаті, правоохоронці встановили факт кримінального правопорушення. Про це йдеться у відповіді прокуратури, [оприлюдненій](https://www.facebook.com/groups/brovary/permalink/1420406254656003/) Павлом Різаненком.**

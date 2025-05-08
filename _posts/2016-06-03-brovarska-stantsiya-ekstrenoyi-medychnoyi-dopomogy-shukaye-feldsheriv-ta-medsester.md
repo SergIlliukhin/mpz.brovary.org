@@ -15,6 +15,7 @@ tags:
   - "novini"
   - "feldsher"
   - "shvidka"
+coverImage: "wp-content/uploads/2016/06/74746.jpg"
 ---
 
 **Керівництво броварської [служби невідкладної допомоги](https://mpz.brovary.org/ekstrena-dopomoga-povernulasya-v-brovary/) оголосило про пошук фельдшерів та медсестер на вакантні місця. Про це [йдеться](https://www.facebook.com/brov.ekstr.103/photos/a.610046875830609.1073741828.609907622511201/620385138130116/?type=3&theater) на сторінці станції у Фейсбуку.**

@@ -15,6 +15,7 @@ tags:
   - "tov-goldifar"
   - "torgivelniy-kiosk"
   - "chernyahovskogo"
+coverImage: "wp-content/uploads/2013/04/Zupinka-na-Terminali-8.jpg"
 ---
 
 **[![Зупинка на Терміналі 8](https://mpz.brovary.org/wp-content/uploads/2013/04/Zupinka-na-Terminali-8.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/04/Zupinka-na-Terminali-8.jpg)Броварчани вже давно звикли до усіляких "покращень" та "ноу-хау" від міської влади, яка не перестає "турбуватись про кожного". Дійшла черга і до мешканців вул. Черняховського та відвідувачів ТРЦ «Термінал». Чиновники вирішили подбати про їх зручність купувати м’ясні продукти прямо... на зупинці, а точніше «у складі павільйона очікування громадського транспорту».**

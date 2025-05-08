@@ -11,6 +11,7 @@ tags:
   - "brovary"
   - "novini"
   - "tsn"
+coverImage: "wp-content/uploads/2013/10/sapojko.png"
 ---
 
 [![Ігор Сапожко](https://mpz.brovary.org/wp-content/uploads/2013/10/sapojko.png)](https://mpz.brovary.org/wp-content/uploads/2013/10/sapojko.png)**На Київщині у Броварах розгорівся скандал через 96 га землі, які придбала крупна фармацевтична компанія - [розповідає](http://tsn.ua/kyiv/u-brovarah-mayzhe-100-ga-zemli-prodali-privatnikam-pid-nosom-u-deputativ-315437.html) "Телевізійна служба новин"**

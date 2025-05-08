@@ -11,6 +11,7 @@ tags:
   - "vibir-redaktsiyi"
   - "sapozhko"
   - "sesiya"
+coverImage: "wp-content/uploads/2013/03/Sesiya-pro-zemlyu_3.jpg"
 ---
 
 **[![герб Бровари](https://mpz.brovary.org/wp-content/uploads/2012/08/gerb-Brovari.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/08/gerb-Brovari.jpg)У четвер, 3 квітня, о 14:00 відбудеться чергова сесія Броварської міської ради. Відповідне розпорядження міського голови Сапожка було опублікувано на [офіційному сайті міськради](http://www.brovary-rada.gov.ua/rozporyadzhennya-m%D1%96skogo-golovi-v%D1%96d-02042014-%E2%84%9646-od-pro-sklikannya-sorok-chetverto%D1%97-chergovo%D1%97-ses%D1%96%D1%97). 44 чергова сесія [мала відбутись](https://mpz.brovary.org/sapozhko-sklikaye-43-chergovu-sesiyu-brovarskoyi-miskradi-na-27-lyutogo/) ще 27 лютого, але того дня депутатська більшість [проігнорувала засідання](https://mpz.brovary.org/sapozhko-dosi-ne-napisav-zayavi-pro-vidstavku-narodna-rada-viznachilas-iz-svoyim-kandidatom-na-posadu-sekretarya-miskradi/) та не прийшла до будівлі на Гагаріна, 15.** 

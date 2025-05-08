@@ -17,6 +17,7 @@ tags:
   - "uchilishhe-fizichnoyi-kulturi"
   - "fond-brativ-klichkiv"
   - "chempion-svitu-z-boksu"
+coverImage: "wp-content/uploads/2013/10/Volodya-Klichko-uchilishhe-19.jpg"
 ---
 
 **[![кличко](https://mpz.brovary.org/wp-content/uploads/2013/10/klichko.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/10/klichko.jpg)Наступного дня після [відвідин Броварів Віталієм Кличком](https://mpz.brovary.org/zustrich-z-chempionom-klichko-zibrav-anshlag-v-prometeyi/) до міста молодості, краси та спорту завітав і його молодший брат Володимир. 24 жовтня чемпіон світу з боксу приїхав до оновленого за кошти фонду Кличків броварського вищого училища фізичної культури, яке отримало від відомих благодійників понад 1,5 млн грн. На цей захід у навчальному закладі, де починав  свій боксерський шлях Володя, вирушило "МПЗ".**

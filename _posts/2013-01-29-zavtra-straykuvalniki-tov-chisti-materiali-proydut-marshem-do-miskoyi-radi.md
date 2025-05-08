@@ -14,6 +14,7 @@ tags:
   - "strayk"
   - "tov-chisti-materiali"
   - "trudovi-prava"
+coverImage: "wp-content/uploads/2013/01/yak-vlashtuvati-strayk.jpg"
 ---
 
 [![yak-vlashtuvati-strayk](https://mpz.brovary.org/wp-content/uploads/2013/01/yak-vlashtuvati-strayk.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/01/yak-vlashtuvati-strayk.jpg)Завтра, 30 січня, о 9:00 працівники ТОВ "Чисті матеріали", які у неділю [оголосили безстроковий страйк](https://mpz.brovary.org/straykuyuchi-pratsivniki-zablokuvali-robotu-pidpriyemstva-u-brovarah/), планують провести марш та пройти по бульв. Незалежності від свого підприємства до будівлі Броварської міської ради, яка розташована по вул. Гагаріна, 15. Про це сьогодні "Маєш право знати" повідомили організатори маршу.

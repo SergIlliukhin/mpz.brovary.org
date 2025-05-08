@@ -15,6 +15,7 @@ tags:
   - "pidpal"
   - "tisk-na-zhurnalistiv"
   - "yuliya-shpak"
+coverImage: "wp-content/uploads/2012/06/photo.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/06/photo.jpg "flame")](https://mpz.brovary.org/wp-content/uploads/2012/06/photo.jpg)Вночі 31 травня внаслідок підпалу загорілось авто головного редактора газети "Вісник Києва" Юлії Шпак, - пише інформаційне агентство _[УНІАН](http://www.unian.ua/)._

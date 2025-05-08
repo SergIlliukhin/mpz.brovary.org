@@ -18,6 +18,7 @@ tags:
   - "nechiporenko"
   - "novini"
   - "sergiy-nechiporenko"
+coverImage: "wp-content/uploads/2015/03/paliy.jpg"
 ---
 
 [![палій](https://mpz.brovary.org/wp-content/uploads/2015/03/paliy.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/03/paliy.jpg)**Днями [в ефірі телеканалу Інтер](http://podrobnosti.ua/2018527-u-pskah-vdbivajut-ataki-diversantv.html) показали сюжет з села Піски під Донецьком, де на сторожі українських земель стоять добровольці з батальйону «Карпатська Січ» - серед них багато броварчан. Зазначається, що бойовики й надалі порушують режим припинення вогню, відтак наші військові змушені відбивати атаки диверсантів.**

@@ -9,6 +9,7 @@ categories:
 tags: 
   - "den-konstitutsiyi"
   - "propozitsiyi"
+coverImage: "wp-content/uploads/2012/08/10234455m.jpg"
 ---
 
 Ніколи не пізно!!! Святкування Дня Конституції (28 червня)

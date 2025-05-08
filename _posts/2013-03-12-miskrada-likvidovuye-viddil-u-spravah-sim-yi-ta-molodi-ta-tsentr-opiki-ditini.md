@@ -15,6 +15,7 @@ tags:
   - "rishennya-radi"
   - "sluzhba-u-spravah-ditey"
   - "upravlinnya-osviti"
+coverImage: "wp-content/uploads/2013/03/Molod.jpg"
 ---
 
 **[![Molod](https://mpz.brovary.org/wp-content/uploads/2013/03/Molod.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/Molod.jpg)На [минулій сесії](https://mpz.brovary.org/21-lyutogo-vidbudetsya-30-a-chergova-sesiya-brovarskoyi-miskoyi-radi/) Броварська міська рада ухвалила низку рішень, якими суттєво змінила структуру управлінь та відділів у сфері сім’ї, молоді та дітей, зокрема розпочала ліквідацію окремих підрозділів та перейменувала ті, що залишила.** 

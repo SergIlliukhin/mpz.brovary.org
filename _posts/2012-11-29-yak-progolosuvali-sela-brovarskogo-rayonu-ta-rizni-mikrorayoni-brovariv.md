@@ -16,6 +16,7 @@ tags:
   - "ratnikov"
   - "rezultati-viboriv"
   - "fedorenko"
+coverImage: "wp-content/uploads/2012/11/Vibori-2012-babusya.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/11/pazl-viboriv.jpg "пазл виборів")](https://mpz.brovary.org/wp-content/uploads/2012/11/pazl-viboriv.jpg)Вчора минув рівно місяць з дня, коли відбулись чергові вибори до Верховної Ради України. З цієї нагоди ми підготували матеріал з ще одним аналізом результатів виборів у 97 окрузі і цього разу ми визначили, як розподілились електоральні симпатії по окремих селах нашого району та різних мікрорайонах Броварів.

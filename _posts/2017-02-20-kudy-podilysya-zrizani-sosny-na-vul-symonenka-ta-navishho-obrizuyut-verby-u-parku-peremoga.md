@@ -20,6 +20,7 @@ tags:
   - "obrizka-derev"
   - "park-peremoga"
   - "sosny"
+coverImage: "wp-content/uploads/2017/02/SAM_9876.jpg"
 ---
 
 **Після того, як у лісозмусі  біля  перетину вулиць  Симоненка –Чорновола забудовник «Альянс-Новобуд» [пустив під «ніж»](https://mpz.brovary.org/zeleni-krasuni-sosny-na-symonenka-vse-zh-spylyaly-foto-video/) 63 сосни, будь-яке повідомлення, що стосується  обрізування  чи обрізки дерев,  броварчани  сприймають із особливою тривогою.**

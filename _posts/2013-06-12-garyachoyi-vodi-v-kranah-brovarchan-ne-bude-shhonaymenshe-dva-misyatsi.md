@@ -13,6 +13,7 @@ tags:
   - "garyache-vodopostachannya"
   - "kp-brovariteplovodoenergiya"
   - "novini"
+coverImage: "wp-content/uploads/2013/06/otklyuchenie_vody.jpg"
 ---
 
 **[![otklyuchenie_vody](https://mpz.brovary.org/wp-content/uploads/2013/06/otklyuchenie_vody.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/06/otklyuchenie_vody.jpg)Гаряче водопостачання в Броварах відновиться не раніше 7 серпня. Про це «Маєш право знати» повідомили в КП «Броваритепловодоенергія».**

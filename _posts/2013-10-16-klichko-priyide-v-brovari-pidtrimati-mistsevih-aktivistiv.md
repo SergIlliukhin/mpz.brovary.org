@@ -14,6 +14,7 @@ tags:
   - "svavillya"
   - "tisk-na-zhurnalistiv"
   - "udar"
+coverImage: "wp-content/uploads/2013/10/klichko445.jpg"
 ---
 
 **[![Виталий Кличко](https://mpz.brovary.org/wp-content/uploads/2013/10/Vitaliy-Klichko.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/10/Vitaliy-Klichko.jpg)Наступної середи, 23 жовтня, до Броварів приїде народний депутат України, лідер партії «УДАР» Віталій Кличко. Видатний спортсмен та відомий політик здійснить візит до нашого міста, аби підтримати броварських активістів, що зазнали репресій з боку влади та провести відкриту зустріч з мешканцями міста. Про це йдеться у [повідомленні](https://mpz.brovary.org/stop-represiyi-do-brovariv-priyide-vitaliyi-klichko/) Броварської міської організації партії «УДАР».**

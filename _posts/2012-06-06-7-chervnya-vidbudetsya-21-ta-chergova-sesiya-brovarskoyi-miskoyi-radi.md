@@ -14,6 +14,7 @@ tags:
   - "rozporyadzhennya"
   - "sesiya"
   - "sklikannya-sesiyi"
+coverImage: "wp-content/uploads/2012/07/gerb-Brovari.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/10/gerb-Brovari-zmenshena1.jpg "герб Бровари зменшена")](https://mpz.brovary.org/wp-content/uploads/2012/10/gerb-Brovari-zmenshena1.jpg)07 червня 2012 року о 14-й годині в приміщенні малої зали броварського міськвиконкому за адресою: вул. Гагаріна, 15 відбудеться двадцять перша чергова сесія Броварської міської ради VІ скликання . Про це сказано у розпорядженні міського голови №98-ОД від 10 травня 2012 року, [оприлюдненому](http://docs.pravo-znaty.org.ua/p1441/10.05.2012/98) на офіційному веб-сайті Броварської міської ради.

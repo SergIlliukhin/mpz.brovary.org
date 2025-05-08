@@ -11,6 +11,7 @@ tags:
   - "vibir-redaktsiyi"
   - "mkts-prometey"
   - "udar"
+coverImage: "wp-content/uploads/2012/06/Klichko3.jpg"
 ---
 
 **[![klichko445](https://mpz.brovary.org/wp-content/uploads/2013/10/klichko4451.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/10/klichko4451.jpg)Зустріч лідера партії УДАР Віталія Кличка з броварчанами відбудеться цієї середи, 23 жовтня о 18:30 в МКЦ «Прометей».**

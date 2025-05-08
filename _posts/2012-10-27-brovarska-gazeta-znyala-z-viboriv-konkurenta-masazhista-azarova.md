@@ -11,6 +11,7 @@ tags:
   - "novini"
   - "rizanenko"
   - "sud"
+coverImage: "wp-content/uploads/2012/10/nn.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/10/nn.jpg "nn")](https://mpz.brovary.org/wp-content/uploads/2012/10/nn.jpg)**У Броварах розповсюджується спецвипуск комунальної газети з підробною постановою ЦВК нібито про зняття з реєстрації кандидата від УДАРу Павла Різаненка** - повідомляє інтернет-видання ["Українська Правда"](http://www.pravda.com.ua/news/2012/10/27/6975587/) з посиланням на прес-службу ГО "Громадський захист Київщини".

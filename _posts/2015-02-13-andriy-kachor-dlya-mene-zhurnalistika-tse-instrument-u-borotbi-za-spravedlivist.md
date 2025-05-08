@@ -14,6 +14,7 @@ tags:
   - "mpz"
   - "novini"
   - "rubrika-lyudi"
+coverImage: "wp-content/uploads/2015/02/Kachor-Andriy-IMG_0614.jpg"
 ---
 
 _![Люди](https://mpz.brovary.org/wp-content/uploads/2014/10/Lyudi.png)_

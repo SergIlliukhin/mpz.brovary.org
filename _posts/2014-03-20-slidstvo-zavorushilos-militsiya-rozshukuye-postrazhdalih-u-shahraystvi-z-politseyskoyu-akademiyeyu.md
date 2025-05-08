@@ -13,6 +13,7 @@ tags:
   - "pfpa"
   - "slidstvo"
   - "shahraystvo"
+coverImage: "wp-content/uploads/2014/03/16912_1.jpg"
 ---
 
 **[![16912_1](https://mpz.brovary.org/wp-content/uploads/2014/03/16912_1.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/03/16912_1.jpg)Броварський МВ ГУМВС України в Київській області звертається до місцевих мешканців з метою віднайти якомога більшу кількість постраждалих [у справі з обдуреними студентами](https://mpz.brovary.org/politseyska-akademiya-ne-vshhuhaye-vid-skandaliv-zasekrechenist-zakrittya-ta-kidalovo-na-groshi/) колишньої Поліцейської фінансово-правової академії.**

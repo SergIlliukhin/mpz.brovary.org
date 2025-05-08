@@ -9,6 +9,7 @@ categories:
 tags: 
   - "brovarska-miska-rada"
   - "sesiya"
+coverImage: "wp-content/uploads/2012/08/gerb-Brovari.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/08/gerb-Brovari.jpg "герб Бровари")](https://mpz.brovary.org/wp-content/uploads/2012/08/gerb-Brovari.jpg)**29 грудня 2012 року о 10:00 відбудеться 29-та позачергова сесія Броварської міської ради** - про це повідомляється у розпорядження міського голови Ігоря Сапожка [№248](http://docs.pravo-znaty.org.ua/p6402/28.12.2012/248) від 29.12.2012.

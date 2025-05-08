@@ -15,6 +15,7 @@ tags:
   - "novini"
   - "reglament"
   - "reglamentna-komisiya"
+coverImage: "wp-content/uploads/2013/08/Reglamentna-komisiya.jpg"
 ---
 
 **[![Регламентна комісія](https://mpz.brovary.org/wp-content/uploads/2013/08/Reglamentna-komisiya.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/08/Reglamentna-komisiya.jpg)На чергову сесію Броварської міської ради, що відбудеться 22 серпня,  виноситься [проект рішення про внесення змін до Регламенту міськради](http://docs.pravo-znaty.org.ua/p8479/22.08.2013). У цьому документі міститься норма, яка забороняє усім присутнім, в тому числі і журналістам, пересуватись по залі засідань під час сесій та зобов’язує представників ЗМІ займати виключно спеціально відведені для них місця.**

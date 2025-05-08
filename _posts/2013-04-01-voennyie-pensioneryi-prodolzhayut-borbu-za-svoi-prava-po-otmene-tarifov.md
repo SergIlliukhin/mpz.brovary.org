@@ -9,6 +9,7 @@ categories:
 tags: 
   - "komunalni-tarifi"
   - "semipolki"
+coverImage: "wp-content/uploads/2013/03/tarif.jpg"
 ---
 
 **31.03.2013 в клубе гарнизона в/г Семиполки состоялся отчет инициативной группы о проделанной работе по отмене не законно принятых тарифов.**

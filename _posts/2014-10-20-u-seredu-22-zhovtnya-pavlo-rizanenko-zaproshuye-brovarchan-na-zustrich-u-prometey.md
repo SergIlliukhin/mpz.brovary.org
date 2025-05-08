@@ -15,6 +15,7 @@ tags:
   - "parlamentski-vibori-2014"
   - "prometey"
   - "rizanenko"
+coverImage: "wp-content/uploads/2014/10/Bez-imeni.jpg"
 ---
 
 **[![1](https://mpz.brovary.org/wp-content/uploads/2014/10/11.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/10/11.jpg)Народний депутат України та кандидат в народні депутати від Блоку Петра Порошенка Павло Різаненко 22 жовтня о 19:00 проведе зустріч з виборцями в МКЦ «Прометей». Про це «Маєш право знати» повідомили в штабі Павла Різаненка.**

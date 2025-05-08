@@ -16,6 +16,7 @@ tags:
   - "partiya-gritsenka"
   - "sokolenko"
   - "stetskiv"
+coverImage: "wp-content/uploads/2014/10/Gritsenkivtsi-DSC_0678.jpg"
 ---
 
 **[![Гриценківці DSC_0678](https://mpz.brovary.org/wp-content/uploads/2014/10/Gritsenkivtsi-DSC_0678.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/10/Gritsenkivtsi-DSC_0678.jpg)Передвиборчі перегони продовжуються, і в Броварах після [приїзду кандидатів у нардепи екс-журналістів Мустафи Найєма та Сергія Лещенка](https://mpz.brovary.org/troyanskiy-kin-u-velikiy-polititsi-top-zhurnalisti-pidtrimali-rizanenka-abi-spilno-onovlyuvati-ukrayinu/), відбулася ще одна агітаційна зустріч в МКЦ "Прометей". Своє слово броварчанам 7 жовтня приїхали сказати і висуванці від партії Анатолія Гриценка «Громадянська позиція» - Наталка Соколенко і Тарас Стецьків.**

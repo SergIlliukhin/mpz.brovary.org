@@ -13,6 +13,7 @@ tags:
   - "kachor"
   - "militsiya"
   - "novini"
+coverImage: "wp-content/uploads/2015/05/grom-rada-26-1-e1432740240837.jpg"
 ---
 
 **[![гром-рада-26 (10)](https://mpz.brovary.org/wp-content/uploads/2015/05/grom-rada-26-10.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/05/grom-rada-26-10.jpg)Чергове засідання Громадської ради при Броварському міськвідділі міліції запам’яталося обговоренням [візиту до Броварів начальника обласного управління МВС України Вадима Трояна](https://mpz.brovary.org/yak-nachalnik-oblasnoyi-militsiyi-troyan-shukav-dialogu-z-gromadoyu-brovarshhini/), проблем, пов’язаних із матеріально-технічним забезпеченням діяльності місцевої міліції, та останніх резонансних злочинів на Броварщині.**

@@ -12,6 +12,7 @@ tags:
   - "novini"
   - "sesiya"
   - "sklikannya-sesiyi"
+coverImage: "wp-content/uploads/2016/03/PARK.jpg"
 ---
 
 **Ще не стихли пристрасті після [позачергової сесії міськради](https://mpz.brovary.org/den-tushky-shestero-osib-otrymaly-usyu-povnotu-vlady-u-brovarah/), яка пройшла у вівторок та на якій зі скандалом затвердили новий склад виконкому й виділили додаткових 12 млн грн на ремонт шляхопроводу на Торгмаш, як міський голова [скликав](http://brovary.kiev.ua/rozporyadzhennya-m%D1%96skogo-golovi-v%D1%96d-17032016-%E2%84%9657-od-pro-sklikannya-dvanadtsyato%D1%97-pozachergovo%D1%97-ses%D1%96%D1%97) на завтра друге за тиждень екстренне засідання депутатів. Цього разу на розгляд представників громади виноситься одне єдине питання - [внесення змін до бюджету Броварів на 2016 рік](http://brovary.kiev.ua/proekt-r%D1%96shen-m%D1%96sko%D1%97-radi-pro-vnesennya-zm%D1%96n-do-r%D1%96shennya-brovarsko%D1%97-m%D1%96sko%D1%97-radi-v%D1%96d-12012016-roku-0). Сесія розпочнеться 18 березня о 16:00 в малій залі засідань виконкому на вул. Гагаріна, 15.**

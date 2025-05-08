@@ -10,6 +10,7 @@ tags:
   - "bezvidsotkoviy-kredit"
   - "vibir-redaktsiyi"
   - "rozstrochka"
+coverImage: "wp-content/uploads/2013/08/46c0daa487726.jpg"
 ---
 
 [![Мишоловка](https://mpz.brovary.org/wp-content/uploads/2013/08/46c0daa487726.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/08/46c0daa487726.jpg)**Броварські магазини майорять безліччю пропозицій "вигідної розстрочки" та "кредитів без переплат". Звичайно, дехто з нас розуміє, що певного подорожчання варто очікувати, але мало хто усвідомлює, що взявши такий кредит, доведеться сплатити вдвічі більше!**

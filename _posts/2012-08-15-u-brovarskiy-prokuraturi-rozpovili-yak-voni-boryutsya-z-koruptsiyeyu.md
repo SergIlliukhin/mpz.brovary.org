@@ -12,6 +12,7 @@ tags:
   - "dostup-do-publichnoyi-informatsiyi"
   - "koruptsiya"
   - "prokuratura"
+coverImage: "wp-content/uploads/2012/08/Brovarska-mizhrayonna-prokuratura.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/08/Brovarska-mizhrayonna-prokuratura.jpg "Броварська міжрайонна прокуратура")](https://mpz.brovary.org/wp-content/uploads/2012/08/Brovarska-mizhrayonna-prokuratura.jpg)**Вжито низку заходів, проведено ряд нарад, до відповідальності притягнуто певних осіб - саме так небагатослівно охарактеризував броварський міжрайонний прокурор проведені заходи щодо боротьби з корупцією у Броварському районі.**

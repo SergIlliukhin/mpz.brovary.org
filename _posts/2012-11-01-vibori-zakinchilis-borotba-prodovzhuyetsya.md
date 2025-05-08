@@ -10,6 +10,7 @@ tags:
   - "vibori"
   - "rizanenko"
   - "sud"
+coverImage: "wp-content/uploads/2012/11/img-i-182-w-640.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/11/img-i-182-w-640.jpg "img--i-182-w-640")](https://mpz.brovary.org/wp-content/uploads/2012/11/img-i-182-w-640.jpg)Вибори у Броварах закінчились. Закінчились повною поразкою існуючої влади та провладного кандидата.

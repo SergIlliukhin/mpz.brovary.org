@@ -11,6 +11,7 @@ tags:
   - "novini"
   - "snig"
   - "stihiya"
+coverImage: "wp-content/uploads/2013/03/IMG_8123.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2013/03/883267_465359846870255_537387022_o.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/883267_465359846870255_537387022_o.jpg)**Таких снігопадів, як у березні 2013 року, не бачив ще, напевно, жоден броварчанин. Сніг вкрив майже все: будинки, подвір'я, дороги, автомобілі та людей.**

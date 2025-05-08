@@ -18,6 +18,7 @@ tags:
   - "obgovorennya"
   - "olefirenko"
   - "prokuror"
+coverImage: "wp-content/uploads/2014/10/Prokuror-ta-Klimenko-0204.jpg"
 ---
 
 **_[![Прокурор та Клименко 0188](https://mpz.brovary.org/wp-content/uploads/2014/10/Prokuror-ta-Klimenko-0188.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/10/Prokuror-ta-Klimenko-0188.jpg)_****Терпець урвався! П****ісля Майдану Бровари чи не найпершими в Україні підняли люстраційний меч над беззаконням, свавіллям та корупцією в органах прокуратури та міліції. Довготривала боротьба громади завершилася перемогою, і Бровари [нарешті отримали нових керівників правоохоронної системи міста](https://mpz.brovary.org/u-brovarah-noviy-prokuror-ta-nachalnik-militsiyi-gromada-zaproshuye-yih-na-dialog/) – 35-річного прокурора Романа Олефіренка та 44-річного очільника міськвідділу міліції Миколу Клименка.**

@@ -14,6 +14,7 @@ tags:
   - "safari"
   - "titushki"
   - "ultras"
+coverImage: "wp-content/uploads/2014/01/detail_8d01dd6cb2f9103dd0cfc544aae2d3df.jpg"
 ---
 
 **[![0gWJj7qO6rA](https://mpz.brovary.org/wp-content/uploads/2014/01/0gWJj7qO6rA.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/01/0gWJj7qO6rA.jpg)У соціальній мережі «Вконтакте» з'явилась група [«Сафарі на тітушок Бровари»](http://vk.com/safari_brovary). Метою створення такої групи її автори називають збір інформації про місцевих найманців влади на провладні мітинги та організаторів провокацій проти протестних акцій – т.зв. «тітушок».**

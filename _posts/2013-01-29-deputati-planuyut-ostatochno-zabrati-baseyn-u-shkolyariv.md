@@ -13,6 +13,7 @@ tags:
   - "kp-orts"
   - "fedorenko"
   - "fesko"
+coverImage: "wp-content/uploads/2013/01/collage1.jpg"
 ---
 
 **[![](https://mpz.brovary.org/wp-content/uploads/2013/01/collage1.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/01/collage1.jpg)На сайті Броварської міської ради [оприлюднено](http://docs.pravo-znaty.org.ua/p6617/25.01.2013) проект нового статуту КП «Оздоровчо-реабілітаційний центр», відповідно до якого територіальна громада майже повністю втрачає контроль над басейном «Схід» (школа №9), а школярі більше не зможуть відвідувати басейн в рамках шкільної програми.**

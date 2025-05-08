@@ -14,6 +14,7 @@ tags:
   - "vibir-redaktsiyi"
   - "den-peremogi"
   - "novini"
+coverImage: "wp-content/uploads/2014/05/9ad9d48-never-again.jpg"
 ---
 
 **[![9ad9d48-never-again](https://mpz.brovary.org/wp-content/uploads/2014/05/9ad9d48-never-again.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/05/9ad9d48-never-again.jpg)За інформацією броварського виконкому, наданою у відповідь на звернення Народної Ради, 9 травня о 10:00 у Броварах відбудеться покладання квітів до пам'ятника загиблим броварчанам та інших пам'ятників і пам'ятних знаків, а також планується робота польової кухні в парку "Перемога".**

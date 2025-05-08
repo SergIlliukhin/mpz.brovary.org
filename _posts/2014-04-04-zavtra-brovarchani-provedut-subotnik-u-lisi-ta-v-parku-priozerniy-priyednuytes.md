@@ -15,6 +15,7 @@ tags:
   - "novini"
   - "pribirannya"
   - "subotnik"
+coverImage: "wp-content/uploads/2014/04/Subotnik-grabli.jpg"
 ---
 
 **[![Суботник граблі](https://mpz.brovary.org/wp-content/uploads/2014/04/Subotnik-grabli.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/04/Subotnik-grabli.jpg)У рамках ініціативи Броварської Народної Ради "Зробимо місто чистим!" цієї суботи, 5 квітня, об 11:00 небайдужих броварчан запрошують на прибирання у лісі – на Пекарні та біля Лісництва.**

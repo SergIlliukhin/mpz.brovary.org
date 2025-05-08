@@ -17,6 +17,7 @@ tags:
   - "maydan-svobodi"
   - "novini"
   - "fedorenko"
+coverImage: "wp-content/uploads/2012/09/DSC_9119.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/09/DSC_9111.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/09/DSC_9111.jpg)У цю суботу, 8 вересня, на Майдані Свободи після ранкової фізичної зарядки у радянському стилі активісти громадської організації **«Громадський захист Київщини»** провели театралізовану акцію **«[Заплив по бетону](https://mpz.brovary.org/8-veresnya-u-brovarah-vidbudetsya-zapliv-po-betonu/)»** \- з нагоди невиконання регіоналом Сергієм Федоренком своєї обіцянки відкрити найбільший міський басейн **«**Купава» до початку навчального року.

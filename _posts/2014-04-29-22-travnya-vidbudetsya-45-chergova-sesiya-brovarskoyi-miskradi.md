@@ -14,6 +14,7 @@ tags:
   - "novini"
   - "sapozhko"
   - "sesiya"
+coverImage: "wp-content/uploads/2012/08/gerb-Brovari.jpg"
 ---
 
 **[![герб Бровари зменшена](https://mpz.brovary.org/wp-content/uploads/2012/10/gerb-Brovari-zmenshena1.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/10/gerb-Brovari-zmenshena1.jpg)22 травня 2014 року о 14:00 ****у приміщенні малої зали броварського міськвиконкому за адресою: вул. Гагаріна, 15 відбудеться сорок п'ята чергова сесія Броварської міської ради VІ скликання.**** Графік проведення засідань постійних депутатських комісій у та перелік питань, які будуть винесені на їх розгляд, можна переглянути за [цим посиланням](http://brovary.kiev.ua/grafіk-provedennya-zasіdan-postіinikh-deputatskikh-komіsіi-u-travnі-2014-roku-ta-perelіk-pitan-yakі).**

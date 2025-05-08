@@ -11,6 +11,7 @@ tags:
   - "nebesna-sotnya"
   - "novini"
   - "panahida"
+coverImage: "wp-content/uploads/2014/03/59700_1.jpg"
 ---
 
 **[![Ukraine's national flag flies at a make-shift memorial for those killed in recent violence in Kiev](https://mpz.brovary.org/wp-content/uploads/2014/03/vshanuv_kvity_maydan_25febr_gm1ea2p1qwm01-baseimage.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/03/vshanuv_kvity_maydan_25febr_gm1ea2p1qwm01-baseimage.jpg)Цієї суботи, 29 березня о 18:00 на Майдані Свободи відбудеться громадська панахида за героями Небесної Сотні.**

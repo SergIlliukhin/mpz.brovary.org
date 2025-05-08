@@ -10,6 +10,7 @@ tags:
   - "brovarska-molod"
   - "onum"
   - "ukrayinskiy-marsh"
+coverImage: "wp-content/uploads/2014/05/marsh-ukr361.jpg"
 ---
 
 **[![марш укр36](https://mpz.brovary.org/wp-content/uploads/2014/05/marsh-ukr361.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/05/marsh-ukr361.jpg)Молоді і активні старшокласники Броварів не так давно зорганізувались в ОНУМ – [Об’єднання незалежної української молоді](https://vk.com/onymua). Це нове молоде середовище встигло з[аявити про себе в Броварах](https://mpz.brovary.org/tri-sotni-brovarchan-ob-yednalis-u-zhiviy-lantsyug-zaradi-miru-v-ukrayini/) кількома патріотичними акціями. ["Український марш"](https://mpz.brovary.org/v-den-pam-yati-ta-primirennya-brovarska-molod-viyshla-na-marsh/), що відбувся 8 травня, мабуть, одна з найпомітніших.**

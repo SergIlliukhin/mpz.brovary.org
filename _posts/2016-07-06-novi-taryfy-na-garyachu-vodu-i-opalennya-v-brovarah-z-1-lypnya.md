@@ -14,6 +14,7 @@ tags:
   - "kp-brovaryteplovodoenergiya"
   - "novini"
   - "opalennya"
+coverImage: "wp-content/uploads/2016/07/Zanotuyte_Novi_tarifi_na_garyachu_vodu_ta_opalennya_1_2016_05_10_05_21_10.jpeg"
 ---
 
 **Підвищені вдвоє тарифи на гарячу воду та опалення офіційно затверджені, вони незначно відрізняються від прогнозованих. З 1 липня броварчани будуть сплачувати за послуги КП "Броваритепловодоенергія" за новими тарифами.**

@@ -13,6 +13,7 @@ tags:
   - "proektuvannya"
   - "rekonstruktsiya"
   - "shevchenko"
+coverImage: "wp-content/uploads/2014/09/Park-SHevchenka-SAM_0825.jpg"
 ---
 
 **[![Парк Шевченка SAM_0839](https://mpz.brovary.org/wp-content/uploads/2014/09/Park-SHevchenka-SAM_0839.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/09/Park-SHevchenka-SAM_0839.jpg)Мабуть, чи не найтаємничішою і найцікавішою частиною Броварів є Старе місто. Особливо парк ім. Тараса Шевченка, форма якого нагадує трикутник. Тільки якщо в Бермудському трикутнику предмети та люди зникають, в броварському бермуді вони несподівано з’являються, викликаючи неоднозначну реакцію.**

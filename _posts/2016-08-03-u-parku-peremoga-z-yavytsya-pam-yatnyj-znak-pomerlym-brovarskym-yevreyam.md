@@ -22,6 +22,7 @@ tags:
   - "sporudzhennya"
   - "tsvintar"
   - "yudeyi"
+coverImage: "wp-content/uploads/2013/01/YEvr_klad2.jpg"
 ---
 
 **У центральному парку Броварів встановлять пам’ятний знак єврейським мешканцям міста. Монумент планують звести на місці колишнього [єврейського кладовища](https://mpz.brovary.org/brovarchani-u-parku-peremoga-hodyat-po-kistkah/). Рішення про це ухвалили вчора, 2 серпня, на засіданні виконавчого комітету Броварської міської ради, [повідомляє](https://www.facebook.com/permalink.php?story_fbid=266062117112513&id=100011261797360&comment_id=266088560443202&reply_comment_id=266090883776303&ref=notif&notif_t=mentions_comment&notif_id=1470208660346047) місцевий відділ культури.**

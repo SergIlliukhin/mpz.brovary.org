@@ -18,6 +18,7 @@ tags:
   - "stvoryuyemo-nove-misto"
   - "strategichna-sesiya"
   - "charivna-taystra"
+coverImage: "wp-content/uploads/2015/03/screen2.jpg"
 ---
 
 **Напередодні головного етапу кампанії «Нове місто – Бровари» - [проектної сесії, що відбудеться вже цими вихідними](https://mpz.brovary.org/vid-mriy-do-proektiv-brovarchani-prodovzhuyut-stvoryuvati-viziyu-novogo-mista/), команда «Маєш право знати» створила коротке, але надихаюче музичне відео з попереднього заходу, що відбувся в ресторані «Чарівна Тайстра» в останній день лютого.**

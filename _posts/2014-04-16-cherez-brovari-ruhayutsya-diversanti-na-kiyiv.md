@@ -7,6 +7,7 @@ author:
 tags: 
   - "vibir-redaktsiyi"
   - "novini"
+coverImage: "wp-content/uploads/2014/04/73706109_Koloradskiy_zhuk.jpg"
 ---
 
 **[![29260](https://mpz.brovary.org/wp-content/uploads/2014/04/29260.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/04/29260.jpg)Відразу з кількох джерел до «Маєш право знати» надходить інформація про появу невеликих груп підозрілих чоловіків, котрі рухаються транзитом через наше місто - вірогідно з боку Чернігова в напрямку столиці.**

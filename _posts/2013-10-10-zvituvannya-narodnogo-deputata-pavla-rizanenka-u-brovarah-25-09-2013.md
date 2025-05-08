@@ -11,6 +11,7 @@ tags:
   - "zvituvannya"
   - "narodniy-deputat"
   - "rizanenko"
+coverImage: "wp-content/uploads/2012/11/EWc0JnWtP5o.jpg"
 ---
 
 Повний відеозапис звітування народного депутата Павла Різаненка у Броварах 25.09.2013.

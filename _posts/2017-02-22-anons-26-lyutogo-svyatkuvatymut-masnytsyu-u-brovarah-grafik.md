@@ -16,6 +16,7 @@ tags:
   - "svyatkuvannya"
   - "svyato"
   - "yarmarok"
+coverImage: "wp-content/uploads/2017/02/masnytsya-maslyana-mlyntsi-ikra-yizha-harchi-lozhka.jpg"
 ---
 
 **Цього тижня в Україні відзначають Масницю. 26 лютого, останнього святкового недільного дня, у Броварах відбудуться масові гуляння неподалік центру міста. План заходів оприлюднили на офіційних сайтах [відділу культури](http://www.kulturabr.kiev.ua/content/masnycya) та [Броварської міської ради](http://brovary-rada.gov.ua/documents/26777.html).**

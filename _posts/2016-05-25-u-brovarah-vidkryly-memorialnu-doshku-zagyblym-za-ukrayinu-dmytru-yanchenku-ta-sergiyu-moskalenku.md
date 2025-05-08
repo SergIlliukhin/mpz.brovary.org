@@ -17,6 +17,7 @@ tags:
   - "moskalenko"
   - "novini"
   - "yanchenko"
+coverImage: "wp-content/uploads/2016/05/13256163_1324861230864265_2198757833346268342_n.jpg"
 ---
 
 **Сьогодні зранку біля центрального входу до 2-ої школи відбулися офіційні урочистості. На фасаді навчального закладу відкрили меморіальну дошку двом мешканцям міста, полеглим у сучасній російсько-українській війні** **– [Дмитру Янченку](https://mpz.brovary.org/lyudina-sontse-istoriya-poleglogo-geroya-z-brovariv-dmitra-yanchenka/) та [Сергію Москаленку](https://mpz.brovary.org/vichna-slava-brovarchani-proveli-v-ostannyu-put-troh-geroyiv/).**  

@@ -14,6 +14,7 @@ tags:
   - "napad-na-zhurnalistiv"
   - "novini"
   - "chepura"
+coverImage: "wp-content/uploads/2013/03/ignor-milicii.jpg"
 ---
 
 [![ignor-milicii](https://mpz.brovary.org/wp-content/uploads/2013/03/ignor-milicii.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/ignor-milicii.jpg)Попри рішення суду правоохоронці броварського міськвідділу не здійснили жодних слідчих дій по відношенню до фігурантів [резонансної справи](http://www.youtube.com/watch?feature=player_embedded&v=wT7SeNc1I4k#!) перешкоджання місцевим журналістам та пошкодження їх знімальної техніки 20 жовтня у Броварах.

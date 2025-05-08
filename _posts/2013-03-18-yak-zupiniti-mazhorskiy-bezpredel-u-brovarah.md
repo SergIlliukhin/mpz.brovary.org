@@ -12,6 +12,7 @@ tags:
   - "vibir-redaktsiyi"
   - "mazhori"
   - "myuzik-holl"
+coverImage: "wp-content/uploads/2013/03/bagmut22.jpg"
 ---
 
 [![O](https://mpz.brovary.org/wp-content/uploads/2013/03/16010.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/16010.jpg)_**Не зважаючи на те, що в протизаконності та аморальності  випадку, котрий [трапився](https://mpz.brovary.org/vosmogo-bereznya-ohorontsi-myuzik-holu-privitali-kliyentku-podviynim-perelomom-video/) восьмого березня в «Мюзік Холі» мало хто сумнівається, так само мало людей вірять, що міліція та суд зможуть покарати винних.**_

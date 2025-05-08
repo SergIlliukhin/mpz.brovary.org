@@ -7,6 +7,7 @@ author:
 tags: 
   - "vibir-redaktsiyi"
   - "novini"
+coverImage: "wp-content/uploads/2014/07/poroshkoviy0102.jpg"
 ---
 
 **[![rasplav-gotovyj-dlya-proizvodstva-zheleznogo-poroshka](https://mpz.brovary.org/wp-content/uploads/2014/07/rasplav-gotovyj-dlya-proizvodstva-zheleznogo-poroshka.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/07/rasplav-gotovyj-dlya-proizvodstva-zheleznogo-poroshka.jpg)Після [розслідування «Маєш право знати»](https://mpz.brovary.org/oboronniy-zavod-u-brovarah-kontrolyuyut-lyudi-tsarova-ta-kolesnikova/) щодо ситуації на броварському Заводі порошкової металургії, проблемою зацікавились народні депутати України. Так, позаминулої п’ятниці під час пленарного засідання українського парламенту було оголошено запит депутата Павла Різаненка щодо ситуації на «порошковому» заводі.**

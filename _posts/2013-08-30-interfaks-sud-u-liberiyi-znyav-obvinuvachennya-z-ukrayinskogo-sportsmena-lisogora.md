@@ -13,6 +13,7 @@ tags:
   - "novini"
   - "plavannya"
   - "sud"
+coverImage: "wp-content/uploads/2013/08/lisogor2.jpg"
 ---
 
 **[![lisogor](https://mpz.brovary.org/wp-content/uploads/2013/08/lisogor1.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/08/lisogor1.jpg)Суд у Ліберії зняв всі обвинувачення, висунуті відносно відомого українського спортсмена, чемпіона світу з плавання Олега Лісогора, -[повідомляє](http://ua.interfax.com.ua/news/general/165644.html) інформаційне агентство “Інтерфакс-Україна” з посиланням на Міністерство закордонних справ України.**

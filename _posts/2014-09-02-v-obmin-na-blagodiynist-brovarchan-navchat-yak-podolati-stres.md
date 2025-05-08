@@ -15,6 +15,7 @@ tags:
   - "novini"
   - "stres"
   - "trening"
+coverImage: "wp-content/uploads/2014/09/Stres.jpg"
 ---
 
 **[![Стрес](https://mpz.brovary.org/wp-content/uploads/2014/09/Stres.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/09/Stres.jpg)У цей дуже тривожний час надзвичайно важливо зберігати спокій та стан психологічної рівноваги. Щоб правильно реагувати на ті чи інші ситуації, ухвалювати правильні рішення та робити адекватні кроки, потрібно вміти справлятись зі стресом. Психолог [Наталія Малярова](https://www.facebook.com/profile.php?id=100001593592524) вирішила поєднати корисні знання з благодійністю.**

@@ -9,6 +9,7 @@ tags:
   - "vibir-redaktsiyi"
   - "gazeta"
   - "novini"
+coverImage: "wp-content/uploads/2012/04/newspaper-coal-news.jpg"
 ---
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/04/newspaper-coal-news.jpg "newspaper-coal-news")](https://mpz.brovary.org/wp-content/uploads/2012/04/newspaper-coal-news.jpg)Відтепер активісти «Маєш право знати» мають статус працівників ЗМІ. Нещодавно ми отримали свідоцтво про державну реєстрацію друкованого засобу масової інформації – газети «Маєш право знати».
