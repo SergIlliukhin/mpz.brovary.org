@@ -1,0 +1,279 @@
+- name: "Андрій Качор"
+  login: "kachor"
+  avatarUrl: "/avatars/img_2494-avatar.jpg"
+  description: "Незалежний журналіст, громадський активіст"
+
+- name: "Ірина Ющенко"
+  login: "yschenko"
+  avatarUrl: "/avatars/yushhenko-avatar.jpg"
+  description: "Журналіст видання \"Маєш право знати\", мешканка Броварів"
+
+- name: "Аліна Дяченко"
+  login: "aleechka"
+  avatarUrl: "/avatars/alina-9-avatar.jpg"
+  description: "Депутат Броварської міськради, голова броварського осередку \"ДемАльянсу\", екс-головний редактор \"Маєш право знати\""
+
+- name: "Дмитро Карпій"
+  login: "trydence"
+  avatarUrl: "/avatars/180738_104876129588486_100001982986761_34503_2783780_n-avatar.jpg"
+  description: "Журналіст \"Маєш право знати\", активіст Громадянського руху \"Відсіч\", голова комісії Броварської міської ради з питань найменувань та пам'ятних знаків"
+
+- name: "Тарас Шако"
+  login: "shako"
+  avatarUrl: "/avatars/yd3km3coevu-cropped.jpg"
+  description: "журналіст видання \"Маєш право знати\", громадський активіст"
+
+- name: "Тетяна Панкратьєва"
+  login: "tatuuum"
+  avatarUrl: "/avatars/12193856_774832012643353_253885983797302056_n-avatar.jpg"
+  description: "Журналіст \"Маєш право знати\", мешкає у Броварах"
+
+- name: "Сергій Іллюхін"
+  login: "sergilliukhin"
+  avatarUrl: "/avatars/img_9499-600x600-avatar.jpg"
+  description: "Броварчанин, громадський активіст, голова Київської обласної організації політичної партії \"ДемАльянс\""
+
+- name: "Вікторія Оникієнко"
+  login: "onikienko"
+  avatarUrl: "/avatars/vika-onikiyenko-foto-2-avatar.jpg"
+  description: "Журналістка \"Маєш право знати\", броварчанка"
+
+- name: "УДАР"
+  login: "udar"
+  avatarUrl: "/avatars/12-avatar.jpg"
+  description: "Броварський осередок партії УДАР Віталія Кличка"
+
+- name: "Прес-служба ВО Свобода"
+  login: "svoboda"
+  avatarUrl: "/avatars/photo-avatar.jpg"
+  description: "Броварська партійна районна організація"
+
+- name: "ДемАльянс Бровари"
+  login: "demalliance"
+  avatarUrl: "/avatars/demalliance-avatar.jpg"
+  description: "Броварська міська організація політичної партії \"Демократичний Альянс\""
+
+- name: "Самопоміч"
+  login: "samopomich"
+  avatarUrl: "/avatars/10441113_659284377504262_5611443551689739375_n-avatar.jpg"
+  description: "Об'єднання \"Самопоміч\" в м. Бровари"
+
+- name: "Молодь ДемАльянсу"
+  login: "molodda"
+  avatarUrl: "/avatars/molod-da-logo-avatar.png"
+  description: "Броварський осередок Всеукраїнської громадської організації \"Молодь Демократичного Альянсу\""
+
+- name: "Батьківщина"
+  login: "batkivshchyna"
+  avatarUrl: "/avatars/10622899_536141703199289_3505861072744006171_n.png"
+  description: "ВО \"Батьківщина\" м. Бровари"
+
+- name: "БПП \"Солідарність\""
+  login: "poroshenko-brovary"
+  avatarUrl: "/avatars/bpp-rayon-avatar.jpg"
+  description: "Броварський районний осередок партії \"Блок Петра Порошенка \"Солідарність\""
+
+- name: "Коордцентр допомоги військовим"
+  login: "koorcentr"
+  avatarUrl: "/avatars/10458034_1466273843613760_3337392717440118703_n-cropped.jpg"
+  description: "Координаційний центр допомоги броварським військовим"
+
+- name: "Громадська рада при міліції"
+  login: "gromradapolice"
+  avatarUrl: "/avatars/384632622-avatar.jpg"
+  description: "Громадська рада при Броварському МВ ГУ МВС України в Київській області"
+
+- name: "СОС Дитяче містечко"
+  login: "soskid"
+  avatarUrl: "/avatars/skachannye-fajly-cropped.jpg"
+  description: ""
+
+- name: "Асоціація батьків Броварів"
+  login: "batky_brovary"
+  avatarUrl: "/avatars/batki-avatar.jpg"
+  description: "Громадська організація \"Асоціація батьків м. Бровари\""
+
+- name: "Лівобережна Київщина"
+  login: "livoberezhna"
+  avatarUrl: "/avatars/logolk-avatar.jpg"
+  description: "Благодійний фонд розвитку громад \"Лівобережна Київщина\", заснований Павлом Різаненком"
+
+- name: "Гімназія ім. С. Олійника"
+  login: "gymnazium"
+  avatarUrl: "/avatars/gimnaziya-avatar.jpg"
+  description: "Броварська гімназія ім. С. І. Олійника"
+
+- name: "Роман Сімутін"
+  login: "simutin"
+  avatarUrl: "/avatars/osnovne-foto-cropped.jpg"
+  description: "Депутат Київської обласної ради"
+
+- name: "Сергій Севрук"
+  login: "serzhov"
+  avatarUrl: "/avatars/gfranq_serzhov_2133895-avatar.jpg"
+  description: "Журналіст \"Маєш право знати\", громадський активіст"
+
+- name: "Комаровський Олексій"
+  login: "komarovskyj"
+  avatarUrl: "/avatars/205448_202767159763964_5848068_n-avatar.jpg"
+  description: "Журналіст \"Маєш право знати\""
+
+- name: "Дарина Мізіна"
+  login: "mizina"
+  avatarUrl: "/avatars/391ca2c1fe9f0dae67cbc738bb42966c.jpg"
+  description: "Броварчанка, молода журналістка"
+
+- name: "Юрій Кравець"
+  login: "kravec"
+  avatarUrl: "/avatars/156789_124880497575655_7720728_n-avatar.jpg"
+  description: "Керівник Правозахисної Групи \"Варта\". Головний девіз - \"Поважай себе-захищай свої права!\""
+
+- name: "Юрій Чередник"
+  login: "cherednik"
+  avatarUrl: "/avatars/1422630_1583420471920232_2007786976293153066_n-avatar.jpg"
+  description: "Депутат Броварської міської ради VIІ скликання"
+
+- name: "Ірина Улітенко"
+  login: "ulitenko"
+  avatarUrl: "/avatars/13775543_1079760695435896_9138038083246565957_n-avatar.jpg"
+  description: "Журналістка \"Маєш право знати\""
+
+- name: "Владислава Крокос"
+  login: "krokos"
+  avatarUrl: "/avatars/16003110_387940001557385_5988660708581209082_n-avatar.jpg"
+  description: "Броварчанка, молода журналістка"
+
+- name: "Анастасія Печериця"
+  login: "pecheritsia"
+  avatarUrl: "/avatars/avka-mpz-avatar.jpg"
+  description: "Журналіст, фахівець з піар-менеджменту, броварчанка"
+
+- name: "Леонід Черепейнік"
+  login: "cherepejnik"
+  avatarUrl: "/avatars/14054062_1757597864505615_8601430692271008039_n-cropped.jpg"
+  description: "Депутат Броварської міської ради VII скликання, підприємець"
+
+- name: "Павло Різаненко"
+  login: "pavriz"
+  avatarUrl: "/avatars/133016_289156534518401_107337738_o-avatar.jpg"
+  description: "Депутат Верховної Ради України, обраний у 97 окрузі"
+
+- name: "Тетяна Немчина"
+  login: "nemchina"
+  avatarUrl: "/avatars/nemchina.jpg"
+  description: "Громадський діяч, працюю в третьому секторі на постійній основі. Зараз розвиваю соціальне підприємництво"
+
+- name: "Центр зайнятості"
+  login: "centrzaynyatosti"
+  avatarUrl: "/avatars/18170-avatar.jpg"
+  description: "Прес-служба Броварського міськрайонного центру зайнятості"
+
+- name: "Вікторія Ткачук"
+  login: "tkachuk"
+  avatarUrl: "/avatars/14292260_1739491382939893_8943301918606148685_n-avatar.jpg"
+  description: "Журналістка \"Маєш право знати\""
+
+- name: "Ірина Нікітчина"
+  login: "nikitchina"
+  avatarUrl: "/avatars/12633175_1501072136866799_114519531_o-avatar.jpg"
+  description: "Громадська активістка, член Штабу з розробки та громадського обговорення змін до Генерального плану міста Бровари, фахівець з питань архітектури, помічник депутата Броварської міської ради Андрія Саука"
+
+- name: "Єлизавета Ковальчук"
+  login: "veta"
+  avatarUrl: "/avatars/veta-avatar.png"
+  description: "Активна броварчанка, молодий журналіст"
+
+- name: "Світлана Яцив"
+  login: "jacyv"
+  avatarUrl: "/avatars/sveta-avatar.jpg"
+  description: "Фотограф, кореспондент"
+
+- name: "Андрій Саук"
+  login: "sauk"
+  avatarUrl: "/avatars/sauk-da-avatar.jpg"
+  description: "Співзасновник Школи ефективного ОСББ, депутат Броварської міської ради (фракція \"Демократичний Альянс\"), член постійної комісії з питань комунальної власності, приватизації, житлово-комунального господарства та благоустрою"
+
+- name: "Микола Коханівський"
+  login: "kohanivsky"
+  avatarUrl: "/avatars/217205_118117934935789_3914818_n-avatar.jpg"
+  description: "Координатор Комітету визволення політв'язнів, кандидат у народні депутати у виборчому окрузі № 97"
+
+- name: "Марина Рубайло"
+  login: "mobi"
+  avatarUrl: "/avatars/img_6543-cropped.jpg"
+  description: "Активістка МОБІ - молодіжної організації \"Броварська ініціатива\""
+
+- name: "Олег Берестовий"
+  login: "berestovyj"
+  avatarUrl: "/avatars/img_9640-600x600-avatar.jpg"
+  description: "Депутат Броварської міської ради, фракція ДемАльянс"
+
+- name: "Володимир Брюхов"
+  login: "bruhov"
+  avatarUrl: "/avatars/pphotos-avatar.jpg"
+  description: "Мешкаю у в/м Семиполки, колишній військовий, зараз на пенсії. Очолюю первинну організацію в/м Семиполки ветеранів України, голова Броварської міської організації безквартирних офіцерів"
+
+- name: "Лідія Стрельченко"
+  login: "lisova"
+  avatarUrl: "/avatars/img_0012===-avatar.jpg"
+  description: "корінна мешканка Броварів"
+
+- name: "Бровари Вторма"
+  login: "vtorma"
+  avatarUrl: "/avatars/1897862_1462907214020969_8916036033319189010_n-avatar.jpg"
+  description: "ТОВ «БРОВАРИ-ВТОРМА» - броварське підприємство, яке спеціалізується на закупівлі, продажу, утилізації та переробці вторинної сировини і відходів"
+
+- name: "Віктор Малофієнко"
+  login: "malofienko"
+  avatarUrl: "/avatars/malofienko-avatar.jpg"
+  description: "Голова ініціативної групи «Старе місто», броварчанин"
+
+- name: "Ольга Лещик"
+  login: "leshchyk"
+  avatarUrl: "/avatars/1505989_1406043229704350_5954442360128746021_n-avatar.jpg"
+  description: "Молодий журналіст, громадський активіст"
+
+- name: "Юрій Плакся"
+  login: "plaksya"
+  avatarUrl: "/avatars/222-cropped.jpg"
+  description: "Депутат Броварської міської ради VI скликання, секретар комісії з питань молодіжної політики та спорту. Довірена особа кандидата в народні депутати України Павла Різаненка."
+
+- name: "Олег Іваненко"
+  login: "ivanenko"
+  avatarUrl: "/avatars/10383086_1378160759149108_2064074653406881441_n-cropped.jpg"
+  description: "Голова громадської організації \"Прагнення\", депутат Броварської міської ради"
+
+- name: "Anonymous"
+  login: "anonymous"
+  avatarUrl: "/avatars/4gczieegdq-avatar.jpg"
+  description: "Анонімус"
+
+- name: "Олександр Рудка"
+  login: "kalistratos"
+  avatarUrl: "/avatars/mask-avatar.jpg"
+  description: "Небайдужий броварчанин, журналіст"
+
+- name: "Батюк Сергій"
+  login: "serhij-batuk"
+  avatarUrl: "/avatars/11079659_819774864765229_6983104994720849544_n-cropped.jpg"
+  description: ""
+
+- name: "Кузнєцов Володимир"
+  login: "kuznecov"
+  avatarUrl: "/avatars/imag1198-cropped.jpg"
+  description: "Активіст броварської міської організації політичної партії \"УДАР\""
+
+- name: "Ирина Смирнова"
+  login: "smirnova"
+  avatarUrl: "/avatars/191891_217901765005711_123520823_o-avatar.jpg"
+  description: "Броварской район, пгт Калита"
+
+- name: "Люстраційний Комітет"
+  login: "lustration"
+  avatarUrl: "/avatars/lyustratsiya-cropped.jpg"
+  description: ""
+
+- name: "Владимир Охримов"
+  login: "ochrimoff"
+  avatarUrl: "/avatars/z_147002c9-avatar.jpg"
+  description: "Житель этого города, который смотрит на него со стороны" 
