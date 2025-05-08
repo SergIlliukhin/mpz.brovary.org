@@ -41,7 +41,7 @@ coverImage: "wp-content/uploads/2013/06/Piketuvannya-militsiyi.jpg"
 
 **Телесюжет каналу "ТВі"**
 
-<iframe src="http://tvi.ua/embed.php?video=19719" height="390" width="520" frameborder="0"></iframe>
+<iframe src="https://tvi.ua/embed.php?video=19719" height="390" width="520" frameborder="0"></iframe>
 
 Учасники тримали у руках прапори опозиційних партій і плакати з написами «Геть мєнтовскій бєспрєдєл», «Стоп НКВД!», «Геть сталіністів з МВС!», «Один за всіх – всі за одного!» та інші.
 

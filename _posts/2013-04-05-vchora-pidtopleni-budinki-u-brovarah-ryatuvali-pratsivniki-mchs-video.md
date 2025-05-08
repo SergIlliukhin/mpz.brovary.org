@@ -26,4 +26,4 @@ coverImage: "wp-content/uploads/2013/04/pidtoplennya2.jpg"
 
 **Сюжет на телеканалі 1+1**
 
-<iframe src="http://video.bigmir.net/player/398456/" height="395" width="625" frameborder="0"></iframe>
+<iframe src="https://video.bigmir.net/player/398456/" height="395" width="625" frameborder="0"></iframe>

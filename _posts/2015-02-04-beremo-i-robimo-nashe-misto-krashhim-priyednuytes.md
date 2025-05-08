@@ -29,6 +29,6 @@ coverImage: "wp-content/uploads/2015/02/10959674_712942338805132_772386209952927
 
 Нагадаємо, що нещодавно ми [відкрили у Броварах свою приймальню](https://mpz.brovary.org/vizmi-i-zrobi-u-brovarah-prezentuvali-initsiativnu-grupu-samopomochi-foto/), на відкриття до нас приїздили поважні народні депутати України Ірина Сисоєнко та Олег Лаврик. Нижче можна подивитись сюжет «каналу 24» про те, як все відбувалось.
 
-<iframe src="http://24tv.ua/jsp/nodecorate/jwpvideo.html?videoUrl=2015/01/535083&amp;imgUrl=_main.mp4.jpeg&amp;h=360&amp;w=640" width="640" height="360" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://24tv.ua/jsp/nodecorate/jwpvideo.html?videoUrl=2015/01/535083&amp;imgUrl=_main.mp4.jpeg&amp;h=360&amp;w=640" width="640" height="360" frameborder="0" scrolling="no"></iframe>
 
 Нагадуємо також, що наша приймальня працює в офісному центрі на вул. Рокосовського, 2 (на розі з вул. М. Лагунової, навпроти магазину "Домашня випічка"), ми приймаємо громадян щодня крім вихідних з 10:00 до 18:00 в офісі №303. Сподіваємось, броварчани стежитимуть за нашою діяльністю та підтримуватимуть наші добрі справи! Нам є ще багато що робити і вам розповісти! Працюймо заради нашого міста разом!

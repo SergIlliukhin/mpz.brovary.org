@@ -38,11 +38,11 @@ _[![](https://mpz.brovary.org/wp-content/uploads/2012/08/Plenum-veteraniv_4.jpg 
 
 Взагалі, у вас  є можливість просто послухати аудіозапис цього виступу, який можна назвати справжнім «шедевром» високологічної мови і вкрай цікавих рішень першої особи району.
 
-<iframe src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F56136230&amp;show_artwork=true" frameborder="no" scrolling="no" width="100%" height="166"></iframe>
+<iframe src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F56136230&amp;show_artwork=true" frameborder="no" scrolling="no" width="100%" height="166"></iframe>
 
 Ігор Сапожко був трохи менш емоційним, але суть та ж сама – минула влада не працювала. Нічого не робилося. А от за ці роки зроблено більше, ніж за 20 попередніх. Ігор Васильович підзабув, правда, що у ті двадцять років входять також, як мінімум, два періоди прем’єрства нинішнього, «глубоко любимого» ним президента.  Та й пана Кучму можна згадати.
 
-<iframe src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F56136317&amp;show_artwork=true" frameborder="no" scrolling="no" width="100%" height="166"></iframe>
+<iframe src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F56136317&amp;show_artwork=true" frameborder="no" scrolling="no" width="100%" height="166"></iframe>
 
 Ну і зі слів обох доповідачів можна зробити висновок: їм би практично нічим було звітувати перед  тими ж ветеранами, аби не просто таки гігантська роль, яку в повсякденному житті Броварщини   відіграє всього лише одна людина. І держакти на землю не видавалися б, і медицина б зачахла зовсім, і поліклініка так би й залишилися  довгобудом, і дитячих майданчиків не було, і жителі Броварщини давилися б  у поїздках до столиці в електропоїзді в  одному-єдиному  вагоні. Ну а чого варта тролейбусна  лінія  до столиці… А варта  вона варта окремої розмови. Але послухайте, що сказав про неї пан Сапожко. Чимало цікавого почуєте майже з перших вуст.
 

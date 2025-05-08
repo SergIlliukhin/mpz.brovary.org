@@ -17,7 +17,7 @@ coverImage: "wp-content/uploads/2013/12/Zagorovka-Sud.jpg"
 
 \[caption id="attachment\_22703" align="alignleft" width="300"\][![Загоровка Суд](https://mpz.brovary.org/wp-content/uploads/2013/12/Zagorovka-Sud.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/12/Zagorovka-Sud.jpg) Суд над Загоровкою. Фото - Денис Гнатюк\[/caption\]
 
-Одного із затриманих під час акцій протесту у Києві Владислава Загоровку переведено з Лук'янівського СІЗО в офтальмологічне відділення Олександрівської лікарні. Про це повідомив журналістам на брифінгу голова парламентського комітету з питань прав людини Валерій Пацкан, - повідомляє [сайт "Дзеркала тижня"](http://dt.ua/UKRAINE/odnogo-iz-zatrimanih-protestuvalnikiv-pereveli-z-sizo-do-likarni-133302_.html).
+Одного із затриманих під час акцій протесту у Києві Владислава Загоровку переведено з Лук'янівського СІЗО в офтальмологічне відділення Олександрівської лікарні. Про це повідомив журналістам на брифінгу голова парламентського комітету з питань прав людини Валерій Пацкан, - повідомляє [сайт "Дзеркала тижня"](https://dt.ua/UKRAINE/odnogo-iz-zatrimanih-protestuvalnikiv-pereveli-z-sizo-do-likarni-133302_.html).
 
 За його словами, вчора на позачерговому засіданні комітету була озвучена інформація про те, що у Загоровко відшарування сітківки ока, і він вимагає негайного медичного втручання.
 
@@ -29,4 +29,4 @@ coverImage: "wp-content/uploads/2013/12/Zagorovka-Sud.jpg"
 
 Він зазначив також, що по всіх десяти затриманих ведеться робота в плані забезпечення їх правового та, у разі необхідності, медичною допомогою.
 
-**Джерело: "[Дзеркало тижня](http://dt.ua/UKRAINE/odnogo-iz-zatrimanih-protestuvalnikiv-pereveli-z-sizo-do-likarni-133302_.html)"**
+**Джерело: "[Дзеркало тижня](https://dt.ua/UKRAINE/odnogo-iz-zatrimanih-protestuvalnikiv-pereveli-z-sizo-do-likarni-133302_.html)"**

@@ -18,6 +18,6 @@ coverImage: "wp-content/uploads/2013/06/0196.jpg"
 
 Нагадаємо, на початку квітня у приватному секторі броварів [було частково або повністю підтоплено](https://mpz.brovary.org/vchora-pidtopleni-budinki-u-brovarah-ryatuvali-pratsivniki-mchs-video/) 8 будинків та 40 прибудинкових територій, знадобилася допомога спеціалістів МНС.
 
-<iframe src="http://video.bigmir.net/player/398456/" height="395" width="625" frameborder="0"></iframe>
+<iframe src="https://video.bigmir.net/player/398456/" height="395" width="625" frameborder="0"></iframe>
 
 Незабаром після цього, 13 квітня 2013 року, у актовій залі школи № 1 відбулись [збори громади](https://mpz.brovary.org/13-kvitnya-brovarchani-na-zborah-gromadi-shukatimut-virishennya-problemi-pidtoplennya-starogo-mista/), на яких мешканці обговорювали проблему підтоплення старої частини нашого міста та шукали способи її вирішення.

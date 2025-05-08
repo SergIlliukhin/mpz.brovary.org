@@ -25,7 +25,7 @@ coverImage: "wp-content/uploads/2013/08/Vodiy-zbiv-zhinku-z-ditinoyu.jpg"
 
 А потім наїхав на матір з дитиною у візочку, які йшли узбіччям назустріч. Від удару жінка перелетіла через капот і впала на середину дороги, а візочок з дитиною відлетів в інший бік.
 
-<iframe src="http://video.bigmir.net/player/425790/" height="395" width="625" frameborder="0"></iframe>
+<iframe src="https://video.bigmir.net/player/425790/" height="395" width="625" frameborder="0"></iframe>
 
 На щастя, дитина, хоча і випала з візочку, відбулася подряпиною на щоці. А от жінка зараз у лікарні з закритою черепно-мозковою травмою.
 

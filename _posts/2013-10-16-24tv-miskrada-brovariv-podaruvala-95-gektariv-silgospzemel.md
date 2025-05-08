@@ -23,7 +23,7 @@ coverImage: "wp-content/uploads/2013/10/sapojko24_2.png"
 
 Мер міста Ігор Сапожко привів на зібрання жінку. Навіщо, стало зрозуміло, коли виникло питання про виділення понад 95 гектарів броварської землі під будівництво фармацевтичного заводу.
 
-<iframe src="http://24tv.ua/jsp/nodecorate/jwpvideo.html?dns=http://24tv.ua&amp;siteDns=http://24tv.ua&amp;videoUrl=2013/10/375890&amp;imgUrl=_main.mp4.jpeg&amp;stream=http://stream1.luxnet.ua&amp;h=475&amp;w=600" height="475" width="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://24tv.ua/jsp/nodecorate/jwpvideo.html?dns=http://24tv.ua&amp;siteDns=http://24tv.ua&amp;videoUrl=2013/10/375890&amp;imgUrl=_main.mp4.jpeg&amp;stream=http://stream1.luxnet.ua&amp;h=475&amp;w=600" height="475" width="600" frameborder="0" scrolling="no"></iframe>
 
 З проханням змінити цільове призначення майже ста гектарів сільськогосподарських земель до міськради звернулась компанія "Інтер-профіт", яку створили вісім місяців тому і яка стала власником ділянки. Жанну Денисову мер назвав представником цієї компанії, хоча представляла жінка, за її словами, компанію-забудовника. Говорила вона про виробництво до 16 тисяч найменувань ліків, презентувала навіть схему будівництва.
 

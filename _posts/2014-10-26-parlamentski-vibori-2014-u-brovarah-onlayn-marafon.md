@@ -23,7 +23,7 @@ coverImage: "wp-content/uploads/2014/10/marafon-vybory-2014-445.jpg"
 
 **ПРЯМІ ВІДЕОТРАНСЛЯЦІЇ ВІДБУВАТИМУТЬСЯ [ЗА ЦИМ ПОСИЛАННЯМ](http://www.ustream.tv/channel/pravoznaty).** Прямі включення почалися з 9:00 та відбуватимуться щодвігодини до кінця голосування. **Після цього розпочнеться пряма відеотрансляція засідання Окружної виборчої комісії.** 
 
-<iframe style="border: 0px transparent;" src="http://www.ustream.tv/embed/15478577?v=3&amp;wmode=direct" width="600" height="400" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://www.ustream.tv/embed/15478577?v=3&amp;wmode=direct" width="600" height="400" frameborder="0" scrolling="no"></iframe>
 
 **УСЯ ОПЕРАТИВНА ІНФОРМАЦІЯ ПРО ПЕРЕБІГ ГОЛОСУВАННЯ - НА СТОРІНКАХ "МАЄШ ПРАВО ЗНАТИ" НА [FACEBOOK](https://www.facebook.com/pravo.znaty.brovary) ТА [ВКОНТАКТЕ](https://vk.com/pravo.znaty.brovary)**
 

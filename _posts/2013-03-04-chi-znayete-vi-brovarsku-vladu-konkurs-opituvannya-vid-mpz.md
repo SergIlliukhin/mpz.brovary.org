@@ -19,4 +19,4 @@ coverImage: "wp-content/uploads/2013/03/IMG_2106.jpg"
 
 > **Вибачте, опитування вже закінчилось...**
 
-<iframe id="fs-survey-iframe" src="http://fluidsurveys.com/surveys/sergilliukhin/grb7gh5abfgeinognhdrzv3ori/" frameborder="0" style="border: none; zoom:1; width:100%;height:800px;"></iframe>
+<iframe src="https://fluidsurveys.com/surveys/sergilliukhin/grb7gh5abfgeinognhdrzv3ori/" frameborder="0" style="border: none; zoom:1; width:100%;height:800px;"></iframe>

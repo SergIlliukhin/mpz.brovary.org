@@ -18,7 +18,7 @@ tags:
 
 \[caption id="attachment\_22842" align="alignleft" width="199"\]![барабаш](https://mpz.brovary.org/wp-content/uploads/2013/12/barabash.jpg) Юлія Барабаш\[/caption\]
 
-**Понад тиждень тому на [сайті ГУ МВС України в Київській області](http://mvs.gov.ua/mvs/control/kyivska/uk/publish/article/94975) з’явилась інформація про те, що [двох зниклих після розгону Євромайдану 30 листопада броварчанок](https://mpz.brovary.org/sered-zniklih-bezvisti-pislya-rozgonu-yevromaydanu-dvi-brovarchanki/) знайшли. Дівчат 16 та 18 років - Марину Цебоєву й Лілію Хачатурову - броварські правоохоронці повернули батькам.**
+**Понад тиждень тому на [сайті ГУ МВС України в Київській області](https://mvs.gov.ua/mvs/control/kyivska/uk/publish/article/94975) з’явилась інформація про те, що [двох зниклих після розгону Євромайдану 30 листопада броварчанок](https://mpz.brovary.org/sered-zniklih-bezvisti-pislya-rozgonu-yevromaydanu-dvi-brovarchanki/) знайшли. Дівчат 16 та 18 років - Марину Цебоєву й Лілію Хачатурову - броварські правоохоронці повернули батькам.**
 
 Щоб дізнатись подробиці історії про знайдених дівчат, а також про [розбите вікно приймальні броварського мера Сапожка](https://mpz.brovary.org/sogodni-vnochi-htos-rozbiv-vikno-u-kabineti-mera-brovariv-sapozhka/),  я зателефонував до начальника відділу зв’язків з горомадськістю Броварського міськвідділу міліції Юлії Барабаш. Тої самої Юлії Барабаш, яка ще не так давно [водила журналістів броварським відділком міліції](https://mpz.brovary.org/brovarski-strazhi-poryadku-proveli-gromadskist-ta-zmi-koridorami-rayviddilku/) у День відкритих дверей, демонструючи, як всі гарно працюють, вихваляючи перед телекамерами оперативність правоохоронців та довіру броварчан, що росте, ніби на дріжджах.
 

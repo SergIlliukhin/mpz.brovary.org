@@ -23,4 +23,4 @@ coverImage: "wp-content/uploads/2013/05/Rizanenko-na-aktsiyi-u-parku.jpg"
 
 Народний депутат зауважив, що наразі вирішується питання щодо притягнення до відповідальності винних у злочинах. “_Якщо “гопники” б’ють журналістів, громадян,  то така людина має понести відповідальність за скоєння злочинів. Це буде впливати на поведінку людей у майбутньому. Потрібно створити прецедент невідворотності відповідальності_”, – заявив Різаненко.
 
-<iframe src="http://tvi.ua/embed.php?video=19195" height="390" width="520" allowfullscreen frameborder="0"></iframe>
+<iframe src="https://tvi.ua/embed.php?video=19195" height="390" width="520" allowfullscreen frameborder="0"></iframe>

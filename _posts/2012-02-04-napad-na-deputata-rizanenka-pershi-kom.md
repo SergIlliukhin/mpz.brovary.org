@@ -15,7 +15,7 @@ tags:
 
 Зараз він знаходиться у Київській міській клінічній лікарні швидкої допомоги. Лікарі кажуть, що переломів немає, є підозра на струс мозку, забої внутрішніх органів, численні синці та гематоми, йому колють знеболювальні. Сам Різаненко скаржиться на сильний головний біль та біль у лівій частині тіла. <!--more-->Більш детальну інформацію щодо стану здоров'я депутата його лікар надавати відмовився.
 
-<iframe src="http://player.vimeo.com/video/36243615?title=0&amp;byline=0&amp;portrait=0" width="560" height="418" frameborder="0" webkitallowfullscreen mozallowfullscreen="" allowfullscreen=""></iframe>
+<iframe src="https://player.vimeo.com/video/36243615?title=0&amp;byline=0&amp;portrait=0" width="560" height="418" frameborder="0" webkitallowfullscreen mozallowfullscreen="" allowfullscreen=""></iframe>
 
 Вранці до Павла Олександровича приїздив **Ярослав Шута** - дільничний міліціонер з Броварів, записував пояснення. Також з офіційним візитом його відвідала секретар Броварської міської ради **Олена Семенюк**.
 

@@ -25,7 +25,7 @@ coverImage: "wp-content/uploads/2012/10/Teleefir.jpg"
 
 _Ефір Миколи Коханівського від 15.10.2012_
 
-<iframe src="http://player.vimeo.com/video/51476809?title=1&amp;byline=1&amp;portrait=1" frameborder="0" width="500" height="375"></iframe>
+<iframe src="https://player.vimeo.com/video/51476809?title=1&amp;byline=1&amp;portrait=1" frameborder="0" width="500" height="375"></iframe>
 
 _Ефір Павла Різаненка від 14.10.2012_
 
