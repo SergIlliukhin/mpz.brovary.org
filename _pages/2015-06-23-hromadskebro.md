@@ -12,7 +12,7 @@ author:
   <div class="video-post-card">
     <a href="{{ post.url | relative_url }}">
       {% if post.coverImage %}
-        <img src="{{ site.url }}{{ site.baseurl }}/{{ post.coverImage }}" alt="{{ post.title | escape }}" class="video-thumbnail">
+        <img src="{{ post.coverImage | relative_url}}" alt="{{ post.title | escape }}" class="video-thumbnail">
       {% endif %}
       <h3>{{ post.title | escape }}</h3>
       <p class="post-date">{{ post.date | date: "%d.%m.%Y" }}</p>
