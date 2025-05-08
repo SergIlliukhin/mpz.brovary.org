@@ -86,7 +86,7 @@ coverImage: "wp-content/uploads/2015/08/1024px-thumbnail.jpg"
 
 [![Декомунізація дошки_00028](https://mpz.brovary.org/wp-content/uploads/2015/08/Dekomunizatsiya-doshky_00028.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/08/Dekomunizatsiya-doshky_00028.jpg)
 
-Це питання, як і раніше, викликало суперечки. Однак консенсусу вдалось досягти. Комісія одностайно проголосувала за те, щоби додати пропозицію перейменування вулиці Чкалова до [другого переліку](http://www.slideshare.net/DmytroKarpiy/2-49874413?ref=https://mpz.brovary.org/dekomunizatsiya-u-rozpali-u-brovarah-perejmenuyut-blyzko-40-vulyts-perelik/) напрацювань від краєзнавців і активістів - поруч із варіантом назвати цю дорогу на честь Броварської сотні. Обидва варіанти мають бути винесені на громадське обговорення.
+Це питання, як і раніше, викликало суперечки. Однак консенсусу вдалось досягти. Комісія одностайно проголосувала за те, щоби додати пропозицію перейменування вулиці Чкалова до [другого переліку](https://www.slideshare.net/DmytroKarpiy/2-49874413?ref=https://mpz.brovary.org/dekomunizatsiya-u-rozpali-u-brovarah-perejmenuyut-blyzko-40-vulyts-perelik/) напрацювань від краєзнавців і активістів - поруч із варіантом назвати цю дорогу на честь Броварської сотні. Обидва варіанти мають бути винесені на громадське обговорення.
 
 **Нові та колишні члени комісії**
 

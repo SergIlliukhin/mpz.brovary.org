@@ -15,8 +15,8 @@ tags:
 
 Замість мікрофону використовував диктофон у мобільному телефоні, відеозйомку здійснювала дружина. На монтаж витратив близько 2 годин. Вцілому, сподіваюсь, вийшло досить цікаво :) <!--more-->
 
-<iframe width="480" height="360" src="http://www.youtube.com/embed/FAqwgdX0rqk" frameborder="0" allowfullscreen></iframe>
+<iframe width="480" height="360" src="https://www.youtube.com/embed/FAqwgdX0rqk" frameborder="0" allowfullscreen></iframe>
 
 **Оновлено 07.03.2012:** а ось знайшов ще один відеозвіт про акцію:
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/REwcaiSBgLQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/REwcaiSBgLQ" frameborder="0" allowfullscreen></iframe>

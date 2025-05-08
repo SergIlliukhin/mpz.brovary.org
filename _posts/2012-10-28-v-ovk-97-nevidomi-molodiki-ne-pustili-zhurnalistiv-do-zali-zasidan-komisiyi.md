@@ -31,4 +31,4 @@ coverImage: "wp-content/uploads/2012/10/IMG_2997.jpg"
 
 Усі ці події зафіксовано на відео. На основі відзнятого матеріалу активісти громадянської кампанії "**Наступ**" зробили ролик:
 
-<iframe src="http://www.youtube.com/embed/YUIxXpDZfbU" frameborder="0" width="560" height="315"></iframe>
+<iframe src="https://www.youtube.com/embed/YUIxXpDZfbU" frameborder="0" width="560" height="315"></iframe>

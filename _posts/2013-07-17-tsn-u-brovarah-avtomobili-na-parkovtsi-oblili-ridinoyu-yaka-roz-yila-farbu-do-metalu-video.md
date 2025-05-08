@@ -18,7 +18,7 @@ tags:
 coverImage: "wp-content/uploads/2013/07/Poshkodzheni-avto.png"
 ---
 
-**[![Пошкоджені авто](https://mpz.brovary.org/wp-content/uploads/2013/07/Poshkodzheni-avto.png)](https://mpz.brovary.org/wp-content/uploads/2013/07/Poshkodzheni-avto.png)Вчора, 16 липня, у Броварах півтора десятка автомобілів облили невідомою рідиною. Про це йшлось у [сюжеті ТСН](http://tsn.ua/kyiv/u-brovarah-avtomobili-na-parkovci-oblili-ridinoyu-yaka-roz-yila-farbu-do-metalu-302612.html) в ефірі телеканалу "1+1" о 19:30.**
+**[![Пошкоджені авто](https://mpz.brovary.org/wp-content/uploads/2013/07/Poshkodzheni-avto.png)](https://mpz.brovary.org/wp-content/uploads/2013/07/Poshkodzheni-avto.png)Вчора, 16 липня, у Броварах півтора десятка автомобілів облили невідомою рідиною. Про це йшлось у [сюжеті ТСН](https://tsn.ua/kyiv/u-brovarah-avtomobili-na-parkovci-oblili-ridinoyu-yaka-roz-yila-farbu-do-metalu-302612.html) в ефірі телеканалу "1+1" о 19:30.**
 
 Те, що машини пошкоджені, власники помітили зранку. Хто і навіщо це зробив, вони і гадки не мають: машини були припарковані на спеціально виділеному для цього місці.
 
@@ -28,4 +28,4 @@ coverImage: "wp-content/uploads/2013/07/Poshkodzheni-avto.png"
 
 > Нагадаємо, близько місяця тому у Броварах [спалили автомобіль](https://mpz.brovary.org/sogodni-vnochi-deputatu-romanu-simutinu-spalili-avtomobil-video/) депутата міської ради та голови міського осередку "УДАРу" Романа Сімутіна. Також за кілька днів до цієї події біля іншого будинку [згоріло три автомобіля](https://mpz.brovary.org/za-minulu-nich-u-brovarah-zgorili-tri-avtomobili/).
 
-**Джерело: [ТСН](http://tsn.ua/kyiv/u-brovarah-avtomobili-na-parkovci-oblili-ridinoyu-yaka-roz-yila-farbu-do-metalu-302612.html)**
+**Джерело: [ТСН](https://tsn.ua/kyiv/u-brovarah-avtomobili-na-parkovci-oblili-ridinoyu-yaka-roz-yila-farbu-do-metalu-302612.html)**

@@ -46,4 +46,4 @@ coverImage: "wp-content/uploads/2015/03/mist-torgmash-2.jpg"
 
 Виконавцем робіт (генеральною підрядною організацією), згідно з проведеною тендерною процедурою, виступає ПрАТ «Броварське шляхово-будівельне управління № 50».
 
-> Раніше на сайті «Наші гроші» була оприлюднена [новина](http://www.facebook.com/l.php?u=http%3A%2F%2Fnashigroshi.org%2F2014%2F05%2F15%2Feks-holovnyj-shlyahovyk-otrymaje-14-miljoniv-na-shlyahoprovid-u-brovarah%2F&h=tAQGifiza) про угоду між Броварською міською радою та Броварським ШБУ № 50 на капітальний ремонт шляхопроводу.
+> Раніше на сайті «Наші гроші» була оприлюднена [новина](https://www.facebook.com/l.php?u=http%3A%2F%2Fnashigroshi.org%2F2014%2F05%2F15%2Feks-holovnyj-shlyahovyk-otrymaje-14-miljoniv-na-shlyahoprovid-u-brovarah%2F&h=tAQGifiza) про угоду між Броварською міською радою та Броварським ШБУ № 50 на капітальний ремонт шляхопроводу.

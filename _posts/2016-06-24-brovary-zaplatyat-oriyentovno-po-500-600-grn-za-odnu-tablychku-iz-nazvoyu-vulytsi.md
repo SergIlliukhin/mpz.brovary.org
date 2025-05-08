@@ -59,7 +59,7 @@ coverImage: "wp-content/uploads/2016/06/DSC_5492.jpg"
 
 **Назви вулиць на табличках будуть граматично неправильними**
 
-Одне із питань, яке раніше підіймала [робоча група](https://mpz.brovary.org/brovarski-krayeznavtsi-ta-aktyvisty-predstavlyly-propozytsiyi-shhodo-perejmenuvannya-vulyts-startuvalo-gromadske-obgovorennya/) з підготування пропозицій щодо перейменування вулиць Броварів, - [грамотність написання назв](http://www.slideshare.net/DmytroKarpiy/ss-58654122) на нових табличках. Зокрема, активісти, краєзнавці та філологи вказували: назви на честь людей на табличках мають бути у форматі «ім’я-прізвище», а не навпаки. Робоча група зауважувала на попередній досвід виготовлення таких табличок.
+Одне із питань, яке раніше підіймала [робоча група](https://mpz.brovary.org/brovarski-krayeznavtsi-ta-aktyvisty-predstavlyly-propozytsiyi-shhodo-perejmenuvannya-vulyts-startuvalo-gromadske-obgovorennya/) з підготування пропозицій щодо перейменування вулиць Броварів, - [грамотність написання назв](https://www.slideshare.net/DmytroKarpiy/ss-58654122) на нових табличках. Зокрема, активісти, краєзнавці та філологи вказували: назви на честь людей на табличках мають бути у форматі «ім’я-прізвище», а не навпаки. Робоча група зауважувала на попередній досвід виготовлення таких табличок.
 
 [![Грушевськго](https://mpz.brovary.org/wp-content/uploads/2016/06/Grushevskgo.jpg)](https://mpz.brovary.org/wp-content/uploads/2016/06/Grushevskgo.jpg)
 

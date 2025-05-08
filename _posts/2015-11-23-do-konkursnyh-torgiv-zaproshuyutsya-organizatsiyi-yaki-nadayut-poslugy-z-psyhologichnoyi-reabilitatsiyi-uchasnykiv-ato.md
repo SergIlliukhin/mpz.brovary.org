@@ -12,7 +12,7 @@ tags:
   - "psyhologichna-reabilitatsiya"
 ---
 
-**Броварська міська рада [повідомляє](http://brovary-rada.gov.ua/do-uvagi-sub%E2%80%99%D1%94kt%D1%96v-gospodaryuvannyazaproshuyutsya-p%D1%96dpri%D1%94mstvaustanovi-organ%D1%96zats%D1%96%D1%97-yak%D1%96-zd%D1%96isnyuyut), що до участі в конкурсних торгах запрошуються організації, які здійснюють заходи із соціально-психологічної реабілітації постраждалих учасників АТО.**
+**Броварська міська рада [повідомляє](https://brovary-rada.gov.ua/do-uvagi-sub%E2%80%99%D1%94kt%D1%96v-gospodaryuvannyazaproshuyutsya-p%D1%96dpri%D1%94mstvaustanovi-organ%D1%96zats%D1%96%D1%97-yak%D1%96-zd%D1%96isnyuyut), що до участі в конкурсних торгах запрошуються організації, які здійснюють заходи із соціально-психологічної реабілітації постраждалих учасників АТО.**
 
 Зокрема у повідомленні сказано:
 

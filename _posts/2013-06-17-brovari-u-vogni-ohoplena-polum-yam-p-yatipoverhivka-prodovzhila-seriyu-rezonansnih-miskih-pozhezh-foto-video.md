@@ -16,7 +16,7 @@ coverImage: "wp-content/uploads/2013/06/main2.jpg"
 
 Мешканці будинку викликали рятувальників, а самі почали в паніці вибігати з під’їзду лише з найнеобхіднішими речами. За словами очевидців, пожежні прибули до будинку лише за годину, через що дах будинку вигорів майже вщент.
 
-<iframe src="http://www.youtube.com/embed/i0dKLAqqBbI" height="315" width="420" allowfullscreen frameborder="0"></iframe>
+<iframe src="https://www.youtube.com/embed/i0dKLAqqBbI" height="315" width="420" allowfullscreen frameborder="0"></iframe>
 
 В результаті гасіння пожежі залитими водою опинилися квартири майже всього під’їзду. Присутні під час гасіння розповідають, що на боротьбу з вогнем прибули навіть столичні рятувальники.
 

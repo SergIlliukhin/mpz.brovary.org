@@ -32,7 +32,7 @@ tags:
 
 Ну а для нас з Вами вони показали ось таке відео у радянському стилі "Наша партия нас бережет":
 
-<iframe width="480" height="360" src="http://www.youtube.com/embed/44rAT5GvAGU" frameborder="0" allowfullscreen></iframe>
+<iframe width="480" height="360" src="https://www.youtube.com/embed/44rAT5GvAGU" frameborder="0" allowfullscreen></iframe>
 
 Нагадаю, що тиждень назад депутат [Володимир Онищенко у телефонній розмові повідомив мене](https://mpz.brovary.org/novini/deputat-onischenko-zaproshue-na-zvituvanna-lishe-svoih-viborciv/ "Депутат Онищенко запрошує на звітування лише своїх виборців"), що звітуватиме перед виборцями 20 грудня у вечірній час у 5-ій або 8-ій школі, але, очевидно, до виборців він так і не дійшов - партія важливіше...
 

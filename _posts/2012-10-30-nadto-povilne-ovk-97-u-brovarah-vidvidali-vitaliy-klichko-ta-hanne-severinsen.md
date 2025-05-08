@@ -28,4 +28,4 @@ coverImage: "wp-content/uploads/2012/10/559482_300635186718803_1202788468_n.jpg"
 
 Також пропонуємо увазі наших читачів відео даного візиту від активістів громадянської кампанії "**Наступ**":
 
-<iframe src="http://www.youtube.com/embed/pAoAoDwb2II" frameborder="0" width="420" height="315"></iframe>
+<iframe src="https://www.youtube.com/embed/pAoAoDwb2II" frameborder="0" width="420" height="315"></iframe>

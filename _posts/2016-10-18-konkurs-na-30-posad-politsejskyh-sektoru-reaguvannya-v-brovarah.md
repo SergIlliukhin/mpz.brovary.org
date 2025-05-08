@@ -27,7 +27,7 @@ coverImage: "wp-content/uploads/2016/10/1658291.jpg"
 
 На презентації оголошення про вакансії, голова поліцейської комісії **Сергій Гулієв** озвучив головні кваліфікаційні вимоги до кандидатів: громадянство України, вільне володіння українською мовою, вік від 21 до 35 років, відсутність судимості, повна загальна середня або вища освіта, наявність посвідчення водія категорії «В» та знання основ законодавства.
 
-Більш детально [ознайомитись](http://www.slideshare.net/KhatD/selection-process-kvobl2?ref=https://kv.npu.gov.ua/uk/publish/article/219994) з вимогами до кандидатів на службу в поліцію, необхідним пакетом документів, етапами відбору тощо можна із презентації умов конкурсу:
+Більш детально [ознайомитись](https://www.slideshare.net/KhatD/selection-process-kvobl2?ref=https://kv.npu.gov.ua/uk/publish/article/219994) з вимогами до кандидатів на службу в поліцію, необхідним пакетом документів, етапами відбору тощо можна із презентації умов конкурсу:
 
 <iframe style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="//www.slideshare.net/slideshow/embed_code/key/ybArE7E2a6XvfE" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
 

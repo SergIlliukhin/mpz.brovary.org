@@ -13,7 +13,7 @@ tags:
 
 [![6d0fdb11ee5c1862b6526d6c354af8bc](https://mpz.brovary.org/wp-content/uploads/2013/09/6d0fdb11ee5c1862b6526d6c354af8bc.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/09/6d0fdb11ee5c1862b6526d6c354af8bc.jpg)Привіт усім! В контексті [сьогоднішнього безпрєдєлу](https://mpz.brovary.org/brovarskim-aktivistam-zagrozhuye-4-roki-za-patriotichni-pisni-ta-zakliki-borotisya-z-koruptsiyeyu/) (який, в принципі, з 2010 року не припиняється ні на мить), дуже вже повеселили ініціали слідчої Герасименко - Т.П. По-ходу, природа і доля зробила все за нас. А я лише додам завершальні штрихи до образу.
 
-**Знайомтеся - старша слідча Броварського міськвідділу міліції [Танюша Герасименко.](http://vk.com/id16612602) Можна просто ТП.** 
+**Знайомтеся - старша слідча Броварського міськвідділу міліції [Танюша Герасименко.](https://vk.com/id16612602) Можна просто ТП.** 
 
 [![82793_tp_demotivators_ru](https://mpz.brovary.org/wp-content/uploads/2013/09/82793_tp_demotivators_ru.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/09/82793_tp_demotivators_ru.jpg)
 

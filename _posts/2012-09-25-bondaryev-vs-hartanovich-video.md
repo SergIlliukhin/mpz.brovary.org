@@ -18,8 +18,8 @@ coverImage: "wp-content/uploads/2012/09/2012-09-25_1511.png"
 
 Судячи з відео, вигадок у всій цій історії більше, ніж правди - дивіться самі:
 
-<iframe src="http://www.youtube.com/embed/yE3QhjiW5vE" frameborder="0" width="480" height="360"></iframe>
+<iframe src="https://www.youtube.com/embed/yE3QhjiW5vE" frameborder="0" width="480" height="360"></iframe>
 
 І ще одне, повніше, відео цих же подій, яке показує, як все розпочиналось:
 
-<iframe src="http://www.youtube.com/embed/DxN_JsxUXeI" frameborder="0" width="480" height="360"></iframe>
+<iframe src="https://www.youtube.com/embed/DxN_JsxUXeI" frameborder="0" width="480" height="360"></iframe>

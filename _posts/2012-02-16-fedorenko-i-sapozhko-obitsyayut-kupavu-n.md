@@ -21,7 +21,7 @@ tags:
 
 Свій коментар з даного питання дають голова броварської "Партії Регіонів" **Сергій Федоренко** і броварський міський голова **Ігор Сапожко**.
 
-<iframe width="480" height="360" src="http://www.youtube.com/embed/0vCOZ7q_aUg" frameborder="0" allowfullscreen></iframe>
+<iframe width="480" height="360" src="https://www.youtube.com/embed/0vCOZ7q_aUg" frameborder="0" allowfullscreen></iframe>
 
 Вони в один голос заявляють про те, що власником басейну "Купава" була і буде залишатися броварська громада - басейн ніхто не планує вилучати з комунальної власності.
 

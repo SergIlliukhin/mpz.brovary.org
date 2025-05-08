@@ -13,6 +13,6 @@ tags:
 
 **Подія:** 14-те сесійне засідання Броварської міської ради **Дата:** 20.10.2011
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/ddIoqCH2YTI" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ddIoqCH2YTI" frameborder="0" allowfullscreen></iframe>
 
 **Камера:** [Павло Різаненко](http://rizanenko.org "Павло Різаненко")

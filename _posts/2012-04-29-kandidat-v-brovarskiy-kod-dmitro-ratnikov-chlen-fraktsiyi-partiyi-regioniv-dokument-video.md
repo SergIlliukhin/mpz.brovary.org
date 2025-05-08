@@ -47,7 +47,7 @@ tags:
 
 Відтак, щоб зняти усі сумніви та питання по темі, демонструю відповідне відео.
 
-<iframe src="http://www.youtube.com/embed/t0oFFtpCP2Q" frameborder="0" width="420" height="315"></iframe>
+<iframe src="https://www.youtube.com/embed/t0oFFtpCP2Q" frameborder="0" width="420" height="315"></iframe>
 
 Підсумовуючи усе вищесказане, можна дійти до «сухого залишку» щодо ситуації з Ратніковим:
 

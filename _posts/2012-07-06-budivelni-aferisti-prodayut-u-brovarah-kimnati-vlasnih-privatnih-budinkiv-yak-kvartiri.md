@@ -55,15 +55,15 @@ coverImage: "wp-content/uploads/2012/07/kashirina.jpg"
 
 **Сюжет на телеканалі "24"**
 
-<iframe src="http://www.youtube.com/embed/qjVMa6j8Wo0" height="315" width="420" frameborder="0"></iframe>
+<iframe src="https://www.youtube.com/embed/qjVMa6j8Wo0" height="315" width="420" frameborder="0"></iframe>
 
 **Cюжет на телеканалі "Інтер" у березні 2012 року - початок історії**
 
-<iframe src="http://www.youtube.com/embed/sWSwaCF30gI" height="315" width="420" frameborder="0"></iframe>
+<iframe src="https://www.youtube.com/embed/sWSwaCF30gI" height="315" width="420" frameborder="0"></iframe>
 
 **Cюжет на телеканалі "Інтер" у червні 2012 року - продовження історії**
 
-<iframe src="http://www.youtube.com/embed/YWUjbPXgKyE" height="315" width="420" frameborder="0"></iframe>
+<iframe src="https://www.youtube.com/embed/YWUjbPXgKyE" height="315" width="420" frameborder="0"></iframe>
 
 Сюжети на "**5 каналі**" та "**НТН**" можете переглянути за наступними посиланнями: "[Квартирний скандал у Броварах на Київщині](http://5.ua/newsline/184/0/92254/)" та "[Застройщик обманул инвесторов на Киевщине](http://ntn.ua/ru/video/news/2012/06/21/7296)".
 

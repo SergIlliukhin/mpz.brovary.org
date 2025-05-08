@@ -24,7 +24,7 @@ coverImage: "wp-content/uploads/2013/06/05-kopiya.jpg"
 
 Нагадаю, 18 травня, коли вся країна гула про інцедент з [перешкоджанням](http://imi.org.ua/barametr/40969-barometr-svobodi-slova-za-traven-2013-roku.html) журналістській діяльності, що стався у столиці, у Броварах також відбулись схожі [події](https://mpz.brovary.org/vlada-zibrala-bilshe-20-ti-avtobusiv-z-byudzhetnikami-dlya-uchasti-u-antifashistskomu-marshi-partiyi-regioniv-video/). Тоді на мене кілька разів нападали двоє невідомих чоловіків, які погрожували мені, намагалися вирвати відеокамеру та пробували нанести удари ногами. І все це через те, що я як журналіст "Маєш право знати" намагався з’ясувати, куди в робочий день відправляються понад 20 броварських маршруток, набитих людьми. Все ці дії було зафіксовано на відео, наведеному нижче.
 
-<iframe src="http://www.youtube.com/embed/qggD3dHW18c" height="315" width="420" allowfullscreen frameborder="0"></iframe>
+<iframe src="https://www.youtube.com/embed/qggD3dHW18c" height="315" width="420" allowfullscreen frameborder="0"></iframe>
 
 Наші фото та відео «героїв» багатьох броварських нападів та перешкоджань таки знайшли своїх адресатів. З-поміж інших ідентифікованих нападників, вдалося з’ясувати імена та посади і цих двох.
 

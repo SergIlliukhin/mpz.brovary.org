@@ -45,4 +45,4 @@ tags:
 
 **[Акція](https://mpz.brovary.org/spetsialne-videoposlannya-sapozhka-do-brovarchan-iz-mayami/) за негайне розірвання договору оренди між містом на "Мюзік Холом" відбудеться цього четверга, 18 квітня о 13:00 біля стін міської ради (Гагаріна, 15) під час сесії.** 
 
-<iframe src="http://www.youtube.com/embed/5Mr4c8fwLnw" height="315" width="560" allowfullscreen frameborder="0"></iframe>
+<iframe src="https://www.youtube.com/embed/5Mr4c8fwLnw" height="315" width="560" allowfullscreen frameborder="0"></iframe>

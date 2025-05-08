@@ -41,7 +41,7 @@ coverImage: "wp-content/uploads/2011/11/P1050981.jpg"
 
 **Фотографії:** [https://goo.gl/photos/f8hKJsXPNU2tX4CL8](https://goo.gl/photos/f8hKJsXPNU2tX4CL8)  
 
-<iframe src="http://www.youtube.com/embed/9NZ3NR8nWic" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://www.youtube.com/embed/9NZ3NR8nWic" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 #### Реакція преси
 
@@ -49,11 +49,11 @@ coverImage: "wp-content/uploads/2011/11/P1050981.jpg"
 
 **Телеканал СІТІ:**
 
-<iframe src="http://www.youtube.com/embed/p4FEVcRCo5Y" width="480" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://www.youtube.com/embed/p4FEVcRCo5Y" width="480" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 #### Реакція влади
 
-На офіційному сайті броварської міської ради з'явилося повідомлення про нашу акцію: [Пікетування Броварської міської ради](http://www.slideshare.net/sergIlliukhin/c-11064326 "Пікетування Броварської міської ради")
+На офіційному сайті броварської міської ради з'явилося повідомлення про нашу акцію: [Пікетування Броварської міської ради](https://www.slideshare.net/sergIlliukhin/c-11064326 "Пікетування Броварської міської ради")
 
 > 24 листопада о 13.30 у Броварах біля адміністративної будівлі Броварської міської ради по вул. Гагаріна 15 представники громадської ініціативи «Маєш право знати» провели несанкціонований захід пікетування Броварської міської ради з вимогою не приймати змін до регламенту міськради щодо заборони відеозйомки засідань міської ради. Під час пікетування відбулася флеш-акція "Операція "ЧИСТІ ВІКНА", в якій взяли участь близько 40 активістів. Організаторами акції були запрошені представники центральних ЗМІ . Учасники акції створювали шумові ефекти за допомогою порожніх металевих бочок та пластмасових пляшок, вигукували в гучномовець заклики - «депутати – маємо знати, депутати - не приймати».
 > 

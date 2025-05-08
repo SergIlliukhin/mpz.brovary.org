@@ -28,6 +28,6 @@ coverImage: "wp-content/uploads/2016/12/gromadski-sluhannya-26-1.jpg"
 - Ткач Микола Васильович (представник ініціативної групи)
 - Кусташ Віталій Петрович (представник ініціативної групи)
 
-До лічильної комісії увійшли: Лисенко Т.П. ([помічниця](http://brovary-rada.gov.ua/content/pomichnikikonsultanti-deputativ-brovarskoi-miskoi-radi.html) Петра Бабича), Зубко В.Ф., Желдак І., Полтавець І.В., Молодцова Ю.І., Логунова Л.А. (виконком), Литовченко О.М., Метьолкіна Л.О. (відділ культури), Циба М.В. (відділ культури), Дубонос Д.А.
+До лічильної комісії увійшли: Лисенко Т.П. ([помічниця](https://brovary-rada.gov.ua/content/pomichnikikonsultanti-deputativ-brovarskoi-miskoi-radi.html) Петра Бабича), Зубко В.Ф., Желдак І., Полтавець І.В., Молодцова Ю.І., Логунова Л.А. (виконком), Литовченко О.М., Метьолкіна Л.О. (відділ культури), Циба М.В. (відділ культури), Дубонос Д.А.
 
 <iframe style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="//www.slideshare.net/slideshow/embed_code/key/5fsrc2gAwLFPue" width="668" height="714" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>

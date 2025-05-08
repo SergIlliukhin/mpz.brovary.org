@@ -20,7 +20,7 @@ coverImage: "wp-content/uploads/2013/02/jc124_27_trolleybus.jpg"
 
 Нагадаємо, що прокладення тролейбусної лінії Бровари-Київ було головним передвиборчим «коником» кандидата в народні депутати від Партії регіонів, броварського депутата **Сергія Федоренка**.
 
-<iframe src="http://www.youtube.com/embed/ScHUBgGfh9A" height="315" width="560" allowfullscreen frameborder="0"></iframe>
+<iframe src="https://www.youtube.com/embed/ScHUBgGfh9A" height="315" width="560" allowfullscreen frameborder="0"></iframe>
 
 Після програшу на парламентських виборах в місцевій комунальній пресі Федоренко заявив, що незважаючи на поразку, усе одно виконає свої передвиборчі обіцянки, зокрема ті, що стосувались тролейбусу.
 

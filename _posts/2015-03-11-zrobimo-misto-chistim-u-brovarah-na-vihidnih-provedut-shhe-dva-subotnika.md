@@ -26,7 +26,7 @@ coverImage: "wp-content/uploads/2015/03/chernyahovskogo_subotnik.jpg"
 
 **[Прибирання на Торгмаші](https://www.facebook.com/groups/brovary/permalink/1000626279967338/)** Час проведення: 15 березня о 10:00 Ініціатор зборів: Настя Леонова
 
-> Зробимо Бровари чистішими! Приєднуйтесь! Торгмаш.Невеликий сад з дитячою площадкою біля Фори на Чкалова. Потрібно взяти лише рукавиці і сміттєвий кульок. КОЛИ? Неділя (15.03).Збираємось біля Фори на 10.00 Можна доїхати 327-ю, 5-кою чи 411. Питання, пропозиції, деталі: 093 8404 175 [facebook.com/nastja.leonova.9](https://facebook.com/nastja.leonova.9) [vk.com/leonova\_nastja](http://vk.com/leonova_nastja)
+> Зробимо Бровари чистішими! Приєднуйтесь! Торгмаш.Невеликий сад з дитячою площадкою біля Фори на Чкалова. Потрібно взяти лише рукавиці і сміттєвий кульок. КОЛИ? Неділя (15.03).Збираємось біля Фори на 10.00 Можна доїхати 327-ю, 5-кою чи 411. Питання, пропозиції, деталі: 093 8404 175 [facebook.com/nastja.leonova.9](https://facebook.com/nastja.leonova.9) [vk.com/leonova\_nastja](https://vk.com/leonova_nastja)
 
 [![торгмаш_суботник](https://mpz.brovary.org/wp-content/uploads/2015/03/torgmash_subotnik.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/03/torgmash_subotnik.jpg)
 

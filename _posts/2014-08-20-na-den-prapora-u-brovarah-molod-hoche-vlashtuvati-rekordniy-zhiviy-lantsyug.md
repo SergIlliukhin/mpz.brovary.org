@@ -17,7 +17,7 @@ tags:
 coverImage: "wp-content/uploads/2014/08/zhiviy-lantsyug.jpg"
 ---
 
-**[![живий ланцюг](https://mpz.brovary.org/wp-content/uploads/2014/08/zhiviy-lantsyug.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/08/zhiviy-lantsyug.jpg)У День українського прапора, 23 серпня, активна броварська молодь запрошує мешканців міста вийти на [Живий Ланцюг «За єдину Україну»](http://vk.com/event74197707). Збір оголосили на 14:00 біля автобусної зупинки «Порошинка».**
+**[![живий ланцюг](https://mpz.brovary.org/wp-content/uploads/2014/08/zhiviy-lantsyug.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/08/zhiviy-lantsyug.jpg)У День українського прапора, 23 серпня, активна броварська молодь запрошує мешканців міста вийти на [Живий Ланцюг «За єдину Україну»](https://vk.com/event74197707). Збір оголосили на 14:00 біля автобусної зупинки «Порошинка».**
 
 Організатори планують вишикуватись у довгий Живий ланцюг, а далі пройти ходою до меморіалу Небесній Сотні на Майдані Свободи, яку нещодавно [зруйнували](https://mpz.brovary.org/chorna-nedilya-spaplyuzhena-pam-yat-geroyiv-maydanu-onovlennya-pam-yatniku-berkutu-ta-vidnovlennya-mazhorskogo-pritonu/) невідомі зловмисники.
 
@@ -25,7 +25,7 @@ coverImage: "wp-content/uploads/2014/08/zhiviy-lantsyug.jpg"
 
 [![Афіша Живий ланцюг](https://mpz.brovary.org/wp-content/uploads/2014/08/Afisha-ZHiviy-lantsyug.png)](https://mpz.brovary.org/wp-content/uploads/2014/08/Afisha-ZHiviy-lantsyug.png)
 
-Задля підігріву цікавості броварської молоді до події організатори навіть пішли на хитрощі, уклавши між собою парі. На створеній в [соцмережі вконтактє сторінці](http://vk.com/event74197707) зазначають, що один з лідерів ОНУМ Євген Карпенко під відеозапис з’їсть кілограм масла, якщо на захід прийде понад тисячу людей.
+Задля підігріву цікавості броварської молоді до події організатори навіть пішли на хитрощі, уклавши між собою парі. На створеній в [соцмережі вконтактє сторінці](https://vk.com/event74197707) зазначають, що один з лідерів ОНУМ Євген Карпенко під відеозапис з’їсть кілограм масла, якщо на захід прийде понад тисячу людей.
 
 [![карп](https://mpz.brovary.org/wp-content/uploads/2014/08/karp.png)](https://mpz.brovary.org/wp-content/uploads/2014/08/karp.png)
 

@@ -24,6 +24,6 @@ tags:
 
 Але навіть у часи, коли ресурс не працює і браузер видає незрозумілі помилки, можете бути впевнені: ми повернемось, ми ОБОВ'ЯЗКОВО повернемось.
 
-Залишайтесь з нами і підписуйтесь на наші групи у соціальних мережах, щоб дізнаватися новини навіть тоді, коли сайт не працює: **\- [ВКонтакте](http://vk.com/pravo.znaty.brovary)** **\- [Facebook](https://www.facebook.com/pravo.znaty.brovary)** **\- [Google Plus](https://plus.google.com/u/0/106807727076484715265/posts)**
+Залишайтесь з нами і підписуйтесь на наші групи у соціальних мережах, щоб дізнаватися новини навіть тоді, коли сайт не працює: **\- [ВКонтакте](https://vk.com/pravo.znaty.brovary)** **\- [Facebook](https://www.facebook.com/pravo.znaty.brovary)** **\- [Google Plus](https://plus.google.com/u/0/106807727076484715265/posts)**
 
 Також можете використовувати дзеркало нашого сайту на LiveJournal: **[pravo-znaty](http://pravo-znaty.livejournal.com/)**

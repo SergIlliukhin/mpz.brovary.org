@@ -97,7 +97,7 @@ coverImage: "wp-content/uploads/2012/09/DSC_7257.jpg"
 
 **Відеоролик про акцію та затримання від активістів броварської громадянської кампанії "[НАСТУП](http://www.nastup.info/)"**
 
-<iframe src="http://www.youtube.com/embed/SN35QvJY6Ko" frameborder="0" width="420" height="315"></iframe>
+<iframe src="https://www.youtube.com/embed/SN35QvJY6Ko" frameborder="0" width="420" height="315"></iframe>
 
 Завтра має відбутися судове засідання. Костю Зацарному інкримінують адміністративне правопорушення. Яке саме - не уточнюють.
 

@@ -15,7 +15,7 @@ tags:
   - "novini"
 ---
 
-**На [2-й сесії](https://mpz.brovary.org/usi-zradyly-vsih-yak-zrujnuvalas-tak-i-ne-stvorena-koalitsiya-demokratychnyh-syl/) депутати Броварської міської ради [затвердили](http://brovary-rada.gov.ua/r%D1%96shennya-m%D1%96sko%D1%97-radi-v%D1%96d-2212-2015-%E2%84%96-08-02-07-pro-utvorennya-post%D1%96inikh-kom%D1%96s%D1%96i-zatverdzhennya-k%D1%96lk) перелік та склад постійних депутатських комісій. Загалом комісій буде 5: так звані бюджетна, земельна, комунальна, гуманітарна та регламентна.**
+**На [2-й сесії](https://mpz.brovary.org/usi-zradyly-vsih-yak-zrujnuvalas-tak-i-ne-stvorena-koalitsiya-demokratychnyh-syl/) депутати Броварської міської ради [затвердили](https://brovary-rada.gov.ua/r%D1%96shennya-m%D1%96sko%D1%97-radi-v%D1%96d-2212-2015-%E2%84%96-08-02-07-pro-utvorennya-post%D1%96inikh-kom%D1%96s%D1%96i-zatverdzhennya-k%D1%96lk) перелік та склад постійних депутатських комісій. Загалом комісій буде 5: так звані бюджетна, земельна, комунальна, гуманітарна та регламентна.**
 
 **Постійна комісія з питань бюджету та соціально-економічного розвитку (10 осіб):**
 

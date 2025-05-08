@@ -14,4 +14,4 @@ coverImage: "wp-content/uploads/2012/08/Tablichka-miskoyi-radi-2.jpg"
 
 **Подія:** Позачергове 26-те сесійне засідання Броварської міської ради **Дата:** 07.12.2012 **Камера:** Роман Сімутін
 
-<iframe src="http://www.youtube.com/embed/SRnti8eLLFc" frameborder="0" width="560" height="315"></iframe>
+<iframe src="https://www.youtube.com/embed/SRnti8eLLFc" frameborder="0" width="560" height="315"></iframe>

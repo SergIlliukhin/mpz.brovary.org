@@ -18,10 +18,10 @@ tags:
 
 Прикро, дуже прикро, що саме таким чином нас прославили наші любі обранці.
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/77lwLGI6AKQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/77lwLGI6AKQ" frameborder="0" allowfullscreen></iframe>
 
 Для порівняння: от що розповіли броварчанам про сесію, що відбулася, на броварському телеканалі "Екта". Як бачимо, депутати "прийняли ряд дуже важливих для міста питань" :)
 
-<iframe width="480" height="360" src="http://www.youtube.com/embed/IQcnq3z150c" frameborder="0" allowfullscreen></iframe>
+<iframe width="480" height="360" src="https://www.youtube.com/embed/IQcnq3z150c" frameborder="0" allowfullscreen></iframe>
 
 **Статті про цей інцидент було підхоплено та опубліковано багатьма українськими інтернет-виданнями:** \* Українська Правда: ["Страна непуганых депутатов"](http://blogs.pravda.com.ua/authors/yusov/4ebcfe8563258/) \* ІнфоПорн: ["Броварській «Фронт ізмєн» разом з «регіоналами» роздерибанив майно і перелякався камери"](http://infoporn.org.ua/news/urn:news:2B8EB6CE) \* Job-Sbu: ["Как депутаты города Бровары тихо землю делили"](http://job-sbu.org/kak-deputatyi-goroda-brovaryi-tiho-zemlyu-delili.html) \* UaInfo: ["Как броварские депутаты нагло землю дерибанили"](http://uainfo.censor.net.ua/news/7435--ak-brovarskie-deputaty-naglo-zemlyu-deribanil-foto-video.html) \* Інститут Політичної Освіти: ["Не хочу в камеру!"](http://www.ipo.org.ua/news/1235/)

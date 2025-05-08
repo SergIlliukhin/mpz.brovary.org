@@ -18,7 +18,7 @@ coverImage: "wp-content/uploads/2017/03/Avto.jpg"
 
 **Сьогодні, 10 березня, на засіданні земельної комісії броварські депутати серед інших розглядали питання надання громадянам земельних ділянок в оренду для встановлення гаражів. З огляду на кампанію по [знесенню гаражів](https://mpz.brovary.org/garazhnyj-konflikt-memorandum-pro-porozuminnya-spodivayutsya-pidpysaty-vzhe-10-bereznya/) у місті, обранці засумнівалися в намірах громадян, які подали заяви, та вирішили відділити справжніх інвалідів від "підробних".**
 
-Депутати розглядали один з [проектів рішення](http://brovary-rada.gov.ua/documents/26809.html), що виноситься на [найближчу сесію](https://mpz.brovary.org/anons-23-bereznya-vidbudetsya-chergova-sesiya-brovarskoyi-miskoyi-rady/) **23 березня**, а саме пункт, який містить 12 підпунктів з 12 прізвищами:
+Депутати розглядали один з [проектів рішення](https://brovary-rada.gov.ua/documents/26809.html), що виноситься на [найближчу сесію](https://mpz.brovary.org/anons-23-bereznya-vidbudetsya-chergova-sesiya-brovarskoyi-miskoyi-rady/) **23 березня**, а саме пункт, який містить 12 підпунктів з 12 прізвищами:
 
 > 7\. Надати дозвіл на розроблення проектів землеустрою щодо відведення земельних ділянок в оренду громадянам...
 

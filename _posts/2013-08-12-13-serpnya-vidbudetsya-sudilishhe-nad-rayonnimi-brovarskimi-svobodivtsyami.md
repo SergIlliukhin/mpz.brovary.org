@@ -27,4 +27,4 @@ coverImage: "wp-content/uploads/2013/06/Svoboda.jpg"
 
 Довідка: 25 травня 2013 року в Броварах міліціянти та особи кримінальної зовнішності [скоїли напад](https://mpz.brovary.org/krivavi-sutichki-vidbulis-u-brovarah-mizh-meshkantsyami-ta-zabudovnikami-tsentralnogo-parku/ "Криваві сутички відбулись у Броварах між мешканцями та забудовниками парку") на мирну толоку проти розбазарюванн якомунальної землі в міському парку "Перемога". Броварська районна організація ВО "Свобода", що виступила співорганізатором заходу, повідомила про масове побиття людей.
 
-Докладніше:[http://www.kyiv.svoboda.org.ua/diyalnist](http://vk.com/away.php?to=http%3A%2F%2Fwww.kyiv.svoboda.org.ua%2Fdiyalnist%2Fnovyny%2F039431%2F)
+Докладніше:[http://www.kyiv.svoboda.org.ua/diyalnist](https://vk.com/away.php?to=http%3A%2F%2Fwww.kyiv.svoboda.org.ua%2Fdiyalnist%2Fnovyny%2F039431%2F)

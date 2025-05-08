@@ -94,7 +94,7 @@ coverImage: "wp-content/uploads/2015/04/07D_4067.jpg"
 > 
 > Восколович Сергій (директор)
 > 
-> **тел.:** +38 050 469 52 23 **тел.:** +38 063 178 78 99 **e-mail:** [SofM@ukr.net](mailto:sofm@ukr.net) **"Вконтакті":** [vk.com/Voskolovich\_S\_M](http://vk.com/voskolovich_s_m)
+> **тел.:** +38 050 469 52 23 **тел.:** +38 063 178 78 99 **e-mail:** [SofM@ukr.net](mailto:sofm@ukr.net) **"Вконтакті":** [vk.com/Voskolovich\_S\_M](https://vk.com/voskolovich_s_m)
 > 
 > **Адреса:** Бровари, вул. Кірова, 94
 > 
@@ -102,7 +102,7 @@ coverImage: "wp-content/uploads/2015/04/07D_4067.jpg"
 > 
 > **e-mail:** [SofM@ukr.net](mailto:sofm@ukr.net)
 > 
-> **"Вконтакті":** [http://vk.com/Source\_of\_Mercy](http://vk.com/source_of_mercy)
+> **"Вконтакті":** [https://vk.com/Source\_of\_Mercy](https://vk.com/source_of_mercy)
 > 
 > **Для благодійних пожертв:**
 > 

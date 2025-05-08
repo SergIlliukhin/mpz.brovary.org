@@ -35,7 +35,7 @@ coverImage: "wp-content/uploads/2014/07/desna.jpg"
 
 [![влада допомога](https://mpz.brovary.org/wp-content/uploads/2014/07/vlada-dopomoga.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/07/vlada-dopomoga.jpg)
 
-Також чиновники [допомагають біженцям з Донбасу та окупованого Криму](http://brovary-rada.gov.ua/pereselents%D1%96-%D1%96z-skhodu-ukra%D1%97ni-ta-ar-krim-u-brovarakh-otrimuyut-nalezhnu-dopomogu).
+Також чиновники [допомагають біженцям з Донбасу та окупованого Криму](https://brovary-rada.gov.ua/pereselents%D1%96-%D1%96z-skhodu-ukra%D1%97ni-ta-ar-krim-u-brovarakh-otrimuyut-nalezhnu-dopomogu).
 
 Місцеві підприємці теж беруть участь у створенні надійного тилу для наших хлопців: допомагають продовольством, ліками та грошима.
 

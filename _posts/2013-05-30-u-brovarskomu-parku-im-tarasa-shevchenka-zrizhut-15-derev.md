@@ -24,6 +24,6 @@ coverImage: "wp-content/uploads/2013/05/Foto-parku-SHevchenka.jpg"
 
 Нагадаємо, до 200-річчя з дня народження Кобзаря у Броварах проводиться [реконструкція парку ім.Т.Г.Шевченка](https://mpz.brovary.org/do-200-richchya-kobzarya-brovarchanam-obitsyayut-onovleniy-park-im-t-g-shevchenka/). Загальна кошторисна вартість проекту - **5 322,071 тис.грн.** У [бюджеті міста Бровари](http://docs.pravo-znaty.org.ua/p6364/24.12.2012/841-28-06) на 2013 рік на проектування та реконструкцію парку Шевченка передбачено 5, 2225 млн. грн.
 
-Як [повідомляють](http://www.facebook.com/groups/brovary/permalink/629480110415292/) броварчани у соцмережах, попри те, що будівельні роботи розпочались майже два місяці тому, інформаційний стенд про реконструкцію парку з'явився лише кілька днів тому:
+Як [повідомляють](https://www.facebook.com/groups/brovary/permalink/629480110415292/) броварчани у соцмережах, попри те, що будівельні роботи розпочались майже два місяці тому, інформаційний стенд про реконструкцію парку з'явився лише кілька днів тому:
 
 [![Фото парку Шевченка](https://mpz.brovary.org/wp-content/uploads/2013/05/Foto-parku-SHevchenka.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/05/Foto-parku-SHevchenka.jpg)

@@ -46,7 +46,7 @@ coverImage: "wp-content/uploads/2012/06/DSC_5085.jpg"
 
 Хоча кілька відчайдух таки вирішали потанцювати. Спочатку до сцени вийшли вже добряче підігріті алкоголем мужички. Потім до них приєднались діти, а потім ще кілька людей. Більшість же все одно намагалась лишатись осторонь «регіоналівського» свята. А в цей час зі сцени MC Sergio, [вже відомий організацією сумнівних заходів,](http://old.afisha-brovary.net/clubs/clubs-new/759-faktor-x-klubu-pozitiv.html) закликав людей перераховувати по 50 гривень на номер мобільного 063 262 0000. ЧИ не на передвиборчу кампанію збирали?
 
-<iframe src="http://www.youtube.com/embed/7_7Ch9xQF4M" height="315" width="420" frameborder="0"></iframe>
+<iframe src="https://www.youtube.com/embed/7_7Ch9xQF4M" height="315" width="420" frameborder="0"></iframe>
 
 _**P.S.**_
 

@@ -24,7 +24,7 @@ coverImage: "wp-content/uploads/2012/09/DSC_2510.jpg"
 
 Слід сказати, що на встановлення результатів жеребкування прийшло вже значно менше людей, ніж [на сам процес витягання жеребків](https://mpz.brovary.org/zherebkuvannya-skladu-dvk-ne-dalo-rezultativ-gromadskist-zrobila-vlasniy-pidrahunok/). Загорожа, яка перешкоджала спостерігати за роботою комісії 20 вересня, була на тому ж місці, проте уповноважені особи, спостерігачі та представники ЗМІ цього разу її проігнорували та зайшли на "територію" комісії.
 
-<iframe src="http://www.youtube.com/embed/qwV2WQsgFMk" frameborder="0" width="560" height="315"></iframe>
+<iframe src="https://www.youtube.com/embed/qwV2WQsgFMk" frameborder="0" width="560" height="315"></iframe>
 
 **Проблема Ситєнкова: "система дає збій, результати встановити неможливо"**
 
@@ -34,7 +34,7 @@ coverImage: "wp-content/uploads/2012/09/DSC_2510.jpg"
 
 Активістам громадянської кампанії "**[Наступ](http://nastup.info)**" вдалось зафіксувати на камеру ці дані, про які з такою гордістю говорив голова "_**ми** підрахували_". Виявилось, що Ситєнков збирався зачитати присутнім [підсумки громадського підрахунку результатів жеребкування](https://mpz.brovary.org/zherebkuvannya-skladu-dvk-ne-dalo-rezultativ-gromadskist-zrobila-vlasniy-pidrahunok/), який був оприлюднений на нашому сайті. Дані збігаються на 100 %.
 
-<iframe src="http://www.youtube.com/embed/XQstpv5ZRCg" frameborder="0" width="560" height="315"></iframe>
+<iframe src="https://www.youtube.com/embed/XQstpv5ZRCg" frameborder="0" width="560" height="315"></iframe>
 
 **Проблема Щерби: "не всі суб'єкти взяли участь у жеребкуванні"**
 

@@ -22,12 +22,12 @@ coverImage: "wp-content/uploads/2012/05/5-kanal.jpg"
 
 Відео «МПЗ» було продемонстроване у неділю о 21:00 у випуску новин на 5 каналі (починаючи з 04:08 та в самому кінці сюжету).
 
-<iframe src="http://www.youtube.com/embed/NA92Hir2mVM" frameborder="0" width="420" height="315"></iframe>
+<iframe src="https://www.youtube.com/embed/NA92Hir2mVM" frameborder="0" width="420" height="315"></iframe>
 
 Оригінальний сюжет «Маєш право знати» можна переглянути нижче.
 
-<iframe src="http://www.youtube.com/embed/ja4hUHRJllc" frameborder="0" width="560" height="315"></iframe>
+<iframe src="https://www.youtube.com/embed/ja4hUHRJllc" frameborder="0" width="560" height="315"></iframe>
 
 Нагадаємо, що раніше це відео «МПЗ» вже демонструвалось в ефірі іншого телеканалу – «ТВі» (відео «Маєш право знати» розпочинається з 1:36 сюжету телеканалу).
 
-<iframe src="http://www.youtube.com/embed/mWu6aUlTdMc" frameborder="0" width="420" height="315"></iframe>
+<iframe src="https://www.youtube.com/embed/mWu6aUlTdMc" frameborder="0" width="420" height="315"></iframe>

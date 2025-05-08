@@ -40,7 +40,7 @@ coverImage: "wp-content/uploads/2012/06/Tovaristvo-ukrayinskoyi-movi_11.jpg"
 
 **Сюжет про "ТУМ" у Броварах на "5 каналі"** 
 
-<iframe src="http://www.youtube.com/embed/ElCC0SLQYbI" frameborder="0" width="420" height="315"></iframe>
+<iframe src="https://www.youtube.com/embed/ElCC0SLQYbI" frameborder="0" width="420" height="315"></iframe>
 
 «Товариство української мови імені Тараса Шевченка» існувало в кінці 80-х – на початку 90-х років, а згодом була реорганізовано в «Товариство «Просвіта».
 

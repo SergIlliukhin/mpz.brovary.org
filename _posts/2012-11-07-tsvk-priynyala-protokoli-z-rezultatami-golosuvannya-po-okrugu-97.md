@@ -20,7 +20,7 @@ coverImage: "wp-content/uploads/2012/08/TSVK3.jpg"
 
 Голова Окружної виборчої комісії Волошин Юліан Ігоревич зачитав присутнім результати волевиявлення, зафіксовані у протоколах ОВК:
 
-<iframe src="http://www.youtube.com/embed/GWsDFBP1qvY" frameborder="0" width="560" height="315"></iframe>
+<iframe src="https://www.youtube.com/embed/GWsDFBP1qvY" frameborder="0" width="560" height="315"></iframe>
 
 Цифри повністю співпадають з цифрами, зазначеними на сайті Центральної виборчої комісії:
 

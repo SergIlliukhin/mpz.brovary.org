@@ -23,4 +23,4 @@ coverImage: "wp-content/uploads/2015/10/marafon.png"
 
 Голосуймо! Голосуймо чесно та відповідально!
 
-<iframe style="border: none; overflow: hidden; width: 500px; height: 810px; background: white;" src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2F156562511118670&amp;width=500&amp;colorscheme=light&amp;show_faces=false&amp;border_color&amp;stream=true&amp;header=false&amp;height=800" width="300" height="150" frameborder="0" scrolling="yes"></iframe>
+<iframe style="border: none; overflow: hidden; width: 500px; height: 810px; background: white;" src="https://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2F156562511118670&amp;width=500&amp;colorscheme=light&amp;show_faces=false&amp;border_color&amp;stream=true&amp;header=false&amp;height=800" width="300" height="150" frameborder="0" scrolling="yes"></iframe>

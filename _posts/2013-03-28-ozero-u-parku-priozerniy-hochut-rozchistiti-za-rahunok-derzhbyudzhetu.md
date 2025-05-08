@@ -21,4 +21,4 @@ coverImage: "wp-content/uploads/2012/12/DSC_0085.jpg"
 
 Також Ігор Васильович вчергове підтвердив наміри міської влади щодо повної [реконструкції парку](https://mpz.brovary.org/do-200-richchya-kobzarya-brovarchanam-obitsyayut-onovleniy-park-im-t-g-shevchenka/ "До 200-річчя Кобзаря броварчанам обіцяють оновлений парк ім.Т.Г.Шевченка") ім.Т.Г.Шевченка у 2013 році, включаючи будівництво каплички та облаштування скульптурної групи з персонажами творів Кобзаря.
 
-<iframe src="http://www.youtube.com/embed/vRMb2KINWY4?list=UUz6XQrGL0TZ8Nmx8APLjpmw" height="315" width="560" allowfullscreen frameborder="0"></iframe>
+<iframe src="https://www.youtube.com/embed/vRMb2KINWY4?list=UUz6XQrGL0TZ8Nmx8APLjpmw" height="315" width="560" allowfullscreen frameborder="0"></iframe>

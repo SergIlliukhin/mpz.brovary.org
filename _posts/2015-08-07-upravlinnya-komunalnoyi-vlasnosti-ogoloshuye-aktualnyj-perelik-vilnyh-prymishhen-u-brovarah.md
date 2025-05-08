@@ -13,7 +13,7 @@ tags:
   - "upravlinnya-komunalnoyi-vlasnosti"
 ---
 
-**Управління комунальної власності на сайті Броварської міської ради [інформує](http://brovary-rada.gov.ua/perel%D1%96k-v%D1%96lnikh-prim%D1%96shchen-komunalno%D1%97-vlasnost%D1%96-teritor%D1%96alno%D1%97-gromadi-m-brovari-stanom-na-05082015r) про доступні вільні приміщення. Усього в оренду пропонують здати 8 об'єктів.**
+**Управління комунальної власності на сайті Броварської міської ради [інформує](https://brovary-rada.gov.ua/perel%D1%96k-v%D1%96lnikh-prim%D1%96shchen-komunalno%D1%97-vlasnost%D1%96-teritor%D1%96alno%D1%97-gromadi-m-brovari-stanom-na-05082015r) про доступні вільні приміщення. Усього в оренду пропонують здати 8 об'єктів.**
 
 Перелік вільних приміщень комунальної власності територіальної громади м. Бровари станом на 05.08.2015р.
 
@@ -33,7 +33,7 @@ tags:
 
 \[/table\]
 
-Разом з тим, один з об'єктів, за адресою **Незалежності, 11**, окремо [деталізується](http://brovary-rada.gov.ua/upravl%D1%96nnya-komunalno%D1%97-vlasnost%D1%96-brovarsko%D1%97-m%D1%96sko%D1%97-radi-rozm%D1%96shchu%D1%94-%D1%96nformats%D1%96yu-pro-nam%D1%96r-pereda-13) наступним чином:
+Разом з тим, один з об'єктів, за адресою **Незалежності, 11**, окремо [деталізується](https://brovary-rada.gov.ua/upravl%D1%96nnya-komunalno%D1%97-vlasnost%D1%96-brovarsko%D1%97-m%D1%96sko%D1%97-radi-rozm%D1%96shchu%D1%94-%D1%96nformats%D1%96yu-pro-nam%D1%96r-pereda-13) наступним чином:
 
 Об’єкт № 14/08.15   Незалежності, 11
 

@@ -26,6 +26,6 @@ coverImage: "wp-content/uploads/2012/06/10_mkr_proplan.jpg"
 
 Нагадаємо, що у 10-му мікрорайоні нещодавно виникла конфліктна ситуація: забудовник ЗАТ ВПБФ "Атлант" намагається збудувати багатоповерхові будинки прямо на городах броварчан, громада - проти.
 
-<iframe width="480" height="360" src="http://www.youtube.com/embed/GGQdqbzvRvE" frameborder="0" allowfullscreen></iframe>
+<iframe width="480" height="360" src="https://www.youtube.com/embed/GGQdqbzvRvE" frameborder="0" allowfullscreen></iframe>
 
 Якщо оприлюднені зміни будуть ухвалені Броварською міською радою, то згідно проекту впродовж 20-25 років у зоні садибної забудови (приватний сектор) передбачається ліквідація 7 садиб з метою реалізації генеральних планів забудови.

@@ -14,7 +14,7 @@ tags:
 coverImage: "wp-content/uploads/2013/10/sapojko.png"
 ---
 
-[![Ігор Сапожко](https://mpz.brovary.org/wp-content/uploads/2013/10/sapojko.png)](https://mpz.brovary.org/wp-content/uploads/2013/10/sapojko.png)**На Київщині у Броварах розгорівся скандал через 96 га землі, які придбала крупна фармацевтична компанія - [розповідає](http://tsn.ua/kyiv/u-brovarah-mayzhe-100-ga-zemli-prodali-privatnikam-pid-nosom-u-deputativ-315437.html) "Телевізійна служба новин"**
+[![Ігор Сапожко](https://mpz.brovary.org/wp-content/uploads/2013/10/sapojko.png)](https://mpz.brovary.org/wp-content/uploads/2013/10/sapojko.png)**На Київщині у Броварах розгорівся скандал через 96 га землі, які придбала крупна фармацевтична компанія - [розповідає](https://tsn.ua/kyiv/u-brovarah-mayzhe-100-ga-zemli-prodali-privatnikam-pid-nosom-u-deputativ-315437.html) "Телевізійна служба новин"**
 
 Депутати місцевої ради наголошують, що раз ці землі раніше належали держпідприємству "Радіо-передавальний центр" то, як землі промислового призначення, мають продаватись через аукціон, і вартість цієї землі була б більша.
 
@@ -26,6 +26,6 @@ coverImage: "wp-content/uploads/2013/10/sapojko.png"
 
 На цих гектарах планується побудувати фармакологічне виробництво. Представники компанії, яка придбала землю, повідомили, що масштабне виробництво вирішить проблему зайнятості та інші проблеми інфраструктури, адже планується створити близько 4 тис. робочих місць.
 
-**[Телевізійна служба новин](http://tsn.ua/kyiv/u-brovarah-mayzhe-100-ga-zemli-prodali-privatnikam-pid-nosom-u-deputativ-315437.html)**
+**[Телевізійна служба новин](https://tsn.ua/kyiv/u-brovarah-mayzhe-100-ga-zemli-prodali-privatnikam-pid-nosom-u-deputativ-315437.html)**
 
 > Нагадаємо, 1 жовтня 2013 року депутати Броварської міської ради [погодились змінити](https://mpz.brovary.org/brovarski-deputati-bezkoshtovno-viddali-96-gektariv-pid-budivnitstvo-farmatsevtichnogo-zavodu/) цільове призначення 96 га землі з сільськогосподарського на землі промисловості - для будівництва виробництва та складів концерну "Bayer". Однак вже наступного дня представники концерну офіційно [спростували цю інформацію](https://mpz.brovary.org/bayyer-zayaviv-shho-ne-buduvatime-zavod-u-brovarah-hto-prikrivsya-mizhnarodnim-brendom-na-sesiyi/) і заявили, що жодних намірів будувати виробництво на броварських землях вони не мають.

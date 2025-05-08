@@ -25,4 +25,4 @@ coverImage: "wp-content/uploads/2013/05/IMG_9456_resize1.jpg"
 
 Нижче - короткий відеоролик з автопробігу "Дайте дорогу!"
 
-<iframe src="http://www.youtube.com/embed/EBgBGL0xHVQ" height="315" width="560" allowfullscreen frameborder="0"></iframe>
+<iframe src="https://www.youtube.com/embed/EBgBGL0xHVQ" height="315" width="560" allowfullscreen frameborder="0"></iframe>

@@ -51,7 +51,7 @@ coverImage: "wp-content/uploads/2016/10/kartinka55.jpg"
 
 Найбільший удар на себе приймають школи Масиву - № 7 (1801 учень), №9 (1700 учнів), №10 (1638 учнів), у цих школах, більше ніж в інших, "оптимізують" навчальний день, скорочуючи перерви між уроками до 5 хвилин. Так, 5-6 класи в СШ №7 та 5-ті класи в ЗОШ №10 на другій зміні мають три перерви по 5 хв. і дві-три по 10 хв. Для малюків, які тільки-но перейшли з початкової школи, таке навантаження неодмінно дається взнаки. А от 6-7 класи в ЗОШ №9 на другій зміні взагалі мають чотири перерви по 5 хв. і лише одну по 10 хв.! Про який відпочинок та прогулянки на свіжому повітрі може йти мова?
 
-_[Освітня мережа](http://brovary-rada.gov.ua/documents/24433.html) м.Бровари (2016-17 рр.):_
+_[Освітня мережа](https://brovary-rada.gov.ua/documents/24433.html) м.Бровари (2016-17 рр.):_
 
 <iframe style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="//www.slideshare.net/slideshow/embed_code/key/1dLZMkPssO59nL" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
 

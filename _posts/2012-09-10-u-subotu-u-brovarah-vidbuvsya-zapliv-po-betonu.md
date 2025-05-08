@@ -30,7 +30,7 @@ coverImage: "wp-content/uploads/2012/09/DSC_9119.jpg"
 
 **Відеоролик про акцію від організаторів - ГО "Громадський захист Київщини"**
 
-<iframe src="http://www.youtube.com/embed/zlDMzspPJac" frameborder="0" width="560" height="315"></iframe>
+<iframe src="https://www.youtube.com/embed/zlDMzspPJac" frameborder="0" width="560" height="315"></iframe>
 
 Спочатку персонаж театралізованого дійства «Азаров» за допомогою персонажів «Сапожко» та «Федоренко» урочисто відкрили уявний басейн, перерізавши стрічку, виготовлену із грошових купюр.
 

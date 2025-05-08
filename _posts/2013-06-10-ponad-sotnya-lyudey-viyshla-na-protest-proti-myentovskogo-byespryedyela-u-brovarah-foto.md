@@ -37,7 +37,7 @@ coverImage: "wp-content/uploads/2013/06/Piketuvannya-militsiyi.jpg"
 
 **Телесюжет 5 каналу**
 
-<iframe src="http://www.youtube.com/embed/C6KOL2XV7TA" height="315" width="420" allowfullscreen frameborder="0"></iframe>
+<iframe src="https://www.youtube.com/embed/C6KOL2XV7TA" height="315" width="420" allowfullscreen frameborder="0"></iframe>
 
 **Телесюжет каналу "ТВі"**
 

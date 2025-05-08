@@ -12,7 +12,7 @@ tags:
 coverImage: "wp-content/uploads/2012/09/troleybus.jpg"
 ---
 
-[![](https://mpz.brovary.org/wp-content/uploads/2012/09/troleybus.jpg "тролейбус")](https://mpz.brovary.org/wp-content/uploads/2012/09/troleybus.jpg)Новий тролейбусний маршрут будуватимуть два з половиною роки, - повідомляє сайт [Forbes.ua](http://forbes.ua/nation/1337791-iz-kieva-v-brovary-za-500-mln-grn).
+[![](https://mpz.brovary.org/wp-content/uploads/2012/09/troleybus.jpg "тролейбус")](https://mpz.brovary.org/wp-content/uploads/2012/09/troleybus.jpg)Новий тролейбусний маршрут будуватимуть два з половиною роки, - повідомляє сайт [Forbes.ua](https://forbes.ua/nation/1337791-iz-kieva-v-brovary-za-500-mln-grn).
 
 Уряд «залишить» між Києвом і Броварами більше 500 млн грн. Як стало відомо Forbes.ua, в середу Кабмін має затвердити техніко-економічне обгрунтування (ТЕО) будівництва тролейбусного сполучення між цими містами. Згідно з документом (копією володіє Forbes.ua), на реалізацію проекту з бюджету буде виділено **528 500 000** грн. У 2012 р. на «тролейбусну» програму виділяється **141 млн грн**.
 
@@ -24,6 +24,6 @@ coverImage: "wp-content/uploads/2012/09/troleybus.jpg"
 
 Як будуть витрачати гроші на будівництво тролейбусної лінії Київ-Бровари:
 
-![](http://f.img.com.ua/img/forall/i/2012/1347286365.jpg)
+![](https://f.img.com.ua/img/forall/i/2012/1347286365.jpg)
 
-Передрук з сайту [Forbes.ua](http://forbes.ua/nation/1337791-iz-kieva-v-brovary-za-500-mln-grn).
+Передрук з сайту [Forbes.ua](https://forbes.ua/nation/1337791-iz-kieva-v-brovary-za-500-mln-grn).

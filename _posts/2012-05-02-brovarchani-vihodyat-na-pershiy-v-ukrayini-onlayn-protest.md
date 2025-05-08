@@ -27,11 +27,11 @@ tags:
 
 **Нам набридло**  платити ЖЕКам та Тепловодомережі за послуги, які не надаються! **Фінансувати брехню**  комунальних ЗМІ! **Дістало**  здирництво у державних садках, школах та лікарнях! **Досить**  розкрадати державні землі та квартири, які мають надаватись пільговикам та молоді!
 
-Посилання для входу до віртуальної площі протесту – ([www.gvolive.com/conference,19213888](http://vk.com/away.php?to=http%3A%2F%2Fwww.gvolive.com%2Fconference%2C19213888&post=86473155_622)) береться все посилання 
+Посилання для входу до віртуальної площі протесту – ([www.gvolive.com/conference,19213888](https://vk.com/away.php?to=http%3A%2F%2Fwww.gvolive.com%2Fconference%2C19213888&post=86473155_622)) береться все посилання 
 
 Організатор – Юрій Кравець
 
-Всі питання пишіть мені в OК - [www.odnoklassniki.ua/profile/521549255827](http://vk.com/away.php?to=http%3A%2F%2Fwww.odnoklassniki.ua%2Fprofile%2F521549255827&post=86473155_622) ВК - [http://vk.com/id86473155](http://vk.com/id86473155) e-mail:  mrv\_varta@[ukr.net](http://vk.com/away.php?to=http%3A%2F%2Fukr.net&post=86473155_622)
+Всі питання пишіть мені в OК - [www.odnoklassniki.ua/profile/521549255827](https://vk.com/away.php?to=http%3A%2F%2Fwww.odnoklassniki.ua%2Fprofile%2F521549255827&post=86473155_622) ВК - [https://vk.com/id86473155](https://vk.com/id86473155) e-mail:  mrv\_varta@[ukr.net](https://vk.com/away.php?to=http%3A%2F%2Fukr.net&post=86473155_622)
 
 Бажаючим виступити, прохання подавати попередню заявку з темою виступу для розгляду.
 

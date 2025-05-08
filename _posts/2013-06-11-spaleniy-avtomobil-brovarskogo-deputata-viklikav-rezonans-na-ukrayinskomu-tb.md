@@ -26,16 +26,16 @@ coverImage: "wp-content/uploads/2013/06/Avto-Simutin-2.jpg"
 
 **Сюжет на "ТВі"**
 
-<iframe src="http://www.youtube.com/embed/nbxqhaZ8W5c" height="315" width="420" allowfullscreen frameborder="0"></iframe>
+<iframe src="https://www.youtube.com/embed/nbxqhaZ8W5c" height="315" width="420" allowfullscreen frameborder="0"></iframe>
 
-<iframe src="http://www.youtube.com/embed/atZpZ4_6Gcc" height="315" width="420" allowfullscreen frameborder="0"></iframe>
+<iframe src="https://www.youtube.com/embed/atZpZ4_6Gcc" height="315" width="420" allowfullscreen frameborder="0"></iframe>
 
 **Сюжет на "5 каналі"**
 
-<iframe src="http://www.youtube.com/embed/v_y78e2ysDM" height="315" width="420" allowfullscreen frameborder="0"></iframe>
+<iframe src="https://www.youtube.com/embed/v_y78e2ysDM" height="315" width="420" allowfullscreen frameborder="0"></iframe>
 
 **Сюжет на "Інтері"**
 
 Програма "Сьогодні. Про головне" на телеканалі "ТВі"
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/atZpZ4_6Gcc" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/atZpZ4_6Gcc" frameborder="0" allowfullscreen></iframe>

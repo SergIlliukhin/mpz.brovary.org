@@ -25,7 +25,7 @@ coverImage: "wp-content/uploads/2014/05/1397415.jpg"
 
 Дані особи не криючись поширюють антиукраїнські заклики, паралельно демонструючи власні фото зі зброєю, «прикрашені»  сепаратистською символікою. До прикладу – деякі яскраві персонажі:
 
-**[Дмитро Ярмолюк](http://vk.com/napoleon2110) (?)** 
+**[Дмитро Ярмолюк](https://vk.com/napoleon2110) (?)** 
 
 [![UUHWIGweNHg](https://mpz.brovary.org/wp-content/uploads/2014/05/UUHWIGweNHg.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/05/UUHWIGweNHg.jpg)
 
@@ -35,13 +35,13 @@ coverImage: "wp-content/uploads/2014/05/1397415.jpg"
 
 На більшості світлин дана особа позує зі зброєю в руках, не приховує власних проросійських симпатій. На одній з фотографій Ярмолюк з'являється у формі міліціонера - це може свідчити про його колишню або наявну службу в органах МВС.
 
-**[Олексій Іванко](http://vk.com/denver_79) (?)**
+**[Олексій Іванко](https://vk.com/denver_79) (?)**
 
 [![SwIZHazmPzI](https://mpz.brovary.org/wp-content/uploads/2014/05/SwIZHazmPzI.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/05/SwIZHazmPzI.jpg)
 
 З анкетних даних Іванка з'ясовується, що цей чоловік родом з російського Сочі, однак закінчував школу та здобував вищу освіту в нашому місті. Уся стіна Іванка переповнюється постами із сепаратистською агітацією, найбільше насторожує той факт, що днями у своєму статусі Іванко написав: "СПАСИБО ДЕДУ ЗА ПОБЕДУ! Скоро быть в списке моих друзей станет для вас.. не безопасно.. Можете удалиться в целях вашей безопасности". Це може свідчити про злочинні наміри людини, котрі Іванко планує здійснити в недалекому майбутньому, вірогідно - саме на 9-те травня. 
 
-[**Олексій Волошин**](http://vk.com/voloshin_a)
+[**Олексій Волошин**](https://vk.com/voloshin_a)
 
 [![O3hQJUidfrY](https://mpz.brovary.org/wp-content/uploads/2014/05/O3hQJUidfrY.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/05/O3hQJUidfrY.jpg)
 
@@ -51,7 +51,7 @@ coverImage: "wp-content/uploads/2014/05/1397415.jpg"
 
 На сторінці цього користувача неодноразово зустрічається символіка розформованого спецпідрозділу "Беркут". З огляду на це, а також зважаючи на досить міцну статуру хлопця не виключено, що Волошин може бути причетним до структур МВС.
 
-**[Ігор Леоненко (?)](http://vk.com/leonenko_83)**
+**[Ігор Леоненко (?)](https://vk.com/leonenko_83)**
 
 [![v0mAbF4j_kM](https://mpz.brovary.org/wp-content/uploads/2014/05/v0mAbF4j_kM.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/05/v0mAbF4j_kM.jpg)
 
@@ -61,7 +61,7 @@ coverImage: "wp-content/uploads/2014/05/1397415.jpg"
 
 На одному із фото Леоненко зображений із логотипом спецпідрозділу "Беркут" та тлі власного портрету.
 
-[**Сергій Уласевич (?)**](http://vk.com/sergey_ulasevich)
+[**Сергій Уласевич (?)**](https://vk.com/sergey_ulasevich)
 
 [![4rhc47t5fIw](https://mpz.brovary.org/wp-content/uploads/2014/05/4rhc47t5fIw.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/05/4rhc47t5fIw.jpg)
 
@@ -71,7 +71,7 @@ coverImage: "wp-content/uploads/2014/05/1397415.jpg"
 
 Лише за сьогодні Уласевич опублікував на власній сторінці 11 постів - усі вони присвячені подіям в Україні, однак Сергій неодмінно займає лише просепаратистську позицію.
 
-[**Павло Апаєв**](http://vk.com/id9106467)
+[**Павло Апаєв**](https://vk.com/id9106467)
 
 [![z_30e86fd6](https://mpz.brovary.org/wp-content/uploads/2014/05/z_30e86fd6.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/05/z_30e86fd6.jpg)
 

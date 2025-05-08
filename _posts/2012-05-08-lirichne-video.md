@@ -17,4 +17,4 @@ coverImage: "wp-content/uploads/2012/04/IMG_8631.jpg"
 
 Приємного перегляду! Як пройшла акція загалом можна [прочитати тут.](https://mpz.brovary.org/v-den-chornobilya-brovari-ogolosili-zonoyu-brehni/) 
 
-<iframe src="http://www.youtube.com/embed/JMKGiiDlUSw" frameborder="0" width="560" height="315"></iframe>
+<iframe src="https://www.youtube.com/embed/JMKGiiDlUSw" frameborder="0" width="560" height="315"></iframe>

@@ -23,4 +23,4 @@ coverImage: "wp-content/uploads/2012/05/Dityachiy-maydanchik-Brovari.jpg"
 
 #### Голосування в соціальних мережах:
 
-\[accordion\] \[spoiler title="ВКонтакте" style="2"\] [http://vk.com/wall-33385818\_247](http://vk.com/wall-33385818_247) \[/spoiler\] \[spoiler title="Facebook" style="2"\] [https://www.facebook.com/questions/260244524083801/](https://www.facebook.com/questions/260244524083801/) \[/spoiler\] \[/accordion\]
+\[accordion\] \[spoiler title="ВКонтакте" style="2"\] [https://vk.com/wall-33385818\_247](https://vk.com/wall-33385818_247) \[/spoiler\] \[spoiler title="Facebook" style="2"\] [https://www.facebook.com/questions/260244524083801/](https://www.facebook.com/questions/260244524083801/) \[/spoiler\] \[/accordion\]

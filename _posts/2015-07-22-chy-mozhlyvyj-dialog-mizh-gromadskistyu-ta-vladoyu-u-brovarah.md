@@ -40,22 +40,22 @@ _«Реформування системи освіти є одним з пер�
 
 **P.S. Результати Стратегічної сесії «Зони розвитку освіти в Київській області» (у вигляді презентацій):**
 
-Напрям [«Антикорупція в освіті»](http://www.slideshare.net/veronikaverba/strategic-session-koda-antikoruptsiya-education25062015/)
+Напрям [«Антикорупція в освіті»](https://www.slideshare.net/veronikaverba/strategic-session-koda-antikoruptsiya-education25062015/)
 
-Напрям [«Дошкільна освіта»](http://www.slideshare.net/veronikaverba/strategic-session-koda-preschool-education25062015-50018073)
+Напрям [«Дошкільна освіта»](https://www.slideshare.net/veronikaverba/strategic-session-koda-preschool-education25062015-50018073)
 
-Напрям [«Загальна середня освіта»](http://www.slideshare.net/veronikaverba/strategic-session-koda-school-education25062015/)
+Напрям [«Загальна середня освіта»](https://www.slideshare.net/veronikaverba/strategic-session-koda-school-education25062015/)
 
-Напрям [«Позашкільна освіта»](http://www.slideshare.net/veronikaverba/strategic-session-koda-nonformal-education25062015/)
+Напрям [«Позашкільна освіта»](https://www.slideshare.net/veronikaverba/strategic-session-koda-nonformal-education25062015/)
 
-Напрям [«Професійна освіта»](http://www.slideshare.net/veronikaverba/strategic-session-koda-professional-education25062015-50089082/)
+Напрям [«Професійна освіта»](https://www.slideshare.net/veronikaverba/strategic-session-koda-professional-education25062015-50089082/)
 
-Напрям [«Вища освіта»](http://www.slideshare.net/veronikaverba/strategic-session-koda-higher-education25062015/)
+Напрям [«Вища освіта»](https://www.slideshare.net/veronikaverba/strategic-session-koda-higher-education25062015/)
 
-Напрям [«Наука та інновації»](http://www.slideshare.net/veronikaverba/strategic-session-koda-innovations-and-science25062015/)
+Напрям [«Наука та інновації»](https://www.slideshare.net/veronikaverba/strategic-session-koda-innovations-and-science25062015/)
 
-Напрям [«Приватна освіта»](http://www.slideshare.net/veronikaverba/strategic-session-koda-private-education25062015/)
+Напрям [«Приватна освіта»](https://www.slideshare.net/veronikaverba/strategic-session-koda-private-education25062015/)
 
-Напрям [«Бізнес освіта»](http://www.slideshare.net/veronikaverba/strategic-session-koda-business-education25062015/)
+Напрям [«Бізнес освіта»](https://www.slideshare.net/veronikaverba/strategic-session-koda-business-education25062015/)
 
 В статті використана інформація з сайту Київської обласної державної адміністрації (["На Київщині розпочато реалізацію реформи системи освіти"](http://www.kyiv-obl.gov.ua/news/article/na_kijivschini_rozpochato_realizatsiju_reformi_sistemi_osviti/)) та сайту "Маєш право знати" (["Візія нових Броварів: перший крок на початку великого шляху"](https://mpz.brovary.org/viziya-novih-brovariv-pershiy-krok-na-pochatku-velikogo-shlyahu/))

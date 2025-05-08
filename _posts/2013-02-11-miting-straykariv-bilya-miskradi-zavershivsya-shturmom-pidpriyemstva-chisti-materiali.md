@@ -101,7 +101,7 @@ coverImage: "wp-content/uploads/2013/02/Image000051.jpg"
 
 Охорона, побачивши людей, спробувала заблокувати вхідні ворота. Однак, протестувальники швидко прорвалися на територію, а потім і до приміщення.
 
-<iframe src="http://www.youtube.com/embed/3N-uH5ossZg" height="315" width="420" allowfullscreen frameborder="0"></iframe>
+<iframe src="https://www.youtube.com/embed/3N-uH5ossZg" height="315" width="420" allowfullscreen frameborder="0"></iframe>
 
 [![Image00039](https://mpz.brovary.org/wp-content/uploads/2013/02/Image000391.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/02/Image000391.jpg)
 

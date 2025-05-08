@@ -21,7 +21,7 @@ coverImage: "wp-content/uploads/2013/04/Myuzik-Hol-opituvannya.jpg"
 
 [![Снігопад опитування](https://mpz.brovary.org/wp-content/uploads/2013/04/Snigopad-opituvannya.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/04/Snigopad-opituvannya.jpg)
 
-Прикметно, що в аналогічному опитуванні, яке ми запустили на [сторінці "Маєш право знати"](http://vk.com/pravo.znaty.brovary) в соціальній мережі "ВКонтакті", броварчани значно менш критичні. Майже **45%** опитаних проголосували за варіант "впоралась більш-менш". Негативну оцінку владі поставило трохи більше **41%** броварчан.
+Прикметно, що в аналогічному опитуванні, яке ми запустили на [сторінці "Маєш право знати"](https://vk.com/pravo.znaty.brovary) в соціальній мережі "ВКонтакті", броварчани значно менш критичні. Майже **45%** опитаних проголосували за варіант "впоралась більш-менш". Негативну оцінку владі поставило трохи більше **41%** броварчан.
 
 [![Снігопад опитування вконтакті](https://mpz.brovary.org/wp-content/uploads/2013/04/Snigopad-opituvannya-vkontakti.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/04/Snigopad-opituvannya-vkontakti.jpg)
 

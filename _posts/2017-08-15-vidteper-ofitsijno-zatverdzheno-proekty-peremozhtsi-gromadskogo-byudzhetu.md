@@ -31,7 +31,7 @@ coverImage: "wp-content/uploads/2017/08/gromadskiy-byudzhet.jpg"
 
 \[caption id="attachment\_73031" align="aligncenter" width="600"\]![](https://mpz.brovary.org/wp-content/uploads/2017/08/IMG_7574.jpg) Микола Загуменний під час розгляду проекту рішення по затвердженню проектів-переможців "Громадського бджету"\[/caption\]
 
-Затвердження [проекту рішення](http://brovary-rada.gov.ua/documents/27543.html) означає:
+Затвердження [проекту рішення](https://brovary-rada.gov.ua/documents/27543.html) означає:
 
 \-  офіційне затвердження переліку переможців "Громадського бюджету",
 
@@ -43,4 +43,4 @@ coverImage: "wp-content/uploads/2017/08/gromadskiy-byudzhet.jpg"
 
 ![](https://mpz.brovary.org/wp-content/uploads/2017/08/IMG_7577.jpg)
 
-За [зміни до програми "Громадський бюджет на 2017-2020 роки"](http://brovary-rada.gov.ua/documents/27550.html) проголосували **26** депутатів.
+За [зміни до програми "Громадський бюджет на 2017-2020 роки"](https://brovary-rada.gov.ua/documents/27550.html) проголосували **26** депутатів.

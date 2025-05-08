@@ -39,4 +39,4 @@ tags:
 
 На останок – коротке відео зі свята «регіоналів», де Федоренко, радіючи новому статусу, кумедно пританцьовує зі ще одним висуванцем від ПР, вічно юним орлом Михайлом Поплавським.
 
-<iframe src="http://www.youtube.com/embed/mu7lzbgwzNg" frameborder="0" width="420" height="315"></iframe>
+<iframe src="https://www.youtube.com/embed/mu7lzbgwzNg" frameborder="0" width="420" height="315"></iframe>

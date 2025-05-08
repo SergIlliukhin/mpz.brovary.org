@@ -18,7 +18,7 @@ tags:
 coverImage: "wp-content/uploads/2013/08/Richka-smerdyuchka.png"
 ---
 
-**[![Річка-смердючка](https://mpz.brovary.org/wp-content/uploads/2013/08/Richka-smerdyuchka.png)](https://mpz.brovary.org/wp-content/uploads/2013/08/Richka-smerdyuchka.png)У Броварах вода із фекаліями тече по одній із центральних вулиць міста і має специфічний запах. Мешканці двоповерхівки відмовляються платити за чищення вигрібних ям, тому каналізаційні стоки течуть поміж житлових будинків та магазинів. У відкритої каналізації вже з'явилася перша жертва, - йдеться в сюжеті [ТСН](http://tsn.ua/ukrayina/u-brovarah-teche-richka-iz-fekaliy-cherez-boykot-zhitelyami-komunalnikiv-306763.html "ТСН").**
+**[![Річка-смердючка](https://mpz.brovary.org/wp-content/uploads/2013/08/Richka-smerdyuchka.png)](https://mpz.brovary.org/wp-content/uploads/2013/08/Richka-smerdyuchka.png)У Броварах вода із фекаліями тече по одній із центральних вулиць міста і має специфічний запах. Мешканці двоповерхівки відмовляються платити за чищення вигрібних ям, тому каналізаційні стоки течуть поміж житлових будинків та магазинів. У відкритої каналізації вже з'явилася перша жертва, - йдеться в сюжеті [ТСН](https://tsn.ua/ukrayina/u-brovarah-teche-richka-iz-fekaliy-cherez-boykot-zhitelyami-komunalnikiv-306763.html "ТСН").**
 
 Із прихованої труби на дорогу тече смердюча рідина жовто-коричневого кольору, трасу заливає фекаліями. Мешканці цієї двоповерхівки не приховують, що смердить через них, бо комунальники за воду та чищення вигрібних ям виставили захмарний тариф.
 
@@ -28,4 +28,4 @@ coverImage: "wp-content/uploads/2013/08/Richka-smerdyuchka.png"
 
 Проте у конфлікту вже з'явилися перші жертви: авто збило 68-річного велосипедиста, який намагався об'їхати калюжу із запахом, чоловік у тяжкому стані знаходиться в реанімації.
 
-**Джерело: [ТСН](http://tsn.ua/ukrayina/u-brovarah-teche-richka-iz-fekaliy-cherez-boykot-zhitelyami-komunalnikiv-306763.html)**
+**Джерело: [ТСН](https://tsn.ua/ukrayina/u-brovarah-teche-richka-iz-fekaliy-cherez-boykot-zhitelyami-komunalnikiv-306763.html)**

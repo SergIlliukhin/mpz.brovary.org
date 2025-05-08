@@ -25,7 +25,7 @@ coverImage: "wp-content/uploads/2012/10/Diti-regioni.jpg"
 
 Подальшому спілкуванню дітей із журналістами "Громадського захисту" завадив депутат Київської облради від ПР Максим Вітер, якого в Броварах називають "смотрящім по округу від регіонів".
 
-<iframe src="http://www.youtube.com/embed/BB18GQzuTVQ" frameborder="0" scrolling="auto" width="450" height="253"></iframe>
+<iframe src="https://www.youtube.com/embed/BB18GQzuTVQ" frameborder="0" scrolling="auto" width="450" height="253"></iframe>
 
 Як повідомлялося, у суботу під час виступу Азарова у Броварах охорона не пускала журналістів і довірених осіб кандидатів на виборчу дільницю в тій же будівлі. Невідомий чоловік [розбив телефони журналістки та активіста](/news/2012/10/20/6975080/).
 

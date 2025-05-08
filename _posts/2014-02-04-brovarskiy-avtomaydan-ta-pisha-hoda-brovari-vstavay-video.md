@@ -27,4 +27,4 @@ coverImage: "wp-content/uploads/2014/02/hoda_avtomaydan31.jpg"
 
 > **Відео - Тарас Шако**
 > 
-> Підписуйтесь на канал "**Маєш право знати**" на Youtube за [цим посиланням](http://www.youtube.com/user/PravoZnatyOrgUa/).
+> Підписуйтесь на канал "**Маєш право знати**" на Youtube за [цим посиланням](https://www.youtube.com/user/PravoZnatyOrgUa/).

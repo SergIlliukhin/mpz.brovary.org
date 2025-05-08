@@ -24,7 +24,7 @@ categories:
 - 4\. Проекти ділитимуться на дві категгорії: -"малі" вартістю до 500 000 грн. -"великі" вартістю від 500 000 грн до 1 000 000 грн. На які заплановано по 50% загального фонду бюджету участі.
 - 5\. Проекти, які набрали найбільшу кількість голосів, фінансуватимуться з бюджету участі та реалізовуватимуться профільними виконавчими органами міської ради.
 
-Посилання на положення: [http://brovary-rada.gov.ua/documents/24573.html](http://l.facebook.com/l.php?u=http%3A%2F%2Fbrovary-rada.gov.ua%2Fdocuments%2F24573.html&h=zAQGwOgE4&enc=AZOvZYE9yrJcxHXcjJMPGI_beDL_x3oUC_ucNQwtd_gatzVRcUOjCBWAlxaLk_NctbuwTFtT9VoiQQLkCVljUUJdDtzWXBELOhsSuGYuOAtHbPhaaFjQqJ6rnh0K2SG5UVJhtnNqTXqRgYNB_M5dGCmOjjXe9nY78TVTCd9z26MiS5ImO30x5CukarO2Epd5C22_NbBRen_74R4DdmSICUE0&s=1)
+Посилання на положення: [https://brovary-rada.gov.ua/documents/24573.html](http://l.facebook.com/l.php?u=http%3A%2F%2Fbrovary-rada.gov.ua%2Fdocuments%2F24573.html&h=zAQGwOgE4&enc=AZOvZYE9yrJcxHXcjJMPGI_beDL_x3oUC_ucNQwtd_gatzVRcUOjCBWAlxaLk_NctbuwTFtT9VoiQQLkCVljUUJdDtzWXBELOhsSuGYuOAtHbPhaaFjQqJ6rnh0K2SG5UVJhtnNqTXqRgYNB_M5dGCmOjjXe9nY78TVTCd9z26MiS5ImO30x5CukarO2Epd5C22_NbBRen_74R4DdmSICUE0&s=1)
 
 **Переваги для громади**
 

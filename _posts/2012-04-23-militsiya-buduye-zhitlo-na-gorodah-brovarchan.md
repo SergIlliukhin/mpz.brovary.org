@@ -19,4 +19,4 @@ tags:
 
 Дивіться детальніше в сюжеті каналу ТВі
 
-<iframe src="http://www.youtube.com/embed/GGQdqbzvRvE" frameborder="0" width="420" height="315"></iframe>
+<iframe src="https://www.youtube.com/embed/GGQdqbzvRvE" frameborder="0" width="420" height="315"></iframe>

@@ -14,7 +14,7 @@ tags:
   - "huliganstvo"
 ---
 
-[![](https://mpz.brovary.org/wp-content/uploads/2013/08/383828186.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/08/383828186.jpg)**Мешканці багатоповерхівки у Броварах живуть із постійним відчуттям страху. У їхньої сусідки почали прогресувати напади агресії, міліція безсила - [повідомляється у сюжеті ТСН](http://tsn.ua/ukrayina/u-brovarah-cherez-neskinchenni-napadi-agresiyi-zhinka-trimaye-ves-budinok-u-postiynomu-strahu-305169.html).**
+[![](https://mpz.brovary.org/wp-content/uploads/2013/08/383828186.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/08/383828186.jpg)**Мешканці багатоповерхівки у Броварах живуть із постійним відчуттям страху. У їхньої сусідки почали прогресувати напади агресії, міліція безсила - [повідомляється у сюжеті ТСН](https://tsn.ua/ukrayina/u-brovarah-cherez-neskinchenni-napadi-agresiyi-zhinka-trimaye-ves-budinok-u-postiynomu-strahu-305169.html).**
 
 Пані Наталія вже півроку боїться виходити з дому через сусідку. Жінка розповіла, що вона на неї кидалася з молотком та залишила великий синець. Каже, що терор та влаштовує майже щодня. "Вона спочатку воду нам лила, потім кислотою облила двері. Почала нападати на дружину. Дійшло навіть до бійки", - розповів місцевий житель.
 
@@ -24,4 +24,4 @@ tags:
 
 За побої відкрили кримінальне провадження. Це наразі все, що зробили. Мешканці розгублені: так жити вони бояться, бо не знають, яких сюрпризів чекати від сусідки завтра.
 
-**Джерело**: [Телевізійна служба новин](http://tsn.ua/ukrayina/u-brovarah-cherez-neskinchenni-napadi-agresiyi-zhinka-trimaye-ves-budinok-u-postiynomu-strahu-305169.html)
+**Джерело**: [Телевізійна служба новин](https://tsn.ua/ukrayina/u-brovarah-cherez-neskinchenni-napadi-agresiyi-zhinka-trimaye-ves-budinok-u-postiynomu-strahu-305169.html)

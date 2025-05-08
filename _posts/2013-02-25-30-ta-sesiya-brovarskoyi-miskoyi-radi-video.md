@@ -17,7 +17,7 @@ coverImage: "wp-content/uploads/2012/12/318.jpg"
 
 **Подія:** Пленарне засідання 30-ої чергової сесії Броварської міської ради **Дата:** 21.02.2013 **Камера:** Роман Сімутін
 
-<iframe src="http://www.youtube.com/embed/Iu9nhyxuvz0" height="315" width="420" allowfullscreen frameborder="0"></iframe>
+<iframe src="https://www.youtube.com/embed/Iu9nhyxuvz0" height="315" width="420" allowfullscreen frameborder="0"></iframe>
 
 **Найцікавіші обговорення під час сесії:**
 

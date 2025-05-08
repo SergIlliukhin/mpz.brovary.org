@@ -36,7 +36,7 @@ coverImage: "wp-content/uploads/2015/01/20141124175821.jpg"
 
 [![Image00001](https://mpz.brovary.org/wp-content/uploads/2015/01/Image000011.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/01/Image000011.jpg) [![Image00002](https://mpz.brovary.org/wp-content/uploads/2015/01/Image000021.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/01/Image000021.jpg)
 
-Броварська міська рада має офіційний веб-сайт - [brovary-rada.gov.ua](http://brovary-rada.gov.ua/). На ньому можна знайти опубліковану інформацію про орган місцевого самоврядування, зокрема про структуру ради, її діяльність і ухвалені рішення.
+Броварська міська рада має офіційний веб-сайт - [brovary-rada.gov.ua](https://brovary-rada.gov.ua/). На ньому можна знайти опубліковану інформацію про орган місцевого самоврядування, зокрема про структуру ради, її діяльність і ухвалені рішення.
 
 [![Сайт_БМР](https://mpz.brovary.org/wp-content/uploads/2015/01/Sayt_BMR.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/01/Sayt_BMR.jpg)
 

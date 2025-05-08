@@ -23,8 +23,8 @@ tags:
 
 З броварським комунальним телеканалом ЕКТА, які також приїздили в лікарню, Різаненко спілкувати відмовився через слабкий стан. Натомість коментарі стосовно подій, що відбулись телеканалу ЕКТА надала помічниця депутата **Аліна Дяченко**
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/sm4Uh94UD0E" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sm4Uh94UD0E" frameborder="0" allowfullscreen></iframe>
 
 У своєму короткому [інтерв'ю виданню "Братство"](http://www.bratstvo.info/analitika/3089-intervyu-pavla-rizanenka-deputata-zhorstoko-pobitogo-tsieyi-nochi-yakogo-dobu-ne-mozhe-znayti-mvs "Різаненко") Павло Різаненко повідомив, що те, що сталося, він пов'язує виключно зі своєю депутатською діяльністю. Він має певні підозри стосовно того, кому знадобилось його залякати, але озвучувати їх він поки-що відмовився.
 
-<iframe width="480" height="360" src="http://www.youtube.com/embed/RpWY3vMkYu4" frameborder="0" allowfullscreen></iframe>
+<iframe width="480" height="360" src="https://www.youtube.com/embed/RpWY3vMkYu4" frameborder="0" allowfullscreen></iframe>

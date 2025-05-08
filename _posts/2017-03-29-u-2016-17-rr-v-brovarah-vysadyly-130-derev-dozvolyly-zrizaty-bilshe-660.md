@@ -26,11 +26,11 @@ coverImage: "wp-content/uploads/2017/03/yuifyiedu_3.jpg"
 
 ![](https://mpz.brovary.org/wp-content/uploads/2017/03/50FFB3DE-D9B6-4720-8F18-AB2F422C39A8-e1490733906455.jpg)
 
-Нагадаємо, у **2016 році** міськвиконком [надав дозволи](http://brovary-rada.gov.ua/documents/?start=0&c=1&d=0&fd=29&fm=12&fy=2011&td=29&tm=3&ty=2017&dn=&s=%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%85%20%D0%BD%D0%B0%D1%81%D0%B0%D0%B4%D0%B6%D0%B5%D0%BD%D1%8C&w=&o=DESC) на зрізання **540 дерев**, у деяких випадках зобов'язуючи відповідні структури (КП "Бровари Благоустрій", інші КП, ЖЕКи, управління освіти тощо) висадити дерева у двократному розмірі.
+Нагадаємо, у **2016 році** міськвиконком [надав дозволи](https://brovary-rada.gov.ua/documents/?start=0&c=1&d=0&fd=29&fm=12&fy=2011&td=29&tm=3&ty=2017&dn=&s=%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%85%20%D0%BD%D0%B0%D1%81%D0%B0%D0%B4%D0%B6%D0%B5%D0%BD%D1%8C&w=&o=DESC) на зрізання **540 дерев**, у деяких випадках зобов'язуючи відповідні структури (КП "Бровари Благоустрій", інші КП, ЖЕКи, управління освіти тощо) висадити дерева у двократному розмірі.
 
 А лише за три місяці **2017 року** броварський виконком дозволив зрізати **121 дерево**, а саме:
 
-- 10 січня [дозволив](http://brovary-rada.gov.ua/documents/26595.html) зрізати **24** дерева у місті,
+- 10 січня [дозволив](https://brovary-rada.gov.ua/documents/26595.html) зрізати **24** дерева у місті,
 - 7 лютого видав [дозвіл](https://mpz.brovary.org/bilya-zhk-olimpijskyj-na-torgmashi-zrizhut-bilshe-30-derev/) на зрізання **32** дерев біля ЖК "Олімпійській" на Торгмаші,
 - 28 лютого [дозволив](https://mpz.brovary.org/vykonkom-nadav-dozvil-zrizaty-dereva-pid-budivnytstvo-torgovelnogo-tsentru/) зрізати **36** дерев, з них **26** під будівництво торговельного центру в новому кварталі на вул. Чорновола,
 - 21 березня [надав дозвіл](https://mpz.brovary.org/vykonkom-nadav-dozvil-na-zrizannya-29-derev-u-brovarah/) на зрізання ще **29** дерев.

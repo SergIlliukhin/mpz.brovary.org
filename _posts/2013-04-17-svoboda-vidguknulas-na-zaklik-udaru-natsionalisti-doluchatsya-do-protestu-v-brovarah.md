@@ -20,4 +20,4 @@ tags:
 
 Нагадаємо, що **у четвер, 18 квітня, о 13:00** під стінами броварської міськради розпочнеться акція протесту проти підвищення тарифів на послуги ЖКГ у Броварах та за припинення розгулу «мажорського» свавілля в місті. З учорашнього дня броварські правоохоронці почали викликати ключових учасників майбутньої акції [на допити](https://mpz.brovary.org/brovarska-militsiya-viklikaye-na-dopit-klyuchovih-uchasnikiv-zaplanovanogo-protestu-18-kvitnya/), проте УДАР запевняє, що акція відбудеться за будь-яких умов.
 
-<iframe src="http://www.youtube.com/embed/SvRWMVRsfnc?list=UUc9EZBO13wTS_Thn4wW0dtA" height="315" width="560" allowfullscreen frameborder="0"></iframe>
+<iframe src="https://www.youtube.com/embed/SvRWMVRsfnc?list=UUc9EZBO13wTS_Thn4wW0dtA" height="315" width="560" allowfullscreen frameborder="0"></iframe>

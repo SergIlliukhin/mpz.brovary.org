@@ -25,7 +25,7 @@ coverImage: "wp-content/uploads/2015/09/Brovary_17_kvitnya_2010.png"
 
 **Броварські дюни 2015**
 
-Вже об 11:30 цього ж дня [стартує](https://mpz.brovary.org/anons-19-serpnya-vidbudutsya-velozmagannya-brovarski-dyuny/) іще один захід, пов'язаний із велосипедами - марафон "Броварські дюни 2015". Як зазначають організатори, змагання є аматорськими некомерційними велоперегонами категорії крос-кантрі. Реєстрація учасників починається з 9:00. Довжина марафону - 14,43 км. Місце збору та [схему траси](http://www.gpsies.com/map.do?fileId=vrwjrydvikijgnfg) можна подивитися на мапі нижче. З умовами участі у змаганнях та іншими деталями можна [ознайомитись](http://bikeportal.org.ua/index.php?option=com_content&view=article&id=3861&Itemid=957) на сайті одного з організаторів заходу.
+Вже об 11:30 цього ж дня [стартує](https://mpz.brovary.org/anons-19-serpnya-vidbudutsya-velozmagannya-brovarski-dyuny/) іще один захід, пов'язаний із велосипедами - марафон "Броварські дюни 2015". Як зазначають організатори, змагання є аматорськими некомерційними велоперегонами категорії крос-кантрі. Реєстрація учасників починається з 9:00. Довжина марафону - 14,43 км. Місце збору та [схему траси](http://www.gpsies.com/map.do?fileId=vrwjrydvikijgnfg) можна подивитися на мапі нижче. З умовами участі у змаганнях та іншими деталями можна [ознайомитись](https://bikeportal.org.ua/index.php?option=com_content&view=article&id=3861&Itemid=957) на сайті одного з організаторів заходу.
 
 [![463orig](https://mpz.brovary.org/wp-content/uploads/2015/09/463orig.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/09/463orig.jpg)
 

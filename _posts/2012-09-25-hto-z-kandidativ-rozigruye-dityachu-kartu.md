@@ -19,4 +19,4 @@ tags:
 
 Можливо, ми справді не розуміємо якогось глибинного значення слова порядність?..  А взагалі - бридко це все. Ніколи не думав, що ця людина зможе опуститись до подібного, хоча й повагу в мене цей чоловік в останній рік не викликав. Запрошую до перегляду, інформація справді важлива.
 
-<iframe src="http://www.youtube.com/embed/IOLFpxyPVQQ" frameborder="0" width="420" height="315"></iframe>
+<iframe src="https://www.youtube.com/embed/IOLFpxyPVQQ" frameborder="0" width="420" height="315"></iframe>

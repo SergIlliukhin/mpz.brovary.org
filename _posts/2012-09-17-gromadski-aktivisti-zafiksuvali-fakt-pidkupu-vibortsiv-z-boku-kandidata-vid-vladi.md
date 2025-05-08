@@ -19,7 +19,7 @@ coverImage: "wp-content/uploads/2012/09/Rozdacha-paykiv.jpg"
 
 12 вересня активісти "Наступу" зловили Федоренка на гарячому під час чергової роздачі продуктових наборів літнім броварчанам в тому ж самому місці, як і попереднього разу – в МКЦ «Прометей» – знову в центрі міста і знову посеред білого дня. Як і на Великдень, Федоренко вирішив «спустити собак» на тих, хто виявив та намагався зафіксувати його злочин.
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/e7DkNDKLqO0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e7DkNDKLqO0" frameborder="0" allowfullscreen></iframe>
 
 Цього разу на «свято підкупу виборців» завітав і його організатор Сергій Федоренко. Швидко зайшовши до зали, масажист Азарова сказав зі сцени кілька слів і так само швидко поїхав деінде, вочевидь, зауваживши нашу присутність. Цікаво, що помітивши наші камери, роздача проднаборів на деякий час була призупинена, аби розпочатись знову, щойно скінчився «святковий концерт» та пенсіонери почали виходити до фойє.
 
@@ -29,6 +29,6 @@ coverImage: "wp-content/uploads/2012/09/Rozdacha-paykiv.jpg"
 
 Також, нагадаємо, минулого тижня даний факт [оприлюднили](http://groza.org/brovarskyj-rehional-serhij-fedorenko-kupuje-vybortsiv-video/) у своєму відео активісти громадської організації "**Громадський захист Київщини**":
 
-<iframe src="http://www.youtube.com/embed/zhZNv9ufvi8" frameborder="0" width="560" height="315"></iframe>
+<iframe src="https://www.youtube.com/embed/zhZNv9ufvi8" frameborder="0" width="560" height="315"></iframe>
 
 Повідомлення "ГроЗи" передрукували численні всеукраїнські ЗМІ: "[Українська правда](http://www.pravda.com.ua/news/2012/09/13/6972648/)",  "[Газета.ЮА](http://gazeta.ua/articles/politics/_masazhist-azarova-pidkupovue-viborciv-produktovimi-naborami/455731)", "[Український тиждень](http://tyzhden.ua/News/59932)" тощо.

@@ -17,7 +17,7 @@ tags:
 coverImage: "wp-content/uploads/2013/08/Vodiy-zbiv-zhinku-z-ditinoyu.jpg"
 ---
 
-**[![Водій збив жінку з дитиною](https://mpz.brovary.org/wp-content/uploads/2013/08/Vodiy-zbiv-zhinku-z-ditinoyu.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/08/Vodiy-zbiv-zhinku-z-ditinoyu.jpg)На вулиці Старотроїцькій у Броварах Київської області чоловік збив жінку, яка гуляла із маленькою дитиною у візочку, [повідомляє кореспондент ТСН](http://tsn.ua/ukrayina/u-brovarah-cholovik-zbiv-zhinku-z-ditinoyu-u-vizochku-i-vtik-304686.html). Жінка перелетіла через капот автівки, а дитина випала з візочка на дорогу.**
+**[![Водій збив жінку з дитиною](https://mpz.brovary.org/wp-content/uploads/2013/08/Vodiy-zbiv-zhinku-z-ditinoyu.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/08/Vodiy-zbiv-zhinku-z-ditinoyu.jpg)На вулиці Старотроїцькій у Броварах Київської області чоловік збив жінку, яка гуляла із маленькою дитиною у візочку, [повідомляє кореспондент ТСН](https://tsn.ua/ukrayina/u-brovarah-cholovik-zbiv-zhinku-z-ditinoyu-u-vizochku-i-vtik-304686.html). Жінка перелетіла через капот автівки, а дитина випала з візочка на дорогу.**
 
 Рух на цій вулиці досить жвавий, а от ні світлофорів, ні "зебр", ні навіть тротуару для пішоходів на ній немає.
 
@@ -33,4 +33,4 @@ coverImage: "wp-content/uploads/2013/08/Vodiy-zbiv-zhinku-z-ditinoyu.jpg"
 
 Правоохоронці оголосили план "Перехоплення", його вже затримали.
 
-**Джерело: [ТСН](http://tsn.ua/ukrayina/u-brovarah-cholovik-zbiv-zhinku-z-ditinoyu-u-vizochku-i-vtik-304686.html)**
+**Джерело: [ТСН](https://tsn.ua/ukrayina/u-brovarah-cholovik-zbiv-zhinku-z-ditinoyu-u-vizochku-i-vtik-304686.html)**

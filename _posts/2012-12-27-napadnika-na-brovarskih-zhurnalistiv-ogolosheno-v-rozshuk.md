@@ -14,7 +14,7 @@ tags:
 coverImage: "wp-content/uploads/2012/12/4epura_rozsh11.jpg"
 ---
 
-[![](https://mpz.brovary.org/wp-content/uploads/2012/12/4epura_rozsh.jpg "4epura_rozsh")](https://mpz.brovary.org/wp-content/uploads/2012/12/4epura_rozsh.jpg)Журналістам «Маєш право знати» стало відомо, що головний фігурант [резонансних інцидентів](https://mpz.brovary.org/napadniki-na-lyudey-pid-chas-vizitu-azarova-zaslugovuyut-prinaymni-na-publichniy-osud-foto-video/) під час візиту до Броварів Миколи Азарова перебуває в розшуку. Павла Чепуру, котрий [розбив журналістам знімальну техніку](http://www.youtube.com/watch?v=-9qmLAiHtV0), розшукують херсонські правоохоронці за скоєння ще одного злочину.
+[![](https://mpz.brovary.org/wp-content/uploads/2012/12/4epura_rozsh.jpg "4epura_rozsh")](https://mpz.brovary.org/wp-content/uploads/2012/12/4epura_rozsh.jpg)Журналістам «Маєш право знати» стало відомо, що головний фігурант [резонансних інцидентів](https://mpz.brovary.org/napadniki-na-lyudey-pid-chas-vizitu-azarova-zaslugovuyut-prinaymni-na-publichniy-osud-foto-video/) під час візиту до Броварів Миколи Азарова перебуває в розшуку. Павла Чепуру, котрий [розбив журналістам знімальну техніку](https://www.youtube.com/watch?v=-9qmLAiHtV0), розшукують херсонські правоохоронці за скоєння ще одного злочину.
 
 Відповідне орієнтування на сайті Херсонської податкової служби [опубліковане](http://kherson.sts.gov.ua/media-ark/local-news/67501.html) ще 22 серпня: за вчинення злочину Павла Володимировича Чепуру розшукує Управління податкової міліції. На сайті також розміщено фото Чепури і телефони, куди можна повідомити інформацію про його місцезнаходження.
 
@@ -28,7 +28,7 @@ coverImage: "wp-content/uploads/2012/12/4epura_rozsh11.jpg"
 
 В розмові з нашим журналістом херсонський правоохоронець зазначив, що передасть отримані відомості в Головне управління податкової міліції в м. Києві, позаяк саме столичні правоохоронці оголосили Чепуру в розшук. З нами пообіцяли зв’язатись та уточнити деталі, проте за добу журналісту «Маєш право знати» ніхто з правоохоронців так і не зателефонував.
 
-<iframe src="http://www.youtube.com/embed/4l8NxhvR9E4" frameborder="0" width="420" height="315"></iframe>
+<iframe src="https://www.youtube.com/embed/4l8NxhvR9E4" frameborder="0" width="420" height="315"></iframe>
 
 Відтак ми направили листи з описом ситуації в ГУ МВС в м. Києві, в Державну податкову службу, в Департамент внутрішньої безпеки МВС України та Генеральну прокуратуру. Нагадаємо, що справою про перешкоджання журналістській діяльності з боку Чепури [займався заст. Броварського міжрайонного прокурора Антон Авер’янов,](https://mpz.brovary.org/u-brovarah-ne-diye-st-171-kriminalnogo-kodeksu-prokuratura/) а з боку міліції – [молодший лейтенант Ігор Лисенко.](https://mpz.brovary.org/militsiya-zaproshuye-na-rarty-regioni-vhid-vilniy/) Обидва не знайшли в діях розшукуваного складу злочину.
 

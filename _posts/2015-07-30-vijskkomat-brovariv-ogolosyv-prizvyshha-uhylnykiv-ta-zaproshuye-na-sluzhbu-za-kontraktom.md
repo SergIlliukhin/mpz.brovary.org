@@ -14,7 +14,7 @@ tags:
   - "uhylnyky"
 ---
 
-**Військкомат міста Бровари [оголошує](http://brovary-rada.gov.ua/priiom-gromadyan-na-v%D1%96iskovu-sluzhbu-za-kontraktom) про набір на військову службу за контрактом, а також [оприлюднив](http://brovary-rada.gov.ua/brovarskii-ob%E2%80%99%D1%94dnanii-m%D1%96skii-v%D1%96iskovii-kom%D1%96sar%D1%96-oprilyudnyu%D1%94-spisok-os%D1%96b-yak%D1%96-ne-zyavlyayutsya-do-v%D1%96) прізвища броварчан, які ухиляються від призову. Така інформація з'явилася на сайті Броварської міської ради.**
+**Військкомат міста Бровари [оголошує](https://brovary-rada.gov.ua/priiom-gromadyan-na-v%D1%96iskovu-sluzhbu-za-kontraktom) про набір на військову службу за контрактом, а також [оприлюднив](https://brovary-rada.gov.ua/brovarskii-ob%E2%80%99%D1%94dnanii-m%D1%96skii-v%D1%96iskovii-kom%D1%96sar%D1%96-oprilyudnyu%D1%94-spisok-os%D1%96b-yak%D1%96-ne-zyavlyayutsya-do-v%D1%96) прізвища броварчан, які ухиляються від призову. Така інформація з'явилася на сайті Броварської міської ради.**
 
 > До уваги громадян! Броварський об’єднаний міський військовий комісаріат оголошує набір на військову службу до Збройних Сил України за контрактом. Звертатися до військового комісаріату (бульв.Незалежності, 4-а), кімн.№6. Телефон для довідок  (04594) **5-45-33.**
 

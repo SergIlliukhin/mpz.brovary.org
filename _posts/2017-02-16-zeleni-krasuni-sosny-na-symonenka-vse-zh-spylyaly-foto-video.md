@@ -27,7 +27,7 @@ coverImage: "wp-content/uploads/2017/02/16730259_802892616560183_689429811530297
 
 [![](https://mpz.brovary.org/wp-content/uploads/2017/02/SAM_9824.jpg)](https://mpz.brovary.org/wp-content/uploads/2017/02/SAM_9824.jpg)
 
-Інформація про те, що 50-літні сосни все ж пиляють, швидко сколихнула інтернет. Групи «Бровари» та [«Стоп будівництву на Симоненка»](http://www.facebook.com/groups/brovary/permalink/1541167432579884/)  зарясніли дописами та [відео](http://www.facebook.com/groups/354018628272525/?fref=nf).
+Інформація про те, що 50-літні сосни все ж пиляють, швидко сколихнула інтернет. Групи «Бровари» та [«Стоп будівництву на Симоненка»](https://www.facebook.com/groups/brovary/permalink/1541167432579884/)  зарясніли дописами та [відео](https://www.facebook.com/groups/354018628272525/?fref=nf).
 
 <iframe src="https://www.youtube.com/embed/uxlugNe1bb4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 

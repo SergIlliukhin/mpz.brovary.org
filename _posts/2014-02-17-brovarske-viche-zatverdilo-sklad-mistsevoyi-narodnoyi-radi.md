@@ -113,6 +113,6 @@ coverImage: "wp-content/uploads/2014/02/Narodna-Rada-13.jpg"
 
 [![Народна Рада 46](https://mpz.brovary.org/wp-content/uploads/2014/02/Narodna-Rada-46.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/02/Narodna-Rada-46.jpg)
 
-_Нагадуємо, що броварчани, яких цікавить участь в роботі Народної ради, можуть долучатись, написавши на електронну скриньку [narodnarada.brovary@gmail.com](mailto:narodnarada.brovary@gmail.com). Крім того, дізнаватись інформацію про діяльність БНР можна буде в групах у соцмережах **[ВКонтакті](http://vk.com/id206720090#/narodnarada.brovary)** та **[Фейсбук](https://www.facebook.com/groups/narodnarada.brovary/).**_
+_Нагадуємо, що броварчани, яких цікавить участь в роботі Народної ради, можуть долучатись, написавши на електронну скриньку [narodnarada.brovary@gmail.com](mailto:narodnarada.brovary@gmail.com). Крім того, дізнаватись інформацію про діяльність БНР можна буде в групах у соцмережах **[ВКонтакті](https://vk.com/id206720090#/narodnarada.brovary)** та **[Фейсбук](https://www.facebook.com/groups/narodnarada.brovary/).**_
 
 **Фото - Миколи Кожемяка**

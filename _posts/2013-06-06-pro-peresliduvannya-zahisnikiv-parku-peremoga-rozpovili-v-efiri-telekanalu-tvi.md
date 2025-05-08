@@ -22,4 +22,4 @@ coverImage: "wp-content/uploads/2013/06/Logotip-TVi3.jpg"
 
 Пропонуємо вашій увазі відеозапис передачі від 05.06.2013:
 
-<iframe src="http://www.youtube.com/embed/n1oocTt3DcU" height="315" width="420" allowfullscreen frameborder="0"></iframe>
+<iframe src="https://www.youtube.com/embed/n1oocTt3DcU" height="315" width="420" allowfullscreen frameborder="0"></iframe>

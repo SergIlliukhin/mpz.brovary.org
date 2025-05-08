@@ -24,14 +24,14 @@ tags:
 
 **Відео каналу TVI**
 
-<iframe width="480" height="360" src="http://www.youtube.com/embed/n_qJAP1iBuM" frameborder="0" allowfullscreen></iframe>
+<iframe width="480" height="360" src="https://www.youtube.com/embed/n_qJAP1iBuM" frameborder="0" allowfullscreen></iframe>
 
 **А ось повний варіант цього моменту без монтажу**
 
-<iframe width="480" height="360" src="http://www.youtube.com/embed/Oqb9YT-2PM0" frameborder="0" allowfullscreen></iframe>
+<iframe width="480" height="360" src="https://www.youtube.com/embed/Oqb9YT-2PM0" frameborder="0" allowfullscreen></iframe>
 
 До речі, якщо вже мова зайшла про продажних журналістів... Ввечері 03.01.2012 у ефірі телеканалу ЕКТА транслювали відеозапис 17-го сесійного засідання Броварської міської ради. Мені було цікаво подивитися: покажуть наші журналісти повну версію подій чи виріжуть неприємні для "регіоналів" моменти? Виявилось, що до уваги громадськості із прес-конференції показали лише вступне слово пана Федоренка та декілька питань, а **"незручні" питання, які задавали журналісти, "випадково" були вирізані**!
 
 Ось шматок відеозапису: ніби за помахом чарівної палички на 00:06 секунді камера переноситься з пана Федоренка на пана Сапожка, а далі - депутат Федоренко, не попрощавшися з журналістами, вже тихенько сидить за столом, а журналісти вже стоять посеред зали, заслуховуючи депутата Віканова, який розповідає страшну історію про тополі, які він власноруч зрізав! Справжні чарівники наші оператори з ЕКТИ, чи не так? :)
 
-<iframe width="480" height="360" src="http://www.youtube.com/embed/Dvm88nblkzc" frameborder="0" allowfullscreen></iframe>
+<iframe width="480" height="360" src="https://www.youtube.com/embed/Dvm88nblkzc" frameborder="0" allowfullscreen></iframe>

@@ -19,7 +19,7 @@ tags:
 coverImage: "wp-content/uploads/2012/10/Teleefir.jpg"
 ---
 
-[![](https://mpz.brovary.org/wp-content/uploads/2012/10/Teleefir.jpg "Телеефір")](https://mpz.brovary.org/wp-content/uploads/2012/10/Teleefir.jpg)Згідно з розкладом ефірного часу, [визначеного ЦВК](http://www.cvk.gov.ua/pls/vnd2012/WP010?PT001F01=900&pf7331=97), з 12 по 17 жовтня кандидати виборчого округу № 97 мають по 20 хвилин ефіру  для проведення передвиборної агітації на телеканалі "КДРТ" ("[Київська державна регіональна телерадіокомпанія](http://kdrtrk-tv.com.ua/On-line.html)").
+[![](https://mpz.brovary.org/wp-content/uploads/2012/10/Teleefir.jpg "Телеефір")](https://mpz.brovary.org/wp-content/uploads/2012/10/Teleefir.jpg)Згідно з розкладом ефірного часу, [визначеного ЦВК](https://www.cvk.gov.ua/pls/vnd2012/WP010?PT001F01=900&pf7331=97), з 12 по 17 жовтня кандидати виборчого округу № 97 мають по 20 хвилин ефіру  для проведення передвиборної агітації на телеканалі "КДРТ" ("[Київська державна регіональна телерадіокомпанія](http://kdrtrk-tv.com.ua/On-line.html)").
 
 У відкритому Інтернет-доступі "Маєш право знати" вдалось знайти два відеозаписи з цих ефірів - кандидатів **Миколи Коханівського** та **Павла Різаненка**. Закликаємо інших кандидатів у народні депутати, які балотуються у 97 окрузі, повідомляти наш сайт про оприлюднення відео зі своїх ефірів, для того, щоб ми також опублікували ці відеоматеріали.
 
@@ -29,11 +29,11 @@ _Ефір Миколи Коханівського від 15.10.2012_
 
 _Ефір Павла Різаненка від 14.10.2012_
 
-<iframe src="http://www.youtube.com/embed/occbrsWaoDk" frameborder="0" width="560" height="315"></iframe>
+<iframe src="https://www.youtube.com/embed/occbrsWaoDk" frameborder="0" width="560" height="315"></iframe>
 
 _Ефір Анатолія Базіра від 17.10.2012_
 
-<iframe width="480" height="360" src="http://www.youtube.com/embed/6eVu0be4zJ4" frameborder="0" allowfullscreen></iframe>
+<iframe width="480" height="360" src="https://www.youtube.com/embed/6eVu0be4zJ4" frameborder="0" allowfullscreen></iframe>
 
 **Розклад ефірного часу для проведення передвиборної агітації на регіональних телеканалах**
 

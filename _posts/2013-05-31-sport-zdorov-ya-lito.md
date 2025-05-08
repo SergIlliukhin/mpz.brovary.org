@@ -36,7 +36,7 @@ coverImage: "wp-content/uploads/2013/05/f73uAtKHuNE.jpg"
 
 Всеміська зарядка з Іриною Мерлені - [http://afisha-brovary.net/index.php?option=com\_zoo&task=item&item\_id=3540&Itemid=112](http://afisha-brovary.net/index.php?option=com_zoo&task=item&item_id=3540&Itemid=112)
 
-А також відео та фотографії із зарядок є у групі вк: [http://vk.com/mobi\_groza](http://vk.com/mobi_groza)
+А також відео та фотографії із зарядок є у групі вк: [https://vk.com/mobi\_groza](https://vk.com/mobi_groza)
 
 Ми вже готові розпочати новий сезон, але нам потрібна допомога. **_Запрошуємо меценатів, фотографів, спортсменів, волонтерів, активних громадян для організації проведення зарядки_**
 

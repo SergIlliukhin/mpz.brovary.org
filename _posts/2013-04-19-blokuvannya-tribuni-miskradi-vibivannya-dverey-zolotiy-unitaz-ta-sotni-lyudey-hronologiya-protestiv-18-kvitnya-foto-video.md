@@ -52,7 +52,7 @@ coverImage: "wp-content/uploads/2013/04/Aktsiya-Tarifi-Unitaz-14.jpg"
 
 Зрештою, під тиском громадськості Сапожко запропонував повернутись до розгляду цього питання ще раз наприкінці сесії, а також скликати позачергову сесію міської ради з приводу нових тарифів на «комуналку».  Тільки після цього протестувальники розблокували трибуну.
 
-<iframe src="http://www.youtube.com/embed/YHCvN1LFJ_Q" height="315" width="420" allowfullscreen frameborder="0"></iframe>
+<iframe src="https://www.youtube.com/embed/YHCvN1LFJ_Q" height="315" width="420" allowfullscreen frameborder="0"></iframe>
 
 **День. Золотий унітаз, указ «Єгорки Сапога» та зниклі чиновники**
 
@@ -110,12 +110,12 @@ coverImage: "wp-content/uploads/2013/04/Aktsiya-Tarifi-Unitaz-14.jpg"
 
 **Сюжет "Нового каналу"**
 
-<iframe src="http://www.youtube.com/embed/fUmixWRfoHc" height="315" width="420" allowfullscreen frameborder="0"></iframe>
+<iframe src="https://www.youtube.com/embed/fUmixWRfoHc" height="315" width="420" allowfullscreen frameborder="0"></iframe>
 
 **Сюжет каналу "24"**
 
-<iframe src="http://www.youtube.com/embed/q_CmjsviqYU" height="315" width="420" allowfullscreen frameborder="0"></iframe>
+<iframe src="https://www.youtube.com/embed/q_CmjsviqYU" height="315" width="420" allowfullscreen frameborder="0"></iframe>
 
 **Сюжет "Інтера"**
 
-<iframe src="http://www.youtube.com/embed/HKmxelHsnho" height="315" width="420" allowfullscreen frameborder="0"></iframe>
+<iframe src="https://www.youtube.com/embed/HKmxelHsnho" height="315" width="420" allowfullscreen frameborder="0"></iframe>

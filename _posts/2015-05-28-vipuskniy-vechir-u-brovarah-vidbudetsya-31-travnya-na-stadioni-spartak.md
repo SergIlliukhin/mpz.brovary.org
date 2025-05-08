@@ -15,7 +15,7 @@ tags:
 coverImage: "wp-content/uploads/2015/05/1431503096_vup_4.jpg"
 ---
 
-[![1431503096_vup_4](https://mpz.brovary.org/wp-content/uploads/2015/05/1431503096_vup_4.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/05/1431503096_vup_4.jpg)**Цієї неділі, 31 травня, на стадіоні "Спартак" відбудеться загальноміський випускний вечір 11-х класів. Про це повідомляється у [розпорядженні міського голови](http://brovary-rada.gov.ua/rozporyadzhennya-m%D1%96skogo-golovi-v%D1%96d-18052015-%E2%84%9685-od-pro-provedennya-zagalnom%D1%96skogo-vipusknogo-vechor), оприлюдненому на офіційному сайті міськради.**
+[![1431503096_vup_4](https://mpz.brovary.org/wp-content/uploads/2015/05/1431503096_vup_4.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/05/1431503096_vup_4.jpg)**Цієї неділі, 31 травня, на стадіоні "Спартак" відбудеться загальноміський випускний вечір 11-х класів. Про це повідомляється у [розпорядженні міського голови](https://brovary-rada.gov.ua/rozporyadzhennya-m%D1%96skogo-golovi-v%D1%96d-18052015-%E2%84%9685-od-pro-provedennya-zagalnom%D1%96skogo-vipusknogo-vechor), оприлюдненому на офіційному сайті міськради.**
 
 У зв’язку із закінченням 2014/2015 навчального року та проведенням державної підсумкової атестації у випускних класах  навчальних закладів міста планується провести загальноміський випускний вечір 11-х класів на стадіоні «Спартак» **31 травня о 15:00,** - сказано у документі.
 

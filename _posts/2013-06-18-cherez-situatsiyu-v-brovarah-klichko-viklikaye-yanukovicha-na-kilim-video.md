@@ -10,4 +10,4 @@ categories:
 
 [![318858](https://mpz.brovary.org/wp-content/uploads/2013/06/318858.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/06/318858.jpg)Віталій Кличко з трибуни парламенту натякає Януковичу, що для початку масштабних акцій протесту в Україні достатньо маленької іскри. Такою може стати ситуація, що наразі відбувається в Броварах: місцева влада тероризує мешканців міста репресіями, ув'язненнями, підпалами та показовими побиттями. УДАР заявляє, що має достатньо сил дати гідну відповідь на безчинства броварських терористів в погонах та владних кабінетах.
 
-<iframe src="http://www.youtube.com/embed/NRWTXTJbxj4" height="315" width="420" allowfullscreen frameborder="0"></iframe>
+<iframe src="https://www.youtube.com/embed/NRWTXTJbxj4" height="315" width="420" allowfullscreen frameborder="0"></iframe>

@@ -27,7 +27,7 @@ coverImage: "wp-content/uploads/2017/01/Brovary-Rizdvo-.jpg"
 
 Як раніше [зазначав](https://mpz.brovary.org/ofitsijni-zahody-rizdvyano-novorichnyh-svyat-u-brovarah-grafik/) відділ культури Броварської міської ради, **15 січня о 14:00** мешканці міста можуть відвідати фестиваль християнської творчості «Віфлеємська зірка. А **18 січня о 15:00** влаштовують святковий концерт «Різдвяні дзвони». Обидва заходи відбудуться в **МКЦ «Прометей»**, що на бульв. Незалежності, 4.
 
-Робота новорічно-різдвяного ярмарку на майдані Свободи, [організованого](https://mpz.brovary.org/na-majdani-rozlyvayut-hrenovuhu-abo-chogo-tut-eks-regional-bogdan-kolodij/) ГО «Громадське коло», триватиме до Водохрещі – **19 січня.** Також на свято хрещення в парку «Приозерному» відбудеться традиційне «Освячення озера», - [анонсують](http://brovary-rada.gov.ua/calendar/?c=0&fd=19&fm=1) у Броварській міській раді.
+Робота новорічно-різдвяного ярмарку на майдані Свободи, [організованого](https://mpz.brovary.org/na-majdani-rozlyvayut-hrenovuhu-abo-chogo-tut-eks-regional-bogdan-kolodij/) ГО «Громадське коло», триватиме до Водохрещі – **19 січня.** Також на свято хрещення в парку «Приозерному» відбудеться традиційне «Освячення озера», - [анонсують](https://brovary-rada.gov.ua/calendar/?c=0&fd=19&fm=1) у Броварській міській раді.
 
 [![](https://mpz.brovary.org/wp-content/uploads/2016/01/vodohreshha-13.jpg)](https://mpz.brovary.org/wp-content/uploads/2016/01/vodohreshha-13.jpg)
 

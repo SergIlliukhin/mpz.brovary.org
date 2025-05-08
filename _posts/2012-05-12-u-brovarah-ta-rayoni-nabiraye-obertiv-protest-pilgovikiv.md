@@ -32,10 +32,10 @@ tags:
 
 [](https://mpz.brovary.org/wp-content/uploads/2012/05/IMG_8477.jpg)Десятки тисяч людей доб’ються справедливості, бо тиранічна влада завжди боїться свого народу, якщо той не мовчить!
 
-[Велика Димерка. Протест набирає обертів](http://www.youtube.com/watch?v=r9F2LEQkJ1w)
+[Велика Димерка. Протест набирає обертів](https://www.youtube.com/watch?v=r9F2LEQkJ1w)
 
-[Калинівка, Скибин. Законне право.](http://www.youtube.com/watch?v=NR5raMkFAG4)
+[Калинівка, Скибин. Законне право.](https://www.youtube.com/watch?v=NR5raMkFAG4)
 
-[Требухів. Законне право](http://www.youtube.com/watch?v=_anyJl-FsWI)
+[Требухів. Законне право](https://www.youtube.com/watch?v=_anyJl-FsWI)
 
-[Літки. Законне право](http://www.youtube.com/watch?v=0COaUGKow0g)
+[Літки. Законне право](https://www.youtube.com/watch?v=0COaUGKow0g)

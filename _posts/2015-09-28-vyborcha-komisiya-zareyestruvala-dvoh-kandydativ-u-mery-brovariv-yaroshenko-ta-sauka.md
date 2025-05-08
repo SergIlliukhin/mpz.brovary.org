@@ -24,7 +24,7 @@ coverImage: "wp-content/uploads/2015/09/Sauk-YAroshenko.jpg"
 
 [![Ярошенко](https://mpz.brovary.org/wp-content/uploads/2012/09/YAroshenko.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/09/YAroshenko.jpg)
 
-Також у 2012 році Олександра Ярошенко [балотувалась](http://www.cvk.gov.ua/pls/vnd2012/WP407?PT001F01=900&pf7201=101) до Верховної Ради України по 97 виборчому округу і [набрала](http://www.cvk.gov.ua/pls/vnd2012/WP040?PT001F01=900&pf7331=97) **1034** голоса. До парламенту Олександра Володимирівна намагалась потрапити також [шляхом самовисування](https://mpz.brovary.org/5-veresnya-kanditat-u-narodni-deputati-oleksandra-yaroshenko-zustrinetsya-z-vibortsyami/), при цьому у графі "партійна приналежність" зазначила "член політичної партії Народний Рух України".
+Також у 2012 році Олександра Ярошенко [балотувалась](https://www.cvk.gov.ua/pls/vnd2012/WP407?PT001F01=900&pf7201=101) до Верховної Ради України по 97 виборчому округу і [набрала](https://www.cvk.gov.ua/pls/vnd2012/WP040?PT001F01=900&pf7331=97) **1034** голоса. До парламенту Олександра Володимирівна намагалась потрапити також [шляхом самовисування](https://mpz.brovary.org/5-veresnya-kanditat-u-narodni-deputati-oleksandra-yaroshenko-zustrinetsya-z-vibortsyami/), при цьому у графі "партійна приналежність" зазначила "член політичної партії Народний Рух України".
 
 Броварська міська виборча комісія винесла рішення про її реєстрацію 23 вересня. Про те, як проходило засідання ТВК, можна переглянути у [відеосюжеті "Громадського Телебачення Броварів"](https://mpz.brovary.org/zareyestrovano-pershogo-kandydata-na-posadu-mera-brovariv-hromadskebro-tv/).
 

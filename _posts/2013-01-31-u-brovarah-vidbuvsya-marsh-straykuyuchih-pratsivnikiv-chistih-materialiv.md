@@ -121,4 +121,4 @@ _Звернення до міськрайонного прокурора Мик�
 
 **Відео подій від ГК "Наступ"**
 
-<iframe src="http://www.youtube.com/embed/CWdWu1mIYk0" height="360" width="640" allowfullscreen frameborder="0"></iframe>
+<iframe src="https://www.youtube.com/embed/CWdWu1mIYk0" height="360" width="640" allowfullscreen frameborder="0"></iframe>

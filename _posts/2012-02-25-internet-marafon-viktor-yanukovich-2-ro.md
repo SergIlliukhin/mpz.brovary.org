@@ -22,4 +22,4 @@ tags:
 
 Докладніше про марафон можна прочитати в [блозі Мустафи Найєма](http://blogs.pravda.com.ua/authors/nayem/4f476775c2ff5/ "Мустафа Найєм").
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/XfUU_CMQgmo" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XfUU_CMQgmo" frameborder="0" allowfullscreen></iframe>

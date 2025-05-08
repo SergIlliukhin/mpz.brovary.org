@@ -34,4 +34,4 @@ tags:
 
 **P.S.** До ОСББ "Шевченко 4-А" Прем'єр-Міністр в той день так і не доїхав, натомість зустрівся з представниками об'єднань співвласників у іншому ОСББ міста Києва
 
-<iframe width="480" height="360" src="http://www.youtube.com/embed/Ln16ZPocvFo" frameborder="0" allowfullscreen></iframe>
+<iframe width="480" height="360" src="https://www.youtube.com/embed/Ln16ZPocvFo" frameborder="0" allowfullscreen></iframe>

@@ -28,6 +28,6 @@ tags:
 
 Також на офіційному сайті Броварської міської ради постійно оприлюднюються дані моніторингу повітря в місті. Перевищень гранично допустимих концентрацій шкідливих речовин немає.
 
-[Дані за 25 жовтня:](http://brovary-rada.gov.ua/pro-stan-zabrudnennya-atmosfernogo-pov%D1%96trya-stanom-na-25102015r)
+[Дані за 25 жовтня:](https://brovary-rada.gov.ua/pro-stan-zabrudnennya-atmosfernogo-pov%D1%96trya-stanom-na-25102015r)
 
 [![25](https://mpz.brovary.org/wp-content/uploads/2015/10/25.png)](https://mpz.brovary.org/wp-content/uploads/2015/10/25.png)

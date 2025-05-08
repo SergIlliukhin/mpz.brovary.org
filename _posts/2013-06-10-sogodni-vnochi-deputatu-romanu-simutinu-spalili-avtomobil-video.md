@@ -26,11 +26,11 @@ coverImage: "wp-content/uploads/2013/06/Avto-Simutin-1.jpg"
 
 **Палаючий автомобіль**
 
-<iframe src="http://www.youtube.com/embed/nV-vdVQPAOc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://www.youtube.com/embed/nV-vdVQPAOc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 **Гасіння пожежі**
 
-<iframe src="http://www.youtube.com/embed/zfGmQ1L0h-4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://www.youtube.com/embed/zfGmQ1L0h-4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 **Наслідки пожежі**
 

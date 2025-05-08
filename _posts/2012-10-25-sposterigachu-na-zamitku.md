@@ -23,24 +23,24 @@ coverImage: "wp-content/uploads/2012/10/422435_471575729533524_1160245224_n.jpg"
 
 **Фільм 1: Статус офіційного спостерігача та його права**
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/uCt0V0Jg1IU" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uCt0V0Jg1IU" frameborder="0" allowfullscreen></iframe>
 
 **Фільм 2: Підготовче засідання напередодні дня голосування**
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/xguc9uo0i_g" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xguc9uo0i_g" frameborder="0" allowfullscreen></iframe>
 
 **Фільм 3: Голосування на дільниці**
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/fawzhsRc_-U" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fawzhsRc_-U" frameborder="0" allowfullscreen></iframe>
 
 **Фільм 4, 5: Підрахунок голосів на виборчій дільниці**
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/ui51jUkLETs" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ui51jUkLETs" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/6sRoKTmtuDg" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6sRoKTmtuDg" frameborder="0" allowfullscreen></iframe>
 
 **Фільм 6: Протоколи ДВК про підрахунок голосів виборців**
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/JX4lx7S7Gl0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JX4lx7S7Gl0" frameborder="0" allowfullscreen></iframe>
 
 Приємного перегляду! І пам'ятайте - часу залишилось дуже мало, використайте його з користю!

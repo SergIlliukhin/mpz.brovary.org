@@ -17,7 +17,7 @@ tags:
 
 ![](https://mpz.brovary.org/wp-content/uploads/2011/12/Дід-Мороз-захищає-парк-Перемога-Бровари.jpg "Дід Мороз захищає парк Перемога Бровари")Справжній Дід Мороз завітав на передноворічну сесію Броварської міської ради, щоб зробити депутатам подарунки і разом з громадою закликати депутатів не віддавати шматок парку "Перемога" у приватну власність!
 
-Нагадаю, лідер броварської Партії Регіонів **Сергій Федоренко**, який є власником ПП "Феско", [поклав око на 7 соток броварського парку](https://mpz.brovary.org/novini/park-peremoga-u-nebezpeci/ "Парк “Перемога” у небезпеці!"), за рахунок яких він планує розширити територію свого оздоровчо-лікувального центру готельного типу. <!--more-->На [позаминулій сесії](https://mpz.brovary.org/novini/video-15-te-sesijne-zasidannya-brovarskoji-miskoji-rady/ "ВІДЕО: 15-те сесійне засідання Броварської міської ради") депутати вже навіть [ухвалили](http://www.slideshare.net/sergIlliukhin/4141506-24112011 "Броварська міська рада") провести грошову оцінку даної земельної ділянки для подальшого продажу її ПП "Феско" шляхом викупу.
+Нагадаю, лідер броварської Партії Регіонів **Сергій Федоренко**, який є власником ПП "Феско", [поклав око на 7 соток броварського парку](https://mpz.brovary.org/novini/park-peremoga-u-nebezpeci/ "Парк "Перемога" у небезпеці!"), за рахунок яких він планує розширити територію свого оздоровчо-лікувального центру готельного типу. <!--more-->На [позаминулій сесії](https://mpz.brovary.org/novini/video-15-te-sesijne-zasidannya-brovarskoji-miskoji-rady/ "ВІДЕО: 15-те сесійне засідання Броварської міської ради") депутати вже навіть [ухвалили](https://www.slideshare.net/sergIlliukhin/4141506-24112011 "Броварська міська рада") провести грошову оцінку даної земельної ділянки для подальшого продажу її ПП "Феско" шляхом викупу.
 
 На цю сесію виносилось питання про затвердження договору оренди ПП "Феско" на дану ділянку - цей крок є підготовкою до подальшого її продажу. Броварська громада вийшла з чіткою метою: **не дати депутатам укладати договір оренди з ПП "Феско" і залишити дану земельну ділянку у власності парку!**
 
@@ -39,19 +39,19 @@ tags:
 
 **Телеканал СТБ**
 
-<iframe width="480" height="360" src="http://www.youtube.com/embed/mTef2v0K8fw" frameborder="0" allowfullscreen></iframe>
+<iframe width="480" height="360" src="https://www.youtube.com/embed/mTef2v0K8fw" frameborder="0" allowfullscreen></iframe>
 
 **Телеканал Новий**
 
-<iframe width="480" height="360" src="http://www.youtube.com/embed/GWHQrSLEAPw" frameborder="0" allowfullscreen></iframe>
+<iframe width="480" height="360" src="https://www.youtube.com/embed/GWHQrSLEAPw" frameborder="0" allowfullscreen></iframe>
 
 **Телеканал TVI**
 
-<iframe width="480" height="360" src="http://www.youtube.com/embed/UYDp5IH_f5E" frameborder="0" allowfullscreen></iframe>
+<iframe width="480" height="360" src="https://www.youtube.com/embed/UYDp5IH_f5E" frameborder="0" allowfullscreen></iframe>
 
 **Телеканал СІТІ**
 
-<iframe width="480" height="360" src="http://www.youtube.com/embed/J84fYGKwCmE" frameborder="0" allowfullscreen></iframe>
+<iframe width="480" height="360" src="https://www.youtube.com/embed/J84fYGKwCmE" frameborder="0" allowfullscreen></iframe>
 
 #### Протидія влади
 
@@ -65,10 +65,10 @@ tags:
 
 А голова броварської організації "Діти війни" **Михайло Сердюк** навіть розповів журналістам, що йому і його колегам запропонували гроші за участь у акції. Хто і за що має платити гроші, він не розібрався, але за грошима все ж прийшов. Правда, грошей, як виявилось, на мітингу не платили, чим пан Сердюк був дуже засмучений...
 
-<iframe width="480" height="360" src="http://www.youtube.com/embed/sPbf4MzNva0" frameborder="0" allowfullscreen></iframe>
+<iframe width="480" height="360" src="https://www.youtube.com/embed/sPbf4MzNva0" frameborder="0" allowfullscreen></iframe>
 
 #### Фотографії з акції
 
-**P.S.** Нагадуємо, що [громадська ініціатива "Збережемо Перемогу"](https://mpz.brovary.org/peremoga/ "Збережемо Перемогу!") була створена 18 грудня 2011 року, коли [близько сотні броварчан вийшли до парку](https://mpz.brovary.org/novini/brovarchani-vijsli-na-zahist-parku-peremoga/ "Броварчани вийшли на захист парку “Перемога”") і на власні очі переконалися в тому, що дерева, яких за документами не існує, насправді існують!
+**P.S.** Нагадуємо, що [громадська ініціатива "Збережемо Перемогу"](https://mpz.brovary.org/peremoga/ "Збережемо Перемогу!") була створена 18 грудня 2011 року, коли [близько сотні броварчан вийшли до парку](https://mpz.brovary.org/novini/brovarchani-vijsli-na-zahist-parku-peremoga/ "Броварчани вийшли на захист парку "Перемога") і на власні очі переконалися в тому, що дерева, яких за документами не існує, насправді існують!
 
-**Звернення, які були передані міському голові:** \* [Звернення від громади](http://www.slideshare.net/sergIlliukhin/ss-10869684 "Звернення від громади") \* [Звернення від Діда Мороза](http://www.slideshare.net/sergIlliukhin/ss-10869686 "Звернення від Діда Мороза")
+**Звернення, які були передані міському голові:** \* [Звернення від громади](https://www.slideshare.net/sergIlliukhin/ss-10869684 "Звернення від громади") \* [Звернення від Діда Мороза](https://www.slideshare.net/sergIlliukhin/ss-10869686 "Звернення від Діда Мороза")

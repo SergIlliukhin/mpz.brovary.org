@@ -26,6 +26,6 @@ coverImage: "wp-content/uploads/2014/04/UKR_A4_print.jpg"
 
 <iframe src="//www.youtube.com/embed/1StuXilmfpc" height="360" width="640" allowfullscreen frameborder="0"></iframe>
 
- Броварських учасників акції Ланцюг єднання запрошують приєднуватись до [міської групи ВКонтакті](http://vk.com/event68836141) та реєструватись на сайті [http://ukraina-razom.org.ua](http://ukraina-razom.org.ua/).
+ Броварських учасників акції Ланцюг єднання запрошують приєднуватись до [міської групи ВКонтакті](https://vk.com/event68836141) та реєструватись на сайті [http://ukraina-razom.org.ua](http://ukraina-razom.org.ua/).
 
 _**Також броварські координатори закликають активно поширювати інформацію про цю ініціативу, щоб зібрати якомога більше людей.**_

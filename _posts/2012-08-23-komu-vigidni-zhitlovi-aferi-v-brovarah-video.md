@@ -24,7 +24,7 @@ coverImage: "wp-content/uploads/2012/08/Kashirina-15-fotoskrin22.jpg"
 
 [http://ntn.ua/ru/video/news/2012/06/21/7296](http://ntn.ua/ru/video/news/2012/06/21/7296)
 
-[http://podrobnosti.ua/podrobnosti/2012/06/19/842781.html](http://podrobnosti.ua/podrobnosti/2012/06/19/842781.html)
+[https://podrobnosti.ua/podrobnosti/2012/06/19/842781.html](https://podrobnosti.ua/podrobnosti/2012/06/19/842781.html)
 
 [http://5.ua/newsline/184/0/92254/](http://5.ua/newsline/184/0/92254/)
 

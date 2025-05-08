@@ -22,4 +22,4 @@ coverImage: "wp-content/uploads/2013/01/Eksursiya-do-militsiyi.png"
 
  
 
-**Джерело: [сайт «ТСН»](http://tsn.ua/video/video-novini/shkolyaram-proveli-ekskursiyu-do-miliceyskogo-viddilku.html?type=2)**
+**Джерело: [сайт «ТСН»](https://tsn.ua/video/video-novini/shkolyaram-proveli-ekskursiyu-do-miliceyskogo-viddilku.html?type=2)**
