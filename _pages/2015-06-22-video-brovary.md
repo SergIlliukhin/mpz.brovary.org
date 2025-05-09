@@ -4,6 +4,8 @@ date: 2015-06-22
 author: 
   username: "pravoZnaty"
   display_name: "Маєш право знати"
+tags: 
+  - "homepage"
 ---
 
 <div class="video-posts-grid">
