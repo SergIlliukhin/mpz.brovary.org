@@ -8,12 +8,19 @@ coverImage: /wp-content/uploads/2025/05/mpz3.png
 
 {{ site.description }}
 
-## Сторінки
-
 {% include tagged-pages.html tag="homepage" %}
 
-## Публікації
+## Головне
+{% include tagged-posts.html tag="vibir-redaktsiyi" %} 
 
-{% for post in site.posts %}
-- [{{ post.title }}]({{ post.url | relative_url }}) - {{ post.date | date: "%d.%m.%Y" }}
-{% endfor %}
+## Місто
+{% include categorized-posts.html category="brovary" %}
+
+## Громада
+{% include categorized-posts.html category="hromada" %}
+
+## Влада
+{% include categorized-posts.html category="vlada" %}
+
+## Блоги
+{% include categorized-posts.html category="kolonka-avtora" %}
