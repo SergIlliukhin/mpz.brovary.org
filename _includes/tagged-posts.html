@@ -1,99 +1,73 @@
-{% assign posts = site.posts | where_exp: "post", "post.tags contains include.tag" %}
+{% assign posts = site.posts | where_exp: "post", "post.tags contains include.tag" | sort: "date" | reverse %}
 
 <div class="tagged-posts">
   {% for post in posts %}
-    <article class="post-card">
-      <a href="{{ post.url | relative_url }}" class="post-link">
-        {% if post.image %}
-          <div class="post-image">
-            <img src="{{ post.image | relative_url }}" alt="{{ post.title | escape }}">
-          </div>
+    <div class="video-post-card">
+        <a href="{{ post.url | relative_url }}">
+        {% if post.coverImage %}
+            <img src="{{ post.coverImage | relative_url}}" alt="{{ post.title | escape }}" class="video-thumbnail">
         {% endif %}
-        <div class="post-content">
-          <h2 class="post-title">{{ post.title | escape }}</h2>
-          <div class="post-meta">
-            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d.%m.%Y" }}</time>
-          </div>
-          {% if post.description %}
-            <p class="post-description">{{ post.description | escape }}</p>
-          {% endif %}
-        </div>
-      </a>
-    </article>
+        <h3>{{ post.title | escape }}</h3>
+        <p class="post-date">{{ post.date | date: "%d.%m.%Y" }}</p>
+        </a>
+    </div>
   {% endfor %}
 </div>
 
 <style>
-.tagged-posts {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-  gap: 2rem;
-  padding: 1rem;
-}
-
-.post-card {
-  background: white;
-  border-radius: 8px;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-  transition: transform 0.2s ease-in-out;
-  overflow: hidden;
-}
-
-.post-card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 4px 8px rgba(0,0,0,0.15);
-}
-
-.post-link {
-  text-decoration: none;
-  color: inherit;
-  display: block;
-}
-
-.post-image {
-  width: 100%;
-  height: 200px;
-  overflow: hidden;
-}
-
-.post-image img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-}
-
-.post-content {
-  padding: 1rem;
-}
-
-.post-title {
-  font-size: 1.2rem;
-  margin: 0.5rem 0;
-  color: #333;
-}
-
-.post-meta {
-  font-size: 0.9rem;
-  color: #666;
-  margin-bottom: 0.5rem;
-}
-
-.post-description {
-  font-size: 0.9rem;
-  color: #666;
-  margin: 0.5rem 0;
-  line-height: 1.4;
-}
-
-@media (max-width: 768px) {
-  .tagged-posts {
-    grid-template-columns: 1fr;
-    gap: 1rem;
-  }
-  
-  .post-card {
-    max-width: 400px;
-    margin: 0 auto;
-  }
-}
-</style> 
+    .video-posts-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 20px;
+      margin: 20px 0;
+    }
+    
+    .video-post-card {
+      border: 1px solid #eee;
+      border-radius: 8px;
+      overflow: hidden;
+      transition: transform 0.2s;
+    }
+    
+    .video-post-card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    }
+    
+    .video-post-card a {
+      text-decoration: none;
+      color: inherit;
+    }
+    
+    .video-thumbnail {
+      width: 100%;
+      height: 200px;
+      object-fit: cover;
+    }
+    
+    .video-post-card h3 {
+      padding: 15px;
+      margin: 0;
+      font-size: 1.1em;
+      line-height: 1.4;
+    }
+    
+    .post-date {
+      padding: 0 15px 15px;
+      margin: 0;
+      color: #666;
+      font-size: 0.9em;
+    }
+    
+    @media (max-width: 768px) {
+      .video-posts-grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
+    
+    @media (max-width: 480px) {
+      .video-posts-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+</style>
