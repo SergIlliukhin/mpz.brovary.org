@@ -1,6 +1,6 @@
 {% assign posts = site.posts | where_exp: "post", "post.tags contains include.tag" | sort: "date" | reverse %}
 
-<div class="tagged-posts">
+<div class="video-posts-grid">
   {% for post in posts %}
     <div class="video-post-card">
         <a href="{{ post.url | relative_url }}">
