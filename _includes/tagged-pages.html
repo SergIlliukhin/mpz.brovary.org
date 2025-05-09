@@ -1,4 +1,7 @@
 {% assign pages = site.pages | where_exp: "page", "page.tags contains include.tag" | sort: "date" | reverse %}
+{% if include.limit %}
+  {% assign pages = pages | slice: 0, include.limit %}
+{% endif %}
 
 <div class="video-pages-grid">
   {% for page in pages %}

@@ -1,4 +1,7 @@
 {% assign posts = site.posts | where_exp: "post", "post.categories contains include.category" | sort: "date" | reverse %}
+{% if include.limit %}
+  {% assign posts = posts | slice: 0, include.limit %}
+{% endif %}
 
 <div class="video-posts-grid">
   {% for post in posts %}
