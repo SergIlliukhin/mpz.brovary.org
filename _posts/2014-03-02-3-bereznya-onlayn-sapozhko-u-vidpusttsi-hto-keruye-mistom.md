@@ -71,7 +71,7 @@ coverImage: "wp-content/uploads/2014/03/sp031.jpg"
 
 Активісти також наголошують, що "протидія або бездіяльність депутатів та посадовців у нинішніх умовах буде розцінюватись як державна зрада та підтримка іноземного військового втручання на територію України”.
 
-Повний текст звернення можна прочитати [за посиланням](pravo-znaty.org.ua/zvernennya-narodnoyi-radi-u-zv-yazku-z-inozemnoyu-interventsiyeyu-na-teritoriyu-ukrayini/).
+Повний текст звернення можна прочитати [за посиланням](mpz.brovary.org/zvernennya-narodnoyi-radi-u-zv-yazku-z-inozemnoyu-interventsiyeyu-na-teritoriyu-ukrayini/).
 
 8:40 [Маєш Право Знати](https://www.facebook.com/pravo.znaty.brovary?hc_location=timeline)**:**
 

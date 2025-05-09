@@ -68,4 +68,4 @@ facebook.com/groups/brovary
 
 **Детальні новини**
 
-pravo-znaty.org.ua
+mpz.brovary.org

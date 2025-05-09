@@ -32,11 +32,11 @@ coverImage: "wp-content/uploads/2014/10/marafon-vybory-2014-4451.jpg"
 
 ![](https://fbexternal-a.akamaihd.net/safe_image.php?d=AQDVaX7MQRVbn90_&w=437&h=229&url=https%3A%2F%2Ffbcdn-sphotos-a-a.akamaihd.net%2Fhphotos-ak-xpa1%2Ft31.0-8%2Fs720x720%2F10662076_675656809209235_6003802116648894576_o.jpg&cfs=1&upscale=1&sx=0&sy=31&sw=720&sh=377)
 
-[Роботу ОВК заблоковано: керівництво комісії не приймає протоколи з дільниць за вимогою Семеняки...](http://l.facebook.com/l.php?u=http%3A%2F%2Fpravo-znaty.org.ua%2Frobotu-ovk-zablokovano-kerivnitstvo-komisiyi-ne-priymaye-protokoli-z-dilnits-za-vimogoyu-semenyaki&h=WAQHCb8ir&s=1)
+[Роботу ОВК заблоковано: керівництво комісії не приймає протоколи з дільниць за вимогою Семеняки...](http://l.facebook.com/l.php?u=http%3A%2F%2Fmpz.brovary.org%2Frobotu-ovk-zablokovano-kerivnitstvo-komisiyi-ne-priymaye-protokoli-z-dilnits-za-vimogoyu-semenyaki&h=WAQHCb8ir&s=1)
 
 Загострюється ситуації в роботі Окружної виборчої комісії №97 у Броварах: керівництво
 
-pravo-znaty.org.ua
+mpz.brovary.org
 
 ![](https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash2/v/t1.0-1/e2/c12.12.155.155/s50x50/553605_292129157562004_1118544668_n.jpg?oh=ac75cfc5decf1e89f45f171802e6295d&oe=54ABBC1E&__gda__=1420555045_00e47f61bf902c3b95d9e155576ee9b0)
 
@@ -48,11 +48,11 @@ pravo-znaty.org.ua
 
 ![](https://fbexternal-a.akamaihd.net/safe_image.php?d=AQAIgGBzFdwBGXES&w=437&h=229&url=https%3A%2F%2Ffbcdn-sphotos-e-a.akamaihd.net%2Fhphotos-ak-xaf1%2Fv%2Ft1.0-9%2F1904167_675604855881097_2361040632622134462_n.jpg%3Foh%3D8ec87430dd9dcdcfdcff0ddfc7c01e14%26oe%3D54E3D1DA%26__gda__%3D1423984292_b28e0b85c44b6bc8caf7347f217ed539&cfs=1&upscale=1&sx=0&sy=0&sw=445&sh=233)
 
-[В окрузі №97 ЦВК опрацювала близько 20% протоколів: лідирують Павло Різаненко та Блок Петра...](http://l.facebook.com/l.php?u=http%3A%2F%2Fpravo-znaty.org.ua%2Fv-okruzi-97-tsvk-opratsyuvalo-blizko-20-byuleteniv-lidiruyut-pavlo-rizanenko-ta-blok-petra-poroshenka&h=vAQHb6sMi&s=1)
+[В окрузі №97 ЦВК опрацювала близько 20% протоколів: лідирують Павло Різаненко та Блок Петра...](http://l.facebook.com/l.php?u=http%3A%2F%2Fmpz.brovary.org%2Fv-okruzi-97-tsvk-opratsyuvalo-blizko-20-byuleteniv-lidiruyut-pavlo-rizanenko-ta-blok-petra-poroshenka&h=vAQHb6sMi&s=1)
 
 Станом на 14:00 Центральна виборча комісія опрацювала приблизно п’яту частину
 
-pravo-znaty.org.ua
+mpz.brovary.org
 
 ![](https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash2/v/t1.0-1/e2/c12.12.155.155/s50x50/553605_292129157562004_1118544668_n.jpg?oh=ac75cfc5decf1e89f45f171802e6295d&oe=54ABBC1E&__gda__=1420555045_00e47f61bf902c3b95d9e155576ee9b0)
 
@@ -124,7 +124,7 @@ pravo-znaty.org.ua
 
 Перша цифра, яка стає офіційно відомою після закриття виборчих дільниць - це явка
 
-pravo-znaty.org.ua
+mpz.brovary.org
 
 [![](https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash2/v/t1.0-1/e2/c12.12.155.155/s50x50/553605_292129157562004_1118544668_n.jpg?oh=ac75cfc5decf1e89f45f171802e6295d&oe=54ABBC1E&__gda__=1420555045_00e47f61bf902c3b95d9e155576ee9b0)](https://www.facebook.com/pravo.znaty.brovary)
 
@@ -166,7 +166,7 @@ ustream.tv
 
 [26 жовтня 21:47](https://www.facebook.com/pravo.znaty.brovary/posts/675296525911930)
 
-На завершення цього непростого дня голосування та напередодні ще більш непростої ночі підрахунку голосів пропонуємо вам подивитись, як голосували Бровари у нашому спеціальному фоторепортажі. За посиланням – ВЕЛИКИЙ ФОТОРЕПОРТАЖ (36 фото)! Цілком вірогідно, що на цих фото ви знайдете своїх друзів, родичів, знайомих або й себе! ДЯКУЄМО ЗА РЕПОСТИ! [https://mpz.brovary.org/yak-golosuvali-brovari-fotoreportazh](http://l.facebook.com/l.php?u=http%3A%2F%2Fpravo-znaty.org.ua%2Fyak-golosuvali-brovari-fotoreportazh&h=2AQFss1wt&enc=AZNj5KZxDLjgDDS0wWZ7kBUgSVxmg3QwevbrYRlv3obvZm9TIUc22Y4anOQPQq_jHLqcCwZxUrGNfcGCxS2lZQGm9I_FrKoUyAnVsj6hKsm2c2bGVqXFPAGIMtIxcsGn_OMf8vmqhi7JydfbLbUy9Ia_dwuYQsm4nhMzGD2xptH8cw&s=1)
+На завершення цього непростого дня голосування та напередодні ще більш непростої ночі підрахунку голосів пропонуємо вам подивитись, як голосували Бровари у нашому спеціальному фоторепортажі. За посиланням – ВЕЛИКИЙ ФОТОРЕПОРТАЖ (36 фото)! Цілком вірогідно, що на цих фото ви знайдете своїх друзів, родичів, знайомих або й себе! ДЯКУЄМО ЗА РЕПОСТИ! [https://mpz.brovary.org/yak-golosuvali-brovari-fotoreportazh](http://l.facebook.com/l.php?u=http%3A%2F%2Fmpz.brovary.org%2Fyak-golosuvali-brovari-fotoreportazh&h=2AQFss1wt&enc=AZNj5KZxDLjgDDS0wWZ7kBUgSVxmg3QwevbrYRlv3obvZm9TIUc22Y4anOQPQq_jHLqcCwZxUrGNfcGCxS2lZQGm9I_FrKoUyAnVsj6hKsm2c2bGVqXFPAGIMtIxcsGn_OMf8vmqhi7JydfbLbUy9Ia_dwuYQsm4nhMzGD2xptH8cw&s=1)
 
 ![](https://fbexternal-a.akamaihd.net/safe_image.php?d=AQBynhbi0EDGXgoF&w=437&h=229&url=https%3A%2F%2Ffbcdn-sphotos-c-a.akamaihd.net%2Fhphotos-ak-xpa1%2Ft31.0-8%2Fs720x720%2F10710230_675296459245270_3519573714865056712_o.jpg&cfs=1&upscale=1&sx=0&sy=0&sw=720&sh=377)
 
@@ -174,7 +174,7 @@ ustream.tv
 
 У Броварах і вцілому по округу нещодавно завершилось голосування на виборах до
 
-pravo-znaty.org.ua
+mpz.brovary.org
 
 ## [![](https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash2/v/t1.0-1/e2/c12.12.155.155/s50x50/553605_292129157562004_1118544668_n.jpg?oh=ac75cfc5decf1e89f45f171802e6295d&oe=54ABBC1E&__gda__=1420555045_00e47f61bf902c3b95d9e155576ee9b0)](https://www.facebook.com/pravo.znaty.brovary)
 
@@ -512,4 +512,4 @@ ustream.tv
 
 [26 жовтня 8:24](https://www.facebook.com/pravo.znaty.brovary/posts/674977935943789)
 
-Команда “Маєш право знати” розпочинає онлайн-марафон, щоб максимально оперативно й повно висвітлювати перебіг подій у Броварах. Протягом дня ми плануємо робити прямі включення з “гарячих точок” виборчих перегонів – кожні дві години, починаючи з 9:00. Також у нашій редакції працюватиме “гаряча інформаційна лінія”, на яку можна повідомляти про надзвичайні ситуації, пов’язані з виборами у Броварах – (068) 686-10-95 або пишіть на наш е-мейл info@pravo-znaty.org.ua.
+Команда “Маєш право знати” розпочинає онлайн-марафон, щоб максимально оперативно й повно висвітлювати перебіг подій у Броварах. Протягом дня ми плануємо робити прямі включення з “гарячих точок” виборчих перегонів – кожні дві години, починаючи з 9:00. Також у нашій редакції працюватиме “гаряча інформаційна лінія”, на яку можна повідомляти про надзвичайні ситуації, пов’язані з виборами у Броварах – (068) 686-10-95 або пишіть на наш е-мейл info@mpz.brovary.org.

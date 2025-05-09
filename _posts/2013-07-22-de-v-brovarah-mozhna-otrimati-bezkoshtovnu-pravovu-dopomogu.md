@@ -25,7 +25,7 @@ coverImage: "wp-content/uploads/2013/07/Pravova-priymalnya-upravlinnya-yustitsiy
 
 [![Правова приймальня відділ звернень громадян](https://mpz.brovary.org/wp-content/uploads/2013/07/Pravova-priymalnya-viddil-zvernen-gromadyan.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/07/Pravova-priymalnya-viddil-zvernen-gromadyan.jpg)
 
-Відповідно до п. 1.3 свого [Положення](http://rada.pravo-znaty.org.ua/index.php%5Eoption=com_content&view=article&id=4779_-11102011-508-2-27042007-204&catid=2&Itemid=3.htm) правова громадська приймальня відділу роботи зі зверненнями громадян виконкому надає такі види правової допомоги:
+Відповідно до п. 1.3 свого [Положення](http://rada.mpz.brovary.org/index.php%5Eoption=com_content&view=article&id=4779_-11102011-508-2-27042007-204&catid=2&Itemid=3.htm) правова громадська приймальня відділу роботи зі зверненнями громадян виконкому надає такі види правової допомоги:
 
 - _надання правової інформації;_
 - _надання консультацій та роз’яснень з правових питань;_

@@ -34,6 +34,6 @@ tags:
 
 <iframe src="https://www.youtube.com/embed/JmSx193ccjc" frameborder="0" width="420" height="315"></iframe>
 
-Просимо усіх, хто впізнав цих чоловіків або має про них будь-яку інформацію, повідомити на info@pravo-znaty.org.ua . Наперед вдячний! :)
+Просимо усіх, хто впізнав цих чоловіків або має про них будь-яку інформацію, повідомити на info@mpz.brovary.org . Наперед вдячний! :)
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/07/RZSHK1.jpg "Розшук злодія")](https://mpz.brovary.org/wp-content/uploads/2012/07/RZSHK1.jpg)
