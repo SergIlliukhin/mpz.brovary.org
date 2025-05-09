@@ -21,13 +21,13 @@ defaults:
       type: "pages"
     values:
       layout: "page"
-      coverImage: "/wp-content/uploads/2015/06/MPZ_logo.png"
+      coverImage: "/wp-content/uploads/2025/05/mpz3.png"
   - scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
-      coverImage: "/wp-content/uploads/2015/06/MPZ_logo.png"
+      coverImage: "/wp-content/uploads/2025/05/mpz3.png"
       permalink: /:title/
   - scope:
       path: "404.md"
