@@ -2,7 +2,7 @@
 title: "Читачі \"МПЗ\" незадоволені реагуванням влади на снігопад та протестуватимуть проти свавілля мажорів"
 date: 2013-04-03
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "music-hall"

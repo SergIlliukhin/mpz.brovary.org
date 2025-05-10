@@ -2,7 +2,7 @@
 title: "Броварщина на ІІ місці за кількістю збройних нападів на котеджі"
 date: 2016-06-14
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

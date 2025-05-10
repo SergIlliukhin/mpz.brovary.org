@@ -2,7 +2,7 @@
 title: "В День Чорнобиля Бровари оголосили «Зоною брехні»"
 date: 2012-04-27
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "aktsiyi-zahodi"

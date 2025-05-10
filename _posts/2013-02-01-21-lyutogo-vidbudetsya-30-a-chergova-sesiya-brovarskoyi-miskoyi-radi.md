@@ -2,7 +2,7 @@
 title: "21 лютого відбудеться 30-а чергова сесія Броварської міської ради"
 date: 2013-02-01
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

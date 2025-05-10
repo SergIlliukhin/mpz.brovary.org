@@ -2,7 +2,7 @@
 title: "Броварський музей шукає друзів та помічників"
 date: 2013-01-28
 author: 
-  username: "Lisova"
+  username: "lisova"
   display_name: "Лідія Стрельченко"
 categories: 
   - "kolonka-avtora"

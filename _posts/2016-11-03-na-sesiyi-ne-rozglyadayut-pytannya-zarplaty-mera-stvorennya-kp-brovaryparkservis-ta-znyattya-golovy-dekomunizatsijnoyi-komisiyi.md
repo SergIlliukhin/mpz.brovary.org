@@ -2,7 +2,7 @@
 title: "На сесії не розглядають питання зарплати мера та зняття голови \"декомунізаційної\" комісії"
 date: 2016-11-03
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

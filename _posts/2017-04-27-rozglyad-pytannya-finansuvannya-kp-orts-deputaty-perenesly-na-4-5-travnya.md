@@ -2,7 +2,7 @@
 title: "Розгляд питання фінансування КП \"ОРЦ\" депутати перенесли на 4 і 5 травня"
 date: 2017-04-27
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

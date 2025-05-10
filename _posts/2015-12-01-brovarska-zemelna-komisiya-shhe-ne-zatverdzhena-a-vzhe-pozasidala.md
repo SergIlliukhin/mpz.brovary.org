@@ -2,7 +2,7 @@
 title: "Броварська земельна комісія - ще не затверджена, а вже позасідала"
 date: 2015-12-01
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

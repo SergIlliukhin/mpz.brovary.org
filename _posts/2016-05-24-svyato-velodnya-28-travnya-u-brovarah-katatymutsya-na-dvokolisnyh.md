@@ -2,7 +2,7 @@
 title: "Свято Велодня: 28 травня у Броварах кататимуться на двоколісних"
 date: 2016-05-24
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

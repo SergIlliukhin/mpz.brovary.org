@@ -2,7 +2,7 @@
 title: "\"Свобода\" висуває в мери Шевчука та 37 кандидатів у депутати - HromadskeBro.tv"
 date: 2015-09-30
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

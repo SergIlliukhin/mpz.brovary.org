@@ -2,7 +2,7 @@
 title: "Батьки броварських школярів просять навчити їхніх дітей плавати"
 date: 2013-06-01
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "baseyn"

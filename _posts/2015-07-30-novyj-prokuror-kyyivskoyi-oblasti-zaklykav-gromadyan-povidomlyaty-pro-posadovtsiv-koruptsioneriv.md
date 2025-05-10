@@ -2,7 +2,7 @@
 title: "Новий прокурор Київської області закликав громадян викривати посадовців-корупціонерів"
 date: 2015-07-30
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

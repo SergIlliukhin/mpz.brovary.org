@@ -2,7 +2,7 @@
 title: "Премії у галузі освіти у Броварах отримали... медики!"
 date: 2012-10-04
 author: 
-  username: "SergIlliukhin"
+  username: "sergilliukhin"
   display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"

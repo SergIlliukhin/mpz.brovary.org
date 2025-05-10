@@ -2,7 +2,7 @@
 title: "АНОНС: У броварському пабі презентують «театр пригноблених»"
 date: 2016-01-13
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

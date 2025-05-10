@@ -2,7 +2,7 @@
 title: "Броварський суд потурає обмеженню права на мирні зібрання?"
 date: 2013-01-24
 author: 
-  username: "SergIlliukhin"
+  username: "sergilliukhin"
   display_name: "Сергій Іллюхін"
 tags: 
   - "illyuhin"

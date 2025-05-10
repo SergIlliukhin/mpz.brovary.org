@@ -2,7 +2,7 @@
 title: "АНОНС: Ігри, конкурси та майстер-класи 9 квітня на святкуванні річниці «БравоKids»"
 date: 2017-04-05
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

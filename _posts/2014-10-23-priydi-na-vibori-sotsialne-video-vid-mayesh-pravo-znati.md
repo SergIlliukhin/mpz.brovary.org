@@ -2,7 +2,7 @@
 title: "Прийди на вибори! Соціальне відео від «Маєш право знати»"
 date: 2014-10-23
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

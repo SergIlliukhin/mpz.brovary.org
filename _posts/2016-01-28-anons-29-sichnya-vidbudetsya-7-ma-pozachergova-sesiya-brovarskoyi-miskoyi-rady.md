@@ -2,7 +2,7 @@
 title: "АНОНС: 29 січня відбудеться 7-ма позачергова сесія Броварської міської ради"
 date: 2016-01-28
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

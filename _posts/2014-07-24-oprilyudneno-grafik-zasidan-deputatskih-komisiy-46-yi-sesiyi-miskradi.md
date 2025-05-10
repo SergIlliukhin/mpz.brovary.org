@@ -2,7 +2,7 @@
 title: "Оприлюднено графік засідань депутатських комісій 46-ї сесії Броварської міськради"
 date: 2014-07-24
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

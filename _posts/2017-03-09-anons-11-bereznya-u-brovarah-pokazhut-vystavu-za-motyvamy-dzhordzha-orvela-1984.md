@@ -2,7 +2,7 @@
 title: "АНОНС: 11 березня у Броварах покажуть виставу за мотивами Джорджа Орвела «1984»"
 date: 2017-03-09
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

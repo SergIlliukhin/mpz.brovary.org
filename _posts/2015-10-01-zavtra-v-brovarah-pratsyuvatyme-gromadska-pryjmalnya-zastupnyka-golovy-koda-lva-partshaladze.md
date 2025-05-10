@@ -2,7 +2,7 @@
 title: "Завтра в Броварах працюватиме громадська приймальня заступника голови КОДА Льва Парцхаладзе"
 date: 2015-10-01
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

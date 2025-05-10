@@ -2,7 +2,7 @@
 title: "Броварський центр зайнятості оприлюднив перелік актуальних вакансій на 1 грудня"
 date: 2016-12-01
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

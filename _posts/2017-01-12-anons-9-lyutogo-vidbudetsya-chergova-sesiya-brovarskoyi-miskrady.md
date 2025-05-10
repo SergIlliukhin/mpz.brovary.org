@@ -2,7 +2,7 @@
 title: "АНОНС:  9 лютого відбудеться чергова сесія Броварської міськради"
 date: 2017-01-12
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

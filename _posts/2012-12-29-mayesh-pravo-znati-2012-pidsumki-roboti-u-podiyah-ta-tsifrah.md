@@ -2,7 +2,7 @@
 title: "«Маєш право знати»-2012: підсумки роботи у подіях та цифрах"
 date: 2012-12-29
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

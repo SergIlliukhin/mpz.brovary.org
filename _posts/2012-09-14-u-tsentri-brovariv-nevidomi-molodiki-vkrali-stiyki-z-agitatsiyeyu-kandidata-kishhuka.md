@@ -2,7 +2,7 @@
 title: "У центрі Броварів невідомі молодики вкрали стійки з агітацією кандидата Кищука – ВІДЕО"
 date: 2012-09-14
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "agitatsiya"

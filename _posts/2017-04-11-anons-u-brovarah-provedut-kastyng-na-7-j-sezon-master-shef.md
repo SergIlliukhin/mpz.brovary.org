@@ -2,7 +2,7 @@
 title: "АНОНС: У Броварах проведуть кастинг на 7-й сезон МАСТЕР ШЕФ"
 date: 2017-04-11
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

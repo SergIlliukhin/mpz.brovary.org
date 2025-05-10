@@ -2,7 +2,7 @@
 title: "Елітні маєтки у Броварах, Конча-Заспі та квартира в Києві: що приховує екс-міністр оборони Гелетей - сюжет програми \"Гроші\""
 date: 2015-05-29
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

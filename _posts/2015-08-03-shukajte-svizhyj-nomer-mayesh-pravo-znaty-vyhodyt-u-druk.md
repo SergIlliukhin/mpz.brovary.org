@@ -2,7 +2,7 @@
 title: "Шукайте свіжий номер, або \"Маєш право знати\" виходить у друк"
 date: 2015-08-03
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 categories: 
   - "kolonka-avtora"

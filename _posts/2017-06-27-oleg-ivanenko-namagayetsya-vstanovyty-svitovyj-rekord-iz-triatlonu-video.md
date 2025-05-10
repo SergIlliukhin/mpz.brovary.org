@@ -2,7 +2,7 @@
 title: "Олег Іваненко намагається встановити світовий рекорд із тріатлону – ВІДЕО"
 date: 2017-06-27
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

@@ -2,7 +2,7 @@
 title: "Нацполіція Київщини оголосила конкурс на посади слідчих, оперів та у КОРД"
 date: 2017-01-16
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

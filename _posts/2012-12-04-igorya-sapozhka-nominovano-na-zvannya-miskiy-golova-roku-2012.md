@@ -2,7 +2,7 @@
 title: "Ігоря Сапожка номіновано на звання \"Міський голова року - 2012\""
 date: 2012-12-04
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

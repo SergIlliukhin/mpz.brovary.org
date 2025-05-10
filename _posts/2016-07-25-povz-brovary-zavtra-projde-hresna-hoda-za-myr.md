@@ -2,7 +2,7 @@
 title: "Повз Бровари завтра пройде \"хресна хода за мир\""
 date: 2016-07-25
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

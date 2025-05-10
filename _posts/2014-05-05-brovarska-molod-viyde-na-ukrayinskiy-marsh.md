@@ -2,7 +2,7 @@
 title: "8 травня броварська молодь вийде на Український Марш"
 date: 2014-05-05
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

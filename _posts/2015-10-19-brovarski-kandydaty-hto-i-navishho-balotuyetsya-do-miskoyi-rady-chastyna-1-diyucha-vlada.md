@@ -2,7 +2,7 @@
 title: "Броварські кандидати: хто і навіщо балотується до міської ради. Частина 1. Діюча влада"
 date: 2015-10-19
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "rozsliduvannya"

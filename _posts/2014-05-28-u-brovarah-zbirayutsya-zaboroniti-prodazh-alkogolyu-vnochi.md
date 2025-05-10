@@ -2,7 +2,7 @@
 title: "Броварська влада планує заборонити продаж алкоголю у нічний час"
 date: 2014-05-28
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"

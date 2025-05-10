@@ -2,7 +2,7 @@
 title: "\"Тривожні кнопки\" ДСО у Броварах: адреси розміщення"
 date: 2015-10-05
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

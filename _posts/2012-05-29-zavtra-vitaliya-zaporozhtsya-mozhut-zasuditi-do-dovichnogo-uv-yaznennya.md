@@ -2,7 +2,7 @@
 title: "Завтра Віталія Запорожця можуть засудити до довічного ув'язнення"
 date: 2012-05-29
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

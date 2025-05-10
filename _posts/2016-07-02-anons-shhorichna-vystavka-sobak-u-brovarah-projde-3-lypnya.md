@@ -2,7 +2,7 @@
 title: "АНОНС: Щорічна виставка собак у Броварах пройде 3 липня"
 date: 2016-07-02
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

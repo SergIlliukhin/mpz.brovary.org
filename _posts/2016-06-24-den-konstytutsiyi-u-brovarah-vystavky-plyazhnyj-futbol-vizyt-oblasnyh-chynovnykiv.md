@@ -2,7 +2,7 @@
 title: "День Конституції у Броварах: виставки, пляжний футбол і візит обласних чиновників"
 date: 2016-06-24
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

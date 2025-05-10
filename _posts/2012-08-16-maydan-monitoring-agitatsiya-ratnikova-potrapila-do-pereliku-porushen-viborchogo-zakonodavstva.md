@@ -2,7 +2,7 @@
 title: "«Майдан Моніторинг»: агітація Ратнікова потрапила до переліку порушень виборчого законодавства"
 date: 2012-08-16
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "agitatsiya"

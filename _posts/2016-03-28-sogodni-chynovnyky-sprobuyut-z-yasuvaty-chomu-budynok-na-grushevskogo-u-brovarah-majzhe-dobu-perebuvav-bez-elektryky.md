@@ -2,7 +2,7 @@
 title: "Сьогодні чиновники спробують з’ясувати, чому будинок на Грушевського у Броварах майже добу перебував без електрики"
 date: 2016-03-28
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

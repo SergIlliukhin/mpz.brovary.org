@@ -2,7 +2,7 @@
 title: "Міська влада застерігає від придбання незаконно збудованого житла у промзоні Броварів"
 date: 2013-07-23
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "brovary"

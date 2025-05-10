@@ -2,7 +2,7 @@
 title: "Депутатська комісія рекомендувала Броварській міській раді підтримати проект рішення про заборону відеозйомки"
 date: 2011-11-19
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brusenska"

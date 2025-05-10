@@ -2,7 +2,7 @@
 title: "У Броварах з'явилися нові вулиці"
 date: 2012-03-13
 author: 
-  username: "SergIlliukhin"
+  username: "sergilliukhin"
   display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"

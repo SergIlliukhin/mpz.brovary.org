@@ -2,7 +2,7 @@
 title: "У середу до Броварів прибуде новопризначений очільник Київщини Володимир Шандра"
 date: 2014-03-10
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

@@ -2,7 +2,7 @@
 title: "На броварські лікарні протягом трьох років планують витратити майже 27 млн грн бюджетних коштів"
 date: 2015-09-30
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

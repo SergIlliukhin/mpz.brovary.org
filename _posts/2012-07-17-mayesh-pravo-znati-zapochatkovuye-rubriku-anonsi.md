@@ -2,7 +2,7 @@
 title: "«Маєш право знати» започатковує рубрику «Анонси» та публікує перші повідомлення"
 date: 2012-07-17
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "announce-2"

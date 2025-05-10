@@ -2,7 +2,7 @@
 title: "У Броварах спіймали причетних до розкрадання державної землі на понад 50 млн. грн. – НАБУ"
 date: 2016-05-26
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

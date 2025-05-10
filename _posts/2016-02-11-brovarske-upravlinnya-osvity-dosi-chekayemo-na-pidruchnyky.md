@@ -2,7 +2,7 @@
 title: "Броварське управління освіти: \"Досі чекаємо на підручники\""
 date: 2016-02-11
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

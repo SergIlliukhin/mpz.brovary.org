@@ -2,7 +2,7 @@
 title: "У Броварах обмежать рух великовагового вантажного транспорту – виконком"
 date: 2016-07-15
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

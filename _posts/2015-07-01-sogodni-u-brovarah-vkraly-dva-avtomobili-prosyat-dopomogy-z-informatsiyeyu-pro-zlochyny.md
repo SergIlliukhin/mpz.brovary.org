@@ -2,7 +2,7 @@
 title: "Сьогодні у Броварах вкрали два автомобілі, просять допомоги з інформацією"
 date: 2015-07-01
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

@@ -2,7 +2,7 @@
 title: "Міліція спіймала молодиків, які крали з автівок у Броварах"
 date: 2015-03-27
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovarskiy-mv"

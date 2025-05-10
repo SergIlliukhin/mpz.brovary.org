@@ -2,7 +2,7 @@
 title: "АНОНС: 23 квітня презентуватимуть збірку «Дорога додому» Марії Карп’юк"
 date: 2017-04-19
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

@@ -2,7 +2,7 @@
 title: "Голова Броварської райдержадміністрації Володимир Сінько подав у відставку"
 date: 2016-12-12
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

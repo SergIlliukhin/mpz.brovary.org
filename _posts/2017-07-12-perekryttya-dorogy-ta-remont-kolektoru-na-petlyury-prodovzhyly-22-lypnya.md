@@ -2,7 +2,7 @@
 title: "Перекриття дороги та ремонт колектору на Петлюри продовжили до 22 липня"
 date: 2017-07-12
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

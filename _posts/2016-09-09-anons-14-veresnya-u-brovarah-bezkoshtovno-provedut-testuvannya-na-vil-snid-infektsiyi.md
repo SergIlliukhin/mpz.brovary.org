@@ -2,7 +2,7 @@
 title: "АНОНС: 14 вересня у Броварах безкоштовно проведуть тестування на ВІЛ/СНІД інфекції"
 date: 2016-09-09
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

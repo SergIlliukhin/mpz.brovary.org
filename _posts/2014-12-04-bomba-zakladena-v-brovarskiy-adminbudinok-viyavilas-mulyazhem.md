@@ -2,7 +2,7 @@
 title: "«Бомба», закладена в броварський адмінбудинок, виявилась муляжем"
 date: 2014-12-04
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "bomba"

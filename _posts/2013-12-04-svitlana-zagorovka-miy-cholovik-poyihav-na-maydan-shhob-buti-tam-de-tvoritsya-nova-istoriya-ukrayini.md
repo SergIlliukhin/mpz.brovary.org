@@ -2,7 +2,7 @@
 title: "Світлана Загоровка: \"Мій чоловік поїхав на Майдан, щоб бути там, де твориться нова історія України\""
 date: 2013-12-04
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "administratsiya-prezidenta"

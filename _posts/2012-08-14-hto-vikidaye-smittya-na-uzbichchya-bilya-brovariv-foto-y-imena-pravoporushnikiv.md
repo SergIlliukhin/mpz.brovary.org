@@ -2,7 +2,7 @@
 title: "Хто викидає сміття на узбіччя біля Броварів? Фото й імена правопорушників"
 date: 2012-08-14
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "irina-fedoriv"

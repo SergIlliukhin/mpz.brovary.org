@@ -2,7 +2,7 @@
 title: "Слідчі вважають, що вибух у кіоску стався через \"порушення вимог законодавства про охорону праці\""
 date: 2015-07-08
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

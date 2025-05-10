@@ -2,7 +2,7 @@
 title: "Виставковий центр на Майдані Свободи: що за стінами головного довгобуду Броварів? ФОТО"
 date: 2016-03-09
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

@@ -2,7 +2,7 @@
 title: "ТСН: У Броварах майже 100 га землі продали \"приватникам\" під носом у депутатів"
 date: 2013-10-15
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

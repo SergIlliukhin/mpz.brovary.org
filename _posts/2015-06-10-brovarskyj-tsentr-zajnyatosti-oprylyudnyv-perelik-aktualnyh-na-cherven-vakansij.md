@@ -2,7 +2,7 @@
 title: "Броварський центр зайнятості оприлюднив перелік актуальних у червні вакансій"
 date: 2015-06-10
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

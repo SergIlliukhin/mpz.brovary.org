@@ -2,7 +2,7 @@
 title: "На Розвилці спалахнула і згоріла вщент 411 маршрутка, обійшлося без жертв – ФОТО"
 date: 2017-06-05
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

@@ -2,7 +2,7 @@
 title: "\"Броварські месники\" замалювали комуністичну символіку в місті - ФОТО"
 date: 2016-06-28
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

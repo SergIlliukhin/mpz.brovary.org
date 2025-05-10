@@ -2,7 +2,7 @@
 title: "Неочікуваний поворот у справі: нападнику на журналіста Качора загрожує майже два роки колонії"
 date: 2013-11-21
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "blinova"

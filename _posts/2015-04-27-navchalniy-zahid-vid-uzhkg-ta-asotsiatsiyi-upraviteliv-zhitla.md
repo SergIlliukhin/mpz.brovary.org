@@ -2,7 +2,7 @@
 title: "Броварським ОСББ розкажуть, як компенсувати витрати на утеплення будинків"
 date: 2015-04-27
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

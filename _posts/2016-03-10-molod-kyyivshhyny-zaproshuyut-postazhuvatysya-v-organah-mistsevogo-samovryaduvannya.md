@@ -2,7 +2,7 @@
 title: "Молодь Київщини запрошують постажуватися в органах місцевого самоврядування"
 date: 2016-03-10
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

@@ -2,7 +2,7 @@
 title: "Протягом двох тижнів у Броварах планово вимикатимуть світло"
 date: 2016-07-05
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

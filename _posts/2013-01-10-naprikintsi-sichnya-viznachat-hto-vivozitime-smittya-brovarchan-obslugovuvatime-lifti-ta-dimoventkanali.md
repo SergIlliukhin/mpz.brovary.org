@@ -2,7 +2,7 @@
 title: "Наприкінці січня буде визначено, хто вивозитиме сміття броварчан, обслуговуватиме ліфти та димовентканали"
 date: 2013-01-10
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

@@ -2,7 +2,7 @@
 title: "У серпні 4 броварські вулиці відмикатимуть від світла"
 date: 2016-07-27
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

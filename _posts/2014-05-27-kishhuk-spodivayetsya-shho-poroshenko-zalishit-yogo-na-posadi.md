@@ -2,7 +2,7 @@
 title: "Кищук сподівається, що Порошенко залишить його на посаді"
 date: 2014-05-27
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"

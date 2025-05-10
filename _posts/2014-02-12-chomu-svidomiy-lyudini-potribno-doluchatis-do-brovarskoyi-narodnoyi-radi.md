@@ -2,7 +2,7 @@
 title: "Чому свідомій людині потрібно долучатись до Броварської Народної Ради?"
 date: 2014-02-12
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 categories: 
   - "kolonka-avtora"

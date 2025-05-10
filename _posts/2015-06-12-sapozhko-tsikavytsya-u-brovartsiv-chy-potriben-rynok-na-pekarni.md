@@ -2,7 +2,7 @@
 title: "Міський голова запитує у фейсбуці, чи потрібне розширення ринку на Пекарні"
 date: 2015-06-12
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

@@ -2,7 +2,7 @@
 title: "Як отримати житлову субсидію у Броварах: зразки документів та порядок їх заповнення"
 date: 2015-04-02
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "deklaratsiya-pro-dohodi-i-vitrati"

@@ -2,7 +2,7 @@
 title: "АНОНС: Сьогодні відбудеться чергове засідання Громадської ради при броварській міліції"
 date: 2015-08-14
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

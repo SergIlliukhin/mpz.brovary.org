@@ -2,7 +2,7 @@
 title: "Сьогодні на Короленка демонтували незаконні гаражі, - ФОТО, ВІДЕО"
 date: 2016-04-12
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

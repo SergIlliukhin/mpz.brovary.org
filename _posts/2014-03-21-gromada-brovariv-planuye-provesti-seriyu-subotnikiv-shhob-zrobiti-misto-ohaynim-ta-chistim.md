@@ -2,7 +2,7 @@
 title: "Громада Броварів планує провести серію суботників, щоб зробити місто охайним та чистим"
 date: 2014-03-21
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "brovary"

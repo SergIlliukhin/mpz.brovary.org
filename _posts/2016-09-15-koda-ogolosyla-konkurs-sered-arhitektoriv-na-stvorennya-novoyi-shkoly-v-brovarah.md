@@ -2,7 +2,7 @@
 title: "КОДА оголосила конкурс серед архітекторів на створення нової школи в Броварах"
 date: 2016-09-15
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

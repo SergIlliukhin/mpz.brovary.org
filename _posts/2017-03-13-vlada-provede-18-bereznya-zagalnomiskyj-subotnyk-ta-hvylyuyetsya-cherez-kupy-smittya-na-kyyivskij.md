@@ -2,7 +2,7 @@
 title: "Влада проведе 18 березня загальноміський суботник та хвилюється через купи сміття на Київській"
 date: 2017-03-13
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

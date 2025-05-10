@@ -2,7 +2,7 @@
 title: "Броварська поліція затримала шахраїв, що залякуванням виманювали гроші - ФОТО"
 date: 2017-07-14
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

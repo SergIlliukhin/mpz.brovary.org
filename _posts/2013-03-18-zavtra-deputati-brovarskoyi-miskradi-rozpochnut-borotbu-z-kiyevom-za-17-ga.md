@@ -2,7 +2,7 @@
 title: "Завтра депутати Броварської міськради розпочнуть боротьбу з Києвом за 17 га"
 date: 2013-03-18
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

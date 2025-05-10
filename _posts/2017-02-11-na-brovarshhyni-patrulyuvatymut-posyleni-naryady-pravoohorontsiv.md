@@ -2,7 +2,7 @@
 title: "На Броварщині патрулюватимуть посилені наряди правоохоронців"
 date: 2017-02-11
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

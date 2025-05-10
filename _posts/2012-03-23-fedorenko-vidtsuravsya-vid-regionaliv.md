@@ -2,7 +2,7 @@
 title: "Федоренко відцурався від регіоналів?"
 date: 2012-03-23
 author: 
-  username: "SergIlliukhin"
+  username: "sergilliukhin"
   display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"

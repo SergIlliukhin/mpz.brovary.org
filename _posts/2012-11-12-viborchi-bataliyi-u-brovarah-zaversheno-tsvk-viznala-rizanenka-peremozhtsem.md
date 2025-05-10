@@ -2,7 +2,7 @@
 title: "Виборчі баталії у Броварах завершено: ЦВК визнала Різаненка переможцем"
 date: 2012-11-12
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"

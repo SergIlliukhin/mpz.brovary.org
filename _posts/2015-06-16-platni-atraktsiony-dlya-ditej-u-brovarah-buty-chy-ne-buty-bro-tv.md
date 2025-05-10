@@ -2,7 +2,7 @@
 title: "Платні атракціони для дітей у Броварах: бути чи не бути? - HromadskeBro.tv"
 date: 2015-06-16
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

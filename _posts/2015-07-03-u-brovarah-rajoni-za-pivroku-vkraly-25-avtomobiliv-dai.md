@@ -2,7 +2,7 @@
 title: "У Броварах і районі за півроку вкрали 25 автомобілів, - ДАІ"
 date: 2015-07-03
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

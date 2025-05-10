@@ -2,7 +2,7 @@
 title: "На День міста велосипедисти підкорюватимуть «Броварські дюни»"
 date: 2014-09-19
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

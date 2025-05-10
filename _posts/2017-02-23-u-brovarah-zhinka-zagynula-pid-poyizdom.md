@@ -2,7 +2,7 @@
 title: "У Броварах жінка загинула під поїздом"
 date: 2017-02-23
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

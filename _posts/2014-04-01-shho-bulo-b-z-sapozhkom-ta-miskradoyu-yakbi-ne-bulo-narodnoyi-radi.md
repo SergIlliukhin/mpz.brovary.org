@@ -2,7 +2,7 @@
 title: "Що було б з Сапожком та міськрадою, якби не було Народної Ради?"
 date: 2014-04-01
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 categories: 
   - "kolonka-avtora"

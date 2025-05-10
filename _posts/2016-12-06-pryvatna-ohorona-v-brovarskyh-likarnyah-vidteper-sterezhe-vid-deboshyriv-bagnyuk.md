@@ -2,7 +2,7 @@
 title: "Приватна охорона в броварських лікарнях відтепер стереже від дебоширів"
 date: 2016-12-06
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

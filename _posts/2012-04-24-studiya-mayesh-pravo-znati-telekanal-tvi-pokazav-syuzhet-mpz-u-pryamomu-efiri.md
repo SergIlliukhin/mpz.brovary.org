@@ -2,7 +2,7 @@
 title: "«Студія «Маєш право знати»: телеканал ТВі в прямому ефірі показав сюжет «МПЗ»"
 date: 2012-04-24
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

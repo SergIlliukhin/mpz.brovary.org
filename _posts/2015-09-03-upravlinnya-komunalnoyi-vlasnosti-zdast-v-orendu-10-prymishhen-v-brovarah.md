@@ -2,7 +2,7 @@
 title: "Управління комунальної власності здасть в оренду 10 приміщень в Броварах"
 date: 2015-09-03
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

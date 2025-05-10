@@ -2,7 +2,7 @@
 title: "Перед громадським обговоренням по Генплану активісти вимагають проведення громадських слухань"
 date: 2015-04-01
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "1-kvitnya"

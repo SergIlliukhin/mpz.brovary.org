@@ -2,7 +2,7 @@
 title: "У мери Броварів балотуються 5 самовисуванців та 5 кандидатів від політичних партій, - ТВК"
 date: 2015-10-01
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

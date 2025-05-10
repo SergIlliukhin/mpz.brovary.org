@@ -2,7 +2,7 @@
 title: "Броварська прокуратура затягує розслідування справи про перешкоджання журналістам під час візиту Азарова (оновлено)"
 date: 2012-11-14
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "inter"

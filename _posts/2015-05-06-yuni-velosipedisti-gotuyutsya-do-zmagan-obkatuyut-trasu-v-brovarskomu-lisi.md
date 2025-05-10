@@ -2,7 +2,7 @@
 title: "Юні велосипедисти готуються до змагань - обкатують крос-трасу в броварському лісі"
 date: 2015-05-06
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "hromada"

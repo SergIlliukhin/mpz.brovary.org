@@ -2,7 +2,7 @@
 title: "\"Українська правда\": До приїзду Азарова броварських школярів одягнули в рекламу ПР"
 date: 2012-10-23
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

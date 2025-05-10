@@ -2,7 +2,7 @@
 title: "У складі броварської окружної виборчої комісії шість замін та новий голова"
 date: 2012-09-04
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"

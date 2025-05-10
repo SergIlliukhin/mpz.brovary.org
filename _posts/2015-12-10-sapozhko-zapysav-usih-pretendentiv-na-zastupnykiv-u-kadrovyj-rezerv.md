@@ -2,7 +2,7 @@
 title: "Сапожко записав претендентів на заступників у кадровий резерв"
 date: 2015-12-10
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

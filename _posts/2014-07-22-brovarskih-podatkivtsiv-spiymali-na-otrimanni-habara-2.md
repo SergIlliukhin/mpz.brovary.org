@@ -2,7 +2,7 @@
 title: "Броварських податківців спіймали на вимаганні хабаря?"
 date: 2014-07-22
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovarska-odpi"

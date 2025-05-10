@@ -2,7 +2,7 @@
 title: "Жоден з броварських депутатів-«тушок» не прийшов на чергову сесію міськради"
 date: 2016-04-21
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

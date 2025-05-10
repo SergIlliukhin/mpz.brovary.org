@@ -2,7 +2,7 @@
 title: "У якому стані шляхопровід на Торгмаші та як просувається його ремонт – ФОТОРЕПОРТАЖ"
 date: 2016-08-30
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

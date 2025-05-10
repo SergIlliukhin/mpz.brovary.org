@@ -2,7 +2,7 @@
 title: "Ми запускаємо спецпроект \"Парламентські вибори 2014\" у Броварах"
 date: 2014-09-10
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 categories: 
   - "kolonka-avtora"

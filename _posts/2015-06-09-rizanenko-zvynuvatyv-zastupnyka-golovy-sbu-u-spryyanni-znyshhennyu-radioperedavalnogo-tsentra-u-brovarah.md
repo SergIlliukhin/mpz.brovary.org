@@ -2,7 +2,7 @@
 title: "Різаненко звинуватив заступника голови СБУ у сприянні знищенню \"Радіопередавального центра\" у Броварах"
 date: 2015-06-09
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

@@ -2,7 +2,7 @@
 title: "На звітування броварської Партії Регіонів забули запросити... виборців!"
 date: 2011-12-25
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "andriyevskyj"

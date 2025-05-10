@@ -2,7 +2,7 @@
 title: "Уряд профінансує 19 соціальних об’єктів на Київщині: школи та садочки. Бровари – поза увагою."
 date: 2016-03-21
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

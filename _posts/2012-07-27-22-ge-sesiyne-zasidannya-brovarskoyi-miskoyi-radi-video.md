@@ -2,7 +2,7 @@
 title: "22-ге сесійне засідання Броварської міської ради – ВІДЕО"
 date: 2012-07-27
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

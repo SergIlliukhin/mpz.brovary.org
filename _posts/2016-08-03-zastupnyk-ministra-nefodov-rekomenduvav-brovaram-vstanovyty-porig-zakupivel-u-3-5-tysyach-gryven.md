@@ -2,7 +2,7 @@
 title: "Заступник міністра Нефьодов рекомендував Броварам встановити поріг закупівель у 3-5 тисяч гривень - ВІДЕО"
 date: 2016-08-03
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

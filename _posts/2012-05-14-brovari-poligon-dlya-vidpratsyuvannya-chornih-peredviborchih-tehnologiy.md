@@ -2,7 +2,7 @@
 title: "Бровари – полігон для відпрацювання \"чорних\" передвиборчих технологій?"
 date: 2012-05-14
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

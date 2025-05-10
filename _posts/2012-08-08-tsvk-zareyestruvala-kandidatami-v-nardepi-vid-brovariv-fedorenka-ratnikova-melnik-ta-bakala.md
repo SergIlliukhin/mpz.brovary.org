@@ -2,7 +2,7 @@
 title: "ЦВК зареєструвала кандидатами в нардепи від Броварів Федоренка, Ратнікова, Мельник та Бакала"
 date: 2012-08-08
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "bakal"

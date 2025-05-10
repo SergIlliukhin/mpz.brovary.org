@@ -2,7 +2,7 @@
 title: "Правий сектор приніс до броварської міськради сміттєвий бак"
 date: 2014-10-03
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "trashbucketchallenge"

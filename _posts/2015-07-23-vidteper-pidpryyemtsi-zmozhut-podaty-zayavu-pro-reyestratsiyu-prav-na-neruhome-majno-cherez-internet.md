@@ -2,7 +2,7 @@
 title: "Відтепер підприємці зможуть подати заяву про реєстрацію прав на нерухоме майно через Інтернет"
 date: 2015-07-23
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

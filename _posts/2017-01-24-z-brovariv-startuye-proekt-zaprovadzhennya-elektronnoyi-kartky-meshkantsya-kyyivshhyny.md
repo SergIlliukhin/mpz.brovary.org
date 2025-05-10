@@ -2,7 +2,7 @@
 title: "З Броварів стартує проект запровадження електронної картки мешканця Київщини"
 date: 2017-01-24
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

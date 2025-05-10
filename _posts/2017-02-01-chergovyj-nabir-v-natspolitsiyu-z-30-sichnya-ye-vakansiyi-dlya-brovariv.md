@@ -2,7 +2,7 @@
 title: "Черговий набір в Нацполіцію: з 30 січня, є вакансії для Броварів"
 date: 2017-02-01
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

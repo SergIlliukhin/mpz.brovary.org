@@ -2,7 +2,7 @@
 title: "ЦВК зареєструвала у 97 окрузі кандидата від об’єднаної опозиції Олега Кищука та кандидатів від партій «Віче» та «Держава»"
 date: 2012-08-09
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"

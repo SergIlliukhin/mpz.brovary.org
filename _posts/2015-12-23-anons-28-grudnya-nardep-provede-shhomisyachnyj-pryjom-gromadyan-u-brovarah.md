@@ -2,7 +2,7 @@
 title: "АНОНС: 28 грудня нардеп проведе щомісячний прийом громадян у Броварах"
 date: 2015-12-23
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

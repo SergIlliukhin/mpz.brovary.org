@@ -2,7 +2,7 @@
 title: "Громадська рада проводить опитування батьків про якість харчування дітей у садках та школах"
 date: 2016-09-30
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "hromada"

@@ -2,7 +2,7 @@
 title: "Відеохроніки революції та 7 порад, що робити броварчанину, щоб перемогла гідність"
 date: 2013-12-20
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 categories: 
   - "kolonka-avtora"

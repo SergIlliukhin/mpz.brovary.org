@@ -2,7 +2,7 @@
 title: "Депутати розберуться, чому КП «Оздоровчо-реабілітаційний центр» працює збитково"
 date: 2016-06-15
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

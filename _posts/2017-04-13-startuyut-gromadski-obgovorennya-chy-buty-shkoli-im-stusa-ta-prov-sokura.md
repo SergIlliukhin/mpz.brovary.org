@@ -2,7 +2,7 @@
 title: "Стартують громадські обговорення. Чи бути школі ім. Стуса та пров. Сокура?"
 date: 2017-04-13
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "hromada"

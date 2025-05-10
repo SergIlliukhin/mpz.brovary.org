@@ -2,7 +2,7 @@
 title: "Щоденник \"Маєш право знати\" виграв читач зі Львова"
 date: 2013-02-11
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "konkurs"

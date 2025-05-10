@@ -2,7 +2,7 @@
 title: "АНОНС: Цієї суботи молодь Броварів запрошує на музичний вечір пам'яті Кузьми Скрябіна"
 date: 2015-08-18
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

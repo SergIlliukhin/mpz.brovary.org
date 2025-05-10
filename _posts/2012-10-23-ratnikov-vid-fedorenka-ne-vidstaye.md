@@ -2,7 +2,7 @@
 title: "Ратніков від Федоренка не відстає"
 date: 2012-10-23
 author: 
-  username: "SergIlliukhin"
+  username: "sergilliukhin"
   display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"

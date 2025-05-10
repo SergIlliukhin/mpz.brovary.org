@@ -2,7 +2,7 @@
 title: "Броварський \"тітушка\" покаявся перед людьми та запевнив, що він \"з народом\" - ВІДЕО"
 date: 2014-01-28
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

@@ -2,7 +2,7 @@
 title: "Неподалік «Зеленого кварталу» зрубали «непридатні дерева», а насправді - зелені сосни - ФОТО"
 date: 2016-11-05
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

@@ -2,7 +2,7 @@
 title: "Іменем України: суд вчергове підтвердив незаконність відчудження 95 гектарів у Броварах"
 date: 2014-12-08
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "95-gektariv"

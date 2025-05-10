@@ -2,7 +2,7 @@
 title: "АНОНС: Завтра біля Терміналу відбудеться спортивно-розважальний фестиваль"
 date: 2016-05-27
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

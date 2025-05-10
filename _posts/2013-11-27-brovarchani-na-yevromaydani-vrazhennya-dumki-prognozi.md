@@ -2,7 +2,7 @@
 title: "Броварчани на ЄвроМайдані: враження, думки, прогнози"
 date: 2013-11-27
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "yevrointegratsiya"

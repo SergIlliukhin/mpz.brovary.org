@@ -2,7 +2,7 @@
 title: "Проти «реконструкторів» басейну «Купава» відкрили кримінальні провадження"
 date: 2015-02-19
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "azarov"

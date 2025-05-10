@@ -2,7 +2,7 @@
 title: "Від Конгресу Українських Націоналістів по виборчому округу №97 висунуто Миколу Коханівського"
 date: 2012-08-03
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "vibori"

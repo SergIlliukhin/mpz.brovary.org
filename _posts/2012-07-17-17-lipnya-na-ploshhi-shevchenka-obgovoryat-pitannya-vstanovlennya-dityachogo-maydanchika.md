@@ -2,7 +2,7 @@
 title: "17 липня на площі Шевченка обговорять питання встановлення дитячого майданчика"
 date: 2012-07-17
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

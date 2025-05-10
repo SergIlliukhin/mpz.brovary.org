@@ -2,7 +2,7 @@
 title: "Gun Open Day-2016: свято для любителів зброї - ФОТО, ВІДЕО"
 date: 2016-06-21
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

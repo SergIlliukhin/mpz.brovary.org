@@ -2,7 +2,7 @@
 title: "Частина Броварів досі лишається без гарячої води"
 date: 2013-08-09
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"

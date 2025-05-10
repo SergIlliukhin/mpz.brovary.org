@@ -2,7 +2,7 @@
 title: "ЦВК зареєструвала першого кандидата в 97 окрузі - \"самовисуванця\" Сергія Крижанівського"
 date: 2014-09-19
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

@@ -2,7 +2,7 @@
 title: "Завтра у Броварах пікетуватимуть суд, де розглядатимуть позов проти декомунізації"
 date: 2016-03-23
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

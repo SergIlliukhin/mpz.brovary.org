@@ -2,7 +2,7 @@
 title: "Найпопулярнішу у місті колонку знову облаштовуватимуть за власний кошт"
 date: 2012-05-04
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "vibir-redaktsiyi"

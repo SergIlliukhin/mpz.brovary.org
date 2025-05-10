@@ -2,7 +2,7 @@
 title: "Міська влада намагалася перешкодити проведенню першого засідання окружної виборчої комісії?"
 date: 2012-08-29
 author: 
-  username: "SergIlliukhin"
+  username: "sergilliukhin"
   display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"

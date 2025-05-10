@@ -2,7 +2,7 @@
 title: "У 2012 році у Броварах було зареєстровано 9 громадських організацій"
 date: 2012-12-20
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "brovary"

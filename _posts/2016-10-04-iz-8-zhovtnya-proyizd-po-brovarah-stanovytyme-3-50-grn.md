@@ -2,7 +2,7 @@
 title: "Із 8 жовтня проїзд по Броварах становитиме 3,50 грн."
 date: 2016-10-04
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

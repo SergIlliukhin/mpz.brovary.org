@@ -2,7 +2,7 @@
 title: "Броварчани передали тепловізор бійцям батальйону «Азов»"
 date: 2014-06-11
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "batalyon-azov"

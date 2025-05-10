@@ -2,7 +2,7 @@
 title: "Вантажівка наїхала на колону броварських велосипедистів: 1 хлопчик загинув, 8 спортсменів травмовані"
 date: 2016-09-02
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "hromada"

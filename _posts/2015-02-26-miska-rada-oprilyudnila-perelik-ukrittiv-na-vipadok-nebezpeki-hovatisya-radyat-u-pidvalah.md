@@ -2,7 +2,7 @@
 title: "Міська рада оприлюднила перелік укриттів на випадок небезпеки: ховатися радять у підвалах"
 date: 2015-02-26
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "bomboshovishha"

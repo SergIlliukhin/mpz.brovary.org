@@ -2,7 +2,7 @@
 title: "Журналісти „Маєш право знати” власноруч розповсюдили перший номер своєї газети"
 date: 2013-02-21
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "brovary"

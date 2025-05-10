@@ -2,7 +2,7 @@
 title: "АНОНС: Етно-пікнік для вагітних відбудеться 30 липня у Броварах"
 date: 2016-07-28
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

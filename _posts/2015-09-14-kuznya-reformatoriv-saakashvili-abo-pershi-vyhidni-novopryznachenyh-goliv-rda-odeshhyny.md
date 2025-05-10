@@ -2,7 +2,7 @@
 title: "Кузня реформаторів Саакашвілі, або Перші вихідні новопризначених голів РДА Одещини"
 date: 2015-09-14
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 categories: 
   - "kolonka-avtora"

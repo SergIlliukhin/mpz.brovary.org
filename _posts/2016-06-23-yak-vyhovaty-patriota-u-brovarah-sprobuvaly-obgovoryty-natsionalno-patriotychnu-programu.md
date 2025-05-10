@@ -2,7 +2,7 @@
 title: "Як виховати патріота: у Броварах спробували обговорити національно-патріотичну програму"
 date: 2016-06-23
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

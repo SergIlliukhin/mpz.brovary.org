@@ -2,7 +2,7 @@
 title: "Вакансії: поліція шукає 8 слідчих та 31 дільничного для броварського відділку"
 date: 2016-06-13
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

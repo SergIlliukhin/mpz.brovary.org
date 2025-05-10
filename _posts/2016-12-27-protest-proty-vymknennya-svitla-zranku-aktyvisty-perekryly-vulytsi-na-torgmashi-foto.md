@@ -2,7 +2,7 @@
 title: "Протест проти вимкнення світла: зранку активісти перекрили вулиці на Торгмаші - ФОТО"
 date: 2016-12-27
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "hromada"

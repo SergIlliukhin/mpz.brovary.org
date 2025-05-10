@@ -2,7 +2,7 @@
 title: "У Броварах розроблено редактор електронної форми \"2-пільга\""
 date: 2012-04-05
 author: 
-  username: "SergIlliukhin"
+  username: "sergilliukhin"
   display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"

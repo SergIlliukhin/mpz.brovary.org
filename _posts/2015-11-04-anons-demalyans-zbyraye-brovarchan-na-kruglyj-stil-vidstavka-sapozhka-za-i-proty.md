@@ -2,7 +2,7 @@
 title: "АНОНС: \"ДемАльянс\" збирає броварчан на круглий стіл \"Відставка Сапожка: за і проти\""
 date: 2015-11-04
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

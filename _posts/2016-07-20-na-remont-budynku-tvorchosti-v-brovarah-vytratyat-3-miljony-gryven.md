@@ -2,7 +2,7 @@
 title: "На ремонт Будинку творчості в Броварах витратять 3 мільйони гривень"
 date: 2016-07-20
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

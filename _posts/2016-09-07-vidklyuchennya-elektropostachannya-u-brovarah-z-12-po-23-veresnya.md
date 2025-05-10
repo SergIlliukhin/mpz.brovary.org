@@ -2,7 +2,7 @@
 title: "Відключення електропостачання у Броварах з 12 по 23 вересня"
 date: 2016-09-07
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

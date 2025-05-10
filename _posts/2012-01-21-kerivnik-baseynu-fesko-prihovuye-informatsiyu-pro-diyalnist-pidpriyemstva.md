@@ -2,7 +2,7 @@
 title: "Керівник басейну ПП \"Феско\" приховує інформацію про діяльність підприємства - ВІДЕО"
 date: 2012-01-21
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "zherebtsova"

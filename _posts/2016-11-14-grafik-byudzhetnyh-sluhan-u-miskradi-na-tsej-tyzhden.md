@@ -2,7 +2,7 @@
 title: "Графік бюджетних слухань у міськраді на цей тиждень"
 date: 2016-11-14
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

@@ -2,7 +2,7 @@
 title: "Оперативна нарада в мерії: ремонти тривають, субсидії оформлюють, кавуни під контролем"
 date: 2015-07-29
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

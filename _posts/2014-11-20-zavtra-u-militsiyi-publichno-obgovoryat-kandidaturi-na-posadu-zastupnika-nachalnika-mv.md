@@ -2,7 +2,7 @@
 title: "Завтра у міліції публічно обговорять кандидатури на посаду заступника начальника МВ"
 date: 2014-11-20
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

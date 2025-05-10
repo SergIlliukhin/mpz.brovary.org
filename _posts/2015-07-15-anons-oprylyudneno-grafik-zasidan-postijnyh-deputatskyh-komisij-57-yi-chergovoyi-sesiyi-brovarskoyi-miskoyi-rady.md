@@ -2,7 +2,7 @@
 title: "АНОНС: Оприлюднено графік засідань постійних депутатських комісій 57-ї чергової сесії Броварської міської ради"
 date: 2015-07-15
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

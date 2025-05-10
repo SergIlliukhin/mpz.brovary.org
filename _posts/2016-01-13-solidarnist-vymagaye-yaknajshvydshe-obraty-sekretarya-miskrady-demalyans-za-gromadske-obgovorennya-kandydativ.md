@@ -2,7 +2,7 @@
 title: "«Солідарність» вимагає негайно обрати секретаря міськради, «ДемАльянс» - за публічне обговорення кандидатів"
 date: 2016-01-13
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

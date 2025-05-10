@@ -2,7 +2,7 @@
 title: "Ускладнився процес подання інформаційного запиту"
 date: 2012-01-06
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "vykonkom"

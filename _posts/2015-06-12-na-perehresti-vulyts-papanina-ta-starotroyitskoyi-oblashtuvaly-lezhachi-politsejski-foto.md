@@ -2,7 +2,7 @@
 title: "На перехресті вулиць Папаніна та Старотроїцької облаштували \"лежачі поліцейські\" - ФОТО"
 date: 2015-06-12
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

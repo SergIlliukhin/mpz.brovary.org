@@ -2,7 +2,7 @@
 title: "Візьми і зроби: у Броварах презентували ініціативну групу «Самопомочі» - ФОТО"
 date: 2015-01-22
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "igor-kit"

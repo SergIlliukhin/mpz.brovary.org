@@ -2,7 +2,7 @@
 title: "Перші консультації нових депутатів з новим-старим мером – HromadskeBro.tv"
 date: 2015-11-05
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

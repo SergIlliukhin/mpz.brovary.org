@@ -2,7 +2,7 @@
 title: "Біля Броварів горять торфяники. Пожежа почалася з лісу?"
 date: 2015-06-11
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

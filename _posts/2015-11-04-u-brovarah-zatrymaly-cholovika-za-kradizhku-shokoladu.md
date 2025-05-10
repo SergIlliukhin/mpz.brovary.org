@@ -2,7 +2,7 @@
 title: "У Броварах затримали чоловіка за крадіжку шоколаду"
 date: 2015-11-04
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

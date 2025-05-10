@@ -2,7 +2,7 @@
 title: "Єгор Соболєв приїхав у Бровари агітувати за \"Самопоміч\" – HromadskeBro.tv"
 date: 2015-10-19
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

@@ -2,7 +2,7 @@
 title: "Глядачі обирають, яку комедію їм покажуть у наступні вихідні в парку «Перемога»"
 date: 2016-07-22
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

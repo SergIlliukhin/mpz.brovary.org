@@ -2,7 +2,7 @@
 title: "Цієї ночі в Броварах вимкнуть водопостачання для ремонту каналізації"
 date: 2016-10-25
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

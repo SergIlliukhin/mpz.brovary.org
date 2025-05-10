@@ -2,7 +2,7 @@
 title: "В новому кафе Багмутів – поножовщина. Троє постраждалих, один у важкому стані. ФОТО"
 date: 2014-12-29
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "music-hall"

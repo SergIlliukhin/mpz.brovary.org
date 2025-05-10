@@ -2,7 +2,7 @@
 title: "Міськвиконком дозволив \"Альянс Новобуду\" розмістити рекламні холдери до 2020 року"
 date: 2015-11-17
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

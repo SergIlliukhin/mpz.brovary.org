@@ -2,7 +2,7 @@
 title: "Сьогодні ми вийшли порожньою сторінкою, бо нам хочуть закрити рота!"
 date: 2012-10-01
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"

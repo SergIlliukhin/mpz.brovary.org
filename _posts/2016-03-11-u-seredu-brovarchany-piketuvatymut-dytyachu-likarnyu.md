@@ -2,7 +2,7 @@
 title: "У середу броварчани пікетуватимуть дитячу лікарню"
 date: 2016-03-11
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "hromada"

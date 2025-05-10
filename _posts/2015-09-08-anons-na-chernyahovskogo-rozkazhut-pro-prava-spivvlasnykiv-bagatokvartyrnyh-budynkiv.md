@@ -2,7 +2,7 @@
 title: "АНОНС: На Черняховського розкажуть про права співвласників багатоквартирних будинків"
 date: 2015-09-08
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

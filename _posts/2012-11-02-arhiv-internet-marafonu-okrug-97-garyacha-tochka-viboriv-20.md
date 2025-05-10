@@ -2,7 +2,7 @@
 title: "Архів Інтернет-марафону “Округ № 97: гаряча точка виборів-20​12″"
 date: 2012-11-02
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

@@ -2,7 +2,7 @@
 title: "Вночі сталась пожежа у магазині \"Каштановий\" на вулиці Кірова"
 date: 2015-04-08
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

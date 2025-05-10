@@ -2,7 +2,7 @@
 title: "Японці профінансують ремонт у Броварському фізучилищі"
 date: 2017-03-16
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

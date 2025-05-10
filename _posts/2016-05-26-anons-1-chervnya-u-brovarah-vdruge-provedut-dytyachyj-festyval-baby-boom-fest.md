@@ -2,7 +2,7 @@
 title: "АНОНС: 1 червня у Броварах відбудеться свято «Найкраще дітям»"
 date: 2016-05-26
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

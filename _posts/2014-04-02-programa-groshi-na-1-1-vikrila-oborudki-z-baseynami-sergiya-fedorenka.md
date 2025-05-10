@@ -2,7 +2,7 @@
 title: "Програма \"Гроші\" викрила оборудки броварського \"регіонала\" з міськими басейнами"
 date: 2014-04-02
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

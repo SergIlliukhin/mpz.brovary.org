@@ -2,7 +2,7 @@
 title: "30 червня у Броварах святкуватимуть День молоді"
 date: 2013-06-27
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

@@ -2,7 +2,7 @@
 title: "5 вересня кандитат у народні депутати Олександра Ярошенко зустрінеться з виборцями"
 date: 2012-09-05
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

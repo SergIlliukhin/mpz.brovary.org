@@ -2,7 +2,7 @@
 title: "Поліція розшукує зниклого учня броварського спортучилища"
 date: 2016-04-13
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

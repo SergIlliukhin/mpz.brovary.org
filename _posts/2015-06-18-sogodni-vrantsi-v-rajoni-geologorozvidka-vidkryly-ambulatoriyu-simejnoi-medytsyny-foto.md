@@ -2,7 +2,7 @@
 title: "Сьогодні вранці в районі \"Геологорозвідка\" відкрили амбулаторію сімейної медицини - ФОТО"
 date: 2015-06-18
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

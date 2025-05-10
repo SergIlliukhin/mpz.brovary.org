@@ -2,7 +2,7 @@
 title: "Завтра у міськраді вирішуватимуть, що робити з МАФами у Броварах"
 date: 2016-04-26
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

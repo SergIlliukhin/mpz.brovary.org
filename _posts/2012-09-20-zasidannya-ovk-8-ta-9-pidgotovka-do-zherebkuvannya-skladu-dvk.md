@@ -2,7 +2,7 @@
 title: "Засідання ОВК №8 та №9: підготовка до жеребкування складу ДВК"
 date: 2012-09-20
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "vibir-redaktsiyi"

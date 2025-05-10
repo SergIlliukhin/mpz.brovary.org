@@ -2,7 +2,7 @@
 title: "Люстрація чи підвищення: що зараз робить екс-начальник броварського відділку міліції, - телеканал \"2+2\""
 date: 2015-08-19
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

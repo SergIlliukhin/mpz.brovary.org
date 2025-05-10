@@ -2,7 +2,7 @@
 title: "Політичний «феномен» Ігоря Сапожка: від київського рекетира до броварського мера. Частина 1. Темне минуле"
 date: 2015-08-03
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "rozsliduvannya"

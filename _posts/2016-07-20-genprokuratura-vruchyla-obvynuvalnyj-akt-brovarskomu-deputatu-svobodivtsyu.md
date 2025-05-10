@@ -2,7 +2,7 @@
 title: "Генпрокуратура вручила обвинувальний акт броварському депутату-свободівцю"
 date: 2016-07-20
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

@@ -2,7 +2,7 @@
 title: "9 червня говоритимуть про реконструкцію парку «Перемога»"
 date: 2016-06-06
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

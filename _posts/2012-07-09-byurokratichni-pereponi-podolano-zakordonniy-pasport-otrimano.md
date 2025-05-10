@@ -2,7 +2,7 @@
 title: "Бюрократичні перепони подолано, закордонний паспорт отримано"
 date: 2012-07-09
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 categories: 
   - "kolonka-avtora"

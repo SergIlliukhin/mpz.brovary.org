@@ -2,7 +2,7 @@
 title: "Конфлікт загострюється: броварчани погрожують закидати «Мюзік-Хол» коктейлями Молотова. ВІДЕО"
 date: 2014-08-21
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"

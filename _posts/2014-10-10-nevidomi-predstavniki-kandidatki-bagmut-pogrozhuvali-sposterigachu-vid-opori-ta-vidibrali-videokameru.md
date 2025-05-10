@@ -2,7 +2,7 @@
 title: "Невідомі представники кандидатки Багмут погрожували спостерігачу від ОПОРИ та відібрали відеокамеру"
 date: 2014-10-10
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "babenko"

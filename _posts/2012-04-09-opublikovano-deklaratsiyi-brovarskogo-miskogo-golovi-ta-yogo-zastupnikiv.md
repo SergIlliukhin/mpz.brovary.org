@@ -2,7 +2,7 @@
 title: "Опубліковано декларації броварського міського голови та його заступників"
 date: 2012-04-09
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "andreyev"

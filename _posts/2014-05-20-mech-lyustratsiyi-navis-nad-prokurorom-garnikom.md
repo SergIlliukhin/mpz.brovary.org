@@ -2,7 +2,7 @@
 title: "Меч люстрації навис над прокурором Гарником - ВІДЕО"
 date: 2014-05-20
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "aktsiyi-zahodi"

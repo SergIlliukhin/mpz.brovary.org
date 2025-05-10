@@ -2,7 +2,7 @@
 title: "Для створення комунальних підприємств у терміновому порядку скликано позачергову сесію"
 date: 2012-12-07
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovarska-miska-rada"

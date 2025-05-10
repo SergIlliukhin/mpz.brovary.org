@@ -2,7 +2,7 @@
 title: "Для громадського контролю у сфері медицини у Броварах створюють консультативну раду"
 date: 2014-09-04
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "bagnyuk"

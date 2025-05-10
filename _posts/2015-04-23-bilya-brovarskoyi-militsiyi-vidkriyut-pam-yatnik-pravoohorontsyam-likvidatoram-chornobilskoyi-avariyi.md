@@ -2,7 +2,7 @@
 title: "Біля броварської міліції відкриють пам'ятник правоохоронцям-ліквідаторам Чорнобильської аварії"
 date: 2015-04-23
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

@@ -2,7 +2,7 @@
 title: "У Броварах знайшли автомобіль нападників на Тетяну Чорновол"
 date: 2013-12-26
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "avtomobil"

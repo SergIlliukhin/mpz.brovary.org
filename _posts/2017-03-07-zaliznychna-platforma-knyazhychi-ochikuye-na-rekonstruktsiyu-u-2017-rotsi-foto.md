@@ -2,7 +2,7 @@
 title: "Залізнична платформа «Княжичі» очікує на реконструкцію у 2017 році - ФОТО"
 date: 2017-03-07
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

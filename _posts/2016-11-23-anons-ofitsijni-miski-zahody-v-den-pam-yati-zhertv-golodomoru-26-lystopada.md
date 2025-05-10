@@ -2,7 +2,7 @@
 title: "АНОНС: Офіційні міські заходи в День пам’яті жертв голодомору 26 листопада"
 date: 2016-11-23
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

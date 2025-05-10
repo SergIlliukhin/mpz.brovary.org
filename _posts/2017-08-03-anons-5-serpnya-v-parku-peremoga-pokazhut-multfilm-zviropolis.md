@@ -2,7 +2,7 @@
 title: "АНОНС: 5 серпня в парку \"Перемога\" покажуть мультфільм \"Звірополіс\""
 date: 2017-08-03
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

@@ -2,7 +2,7 @@
 title: "КМДА перевірить законність розміщення МАФів на автобусній зупинці біля \"Лісової\""
 date: 2013-03-07
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "brovary"

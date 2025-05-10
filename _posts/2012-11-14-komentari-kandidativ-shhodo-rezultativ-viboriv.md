@@ -2,7 +2,7 @@
 title: "Коментарі кандидатів щодо результатів виборів"
 date: 2012-11-14
 author: 
-  username: "SergIlliukhin"
+  username: "sergilliukhin"
   display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"

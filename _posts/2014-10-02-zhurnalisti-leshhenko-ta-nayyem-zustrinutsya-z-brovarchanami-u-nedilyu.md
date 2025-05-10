@@ -2,7 +2,7 @@
 title: "Журналісти Лещенко та Найєм зустрінуться з броварчанами цієї неділі"
 date: 2014-10-02
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

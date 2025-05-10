@@ -2,7 +2,7 @@
 title: "Оприлюднено автобіографії депутатів Броварської міськради"
 date: 2012-06-11
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "avtobiografiyi-deputativ"

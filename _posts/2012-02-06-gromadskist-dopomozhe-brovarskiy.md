@@ -2,7 +2,7 @@
 title: "Громадськість допоможе Броварській міській раді створити реєстр публічної інформації"
 date: 2012-02-06
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "kuznyetsov"

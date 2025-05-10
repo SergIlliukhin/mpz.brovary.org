@@ -2,7 +2,7 @@
 title: "Богдан Бенюк агітував броварчан на Майдані Свободи голосувати за \"Свободу\""
 date: 2012-09-27
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "agitatsiya"

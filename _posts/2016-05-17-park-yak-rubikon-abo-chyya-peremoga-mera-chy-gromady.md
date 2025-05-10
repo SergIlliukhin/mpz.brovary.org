@@ -2,7 +2,7 @@
 title: "Парк як Рубікон, або чия \"Перемога\" - мера чи громади?"
 date: 2016-05-17
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 categories: 
   - "kolonka-avtora"

@@ -2,7 +2,7 @@
 title: "Тимчасові відключення електропостачання: графік на березень"
 date: 2017-02-22
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

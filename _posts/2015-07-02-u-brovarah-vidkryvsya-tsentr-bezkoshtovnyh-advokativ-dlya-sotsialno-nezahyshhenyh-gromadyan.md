@@ -2,7 +2,7 @@
 title: "У Броварах відкрився центр \"безкоштовних адвокатів\" для соціально незахищених громадян"
 date: 2015-07-02
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

@@ -2,7 +2,7 @@
 title: "В \"БРСМ-Нафті\" вибух на своїй заправці називають терактом"
 date: 2015-01-13
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "avtozapravka"

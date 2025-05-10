@@ -2,7 +2,7 @@
 title: "Броварські депутати віддали 96 гектарів під будівництво \"фармацевтичного заводу Bayer\" (оновлено)"
 date: 2013-10-02
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "95-ga"

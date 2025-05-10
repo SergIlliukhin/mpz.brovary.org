@@ -2,7 +2,7 @@
 title: "Олександр Грицай більше не керуватиме виборами у Броварах"
 date: 2013-04-22
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "vibir-redaktsiyi"

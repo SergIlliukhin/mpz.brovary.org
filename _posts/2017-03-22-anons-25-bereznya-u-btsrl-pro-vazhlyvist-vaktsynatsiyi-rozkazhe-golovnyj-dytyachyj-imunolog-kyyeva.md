@@ -2,7 +2,7 @@
 title: "АНОНС: 25 березня у БЦРЛ про важливість вакцинації розкаже головний дитячий імунолог Києва"
 date: 2017-03-22
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

@@ -2,7 +2,7 @@
 title: "Історик Микола Лисенко разом з дружиною загинули в автокатастрофі"
 date: 2014-03-03
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "novini"

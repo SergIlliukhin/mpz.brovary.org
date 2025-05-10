@@ -2,7 +2,7 @@
 title: "Новий дизайн \"Маєш право знати\" - перший крок до змін"
 date: 2015-06-08
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 categories: 
   - "kolonka-avtora"

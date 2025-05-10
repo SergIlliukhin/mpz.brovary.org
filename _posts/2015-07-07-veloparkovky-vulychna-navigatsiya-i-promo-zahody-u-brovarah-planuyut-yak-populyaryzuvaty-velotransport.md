@@ -2,7 +2,7 @@
 title: "Велопарковки, навігація і промо-акції: у Броварах планують, як популяризувати велотранспорт"
 date: 2015-07-07
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 categories: 
   - "hromada"

@@ -2,7 +2,7 @@
 title: "АНОНС: У суботу на зустріч із броварчанами приїде лідер ДемАльянсу Василь Гацько"
 date: 2015-10-16
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

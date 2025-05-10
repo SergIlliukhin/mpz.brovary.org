@@ -2,7 +2,7 @@
 title: "АНОНС: 17 жовтня у Броварах пройде зустріч з письменницею Іриною Ігнатенко"
 date: 2015-10-17
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

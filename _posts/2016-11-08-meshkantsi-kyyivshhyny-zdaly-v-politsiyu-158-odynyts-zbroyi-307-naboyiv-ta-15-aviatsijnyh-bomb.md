@@ -2,7 +2,7 @@
 title: "Мешканці Київщини здали в поліцію 158 одиниць зброї, 307 набоїв та 15 авіаційних бомб"
 date: 2016-11-08
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

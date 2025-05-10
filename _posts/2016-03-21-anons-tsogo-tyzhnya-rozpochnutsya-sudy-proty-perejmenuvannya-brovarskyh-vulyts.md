@@ -2,7 +2,7 @@
 title: "АНОНС: Цього тижня розпочнуться суди проти перейменування броварських вулиць"
 date: 2016-03-21
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

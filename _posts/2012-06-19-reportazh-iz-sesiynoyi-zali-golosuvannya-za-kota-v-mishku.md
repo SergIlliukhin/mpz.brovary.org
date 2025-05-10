@@ -2,7 +2,7 @@
 title: "Репортаж із сесійної зали: голосування за \"кота в мішку\""
 date: 2012-06-19
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovarska-miska-rada"

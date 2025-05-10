@@ -2,7 +2,7 @@
 title: "Формується нова Громадська рада при управлінні освіти. Запрошують бажаючих долучитися"
 date: 2017-06-14
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "hromada"

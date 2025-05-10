@@ -2,7 +2,7 @@
 title: "Постишева, 1: колись садочок, потім база \"Беркуту\", зараз власність МВС"
 date: 2015-12-16
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

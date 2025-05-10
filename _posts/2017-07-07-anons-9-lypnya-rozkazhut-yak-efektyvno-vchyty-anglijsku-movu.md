@@ -2,7 +2,7 @@
 title: "АНОНС: 9 липня розкажуть, як ефективно вчити англійську мову"
 date: 2017-07-07
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

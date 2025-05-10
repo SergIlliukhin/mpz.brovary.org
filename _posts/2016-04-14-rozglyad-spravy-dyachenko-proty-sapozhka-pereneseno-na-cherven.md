@@ -2,7 +2,7 @@
 title: "Розгляд справи Дяченко проти Сапожка перенесено на червень"
 date: 2016-04-14
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

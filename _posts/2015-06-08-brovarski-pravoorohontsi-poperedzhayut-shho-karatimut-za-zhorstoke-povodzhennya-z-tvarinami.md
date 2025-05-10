@@ -2,7 +2,7 @@
 title: "Броварські правоорохонці попереджають, що каратимуть за жорстоке поводження з тваринами"
 date: 2015-06-08
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

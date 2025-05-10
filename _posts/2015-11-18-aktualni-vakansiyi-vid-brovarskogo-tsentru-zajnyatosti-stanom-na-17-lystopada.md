@@ -2,7 +2,7 @@
 title: "Актуальні вакансії від броварського центру зайнятості станом на 17 листопада"
 date: 2015-11-18
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

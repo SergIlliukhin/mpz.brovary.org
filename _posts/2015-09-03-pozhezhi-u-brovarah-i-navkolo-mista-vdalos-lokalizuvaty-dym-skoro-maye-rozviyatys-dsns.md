@@ -2,7 +2,7 @@
 title: "Пожежі у Броварах і навколо міста вдалось локалізувати, дим скоро має розвіятись - ДСНС"
 date: 2015-09-03
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

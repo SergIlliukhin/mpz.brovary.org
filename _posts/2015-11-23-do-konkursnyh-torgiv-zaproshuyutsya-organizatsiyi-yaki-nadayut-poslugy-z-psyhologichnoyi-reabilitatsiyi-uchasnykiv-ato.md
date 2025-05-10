@@ -2,7 +2,7 @@
 title: "До конкурсних торгів запрошуються організації, які надають послуги з психологічної реабілітації учасників АТО"
 date: 2015-11-23
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

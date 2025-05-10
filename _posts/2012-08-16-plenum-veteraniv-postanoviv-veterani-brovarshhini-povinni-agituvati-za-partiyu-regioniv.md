@@ -2,7 +2,7 @@
 title: "Пленум ветеранів постановив: ветерани Броварщини повинні агітувати за Партію регіонів"
 date: 2012-08-16
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "agitatsiya"

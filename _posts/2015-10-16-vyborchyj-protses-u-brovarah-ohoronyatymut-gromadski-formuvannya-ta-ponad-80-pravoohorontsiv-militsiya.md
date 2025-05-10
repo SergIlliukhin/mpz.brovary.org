@@ -2,7 +2,7 @@
 title: "Виборчий процес у Броварах охоронятимуть громадські формування та понад 80 правоохоронців - міліція"
 date: 2015-10-16
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "interview"

@@ -2,7 +2,7 @@
 title: "Поліція затримала броварського депутата Сергія Бойка на акції проти «Потапа і Насті» - ВІДЕО"
 date: 2016-11-16
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

@@ -2,7 +2,7 @@
 title: "У бюджет Броварів не заклали кошти на встановлення електронної системи голосування в міськраді"
 date: 2016-03-09
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

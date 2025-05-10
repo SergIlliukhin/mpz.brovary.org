@@ -2,7 +2,7 @@
 title: "У Броварах закладено новий храм, а міський голова отримав орден"
 date: 2012-12-11
 author: 
-  username: "SergIlliukhin"
+  username: "sergilliukhin"
   display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"

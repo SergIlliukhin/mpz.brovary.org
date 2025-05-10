@@ -2,7 +2,7 @@
 title: "Броварські студенти мають можливість навчатися у США"
 date: 2012-06-25
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"

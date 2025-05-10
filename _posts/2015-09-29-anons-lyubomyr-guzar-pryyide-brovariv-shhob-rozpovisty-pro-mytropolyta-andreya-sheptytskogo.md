@@ -2,7 +2,7 @@
 title: "АНОНС: Любомир Гузар приїде до Броварів, щоб розповісти про Митрополита Андрея Шептицького"
 date: 2015-09-29
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

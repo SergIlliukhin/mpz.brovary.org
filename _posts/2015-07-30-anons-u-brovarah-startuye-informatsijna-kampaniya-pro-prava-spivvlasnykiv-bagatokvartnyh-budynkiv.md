@@ -2,7 +2,7 @@
 title: "АНОНС: У Броварах стартує інформаційна кампанія про права співвласників багатоквартних будинків"
 date: 2015-07-30
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

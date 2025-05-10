@@ -2,7 +2,7 @@
 title: "Боротьба з «тіньовим налом»: податківці Броварів викрили «конвертаційний центр»"
 date: 2015-06-08
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

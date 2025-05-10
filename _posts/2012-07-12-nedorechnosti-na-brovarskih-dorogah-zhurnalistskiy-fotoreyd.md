@@ -2,7 +2,7 @@
 title: "Недоречності на броварських дорогах: журналістський фоторейд"
 date: 2012-07-12
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "brovary"

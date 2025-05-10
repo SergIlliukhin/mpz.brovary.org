@@ -2,7 +2,7 @@
 title: "5-й загін тероборони Броварів закликає записуватись на черговий курс бійця"
 date: 2015-09-29
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

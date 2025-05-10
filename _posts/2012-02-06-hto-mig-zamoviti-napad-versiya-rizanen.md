@@ -2,7 +2,7 @@
 title: "Хто міг замовити напад? - версія Різаненка"
 date: 2012-02-06
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "novini"

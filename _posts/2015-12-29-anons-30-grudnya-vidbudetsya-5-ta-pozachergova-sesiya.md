@@ -2,7 +2,7 @@
 title: "АНОНС: 30 грудня відбудеться 5-та позачергова сесія"
 date: 2015-12-29
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

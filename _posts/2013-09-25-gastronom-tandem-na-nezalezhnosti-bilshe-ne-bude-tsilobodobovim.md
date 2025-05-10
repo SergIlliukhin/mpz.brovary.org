@@ -2,7 +2,7 @@
 title: "Гастроном «Тандем» на Незалежності більше не буде цілободобовим?"
 date: 2013-09-25
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "music-hall"

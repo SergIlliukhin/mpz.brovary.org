@@ -2,7 +2,7 @@
 title: "Коли в оселі броварчан дадуть тепло?"
 date: 2016-10-10
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

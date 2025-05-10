@@ -2,7 +2,7 @@
 title: "«Стоп корупції» провели мітинг у Броварах та звинувачують Олега Кищука у «кришуванні» піщаних браконьєрів"
 date: 2017-06-09
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

@@ -2,7 +2,7 @@
 title: "Відкриті Бровари: Як дізнатись справжнього власника квартири або будинку?"
 date: 2016-01-11
 author: 
-  username: "SergIlliukhin"
+  username: "sergilliukhin"
   display_name: "Сергій Іллюхін"
 categories: 
   - "brovary"

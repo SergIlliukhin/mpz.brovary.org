@@ -2,7 +2,7 @@
 title: "Свідок: Броварські лікарі констатували смерть ще живого водія, щоб не \"заморочуватись\" - ВІДЕО"
 date: 2015-09-03
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

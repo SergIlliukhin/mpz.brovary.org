@@ -2,7 +2,7 @@
 title: "Територія тління торфу на Київщині збільшилася до 122 га, горить і в Броварському районі"
 date: 2015-10-19
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

@@ -2,7 +2,7 @@
 title: "8-10 листопада в МКЦ \"Прометей\" пройдуть Дні польського кіно у Броварах"
 date: 2013-11-06
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

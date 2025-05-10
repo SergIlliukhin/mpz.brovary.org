@@ -2,7 +2,7 @@
 title: "9 жовтня Сапожко скликає 47 чергову сесію Броварської міської ради"
 date: 2014-09-15
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

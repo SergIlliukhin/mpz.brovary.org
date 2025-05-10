@@ -2,7 +2,7 @@
 title: "Українська Правда: У Броварах міліція побила депутата \"Батьківщини\""
 date: 2012-09-20
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "bondaryev"

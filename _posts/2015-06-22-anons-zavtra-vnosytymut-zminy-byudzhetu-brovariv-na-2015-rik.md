@@ -2,7 +2,7 @@
 title: "АНОНС: Завтра вноситимуть зміни до бюджету Броварів на 2015 рік"
 date: 2015-06-22
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

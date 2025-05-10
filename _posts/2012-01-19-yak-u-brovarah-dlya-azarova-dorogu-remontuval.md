@@ -2,7 +2,7 @@
 title: "Як у Броварах для Азарова дорогу ремонтували"
 date: 2012-01-19
 author: 
-  username: "SergIlliukhin"
+  username: "sergilliukhin"
   display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"

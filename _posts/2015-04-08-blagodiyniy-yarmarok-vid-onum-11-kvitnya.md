@@ -2,7 +2,7 @@
 title: "Напередодні Великодня молодь з ОНУМ проведе благодійний ярмарок"
 date: 2015-04-08
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

@@ -2,7 +2,7 @@
 title: "Бровари обирають нову міську раду, мера та представників в облраді - ФОТОРЕПОРТАЖ"
 date: 2015-10-25
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

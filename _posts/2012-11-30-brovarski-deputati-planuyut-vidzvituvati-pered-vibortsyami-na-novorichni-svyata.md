@@ -2,7 +2,7 @@
 title: "Броварські депутати планують відзвітувати перед виборцями у період новорічних свят"
 date: 2012-11-30
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

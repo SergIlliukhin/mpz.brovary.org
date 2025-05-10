@@ -2,7 +2,7 @@
 title: "Броварські волонтери відправили в АТО відремонтовану машину - ВІДЕО"
 date: 2016-10-20
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "hromada"

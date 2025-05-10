@@ -2,7 +2,7 @@
 title: "Дірки на дорогах та паводки: броварські комунальники звітують про початок роботи"
 date: 2017-02-20
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

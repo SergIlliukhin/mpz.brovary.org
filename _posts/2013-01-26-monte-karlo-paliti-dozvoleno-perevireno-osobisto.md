@@ -2,7 +2,7 @@
 title: "\"Монте-Карло\" - палити дозволено! Перевірено особисто"
 date: 2013-01-26
 author: 
-  username: "SergIlliukhin"
+  username: "sergilliukhin"
   display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"

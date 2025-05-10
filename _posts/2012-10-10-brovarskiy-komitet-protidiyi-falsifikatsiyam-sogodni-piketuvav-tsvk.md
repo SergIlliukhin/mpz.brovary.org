@@ -2,7 +2,7 @@
 title: "Броварський комітет протидії фальсифікаціям сьогодні пікетував ЦВК"
 date: 2012-10-10
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "aktsiyi-zahodi"

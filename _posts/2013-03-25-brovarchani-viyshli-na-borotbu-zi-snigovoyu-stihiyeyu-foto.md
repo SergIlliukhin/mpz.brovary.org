@@ -2,7 +2,7 @@
 title: "Броварчани вийшли на боротьбу зі сніговою стихією - ФОТО"
 date: 2013-03-25
 author: 
-  username: "SergIlliukhin"
+  username: "sergilliukhin"
   display_name: "Сергій Іллюхін"
 tags: 
   - "brovary"

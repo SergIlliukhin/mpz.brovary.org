@@ -2,7 +2,7 @@
 title: "Приклад запиту про оформлення права власності на підвали будинку"
 date: 2011-09-28
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "priklad-zapitu"

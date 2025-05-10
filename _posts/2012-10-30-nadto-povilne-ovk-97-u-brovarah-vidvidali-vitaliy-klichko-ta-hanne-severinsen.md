@@ -2,7 +2,7 @@
 title: "\"Надто повільне\" ОВК № 97 у Броварах відвідали Віталій Кличко та Ханне Северінсен"
 date: 2012-10-30
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

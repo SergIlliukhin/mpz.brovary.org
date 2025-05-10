@@ -2,7 +2,7 @@
 title: "Як телеканал \"ТВі\" знімав сюжет про броварські басейни"
 date: 2012-01-12
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 categories: 
   - "kolonka-avtora"

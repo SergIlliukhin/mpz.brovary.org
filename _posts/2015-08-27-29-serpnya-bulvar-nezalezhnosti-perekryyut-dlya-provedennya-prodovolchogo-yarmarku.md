@@ -2,7 +2,7 @@
 title: "29 серпня бульвар Незалежності перекриють для проведення продовольчого ярмарку"
 date: 2015-08-27
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

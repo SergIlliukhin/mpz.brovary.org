@@ -2,7 +2,7 @@
 title: "ЦВК скасувала реєстрацію 7 кандидатів по виборчому округу № 97"
 date: 2012-10-17
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "yeruhimovich"

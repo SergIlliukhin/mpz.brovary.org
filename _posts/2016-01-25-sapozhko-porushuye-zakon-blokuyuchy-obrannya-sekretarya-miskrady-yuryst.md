@@ -2,7 +2,7 @@
 title: "Сапожко порушує закон, блокуючи обрання секретаря міськради, - юрист"
 date: 2016-01-25
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

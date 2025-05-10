@@ -2,7 +2,7 @@
 title: "Броварські Дюни-2015 - HromadskeBro.tv"
 date: 2015-09-21
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

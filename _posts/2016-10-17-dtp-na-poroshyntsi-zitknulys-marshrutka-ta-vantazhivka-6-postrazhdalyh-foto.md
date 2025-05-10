@@ -2,7 +2,7 @@
 title: "ДТП на Порошинці: зіткнулись маршрутка та вантажівка, 6 постраждалих – ФОТО"
 date: 2016-10-17
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

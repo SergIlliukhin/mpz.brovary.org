@@ -2,7 +2,7 @@
 title: "Виконком усупереч Конституції визначив «єдине місце» для проведення мирних зібрань у Броварах"
 date: 2012-09-03
 author: 
-  username: "SergIlliukhin"
+  username: "sergilliukhin"
   display_name: "Сергій Іллюхін"
 tags: 
   - "vibir-redaktsiyi"

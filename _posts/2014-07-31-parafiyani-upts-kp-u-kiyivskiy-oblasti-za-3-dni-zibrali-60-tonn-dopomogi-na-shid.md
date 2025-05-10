@@ -2,7 +2,7 @@
 title: "За три дні віряни Київщини зібрали 60 тонн допомоги на Схід"
 date: 2014-07-31
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "ato"

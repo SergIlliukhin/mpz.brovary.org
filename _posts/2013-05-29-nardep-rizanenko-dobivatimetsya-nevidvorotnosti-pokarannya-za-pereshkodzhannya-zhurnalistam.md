@@ -2,7 +2,7 @@
 title: "Різаненко добиватиметься невідворотності покарання за перешкоджання журналістам"
 date: 2013-05-29
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "aktsiya-protestu"

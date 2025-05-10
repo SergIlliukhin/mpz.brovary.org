@@ -2,7 +2,7 @@
 title: "Термінове скликання позачергової сесії за 1 день"
 date: 2011-12-20
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "miska-rada"

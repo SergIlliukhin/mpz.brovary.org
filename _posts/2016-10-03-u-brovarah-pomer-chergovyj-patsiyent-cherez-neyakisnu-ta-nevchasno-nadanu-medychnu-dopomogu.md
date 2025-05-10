@@ -2,7 +2,7 @@
 title: "У Броварах помер черговий пацієнт через неякісну та невчасно надану медичну допомогу"
 date: 2016-10-03
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

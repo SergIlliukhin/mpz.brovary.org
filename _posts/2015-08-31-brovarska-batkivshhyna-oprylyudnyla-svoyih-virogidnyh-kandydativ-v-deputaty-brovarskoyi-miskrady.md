@@ -2,7 +2,7 @@
 title: "Броварська «Батьківщина» оприлюднила своїх вірогідних кандидатів в депутати Броварської міськради"
 date: 2015-08-31
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "hromada"

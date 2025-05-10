@@ -2,7 +2,7 @@
 title: "Неймовірна трійка: броварські каратисти їдуть на чемпіонат світу - HromadskeBro.tv"
 date: 2015-09-10
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

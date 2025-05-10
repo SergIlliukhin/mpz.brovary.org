@@ -2,7 +2,7 @@
 title: "АНОНС: 1 квітня броварчан на суботник кличе депутат Олег Іваненко"
 date: 2017-03-31
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

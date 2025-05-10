@@ -2,7 +2,7 @@
 title: "АНОНС: 26 листопада у Броварах відбудеться семінар на тему гіперактивності у дітей"
 date: 2015-11-25
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

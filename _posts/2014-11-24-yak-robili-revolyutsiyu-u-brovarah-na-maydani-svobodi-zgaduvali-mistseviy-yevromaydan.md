@@ -2,7 +2,7 @@
 title: "Як це було у Броварах: за рік після революції на Майдані Свободи згадували її початок"
 date: 2014-11-24
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "yevromaydan"

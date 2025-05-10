@@ -2,7 +2,7 @@
 title: "На Незалежності, 2 чиновники хочуть здати в оренду 32,4 кв. м нежитлового приміщення"
 date: 2015-09-23
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

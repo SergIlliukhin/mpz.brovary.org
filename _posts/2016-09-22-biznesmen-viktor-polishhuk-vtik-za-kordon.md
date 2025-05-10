@@ -2,7 +2,7 @@
 title: "Бізнесмен Віктор Поліщук втік за кордон"
 date: 2016-09-22
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

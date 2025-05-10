@@ -2,7 +2,7 @@
 title: "За тепло і гарячу воду бюджетні установи Броварів платитимуть менше"
 date: 2017-01-26
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

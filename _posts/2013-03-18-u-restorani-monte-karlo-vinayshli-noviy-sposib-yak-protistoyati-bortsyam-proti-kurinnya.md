@@ -2,7 +2,7 @@
 title: "У ресторані \"Монте Карло\" винайшли новий спосіб, як протистояти борцям проти куріння"
 date: 2013-03-18
 author: 
-  username: "SergIlliukhin"
+  username: "sergilliukhin"
   display_name: "Сергій Іллюхін"
 tags: 
   - "vibir-redaktsiyi"

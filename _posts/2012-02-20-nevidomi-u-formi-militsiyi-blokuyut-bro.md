@@ -2,7 +2,7 @@
 title: "Відкриті засідання броварської міськради блокують від журналістів. Прокурор мовчить.  ВІДЕО"
 date: 2012-02-20
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

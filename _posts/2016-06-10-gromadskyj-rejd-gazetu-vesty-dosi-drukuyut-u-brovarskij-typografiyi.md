@@ -2,7 +2,7 @@
 title: "Громадський рейд: газету «Вести» досі друкують у броварській типографії"
 date: 2016-06-10
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "hromada"

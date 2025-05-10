@@ -2,7 +2,7 @@
 title: "Невідомі зрубали кілька дерев по вул. Возз'єднання, щоб збудувати на їх місці аптеку?"
 date: 2013-05-14
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "vibir-redaktsiyi"

@@ -2,7 +2,7 @@
 title: "Децентралізація в дії: Броварам передали повноваження архітектурно-будівельного контролю"
 date: 2016-06-09
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

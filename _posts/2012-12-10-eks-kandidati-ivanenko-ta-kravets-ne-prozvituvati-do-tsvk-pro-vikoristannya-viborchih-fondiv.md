@@ -2,7 +2,7 @@
 title: "Екс-кандидати Іваненко та Кравець не прозвітували до ЦВК про використання виборчих фондів"
 date: 2012-12-10
 author: 
-  username: "SergIlliukhin"
+  username: "sergilliukhin"
   display_name: "Сергій Іллюхін"
 tags: 
   - "ivanenko"

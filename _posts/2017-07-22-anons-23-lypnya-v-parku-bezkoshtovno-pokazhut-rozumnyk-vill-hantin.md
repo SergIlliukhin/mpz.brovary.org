@@ -2,7 +2,7 @@
 title: "АНОНС: 23 липня в парку безкоштовно покажуть \"Розумник Вілл Хантін\""
 date: 2017-07-22
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

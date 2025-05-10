@@ -2,7 +2,7 @@
 title: "Новий остаточний склад ДВК у 97 виборчому окрузі (за версією більшості в ОВК)"
 date: 2012-10-03
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

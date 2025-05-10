@@ -2,7 +2,7 @@
 title: "Я обираю розвиток. Розвиток країни через розвиток міст"
 date: 2016-10-25
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 categories: 
   - "kolonka-avtora"

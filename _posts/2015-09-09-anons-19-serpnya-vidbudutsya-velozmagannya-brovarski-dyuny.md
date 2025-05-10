@@ -2,7 +2,7 @@
 title: "АНОНС: 19 вересня відбудуться велозмагання \"Броварські дюни\""
 date: 2015-09-09
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

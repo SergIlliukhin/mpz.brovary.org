@@ -2,7 +2,7 @@
 title: "Броварська міська рада узаконює заборону відеозйомки - ПРОЕКТ рішення"
 date: 2011-11-16
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "miska-rada"

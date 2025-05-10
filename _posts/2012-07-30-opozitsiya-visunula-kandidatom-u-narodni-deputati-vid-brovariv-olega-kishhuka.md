@@ -2,7 +2,7 @@
 title: "Опозиція висунула кандидатом у народні депутати від Броварів Олега Кищука"
 date: 2012-07-30
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "batkivshhina"

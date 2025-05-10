@@ -2,7 +2,7 @@
 title: "У \"Бровари-Благоустрій\" готуються до «великої води» із Білорусі"
 date: 2017-03-06
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

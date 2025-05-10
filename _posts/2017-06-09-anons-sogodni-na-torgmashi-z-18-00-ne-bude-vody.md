@@ -2,7 +2,7 @@
 title: "АНОНС: Сьогодні на Торгмаші з 18:00 не буде води"
 date: 2017-06-09
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

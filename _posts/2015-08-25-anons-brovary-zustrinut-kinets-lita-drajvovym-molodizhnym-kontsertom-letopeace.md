@@ -2,7 +2,7 @@
 title: "АНОНС: Бровари зустрінуть кінець літа драйвовим молодіжним концертом «ЛетоPeace»"
 date: 2015-08-25
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

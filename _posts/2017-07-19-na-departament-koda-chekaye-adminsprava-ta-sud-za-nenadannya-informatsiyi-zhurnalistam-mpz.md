@@ -2,7 +2,7 @@
 title: "На Департамент КОДА чекає адмінсправа та суд за ненадання інформації журналістам \"МПЗ\""
 date: 2017-07-19
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

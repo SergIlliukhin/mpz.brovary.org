@@ -2,7 +2,7 @@
 title: "\"Маєш право знати\" здійснить онлайн-трансляцію звітування нардепа Різаненка о 17:30"
 date: 2013-09-25
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

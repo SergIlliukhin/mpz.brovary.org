@@ -2,7 +2,7 @@
 title: "Перекриття вулиці Київської та резонанс в ЗМІ змусили чиновників погодитись на світлофор - ВІДЕО"
 date: 2014-11-06
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

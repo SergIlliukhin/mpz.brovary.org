@@ -2,7 +2,7 @@
 title: "Замість пошуку фальсифікаторів газети міліція перевірила факт її реєстрації"
 date: 2012-05-24
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 categories: 
   - "kolonka-avtora"

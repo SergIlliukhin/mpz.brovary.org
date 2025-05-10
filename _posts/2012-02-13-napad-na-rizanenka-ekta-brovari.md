@@ -2,7 +2,7 @@
 title: "Напад на Різаненка: версія телеканалу Екта-Бровари"
 date: 2012-02-13
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovarski-zmi"

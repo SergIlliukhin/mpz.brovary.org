@@ -2,7 +2,7 @@
 title: "Поліетиленові пакети можна здавати за гроші на переробку: Київ і Бровари"
 date: 2016-11-03
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

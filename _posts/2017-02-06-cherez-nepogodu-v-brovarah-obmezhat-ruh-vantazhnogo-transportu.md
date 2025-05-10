@@ -2,7 +2,7 @@
 title: "Через непогоду в Броварах обмежать рух вантажного транспорту"
 date: 2017-02-06
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

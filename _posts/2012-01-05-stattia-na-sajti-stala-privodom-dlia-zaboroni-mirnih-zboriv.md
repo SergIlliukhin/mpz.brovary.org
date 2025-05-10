@@ -2,7 +2,7 @@
 title: "Стаття на сайті стала приводом для заборони мирних зборів"
 date: 2012-01-05
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "vykonkom"

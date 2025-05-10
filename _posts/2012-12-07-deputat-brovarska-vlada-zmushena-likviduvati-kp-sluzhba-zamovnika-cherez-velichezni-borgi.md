@@ -2,7 +2,7 @@
 title: "Депутат: Броварська влада змушена ліквідувати КП \"Служба замовника\" через величезні борги"
 date: 2012-12-07
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovarska-miska-rada"

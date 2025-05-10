@@ -2,7 +2,7 @@
 title: "Переможець виборів у 97 окрузі Павло Різаненко дав інтерв'ю \"Українській правді\""
 date: 2012-11-28
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "intervyu"

@@ -2,7 +2,7 @@
 title: "Депутати відмовились розглядати на сесії питання про скасування підвищення тарифів"
 date: 2013-04-18
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "aktsiya-protestu"

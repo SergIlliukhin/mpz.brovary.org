@@ -2,7 +2,7 @@
 title: "Перше рішення нового виконкому: підвищення тарифів за \"комуналку\" по всьому місту"
 date: 2016-03-16
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

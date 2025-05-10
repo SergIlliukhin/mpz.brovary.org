@@ -2,7 +2,7 @@
 title: "Броварська команда \"ДемАльянсу\" презентувала свої списки кандидатів на місцевих виборах"
 date: 2015-09-10
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "hromada"

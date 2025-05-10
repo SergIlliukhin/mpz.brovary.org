@@ -2,7 +2,7 @@
 title: "18 жовтня в УНІАНі розкажуть про медіадвобій влади та єдиного кандидата від опозиційних сил у 97 окрузі (доповнено)"
 date: 2012-10-18
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

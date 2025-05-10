@@ -2,7 +2,7 @@
 title: "Парцхаладзе показав, як виглядатиме нова школа у Броварах - ФОТО"
 date: 2017-07-28
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

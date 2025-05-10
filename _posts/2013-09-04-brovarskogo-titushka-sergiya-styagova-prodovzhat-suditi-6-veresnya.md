@@ -2,7 +2,7 @@
 title: "Броварського «тітушка» Сергія Стягова продовжать судити 6 вересня"
 date: 2013-09-04
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

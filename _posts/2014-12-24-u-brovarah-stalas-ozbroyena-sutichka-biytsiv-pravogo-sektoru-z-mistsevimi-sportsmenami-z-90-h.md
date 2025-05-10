@@ -2,7 +2,7 @@
 title: "У Броварах відбулась перестрілка між «Правим сектором» та місцевими «спортсменами» з 90-х"
 date: 2014-12-24
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"

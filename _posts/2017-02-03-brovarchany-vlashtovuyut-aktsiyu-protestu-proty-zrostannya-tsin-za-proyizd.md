@@ -2,7 +2,7 @@
 title: "Броварчани влаштовують акцію протесту проти зростання цін за проїзд"
 date: 2017-02-03
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

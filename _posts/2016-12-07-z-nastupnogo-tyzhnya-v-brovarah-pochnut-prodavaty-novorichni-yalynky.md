@@ -2,7 +2,7 @@
 title: "З наступного тижня в Броварах почнуть продавати новорічні ялинки"
 date: 2016-12-07
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

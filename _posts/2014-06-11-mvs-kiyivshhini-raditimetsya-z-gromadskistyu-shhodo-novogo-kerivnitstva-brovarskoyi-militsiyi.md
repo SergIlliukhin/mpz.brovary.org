@@ -2,7 +2,7 @@
 title: "МВС Київщини радитиметься з громадою щодо нового керівника броварської міліції"
 date: 2014-06-11
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovarska-narodna-rada"

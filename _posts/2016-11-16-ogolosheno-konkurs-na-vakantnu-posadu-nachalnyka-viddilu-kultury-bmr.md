@@ -2,7 +2,7 @@
 title: "Оголошено конкурс на вакантну посаду начальника відділу культури БМР"
 date: 2016-11-16
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

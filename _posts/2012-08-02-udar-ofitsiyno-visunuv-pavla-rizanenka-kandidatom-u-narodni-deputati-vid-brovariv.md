@@ -2,7 +2,7 @@
 title: "«УДАР» офіційно висунув Павла Різаненка кандидатом у народні депутати від Броварів"
 date: 2012-08-02
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "vibori"

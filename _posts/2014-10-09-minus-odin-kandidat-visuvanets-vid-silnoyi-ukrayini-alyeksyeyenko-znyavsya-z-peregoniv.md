@@ -2,7 +2,7 @@
 title: "Мінус один кандидат: висуванець від «Сильної України» Алєксєєнко знявся з перегонів"
 date: 2014-10-09
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "barishivka"

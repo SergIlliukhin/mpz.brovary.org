@@ -2,7 +2,7 @@
 title: "Вартість харчування у броварських школах і садках зросте на 30%"
 date: 2016-01-21
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

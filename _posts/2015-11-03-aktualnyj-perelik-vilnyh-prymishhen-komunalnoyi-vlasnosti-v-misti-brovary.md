@@ -2,7 +2,7 @@
 title: "Актуальний перелік вільних приміщень комунальної власності в місті Бровари"
 date: 2015-11-03
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

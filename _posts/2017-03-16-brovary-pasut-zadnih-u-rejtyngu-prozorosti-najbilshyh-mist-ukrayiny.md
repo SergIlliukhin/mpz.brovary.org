@@ -2,7 +2,7 @@
 title: "Бровари пасуть задніх у рейтингу прозорості найбільших міст України"
 date: 2017-03-16
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "rozsliduvannya"

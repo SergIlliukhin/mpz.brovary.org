@@ -2,7 +2,7 @@
 title: "За продаж конвалій штрафуватимуть не тільки продавців, а і покупців"
 date: 2017-05-03
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

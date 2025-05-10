@@ -2,7 +2,7 @@
 title: "Броварські січовики продовжують тримати Едельвейс в гарячих Пісках Донбасу - ВІДЕО"
 date: 2015-03-11
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "ato"

@@ -2,7 +2,7 @@
 title: "З Броварів до Києва – за півтори гривні! А по місту – 70 копійок"
 date: 2012-04-01
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"

@@ -2,7 +2,7 @@
 title: "АНОНС: У суботу на Торгмаші турніром \"Броварський талісман-2015\" відкриють волейбольний майданчик"
 date: 2015-08-20
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

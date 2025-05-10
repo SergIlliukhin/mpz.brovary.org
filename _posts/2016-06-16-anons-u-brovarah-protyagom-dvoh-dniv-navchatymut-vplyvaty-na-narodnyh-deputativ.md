@@ -2,7 +2,7 @@
 title: "АНОНС:  У Броварах протягом двох днів навчатимуть впливати на народних депутатів"
 date: 2016-06-16
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

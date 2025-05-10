@@ -2,7 +2,7 @@
 title: "За два дні в Броварах ліквідують 60 погребів та 40 гаражів, – міськрада"
 date: 2016-09-05
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

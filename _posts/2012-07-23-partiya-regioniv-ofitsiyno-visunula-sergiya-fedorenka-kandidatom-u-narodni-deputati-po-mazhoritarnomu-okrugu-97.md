@@ -2,7 +2,7 @@
 title: "Партія регіонів офіційно висунула Сергія Федоренка кандидатом у народні депутати по мажоритарному округу № 97"
 date: 2012-07-23
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

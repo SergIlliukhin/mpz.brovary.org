@@ -2,7 +2,7 @@
 title: "ТСН: У Міносвіти набір студентів до Поліцейської академії назвали шахрайством - ВІДЕО"
 date: 2013-11-04
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

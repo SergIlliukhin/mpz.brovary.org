@@ -2,7 +2,7 @@
 title: "АНОНС: Завтра відбудеться позачергова сесія міської ради"
 date: 2016-01-11
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

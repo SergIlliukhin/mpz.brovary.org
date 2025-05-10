@@ -2,7 +2,7 @@
 title: "Басейн «Купава» у Броварах відкрили «на один день» для Азарова та обраних ЗМІ"
 date: 2014-01-08
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "azarov"

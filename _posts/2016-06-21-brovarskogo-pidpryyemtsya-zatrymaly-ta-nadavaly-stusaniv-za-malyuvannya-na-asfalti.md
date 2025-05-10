@@ -2,7 +2,7 @@
 title: "Охоронець «КомКону» надавав стусанів підприємцю за малювання реклами на асфальті?"
 date: 2016-06-21
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

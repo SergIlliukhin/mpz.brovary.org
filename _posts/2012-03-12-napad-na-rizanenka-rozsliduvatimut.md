@@ -2,7 +2,7 @@
 title: "Напад на Різаненка розслідуватимуть його опоненти"
 date: 2012-03-12
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

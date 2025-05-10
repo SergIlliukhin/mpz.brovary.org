@@ -2,7 +2,7 @@
 title: "В окрузі №97 зареєстрували ще одного «самовисуванця» - Валерія Деркача"
 date: 2014-09-23
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

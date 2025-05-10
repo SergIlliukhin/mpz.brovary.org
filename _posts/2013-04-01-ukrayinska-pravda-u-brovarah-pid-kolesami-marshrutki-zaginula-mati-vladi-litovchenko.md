@@ -2,7 +2,7 @@
 title: "\"Українська правда\": У Броварах під колесами маршрутки загинула мати Влади Литовченко"
 date: 2013-04-01
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

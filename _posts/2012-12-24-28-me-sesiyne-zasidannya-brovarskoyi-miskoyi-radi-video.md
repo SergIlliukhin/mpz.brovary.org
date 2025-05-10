@@ -2,7 +2,7 @@
 title: "28-ме сесійне засідання Броварської міської ради – ВІДЕО"
 date: 2012-12-24
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

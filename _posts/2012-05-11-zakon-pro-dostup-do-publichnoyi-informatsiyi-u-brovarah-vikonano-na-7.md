@@ -2,7 +2,7 @@
 title: "Закон «Про доступ до публічної інформації» у Броварах виконано на 70%"
 date: 2012-05-11
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "informatsiyni-zapiti"

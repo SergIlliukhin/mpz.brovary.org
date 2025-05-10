@@ -2,7 +2,7 @@
 title: "Аварійність пасажирських перевезень зросла, броварське ДАІ проводить бесіди з автоперевізниками"
 date: 2015-11-02
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

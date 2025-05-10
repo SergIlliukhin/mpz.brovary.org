@@ -2,7 +2,7 @@
 title: "«Гроші» (1+1): Організація «Варта» Юрія Кравця дурить людей на гроші"
 date: 2017-02-08
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

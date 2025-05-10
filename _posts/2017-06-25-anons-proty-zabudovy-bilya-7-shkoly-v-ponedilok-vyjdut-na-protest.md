@@ -2,7 +2,7 @@
 title: "АНОНС: Проти забудови біля 7-ї школи в понеділок вийдуть на протест"
 date: 2017-06-25
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

@@ -2,7 +2,7 @@
 title: "АНОНС: Завтра на бульварі Незалежності, 12В розкажуть про права співвласників багатоквартирних будинків"
 date: 2015-09-02
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

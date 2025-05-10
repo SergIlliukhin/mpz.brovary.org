@@ -2,7 +2,7 @@
 title: "Броварська міська рада заборонила відеозапис сесії 20.10.2011"
 date: 2011-11-12
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "miska-rada"

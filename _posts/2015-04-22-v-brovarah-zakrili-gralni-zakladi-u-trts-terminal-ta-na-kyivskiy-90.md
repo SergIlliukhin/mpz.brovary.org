@@ -2,7 +2,7 @@
 title: "У Броварах закрили гральні заклади: у ТРЦ \"Термінал\" та на Київській, 90"
 date: 2015-04-22
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

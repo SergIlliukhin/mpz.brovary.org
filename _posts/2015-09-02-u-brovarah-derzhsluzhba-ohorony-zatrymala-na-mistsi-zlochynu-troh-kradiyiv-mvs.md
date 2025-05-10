@@ -2,7 +2,7 @@
 title: "У Броварах держслужба охорони затримала на місці злочину трьох крадіїв, - МВС"
 date: 2015-09-02
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

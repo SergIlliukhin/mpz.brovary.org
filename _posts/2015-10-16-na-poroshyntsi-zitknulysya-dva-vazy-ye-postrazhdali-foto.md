@@ -2,7 +2,7 @@
 title: "На Порошинці зіткнулися два ВАЗи, є постраждалі - ФОТО"
 date: 2015-10-16
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

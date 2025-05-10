@@ -2,7 +2,7 @@
 title: "Броварські комунальники мають 33 справні машини для боротьби зі снігом – міськвиконком"
 date: 2016-01-20
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

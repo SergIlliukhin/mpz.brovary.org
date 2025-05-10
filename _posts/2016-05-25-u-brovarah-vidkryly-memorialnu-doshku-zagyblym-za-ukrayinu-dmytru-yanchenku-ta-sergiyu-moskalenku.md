@@ -2,7 +2,7 @@
 title: "У Броварах відкрили меморіальну дошку загиблим за Україну Дмитру Янченку та Сергію Москаленку"
 date: 2016-05-25
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

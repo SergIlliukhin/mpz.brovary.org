@@ -2,7 +2,7 @@
 title: "АНОНС: Завтра 5-й загін тероборони показово святкуватиме свою першу річницю"
 date: 2015-09-11
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

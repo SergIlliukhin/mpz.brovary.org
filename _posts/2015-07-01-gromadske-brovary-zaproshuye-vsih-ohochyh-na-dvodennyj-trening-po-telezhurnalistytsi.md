@@ -2,7 +2,7 @@
 title: "АНОНС: \"Громадське. Бровари\" запрошує всіх охочих на дводенний тренінг по тележурналістиці"
 date: 2015-07-01
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

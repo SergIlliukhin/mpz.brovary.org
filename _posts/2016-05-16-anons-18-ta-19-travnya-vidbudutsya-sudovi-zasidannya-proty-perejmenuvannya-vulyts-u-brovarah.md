@@ -2,7 +2,7 @@
 title: "АНОНС: 18 та 19 травня відбудуться судові засідання проти перейменування вулиць у Броварах"
 date: 2016-05-16
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

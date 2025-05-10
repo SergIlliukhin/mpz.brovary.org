@@ -2,7 +2,7 @@
 title: "Громадських активістів запрошують на відкрите засідання ТВК у Київській області"
 date: 2015-09-14
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

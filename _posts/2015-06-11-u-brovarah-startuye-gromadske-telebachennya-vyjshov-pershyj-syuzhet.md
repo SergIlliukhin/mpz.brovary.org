@@ -2,7 +2,7 @@
 title: "У Броварах стартує Громадське телебачення: вийшов перший сюжет"
 date: 2015-06-11
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

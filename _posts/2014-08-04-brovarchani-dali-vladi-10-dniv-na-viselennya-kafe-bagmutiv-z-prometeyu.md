@@ -2,7 +2,7 @@
 title: "Броварчани дали владі 10 днів на виселення кафе Багмутів з «Прометею»"
 date: 2014-08-04
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "aktsiyi-zahodi"

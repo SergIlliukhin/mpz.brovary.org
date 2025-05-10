@@ -2,7 +2,7 @@
 title: "У суботу броварчан кличуть на автопробіг та протестну ходу \"Бровари, вставай!\""
 date: 2014-01-29
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

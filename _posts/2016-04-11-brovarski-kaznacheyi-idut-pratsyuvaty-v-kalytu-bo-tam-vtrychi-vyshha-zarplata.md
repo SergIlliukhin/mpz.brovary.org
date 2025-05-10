@@ -2,7 +2,7 @@
 title: "Броварські казначеї ідуть працювати в Калиту, бо там втричі вища зарплата"
 date: 2016-04-11
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

@@ -2,7 +2,7 @@
 title: "Політичний «феномен» Ігоря Сапожка. Частина третя: Місцеві вибори 2015 року – плани на реванш і новий покровитель"
 date: 2015-09-02
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "rozsliduvannya"

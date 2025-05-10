@@ -2,7 +2,7 @@
 title: "Головний санлікар Броварів: \"Епідемічна ситуація в місті — благополучна\""
 date: 2017-01-30
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

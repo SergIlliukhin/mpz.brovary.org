@@ -2,7 +2,7 @@
 title: "Виконком визначив порядок відбору та направлення юних броварчан до літніх таборів"
 date: 2013-05-28
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

@@ -2,7 +2,7 @@
 title: "Ні заборона суду, ні раптова заметіль не стала на заваді акції протесту проти брехливої преси в Броварах"
 date: 2012-03-04
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

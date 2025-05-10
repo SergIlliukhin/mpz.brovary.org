@@ -2,7 +2,7 @@
 title: "Сьогоднішню позачергову сесію Броварської міськради скасували"
 date: 2015-12-30
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

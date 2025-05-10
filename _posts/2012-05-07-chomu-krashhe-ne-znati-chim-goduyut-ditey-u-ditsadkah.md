@@ -2,7 +2,7 @@
 title: "Чому краще не знати, чим годують дітей у дитсадках?"
 date: 2012-05-07
 author: 
-  username: "SergIlliukhin"
+  username: "sergilliukhin"
   display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"

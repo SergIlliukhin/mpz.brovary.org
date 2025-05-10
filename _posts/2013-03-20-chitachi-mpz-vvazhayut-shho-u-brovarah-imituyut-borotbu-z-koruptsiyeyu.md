@@ -2,7 +2,7 @@
 title: "Читачі \"МПЗ\" вважають, що у Броварах лише імітують боротьбу з корупцією"
 date: 2013-03-20
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "garnyk"

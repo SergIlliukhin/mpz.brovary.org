@@ -2,7 +2,7 @@
 title: "Під Броварами поїзд переїхав людину, чоловік не вижив, – поліція"
 date: 2017-04-05
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

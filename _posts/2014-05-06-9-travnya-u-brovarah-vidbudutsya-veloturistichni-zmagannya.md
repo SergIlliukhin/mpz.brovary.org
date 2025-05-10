@@ -2,7 +2,7 @@
 title: "9 травня у Броварах відбудуться велотуристичні змагання"
 date: 2014-05-06
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

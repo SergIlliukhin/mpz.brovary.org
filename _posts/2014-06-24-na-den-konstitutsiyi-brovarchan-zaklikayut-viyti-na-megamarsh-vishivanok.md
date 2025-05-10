@@ -2,7 +2,7 @@
 title: "У День Конституції броварчан запрошують прийти на Мегамарш вишиванок"
 date: 2014-06-24
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

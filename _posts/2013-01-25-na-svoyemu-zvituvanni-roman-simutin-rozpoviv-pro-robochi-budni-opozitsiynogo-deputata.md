@@ -2,7 +2,7 @@
 title: "На своєму звітуванні Роман Сімутін розповів про робочі будні опозиційного депутата"
 date: 2013-01-25
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "brovary"

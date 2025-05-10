@@ -2,7 +2,7 @@
 title: "Броварський центр психології збирає кошти на АТО через День відкритих дверей"
 date: 2015-04-02
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

@@ -2,7 +2,7 @@
 title: "АНОНС: 22 вересня відбудеться чергова 18-та сесія Броварської міської ради"
 date: 2016-08-26
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

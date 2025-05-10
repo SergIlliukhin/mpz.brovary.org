@@ -2,7 +2,7 @@
 title: "27 серпня у Броварах покажуть документальний кіноальманах «Відкритий доступ»"
 date: 2013-08-21
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

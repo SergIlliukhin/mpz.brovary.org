@@ -2,7 +2,7 @@
 title: "День Державного Прапора відзначили у Броварах - HromadskeBro.tv"
 date: 2015-08-23
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

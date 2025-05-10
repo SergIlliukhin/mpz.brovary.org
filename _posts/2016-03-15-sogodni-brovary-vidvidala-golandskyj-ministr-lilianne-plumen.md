@@ -2,7 +2,7 @@
 title: "Сьогодні Бровари відвідала голандський міністр Ліліанне Плумен"
 date: 2016-03-15
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

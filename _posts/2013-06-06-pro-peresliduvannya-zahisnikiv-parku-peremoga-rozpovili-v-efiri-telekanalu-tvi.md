@@ -2,7 +2,7 @@
 title: "Про переслідування захисників парку \"Перемога\" розповіли в ефірі телеканалу \"ТВі\""
 date: 2013-06-06
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

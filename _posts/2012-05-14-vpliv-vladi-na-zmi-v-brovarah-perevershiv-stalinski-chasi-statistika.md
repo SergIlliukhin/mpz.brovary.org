@@ -2,7 +2,7 @@
 title: "Вплив влади на ЗМІ в Броварах перевершив сталінські часи – статистика"
 date: 2012-05-14
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"

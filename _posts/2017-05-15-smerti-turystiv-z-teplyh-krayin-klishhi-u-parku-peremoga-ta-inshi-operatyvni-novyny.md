@@ -2,7 +2,7 @@
 title: "Смерті туристів з теплих країн, кліщі у парку «Перемога» та інші оперативні новини"
 date: 2017-05-15
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

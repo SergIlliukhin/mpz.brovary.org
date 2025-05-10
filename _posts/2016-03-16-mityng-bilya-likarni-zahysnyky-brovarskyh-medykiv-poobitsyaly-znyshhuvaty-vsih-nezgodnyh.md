@@ -2,7 +2,7 @@
 title: "Мітинг біля лікарні: захисники броварських медиків пообіцяли «знищувати» всіх незгодних"
 date: 2016-03-16
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

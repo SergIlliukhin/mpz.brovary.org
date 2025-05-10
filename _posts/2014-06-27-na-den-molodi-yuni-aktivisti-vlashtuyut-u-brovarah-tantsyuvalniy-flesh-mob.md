@@ -2,7 +2,7 @@
 title: "На День молоді юні активісти влаштують у Броварах танцювальний флеш-моб"
 date: 2014-06-27
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

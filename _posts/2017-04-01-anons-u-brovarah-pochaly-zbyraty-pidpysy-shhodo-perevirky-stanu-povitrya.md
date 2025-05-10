@@ -2,7 +2,7 @@
 title: "АНОНС: У Броварах почали збирати підписи щодо перевірки стану повітря"
 date: 2017-04-01
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

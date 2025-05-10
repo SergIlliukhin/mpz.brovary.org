@@ -2,7 +2,7 @@
 title: "Для оперативного отримання «гарячих новин» підписуйтесь на розсилку «Маєш право знати»"
 date: 2012-08-10
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "mayesh-pravo-znati"

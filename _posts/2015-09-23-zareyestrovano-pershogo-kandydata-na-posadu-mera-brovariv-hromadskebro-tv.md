@@ -2,7 +2,7 @@
 title: "Зареєстровано першого кандидата на посаду мера Броварів - HromadskeBro.tv"
 date: 2015-09-23
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

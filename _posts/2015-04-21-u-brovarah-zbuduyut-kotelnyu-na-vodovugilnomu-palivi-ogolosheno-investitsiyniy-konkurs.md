@@ -2,7 +2,7 @@
 title: "У Броварах збудують котельню на водовугільному паливі: оголошено інвестиційний конкурс"
 date: 2015-04-21
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "investitsiyniy-konkurs"

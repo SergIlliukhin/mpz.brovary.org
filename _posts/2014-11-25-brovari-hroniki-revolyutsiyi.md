@@ -2,7 +2,7 @@
 title: "Документальне відео до річниці початку Майдану «Бровари. Хроніки Революції»."
 date: 2014-11-25
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

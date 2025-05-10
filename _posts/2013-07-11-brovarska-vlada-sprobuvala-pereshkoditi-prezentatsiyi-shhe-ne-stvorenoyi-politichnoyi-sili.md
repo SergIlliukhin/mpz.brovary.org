@@ -2,7 +2,7 @@
 title: "Броварська влада злякалась ще не створеної політичної сили"
 date: 2013-07-11
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "biblioteka"

@@ -2,7 +2,7 @@
 title: "АНОНС: 1 грудня відбудеться засідання Громадської ради при поліції"
 date: 2015-11-30
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

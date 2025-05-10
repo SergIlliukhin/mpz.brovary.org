@@ -2,7 +2,7 @@
 title: "Операція \"Чисті вікна\""
 date: 2011-11-22
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "novini"

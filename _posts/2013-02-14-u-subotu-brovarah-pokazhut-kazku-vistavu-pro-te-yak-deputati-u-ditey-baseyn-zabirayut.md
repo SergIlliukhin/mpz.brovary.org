@@ -2,7 +2,7 @@
 title: "Цієї суботи у Броварах покажуть казку-виставу про те, як депутати у дітей басейн забирають"
 date: 2013-02-14
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

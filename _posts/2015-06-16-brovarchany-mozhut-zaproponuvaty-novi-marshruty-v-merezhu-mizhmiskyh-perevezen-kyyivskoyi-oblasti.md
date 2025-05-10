@@ -2,7 +2,7 @@
 title: "Броварчани можуть запропонувати нові маршрути в мережу міжміських перевезень Київської області"
 date: 2015-06-16
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

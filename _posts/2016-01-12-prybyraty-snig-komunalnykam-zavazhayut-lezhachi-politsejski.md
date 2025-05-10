@@ -2,7 +2,7 @@
 title: "Прибирати сніг комунальникам заважають \"лежачі поліцейські\""
 date: 2016-01-12
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

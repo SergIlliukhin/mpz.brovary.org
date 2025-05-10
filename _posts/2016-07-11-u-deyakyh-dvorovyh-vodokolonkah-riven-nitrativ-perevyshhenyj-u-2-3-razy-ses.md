@@ -2,7 +2,7 @@
 title: "У деяких дворових водоколонках рівень нітратів перевищений у 2-3 рази – СЕС"
 date: 2016-07-11
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

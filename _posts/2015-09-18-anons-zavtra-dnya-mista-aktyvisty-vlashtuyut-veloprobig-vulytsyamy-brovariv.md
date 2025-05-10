@@ -2,7 +2,7 @@
 title: "АНОНС: Завтра до дня міста активісти влаштують велопробіг вулицями Броварів"
 date: 2015-09-18
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

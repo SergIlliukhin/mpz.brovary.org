@@ -2,7 +2,7 @@
 title: "У Броварській міській раді з’явився новий депутат від «Батьківщини»"
 date: 2016-05-04
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

@@ -2,7 +2,7 @@
 title: "Броварська міська рада попереджає: ЕКТА"
 date: 2012-01-10
 author: 
-  username: "SergIlliukhin"
+  username: "sergilliukhin"
   display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"

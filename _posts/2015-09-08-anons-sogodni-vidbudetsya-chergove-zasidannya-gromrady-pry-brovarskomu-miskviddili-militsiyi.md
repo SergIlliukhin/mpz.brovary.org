@@ -2,7 +2,7 @@
 title: "АНОНС: Сьогодні відбудеться чергове засідання Громради при Броварському міськвідділі міліції"
 date: 2015-09-08
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

@@ -2,7 +2,7 @@
 title: "Поліси \"автоцивілки\" для броварських водіїв здорожчають"
 date: 2016-07-07
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

@@ -2,7 +2,7 @@
 title: "Андрій Василенко і Аліна Дяченко більше не депутати"
 date: 2016-12-23
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

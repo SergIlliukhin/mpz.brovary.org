@@ -2,7 +2,7 @@
 title: "Завтра на восьми вулицях вимкнуть електрику аж до весни: світло обіцяють лише ввечері-вночі"
 date: 2016-02-01
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

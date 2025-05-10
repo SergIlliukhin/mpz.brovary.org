@@ -2,7 +2,7 @@
 title: "Коаліція політичних сил Київщини висуває Кищука кандидатом на голову броварської РДА"
 date: 2014-03-24
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"

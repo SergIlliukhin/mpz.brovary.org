@@ -2,7 +2,7 @@
 title: "Ті, що будують: які розміри пайових внесків встановив міськвиконком"
 date: 2015-12-18
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

@@ -2,7 +2,7 @@
 title: "Суд проти перейменування вулиць почав розгляд справи по суті – ФОТОРЕПОРТАЖ"
 date: 2016-04-14
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

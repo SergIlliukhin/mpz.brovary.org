@@ -2,7 +2,7 @@
 title: "«Мамин Hand Made»: Цієї суботи відбудеться благодійний ярмарок на допомогу дітям із нещасливих родин"
 date: 2016-05-04
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

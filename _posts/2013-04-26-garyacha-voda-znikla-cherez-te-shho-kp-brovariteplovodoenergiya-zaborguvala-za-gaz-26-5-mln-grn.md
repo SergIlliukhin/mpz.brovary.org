@@ -2,7 +2,7 @@
 title: "Гаряча вода зникла через те, що \"Броваритепловодоенергія\" заборгувала за газ понад 26 млн. грн?"
 date: 2013-04-26
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "vibir-redaktsiyi"

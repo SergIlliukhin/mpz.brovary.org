@@ -2,7 +2,7 @@
 title: "Комбат Антоненко знову йде в мери – HromadskeBro.tv"
 date: 2015-10-02
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

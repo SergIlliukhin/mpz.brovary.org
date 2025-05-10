@@ -2,7 +2,7 @@
 title: "Підписані нові закони: голосування в міській раді - поіменне та відкрите, адмінпослуги стануть ближчими до людей"
 date: 2015-12-28
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

@@ -2,7 +2,7 @@
 title: "Таємниці місцевих виборів-2010 розкрито: опубліковано архів документів ТВК"
 date: 2012-09-14
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "arhiv"

@@ -2,7 +2,7 @@
 title: "Через аварію на водогоні вулиця Героїв Небесної Сотні лишилася без води - ФОТО"
 date: 2016-11-18
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

@@ -2,7 +2,7 @@
 title: "У яких броварських школах найкраще навчають українській - рейтинг за результатами ЗНО"
 date: 2015-07-17
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

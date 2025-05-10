@@ -2,7 +2,7 @@
 title: "АНОНС: 11 липня у Броварах розкажуть про участь громадян у розподілі бюджетних коштів"
 date: 2016-07-08
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

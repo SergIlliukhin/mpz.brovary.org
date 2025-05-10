@@ -2,7 +2,7 @@
 title: "Щеплення проти туберкульозу: обговоренню не підлягає?"
 date: 2017-02-15
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

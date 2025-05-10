@@ -2,7 +2,7 @@
 title: "Міськрада планує виставити на торги право оренди 6 земельних ділянок"
 date: 2012-12-04
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

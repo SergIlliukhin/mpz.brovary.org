@@ -2,7 +2,7 @@
 title: "Хто балотується до Броварської міської ради: перелік всіх кандидатів по 36 округах"
 date: 2015-10-16
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

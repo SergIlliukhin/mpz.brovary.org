@@ -2,7 +2,7 @@
 title: "У Броварах змінено спосіб очищення водопровідної води: замість хлору - гіпохлорит натрію"
 date: 2013-10-30
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "brovariteplovodoenergiya"

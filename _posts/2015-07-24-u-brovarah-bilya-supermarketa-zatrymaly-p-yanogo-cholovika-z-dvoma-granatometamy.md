@@ -2,7 +2,7 @@
 title: "У Броварах біля супермаркета затримали п'яного чоловіка з двома гранатометами"
 date: 2015-07-24
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

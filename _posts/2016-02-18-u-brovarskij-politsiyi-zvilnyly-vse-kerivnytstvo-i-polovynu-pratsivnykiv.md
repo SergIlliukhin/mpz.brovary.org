@@ -2,7 +2,7 @@
 title: "У броварській поліції звільнили все керівництво і половину працівників"
 date: 2016-02-18
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

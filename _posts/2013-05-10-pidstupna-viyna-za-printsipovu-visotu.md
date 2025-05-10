@@ -2,7 +2,7 @@
 title: "Підступна війна за принципову висоту"
 date: 2013-05-10
 author: 
-  username: "SergIlliukhin"
+  username: "sergilliukhin"
   display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"

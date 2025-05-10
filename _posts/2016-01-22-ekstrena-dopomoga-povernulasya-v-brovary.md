@@ -2,7 +2,7 @@
 title: "Екстрена медична допомога повернулася в Бровари"
 date: 2016-01-22
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

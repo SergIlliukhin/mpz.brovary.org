@@ -2,7 +2,7 @@
 title: "«День тушки»: шестеро осіб отримали усю повноту влади у Броварах"
 date: 2016-03-16
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

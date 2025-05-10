@@ -2,7 +2,7 @@
 title: "Інтерактивна карта ремонтів доріг у Броварах оприлюднена на сайті міськради"
 date: 2017-03-27
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

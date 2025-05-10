@@ -2,7 +2,7 @@
 title: "Чиновницю Броварської райдержадміністрації судитимуть за розтрату бюджетних коштів"
 date: 2016-07-19
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

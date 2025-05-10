@@ -2,7 +2,7 @@
 title: "Депутат від БПП ініціює повернення комуністичних назв броварським вулицям"
 date: 2016-04-06
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

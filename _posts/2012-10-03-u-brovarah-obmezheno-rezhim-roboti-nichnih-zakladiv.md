@@ -2,7 +2,7 @@
 title: "У Броварах обмежено режим роботи чотирьох нічних закладів"
 date: 2012-10-03
 author: 
-  username: "SergIlliukhin"
+  username: "sergilliukhin"
   display_name: "Сергій Іллюхін"
 tags: 
   - "music-hall"

@@ -2,7 +2,7 @@
 title: "Учасникам сутичок у броварській міськраді загрожує до семи років в’язниці, - поліція"
 date: 2016-04-26
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

@@ -2,7 +2,7 @@
 title: "Броварська прокуратура звітує про стан законності на території Броварів за 6 місяців 2014 року"
 date: 2014-07-16
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovarska-prokuratura"

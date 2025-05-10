@@ -2,7 +2,7 @@
 title: "Військкомат Броварів оголосив прізвища \"ухильників\" та запрошує на службу за контрактом"
 date: 2015-07-30
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

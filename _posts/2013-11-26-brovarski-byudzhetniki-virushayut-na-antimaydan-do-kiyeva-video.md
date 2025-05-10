@@ -2,7 +2,7 @@
 title: "Броварські бюджетники вирушають на \"антимайдан\" до Києва - ВІДЕО"
 date: 2013-11-26
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

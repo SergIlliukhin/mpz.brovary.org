@@ -2,7 +2,7 @@
 title: "Чи закуповувати роботи та послуги на \"Прозорро\", 4 серпня вирішать броварські депутати"
 date: 2016-07-13
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

@@ -2,7 +2,7 @@
 title: "Нестача кадрів у лікарні сягнула апогею, - головний лікар БЦРЛ"
 date: 2017-03-27
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

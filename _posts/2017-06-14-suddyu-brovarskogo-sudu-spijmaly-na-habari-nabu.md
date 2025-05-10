@@ -2,7 +2,7 @@
 title: "Суддю броварського суду спіймали на хабарі, - НАБУ"
 date: 2017-06-14
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

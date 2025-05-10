@@ -2,7 +2,7 @@
 title: "«Маєш право знати» започатковує нову рубрику «Споживач має право»"
 date: 2012-06-21
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "kolonka-avtora"

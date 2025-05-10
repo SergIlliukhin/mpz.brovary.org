@@ -2,7 +2,7 @@
 title: "ОВК під головуванням Волошина затвердила склад ДВК голосуванням за \"кота у мішку\""
 date: 2012-09-28
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "brovary"

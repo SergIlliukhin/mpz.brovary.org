@@ -2,7 +2,7 @@
 title: "Трасу Бровари-Київ заблокували, аби звернути увагу влади на ситуацію під Дебальцевим"
 date: 2015-02-17
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "blokvaannya-trasi-brovari-kiyiv"

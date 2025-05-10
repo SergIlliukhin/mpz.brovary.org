@@ -2,7 +2,7 @@
 title: "Статистика ДТП у Броварах: 33 аварії, 4 загиблих і 58 травмованих за півроку, - ДАІ"
 date: 2015-07-02
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

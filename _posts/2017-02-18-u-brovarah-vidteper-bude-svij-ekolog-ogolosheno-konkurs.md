@@ -2,7 +2,7 @@
 title: "У Броварах відтепер буде свій еколог. Оголошено конкурс"
 date: 2017-02-18
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

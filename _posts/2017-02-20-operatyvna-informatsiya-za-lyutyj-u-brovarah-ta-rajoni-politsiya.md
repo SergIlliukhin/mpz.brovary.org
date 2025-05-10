@@ -2,7 +2,7 @@
 title: "Оперативна інформація за лютий у Броварах та районі, - поліція"
 date: 2017-02-20
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

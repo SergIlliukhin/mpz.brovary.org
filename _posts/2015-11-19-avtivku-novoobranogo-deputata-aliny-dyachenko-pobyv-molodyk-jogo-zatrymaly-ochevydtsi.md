@@ -2,7 +2,7 @@
 title: "Автівку новообраного депутата Аліни Дяченко побив молодик, його затримали - очевидці"
 date: 2015-11-19
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

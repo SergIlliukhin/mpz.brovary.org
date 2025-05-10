@@ -2,7 +2,7 @@
 title: "Вночі броварчани не пропустили до Києва автобуси з силовиками, а міліціянти потрапили до лікарні"
 date: 2014-02-20
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "barikada"

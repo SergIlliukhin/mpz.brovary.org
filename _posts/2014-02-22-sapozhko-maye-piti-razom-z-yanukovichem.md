@@ -2,7 +2,7 @@
 title: "Сапожко має піти разом з Януковичем"
 date: 2014-02-22
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 categories: 
   - "kolonka-avtora"

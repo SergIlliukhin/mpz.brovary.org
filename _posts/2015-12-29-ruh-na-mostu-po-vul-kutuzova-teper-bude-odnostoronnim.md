@@ -2,7 +2,7 @@
 title: "Рух на мосту по вул.Кутузова тепер буде одностороннім"
 date: 2015-12-29
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

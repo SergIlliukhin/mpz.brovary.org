@@ -2,7 +2,7 @@
 title: "Самооборона та військкомат проведуть чергове занняття з військової підготовки"
 date: 2014-03-20
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

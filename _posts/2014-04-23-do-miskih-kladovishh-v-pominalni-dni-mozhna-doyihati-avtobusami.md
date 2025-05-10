@@ -2,7 +2,7 @@
 title: "До міських кладовищ в поминальні дні можна доїхати автобусами"
 date: 2014-04-23
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "novini"

@@ -2,7 +2,7 @@
 title: "В озері на «Пекарні» загинула дитина, можливо вдарило струмом від земснаряду"
 date: 2016-06-19
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

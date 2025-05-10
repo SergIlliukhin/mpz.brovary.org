@@ -2,7 +2,7 @@
 title: "АНОНС: Громадське обговорення кандидатів на начальника управління освіти: \"нової крові\" не буде"
 date: 2016-03-01
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

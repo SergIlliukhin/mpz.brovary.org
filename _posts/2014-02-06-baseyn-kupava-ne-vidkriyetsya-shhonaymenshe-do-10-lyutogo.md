@@ -2,7 +2,7 @@
 title: "Басейн \"Купава\" не відкриється щонайменше до 10 лютого"
 date: 2014-02-06
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "baseyn"

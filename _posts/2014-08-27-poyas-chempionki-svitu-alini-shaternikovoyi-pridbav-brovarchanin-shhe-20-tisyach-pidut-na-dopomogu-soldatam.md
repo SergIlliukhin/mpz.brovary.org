@@ -2,7 +2,7 @@
 title: "Чемпіонський пояс боксерки Шатерникової придбав броварчанин: ще 20 тисяч підуть на допомогу солдатам"
 date: 2014-08-27
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"

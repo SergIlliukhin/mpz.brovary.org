@@ -2,7 +2,7 @@
 title: "Деякі маршрутки \"Бровари-Київ\" оснастили системами запобігання аварій"
 date: 2015-07-15
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

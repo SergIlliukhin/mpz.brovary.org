@@ -2,7 +2,7 @@
 title: "АНОНС: 14 липня презентуватимуть муніципальну систему «І-БРОВАРИ»"
 date: 2016-07-11
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

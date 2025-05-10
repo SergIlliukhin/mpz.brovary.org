@@ -2,7 +2,7 @@
 title: "Хочу, щоб у 2013 році…"
 date: 2013-01-11
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 categories: 
   - "kolonka-avtora"

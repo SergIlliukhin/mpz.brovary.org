@@ -2,7 +2,7 @@
 title: "АНОНС: 9 жовтня в ТЕРМІНАЛІ - дитячий фестиваль «БравоKids»"
 date: 2016-10-03
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

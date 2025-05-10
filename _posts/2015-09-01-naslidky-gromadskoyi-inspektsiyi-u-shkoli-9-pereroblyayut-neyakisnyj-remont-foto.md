@@ -2,7 +2,7 @@
 title: "Наслідки громадської інспекції: у школі №9 переробляють неякісний ремонт - ФОТО"
 date: 2015-09-01
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "hromada"

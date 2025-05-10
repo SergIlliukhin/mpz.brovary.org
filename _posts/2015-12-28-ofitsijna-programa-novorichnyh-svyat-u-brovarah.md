@@ -2,7 +2,7 @@
 title: "Офіційна програма новорічних свят у Броварах"
 date: 2015-12-28
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

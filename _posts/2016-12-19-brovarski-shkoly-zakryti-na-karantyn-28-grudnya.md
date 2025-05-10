@@ -2,7 +2,7 @@
 title: "Броварські школи закриті на карантин до 28 грудня"
 date: 2016-12-19
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

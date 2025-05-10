@@ -2,7 +2,7 @@
 title: "Броварська молодь на один день перетворила міськраду на World Café"
 date: 2016-02-08
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "hromada"

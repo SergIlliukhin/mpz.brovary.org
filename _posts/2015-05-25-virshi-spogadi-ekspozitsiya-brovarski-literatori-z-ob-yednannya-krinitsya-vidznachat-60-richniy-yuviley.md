@@ -2,7 +2,7 @@
 title: "Вірші, спогади, експозиція: броварські літератори з об'єднання \"Криниця\" відзначать 60-річний ювілей"
 date: 2015-05-25
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

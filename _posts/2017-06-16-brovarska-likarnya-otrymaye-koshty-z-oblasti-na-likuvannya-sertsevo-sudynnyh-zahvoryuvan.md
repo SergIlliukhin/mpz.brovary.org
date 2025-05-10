@@ -2,7 +2,7 @@
 title: "Броварська лікарня отримає кошти з області на лікування серцево-судинних захворювань"
 date: 2017-06-16
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

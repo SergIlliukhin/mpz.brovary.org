@@ -2,7 +2,7 @@
 title: "5 причин, чому громадські активісти Броварів балотуються до міської ради"
 date: 2015-10-16
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 categories: 
   - "kolonka-avtora"

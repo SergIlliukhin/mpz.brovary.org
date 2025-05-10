@@ -2,7 +2,7 @@
 title: "Зареєстровано газету «Маєш право знати». Готується перший номер"
 date: 2012-04-02
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

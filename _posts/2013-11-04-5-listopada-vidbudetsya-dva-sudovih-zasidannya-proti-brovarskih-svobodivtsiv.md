@@ -2,7 +2,7 @@
 title: "5 листопада відбудеться два судових засідання проти броварських \"свободівців\""
 date: 2013-11-04
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

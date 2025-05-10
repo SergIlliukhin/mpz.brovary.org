@@ -2,7 +2,7 @@
 title: "АНОНС: 3 березня брати Капранови презентуватимуть \"Забудь-річку\" у Броварах"
 date: 2017-02-28
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

@@ -2,7 +2,7 @@
 title: "У четвер \"Броварський народний контроль\" розкаже, як боротись з корупцією - з власного досвіду"
 date: 2014-09-09
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

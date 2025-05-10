@@ -2,7 +2,7 @@
 title: "У Броварах проїзд у громадському транспорті подорожчав більш ніж на 40%"
 date: 2014-05-16
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

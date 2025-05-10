@@ -2,7 +2,7 @@
 title: "У Броварах часто фіксують хворобу Лайма від укусів кліщів, – санслужба"
 date: 2016-09-26
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

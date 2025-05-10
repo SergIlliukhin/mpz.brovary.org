@@ -2,7 +2,7 @@
 title: "Замість відкритого судового засідання – розмова у кабінеті судді за закритими дверима"
 date: 2012-07-10
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "brama"

@@ -2,7 +2,7 @@
 title: "Цієї суботи броварчанам влаштують «День сусіда»"
 date: 2015-03-19
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

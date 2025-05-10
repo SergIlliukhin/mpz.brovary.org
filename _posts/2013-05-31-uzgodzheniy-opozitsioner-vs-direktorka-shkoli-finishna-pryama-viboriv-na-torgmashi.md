@@ -2,7 +2,7 @@
 title: "Узгоджений опозиціонер vs директорка школи: фінішна пряма виборів на Торгмаші"
 date: 2013-05-31
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 categories: 
   - "rozsliduvannya"

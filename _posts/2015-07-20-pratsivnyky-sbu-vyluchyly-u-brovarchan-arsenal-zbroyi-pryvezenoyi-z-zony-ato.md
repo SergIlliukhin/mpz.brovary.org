@@ -2,7 +2,7 @@
 title: "Працівники СБУ вилучили у броварчан арсенал зброї, привезеної з зони АТО"
 date: 2015-07-20
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

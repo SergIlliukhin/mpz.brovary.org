@@ -2,7 +2,7 @@
 title: "Для \"Амністії\" залишаю орган \"громадського одобрямсу\" сумнівних рішень влади"
 date: 2012-09-18
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 categories: 
   - "kolonka-avtora"

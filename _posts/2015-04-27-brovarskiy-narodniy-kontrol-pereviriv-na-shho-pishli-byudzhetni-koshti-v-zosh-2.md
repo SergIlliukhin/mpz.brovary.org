@@ -2,7 +2,7 @@
 title: "\"Броварський народний контроль\" перевірив, на що пішли бюджетні кошти в ЗОШ №2"
 date: 2015-04-27
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "hromada"

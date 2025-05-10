@@ -2,7 +2,7 @@
 title: "Хто рахуватиме голоси виборців у 97 окрузі: несподівані \"метаморфози\" та \"зачистка\" складу ДВК"
 date: 2012-10-09
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "batyuk"

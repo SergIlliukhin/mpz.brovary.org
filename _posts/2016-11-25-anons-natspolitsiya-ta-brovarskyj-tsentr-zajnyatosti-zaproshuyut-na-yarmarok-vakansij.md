@@ -2,7 +2,7 @@
 title: "АНОНС: Нацполіція та Броварський центр зайнятості запрошують на ярмарок вакансій"
 date: 2016-11-25
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

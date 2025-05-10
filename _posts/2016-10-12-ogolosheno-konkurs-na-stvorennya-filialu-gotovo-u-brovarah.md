@@ -2,7 +2,7 @@
 title: "Оголошено конкурс на створення філіалу \"ГОТОВО\" у Броварах"
 date: 2016-10-12
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

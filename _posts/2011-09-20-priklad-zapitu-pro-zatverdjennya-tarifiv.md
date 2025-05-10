@@ -2,7 +2,7 @@
 title: "Приклад запиту про затвердження тарифів"
 date: 2011-09-20
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "zhkg"

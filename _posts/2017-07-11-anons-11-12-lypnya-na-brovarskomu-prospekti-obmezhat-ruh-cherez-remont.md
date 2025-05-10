@@ -2,7 +2,7 @@
 title: "АНОНС: 11-12 липня на Броварському проспекті обмежать рух через ремонт"
 date: 2017-07-11
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

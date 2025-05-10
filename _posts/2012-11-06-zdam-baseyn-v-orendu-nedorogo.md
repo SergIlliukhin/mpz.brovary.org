@@ -2,7 +2,7 @@
 title: "«Здам басейн в оренду. Недорого»"
 date: 2012-11-06
 author: 
-  username: "SergIlliukhin"
+  username: "sergilliukhin"
   display_name: "Сергій Іллюхін"
 categories: 
   - "rozsliduvannya"

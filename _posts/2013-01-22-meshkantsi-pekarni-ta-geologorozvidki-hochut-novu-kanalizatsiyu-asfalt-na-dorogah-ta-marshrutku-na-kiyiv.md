@@ -2,7 +2,7 @@
 title: "Мешканці Пекарні та Геологорозвідки хочуть нову каналізацію, асфальт на дорогах та маршрутку на Київ"
 date: 2013-01-22
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "brovary"

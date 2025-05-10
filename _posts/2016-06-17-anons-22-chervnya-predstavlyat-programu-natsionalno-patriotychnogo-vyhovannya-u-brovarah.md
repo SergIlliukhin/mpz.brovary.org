@@ -2,7 +2,7 @@
 title: "АНОНС: 22 червня представлять програму національно-патріотичного виховання у Броварах"
 date: 2016-06-17
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

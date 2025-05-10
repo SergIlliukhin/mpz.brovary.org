@@ -2,7 +2,7 @@
 title: "Вул. Коновальця після ремонту дороги: ворота дворів не відкриваються – ФОТО"
 date: 2016-11-07
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

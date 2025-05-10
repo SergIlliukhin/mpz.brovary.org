@@ -2,7 +2,7 @@
 title: "Завтра страйкувальники ТОВ \"Чисті матеріали\" пройдуть маршем до міської ради"
 date: 2013-01-29
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

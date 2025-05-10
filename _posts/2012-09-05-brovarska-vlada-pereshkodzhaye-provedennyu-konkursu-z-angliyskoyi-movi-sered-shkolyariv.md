@@ -2,7 +2,7 @@
 title: "Броварська влада перешкоджає проведенню конкурсу з англійської мови серед школярів"
 date: 2012-09-05
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary-challenge"

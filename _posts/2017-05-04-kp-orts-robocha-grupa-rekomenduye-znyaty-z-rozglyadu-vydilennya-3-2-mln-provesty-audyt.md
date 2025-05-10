@@ -2,7 +2,7 @@
 title: "КП «ОРЦ»: робоча група рекомендує зняти з розгляду виділення 3,2 млн і провести аудит"
 date: 2017-05-04
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

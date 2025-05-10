@@ -2,7 +2,7 @@
 title: "Ми змінюємось, щоб стати ще краще!"
 date: 2012-03-07
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

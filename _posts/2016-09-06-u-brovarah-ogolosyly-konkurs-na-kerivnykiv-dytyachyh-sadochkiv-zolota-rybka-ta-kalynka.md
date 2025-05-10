@@ -2,7 +2,7 @@
 title: "У Броварах оголосили конкурс на керівників дитячих садочків \"Золота рибка\" та \"Калинка\""
 date: 2016-09-06
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

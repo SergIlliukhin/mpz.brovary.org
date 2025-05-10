@@ -2,7 +2,7 @@
 title: "Аваков нагородив міліціонера, який «не помітив» нападів на журналістів під час візиту Азарова до Броварів"
 date: 2014-12-24
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "avakov"

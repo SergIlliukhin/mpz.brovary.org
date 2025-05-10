@@ -2,7 +2,7 @@
 title: "24TV: Міськрада Броварів подарувала 95 гектарів сільгоспземель"
 date: 2013-10-16
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

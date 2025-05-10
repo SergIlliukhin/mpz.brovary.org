@@ -2,7 +2,7 @@
 title: "12 квітня у Броварах християнські общини обговорять майбутнє України"
 date: 2014-04-09
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

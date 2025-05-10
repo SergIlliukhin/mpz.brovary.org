@@ -2,7 +2,7 @@
 title: "Слідства щодо смерті хлопчика на озері нема, винних не покарають – ВІДЕО"
 date: 2016-10-21
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

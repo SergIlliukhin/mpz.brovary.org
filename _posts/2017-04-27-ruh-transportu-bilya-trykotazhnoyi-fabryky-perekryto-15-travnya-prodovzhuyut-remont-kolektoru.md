@@ -2,7 +2,7 @@
 title: "Рух транспорту біля Трикотажної фабрики перекрито до 15 травня: продовжують ремонт колектору"
 date: 2017-04-27
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

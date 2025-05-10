@@ -2,7 +2,7 @@
 title: "В суботу у Броварах юні знавці англійської змагатимуться за поїздку до Туманного Альбіону"
 date: 2014-10-07
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

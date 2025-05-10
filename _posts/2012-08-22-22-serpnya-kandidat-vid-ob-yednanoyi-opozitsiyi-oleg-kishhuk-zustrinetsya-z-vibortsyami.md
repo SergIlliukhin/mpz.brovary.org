@@ -2,7 +2,7 @@
 title: "22 серпня кандидат від об’єднаної опозиції Олег Кищук зустрінеться з виборцями"
 date: 2012-08-22
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

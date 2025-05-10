@@ -2,7 +2,7 @@
 title: "Прикриваючись ДемАльянсом, зловмисники чинять тиск на броварську поліцію"
 date: 2016-03-24
 author: 
-  username: "SergIlliukhin"
+  username: "sergilliukhin"
   display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"

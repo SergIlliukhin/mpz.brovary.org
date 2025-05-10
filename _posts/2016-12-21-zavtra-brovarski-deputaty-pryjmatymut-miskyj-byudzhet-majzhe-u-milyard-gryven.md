@@ -2,7 +2,7 @@
 title: "Завтра броварські депутати прийматимуть міський бюджет майже у мільярд гривень"
 date: 2016-12-21
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

@@ -2,7 +2,7 @@
 title: "На перехресті, де вчора вдень впав світлофор, ввечері сталось серйозне ДТП"
 date: 2013-10-23
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "brovary"

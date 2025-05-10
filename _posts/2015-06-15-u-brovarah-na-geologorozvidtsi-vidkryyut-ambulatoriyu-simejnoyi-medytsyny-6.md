@@ -2,7 +2,7 @@
 title: "У Броварах на Геологорозвідці відкриють амбулаторію сімейної медицини №6"
 date: 2015-06-15
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

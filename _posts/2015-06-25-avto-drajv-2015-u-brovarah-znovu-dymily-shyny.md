@@ -2,7 +2,7 @@
 title: "Авто Драйв-2015: у Броварах знову диміли шини - HromadskeBro.tv"
 date: 2015-06-25
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

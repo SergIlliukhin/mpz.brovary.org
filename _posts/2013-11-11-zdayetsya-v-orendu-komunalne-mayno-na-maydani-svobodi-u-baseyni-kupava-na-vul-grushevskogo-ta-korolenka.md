@@ -2,7 +2,7 @@
 title: "Здається в оренду комунальне майно на Майдані Свободи, у басейні \"Купава\", на вул. Грушевського та Короленка"
 date: 2013-11-11
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

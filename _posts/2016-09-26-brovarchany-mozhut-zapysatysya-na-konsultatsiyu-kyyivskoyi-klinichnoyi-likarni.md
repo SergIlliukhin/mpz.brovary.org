@@ -2,7 +2,7 @@
 title: "Броварчани можуть записатися на консультацію до Київської клінічної лікарні"
 date: 2016-09-26
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "hromada"

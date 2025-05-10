@@ -2,7 +2,7 @@
 title: "АНОНС: Цієї суботи у Броварах відбудеться дитячий фестиваль «БравоKids»"
 date: 2016-04-14
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

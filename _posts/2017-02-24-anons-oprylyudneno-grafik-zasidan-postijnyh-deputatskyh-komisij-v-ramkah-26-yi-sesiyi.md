@@ -2,7 +2,7 @@
 title: "АНОНС: Оприлюднено графік засідань постійних депутатських комісій в рамках 26-ї сесії"
 date: 2017-02-24
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

@@ -2,7 +2,7 @@
 title: "Паралельні реальності броварської псевдожурналістики"
 date: 2012-02-14
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 categories: 
   - "kolonka-avtora"

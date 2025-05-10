@@ -2,7 +2,7 @@
 title: "Броварське управління комунвласності здає в оренду два приміщення на Масиві"
 date: 2015-11-19
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

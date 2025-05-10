@@ -2,7 +2,7 @@
 title: "У Броварах - новий прокурор та начальник міліції. Громада запрошує їх на діалог"
 date: 2014-09-25
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "brovarska-mizhrayonna-prokuratura"

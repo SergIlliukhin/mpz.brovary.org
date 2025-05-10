@@ -2,7 +2,7 @@
 title: "5 червня автори «Воїнів світла» дадуть сольний концерт у Броварах"
 date: 2015-06-02
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

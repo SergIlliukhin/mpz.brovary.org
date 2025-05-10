@@ -2,7 +2,7 @@
 title: "Броварські активісти беруться за проблему безпритульних тварин та шукають однодумців"
 date: 2014-08-11
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "bezpritulni-tvarini"

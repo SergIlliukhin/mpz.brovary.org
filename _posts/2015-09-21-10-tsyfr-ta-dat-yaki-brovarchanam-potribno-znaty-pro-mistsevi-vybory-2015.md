@@ -2,7 +2,7 @@
 title: "10 цифр та дат, які броварчанам потрібно знати про \"Місцеві вибори-2015\""
 date: 2015-09-21
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

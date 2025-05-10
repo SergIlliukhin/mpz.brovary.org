@@ -2,7 +2,7 @@
 title: "Під'їзд до ЗОШ №1 та кав'ярня - схему руху знову перероблять?"
 date: 2017-02-14
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

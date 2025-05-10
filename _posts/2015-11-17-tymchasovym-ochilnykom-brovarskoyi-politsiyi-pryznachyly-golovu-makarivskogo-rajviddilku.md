@@ -2,7 +2,7 @@
 title: "Тимчасовим очільником броварської поліції призначили голову макарівського райвідділку"
 date: 2015-11-17
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

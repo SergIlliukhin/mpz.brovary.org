@@ -2,7 +2,7 @@
 title: "УНІАН: Сапожко заборонив зустріч Кличка з броварчанами і стверджує, що дозволив"
 date: 2012-06-05
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

@@ -2,7 +2,7 @@
 title: "Проект рішення: 25% від кредиту для ОСББ і ЖБК можуть оплатити за міські гроші"
 date: 2016-07-15
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

@@ -2,7 +2,7 @@
 title: "А вам по дорозі? Броварчани винайшли рішення проблеми здорожчання проїзду до Києва"
 date: 2017-01-24
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "hromada"

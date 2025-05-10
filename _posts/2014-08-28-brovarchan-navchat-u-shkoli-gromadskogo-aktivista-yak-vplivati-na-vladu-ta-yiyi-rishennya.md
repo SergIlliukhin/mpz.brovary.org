@@ -2,7 +2,7 @@
 title: "Броварчан навчать у Школі громадського активіста, як впливати на владу"
 date: 2014-08-28
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

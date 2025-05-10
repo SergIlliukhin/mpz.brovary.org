@@ -2,7 +2,7 @@
 title: "Гацько закликав броварчан підтримати місцевий \"ДемАльянс\" – HromadskeBro.tv"
 date: 2015-10-20
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

@@ -2,7 +2,7 @@
 title: "Тарифи на постачання та відведення води у Броварах можуть зрости вже із березня"
 date: 2017-02-02
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

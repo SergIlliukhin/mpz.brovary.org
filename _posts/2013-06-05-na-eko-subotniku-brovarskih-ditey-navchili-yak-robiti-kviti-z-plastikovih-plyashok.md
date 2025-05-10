@@ -2,7 +2,7 @@
 title: "На еко-суботнику броварських дітей навчили, як робити квіти з пластикових пляшок"
 date: 2013-06-05
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "brovary"

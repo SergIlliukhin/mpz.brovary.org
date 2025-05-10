@@ -2,7 +2,7 @@
 title: "Як отримати одноразову матеріальну допомогу учасникам АТО"
 date: 2016-07-13
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

@@ -2,7 +2,7 @@
 title: "Біля 6-ї школи знайшли труп: лежав на смітнику близько місяця, - поліція"
 date: 2017-05-24
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

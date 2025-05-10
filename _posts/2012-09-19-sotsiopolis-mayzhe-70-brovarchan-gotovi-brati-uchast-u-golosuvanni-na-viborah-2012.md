@@ -2,7 +2,7 @@
 title: "«Соціополіс»: Майже 70% броварчан готові брати участь у голосуванні на виборах-2012"
 date: 2012-09-19
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

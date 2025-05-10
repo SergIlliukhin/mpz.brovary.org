@@ -2,7 +2,7 @@
 title: "У власність міста повертається дитячий садочок?"
 date: 2017-04-26
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

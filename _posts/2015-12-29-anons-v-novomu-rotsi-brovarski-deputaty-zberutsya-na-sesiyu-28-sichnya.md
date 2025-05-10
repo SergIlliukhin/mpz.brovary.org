@@ -2,7 +2,7 @@
 title: "АНОНС: В новому році броварські депутати зберуться на сесію 28 січня"
 date: 2015-12-29
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

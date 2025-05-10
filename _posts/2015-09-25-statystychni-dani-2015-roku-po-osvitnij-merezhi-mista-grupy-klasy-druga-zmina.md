@@ -2,7 +2,7 @@
 title: "Статистичні дані 2015 року по освітній мережі міста: групи, класи, друга зміна"
 date: 2015-09-25
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

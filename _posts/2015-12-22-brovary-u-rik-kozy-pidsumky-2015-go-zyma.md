@@ -2,7 +2,7 @@
 title: "Бровари у рік Кози. Частина перша: Зима"
 date: 2015-12-22
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "rozsliduvannya"

@@ -2,7 +2,7 @@
 title: "Завтра броварчани проведуть суботник у лісі та в парку \"Приозерний\". Приєднуйтесь!"
 date: 2014-04-04
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 categories: 
   - "announce"

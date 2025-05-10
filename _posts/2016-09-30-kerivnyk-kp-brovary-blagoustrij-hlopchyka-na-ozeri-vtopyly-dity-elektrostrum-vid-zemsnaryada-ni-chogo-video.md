@@ -2,7 +2,7 @@
 title: "Керівник КП «Бровари-Благоустрій»: хлопчика на озері втопили діти, електрострум від земснаряда ні до чого – ВІДЕО"
 date: 2016-09-30
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

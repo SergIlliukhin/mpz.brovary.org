@@ -2,7 +2,7 @@
 title: "На міжнародній олімпіаді з фізики школяр із Броварів здобув бронзу"
 date: 2016-07-19
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "hromada"

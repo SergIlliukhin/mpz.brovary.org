@@ -2,7 +2,7 @@
 title: "\"Газета.UA\": У Броварах - рейдерське захоплення Будинку побуту. Вже пікетують обласну прокуратуру - ВІДЕО"
 date: 2013-09-20
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "aktsiya-protestu"

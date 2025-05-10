@@ -2,7 +2,7 @@
 title: "У \"тепломережі\" обіцяють дати гарячу воду \"вже найближчим часом\" і провести перерахунок за \"дні без води\""
 date: 2013-04-24
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "brovary"

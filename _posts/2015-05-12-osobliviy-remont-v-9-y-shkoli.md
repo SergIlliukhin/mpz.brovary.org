@@ -2,7 +2,7 @@
 title: "\"Особливий\" ремонт в 9-й школі"
 date: 2015-05-12
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

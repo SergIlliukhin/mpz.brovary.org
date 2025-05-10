@@ -2,7 +2,7 @@
 title: "Обов’язкова необов’язковість: за що не потрібно платити при оформленні закордонного паспорта"
 date: 2012-04-04
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 categories: 
   - "rozsliduvannya"

@@ -2,7 +2,7 @@
 title: "Бондарєв VS Хартанович - ВІДЕО"
 date: 2012-09-25
 author: 
-  username: "SergIlliukhin"
+  username: "sergilliukhin"
   display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"

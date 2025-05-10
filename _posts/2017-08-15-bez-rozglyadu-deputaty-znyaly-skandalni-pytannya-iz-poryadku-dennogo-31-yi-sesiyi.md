@@ -2,7 +2,7 @@
 title: "Без розгляду: депутати зняли скандальні питання із порядку денного 31-ї сесії"
 date: 2017-08-15
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

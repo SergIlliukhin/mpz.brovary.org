@@ -2,7 +2,7 @@
 title: "\"Маєш Право Знати\" розширяє команду і шукає стажерів"
 date: 2017-01-10
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

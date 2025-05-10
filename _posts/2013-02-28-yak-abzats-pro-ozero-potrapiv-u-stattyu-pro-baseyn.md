@@ -2,7 +2,7 @@
 title: "Як абзац про озеро потрапив у статтю про басейн…"
 date: 2013-02-28
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 categories: 
   - "kolonka-avtora"

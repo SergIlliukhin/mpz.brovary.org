@@ -2,7 +2,7 @@
 title: "Безкоштовні ліки дітям-інвалідам можна отримати у декількох аптечних відділеннях Броварів"
 date: 2015-11-11
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

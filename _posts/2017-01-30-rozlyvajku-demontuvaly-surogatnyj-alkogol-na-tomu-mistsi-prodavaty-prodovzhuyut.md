@@ -2,7 +2,7 @@
 title: "«Розливайку» демонтували, а сурогатний алкоголь на тому місці продавати продовжують"
 date: 2017-01-30
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

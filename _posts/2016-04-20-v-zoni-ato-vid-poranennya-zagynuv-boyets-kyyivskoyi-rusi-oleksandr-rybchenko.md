@@ -2,7 +2,7 @@
 title: "В зоні АТО від поранення загинув боєць «Київської Русі» Олександр Рибченко"
 date: 2016-04-20
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

@@ -2,7 +2,7 @@
 title: "Е-декларації фракції БПП: успішні підприємці та небагаті пенсіонери"
 date: 2017-05-11
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "rozsliduvannya"

@@ -2,7 +2,7 @@
 title: "«1+1»: Школярам провели екскурсію до броварського відділку міліції - ВІДЕО"
 date: 2013-01-16
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

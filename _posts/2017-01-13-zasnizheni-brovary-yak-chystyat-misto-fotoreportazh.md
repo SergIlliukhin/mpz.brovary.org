@@ -2,7 +2,7 @@
 title: "Засніжені Бровари: як чистять місто? - ФОТОРЕПОРТАЖ"
 date: 2017-01-13
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

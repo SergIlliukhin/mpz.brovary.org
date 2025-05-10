@@ -2,7 +2,7 @@
 title: "АНОНС: 23 квітня відбудеться виставка собак і тематичний ярмарок у Броварах"
 date: 2017-04-20
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

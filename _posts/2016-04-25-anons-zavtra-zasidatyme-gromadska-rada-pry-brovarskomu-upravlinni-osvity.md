@@ -2,7 +2,7 @@
 title: "АНОНС: Завтра засідатиме громадська рада при броварському управлінні освіти"
 date: 2016-04-25
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

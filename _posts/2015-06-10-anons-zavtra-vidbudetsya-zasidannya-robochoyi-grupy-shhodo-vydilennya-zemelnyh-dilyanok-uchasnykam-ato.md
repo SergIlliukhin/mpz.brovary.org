@@ -2,7 +2,7 @@
 title: "АНОНС: Завтра відбудеться засідання робочої групи щодо виділення земельних ділянок учасникам АТО"
 date: 2015-06-10
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

@@ -2,7 +2,7 @@
 title: "Працівники благоустрою БМР та броварчани побилися через демонтаж гаражів"
 date: 2016-11-07
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

@@ -2,7 +2,7 @@
 title: "Ремонтні роботи тривають: коли обіцяють дати воду? ОНОВЛЕНО"
 date: 2017-04-10
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

@@ -2,7 +2,7 @@
 title: "АНОНС: Чемпіонат України з УШУ 2016 у Броварах"
 date: 2016-02-25
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

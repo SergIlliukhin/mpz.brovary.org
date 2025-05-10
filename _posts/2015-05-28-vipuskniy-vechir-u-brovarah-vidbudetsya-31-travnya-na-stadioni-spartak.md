@@ -2,7 +2,7 @@
 title: "Випускний вечір у Броварах відбудеться 31 травня на стадіоні \"Спартак\""
 date: 2015-05-28
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

@@ -2,7 +2,7 @@
 title: "У Броварах скасували нічний «сухий закон»: заборону на продаж алкоголю відмінив суд"
 date: 2015-07-08
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

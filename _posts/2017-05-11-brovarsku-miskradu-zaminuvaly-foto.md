@@ -2,7 +2,7 @@
 title: "Броварську міськраду \"замінували\" – ФОТО"
 date: 2017-05-11
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

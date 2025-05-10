@@ -2,7 +2,7 @@
 title: "Офіційно: на місці супермаркету «Олді» відкриють магазин «Сільпо»"
 date: 2016-03-14
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

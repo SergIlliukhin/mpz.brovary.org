@@ -2,7 +2,7 @@
 title: "Завтра працівники одного з броварських підприємств планують оголосити страйк"
 date: 2013-01-26
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

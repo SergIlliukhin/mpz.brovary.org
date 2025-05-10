@@ -2,7 +2,7 @@
 title: "Офіційні заходи до різдвяно-новорічних свят у Броварах – ГРАФІК"
 date: 2016-12-07
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

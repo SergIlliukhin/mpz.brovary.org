@@ -2,7 +2,7 @@
 title: "Владислава Загоровку звільнили в обмін на штраф за \"порушення громадського порядку\""
 date: 2013-12-12
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "administratsiya-prezidenta"

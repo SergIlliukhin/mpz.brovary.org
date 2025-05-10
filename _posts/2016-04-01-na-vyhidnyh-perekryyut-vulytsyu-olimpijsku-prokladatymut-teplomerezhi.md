@@ -2,7 +2,7 @@
 title: "На вихідних перекриють вулицю Олімпійську – прокладатимуть тепломережі"
 date: 2016-04-01
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

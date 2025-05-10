@@ -2,7 +2,7 @@
 title: "Де в Броварах можна отримати безкоштовну правову допомогу?"
 date: 2013-07-22
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

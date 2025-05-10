@@ -2,7 +2,7 @@
 title: "Броварським учасникам АТО виконком виділяє по 2436 грн матеріальної допомоги"
 date: 2015-07-23
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

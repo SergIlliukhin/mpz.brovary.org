@@ -2,7 +2,7 @@
 title: "У неділю ввечері «Громадське Бровари» офіційно презентують на Майдані Свободи"
 date: 2015-06-25
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

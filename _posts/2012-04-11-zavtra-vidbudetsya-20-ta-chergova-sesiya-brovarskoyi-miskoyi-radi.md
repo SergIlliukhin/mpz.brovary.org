@@ -2,7 +2,7 @@
 title: "Завтра відбудеться 20 чергова сесія Броварської міської ради"
 date: 2012-04-11
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

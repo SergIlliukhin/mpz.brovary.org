@@ -2,7 +2,7 @@
 title: "АНОНС: 14-16 липня у Броварах проведуть кубок України з плавання"
 date: 2016-07-12
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

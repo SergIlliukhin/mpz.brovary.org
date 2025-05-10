@@ -2,7 +2,7 @@
 title: "Відкриття меморіалу Небесної сотні у Броварах - ВІДЕО"
 date: 2015-02-27
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

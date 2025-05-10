@@ -2,7 +2,7 @@
 title: "Виселення депутата - HromadskeBro.tv"
 date: 2015-07-09
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

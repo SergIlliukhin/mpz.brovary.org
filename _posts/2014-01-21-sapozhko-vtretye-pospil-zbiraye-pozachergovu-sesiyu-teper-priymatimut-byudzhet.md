@@ -2,7 +2,7 @@
 title: "Сапожко знову скликає позачергову сесію. Прийматимуть бюджет та ще 44 питання"
 date: 2014-01-21
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

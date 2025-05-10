@@ -2,7 +2,7 @@
 title: "26 серпня кандидат від «УДАРу» Павло Різаненко проведе дві зустрічі з виборцями"
 date: 2012-08-24
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

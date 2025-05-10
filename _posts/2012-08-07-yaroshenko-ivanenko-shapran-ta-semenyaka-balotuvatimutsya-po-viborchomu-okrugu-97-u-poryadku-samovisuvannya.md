@@ -2,7 +2,7 @@
 title: "Ярошенко, Іваненко, Шапран та Семеняка балотуватимуться по виборчому округу № 97 у порядку самовисування"
 date: 2012-08-07
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "ivanenko"

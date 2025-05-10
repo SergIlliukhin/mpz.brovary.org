@@ -2,7 +2,7 @@
 title: "\"Здай кров - врятуй життя!\": 10 вересня у броварську лікарню запрошують донорів для здачі крові"
 date: 2015-09-07
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

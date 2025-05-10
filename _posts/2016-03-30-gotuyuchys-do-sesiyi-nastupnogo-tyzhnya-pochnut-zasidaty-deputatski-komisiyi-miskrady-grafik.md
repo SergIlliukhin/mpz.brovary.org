@@ -2,7 +2,7 @@
 title: "Готуючись до сесії: наступного тижня почнуть засідати депутатські комісії міськради – ГРАФІК"
 date: 2016-03-30
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

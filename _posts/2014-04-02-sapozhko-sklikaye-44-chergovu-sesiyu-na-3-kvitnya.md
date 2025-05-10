@@ -2,7 +2,7 @@
 title: "Сапожко скликає 44 чергову сесію на 3 квітня"
 date: 2014-04-02
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

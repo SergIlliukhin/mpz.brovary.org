@@ -2,7 +2,7 @@
 title: "АНОНС: Завтра обговорять, як краще шукати нового начальника броварського управління освіти"
 date: 2016-02-01
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

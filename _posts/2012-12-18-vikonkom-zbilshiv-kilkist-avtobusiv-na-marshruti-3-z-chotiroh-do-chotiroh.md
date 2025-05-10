@@ -2,7 +2,7 @@
 title: "Виконком збільшив кількість автобусів на маршруті № 3 з чотирьох до… чотирьох?"
 date: 2012-12-18
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "avtobus"

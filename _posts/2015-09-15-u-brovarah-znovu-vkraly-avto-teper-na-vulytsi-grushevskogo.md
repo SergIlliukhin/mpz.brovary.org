@@ -2,7 +2,7 @@
 title: "У Броварах знову вкрали авто - тепер на вулиці Грушевського"
 date: 2015-09-15
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

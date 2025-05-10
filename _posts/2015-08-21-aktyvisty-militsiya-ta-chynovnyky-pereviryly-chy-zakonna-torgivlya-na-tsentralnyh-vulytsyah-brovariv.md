@@ -2,7 +2,7 @@
 title: "Активісти, міліція та чиновники перевірили, чи законна торгівля на центральних вулицях Броварів - ФОТО"
 date: 2015-08-21
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

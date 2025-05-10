@@ -2,7 +2,7 @@
 title: "У Броварах стартувала акція «Збери макулатуру — врятуй життя солдату»"
 date: 2015-05-12
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "hromada"

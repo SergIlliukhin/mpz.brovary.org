@@ -2,7 +2,7 @@
 title: "Створено комісію, яка рекомендуватиме: кому з АТОвців давати квартири"
 date: 2017-05-05
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

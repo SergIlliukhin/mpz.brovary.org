@@ -2,7 +2,7 @@
 title: "Броварська молодь: \"У місті стільки можливостей для розвитку, але їх не використовують\""
 date: 2014-06-27
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "interview"

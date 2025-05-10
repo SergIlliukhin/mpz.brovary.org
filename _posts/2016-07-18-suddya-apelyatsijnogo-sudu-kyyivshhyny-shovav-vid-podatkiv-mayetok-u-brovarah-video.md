@@ -2,7 +2,7 @@
 title: "Суддя Апеляційного суду Київщини «сховав» від податків маєток у Броварах? – ВІДЕО"
 date: 2016-07-18
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

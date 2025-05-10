@@ -2,7 +2,7 @@
 title: "Тарифи на водопостачання та водовідведення у Броварах зросли на 20%"
 date: 2016-08-23
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

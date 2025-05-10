@@ -2,7 +2,7 @@
 title: "Сплеск заборон мирних зібрань у Броварах: «терористична загроза» vs «технічні причини»"
 date: 2012-06-05
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 categories: 
   - "kolonka-avtora"

@@ -2,7 +2,7 @@
 title: "Сапожко просить повідомляти про підтоплення у Броварах на його Фейсбук-сторінці"
 date: 2016-05-17
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

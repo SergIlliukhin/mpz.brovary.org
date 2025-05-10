@@ -2,7 +2,7 @@
 title: "Міськрада планує провести конкурс перевізників на маршрутах № 5, 9 та 10"
 date: 2015-07-10
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

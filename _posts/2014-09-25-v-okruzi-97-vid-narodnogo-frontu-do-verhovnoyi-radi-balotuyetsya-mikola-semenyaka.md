@@ -2,7 +2,7 @@
 title: "В окрузі № 97 від «Народного фронту» до Верховної Ради балотується Микола Семеняка"
 date: 2014-09-25
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

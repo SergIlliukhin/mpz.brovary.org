@@ -2,7 +2,7 @@
 title: "Ігорю Васильовичу присвячується"
 date: 2013-03-16
 author: 
-  username: "SergIlliukhin"
+  username: "sergilliukhin"
   display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"

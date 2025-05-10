@@ -2,7 +2,7 @@
 title: "Сьогодні молодь проведе обговорення неформальної освіти у Броварах"
 date: 2016-02-11
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

@@ -2,7 +2,7 @@
 title: "АНОНС: 11 червня у Броварах відбудеться обласний форум ОСББ"
 date: 2016-06-07
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

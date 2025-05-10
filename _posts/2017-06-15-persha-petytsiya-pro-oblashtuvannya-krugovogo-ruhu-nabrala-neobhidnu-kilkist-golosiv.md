@@ -2,7 +2,7 @@
 title: "Перша петиція про облаштування кругового руху набрала необхідну кількість голосів"
 date: 2017-06-15
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

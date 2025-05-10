@@ -2,7 +2,7 @@
 title: "Майже половина броварських депутатів-прогульників знову зібралися у владу, - Центр локального самоврядування"
 date: 2015-10-22
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

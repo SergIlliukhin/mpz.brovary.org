@@ -2,7 +2,7 @@
 title: "День міста Броварів: офіційна програма, запуск ліхтариків, чемпіонат з велоспорту"
 date: 2014-09-17
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

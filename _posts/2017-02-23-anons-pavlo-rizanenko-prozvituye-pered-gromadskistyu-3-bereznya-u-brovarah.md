@@ -2,7 +2,7 @@
 title: "АНОНС: Павло Різаненко прозвітує перед громадськістю 3 березня у Броварах"
 date: 2017-02-23
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

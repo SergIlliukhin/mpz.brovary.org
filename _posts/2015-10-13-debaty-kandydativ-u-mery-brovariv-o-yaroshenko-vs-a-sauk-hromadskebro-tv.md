@@ -2,7 +2,7 @@
 title: "Дебати кандидатів у мери Броварів. О. Ярошенко VS А. Саук – HromadskeBro.tv"
 date: 2015-10-13
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

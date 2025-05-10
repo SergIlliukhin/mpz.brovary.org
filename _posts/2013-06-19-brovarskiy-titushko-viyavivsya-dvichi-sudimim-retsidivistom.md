@@ -2,7 +2,7 @@
 title: "Броварський «тітушко» виявився двічі судимим рецидивістом"
 date: 2013-06-19
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

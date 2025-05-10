@@ -2,7 +2,7 @@
 title: "Хто і навіщо саботував роботу окружної виборчої комісії у Броварах?"
 date: 2012-09-06
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "vibir-redaktsiyi"

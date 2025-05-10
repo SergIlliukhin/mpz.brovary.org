@@ -2,7 +2,7 @@
 title: "Чемпіон світу з боксу Постол: \"Хочу боксувати з Пак'яо\" - HromadskeBro.tv"
 date: 2015-10-09
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

@@ -2,7 +2,7 @@
 title: "АНОНС: Філія театру \"Київ\" в Броварах покаже комедію \"Звідки беруться діти\""
 date: 2016-11-30
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

@@ -2,7 +2,7 @@
 title: "У броварських депутатів розпочався сезон звітування за 2013 рік"
 date: 2014-01-30
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovarska-miska-rada"

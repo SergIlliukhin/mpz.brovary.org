@@ -2,7 +2,7 @@
 title: "Броварчани з іграшковим пістолетом пограбували киянку"
 date: 2016-06-06
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

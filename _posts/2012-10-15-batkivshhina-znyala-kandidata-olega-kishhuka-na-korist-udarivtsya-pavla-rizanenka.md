@@ -2,7 +2,7 @@
 title: "\"Батьківщина\" зняла кандидата Олега Кищука на користь \"ударівця\" Павла Різаненка"
 date: 2012-10-15
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "batkivshhina"

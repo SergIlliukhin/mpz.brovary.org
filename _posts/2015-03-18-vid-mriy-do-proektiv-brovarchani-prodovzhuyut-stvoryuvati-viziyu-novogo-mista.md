@@ -2,7 +2,7 @@
 title: "Від мрій до проектів: броварчани продовжують створювати нове місто"
 date: 2015-03-18
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "aktivni-gromadyani"

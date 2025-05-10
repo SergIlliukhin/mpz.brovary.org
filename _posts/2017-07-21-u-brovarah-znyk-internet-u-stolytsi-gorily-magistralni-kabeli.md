@@ -2,7 +2,7 @@
 title: "У Броварах зник інтернет: у столиці горіли магістральні кабелі"
 date: 2017-07-21
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

@@ -2,7 +2,7 @@
 title: "Рішення суду по перейменуванню: залишити справу без розгляду"
 date: 2016-04-06
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "hromada"

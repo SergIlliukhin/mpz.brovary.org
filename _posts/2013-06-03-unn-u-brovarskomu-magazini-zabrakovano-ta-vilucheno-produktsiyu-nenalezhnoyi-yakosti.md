@@ -2,7 +2,7 @@
 title: "УНН: У броварському магазині забраковано та вилучено продукцію неналежної якості"
 date: 2013-06-03
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

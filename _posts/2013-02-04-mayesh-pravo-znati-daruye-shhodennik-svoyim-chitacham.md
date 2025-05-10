@@ -2,7 +2,7 @@
 title: "Розкажи друзям про \"Маєш право знати\" та вигравай щоденник"
 date: 2013-02-04
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"

@@ -2,7 +2,7 @@
 title: "АНОНС: 21 грудня Павло Дворський виступить у Броварах із благодійним концертом"
 date: 2016-12-20
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

@@ -2,7 +2,7 @@
 title: "Хроніки сесії: як депутати розпорядились комунальною власністю броварчан"
 date: 2012-04-17
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

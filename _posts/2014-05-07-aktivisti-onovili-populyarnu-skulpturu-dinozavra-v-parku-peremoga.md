@@ -2,7 +2,7 @@
 title: "Небайдужі активісти оновили популярну скульптуру динозавра в парку «Перемога»"
 date: 2014-05-07
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "adam-kosyakevich"

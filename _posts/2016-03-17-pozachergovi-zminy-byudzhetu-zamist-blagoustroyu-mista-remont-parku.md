@@ -2,7 +2,7 @@
 title: "Позачергові зміни до бюджету: замість благоустрою міста - 4,6 млн грн на ремонт парку?"
 date: 2016-03-17
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

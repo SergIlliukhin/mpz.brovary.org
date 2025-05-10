@@ -2,7 +2,7 @@
 title: "Читачі \"МПЗ\" прогнозують, що гаряча вода з'явиться \"на початку опалювального сезону\""
 date: 2013-05-08
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

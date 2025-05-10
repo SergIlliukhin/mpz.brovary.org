@@ -2,7 +2,7 @@
 title: "Оприлюднено першу десятку Чорного списку порушників прав та свобод броварчан"
 date: 2012-10-18
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

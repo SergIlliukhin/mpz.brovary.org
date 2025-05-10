@@ -2,7 +2,7 @@
 title: "Досвідчені мандрівники розкажуть броварчанам, як захопливо та дешево подорожувати"
 date: 2014-06-10
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

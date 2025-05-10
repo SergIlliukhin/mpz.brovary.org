@@ -2,7 +2,7 @@
 title: "Інтерактивна карта сміттєзвалищ: у Броварах поки не скаржились, хоча незаконні відходи знаходять"
 date: 2016-11-01
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

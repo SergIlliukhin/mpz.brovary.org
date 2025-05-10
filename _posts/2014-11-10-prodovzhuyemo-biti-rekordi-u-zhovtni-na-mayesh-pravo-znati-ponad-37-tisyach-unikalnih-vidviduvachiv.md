@@ -2,7 +2,7 @@
 title: "Продовжуємо бити рекорди: у жовтні на «Маєш право знати» зайшло понад 37 тисяч унікальних читачів!"
 date: 2014-11-10
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

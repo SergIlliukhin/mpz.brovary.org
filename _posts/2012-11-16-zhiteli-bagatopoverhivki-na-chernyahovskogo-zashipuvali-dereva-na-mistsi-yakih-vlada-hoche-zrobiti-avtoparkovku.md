@@ -2,7 +2,7 @@
 title: "Жителі багатоповерхівки на Черняховського „зашипували” дерева, на місці яких влада хоче зробити автопарковку"
 date: 2012-11-16
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "brovary"

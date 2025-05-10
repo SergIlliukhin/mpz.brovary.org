@@ -2,7 +2,7 @@
 title: "Став відомий перший претендент на \"крісло\" у міській раді від Торгмашу"
 date: 2013-04-08
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "illyuhin"

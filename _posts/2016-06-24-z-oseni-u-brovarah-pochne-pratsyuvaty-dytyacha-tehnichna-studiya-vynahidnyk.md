@@ -2,7 +2,7 @@
 title: "З осені у Броварах почне працювати дитяча технічна студія «Винахідник»"
 date: 2016-06-24
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

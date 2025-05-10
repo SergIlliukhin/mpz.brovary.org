@@ -2,7 +2,7 @@
 title: "Актуальні на 1 жовтня вакансії - Броварський центр зайнятості"
 date: 2015-10-06
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

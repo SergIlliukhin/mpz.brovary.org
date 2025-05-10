@@ -2,7 +2,7 @@
 title: "Події суботи 29 серпня: трагічне ДТП на Торгмаші та затримання викрадачів велосипедів - ФОТО, ВІДЕО"
 date: 2015-08-31
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

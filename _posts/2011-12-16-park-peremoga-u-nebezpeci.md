@@ -2,7 +2,7 @@
 title: "Парк \"Перемога\" у небезпеці!"
 date: 2011-12-16
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "zberezhemo-peremogu"

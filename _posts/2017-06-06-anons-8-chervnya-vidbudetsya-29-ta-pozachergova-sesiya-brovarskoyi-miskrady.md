@@ -2,7 +2,7 @@
 title: "АНОНС: 8 червня відбудеться 29-та позачергова сесія Броварської міськради"
 date: 2017-06-06
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

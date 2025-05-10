@@ -2,7 +2,7 @@
 title: "Захисники Парку Сосновий обговорили проект меморандуму, однак рішення ухвалювати не поспішають"
 date: 2016-11-07
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "hromada"

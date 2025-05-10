@@ -2,7 +2,7 @@
 title: "Результати exit-poll у Броварах: мер - Сапожко, 7 партій формують міську раду"
 date: 2015-10-25
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

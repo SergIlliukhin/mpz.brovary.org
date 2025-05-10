@@ -2,7 +2,7 @@
 title: "Знову за старе: броварські депутати намагались заборонити зйомку сесії міськради - ВІДЕО"
 date: 2013-07-05
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"

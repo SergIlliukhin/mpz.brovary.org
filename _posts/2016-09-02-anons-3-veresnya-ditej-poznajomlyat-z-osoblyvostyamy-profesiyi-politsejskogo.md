@@ -2,7 +2,7 @@
 title: "АНОНС: 3 вересня дітей познайомлять з особливостями професії поліцейського"
 date: 2016-09-02
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

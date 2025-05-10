@@ -2,7 +2,7 @@
 title: "Міськрада публікує перелік вільних приміщень для постійної оренди у Броварах"
 date: 2015-10-05
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

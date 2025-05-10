@@ -2,7 +2,7 @@
 title: "Кінофестиваль у Броварах: протягом місяця в парку \"Перемога\" безкоштовно показуватимуть короткометражки"
 date: 2015-08-19
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

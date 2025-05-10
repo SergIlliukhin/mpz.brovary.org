@@ -2,7 +2,7 @@
 title: "Рух «Стоп корупції» заплатить від 2 до 10 тисяч за інформацію про корупційні схеми, підкріплені фактами"
 date: 2015-09-04
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

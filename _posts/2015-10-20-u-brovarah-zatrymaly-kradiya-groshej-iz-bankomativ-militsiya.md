@@ -2,7 +2,7 @@
 title: "У Броварах затримали крадія грошей із банкоматів - міліція"
 date: 2015-10-20
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

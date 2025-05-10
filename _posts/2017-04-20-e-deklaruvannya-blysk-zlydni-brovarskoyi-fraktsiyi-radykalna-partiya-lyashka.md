@@ -2,7 +2,7 @@
 title: "Е-декларування: блиск і злидні броварської фракції \"Радикальна партія Ляшка\""
 date: 2017-04-20
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "rozsliduvannya"

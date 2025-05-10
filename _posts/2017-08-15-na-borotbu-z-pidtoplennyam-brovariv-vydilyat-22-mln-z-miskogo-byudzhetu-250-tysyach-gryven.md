@@ -2,7 +2,7 @@
 title: "На боротьбу з підтопленням Броварів виділять 22 млн. З міського бюджету - 250 тисяч"
 date: 2017-08-15
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

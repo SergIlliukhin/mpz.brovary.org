@@ -2,7 +2,7 @@
 title: "2 вересня кандидат від «УДАРу» Павло Різаненко проведе у Броварах дві зустрічі з виборцями"
 date: 2012-09-01
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

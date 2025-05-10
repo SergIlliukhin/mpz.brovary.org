@@ -2,7 +2,7 @@
 title: "В окрузі № 97 від партії Ляшка балотується довірена особа масажиста Азарова"
 date: 2014-10-01
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "ivanenko"

@@ -2,7 +2,7 @@
 title: "Броварського «тітушка» Стягова судитимуть за напад на журналіста 12 липня"
 date: 2013-07-04
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

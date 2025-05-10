@@ -2,7 +2,7 @@
 title: "23 березня броварчани захищатимуть осередок культури на Торгмаші"
 date: 2013-03-21
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

@@ -2,7 +2,7 @@
 title: "АНОНС: очільник обласної поліції Дмитро Ценов проведе прийом громадян у Броварах"
 date: 2016-09-05
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

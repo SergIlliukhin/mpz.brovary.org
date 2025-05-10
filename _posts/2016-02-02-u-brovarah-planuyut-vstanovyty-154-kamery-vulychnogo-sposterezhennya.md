@@ -2,7 +2,7 @@
 title: "У Броварах планують встановити 154 камери вуличного спостереження"
 date: 2016-02-02
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

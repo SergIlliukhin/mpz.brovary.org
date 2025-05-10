@@ -2,7 +2,7 @@
 title: "АНОНС: 1 вересня стартує показ фільма Макса Лижова про Бровари «70 вулиць»"
 date: 2016-09-01
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

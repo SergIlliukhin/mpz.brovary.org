@@ -2,7 +2,7 @@
 title: "13 грудня закриють Княжицький переїзд для руху авто"
 date: 2016-12-12
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

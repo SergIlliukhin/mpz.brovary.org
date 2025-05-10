@@ -2,7 +2,7 @@
 title: "АНОНС: 24 березня у Броварах виступить «Ляпіс-98»"
 date: 2017-03-15
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

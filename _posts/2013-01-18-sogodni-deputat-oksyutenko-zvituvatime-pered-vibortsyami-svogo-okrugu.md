@@ -2,7 +2,7 @@
 title: "Сьогодні депутат Оксютенко звітуватиме перед виборцями свого округу"
 date: 2013-01-18
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

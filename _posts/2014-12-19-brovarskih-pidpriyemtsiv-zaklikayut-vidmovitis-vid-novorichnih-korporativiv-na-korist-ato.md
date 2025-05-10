@@ -2,7 +2,7 @@
 title: "Броварських підприємців закликають відмовитись від Новорічних корпоративів на користь АТО"
 date: 2014-12-19
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "ato"

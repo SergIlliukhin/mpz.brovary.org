@@ -2,7 +2,7 @@
 title: "АНОНС: Оприлюднено графік засідань постійних депутатських комісій в рамках 30-ї сесії - ОНОВЛЕНО"
 date: 2017-05-29
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

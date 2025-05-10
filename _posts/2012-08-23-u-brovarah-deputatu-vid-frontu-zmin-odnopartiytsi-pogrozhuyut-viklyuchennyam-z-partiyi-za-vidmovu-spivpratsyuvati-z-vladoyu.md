@@ -2,7 +2,7 @@
 title: "У Броварах депутату від «Фронту змін» однопартійці погрожують виключенням з партії за відмову співпрацювати з владою"
 date: 2012-08-23
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

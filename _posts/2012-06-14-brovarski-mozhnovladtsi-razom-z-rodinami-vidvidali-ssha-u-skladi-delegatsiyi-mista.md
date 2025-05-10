@@ -2,7 +2,7 @@
 title: "Броварські можновладці разом з родинами відвідали США у складі делегації міста"
 date: 2012-06-14
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"

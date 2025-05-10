@@ -2,7 +2,7 @@
 title: "Міська рада не хоче відповідати за 95 га землі та не вірить спростуванням «Байєра»"
 date: 2013-10-28
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "95-ga"

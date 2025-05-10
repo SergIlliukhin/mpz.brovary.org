@@ -2,7 +2,7 @@
 title: "Цього вечора на Торгмаші горів сарай, пожежу швидко ліквідували - ФОТО"
 date: 2015-06-29
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

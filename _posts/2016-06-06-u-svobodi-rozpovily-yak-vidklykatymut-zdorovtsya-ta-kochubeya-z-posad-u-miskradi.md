@@ -2,7 +2,7 @@
 title: "У «Свободі» розповіли, як відкликатимуть Здоровця та Кочубея з посад у міськраді"
 date: 2016-06-06
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

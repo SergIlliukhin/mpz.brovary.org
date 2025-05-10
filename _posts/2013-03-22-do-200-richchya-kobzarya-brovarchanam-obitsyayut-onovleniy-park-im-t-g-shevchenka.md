@@ -2,7 +2,7 @@
 title: "До 200-річчя Кобзаря броварчанам обіцяють оновлений парк ім.Т.Г.Шевченка"
 date: 2013-03-22
 author: 
-  username: "SergIlliukhin"
+  username: "sergilliukhin"
   display_name: "Сергій Іллюхін"
 tags: 
   - "brovary"

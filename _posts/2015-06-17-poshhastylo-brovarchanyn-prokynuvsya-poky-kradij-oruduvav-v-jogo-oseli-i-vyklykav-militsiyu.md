@@ -2,7 +2,7 @@
 title: "Пощастило: броварчанин прокинувся, поки крадій орудував в його оселі, і викликав міліцію"
 date: 2015-06-17
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

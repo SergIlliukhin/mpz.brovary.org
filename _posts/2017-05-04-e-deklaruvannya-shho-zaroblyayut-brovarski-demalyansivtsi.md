@@ -2,7 +2,7 @@
 title: "Е-декларування: що заробляють броварські \"демальянсівці\"?"
 date: 2017-05-04
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "rozsliduvannya"

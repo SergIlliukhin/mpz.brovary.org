@@ -2,7 +2,7 @@
 title: "Децентралізація: броварська міськрада збільшила склад виконкому до 273,5 працівників"
 date: 2016-02-11
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

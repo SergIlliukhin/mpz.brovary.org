@@ -2,7 +2,7 @@
 title: "АНОНС: У неділю в центрі Броварів відбудеться продуктовий ярмарок"
 date: 2016-03-11
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

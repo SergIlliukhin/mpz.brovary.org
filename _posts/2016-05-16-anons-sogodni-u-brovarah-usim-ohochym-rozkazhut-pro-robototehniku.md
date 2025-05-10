@@ -2,7 +2,7 @@
 title: "АНОНС: Сьогодні у Броварах усім охочим розкажуть про робототехніку"
 date: 2016-05-16
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

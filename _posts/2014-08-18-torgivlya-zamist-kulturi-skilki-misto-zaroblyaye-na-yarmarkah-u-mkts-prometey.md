@@ -2,7 +2,7 @@
 title: "Торгівля замість культури: скільки місто заробляє на ярмарках у МКЦ \"Прометей\""
 date: 2014-08-18
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "brovary"

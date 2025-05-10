@@ -2,7 +2,7 @@
 title: "«Даішника», який погрожував водію автоматом, перевели в Бровари?"
 date: 2014-03-28
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "inspektor"

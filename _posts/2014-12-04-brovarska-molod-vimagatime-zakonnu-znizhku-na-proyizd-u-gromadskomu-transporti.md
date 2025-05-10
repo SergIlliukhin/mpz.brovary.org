@@ -2,7 +2,7 @@
 title: "Броварська молодь вимагатиме законну знижку на проїзд у громадському транспорті"
 date: 2014-12-04
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

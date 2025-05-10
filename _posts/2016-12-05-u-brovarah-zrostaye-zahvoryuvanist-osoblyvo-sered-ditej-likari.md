@@ -2,7 +2,7 @@
 title: "Медики міста заявляють: \"У Броварах зростає захворюваність, особливо серед дітей\""
 date: 2016-12-05
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

@@ -2,7 +2,7 @@
 title: "\"Чесно\": екс-регіонал сформував у Броварах більшість завдяки \"опозиціонерам\""
 date: 2016-03-29
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "rozsliduvannya"

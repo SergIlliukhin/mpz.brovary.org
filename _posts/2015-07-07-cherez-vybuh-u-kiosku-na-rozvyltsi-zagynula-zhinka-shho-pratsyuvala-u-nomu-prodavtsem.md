@@ -2,7 +2,7 @@
 title: "Через вибух у кіоску на \"Розвилці\" загинула жінка, що працювала у ньому продавцем"
 date: 2015-07-07
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 categories: 
   - "brovary"

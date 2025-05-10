@@ -2,7 +2,7 @@
 title: "У Броварах виявили та закрили п’ять гральних закладів – поліція"
 date: 2016-07-28
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

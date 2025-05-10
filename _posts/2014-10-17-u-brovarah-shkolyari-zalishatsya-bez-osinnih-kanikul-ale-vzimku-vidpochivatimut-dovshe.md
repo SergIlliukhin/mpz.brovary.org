@@ -2,7 +2,7 @@
 title: "У Броварах школярі залишаться без осінніх канікул, але взимку відпочиватимуть довше"
 date: 2014-10-17
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"

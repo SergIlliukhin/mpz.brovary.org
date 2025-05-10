@@ -2,7 +2,7 @@
 title: "Український омбудсмен відкрила провадження за скаргами броварських журналістів та оглядача \"Інтера\""
 date: 2012-10-24
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "bochkala"

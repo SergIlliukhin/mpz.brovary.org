@@ -2,7 +2,7 @@
 title: "Шість годин на питання \"секретаря міськради\""
 date: 2015-12-18
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 categories: 
   - "kolonka-avtora"

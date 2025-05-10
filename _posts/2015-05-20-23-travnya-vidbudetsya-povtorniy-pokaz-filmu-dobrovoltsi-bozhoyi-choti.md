@@ -2,7 +2,7 @@
 title: "23 травня у Броварах відбудеться повторний показ фільму \"Добровольці Божої Чоти\""
 date: 2015-05-20
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

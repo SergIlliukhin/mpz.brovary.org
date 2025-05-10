@@ -2,7 +2,7 @@
 title: "У четвер міська влада, громада та силовики вирішуватимуть, як побороти кримінал у Броварах"
 date: 2016-04-26
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

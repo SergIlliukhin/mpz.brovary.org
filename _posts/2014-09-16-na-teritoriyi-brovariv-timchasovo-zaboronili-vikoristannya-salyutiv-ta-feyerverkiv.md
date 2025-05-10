@@ -2,7 +2,7 @@
 title: "На території Броварів тимчасово заборонили використання салютів та феєрверків"
 date: 2014-09-16
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"

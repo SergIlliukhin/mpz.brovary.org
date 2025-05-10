@@ -2,7 +2,7 @@
 title: "Перед виборами в Світильні зняли з реєстрації усіх опозиційних кандидатів"
 date: 2012-05-23
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

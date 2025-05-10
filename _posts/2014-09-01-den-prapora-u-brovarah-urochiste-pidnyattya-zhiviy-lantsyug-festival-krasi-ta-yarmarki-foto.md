@@ -2,7 +2,7 @@
 title: "День прапора у Броварах: урочисте підняття, \"живий ланцюг\", фестиваль краси та ярмарки - ФОТО"
 date: 2014-09-01
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "bagmut"

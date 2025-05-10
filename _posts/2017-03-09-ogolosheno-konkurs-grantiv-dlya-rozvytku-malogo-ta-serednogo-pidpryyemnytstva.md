@@ -2,7 +2,7 @@
 title: "Оголошено конкурс грантів для розвитку малого та середнього підприємництва"
 date: 2017-03-09
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

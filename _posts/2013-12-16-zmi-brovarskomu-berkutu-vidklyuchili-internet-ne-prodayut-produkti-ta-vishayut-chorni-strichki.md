@@ -2,7 +2,7 @@
 title: "ЗМІ: Броварському \"Беркуту\" відключили Інтернет, не продають продукти та вішають чорні стрічки"
 date: 2013-12-16
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "berkut"

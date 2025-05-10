@@ -2,7 +2,7 @@
 title: "Бізнес-план КП «ОРЦ» - документ «ні про що»"
 date: 2017-05-23
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

@@ -2,7 +2,7 @@
 title: "20 грудня відбудеться 26 чергова сесія Броварської міської ради"
 date: 2012-11-23
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

@@ -2,7 +2,7 @@
 title: "Броварчани збираються самотужки залатати дірки на міських дорогах"
 date: 2013-10-31
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "initsiativa"

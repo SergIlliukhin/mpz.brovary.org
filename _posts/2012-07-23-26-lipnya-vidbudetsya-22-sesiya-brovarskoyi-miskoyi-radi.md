@@ -2,7 +2,7 @@
 title: "26 липня відбудеться чергова 22 сесія Броварської міської ради"
 date: 2012-07-23
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

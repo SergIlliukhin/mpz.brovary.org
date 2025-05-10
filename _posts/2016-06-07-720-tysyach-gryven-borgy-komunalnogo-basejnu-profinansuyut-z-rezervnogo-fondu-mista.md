@@ -2,7 +2,7 @@
 title: "720 тисяч гривень - борги комунального басейну профінансують з резервного фонду міста"
 date: 2016-06-07
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

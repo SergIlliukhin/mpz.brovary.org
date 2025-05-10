@@ -2,7 +2,7 @@
 title: "Другої половини березня у Броварах знову вимикатимуть світло"
 date: 2016-03-18
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

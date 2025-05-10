@@ -2,7 +2,7 @@
 title: "АНОНС: 29 січня проблеми броварської медицини обговорять із заступником міністра охорони здоров’я"
 date: 2016-01-29
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

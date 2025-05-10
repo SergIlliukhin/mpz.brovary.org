@@ -2,7 +2,7 @@
 title: "За що образили Адмірала? Позачергове засідання міськвиконкому"
 date: 2012-03-29
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"

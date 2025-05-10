@@ -2,7 +2,7 @@
 title: "День міста-2014: змініть нарешті «шеф-кухаря» свята"
 date: 2013-10-03
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 categories: 
   - "kolonka-avtora"

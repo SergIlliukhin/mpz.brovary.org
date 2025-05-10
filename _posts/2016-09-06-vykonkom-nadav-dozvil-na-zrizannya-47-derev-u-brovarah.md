@@ -2,7 +2,7 @@
 title: "Виконком надав дозвіл на зрізання 47 дерев у Броварах"
 date: 2016-09-06
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

@@ -2,7 +2,7 @@
 title: "Центрвиборчком зареєстрував Різаненка кандидатом від \"Блоку Порошенка\" у 97 окрузі"
 date: 2014-09-29
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

@@ -2,7 +2,7 @@
 title: "Під Броварами горів взуттєвий цех - ФОТО, ВІДЕО - ОНОВЛЕНО"
 date: 2016-09-27
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

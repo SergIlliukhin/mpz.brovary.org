@@ -2,7 +2,7 @@
 title: "Кандидати в заступники Сапожка: кияни, білоруси, політики та комунальники. Перша частина огляду"
 date: 2015-12-01
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

@@ -2,7 +2,7 @@
 title: "АНОНС: Завтра вранці у Броварах пікетуватимуть управління ЖКГ - через таємні торги щодо парку \"Перемога\""
 date: 2015-09-01
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

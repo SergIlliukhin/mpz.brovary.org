@@ -2,7 +2,7 @@
 title: "Зростання на 10-35 %: комунальні послуги у Броварах дорожчають"
 date: 2017-01-27
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

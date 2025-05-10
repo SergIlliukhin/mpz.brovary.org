@@ -2,7 +2,7 @@
 title: "У Броварах поховали застріленого поліцейськими пасажира BMW, за яким ганялися в Києві, - ВІДЕО"
 date: 2016-02-10
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

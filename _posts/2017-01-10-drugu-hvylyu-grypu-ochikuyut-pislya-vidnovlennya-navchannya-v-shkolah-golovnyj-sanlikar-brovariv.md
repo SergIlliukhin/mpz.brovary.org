@@ -2,7 +2,7 @@
 title: "Другу хвилю грипу очікують після відновлення навчання в школах, - головний санлікар Броварів"
 date: 2017-01-10
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

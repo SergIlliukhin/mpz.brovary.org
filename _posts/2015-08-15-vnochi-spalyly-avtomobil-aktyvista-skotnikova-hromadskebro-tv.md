@@ -2,7 +2,7 @@
 title: "Вночі спалили автомобіль активіста Скотнікова - HromadskeBro.tv"
 date: 2015-08-15
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

@@ -2,7 +2,7 @@
 title: "Тарифи на комунальні послуги у Броварах зростуть приблизно на 5-15%"
 date: 2016-10-06
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

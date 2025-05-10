@@ -2,7 +2,7 @@
 title: "Завтра у Броварах відбудуться громадські слухання щодо проблеми підтоплення старого міста"
 date: 2015-06-15
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

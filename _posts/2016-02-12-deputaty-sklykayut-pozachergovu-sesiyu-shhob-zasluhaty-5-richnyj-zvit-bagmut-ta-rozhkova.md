@@ -2,7 +2,7 @@
 title: "Депутати скликають позачергову сесію, щоб заслухати 5-річний звіт Багмут та Рожкова"
 date: 2016-02-12
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

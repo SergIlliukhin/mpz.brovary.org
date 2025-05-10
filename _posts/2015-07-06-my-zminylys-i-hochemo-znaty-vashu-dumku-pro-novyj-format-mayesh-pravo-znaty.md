@@ -2,7 +2,7 @@
 title: "Ми змінились - і хочемо знати Вашу думку про новий формат \"Маєш право знати\""
 date: 2015-07-06
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 categories: 
   - "kolonka-avtora"

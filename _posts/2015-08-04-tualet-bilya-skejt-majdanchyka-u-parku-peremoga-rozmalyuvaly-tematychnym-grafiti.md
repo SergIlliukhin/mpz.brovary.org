@@ -2,7 +2,7 @@
 title: "Туалет біля скейт-майданчика у парку \"Перемога\" розмалювали тематичним графіті"
 date: 2015-08-04
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

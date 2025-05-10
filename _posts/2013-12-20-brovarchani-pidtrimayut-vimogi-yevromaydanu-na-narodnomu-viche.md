@@ -2,7 +2,7 @@
 title: "Броварчани підтримають вимоги Євромайдану на Народному Віче"
 date: 2013-12-20
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "yevromaydan"

@@ -2,7 +2,7 @@
 title: "1+1: Головний броварський екс-беркутівець задіяний у схемі з отримання безкоштовного житла – ВІДЕО"
 date: 2016-06-15
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

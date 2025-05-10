@@ -2,7 +2,7 @@
 title: "З 42 депутатів міськради звітуватимуть про свою роботу у 2013 році лише четверо?"
 date: 2014-02-10
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "ivanenko"

@@ -2,7 +2,7 @@
 title: "Новий голова Київщини Олександр Горган приступив до своїх обов'язків"
 date: 2016-10-28
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

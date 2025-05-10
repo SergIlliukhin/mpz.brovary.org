@@ -2,7 +2,7 @@
 title: "«ДеПо»: Тролейбусну лінію «Бровари–Київ» у 2013 році не будуватимуть"
 date: 2013-02-27
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

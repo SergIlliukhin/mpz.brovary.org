@@ -2,7 +2,7 @@
 title: "Василенко: «Самопоміч» перебуває «між двох вогнів» Сапожка та Різаненка»"
 date: 2016-03-04
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

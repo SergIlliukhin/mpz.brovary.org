@@ -2,7 +2,7 @@
 title: "Директором КП «Броваритепловодоенергія» призначено екс-заступника міського голови Василя Андрєєва"
 date: 2017-04-07
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

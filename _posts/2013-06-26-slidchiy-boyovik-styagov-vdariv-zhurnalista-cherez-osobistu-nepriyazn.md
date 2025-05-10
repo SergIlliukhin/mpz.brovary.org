@@ -2,7 +2,7 @@
 title: "Слідчий вирішив, що «бойовик» Стягов вдарив журналіста через «особисту неприязнь»"
 date: 2013-06-26
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "blinova"

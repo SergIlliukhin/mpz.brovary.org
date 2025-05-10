@@ -2,7 +2,7 @@
 title: "Розстрочка: що насправді ховається за \"кредитом без переплат\"?"
 date: 2013-08-06
 author: 
-  username: "SergIlliukhin"
+  username: "sergilliukhin"
   display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"

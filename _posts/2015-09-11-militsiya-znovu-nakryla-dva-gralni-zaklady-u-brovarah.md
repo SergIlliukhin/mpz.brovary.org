@@ -2,7 +2,7 @@
 title: "Міліція знову накрила два гральні заклади у Броварах"
 date: 2015-09-11
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

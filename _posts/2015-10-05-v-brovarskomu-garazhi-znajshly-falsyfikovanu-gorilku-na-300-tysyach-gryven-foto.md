@@ -2,7 +2,7 @@
 title: "В броварському гаражі знайшли фальсифіковану горілку на 300 тисяч гривень - ФОТО"
 date: 2015-10-05
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

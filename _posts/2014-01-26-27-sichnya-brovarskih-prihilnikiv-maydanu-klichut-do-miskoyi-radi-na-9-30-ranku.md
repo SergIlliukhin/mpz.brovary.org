@@ -2,7 +2,7 @@
 title: "27 січня броварських прихильників Майдану кличуть до міської ради на 9:30 ранку"
 date: 2014-01-26
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

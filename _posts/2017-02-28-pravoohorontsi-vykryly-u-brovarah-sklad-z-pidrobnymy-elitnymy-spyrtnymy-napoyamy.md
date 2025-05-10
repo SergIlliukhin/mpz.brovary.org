@@ -2,7 +2,7 @@
 title: "Правоохоронці викрили у Броварах склад з підробними елітними спиртними напоями"
 date: 2017-02-28
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

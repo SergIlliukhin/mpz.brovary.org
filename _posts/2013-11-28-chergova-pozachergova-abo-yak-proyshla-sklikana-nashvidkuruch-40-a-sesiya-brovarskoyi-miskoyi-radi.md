@@ -2,7 +2,7 @@
 title: "Чергова позачергова, або як пройшла скликана нашвидкуруч 40-а сесія Броварської міської ради"
 date: 2013-11-28
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "brovary"

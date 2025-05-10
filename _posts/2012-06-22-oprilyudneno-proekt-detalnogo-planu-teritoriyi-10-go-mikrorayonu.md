@@ -2,7 +2,7 @@
 title: "Оприлюднено проект Детального плану території 10-го мікрорайону"
 date: 2012-06-22
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"

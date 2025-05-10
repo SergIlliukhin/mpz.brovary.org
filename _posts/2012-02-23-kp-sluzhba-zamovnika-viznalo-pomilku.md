@@ -2,7 +2,7 @@
 title: "КП \"Служба замовника\" визнало свою довідку помилковою"
 date: 2012-02-23
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "rozsliduvannya"

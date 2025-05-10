@@ -2,7 +2,7 @@
 title: "«Бюрократична головоломка» про закриту відкритість мерських «звітувань»"
 date: 2012-03-27
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 categories: 
   - "kolonka-avtora"

@@ -2,7 +2,7 @@
 title: "Це війна. І вона триває. Революції Гідності присвячується"
 date: 2016-02-19
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 categories: 
   - "kolonka-avtora"

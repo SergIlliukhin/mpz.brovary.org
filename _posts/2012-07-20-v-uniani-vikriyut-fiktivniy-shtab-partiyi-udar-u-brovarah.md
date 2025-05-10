@@ -2,7 +2,7 @@
 title: "В УНІАНі викриють фіктивний штаб партії «УДАР» у Броварах"
 date: 2012-07-20
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

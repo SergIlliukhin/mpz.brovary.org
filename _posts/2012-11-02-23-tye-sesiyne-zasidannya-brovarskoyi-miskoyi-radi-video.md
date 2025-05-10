@@ -2,7 +2,7 @@
 title: "23-тє сесійне засідання Броварської міської ради – ВІДЕО"
 date: 2012-11-02
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

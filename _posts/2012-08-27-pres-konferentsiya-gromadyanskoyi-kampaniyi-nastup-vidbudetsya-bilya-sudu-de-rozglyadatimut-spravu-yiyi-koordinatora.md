@@ -2,7 +2,7 @@
 title: "Прес-конференція громадянської кампанії «Наступ» відбудеться біля суду, де розглядатимуть справу її координатора"
 date: 2012-08-27
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

@@ -2,7 +2,7 @@
 title: "Вони працюють: ДАІ відреагувало на скаргу громадянина"
 date: 2015-07-16
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

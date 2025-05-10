@@ -2,7 +2,7 @@
 title: "Читачі «Маєш право знати» визначають найактуальніше запитання до Різаненка. Долучайтесь!"
 date: 2012-12-11
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "intervyu"

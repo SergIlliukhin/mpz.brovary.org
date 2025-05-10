@@ -2,7 +2,7 @@
 title: "На вулиці Лісовій в Броварах виявили ртуть"
 date: 2016-07-21
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

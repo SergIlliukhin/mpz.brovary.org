@@ -2,7 +2,7 @@
 title: "АНОНС: Цієї неділі у броварському парку «Перемога» влаштують родинне свято"
 date: 2016-06-03
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

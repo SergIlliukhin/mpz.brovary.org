@@ -2,7 +2,7 @@
 title: "Сьогодні вночі невідомі розбили вікно у кабінеті мера Броварів Сапожка"
 date: 2013-12-06
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "vikno"

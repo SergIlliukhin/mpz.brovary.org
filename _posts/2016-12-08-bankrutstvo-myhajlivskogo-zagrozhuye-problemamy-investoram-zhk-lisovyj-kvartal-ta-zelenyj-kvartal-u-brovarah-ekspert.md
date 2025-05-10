@@ -2,7 +2,7 @@
 title: "Банкрутство «Михайлівського» загрожує проблемами інвесторам ЖК \"Лісовий квартал\" та \"Зелений квартал\" у Броварах, - експерт"
 date: 2016-12-08
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

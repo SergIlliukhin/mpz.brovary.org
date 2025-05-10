@@ -2,7 +2,7 @@
 title: "Площа тліючих торф'яників зменшується - ДСНС. Повітря у Броварах чисте - СЕС"
 date: 2015-10-20
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

@@ -2,7 +2,7 @@
 title: "9 серпня у Броварах збиратимуть допомогу дітям військових на благодійному ярмарку рукоділля"
 date: 2014-07-29
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "1-veresnya"

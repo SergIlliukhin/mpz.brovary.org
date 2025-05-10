@@ -2,7 +2,7 @@
 title: "Вибори. Час згадати про тролейбус"
 date: 2012-01-27
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "azarov"

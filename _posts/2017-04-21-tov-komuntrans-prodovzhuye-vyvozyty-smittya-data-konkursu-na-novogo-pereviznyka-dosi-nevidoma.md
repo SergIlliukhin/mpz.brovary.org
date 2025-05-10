@@ -2,7 +2,7 @@
 title: "ТОВ \"Комунтранс\" продовжує вивозити сміття. Дата конкурсу на нового перевізника досі невідома"
 date: 2017-04-21
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

@@ -2,7 +2,7 @@
 title: "Очевидці: на Розвилці вже майже 6 годин лежить труп, його ніхто не забирає. ФОТО. ОНОВЛЕНО"
 date: 2016-06-11
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

@@ -2,7 +2,7 @@
 title: "За розбій серед білого дня у Броварах злочиняцям присудили 3 і 5 років"
 date: 2015-06-17
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

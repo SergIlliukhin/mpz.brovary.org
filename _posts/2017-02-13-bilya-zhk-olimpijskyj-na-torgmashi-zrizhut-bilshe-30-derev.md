@@ -2,7 +2,7 @@
 title: "Біля ЖК Олімпійський на Торгмаші зріжуть більше 30 дерев"
 date: 2017-02-13
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

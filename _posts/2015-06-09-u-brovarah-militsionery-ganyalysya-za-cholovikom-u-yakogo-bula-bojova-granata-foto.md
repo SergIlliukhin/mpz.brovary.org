@@ -2,7 +2,7 @@
 title: "У Броварах міліціонери ганялися за чоловіком, у якого була бойова граната - ФОТО"
 date: 2015-06-09
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

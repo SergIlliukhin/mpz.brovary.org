@@ -2,7 +2,7 @@
 title: "Броварчани збирають кошти на підтримку місцевого активіста, якому невідомі спалили автомобіль"
 date: 2015-08-17
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

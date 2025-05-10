@@ -2,7 +2,7 @@
 title: "«У мене є колізія»: в броварській ОВК не можуть поділити владу"
 date: 2014-05-24
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "novini"

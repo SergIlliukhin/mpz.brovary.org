@@ -2,7 +2,7 @@
 title: "За місце у Верховній Раді від Броварів змагатимуться начальники та їх підлеглі, а також однопартійці"
 date: 2012-08-22
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 categories: 
   - "rozsliduvannya"

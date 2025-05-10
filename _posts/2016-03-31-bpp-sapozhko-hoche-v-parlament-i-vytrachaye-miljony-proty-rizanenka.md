@@ -2,7 +2,7 @@
 title: "БПП: Сапожко хоче в парламент і витрачає мільйони проти Різаненка"
 date: 2016-03-31
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

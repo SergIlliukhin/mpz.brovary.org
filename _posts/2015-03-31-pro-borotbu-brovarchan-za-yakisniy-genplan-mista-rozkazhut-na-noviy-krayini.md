@@ -2,7 +2,7 @@
 title: "Про боротьбу броварчан за якісний Генплан міста розкажуть на \"Новій країні\""
 date: 2015-03-31
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 categories: 
   - "kolonka-avtora"

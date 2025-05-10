@@ -2,7 +2,7 @@
 title: "Організатори Днів польського кіно у Броварах наступного разу хочуть зробити тиждень кіно"
 date: 2013-11-15
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "brovary"

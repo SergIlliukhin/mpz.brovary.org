@@ -2,7 +2,7 @@
 title: "Хто в заступники Сапожка? Люди Поліщука, \"клон\" Голубовського і екс-начальник міліції. Друга частина огляду"
 date: 2015-12-02
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

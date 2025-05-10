@@ -2,7 +2,7 @@
 title: "5-й загін охорони й оборони Броварів і району оголошує новий набір слухачів на курси"
 date: 2015-07-27
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

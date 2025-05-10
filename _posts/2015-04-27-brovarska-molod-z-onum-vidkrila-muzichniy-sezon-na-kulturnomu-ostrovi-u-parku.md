@@ -2,7 +2,7 @@
 title: "Броварська молодь з ОНУМ відкрила музичний сезон на \"культурному острові\" у парку"
 date: 2015-04-27
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"

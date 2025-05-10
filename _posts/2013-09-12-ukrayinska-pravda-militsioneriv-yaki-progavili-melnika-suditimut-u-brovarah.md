@@ -2,7 +2,7 @@
 title: "\"Українська правда\": Міліціонерів, які проґавили Мельника, судитимуть у Броварах"
 date: 2013-09-12
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

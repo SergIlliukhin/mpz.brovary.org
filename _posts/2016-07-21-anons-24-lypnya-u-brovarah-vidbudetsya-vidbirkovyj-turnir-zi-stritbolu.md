@@ -2,7 +2,7 @@
 title: "АНОНС: 24 липня у Броварах відбудеться відбірковий турнір зі стрітболу"
 date: 2016-07-21
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

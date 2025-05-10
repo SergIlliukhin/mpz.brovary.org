@@ -2,7 +2,7 @@
 title: "\"Чеснометр\" визначив, хто з кандидатів у 97 окрузі відповідає \"критеріям доброчесності\""
 date: 2012-10-11
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"

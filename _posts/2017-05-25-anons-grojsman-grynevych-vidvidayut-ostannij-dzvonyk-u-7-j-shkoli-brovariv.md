@@ -2,7 +2,7 @@
 title: "АНОНС: Гройсман і Гриневич відвідають останній дзвоник у 7-й школі Броварів"
 date: 2017-05-25
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

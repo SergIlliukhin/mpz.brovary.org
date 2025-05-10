@@ -2,7 +2,7 @@
 title: "Кінець свободі мирних зібрань - початок репресій?"
 date: 2012-09-05
 author: 
-  username: "SergIlliukhin"
+  username: "sergilliukhin"
   display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"

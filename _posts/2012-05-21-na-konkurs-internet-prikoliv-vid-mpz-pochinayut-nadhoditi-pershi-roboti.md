@@ -2,7 +2,7 @@
 title: "На конкурс інтернет-приколів від МПЗ починають надходити перші роботи!"
 date: 2012-05-21
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "novini"

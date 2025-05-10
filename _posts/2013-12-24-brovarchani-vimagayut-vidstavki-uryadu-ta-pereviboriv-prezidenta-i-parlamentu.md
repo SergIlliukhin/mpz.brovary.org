@@ -2,7 +2,7 @@
 title: "Броварчани вимагають відставки уряду та перевиборів Президента і парламенту"
 date: 2013-12-24
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "yevromaydan"

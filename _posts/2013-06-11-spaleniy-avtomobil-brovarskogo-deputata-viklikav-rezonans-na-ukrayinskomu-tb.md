@@ -2,7 +2,7 @@
 title: "Спалений автомобіль броварського депутата викликав резонанс на українському ТБ (оновлено)"
 date: 2013-06-11
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

@@ -2,7 +2,7 @@
 title: "Житлово-комунальна реформа в окремо взятому місті: чого очікувати броварчанам?"
 date: 2012-12-10
 author: 
-  username: "SergIlliukhin"
+  username: "sergilliukhin"
   display_name: "Сергій Іллюхін"
 tags: 
   - "brovary"

@@ -2,7 +2,7 @@
 title: "АНОНС: У Броварах говоритимуть про допомогу при посттравматичному синдромі у військових"
 date: 2015-11-13
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

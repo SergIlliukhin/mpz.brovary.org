@@ -2,7 +2,7 @@
 title: "Письменниця Ірина Ігнатенко розповість броварчанам, кому належало жіноче тіло в українській традиції"
 date: 2015-05-27
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

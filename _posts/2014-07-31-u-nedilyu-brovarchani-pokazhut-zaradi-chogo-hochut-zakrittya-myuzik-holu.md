@@ -2,7 +2,7 @@
 title: "У неділю броварчани покажуть, заради чого хочуть закриття одіозного кафе \"Мюзік-Хол\""
 date: 2014-07-31
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

@@ -2,7 +2,7 @@
 title: "Можливість утворити Броварську територіальну громаду вже ближче"
 date: 2017-03-14
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

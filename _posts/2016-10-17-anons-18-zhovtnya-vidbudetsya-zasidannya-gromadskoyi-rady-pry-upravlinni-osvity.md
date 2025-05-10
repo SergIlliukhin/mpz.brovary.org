@@ -2,7 +2,7 @@
 title: "АНОНС: 18 жовтня відбудеться засідання Громадської ради при управлінні освіти"
 date: 2016-10-17
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

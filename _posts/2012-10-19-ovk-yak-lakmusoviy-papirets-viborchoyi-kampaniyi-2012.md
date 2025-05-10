@@ -2,7 +2,7 @@
 title: "Окружна комісія як \"лакмусовий папірець\" виборів-2012"
 date: 2012-10-19
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 categories: 
   - "kolonka-avtora"

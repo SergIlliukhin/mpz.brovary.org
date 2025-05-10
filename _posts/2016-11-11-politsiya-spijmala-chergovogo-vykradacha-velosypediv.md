@@ -2,7 +2,7 @@
 title: "Поліція спіймала чергового викрадача велосипедів"
 date: 2016-11-11
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

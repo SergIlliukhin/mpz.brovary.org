@@ -2,7 +2,7 @@
 title: "АНОНС: 7 жовтня підбиватимуть підсумки громадських обговорень щодо перейменування вулиць"
 date: 2016-10-06
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

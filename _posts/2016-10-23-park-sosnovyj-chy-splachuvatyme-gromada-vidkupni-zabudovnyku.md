@@ -2,7 +2,7 @@
 title: "Парк Сосновий: Чи сплачуватиме громада \"відкупні\" забудовнику?"
 date: 2016-10-23
 author: 
-  username: "SergIlliukhin"
+  username: "sergilliukhin"
   display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"

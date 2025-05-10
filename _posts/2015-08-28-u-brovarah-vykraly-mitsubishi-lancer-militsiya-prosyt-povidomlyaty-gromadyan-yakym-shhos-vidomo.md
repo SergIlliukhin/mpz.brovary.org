@@ -2,7 +2,7 @@
 title: "У Броварах викрали Mitsubishi Lancer, міліція просить повідомляти громадян, яким щось відомо"
 date: 2015-08-28
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

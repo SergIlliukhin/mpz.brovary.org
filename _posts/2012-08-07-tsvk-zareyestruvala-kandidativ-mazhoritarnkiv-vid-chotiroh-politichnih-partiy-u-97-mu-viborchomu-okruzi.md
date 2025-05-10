@@ -2,7 +2,7 @@
 title: "ЦВК зареєструвала кандидатів-мажоритарників від чотирьох політичних партій у 97-му виборчому окрузі"
 date: 2012-08-07
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "yeruhimovich"

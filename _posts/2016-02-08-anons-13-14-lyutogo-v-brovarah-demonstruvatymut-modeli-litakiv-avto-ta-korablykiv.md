@@ -2,7 +2,7 @@
 title: "АНОНС: 13-14 лютого в Броварах демонструватимуть моделі літаків, авто та корабликів"
 date: 2016-02-08
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

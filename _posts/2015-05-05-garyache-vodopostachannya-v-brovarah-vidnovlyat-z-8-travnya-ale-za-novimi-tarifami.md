@@ -2,7 +2,7 @@
 title: "Гаряче водопостачання в Броварах відновлять з 8 травня, але за новими тарифами"
 date: 2015-05-05
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

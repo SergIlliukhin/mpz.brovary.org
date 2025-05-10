@@ -2,7 +2,7 @@
 title: "100 днів після виборів: кому броварчани довірили управляти містом"
 date: 2016-02-08
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "rozsliduvannya"

@@ -2,7 +2,7 @@
 title: "Під час лекції-екскурсії «Коридорами ОСББ» броварчанам розкажуть про альтернативу ЖЕКам"
 date: 2015-01-27
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

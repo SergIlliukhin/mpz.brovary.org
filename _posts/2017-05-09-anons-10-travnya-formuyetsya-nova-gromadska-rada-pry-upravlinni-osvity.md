@@ -2,7 +2,7 @@
 title: "АНОНС: 10 травня - формується нова Громадська рада при управлінні освіти"
 date: 2017-05-09
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

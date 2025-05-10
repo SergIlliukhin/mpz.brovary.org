@@ -2,7 +2,7 @@
 title: "Ольгу Сумську вразили умови в броварському МКЦ «Прометей» - ФОТО"
 date: 2016-11-22
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

@@ -2,7 +2,7 @@
 title: "Електоральна географія 97 округу: за кого голосували Бровари, Березань, села та селища"
 date: 2014-11-13
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "97-okrug"

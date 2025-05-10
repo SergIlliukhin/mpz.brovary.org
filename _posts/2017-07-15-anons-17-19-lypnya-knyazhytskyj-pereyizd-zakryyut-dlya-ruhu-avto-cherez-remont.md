@@ -2,7 +2,7 @@
 title: "АНОНС: 17-19 липня Княжицький переїзд закриють для руху авто через ремонт"
 date: 2017-07-15
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

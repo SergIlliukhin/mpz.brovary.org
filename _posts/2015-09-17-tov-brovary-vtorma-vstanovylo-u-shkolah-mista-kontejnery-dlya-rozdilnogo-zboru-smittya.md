@@ -2,7 +2,7 @@
 title: "ТОВ \"Бровари-Вторма\" встановило у школах міста контейнери для роздільного збору сміття"
 date: 2015-09-17
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

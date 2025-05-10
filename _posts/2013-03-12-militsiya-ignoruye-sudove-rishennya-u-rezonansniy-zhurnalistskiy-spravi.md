@@ -2,7 +2,7 @@
 title: "Міліція ігнорує судове рішення у резонансній «журналістській» справі"
 date: 2013-03-12
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"

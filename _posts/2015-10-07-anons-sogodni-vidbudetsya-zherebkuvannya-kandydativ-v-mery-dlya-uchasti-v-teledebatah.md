@@ -2,7 +2,7 @@
 title: "АНОНС: Сьогодні відбудеться жеребкування кандидатів в мери для участі в теледебатах"
 date: 2015-10-07
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

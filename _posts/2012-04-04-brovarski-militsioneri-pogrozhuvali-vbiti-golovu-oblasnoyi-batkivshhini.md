@@ -2,7 +2,7 @@
 title: "Броварські правоохоронці погрожували вбити голову обласної \"Батьківщини\"? ДОПОВНЕНО"
 date: 2012-04-04
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"

@@ -2,7 +2,7 @@
 title: "Броварчани висадили в парку 40 дерев - ФОТО"
 date: 2017-04-12
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "hromada"

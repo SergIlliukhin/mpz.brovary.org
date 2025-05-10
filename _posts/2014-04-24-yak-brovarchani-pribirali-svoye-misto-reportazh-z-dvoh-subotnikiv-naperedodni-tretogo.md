@@ -2,7 +2,7 @@
 title: "Як броварчани прибирали своє місто: репортаж з двох суботників напередодні третього"
 date: 2014-04-24
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "brovary"

@@ -2,7 +2,7 @@
 title: "Для броварчан запрацював сервіс онлайн-петицій від \"ДемАльянсу\""
 date: 2015-11-25
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

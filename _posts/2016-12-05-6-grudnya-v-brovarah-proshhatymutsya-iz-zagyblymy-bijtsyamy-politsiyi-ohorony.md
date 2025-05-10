@@ -2,7 +2,7 @@
 title: "6 грудня в Броварах прощатимуться із загиблими бійцями поліції охорони"
 date: 2016-12-05
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

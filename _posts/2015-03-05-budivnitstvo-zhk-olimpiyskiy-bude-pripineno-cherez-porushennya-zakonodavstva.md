@@ -2,7 +2,7 @@
 title: "Будівництво ЖК \"Олімпійський\" буде припинено через порушення законодавства"
 date: 2015-03-05
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

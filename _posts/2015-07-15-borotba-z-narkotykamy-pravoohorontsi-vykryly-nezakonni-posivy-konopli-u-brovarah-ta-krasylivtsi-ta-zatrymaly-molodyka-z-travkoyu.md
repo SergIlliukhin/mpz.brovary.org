@@ -2,7 +2,7 @@
 title: "Боротьба з наркотиками: правоохоронці викрили незаконні посіви коноплі у Броварах та Красилівці та затримали молодика з \"травкою\""
 date: 2015-07-15
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

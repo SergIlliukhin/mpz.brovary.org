@@ -2,7 +2,7 @@
 title: "Броварчани проти перенесення зупинки навпроти ТРЦ \"Термінал\""
 date: 2016-06-10
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

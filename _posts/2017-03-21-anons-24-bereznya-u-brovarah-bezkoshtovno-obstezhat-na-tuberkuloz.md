@@ -2,7 +2,7 @@
 title: "АНОНС: 24 березня у Броварах безкоштовно обстежать на туберкульоз"
 date: 2017-03-21
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

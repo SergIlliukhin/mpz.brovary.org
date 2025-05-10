@@ -2,7 +2,7 @@
 title: "У Броварах проведуть стерилізацію та вакцинацію безпритульних тварин. Шукають волонтерів!"
 date: 2013-11-13
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "bezpritulni-tvarini"

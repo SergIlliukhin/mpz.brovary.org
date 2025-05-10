@@ -2,7 +2,7 @@
 title: "Політичний «феномен» Ігоря Сапожка. Частина 2. Стрімка політична кар’єра в Броварах: талант чи впливові покровителі?"
 date: 2015-08-13
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "rozsliduvannya"

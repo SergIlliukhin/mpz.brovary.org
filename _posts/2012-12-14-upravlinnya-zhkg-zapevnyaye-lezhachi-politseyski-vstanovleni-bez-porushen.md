@@ -2,7 +2,7 @@
 title: "ДАІ, ЖКГ та архітектура розійшлись у поглядах щодо магістральних вулиць у Броварах"
 date: 2012-12-14
 author: 
-  username: "SergIlliukhin"
+  username: "sergilliukhin"
   display_name: "Сергій Іллюхін"
 tags: 
   - "brovary"

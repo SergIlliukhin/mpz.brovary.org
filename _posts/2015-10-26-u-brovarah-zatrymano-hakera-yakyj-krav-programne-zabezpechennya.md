@@ -2,7 +2,7 @@
 title: "У Броварах затримано хакера, який крав програмне забезпечення"
 date: 2015-10-26
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

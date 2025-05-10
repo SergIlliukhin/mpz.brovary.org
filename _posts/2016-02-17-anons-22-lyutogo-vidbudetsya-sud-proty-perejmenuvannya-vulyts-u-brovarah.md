@@ -2,7 +2,7 @@
 title: "АНОНС: 22 лютого відбудеться суд проти перейменування вулиць у Броварах"
 date: 2016-02-17
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

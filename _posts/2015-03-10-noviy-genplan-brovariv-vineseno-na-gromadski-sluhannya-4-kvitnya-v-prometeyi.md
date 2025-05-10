@@ -2,7 +2,7 @@
 title: "Новий Генплан Броварів винесено на громадські слухання - 4 квітня в \"Прометеї\""
 date: 2015-03-10
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

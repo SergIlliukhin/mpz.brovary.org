@@ -2,7 +2,7 @@
 title: "Броварська депутатка від ДемАльянсу Аліна Дяченко склала мандат"
 date: 2016-10-25
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

@@ -2,7 +2,7 @@
 title: "Самовисуванка Ярошенко проголосувала, \"бо потрібна Броварам\" – HromadskeBro.tv"
 date: 2015-10-25
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

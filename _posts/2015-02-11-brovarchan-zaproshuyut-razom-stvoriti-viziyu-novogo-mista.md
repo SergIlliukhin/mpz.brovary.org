@@ -2,7 +2,7 @@
 title: "Броварчан запрошують разом створити \"Візію нового міста\""
 date: 2015-02-11
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

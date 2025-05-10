@@ -2,7 +2,7 @@
 title: "Для чиїх «суспільних потреб» у броварчан примусово відчужують приватні земельні ділянки?"
 date: 2012-07-26
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 categories: 
   - "rozsliduvannya"

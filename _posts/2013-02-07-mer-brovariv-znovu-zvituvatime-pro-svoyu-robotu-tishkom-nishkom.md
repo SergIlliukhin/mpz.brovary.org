@@ -2,7 +2,7 @@
 title: "Мер Броварів знову звітуватиме про свою роботу тишком-нишком?"
 date: 2013-02-07
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 categories: 
   - "kolonka-avtora"

@@ -2,7 +2,7 @@
 title: "Відкрито конкурс для участі в Програмі підтримки ОСББ та ЖБК в Броварах,  - управління ЖКГ"
 date: 2016-06-23
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

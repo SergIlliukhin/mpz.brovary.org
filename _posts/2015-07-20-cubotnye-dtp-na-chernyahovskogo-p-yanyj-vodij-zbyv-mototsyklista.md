@@ -2,7 +2,7 @@
 title: "Cуботнє ДТП на Черняховського: п'яний водій збив мотоцикліста"
 date: 2015-07-20
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

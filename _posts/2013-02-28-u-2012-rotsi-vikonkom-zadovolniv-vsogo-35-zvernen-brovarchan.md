@@ -2,7 +2,7 @@
 title: "У 2012 році виконком задовольнив всього 35 % звернень броварчан"
 date: 2013-02-28
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "brovary"

@@ -2,7 +2,7 @@
 title: "Обласна \"Свобода\" вимагає від броварських депутатів Брусенської та Базишина скласти мандати"
 date: 2013-11-21
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "bazyshyn"

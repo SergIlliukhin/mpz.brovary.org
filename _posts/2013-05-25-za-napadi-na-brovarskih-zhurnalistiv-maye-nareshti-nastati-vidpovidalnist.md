@@ -2,7 +2,7 @@
 title: "Зухвалі напади на броварських журналістів може зупинити лише громадськість"
 date: 2013-05-25
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 categories: 
   - "kolonka-avtora"

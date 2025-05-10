@@ -2,7 +2,7 @@
 title: "АНОНС: У Броварах знову покажуть комедію «Звідки беруться діти» та ще дві дитячі вистави"
 date: 2016-12-09
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

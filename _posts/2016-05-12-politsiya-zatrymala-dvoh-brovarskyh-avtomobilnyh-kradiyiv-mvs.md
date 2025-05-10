@@ -2,7 +2,7 @@
 title: "Поліція затримала двох броварських автомобільних крадіїв – МВС"
 date: 2016-05-12
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

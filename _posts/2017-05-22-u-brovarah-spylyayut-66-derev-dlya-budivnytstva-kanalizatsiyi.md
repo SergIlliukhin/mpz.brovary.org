@@ -2,7 +2,7 @@
 title: "У Броварах спиляють 66 дерев для будівництва каналізації"
 date: 2017-05-22
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

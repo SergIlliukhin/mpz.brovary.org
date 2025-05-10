@@ -2,7 +2,7 @@
 title: "Броварські січовики тримають \"Едельвейс\" в Пісках Донбасу - ВІДЕО"
 date: 2015-03-12
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

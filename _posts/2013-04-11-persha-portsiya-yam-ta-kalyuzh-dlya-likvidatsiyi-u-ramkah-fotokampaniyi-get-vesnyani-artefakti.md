@@ -2,7 +2,7 @@
 title: "Перша порція ям та калюж фотокампанії \"Геть весняні артефакти!\""
 date: 2013-04-11
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "brovary"

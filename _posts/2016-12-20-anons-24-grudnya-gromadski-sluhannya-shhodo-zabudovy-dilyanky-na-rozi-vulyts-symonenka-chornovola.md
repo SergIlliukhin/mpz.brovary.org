@@ -2,7 +2,7 @@
 title: "АНОНС: 24 грудня - громадські слухання щодо забудови ділянки на розі вулиць Симоненка-Чорновола"
 date: 2016-12-20
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

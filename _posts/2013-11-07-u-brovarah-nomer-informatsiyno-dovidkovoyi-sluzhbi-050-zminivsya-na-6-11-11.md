@@ -2,7 +2,7 @@
 title: "У Броварах номер телефонної довідки змінився на 6-11-11"
 date: 2013-11-07
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "informatsiyno-dovidkova-sluzhba"

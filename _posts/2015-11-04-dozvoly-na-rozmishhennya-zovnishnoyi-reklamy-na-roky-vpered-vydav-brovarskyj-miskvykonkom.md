@@ -2,7 +2,7 @@
 title: "Дозволи на розміщення зовнішньої реклами на роки вперед видав броварський міськвиконком"
 date: 2015-11-04
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

@@ -2,7 +2,7 @@
 title: "На новому кладовищі у Броварах створять ділянку для поховання захисників України"
 date: 2015-11-06
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

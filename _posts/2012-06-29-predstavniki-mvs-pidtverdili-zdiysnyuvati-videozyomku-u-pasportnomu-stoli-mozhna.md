@@ -2,7 +2,7 @@
 title: "Представники МВС підтвердили: здійснювати відеозйомку у паспортному столі дозволяється"
 date: 2012-06-29
 author: 
-  username: "SergIlliukhin"
+  username: "sergilliukhin"
   display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"

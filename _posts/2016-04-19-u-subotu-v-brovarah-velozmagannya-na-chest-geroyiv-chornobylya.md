@@ -2,7 +2,7 @@
 title: "У суботу в Броварах - велозмагання на честь Героїв Чорнобиля"
 date: 2016-04-19
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

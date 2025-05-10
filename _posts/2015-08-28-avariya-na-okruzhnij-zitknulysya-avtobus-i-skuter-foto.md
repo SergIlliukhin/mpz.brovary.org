@@ -2,7 +2,7 @@
 title: "Аварія на Окружній: зіткнулися автобус і скутер - ФОТО"
 date: 2015-08-28
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

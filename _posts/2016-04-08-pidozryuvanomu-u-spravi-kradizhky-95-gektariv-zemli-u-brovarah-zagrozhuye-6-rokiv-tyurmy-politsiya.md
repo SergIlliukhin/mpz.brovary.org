@@ -2,7 +2,7 @@
 title: "Підозрюваному у справі крадіжки 95 гектарів землі у Броварах загрожує 6 років тюрми, - поліція"
 date: 2016-04-08
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

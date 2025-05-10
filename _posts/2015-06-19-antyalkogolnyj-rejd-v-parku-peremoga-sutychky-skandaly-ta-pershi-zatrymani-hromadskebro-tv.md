@@ -2,7 +2,7 @@
 title: "Антиалкогольний рейд в парку \"Перемога\": сутички, скандали та перші затримані - HromadskeBro.tv"
 date: 2015-06-19
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

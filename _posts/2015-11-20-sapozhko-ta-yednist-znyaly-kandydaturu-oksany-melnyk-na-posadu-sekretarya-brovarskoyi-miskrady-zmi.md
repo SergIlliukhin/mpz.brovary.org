@@ -2,7 +2,7 @@
 title: "Сапожко та «Єдність» зняли кандидатуру Оксани Мельник на посаду секретаря Броварської міськради - ЗМІ"
 date: 2015-11-20
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

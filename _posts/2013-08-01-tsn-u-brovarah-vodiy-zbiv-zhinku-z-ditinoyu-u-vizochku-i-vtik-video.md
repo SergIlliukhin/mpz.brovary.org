@@ -2,7 +2,7 @@
 title: "ТСН: У Броварах водій збив жінку з дитиною у візочку і втік - ВІДЕО"
 date: 2013-08-01
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

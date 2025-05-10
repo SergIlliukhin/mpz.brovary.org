@@ -2,7 +2,7 @@
 title: "Броварську лікарню взяли під \"громадську варту\", щоб пильнувати поранених"
 date: 2014-02-20
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "brovary"

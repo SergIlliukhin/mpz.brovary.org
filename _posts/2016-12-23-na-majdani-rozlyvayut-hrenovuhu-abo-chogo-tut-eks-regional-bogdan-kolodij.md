@@ -2,7 +2,7 @@
 title: "На Майдані розливають \"хреновуху\", або До чого тут екс-регіонал Богдан Колодій? - ВІДЕО"
 date: 2016-12-23
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

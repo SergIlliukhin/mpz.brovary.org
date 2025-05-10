@@ -2,7 +2,7 @@
 title: "Василя Кочубея збираються зняти з посади голови земельної комісії"
 date: 2016-07-20
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

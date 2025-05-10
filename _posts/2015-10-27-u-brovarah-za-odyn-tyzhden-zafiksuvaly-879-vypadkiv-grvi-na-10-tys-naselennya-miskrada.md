@@ -2,7 +2,7 @@
 title: "У Броварах за один тиждень зафіксували 879 випадків ГРВІ на 10 тис. населення - міськрада"
 date: 2015-10-27
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

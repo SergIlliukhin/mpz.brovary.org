@@ -2,7 +2,7 @@
 title: "В ОВК № 97 невідомі молодики не пустили журналістів до зали засідань комісії - ВІДЕО"
 date: 2012-10-28
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

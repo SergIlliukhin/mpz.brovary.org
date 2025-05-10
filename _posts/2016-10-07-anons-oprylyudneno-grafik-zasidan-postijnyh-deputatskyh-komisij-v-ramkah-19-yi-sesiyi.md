@@ -2,7 +2,7 @@
 title: "АНОНС: Оприлюднено графік засідань постійних депутатських комісій в рамках 19-ї сесії"
 date: 2016-10-07
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

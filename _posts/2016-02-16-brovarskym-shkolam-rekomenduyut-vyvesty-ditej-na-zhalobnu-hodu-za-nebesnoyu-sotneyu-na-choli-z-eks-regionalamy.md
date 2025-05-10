@@ -2,7 +2,7 @@
 title: "Броварським школам «рекомендують» вивести дітей на жалобну ходу за Небесною сотнею на чолі з екс-регіоналами"
 date: 2016-02-16
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

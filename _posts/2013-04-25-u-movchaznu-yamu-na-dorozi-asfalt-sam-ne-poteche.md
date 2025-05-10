@@ -2,7 +2,7 @@
 title: "У «мовчазну» яму на дорозі асфальт сам не потече"
 date: 2013-04-25
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 categories: 
   - "kolonka-avtora"

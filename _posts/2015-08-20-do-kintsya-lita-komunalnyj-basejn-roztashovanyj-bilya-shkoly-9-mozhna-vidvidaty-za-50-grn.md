@@ -2,7 +2,7 @@
 title: "До кінця літа комунальний басейн, розташований біля школи № 9, можна відвідати за 50 грн"
 date: 2015-08-20
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

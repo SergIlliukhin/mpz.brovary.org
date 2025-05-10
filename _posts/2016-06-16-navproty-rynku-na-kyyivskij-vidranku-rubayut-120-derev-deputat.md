@@ -2,7 +2,7 @@
 title: "Біля ЖК \"Діамант\" зрубали 120 дерев, – депутат"
 date: 2016-06-16
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

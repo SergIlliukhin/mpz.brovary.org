@@ -2,7 +2,7 @@
 title: "Лелеку з Порошинки віддали у притулок для птахів – HromadskeBro.tv"
 date: 2015-10-19
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

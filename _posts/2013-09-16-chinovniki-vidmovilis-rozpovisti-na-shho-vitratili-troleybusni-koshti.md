@@ -2,7 +2,7 @@
 title: "Чиновники відмовились розповісти, на що витратили \"тролейбусні\" кошти"
 date: 2013-09-16
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "illyuhin"

@@ -2,7 +2,7 @@
 title: "В окрузі №97 ЦВК опрацювала близько 20% протоколів: лідирують Різаненко та Блок Порошенка"
 date: 2014-10-27
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"

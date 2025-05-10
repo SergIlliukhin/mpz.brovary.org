@@ -2,7 +2,7 @@
 title: "Побитий до напівсмерті чоловіком собака Рекс - помер"
 date: 2017-01-10
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

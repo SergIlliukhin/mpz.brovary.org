@@ -2,7 +2,7 @@
 title: "АНОНС: Безкоштовна зарядка - щоранку по суботах у парку \"Перемога\""
 date: 2017-07-28
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

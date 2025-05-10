@@ -2,7 +2,7 @@
 title: "ЦВК прийняла протоколи з результатами голосування по округу №97"
 date: 2012-11-07
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"

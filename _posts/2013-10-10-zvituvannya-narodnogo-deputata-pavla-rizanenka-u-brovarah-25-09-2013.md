@@ -2,7 +2,7 @@
 title: "Звітування народного депутата Павла Різаненка у Броварах"
 date: 2013-10-10
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

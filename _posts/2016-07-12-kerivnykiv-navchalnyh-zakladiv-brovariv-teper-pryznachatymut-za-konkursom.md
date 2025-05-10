@@ -2,7 +2,7 @@
 title: "Керівників навчальних закладів Броварів тепер призначатимуть за конкурсом"
 date: 2016-07-12
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

@@ -2,7 +2,7 @@
 title: "Планові відімкнення світла у Броварах до кінця квітня – ГРАФІК"
 date: 2017-04-08
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

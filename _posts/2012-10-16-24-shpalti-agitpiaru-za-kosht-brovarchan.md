@@ -2,7 +2,7 @@
 title: "24 шпальти агітпіару за кошт броварчан"
 date: 2012-10-16
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 categories: 
   - "kolonka-avtora"

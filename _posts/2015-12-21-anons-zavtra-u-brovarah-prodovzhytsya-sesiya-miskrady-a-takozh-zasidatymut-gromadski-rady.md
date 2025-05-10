@@ -2,7 +2,7 @@
 title: "АНОНС: Завтра у Броварах продовжиться сесія міськради, а також засідатимуть Громадські ради"
 date: 2015-12-21
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

@@ -2,7 +2,7 @@
 title: "«Броварське ШБУ № 50» залучене до розкрадання грошей, передбачених на будівництво доріг"
 date: 2017-07-03
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

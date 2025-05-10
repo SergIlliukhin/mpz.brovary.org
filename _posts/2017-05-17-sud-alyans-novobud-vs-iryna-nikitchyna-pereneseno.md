@@ -2,7 +2,7 @@
 title: "Суд Альянс-Новобуд vs Ірина Нікітчина перенесено"
 date: 2017-05-17
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "hromada"

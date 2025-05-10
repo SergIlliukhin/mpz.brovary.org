@@ -2,7 +2,7 @@
 title: "У броварському парку ім. Тараса Шевченка зріжуть 15 дерев"
 date: 2013-05-30
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

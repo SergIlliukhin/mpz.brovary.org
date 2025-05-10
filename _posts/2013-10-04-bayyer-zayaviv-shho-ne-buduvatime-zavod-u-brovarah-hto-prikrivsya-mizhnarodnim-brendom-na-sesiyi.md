@@ -2,7 +2,7 @@
 title: "«Байєр» заявив, що не будуватиме завод у Броварах. Хто прикрився міжнародним брендом?"
 date: 2013-10-04
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "95-ga"

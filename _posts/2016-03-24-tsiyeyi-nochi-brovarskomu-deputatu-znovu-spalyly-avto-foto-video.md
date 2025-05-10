@@ -2,7 +2,7 @@
 title: "Цієї ночі броварському депутату знову спалили авто, - ФОТО, ВІДЕО"
 date: 2016-03-24
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

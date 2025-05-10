@@ -2,7 +2,7 @@
 title: "В очікуванні на першу сесію: про що вже більше тижня \"консультуються\" мер та депутати"
 date: 2015-11-10
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "rozsliduvannya"

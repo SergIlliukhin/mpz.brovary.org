@@ -2,7 +2,7 @@
 title: "Броварська мерія не хоче купувати послуги через систему Prozorro"
 date: 2016-04-11
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

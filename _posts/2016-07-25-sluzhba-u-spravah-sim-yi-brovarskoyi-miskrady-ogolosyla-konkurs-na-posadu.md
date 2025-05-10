@@ -2,7 +2,7 @@
 title: "Конкурс: у броварській службі у справах сім’ї вільна посада головного спеціаліста"
 date: 2016-07-25
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

@@ -2,7 +2,7 @@
 title: "Минулої ночі в районі Торгмаш згоріли дві автівки - ФОТО"
 date: 2015-08-27
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

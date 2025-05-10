@@ -2,7 +2,7 @@
 title: "«Старі пісні» «з турботою про кожного»: офіційні заходи на новорічні свята у Броварах"
 date: 2014-12-12
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

@@ -2,7 +2,7 @@
 title: "Скільки грошей витратили броварські кандидати на виборчу кампанію?"
 date: 2013-01-11
 author: 
-  username: "SergIlliukhin"
+  username: "sergilliukhin"
   display_name: "Сергій Іллюхін"
 categories: 
   - "rozsliduvannya"

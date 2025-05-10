@@ -2,7 +2,7 @@
 title: "У Броварах жінка намагалася продати доньку, якій виповнилося 6 днів - ВІДЕО"
 date: 2016-06-21
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

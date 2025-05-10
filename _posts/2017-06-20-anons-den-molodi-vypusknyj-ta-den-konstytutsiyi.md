@@ -2,7 +2,7 @@
 title: "АНОНС: День Молоді, випускний, велотріал та День Конституції - ОНОВЛЕНО"
 date: 2017-06-20
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

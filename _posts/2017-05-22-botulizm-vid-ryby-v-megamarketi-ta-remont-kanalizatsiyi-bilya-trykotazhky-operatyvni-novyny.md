@@ -2,7 +2,7 @@
 title: "Ботулізм від риби в «Мегамаркеті» та ремонт каналізації біля Трикотажки, - оперативні новини"
 date: 2017-05-22
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

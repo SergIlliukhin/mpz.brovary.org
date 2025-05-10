@@ -2,7 +2,7 @@
 title: "Опубліковано архів документів Броварської міської ради"
 date: 2012-02-17
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "vykonkom"

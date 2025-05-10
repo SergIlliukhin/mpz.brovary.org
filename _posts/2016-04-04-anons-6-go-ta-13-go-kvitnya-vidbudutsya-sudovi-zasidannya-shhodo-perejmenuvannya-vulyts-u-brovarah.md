@@ -2,7 +2,7 @@
 title: "АНОНС: 6-го та 13-го квітня відбудуться судові засідання щодо перейменування вулиць у Броварах"
 date: 2016-04-04
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

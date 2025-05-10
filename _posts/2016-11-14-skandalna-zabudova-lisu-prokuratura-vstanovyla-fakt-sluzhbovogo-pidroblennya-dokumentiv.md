@@ -2,7 +2,7 @@
 title: "Скандальна забудова лісу: прокуратура встановила факт службового підроблення документів"
 date: 2016-11-14
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

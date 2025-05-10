@@ -2,7 +2,7 @@
 title: "Хто пройшов до Київської обласної ради від Броварів – аналіз руху «Чесно»"
 date: 2016-02-15
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

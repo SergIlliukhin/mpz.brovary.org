@@ -2,7 +2,7 @@
 title: "В четвер не буде світла по вулиці Гагаріна"
 date: 2017-07-03
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

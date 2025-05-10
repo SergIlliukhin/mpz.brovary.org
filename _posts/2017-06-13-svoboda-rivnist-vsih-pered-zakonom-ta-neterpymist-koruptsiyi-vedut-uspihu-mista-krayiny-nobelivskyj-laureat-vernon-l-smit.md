@@ -2,7 +2,7 @@
 title: "«Свобода,  рівність всіх перед законом та нетерпимість до корупції – ведуть до успіху міста і країни» - Нобелівський лауреат Вернон Л. Сміт"
 date: 2017-06-13
 author: 
-  username: "Scientific_view"
+  username: "scientific_view"
   display_name: "Ольга Романенко"
 categories: 
   - "kolonka-avtora"

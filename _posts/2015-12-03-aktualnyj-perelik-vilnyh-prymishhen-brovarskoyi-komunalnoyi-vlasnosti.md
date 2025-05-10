@@ -2,7 +2,7 @@
 title: "Актуальний перелік вільних приміщень броварської комунальної власності"
 date: 2015-12-03
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

@@ -2,7 +2,7 @@
 title: "Приклад запиту про прибудинкову територію"
 date: 2011-10-05
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "zhkg"

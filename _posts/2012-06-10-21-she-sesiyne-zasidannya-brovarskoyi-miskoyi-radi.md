@@ -2,7 +2,7 @@
 title: "21-ше сесійне засідання Броварської міської ради - ВІДЕО"
 date: 2012-06-10
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

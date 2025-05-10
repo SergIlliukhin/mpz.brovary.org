@@ -2,7 +2,7 @@
 title: "Через роботи над водогоном район «Купави» цілий день перебував без краплини води"
 date: 2016-06-29
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

@@ -2,7 +2,7 @@
 title: "Мітинг об'єднаної опозиції у Броварах відбувся гучно, але без партійних прапорів - ФОТО"
 date: 2012-09-11
 author: 
-  username: "SergIlliukhin"
+  username: "sergilliukhin"
   display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"

@@ -2,7 +2,7 @@
 title: "Броварський суд вирішить, чи законно обмежує міська рада доступ до публічної інформації - ОНОВЛЕНО"
 date: 2012-06-11
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "illyuhin"

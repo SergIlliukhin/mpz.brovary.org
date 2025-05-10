@@ -2,7 +2,7 @@
 title: "В адмінбудинку на Майдані Свободи знайшли й знешкодили вибухівку?"
 date: 2014-12-01
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "adminbudinok"

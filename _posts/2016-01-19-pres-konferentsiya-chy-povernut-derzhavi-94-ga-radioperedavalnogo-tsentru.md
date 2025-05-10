@@ -2,7 +2,7 @@
 title: "АНОНС: У четвер відбудеться прес-конференція Різаненка щодо шансів на повернення земель РПЦ державі"
 date: 2016-01-19
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

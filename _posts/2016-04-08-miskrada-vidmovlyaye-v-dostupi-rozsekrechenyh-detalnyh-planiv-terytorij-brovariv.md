@@ -2,7 +2,7 @@
 title: "Міськрада відмовляє в доступі до розсекречених детальних планів територій Броварів"
 date: 2016-04-08
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

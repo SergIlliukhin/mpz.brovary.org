@@ -2,7 +2,7 @@
 title: "Броварська станція екстреної медичної допомоги шукає фельдшерів та медсестер"
 date: 2016-06-03
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

@@ -2,7 +2,7 @@
 title: "«Тиха хода» адмінресурсу: школярі, бюджетники та депутати поклали квіти до меморіалу Небесної сотні"
 date: 2016-02-19
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

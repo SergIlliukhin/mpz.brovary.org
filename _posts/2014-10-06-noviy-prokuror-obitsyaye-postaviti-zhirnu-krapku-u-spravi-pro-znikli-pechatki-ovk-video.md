@@ -2,7 +2,7 @@
 title: "Новий прокурор обіцяє «поставити жирну крапку» у справі про зниклі печатки ДВК - ВІДЕО"
 date: 2014-10-06
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

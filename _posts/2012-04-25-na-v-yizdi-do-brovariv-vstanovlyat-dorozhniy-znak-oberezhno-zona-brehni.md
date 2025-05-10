@@ -2,7 +2,7 @@
 title: "На в'їзді в Бровари встановлять дорожній знак «Обережно, зона брехні!»"
 date: 2012-04-25
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "aktsiya"

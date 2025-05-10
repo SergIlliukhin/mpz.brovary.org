@@ -2,7 +2,7 @@
 title: "Мер Броварів погодився продовжити обговорення генплану міста та перенести громадські слухання (доповнено)"
 date: 2015-03-26
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "brovary"

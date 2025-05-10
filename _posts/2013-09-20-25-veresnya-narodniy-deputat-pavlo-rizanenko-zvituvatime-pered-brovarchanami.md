@@ -2,7 +2,7 @@
 title: "25 вересня народний депутат Павло Різаненко прозвітує перед броварчанами"
 date: 2013-09-20
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

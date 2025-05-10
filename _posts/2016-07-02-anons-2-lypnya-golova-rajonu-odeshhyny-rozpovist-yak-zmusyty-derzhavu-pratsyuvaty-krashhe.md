@@ -2,7 +2,7 @@
 title: "АНОНС: 2 липня голова району Одещини розповість, як «змусити» державу працювати краще"
 date: 2016-07-02
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

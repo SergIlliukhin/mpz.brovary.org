@@ -2,7 +2,7 @@
 title: "Броварські комунальники зрубають 9 дерев по вулиці Київській"
 date: 2016-05-13
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

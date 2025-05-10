@@ -2,7 +2,7 @@
 title: "Що робити, якщо не виплачують зарплату?"
 date: 2013-03-27
 author: 
-  username: "SergIlliukhin"
+  username: "sergilliukhin"
   display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"

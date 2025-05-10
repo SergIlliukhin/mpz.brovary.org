@@ -2,7 +2,7 @@
 title: "АНОНС: 22 жовтня відбудеться благодійний концерт у ТЕРМІНАЛІ"
 date: 2016-10-19
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

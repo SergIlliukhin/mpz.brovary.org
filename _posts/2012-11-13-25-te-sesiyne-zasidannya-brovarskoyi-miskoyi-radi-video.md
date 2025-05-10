@@ -2,7 +2,7 @@
 title: "25-те сесійне засідання Броварської міської ради – ВІДЕО"
 date: 2012-11-13
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

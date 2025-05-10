@@ -2,7 +2,7 @@
 title: "На посаду керівника МКЦ «Прометей» претендують активіст, чинні директорка і працівниця закладу"
 date: 2017-05-31
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

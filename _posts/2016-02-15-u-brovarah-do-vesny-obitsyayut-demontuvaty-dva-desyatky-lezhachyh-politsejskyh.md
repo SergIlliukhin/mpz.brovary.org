@@ -2,7 +2,7 @@
 title: "У Броварах до весни обіцяють демонтувати два десятки «лежачих поліцейських»"
 date: 2016-02-15
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

@@ -2,7 +2,7 @@
 title: "Завтра-післязавтра мають вимкнути опалення у Броварах"
 date: 2016-04-04
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

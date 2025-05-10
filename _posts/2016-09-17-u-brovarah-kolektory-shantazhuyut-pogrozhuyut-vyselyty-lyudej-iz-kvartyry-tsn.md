@@ -2,7 +2,7 @@
 title: "ТСН: У Броварах колектори шантажують і погрожують виселити людей із квартири – ВІДЕО"
 date: 2016-09-17
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

@@ -2,7 +2,7 @@
 title: "Суд заборонив проведення акції протесту в Броварах. Організатори заявляють, що захід все одно відбудеться."
 date: 2012-03-03
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "aktsiya-protestu"

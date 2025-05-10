@@ -2,7 +2,7 @@
 title: "18 квітня відбудеться 32-а чергова сесія Броварської міської ради"
 date: 2013-04-02
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

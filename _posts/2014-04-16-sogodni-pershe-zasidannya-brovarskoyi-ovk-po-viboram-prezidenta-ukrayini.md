@@ -2,7 +2,7 @@
 title: "Сьогодні – перше засідання броварської ОВК з виборів Президента України"
 date: 2014-04-16
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

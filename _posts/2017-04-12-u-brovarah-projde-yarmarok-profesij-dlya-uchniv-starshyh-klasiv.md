@@ -2,7 +2,7 @@
 title: "АНОНС: У Броварах пройде ярмарок професій для учнів старших класів"
 date: 2017-04-12
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

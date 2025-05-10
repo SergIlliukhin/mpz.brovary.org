@@ -2,7 +2,7 @@
 title: "В \"День тиші\" у Броварах відбудеться агітаційний захід Миколи Семеняки?"
 date: 2014-10-24
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

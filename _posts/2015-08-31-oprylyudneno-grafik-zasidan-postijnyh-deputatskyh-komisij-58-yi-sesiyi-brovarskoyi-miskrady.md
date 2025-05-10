@@ -2,7 +2,7 @@
 title: "Оприлюднено графік засідань постійних депутатських комісій 58-ї сесії Броварської міськради"
 date: 2015-08-31
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

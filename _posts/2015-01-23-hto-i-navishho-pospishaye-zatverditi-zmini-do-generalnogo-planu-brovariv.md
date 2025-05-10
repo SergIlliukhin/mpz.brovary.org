@@ -2,7 +2,7 @@
 title: "Хто і навіщо поспішає затвердити зміни до Генерального плану Броварів?"
 date: 2015-01-23
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "brovary"

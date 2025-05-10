@@ -2,7 +2,7 @@
 title: "Розпочалось громадське обговорення змін до плану території ІV житлового району м. Бровари"
 date: 2013-07-29
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "4-zhitloviy-rayon"

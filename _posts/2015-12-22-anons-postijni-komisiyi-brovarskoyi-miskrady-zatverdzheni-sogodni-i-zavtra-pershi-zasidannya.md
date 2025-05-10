@@ -2,7 +2,7 @@
 title: "АНОНС: Постійні комісії Броварської міськради утворені - сьогодні і завтра перші засідання"
 date: 2015-12-22
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

@@ -2,7 +2,7 @@
 title: "Декларації трьох заступників міського голови: найзаможніший - Олександр Резнік"
 date: 2017-04-24
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "rozsliduvannya"

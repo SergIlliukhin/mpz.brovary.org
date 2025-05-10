@@ -2,7 +2,7 @@
 title: "Спостерігачу на замітку - ВІДЕО"
 date: 2012-10-25
 author: 
-  username: "SergIlliukhin"
+  username: "sergilliukhin"
   display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"

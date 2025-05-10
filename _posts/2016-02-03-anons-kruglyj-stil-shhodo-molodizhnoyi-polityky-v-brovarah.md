@@ -2,7 +2,7 @@
 title: "АНОНС: Круглий стіл щодо молодіжної політики в Броварах"
 date: 2016-02-03
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

@@ -2,7 +2,7 @@
 title: "АНОНС: Парад вишиванок у Броварах пройде в суботу, 21 травня"
 date: 2016-05-19
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

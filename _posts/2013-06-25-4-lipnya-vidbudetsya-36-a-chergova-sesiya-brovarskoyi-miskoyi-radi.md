@@ -2,7 +2,7 @@
 title: "4 липня відбудеться 36-а чергова сесія Броварської міської ради"
 date: 2013-06-25
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

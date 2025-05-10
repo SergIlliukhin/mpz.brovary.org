@@ -2,7 +2,7 @@
 title: "Чи буде сяяти ялинка на площі Шевченка цього року?"
 date: 2012-11-27
 author: 
-  username: "Lisova"
+  username: "lisova"
   display_name: "Лідія Стрельченко"
 categories: 
   - "kolonka-avtora"

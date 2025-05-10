@@ -2,7 +2,7 @@
 title: "Жеребкування складу ДВК не дало результатів. Громадськість зробила власний підрахунок + ВІДЕО"
 date: 2012-09-21
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "batkivshhina"

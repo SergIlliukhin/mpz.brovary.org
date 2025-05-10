@@ -2,7 +2,7 @@
 title: "Які будинки у Броварах планують ремонтувати цього року – ПЕРЕЛІК"
 date: 2016-03-30
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

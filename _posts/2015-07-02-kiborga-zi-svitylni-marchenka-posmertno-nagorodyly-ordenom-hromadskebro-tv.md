@@ -2,7 +2,7 @@
 title: "\"Кіборга\" зі Світильні Марченка посмертно нагородили орденом - HromadskeBro.tv"
 date: 2015-07-02
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

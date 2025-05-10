@@ -2,7 +2,7 @@
 title: "Броварські депутати знову «не хочуть в камеру»?"
 date: 2013-07-03
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "vikanov"

@@ -2,7 +2,7 @@
 title: "22 травня відбудеться 45 чергова сесія Броварської міськради"
 date: 2014-04-29
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

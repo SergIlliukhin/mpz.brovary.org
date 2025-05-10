@@ -2,7 +2,7 @@
 title: "Поіменне голосування у міській раді: огляд запропонованих систем - ОНОВЛЕНО"
 date: 2016-01-26
 author: 
-  username: "SergIlliukhin"
+  username: "sergilliukhin"
   display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"

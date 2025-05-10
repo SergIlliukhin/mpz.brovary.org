@@ -2,7 +2,7 @@
 title: "Броварські волонтери відремонтували танк в парку «Перемога» і передадуть його в зону АТО"
 date: 2015-04-01
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "1-kvitnya"

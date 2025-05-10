@@ -2,7 +2,7 @@
 title: "Гарячу воду в Броварах відключили в зв'язку із заборгованістю за газ?"
 date: 2014-04-29
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovariteplovodoenegriya"

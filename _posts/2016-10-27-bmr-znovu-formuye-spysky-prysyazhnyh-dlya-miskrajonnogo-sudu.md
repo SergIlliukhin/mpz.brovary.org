@@ -2,7 +2,7 @@
 title: "БМР знову формує списки присяжних для міськрайонного суду"
 date: 2016-10-27
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

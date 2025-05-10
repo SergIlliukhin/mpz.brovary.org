@@ -2,7 +2,7 @@
 title: "АНОНС: 26 лютого в БВУФК пройде благодійний футбольний дитячий турнір"
 date: 2017-02-24
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

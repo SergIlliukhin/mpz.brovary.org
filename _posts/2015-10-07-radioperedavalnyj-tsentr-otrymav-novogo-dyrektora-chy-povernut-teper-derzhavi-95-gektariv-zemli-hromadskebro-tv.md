@@ -2,7 +2,7 @@
 title: "Радіопередавальний центр отримав нового директора. Чи повернуть тепер державі 95 гектарів землі? – HromadskeBro.tv"
 date: 2015-10-07
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

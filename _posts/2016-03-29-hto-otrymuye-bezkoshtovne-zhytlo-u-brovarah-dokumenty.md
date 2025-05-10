@@ -2,7 +2,7 @@
 title: "Хто отримує безкоштовне житло у Броварах? ДОКУМЕНТИ"
 date: 2016-03-29
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

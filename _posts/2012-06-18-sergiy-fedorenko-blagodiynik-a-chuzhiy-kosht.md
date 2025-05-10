@@ -2,7 +2,7 @@
 title: "Сергій Федоренко - благодійник за чужий кошт?"
 date: 2012-06-18
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 categories: 
   - "kolonka-avtora"

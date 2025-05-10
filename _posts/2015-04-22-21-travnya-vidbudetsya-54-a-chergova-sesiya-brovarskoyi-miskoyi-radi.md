@@ -2,7 +2,7 @@
 title: "21 травня відбудеться 54-а чергова сесія Броварської міської ради"
 date: 2015-04-22
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

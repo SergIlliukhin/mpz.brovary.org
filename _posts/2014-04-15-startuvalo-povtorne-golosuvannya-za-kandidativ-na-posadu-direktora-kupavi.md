@@ -2,7 +2,7 @@
 title: "Стартувало повторне голосування за кандидатів на посаду директора «Купави»"
 date: 2014-04-15
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"

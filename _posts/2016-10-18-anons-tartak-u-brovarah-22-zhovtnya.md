@@ -2,7 +2,7 @@
 title: "АНОНС: ТАРТАК у Броварах 22 жовтня"
 date: 2016-10-18
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

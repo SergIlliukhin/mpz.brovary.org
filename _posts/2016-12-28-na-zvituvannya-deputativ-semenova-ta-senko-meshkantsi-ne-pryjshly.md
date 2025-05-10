@@ -2,7 +2,7 @@
 title: "На звітування депутатів Семенова та Сенько мешканці не прийшли"
 date: 2016-12-28
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "hromada"

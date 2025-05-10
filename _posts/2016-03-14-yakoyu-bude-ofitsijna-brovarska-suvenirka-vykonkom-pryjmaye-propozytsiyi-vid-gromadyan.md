@@ -2,7 +2,7 @@
 title: "Якою буде офіційна броварська \"сувенірка\"? Виконком приймає пропозиції від громадян"
 date: 2016-03-14
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

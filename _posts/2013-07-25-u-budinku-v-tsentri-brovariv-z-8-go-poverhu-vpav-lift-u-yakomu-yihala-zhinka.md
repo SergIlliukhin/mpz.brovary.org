@@ -2,7 +2,7 @@
 title: "У будинку в центрі Броварів з 8-го поверху впав ліфт, у якому їхала жінка"
 date: 2013-07-25
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "avariya"

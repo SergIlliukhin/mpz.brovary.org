@@ -2,7 +2,7 @@
 title: "АНОНС: Семінар щодо впровадження енергоефективності в житлових будинках, - міськрада"
 date: 2017-02-16
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

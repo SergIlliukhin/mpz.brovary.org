@@ -2,7 +2,7 @@
 title: "24 грудня відбудеться 3-я чергова сесія Броварської міськради"
 date: 2015-11-27
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

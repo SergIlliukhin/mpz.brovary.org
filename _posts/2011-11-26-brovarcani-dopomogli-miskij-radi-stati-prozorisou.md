@@ -2,7 +2,7 @@
 title: "Операція \"Чисті вікна\" - броварчани допомогли міській раді стати прозорішою"
 date: 2011-11-26
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "aktsiyi-zahodi"

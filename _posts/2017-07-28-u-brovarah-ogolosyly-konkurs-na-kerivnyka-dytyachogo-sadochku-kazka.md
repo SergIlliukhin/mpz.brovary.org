@@ -2,7 +2,7 @@
 title: "У Броварах оголосили конкурс на керівника дитячого садочку \"Казка\""
 date: 2017-07-28
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

@@ -2,7 +2,7 @@
 title: "У Броварах запрацювала ГО \"Права людини\", яка допомагатиме переселенцям у юридичних питаннях"
 date: 2015-11-27
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

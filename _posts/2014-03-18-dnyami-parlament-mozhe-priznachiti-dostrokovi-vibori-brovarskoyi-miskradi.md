@@ -2,7 +2,7 @@
 title: "Днями Парламент може призначити дострокові вибори броварської міськради"
 date: 2014-03-18
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"

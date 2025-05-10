@@ -2,7 +2,7 @@
 title: "До Євро 2012 броварський гімн відредагують та перекладуть німецькою"
 date: 2012-04-01
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"

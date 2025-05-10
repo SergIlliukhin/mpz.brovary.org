@@ -2,7 +2,7 @@
 title: "Броварські випускники не скористалися грантами Рокфордського коледжу"
 date: 2012-12-28
 author: 
-  username: "SergIlliukhin"
+  username: "sergilliukhin"
   display_name: "Сергій Іллюхін"
 tags: 
   - "brovary"

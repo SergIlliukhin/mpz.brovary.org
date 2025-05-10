@@ -2,7 +2,7 @@
 title: "При управлінні освіти Броварської міської ради створюють Громадську раду"
 date: 2015-04-06
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "instituti-gromadyanskogo-suspilstva"

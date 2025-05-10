@@ -2,7 +2,7 @@
 title: "Влада не надає документи з реконструкції парку Шевченка, бо не може скопіювати"
 date: 2014-07-22
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "viddil-kapitalnogo-budivnitstva"

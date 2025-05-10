@@ -2,7 +2,7 @@
 title: "Скандал навколо «Порошкового»: міністр заявляє про тиск під час обрання нового директора заводу"
 date: 2016-02-04
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

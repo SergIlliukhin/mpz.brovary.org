@@ -2,7 +2,7 @@
 title: "Броварські депутати вирішили: вулицю Тургенєва не перейменовувати"
 date: 2017-03-23
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

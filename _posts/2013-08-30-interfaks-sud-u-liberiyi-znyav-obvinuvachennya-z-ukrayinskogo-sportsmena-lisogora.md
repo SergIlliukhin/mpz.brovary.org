@@ -2,7 +2,7 @@
 title: "\"Інтерфакс\": Суд у Ліберії зняв обвинувачення з українського спортсмена Лісогора"
 date: 2013-08-30
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

@@ -2,7 +2,7 @@
 title: "АНОНС: На ювілейному Дні Незалежності у Броварах заспівають Джамала і Ніна Матвієнко"
 date: 2016-08-22
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

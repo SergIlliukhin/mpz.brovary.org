@@ -2,7 +2,7 @@
 title: "Планові відключення електроенергії на цьому тижні у Броварах"
 date: 2017-01-24
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

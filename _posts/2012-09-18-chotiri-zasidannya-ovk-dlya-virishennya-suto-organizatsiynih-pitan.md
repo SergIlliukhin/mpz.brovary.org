@@ -2,7 +2,7 @@
 title: "Чотири засідання ОВК для вирішення суто організаційних питань"
 date: 2012-09-18
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "brovary"

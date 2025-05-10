@@ -2,7 +2,7 @@
 title: "Сьогодні вночі сталася пожежа в гаражах біля «Автошколи» - ФОТО, ВІДЕО"
 date: 2016-07-10
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

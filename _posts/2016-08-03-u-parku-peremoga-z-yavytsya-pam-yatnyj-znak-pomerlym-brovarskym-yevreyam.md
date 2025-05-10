@@ -2,7 +2,7 @@
 title: "У парку «Перемога» з’явиться пам’ятний знак померлим броварським євреям"
 date: 2016-08-03
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

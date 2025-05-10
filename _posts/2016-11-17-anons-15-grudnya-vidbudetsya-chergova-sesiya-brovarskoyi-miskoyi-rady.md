@@ -2,7 +2,7 @@
 title: "АНОНС: 15 грудня відбудеться чергова сесія Броварської міської ради"
 date: 2016-11-17
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

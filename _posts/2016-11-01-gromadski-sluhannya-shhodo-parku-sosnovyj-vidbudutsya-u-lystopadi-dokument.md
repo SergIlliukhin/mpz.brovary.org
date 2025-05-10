@@ -2,7 +2,7 @@
 title: "Громадські слухання щодо Парку Сосновий відбудуться у листопаді"
 date: 2016-11-01
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "hromada"

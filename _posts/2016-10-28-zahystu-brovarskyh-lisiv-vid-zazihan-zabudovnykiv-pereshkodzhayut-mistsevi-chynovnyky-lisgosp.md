@@ -2,7 +2,7 @@
 title: "Захисту броварських лісів від зазіхань забудовників перешкоджають місцеві чиновники, - лісгосп"
 date: 2016-10-28
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

@@ -2,7 +2,7 @@
 title: "Депутата Сімутіна оштрафували за «непокору міліції» та позбавили права на адвокатську діяльність"
 date: 2013-06-07
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "brovary"

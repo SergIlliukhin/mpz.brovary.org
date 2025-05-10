@@ -2,7 +2,7 @@
 title: "МКЦ «Прометей» скасував концерт Наталії Багмут через її гастрольний тур в ДНР"
 date: 2015-04-01
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "1-kvitnya"

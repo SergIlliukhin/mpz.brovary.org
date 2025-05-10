@@ -2,7 +2,7 @@
 title: "Хто наказав закрити від журналістів відкриті сесії? Починаємо розслідування"
 date: 2012-02-28
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "rozsliduvannya"

@@ -2,7 +2,7 @@
 title: "Стерилізацією безпритульних собак у Броварах займеться київське підприємство"
 date: 2012-11-09
 author: 
-  username: "SergIlliukhin"
+  username: "sergilliukhin"
   display_name: "Сергій Іллюхін"
 tags: 
   - "bezpritulni-tvarini"

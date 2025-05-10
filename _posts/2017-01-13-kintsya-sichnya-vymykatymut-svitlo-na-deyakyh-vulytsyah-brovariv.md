@@ -2,7 +2,7 @@
 title: "До кінця січня вимикатимуть світло на деяких вулицях Броварів"
 date: 2017-01-13
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

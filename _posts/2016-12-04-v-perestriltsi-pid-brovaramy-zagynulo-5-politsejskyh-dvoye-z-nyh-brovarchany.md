@@ -2,7 +2,7 @@
 title: "У перестрілці в Княжичах загинули 5 поліцейських, двоє з них - із Броварів. ОНОВЛЮЄМО"
 date: 2016-12-04
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

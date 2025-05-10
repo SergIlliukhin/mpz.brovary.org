@@ -2,7 +2,7 @@
 title: "Сервіс петицій: броварчани хочуть новий фонтан, велосипедні доріжки та притулок для собак"
 date: 2017-08-21
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "hromada"

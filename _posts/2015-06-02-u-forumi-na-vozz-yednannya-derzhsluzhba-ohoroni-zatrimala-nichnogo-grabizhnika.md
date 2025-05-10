@@ -2,7 +2,7 @@
 title: "У \"Форумі\" на Возз'єднання держслужба охорони затримала нічного грабіжника"
 date: 2015-06-02
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

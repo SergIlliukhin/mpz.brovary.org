@@ -2,7 +2,7 @@
 title: "«Штучні перешкоди» на шляху до твітер-трансляції сесії"
 date: 2012-04-13
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 categories: 
   - "kolonka-avtora"

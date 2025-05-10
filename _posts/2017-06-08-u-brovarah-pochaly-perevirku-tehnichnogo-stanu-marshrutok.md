@@ -2,7 +2,7 @@
 title: "У Броварах почали перевірку технічного стану маршруток"
 date: 2017-06-08
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

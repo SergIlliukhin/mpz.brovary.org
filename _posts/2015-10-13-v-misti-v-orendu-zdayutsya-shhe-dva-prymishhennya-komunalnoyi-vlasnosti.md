@@ -2,7 +2,7 @@
 title: "В місті в оренду здаються ще два приміщення комунальної власності"
 date: 2015-10-13
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

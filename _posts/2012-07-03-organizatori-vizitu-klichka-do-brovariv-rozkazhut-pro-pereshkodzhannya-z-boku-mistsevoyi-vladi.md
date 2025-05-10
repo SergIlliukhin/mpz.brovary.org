@@ -2,7 +2,7 @@
 title: "Організатори візиту Кличка до Броварів розкажуть про перешкоджання з боку місцевої влади"
 date: 2012-07-03
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

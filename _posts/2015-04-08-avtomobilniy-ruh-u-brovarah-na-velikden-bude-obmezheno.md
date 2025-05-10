@@ -2,7 +2,7 @@
 title: "Автомобільний рух у Броварах на Великдень буде обмежено"
 date: 2015-04-08
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "velikden"

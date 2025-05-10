@@ -2,7 +2,7 @@
 title: "Броварчан заохочують працювати замість ЖЕКів шляхом проведення конкурсу на кращий будинок"
 date: 2012-06-08
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "blagoustriy"

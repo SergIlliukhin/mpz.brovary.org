@@ -2,7 +2,7 @@
 title: "Фестивальний День Броварів 2015"
 date: 2015-09-22
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

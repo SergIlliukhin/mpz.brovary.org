@@ -2,7 +2,7 @@
 title: "ТСН: Мешканка Броварів помітила та допомогла затримати квартирного крадія - ВІДЕО"
 date: 2013-07-18
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

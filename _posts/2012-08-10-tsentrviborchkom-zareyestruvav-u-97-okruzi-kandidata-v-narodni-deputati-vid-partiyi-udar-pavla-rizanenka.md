@@ -2,7 +2,7 @@
 title: "Центрвиборчком зареєстрував у 97 окрузі кандидата в народні депутати від партії «УДАР» Павла Різаненка"
 date: 2012-08-10
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"

@@ -2,7 +2,7 @@
 title: "Безкоштовні курси із програмування у Броварах шукають викладачів-волонтерів"
 date: 2016-07-11
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

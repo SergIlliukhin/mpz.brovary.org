@@ -2,7 +2,7 @@
 title: "АНОНС: Завтра закликають пікетувати броварський суд - через справу про спробу розкрадання 95 гектарів землі"
 date: 2015-09-15
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

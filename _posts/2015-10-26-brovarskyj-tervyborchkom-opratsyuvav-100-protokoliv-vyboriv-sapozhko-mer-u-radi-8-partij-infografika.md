@@ -2,7 +2,7 @@
 title: "Броварський тервиборчком опрацював 100% протоколів виборів: Сапожко - мер, у раді - 8 партій - ІНФОГРАФІКА"
 date: 2015-10-26
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

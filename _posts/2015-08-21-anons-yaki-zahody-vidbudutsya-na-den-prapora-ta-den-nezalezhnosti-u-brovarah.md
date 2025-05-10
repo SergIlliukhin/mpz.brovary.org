@@ -2,7 +2,7 @@
 title: "АНОНС: Які заходи відбудуться на День Прапора та День Незалежності у Броварах"
 date: 2015-08-21
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

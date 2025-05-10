@@ -2,7 +2,7 @@
 title: "Начальник броварської міліції написав рапорт на звільнення через недовіру самооборони"
 date: 2014-02-24
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "brovari-vstavay"

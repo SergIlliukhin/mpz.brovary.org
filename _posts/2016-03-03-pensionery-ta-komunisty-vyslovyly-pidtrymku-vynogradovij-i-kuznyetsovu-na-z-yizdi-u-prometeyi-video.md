@@ -2,7 +2,7 @@
 title: "Пенсіонери та комуністи висловили підтримку Виноградовій і Кузнєцову на «з’їзді» у «Прометеї». ВІДЕО"
 date: 2016-03-03
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

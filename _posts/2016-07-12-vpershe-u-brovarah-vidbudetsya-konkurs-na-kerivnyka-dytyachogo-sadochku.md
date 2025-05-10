@@ -2,7 +2,7 @@
 title: "Вперше у Броварах відбудеться конкурс на керівника дитячого садочку"
 date: 2016-07-12
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

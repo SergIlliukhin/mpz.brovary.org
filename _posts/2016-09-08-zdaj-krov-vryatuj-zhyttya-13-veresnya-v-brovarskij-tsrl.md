@@ -2,7 +2,7 @@
 title: "Здай кров – врятуй життя. 13 вересня в Броварській ЦРЛ"
 date: 2016-09-08
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

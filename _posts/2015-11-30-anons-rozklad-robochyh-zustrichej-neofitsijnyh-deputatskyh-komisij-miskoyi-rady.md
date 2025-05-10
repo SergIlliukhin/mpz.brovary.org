@@ -2,7 +2,7 @@
 title: "АНОНС: Розклад робочих зустрічей неофіційних депутатських комісій міської ради"
 date: 2015-11-30
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

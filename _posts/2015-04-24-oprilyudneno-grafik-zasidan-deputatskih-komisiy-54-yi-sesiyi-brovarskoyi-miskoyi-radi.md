@@ -2,7 +2,7 @@
 title: "Оприлюднено графік засідань депутатських комісій 54-ї сесії Броварської міської ради"
 date: 2015-04-24
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

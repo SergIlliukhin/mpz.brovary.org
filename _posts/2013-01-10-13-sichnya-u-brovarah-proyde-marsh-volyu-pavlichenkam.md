@@ -2,7 +2,7 @@
 title: "13 січня у Броварах пройде марш «Волю Павличенкам!»"
 date: 2013-01-10
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

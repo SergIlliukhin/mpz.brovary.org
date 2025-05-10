@@ -2,7 +2,7 @@
 title: "АНОНС: 22 грудня відбудеться позачергова сесія Броварської міської ради"
 date: 2016-12-20
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

@@ -2,7 +2,7 @@
 title: "Броварчанам повернули гарячу воду. Знову за графіком - 4 дні на тиждень"
 date: 2014-10-03
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "brovary"

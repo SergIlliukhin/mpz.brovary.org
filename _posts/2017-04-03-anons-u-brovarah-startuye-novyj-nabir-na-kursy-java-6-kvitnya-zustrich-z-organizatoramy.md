@@ -2,7 +2,7 @@
 title: "АНОНС: У Броварах стартує новий набір на курси Java. 6 квітня - зустріч з організаторами"
 date: 2017-04-03
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

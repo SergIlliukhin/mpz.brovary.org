@@ -2,7 +2,7 @@
 title: "Олексій Здоровець став лідером нового політичного осередку \"Сила людей\" у Броварах"
 date: 2017-03-06
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

@@ -2,7 +2,7 @@
 title: "Громадське інспектування триває: на що у ЗОШ №7 пішло 740 тис. грн \"ремонтних\" коштів?"
 date: 2015-04-30
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "hromada"

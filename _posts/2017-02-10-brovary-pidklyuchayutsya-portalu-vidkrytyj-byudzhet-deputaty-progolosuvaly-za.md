@@ -2,7 +2,7 @@
 title: "Бровари підключаються до порталу «Відкритий бюджет»: депутати проголосували \"за\""
 date: 2017-02-10
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

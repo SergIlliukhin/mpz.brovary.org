@@ -2,7 +2,7 @@
 title: "Броварське радіо оштрафували на 89 грн за приховування інформації про власників"
 date: 2016-07-04
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

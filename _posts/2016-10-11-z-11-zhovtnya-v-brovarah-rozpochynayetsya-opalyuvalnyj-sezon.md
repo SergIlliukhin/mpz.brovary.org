@@ -2,7 +2,7 @@
 title: "З 11 жовтня в Броварах розпочинається опалювальний сезон"
 date: 2016-10-11
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

@@ -2,7 +2,7 @@
 title: "У Броварах завершили опалювальний сезон"
 date: 2017-04-03
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

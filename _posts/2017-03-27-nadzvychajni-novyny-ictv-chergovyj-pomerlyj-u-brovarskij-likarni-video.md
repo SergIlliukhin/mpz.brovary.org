@@ -2,7 +2,7 @@
 title: "\"Надзвичайні новини\" (ICTV): Черговий померлий у броварській лікарні - ВІДЕО"
 date: 2017-03-27
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

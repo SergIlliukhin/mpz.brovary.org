@@ -2,7 +2,7 @@
 title: "Води й опалення сьогодні не буде, планують дати завтра зранку – комунальники"
 date: 2016-10-19
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

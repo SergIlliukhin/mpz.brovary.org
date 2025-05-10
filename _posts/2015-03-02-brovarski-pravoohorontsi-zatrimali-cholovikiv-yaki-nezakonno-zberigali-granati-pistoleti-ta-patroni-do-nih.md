@@ -2,7 +2,7 @@
 title: "Броварські правоохоронці затримали чоловіків, які незаконно зберігали гранати, пістолети та патрони до них"
 date: 2015-03-02
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

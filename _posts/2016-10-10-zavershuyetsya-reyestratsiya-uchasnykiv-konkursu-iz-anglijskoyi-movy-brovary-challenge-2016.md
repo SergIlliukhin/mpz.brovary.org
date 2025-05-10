@@ -2,7 +2,7 @@
 title: "Завершується реєстрація учасників конкурсу із англійської мови «Brovary Challenge 2016»"
 date: 2016-10-10
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

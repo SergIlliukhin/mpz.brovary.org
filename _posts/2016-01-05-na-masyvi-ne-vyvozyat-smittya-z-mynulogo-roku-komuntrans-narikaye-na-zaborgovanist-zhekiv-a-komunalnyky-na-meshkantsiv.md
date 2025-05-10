@@ -2,7 +2,7 @@
 title: "На Масиві не вивозять сміття з минулого року: «Комунтранс» звинувачує ЖЕКи, чиновники - мешканців"
 date: 2016-01-05
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

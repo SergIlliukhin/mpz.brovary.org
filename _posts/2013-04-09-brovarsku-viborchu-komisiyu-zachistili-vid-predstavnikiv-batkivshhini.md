@@ -2,7 +2,7 @@
 title: "Броварську виборчу комісію \"зачистили\" від представників \"Батьківщини\""
 date: 2013-04-09
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "vibir-redaktsiyi"

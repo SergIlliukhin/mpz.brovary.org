@@ -2,7 +2,7 @@
 title: "Міськрада ліквідовує відділ у справах сім’ї та молоді та центр опіки дитини"
 date: 2013-03-12
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

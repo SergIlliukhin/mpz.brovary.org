@@ -2,7 +2,7 @@
 title: "АНОНС: 13 жовтня скликають 60-ту позачергову сесію Броварської міської ради"
 date: 2015-10-12
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

@@ -2,7 +2,7 @@
 title: "Щосуботи броварчан чекають на вуличному \"фітнес-бумі\" на Майдані Свободи"
 date: 2014-07-04
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

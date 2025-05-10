@@ -2,7 +2,7 @@
 title: "Змінено правила руху на перехрестях із круговим рухом: як будуть їздити у Броварах? - ФОТО. ОНОВЛЕНО"
 date: 2017-04-28
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

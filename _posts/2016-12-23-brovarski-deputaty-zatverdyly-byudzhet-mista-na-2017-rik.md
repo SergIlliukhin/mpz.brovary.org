@@ -2,7 +2,7 @@
 title: "Броварські депутати затвердили бюджет міста на 2017 рік"
 date: 2016-12-23
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

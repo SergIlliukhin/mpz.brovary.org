@@ -2,7 +2,7 @@
 title: "Закордонний паспорт таки коштує 170 грн!"
 date: 2013-12-24
 author: 
-  username: "SergIlliukhin"
+  username: "sergilliukhin"
   display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"

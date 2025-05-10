@@ -2,7 +2,7 @@
 title: "АНОНС: Цієї неділі молодь \"ОНУМу\" традиційно запрошує на музичний вечір на острові у парку"
 date: 2015-06-11
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

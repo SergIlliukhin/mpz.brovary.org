@@ -2,7 +2,7 @@
 title: "Засідання ОВК № 2: бездумна одностайність більшості та спроба усунути заступника голови"
 date: 2012-09-11
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "vibir-redaktsiyi"

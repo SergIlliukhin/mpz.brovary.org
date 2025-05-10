@@ -2,7 +2,7 @@
 title: "Броварська поліція - про події в місті за минулий тиждень"
 date: 2016-10-10
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

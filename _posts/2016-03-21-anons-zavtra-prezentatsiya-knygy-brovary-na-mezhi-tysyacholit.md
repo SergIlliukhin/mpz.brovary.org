@@ -2,7 +2,7 @@
 title: "АНОНС: Завтра – презентація книги «Бровари на межі тисячоліть»"
 date: 2016-03-21
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

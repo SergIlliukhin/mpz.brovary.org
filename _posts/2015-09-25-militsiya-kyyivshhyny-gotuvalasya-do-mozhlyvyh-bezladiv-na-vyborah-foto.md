@@ -2,7 +2,7 @@
 title: "Міліція Київщини готувалася до можливих безладів на виборах - ФОТО"
 date: 2015-09-25
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

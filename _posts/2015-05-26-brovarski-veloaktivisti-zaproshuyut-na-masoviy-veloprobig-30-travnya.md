@@ -2,7 +2,7 @@
 title: "Броварські велоактивісти запрошують на масовий велопробіг 30 травня"
 date: 2015-05-26
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

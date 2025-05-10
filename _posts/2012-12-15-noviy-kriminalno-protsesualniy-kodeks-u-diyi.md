@@ -2,7 +2,7 @@
 title: "Новий кримінально-процесуальний кодекс у дії?"
 date: 2012-12-15
 author: 
-  username: "SergIlliukhin"
+  username: "sergilliukhin"
   display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"

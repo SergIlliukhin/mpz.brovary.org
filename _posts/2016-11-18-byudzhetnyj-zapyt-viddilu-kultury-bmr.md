@@ -2,7 +2,7 @@
 title: "Бюджетний запит відділу культури БМР"
 date: 2016-11-18
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

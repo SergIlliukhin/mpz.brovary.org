@@ -2,7 +2,7 @@
 title: "У Київській області поширюється африканська чума свиней. Бровари поки що не в зоні ризику"
 date: 2017-04-03
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

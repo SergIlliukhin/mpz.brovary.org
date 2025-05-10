@@ -2,7 +2,7 @@
 title: "7 липня починається голосування за проекти Громадського бюджету"
 date: 2017-07-04
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

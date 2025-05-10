@@ -2,7 +2,7 @@
 title: "На реконструкцію вулиці Київської витратять ще 35 млн грн"
 date: 2015-07-18
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

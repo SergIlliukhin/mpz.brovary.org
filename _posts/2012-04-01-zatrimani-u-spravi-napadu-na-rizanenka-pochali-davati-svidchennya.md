@@ -2,7 +2,7 @@
 title: "Затримані у справі нападу на Різаненка почали давати свідчення"
 date: 2012-04-01
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"

@@ -2,7 +2,7 @@
 title: "Майже всі читачі «МПЗ» знають, хто є мером Броварів та секретарем міськради"
 date: 2013-03-11
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "bloknot"

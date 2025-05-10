@@ -2,7 +2,7 @@
 title: "AIN.UA: Провайдера, який відключив \"Беркуту\" Інтернет, змусили відновити безкоштовну послугу"
 date: 2013-12-17
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "internet"

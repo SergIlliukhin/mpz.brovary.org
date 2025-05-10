@@ -2,7 +2,7 @@
 title: "Опитування \"Соціополісу\": Електоральна ситуація у виборчому окрузі № 97 на початку жовтня 2014 року"
 date: 2014-10-11
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "97-okrug"

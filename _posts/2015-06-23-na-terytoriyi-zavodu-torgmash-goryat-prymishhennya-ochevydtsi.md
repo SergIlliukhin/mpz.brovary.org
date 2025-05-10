@@ -2,7 +2,7 @@
 title: "На території заводу \"Торгмаш\" горять складські приміщення, - очевидці"
 date: 2015-06-23
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

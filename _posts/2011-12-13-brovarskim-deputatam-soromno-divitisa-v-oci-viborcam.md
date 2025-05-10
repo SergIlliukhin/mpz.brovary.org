@@ -2,7 +2,7 @@
 title: "Броварським депутатам соромно дивитися в очі виборцям?"
 date: 2011-12-13
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "ivanenko"

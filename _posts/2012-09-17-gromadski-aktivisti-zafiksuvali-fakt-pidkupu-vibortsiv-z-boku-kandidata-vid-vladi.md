@@ -2,7 +2,7 @@
 title: "Громадські активісти зафіксували факт підкупу виборців з боку кандидата від влади"
 date: 2012-09-17
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "agitatsiya"

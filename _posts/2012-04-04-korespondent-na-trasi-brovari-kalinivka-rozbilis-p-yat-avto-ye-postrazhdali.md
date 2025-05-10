@@ -2,7 +2,7 @@
 title: "\"Кореспондент\": На трасі Бровари - Калинівка розбились п'ять авто, є постраждалі."
 date: 2012-04-04
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "novini"

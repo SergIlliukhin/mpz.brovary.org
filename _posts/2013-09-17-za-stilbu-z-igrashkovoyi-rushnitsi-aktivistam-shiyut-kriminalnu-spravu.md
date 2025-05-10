@@ -2,7 +2,7 @@
 title: "За стрільбу з іграшкової рушниці активістам «шиють» кримінальну справу?"
 date: 2013-09-17
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "aktsiya-protestu"

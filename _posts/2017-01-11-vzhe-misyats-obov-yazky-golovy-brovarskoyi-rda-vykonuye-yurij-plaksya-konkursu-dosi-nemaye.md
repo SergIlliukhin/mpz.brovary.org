@@ -2,7 +2,7 @@
 title: "Вже місяць обов’язки голови Броварської РДА виконує Юрій Плакся. Конкурсу досі немає"
 date: 2017-01-11
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

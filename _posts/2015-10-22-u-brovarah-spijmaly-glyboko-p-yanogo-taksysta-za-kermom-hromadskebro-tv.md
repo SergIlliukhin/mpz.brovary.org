@@ -2,7 +2,7 @@
 title: "У Броварах спіймали \"глибоко п'яного\" таксиста за кермом – HromadskeBro.tv"
 date: 2015-10-22
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

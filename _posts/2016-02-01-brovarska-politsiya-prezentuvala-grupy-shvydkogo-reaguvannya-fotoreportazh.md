@@ -2,7 +2,7 @@
 title: "Броварська поліція презентувала групи швидкого реагування, - ФОТОРЕПОРТАЖ"
 date: 2016-02-01
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

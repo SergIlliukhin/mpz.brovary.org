@@ -2,7 +2,7 @@
 title: "Заступник мера Броварів Василь Андрєєв іде на вибори в парламент"
 date: 2014-09-25
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "andryeyev"

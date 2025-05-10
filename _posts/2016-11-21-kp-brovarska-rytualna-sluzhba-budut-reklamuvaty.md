@@ -2,7 +2,7 @@
 title: "КП «Броварська ритуальна служба» будуть рекламувати"
 date: 2016-11-21
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

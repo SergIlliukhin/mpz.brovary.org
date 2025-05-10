@@ -2,7 +2,7 @@
 title: "На роботу екстреної \"швидкої\" можна буде поскаржитись за телефоном"
 date: 2013-01-30
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

@@ -2,7 +2,7 @@
 title: "Завтра новий прокурор Броварів та новий очільник міліції зустрінуться з громадою"
 date: 2014-10-02
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovarska-mizhrayonna-prokuratura"

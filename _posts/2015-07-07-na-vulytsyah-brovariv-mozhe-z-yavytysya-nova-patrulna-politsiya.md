@@ -2,7 +2,7 @@
 title: "На вулицях Броварів може з'явитися нова патрульна поліція?"
 date: 2015-07-07
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

@@ -2,7 +2,7 @@
 title: "Сьогодні перед виборцями свого округу звітуватиме депутат Сімутін"
 date: 2013-01-23
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

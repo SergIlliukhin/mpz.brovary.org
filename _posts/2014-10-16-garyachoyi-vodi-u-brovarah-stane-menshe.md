@@ -2,7 +2,7 @@
 title: "Гарячої води у Броварах стане менше. Обіцяють, що тимчасово"
 date: 2014-10-16
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

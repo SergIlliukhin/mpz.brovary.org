@@ -2,7 +2,7 @@
 title: "15 та 16 листопада в Броварах знову вимикатимуть світло"
 date: 2016-11-08
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

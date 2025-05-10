@@ -2,7 +2,7 @@
 title: "Позачергова 16-та сесія Броварської міської ради 20.12.2011"
 date: 2011-12-20
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "kolonka-avtora"

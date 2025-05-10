@@ -2,7 +2,7 @@
 title: "Броварський центр адмінпослуг досі не підключено до Держреєстру речових прав та ЄДР"
 date: 2015-10-02
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

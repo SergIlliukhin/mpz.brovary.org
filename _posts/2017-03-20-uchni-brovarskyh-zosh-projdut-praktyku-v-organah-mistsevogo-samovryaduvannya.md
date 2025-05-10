@@ -2,7 +2,7 @@
 title: "Учні броварських шкіл пройдуть практику в органах місцевого самоврядування"
 date: 2017-03-20
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "hromada"

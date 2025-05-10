@@ -2,7 +2,7 @@
 title: "Політики та народ: Хто на кого працює?"
 date: 2012-05-14
 author: 
-  username: "SergIlliukhin"
+  username: "sergilliukhin"
   display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"

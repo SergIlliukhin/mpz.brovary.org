@@ -2,7 +2,7 @@
 title: "Головний лікар броварської ЦРЛ Багнюк вважає платні послуги законними"
 date: 2015-05-19
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

@@ -2,7 +2,7 @@
 title: "Переатестація: від громадян приймають інформацію про неправомірну поведінку колишніх міліціянтів"
 date: 2015-12-01
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

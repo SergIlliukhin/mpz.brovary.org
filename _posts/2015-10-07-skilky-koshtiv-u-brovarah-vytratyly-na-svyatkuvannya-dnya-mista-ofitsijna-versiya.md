@@ -2,7 +2,7 @@
 title: "Скільки коштів у Броварах витратили на святкування Дня міста - офіційна версія"
 date: 2015-10-07
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

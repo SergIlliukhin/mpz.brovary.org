@@ -2,7 +2,7 @@
 title: "Затверджено порядок та умови надання коштів на будівництво тролейбусної лінії"
 date: 2012-03-12
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

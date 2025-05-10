@@ -2,7 +2,7 @@
 title: "Броварська лікарка зламала пацієнту щелепу, справа дійшла до суду - ВІДЕО"
 date: 2017-04-21
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

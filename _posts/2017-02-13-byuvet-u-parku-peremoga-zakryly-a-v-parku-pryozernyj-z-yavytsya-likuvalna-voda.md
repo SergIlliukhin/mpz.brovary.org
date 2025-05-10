@@ -2,7 +2,7 @@
 title: "Бювет у парку \"Перемога\" закрили. А в парку \"Приозерний\" з'явиться лікувальна вода?"
 date: 2017-02-13
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

@@ -2,7 +2,7 @@
 title: "«Засекречені додатки», або як міськрада ставиться до права громади знати"
 date: 2012-11-27
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 categories: 
   - "kolonka-avtora"

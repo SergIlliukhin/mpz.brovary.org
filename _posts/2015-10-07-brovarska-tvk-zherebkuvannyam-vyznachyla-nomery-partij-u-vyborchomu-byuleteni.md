@@ -2,7 +2,7 @@
 title: "Броварська ТВК жеребкуванням визначила номери партій у виборчому бюлетені"
 date: 2015-10-07
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

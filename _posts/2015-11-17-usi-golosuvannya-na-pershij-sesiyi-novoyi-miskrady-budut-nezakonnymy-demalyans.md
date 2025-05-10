@@ -2,7 +2,7 @@
 title: "Усі голосування на першій сесії нової міськради будуть незаконними – «ДемАльянс»"
 date: 2015-11-17
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

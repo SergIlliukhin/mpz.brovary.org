@@ -2,7 +2,7 @@
 title: "Сапожко втретє пішов у відпустку - знову до кінця тижня"
 date: 2014-03-12
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "vibir-redaktsiyi"

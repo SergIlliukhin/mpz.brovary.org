@@ -2,7 +2,7 @@
 title: "«Професійно» тиснути на владу броварчан навчатимуть у Школі громадського активіста"
 date: 2015-04-02
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

@@ -2,7 +2,7 @@
 title: "За минулу ніч у Броварах згоріли три автомобілі"
 date: 2013-06-07
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "avtostoyanka"

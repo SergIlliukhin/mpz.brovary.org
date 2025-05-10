@@ -2,7 +2,7 @@
 title: "8 вересня у Броварах відбудеться «Заплив по бетону»"
 date: 2012-09-07
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

@@ -2,7 +2,7 @@
 title: "Завтра в УНІАН говоритимуть про вибори в Світильні"
 date: 2012-05-22
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "novini"

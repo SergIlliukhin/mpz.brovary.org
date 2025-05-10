@@ -2,7 +2,7 @@
 title: "У Броварах створено Штаб самооборони, який організовує патрулювання міста"
 date: 2014-02-22
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

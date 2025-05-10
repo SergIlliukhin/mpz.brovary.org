@@ -2,7 +2,7 @@
 title: "Броварські пасажири просять КОДА розширити автобусну зупинку біля «Лісової»"
 date: 2012-12-12
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "brovary"

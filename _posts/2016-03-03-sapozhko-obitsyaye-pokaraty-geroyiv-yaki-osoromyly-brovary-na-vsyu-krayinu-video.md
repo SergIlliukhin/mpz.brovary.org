@@ -2,7 +2,7 @@
 title: "Сапожко обіцяє покарати «героїв», які осоромили Бровари на всю країну. ВІДЕО"
 date: 2016-03-03
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

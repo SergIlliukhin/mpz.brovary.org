@@ -2,7 +2,7 @@
 title: "136 тисяч гривень - розтрата бюджетних коштів у Броварській РДА, - прокуратура"
 date: 2017-03-30
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

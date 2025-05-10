@@ -2,7 +2,7 @@
 title: "Чи знаєте Ви броварську владу: конкурс-опитування від «МПЗ»"
 date: 2013-03-04
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "bloknot"

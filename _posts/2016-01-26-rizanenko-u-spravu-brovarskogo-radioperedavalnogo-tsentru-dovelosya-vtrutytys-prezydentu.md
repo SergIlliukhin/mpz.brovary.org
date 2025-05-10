@@ -2,7 +2,7 @@
 title: "Різаненко: у справу броварського Радіопередавального центру довелося втрутитись Президенту"
 date: 2016-01-26
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

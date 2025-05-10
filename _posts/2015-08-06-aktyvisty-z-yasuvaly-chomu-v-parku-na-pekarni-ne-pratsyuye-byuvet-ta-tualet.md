@@ -2,7 +2,7 @@
 title: "Активісти з'ясували, чому в парку на Пекарні не працювали бювет та туалет"
 date: 2015-08-06
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

@@ -2,7 +2,7 @@
 title: "Бюджет Київщини відтепер оприлюднюють в онлайн-режимі"
 date: 2016-08-02
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

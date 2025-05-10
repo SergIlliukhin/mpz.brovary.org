@@ -2,7 +2,7 @@
 title: "АНОНС: 12 серпня в парку безкоштовно покажуть кіно \"Ілюзія обману\""
 date: 2017-08-12
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

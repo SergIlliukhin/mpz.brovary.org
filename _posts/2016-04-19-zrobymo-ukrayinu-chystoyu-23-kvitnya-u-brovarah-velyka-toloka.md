@@ -2,7 +2,7 @@
 title: "\"Зробимо Україну чистою!\": 23 квітня у Броварах - Велика Толока"
 date: 2016-04-19
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

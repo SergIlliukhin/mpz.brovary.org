@@ -2,7 +2,7 @@
 title: "У Броварах телефонний \"терорист\" \"замінував\" аквапарк, але вибухівки не знайшли"
 date: 2015-01-14
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "akvapark"

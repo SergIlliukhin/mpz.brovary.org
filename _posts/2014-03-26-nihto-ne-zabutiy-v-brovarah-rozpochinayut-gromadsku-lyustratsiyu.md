@@ -2,7 +2,7 @@
 title: "Ніхто не забутий: в Броварах розпочинають громадську люстрацію"
 date: 2014-03-26
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"

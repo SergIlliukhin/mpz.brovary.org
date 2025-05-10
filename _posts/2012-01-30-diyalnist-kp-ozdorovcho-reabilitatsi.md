@@ -2,7 +2,7 @@
 title: "Діяльність КП \"Оздоровчо-реабілітаційний центр\" є збитковою?"
 date: 2012-01-30
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "rozsliduvannya"

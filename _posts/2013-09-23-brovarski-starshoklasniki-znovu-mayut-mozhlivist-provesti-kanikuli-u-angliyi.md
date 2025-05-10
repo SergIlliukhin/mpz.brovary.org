@@ -2,7 +2,7 @@
 title: "Броварські старшокласники знову зможуть провести канікули в Англії"
 date: 2013-09-23
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary-challenge"

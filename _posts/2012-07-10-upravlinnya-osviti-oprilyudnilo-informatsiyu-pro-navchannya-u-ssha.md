@@ -2,7 +2,7 @@
 title: "Управління освіти оприлюднило інформацію про навчання у США"
 date: 2012-07-10
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

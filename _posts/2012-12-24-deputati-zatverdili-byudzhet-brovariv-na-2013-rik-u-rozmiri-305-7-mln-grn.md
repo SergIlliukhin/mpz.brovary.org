@@ -2,7 +2,7 @@
 title: "Депутати затвердили бюджет Броварів на 2013 рік у розмірі 305,7 млн. грн"
 date: 2012-12-24
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "brovary"

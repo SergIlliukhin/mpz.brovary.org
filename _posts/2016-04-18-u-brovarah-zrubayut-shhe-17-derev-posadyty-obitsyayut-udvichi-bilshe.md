@@ -2,7 +2,7 @@
 title: "У Броварах зрубають ще 17 дерев, посадити обіцяють удвічі більше"
 date: 2016-04-18
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

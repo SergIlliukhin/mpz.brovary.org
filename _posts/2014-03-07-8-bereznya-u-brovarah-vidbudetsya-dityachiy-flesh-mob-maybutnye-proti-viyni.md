@@ -2,7 +2,7 @@
 title: "8 березня у Броварах відбудеться дитячий флеш-моб \"Майбутнє проти війни\""
 date: 2014-03-07
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

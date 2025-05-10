@@ -2,7 +2,7 @@
 title: "ВІДЕО: Засідання громадської ради 18.10.2011"
 date: 2011-10-18
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "gromadska-rada"

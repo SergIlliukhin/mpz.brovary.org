@@ -2,7 +2,7 @@
 title: "АНОНС: Оприлюднено графік засідань постійних депутатських комісій в рамках 28-ї сесії"
 date: 2017-04-10
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

@@ -2,7 +2,7 @@
 title: "Спортивні та дитячі майданчики перемогли у Громадському бюджеті Броварів"
 date: 2017-08-02
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "hromada"

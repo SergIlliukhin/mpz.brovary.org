@@ -2,7 +2,7 @@
 title: "Броварський центральний парк «виграв» станцію для ремонту велосипедів «FixHere»"
 date: 2016-05-30
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

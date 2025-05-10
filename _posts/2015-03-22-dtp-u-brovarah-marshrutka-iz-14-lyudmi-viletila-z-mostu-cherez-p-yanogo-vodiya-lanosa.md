@@ -2,7 +2,7 @@
 title: "ДТП у Броварах: маршрутка із 14 людьми вилетіла з мосту через п'яного водія Ланоса"
 date: 2015-03-22
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "avariya"

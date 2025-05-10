@@ -2,7 +2,7 @@
 title: "Навіть важка артилерія дає збої"
 date: 2012-06-30
 author: 
-  username: "SergIlliukhin"
+  username: "sergilliukhin"
   display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"

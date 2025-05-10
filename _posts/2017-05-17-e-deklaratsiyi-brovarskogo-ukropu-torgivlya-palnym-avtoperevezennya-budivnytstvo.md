@@ -2,7 +2,7 @@
 title: "Е-декларації броварського «Укропу»: торгівля пальним, автоперевезення, будівництво"
 date: 2017-05-17
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "rozsliduvannya"

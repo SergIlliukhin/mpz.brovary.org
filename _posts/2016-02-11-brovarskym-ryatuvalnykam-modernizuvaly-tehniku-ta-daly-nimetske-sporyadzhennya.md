@@ -2,7 +2,7 @@
 title: "Броварським рятувальникам модернізували техніку та дали німецьке спорядження"
 date: 2016-02-11
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

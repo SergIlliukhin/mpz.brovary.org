@@ -2,7 +2,7 @@
 title: "Вакансії управління освіти: броварські школи та дитсадочки чекають на фахівців"
 date: 2016-09-28
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

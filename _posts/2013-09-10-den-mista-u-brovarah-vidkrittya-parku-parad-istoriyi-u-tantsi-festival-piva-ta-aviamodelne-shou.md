@@ -2,7 +2,7 @@
 title: "День міста у Броварах: відкриття парку, парад історії у танці, фестиваль пива та авіамодельне шоу"
 date: 2013-09-10
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

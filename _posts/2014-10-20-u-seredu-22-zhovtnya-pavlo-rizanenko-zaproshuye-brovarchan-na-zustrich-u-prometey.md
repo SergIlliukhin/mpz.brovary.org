@@ -2,7 +2,7 @@
 title: "У середу 22 жовтня Павло Різаненко запрошує броварчан на зустріч у «Прометей»"
 date: 2014-10-20
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "97-okrug"

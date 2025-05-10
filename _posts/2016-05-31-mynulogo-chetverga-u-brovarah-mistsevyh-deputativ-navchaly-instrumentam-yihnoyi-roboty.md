@@ -2,7 +2,7 @@
 title: "Минулого четверга у Броварах місцевих депутатів навчали «інструментам» їхньої роботи"
 date: 2016-05-31
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

@@ -2,7 +2,7 @@
 title: "Броваритепловодоенергія: \"Гаряча вода в районі «Терміналу» скоро має з’явитися\""
 date: 2016-12-03
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

@@ -2,7 +2,7 @@
 title: "Броварський центр зайнятості оприлюднив перелік актуальних на 1 липня вакансій"
 date: 2015-07-03
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

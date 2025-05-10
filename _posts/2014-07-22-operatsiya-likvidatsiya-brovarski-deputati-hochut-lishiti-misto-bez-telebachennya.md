@@ -2,7 +2,7 @@
 title: "Броварські депутати планують ліквідувати міське телебачення"
 date: 2014-07-22
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "igor-sapozhko"

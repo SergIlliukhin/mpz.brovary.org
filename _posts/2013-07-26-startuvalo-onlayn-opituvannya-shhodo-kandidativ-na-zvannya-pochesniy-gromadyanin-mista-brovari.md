@@ -2,7 +2,7 @@
 title: "Стартувало онлайн-опитування щодо кандидатів на звання \"Почесний громадянин міста Бровари\""
 date: 2013-07-26
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

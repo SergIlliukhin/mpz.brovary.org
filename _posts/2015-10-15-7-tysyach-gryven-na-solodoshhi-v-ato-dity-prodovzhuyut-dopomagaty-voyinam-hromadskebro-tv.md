@@ -2,7 +2,7 @@
 title: "7 тисяч гривень на солодощі в АТО: діти продовжують допомагати воїнам – HromadskeBro.tv"
 date: 2015-10-15
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

@@ -2,7 +2,7 @@
 title: "Рух \"ЧЕСНО\": Чверть депутатів Броварської міської ради - злісні прогульники"
 date: 2015-08-12
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "rozsliduvannya"

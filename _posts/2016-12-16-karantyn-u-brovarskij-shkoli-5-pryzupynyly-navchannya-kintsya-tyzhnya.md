@@ -2,7 +2,7 @@
 title: "Карантин: у броварській школі №5 призупинили навчання до кінця тижня"
 date: 2016-12-16
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

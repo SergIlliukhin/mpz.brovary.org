@@ -2,7 +2,7 @@
 title: "У виборах на Торгмаші з 23 претендентів на крісло у міській раді участь беруть лише семеро"
 date: 2013-05-16
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "vibir-redaktsiyi"

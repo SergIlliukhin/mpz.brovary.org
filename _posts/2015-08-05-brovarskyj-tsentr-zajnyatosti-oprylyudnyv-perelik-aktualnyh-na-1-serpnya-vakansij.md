@@ -2,7 +2,7 @@
 title: "Броварський центр зайнятості оприлюднив перелік актуальних на 1 серпня вакансій"
 date: 2015-08-05
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

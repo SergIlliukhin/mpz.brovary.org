@@ -2,7 +2,7 @@
 title: "Проекти Громадського бюджету оприлюднили на сайті Броварської міськради"
 date: 2017-06-24
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "hromada"

@@ -2,7 +2,7 @@
 title: "Чемпіонат з велокросу для броварських школярів 30 травня - ВІДЕОЗВІТ"
 date: 2015-06-08
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

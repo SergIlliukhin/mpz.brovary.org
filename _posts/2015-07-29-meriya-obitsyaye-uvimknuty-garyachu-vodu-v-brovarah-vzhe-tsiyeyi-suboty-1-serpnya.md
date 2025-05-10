@@ -2,7 +2,7 @@
 title: "Мерія обіцяє увімкнути гарячу воду в Броварах вже цієї суботи - 1 серпня"
 date: 2015-07-29
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

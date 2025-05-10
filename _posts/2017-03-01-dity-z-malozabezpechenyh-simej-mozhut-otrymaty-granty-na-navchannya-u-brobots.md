@@ -2,7 +2,7 @@
 title: "Діти з малозабезпечених сімей можуть отримати гранти на навчання у BroBots"
 date: 2017-03-01
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

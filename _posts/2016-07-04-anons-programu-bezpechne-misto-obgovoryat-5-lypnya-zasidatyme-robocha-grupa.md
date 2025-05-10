@@ -2,7 +2,7 @@
 title: "АНОНС: Програму «Безпечне місто» обговорять 5 липня, засідатиме робоча група"
 date: 2016-07-04
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

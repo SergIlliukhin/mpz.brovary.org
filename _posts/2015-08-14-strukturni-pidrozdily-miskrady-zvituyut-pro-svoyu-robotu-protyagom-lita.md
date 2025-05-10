@@ -2,7 +2,7 @@
 title: "Структурні підрозділи міськради звітують про свою роботу протягом літа"
 date: 2015-08-14
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

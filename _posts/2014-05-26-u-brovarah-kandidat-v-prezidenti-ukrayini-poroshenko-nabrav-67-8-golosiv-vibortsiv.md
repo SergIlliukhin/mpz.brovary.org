@@ -2,7 +2,7 @@
 title: "У Броварах кандидат в Президенти України Петро Порошенко набрав 67,8 % голосів - штаб"
 date: 2014-05-26
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"

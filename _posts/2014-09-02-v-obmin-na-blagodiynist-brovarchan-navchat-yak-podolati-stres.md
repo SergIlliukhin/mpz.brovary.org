@@ -2,7 +2,7 @@
 title: "В обмін на благодійність броварчан навчать, як подолати стрес"
 date: 2014-09-02
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

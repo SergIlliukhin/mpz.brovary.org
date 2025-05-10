@@ -2,7 +2,7 @@
 title: "У Броварах почалася масова імунізація дітей від поліомієліту: першими щеплюватимуть дошкільнят"
 date: 2015-10-26
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

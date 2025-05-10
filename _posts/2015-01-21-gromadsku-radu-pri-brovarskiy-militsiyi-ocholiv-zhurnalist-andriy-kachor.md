@@ -2,7 +2,7 @@
 title: "Громадську раду при броварській міліції очолив журналіст Андрій Качор"
 date: 2015-01-21
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

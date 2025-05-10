@@ -2,7 +2,7 @@
 title: "На акції протесту броварчан запрошують викривальними відеороликами"
 date: 2012-03-02
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

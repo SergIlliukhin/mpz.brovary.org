@@ -2,7 +2,7 @@
 title: "Gun Open Day-2015: масова стрілянина за легалізацію зброї - HromadskeBro.tv"
 date: 2015-06-23
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

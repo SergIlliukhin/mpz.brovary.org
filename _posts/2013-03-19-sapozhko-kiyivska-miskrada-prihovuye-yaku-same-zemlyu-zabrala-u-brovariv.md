@@ -2,7 +2,7 @@
 title: "Сапожко: Київська міськрада приховує, яку саме землю забрала у Броварів"
 date: 2013-03-19
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "brovarska-miska-rada"

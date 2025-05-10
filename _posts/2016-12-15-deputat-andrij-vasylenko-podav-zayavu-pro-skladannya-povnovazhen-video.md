@@ -2,7 +2,7 @@
 title: "Депутат Андрій Василенко подав заяву про складання повноважень - ВІДЕО"
 date: 2016-12-15
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

@@ -2,7 +2,7 @@
 title: "Вибори на Торгмаші проводитимуть представники \"вибулих\" кандидатів"
 date: 2013-05-17
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 tags: 
   - "vibir-redaktsiyi"

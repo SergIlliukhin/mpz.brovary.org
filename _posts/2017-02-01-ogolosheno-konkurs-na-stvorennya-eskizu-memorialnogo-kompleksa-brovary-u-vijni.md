@@ -2,7 +2,7 @@
 title: "В парку встановлять меморіал пам'яті військовим. Оголошено конкурс проектів"
 date: 2017-02-01
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

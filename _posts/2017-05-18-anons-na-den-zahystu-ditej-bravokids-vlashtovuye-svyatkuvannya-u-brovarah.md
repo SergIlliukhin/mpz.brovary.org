@@ -2,7 +2,7 @@
 title: "АНОНС: На День захисту дітей «БравоKids» влаштовує святкування у Броварах"
 date: 2017-05-18
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

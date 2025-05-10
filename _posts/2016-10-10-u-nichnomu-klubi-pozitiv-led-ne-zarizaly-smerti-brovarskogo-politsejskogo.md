@@ -2,7 +2,7 @@
 title: "У нічному клубі «Pozitiv» ледь не зарізали до смерті броварського поліцейського"
 date: 2016-10-10
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

@@ -2,7 +2,7 @@
 title: "16 травня до Броварів приїде автор сатиричних детективів Владислав Івченко"
 date: 2015-05-13
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

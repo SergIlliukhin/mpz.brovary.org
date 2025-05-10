@@ -2,7 +2,7 @@
 title: "Бровари є «середнячками» в запровадженні електронних закупівель"
 date: 2016-06-15
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "rozsliduvannya"

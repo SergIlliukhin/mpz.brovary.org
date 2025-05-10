@@ -2,7 +2,7 @@
 title: "АНОНС: Сапожко кличе у вівторок поговорити про модернізацію парку «Перемога»"
 date: 2016-05-12
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

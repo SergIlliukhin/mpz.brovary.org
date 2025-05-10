@@ -2,7 +2,7 @@
 title: "АНОНС: Броварчан та новообраних депутатів запрошують на зустріч \"Діалог №2. Нові правила гри у міській владі\""
 date: 2015-11-10
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

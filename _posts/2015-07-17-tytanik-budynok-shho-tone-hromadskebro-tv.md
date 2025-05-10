@@ -2,7 +2,7 @@
 title: "Титанік. Будинок, що тоне - HromadskeBro.tv"
 date: 2015-07-17
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

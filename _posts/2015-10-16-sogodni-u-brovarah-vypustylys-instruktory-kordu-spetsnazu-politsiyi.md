@@ -2,7 +2,7 @@
 title: "Сьогодні у Броварах \"випустились\" інструктори КОРДу - спецназу поліції"
 date: 2015-10-16
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

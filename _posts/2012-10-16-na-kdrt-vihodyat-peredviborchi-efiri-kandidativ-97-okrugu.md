@@ -2,7 +2,7 @@
 title: "На \"КДРТ\" виходять передвиборчі ефіри кандидатів 97 округу"
 date: 2012-10-16
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "agitatsiya"

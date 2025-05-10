@@ -2,7 +2,7 @@
 title: "Анатолій Дністровий розповів броварчанам про бультер’єрів громадянського суспільства"
 date: 2012-08-28
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"

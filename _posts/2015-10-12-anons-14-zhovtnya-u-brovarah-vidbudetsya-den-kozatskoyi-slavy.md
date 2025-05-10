@@ -2,7 +2,7 @@
 title: "АНОНС: 14 жовтня у Броварах відбудеться \"День козацької слави\""
 date: 2015-10-12
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

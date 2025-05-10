@@ -2,7 +2,7 @@
 title: "Сьогодні вночі ігровий салон на «Пекарні» закидали коктейлями Молотова"
 date: 2014-07-08
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "igrovi-avtomati"

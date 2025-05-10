@@ -2,7 +2,7 @@
 title: "Сапожко скликає наступну сесію в березні: секретаря знову не обиратимуть"
 date: 2016-02-09
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

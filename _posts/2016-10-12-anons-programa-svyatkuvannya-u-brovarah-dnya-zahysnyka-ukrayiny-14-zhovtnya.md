@@ -2,7 +2,7 @@
 title: "АНОНС: Програма святкування у Броварах Дня захисника України 14 жовтня"
 date: 2016-10-12
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

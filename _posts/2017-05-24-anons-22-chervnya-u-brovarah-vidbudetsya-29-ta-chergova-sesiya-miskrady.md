@@ -2,7 +2,7 @@
 title: "АНОНС: 22 червня у Броварах відбудеться 30-та чергова сесія міськради"
 date: 2017-05-24
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

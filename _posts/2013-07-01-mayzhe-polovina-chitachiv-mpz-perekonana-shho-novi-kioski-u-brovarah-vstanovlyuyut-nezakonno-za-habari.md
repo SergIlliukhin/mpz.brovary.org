@@ -2,7 +2,7 @@
 title: "Майже половина читачів «МПЗ» переконана, що нові кіоски у Броварах встановлюють незаконно за хабарі"
 date: 2013-07-01
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

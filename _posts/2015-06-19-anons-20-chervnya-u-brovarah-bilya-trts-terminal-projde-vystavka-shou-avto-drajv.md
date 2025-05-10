@@ -2,7 +2,7 @@
 title: "АНОНС: 20 червня у Броварах біля ТРЦ \"Термінал\" пройде виставка-шоу \"Авто Драйв\""
 date: 2015-06-19
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

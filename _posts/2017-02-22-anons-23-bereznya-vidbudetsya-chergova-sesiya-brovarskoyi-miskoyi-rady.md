@@ -2,7 +2,7 @@
 title: "АНОНС: 23 березня відбудеться 26-та чергова сесія Броварської міської ради"
 date: 2017-02-22
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

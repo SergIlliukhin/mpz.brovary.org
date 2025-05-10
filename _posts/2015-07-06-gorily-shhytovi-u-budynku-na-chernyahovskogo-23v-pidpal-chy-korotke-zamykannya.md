@@ -2,7 +2,7 @@
 title: "Горіли щитові у будинку на Черняховського, 23В: підпал чи коротке замикання?"
 date: 2015-07-06
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

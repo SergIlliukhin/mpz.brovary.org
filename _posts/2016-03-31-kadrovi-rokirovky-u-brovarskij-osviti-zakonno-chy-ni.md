@@ -2,7 +2,7 @@
 title: "Кадрові рокіровки у броварській освіті: законно чи ні?"
 date: 2016-03-31
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

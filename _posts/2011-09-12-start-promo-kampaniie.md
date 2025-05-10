@@ -2,7 +2,7 @@
 title: "Старт промо-кампанії \"Маєш право знати\""
 date: 2011-09-12
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "novini"

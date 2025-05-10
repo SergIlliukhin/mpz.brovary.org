@@ -2,7 +2,7 @@
 title: "Броварські хоумскулери запрошують батьків та дітей на постійні заняття в коворкінг"
 date: 2017-03-14
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

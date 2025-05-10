@@ -2,7 +2,7 @@
 title: "На реконструкцію 2 км. вулиці Київської витратять 32 мільйони"
 date: 2016-04-18
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

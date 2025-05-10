@@ -2,7 +2,7 @@
 title: "Врятувати Єву Дяченко: благодійний ярмарок на Майдані Свободи - hromadskeBro.tv"
 date: 2015-06-15
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

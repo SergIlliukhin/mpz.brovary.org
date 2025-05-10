@@ -2,7 +2,7 @@
 title: "Броварчан закликають активно допомагати солдатам: в найближчі дні допомогу везтимуть на Схід"
 date: 2014-07-09
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "ato"

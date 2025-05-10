@@ -2,7 +2,7 @@
 title: "Броварська міліція самовільно демонтувала два агітаційних намета партії «УДАР» – ВІДЕО"
 date: 2012-09-20
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "agitatsiy"

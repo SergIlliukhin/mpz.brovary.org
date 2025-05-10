@@ -2,7 +2,7 @@
 title: "Мер Броварів визнав, що приховав свою земельну ділянку від громади"
 date: 2016-02-17
 author: 
-  username: "SergIlliukhin"
+  username: "sergilliukhin"
   display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"

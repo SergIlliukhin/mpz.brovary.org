@@ -2,7 +2,7 @@
 title: "На броварському майдані Свободи міліція силоміць демонтувала намет \"Батьківщини\" - ВІДЕО"
 date: 2012-09-11
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 categories: 
   - "video"

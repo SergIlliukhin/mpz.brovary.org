@@ -2,7 +2,7 @@
 title: "Хто балотується від Броварів до Київської обласної ради - повний перелік кандидатів"
 date: 2015-10-23
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

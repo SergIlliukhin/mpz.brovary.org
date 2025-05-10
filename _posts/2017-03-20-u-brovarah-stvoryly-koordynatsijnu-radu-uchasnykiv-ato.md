@@ -2,7 +2,7 @@
 title: "У Броварах створили координаційну раду учасників АТО"
 date: 2017-03-20
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

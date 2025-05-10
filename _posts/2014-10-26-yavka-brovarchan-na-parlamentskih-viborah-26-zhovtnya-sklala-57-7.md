@@ -2,7 +2,7 @@
 title: "Явка броварчан на парламентських виборах 26 жовтня склала 57,7 %"
 date: 2014-10-26
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovary"

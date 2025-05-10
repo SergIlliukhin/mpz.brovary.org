@@ -2,7 +2,7 @@
 title: "В четвер у Броварах перевірять систему оповіщення"
 date: 2017-02-07
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

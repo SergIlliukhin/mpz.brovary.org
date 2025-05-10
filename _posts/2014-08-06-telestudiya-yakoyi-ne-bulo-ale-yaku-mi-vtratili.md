@@ -2,7 +2,7 @@
 title: "Телестудія, якої не було, але яку ми втратили…"
 date: 2014-08-06
 author: 
-  username: "Aleechka"
+  username: "aleechka"
   display_name: "Аліна Дяченко"
 categories: 
   - "kolonka-avtora"

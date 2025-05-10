@@ -2,7 +2,7 @@
 title: "У 20-х числах січня броварські очільники проведуть виїзний прийом громадян"
 date: 2013-01-18
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

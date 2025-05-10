@@ -2,7 +2,7 @@
 title: "7 жовтня «Наступ» запрошує броварських виборців на «Фестиваль Гречки» - ВІДЕО"
 date: 2012-10-02
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

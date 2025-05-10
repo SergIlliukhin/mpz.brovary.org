@@ -2,7 +2,7 @@
 title: "Очільницею відділу культури Броварів стала Інна Савченко"
 date: 2016-12-29
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

@@ -2,7 +2,7 @@
 title: "Молодиків, що обстріляли пост ДАІ біля Броварів, спіймали в столиці після пограбування заправки"
 date: 2015-05-05
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "brovary"

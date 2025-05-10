@@ -2,7 +2,7 @@
 title: "АНОНС: Сьогодні на стадіоні \"Спартак\" у футбольному протистоянні зійдуться ФК \"Юніон\" та ФК \"Бровари\""
 date: 2015-06-09
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

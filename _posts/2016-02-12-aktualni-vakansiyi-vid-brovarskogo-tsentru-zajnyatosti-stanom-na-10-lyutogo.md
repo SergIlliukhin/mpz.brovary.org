@@ -2,7 +2,7 @@
 title: "Актуальні вакансії від броварського центру зайнятості станом на 10 лютого"
 date: 2016-02-12
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "novyny"

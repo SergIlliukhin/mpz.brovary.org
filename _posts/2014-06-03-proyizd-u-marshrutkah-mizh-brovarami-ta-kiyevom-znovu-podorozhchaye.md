@@ -2,7 +2,7 @@
 title: "Вартість проїзду в маршрутках Бровари-Київ знову зросте"
 date: 2014-06-03
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovari-kiyiv"

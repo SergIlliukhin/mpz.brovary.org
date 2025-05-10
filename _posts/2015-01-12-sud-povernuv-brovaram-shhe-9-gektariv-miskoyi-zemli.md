@@ -2,7 +2,7 @@
 title: "Суд повернув Броварам ще 9 гектарів незаконно виділеної землі"
 date: 2015-01-12
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "vibir-redaktsiyi"

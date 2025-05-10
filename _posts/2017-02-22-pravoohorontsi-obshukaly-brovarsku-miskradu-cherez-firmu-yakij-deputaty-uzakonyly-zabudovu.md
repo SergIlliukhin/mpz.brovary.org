@@ -2,7 +2,7 @@
 title: "Правоохоронці обшукали Броварську міськраду. Через фірму, якій депутати узаконили забудову"
 date: 2017-02-22
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

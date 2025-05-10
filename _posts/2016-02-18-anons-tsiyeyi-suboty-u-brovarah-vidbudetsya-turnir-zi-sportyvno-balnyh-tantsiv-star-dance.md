@@ -2,7 +2,7 @@
 title: "АНОНС: Цієї суботи у Броварах відбудеться турнір зі спортивно-бальних танців \"Star Dance\""
 date: 2016-02-18
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

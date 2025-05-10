@@ -2,7 +2,7 @@
 title: "Директор КП «Броваритепловодоенергія» Сергій Сафронов написав заяву про звільнення"
 date: 2017-04-04
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

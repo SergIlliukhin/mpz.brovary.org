@@ -2,7 +2,7 @@
 title: "АНОНС: 24 вересня - квартирник FORMINGO та вивчення англійської з MOVA"
 date: 2016-09-21
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

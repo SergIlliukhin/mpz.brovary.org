@@ -2,7 +2,7 @@
 title: "Земельна та гуманітарна комісії не підтримали перейменування вул.Тургенєва в Броварах"
 date: 2017-03-11
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

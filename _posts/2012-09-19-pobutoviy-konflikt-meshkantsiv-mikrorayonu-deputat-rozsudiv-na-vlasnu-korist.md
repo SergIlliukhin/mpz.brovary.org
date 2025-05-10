@@ -2,7 +2,7 @@
 title: "\"Прибудинковий\" конфлікт мешканців мікрорайону депутат розсудив на власну користь"
 date: 2012-09-19
 author: 
-  username: "SergIlliukhin"
+  username: "sergilliukhin"
   display_name: "Сергій Іллюхін"
 tags: 
   - "bazyshyn"

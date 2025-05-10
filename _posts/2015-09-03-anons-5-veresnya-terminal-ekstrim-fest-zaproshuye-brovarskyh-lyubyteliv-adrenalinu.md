@@ -2,7 +2,7 @@
 title: "АНОНС: 5 вересня \"Термінал Екстрім Фест\" запрошує броварських любителів адреналіну"
 date: 2015-09-03
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

@@ -2,7 +2,7 @@
 title: "АНОНС: 30 травня відбудеться семінар для голів ОСББ та ЖБК із трудового законодавства"
 date: 2017-05-29
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

@@ -2,7 +2,7 @@
 title: "31 броварчанин вже висловив бажання увійти до Народної Ради. Процес триває"
 date: 2014-02-13
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "aktsiyi-zahodi"

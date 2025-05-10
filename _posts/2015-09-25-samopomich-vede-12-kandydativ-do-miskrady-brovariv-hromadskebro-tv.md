@@ -2,7 +2,7 @@
 title: "Самопоміч веде 12 кандидатів до міськради Броварів – HromadskeBro.tv"
 date: 2015-09-25
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "video"

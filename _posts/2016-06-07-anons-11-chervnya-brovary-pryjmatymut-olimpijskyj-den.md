@@ -2,7 +2,7 @@
 title: "«Олімпійський день»: 11 червня у Броварах відбудуться спортивні змагання. ОНОВЛЕНО"
 date: 2016-06-07
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

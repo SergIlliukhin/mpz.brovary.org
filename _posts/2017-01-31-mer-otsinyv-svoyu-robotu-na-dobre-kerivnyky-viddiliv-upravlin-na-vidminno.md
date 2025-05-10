@@ -2,7 +2,7 @@
 title: "Мер оцінив свою роботу на «добре», керівники відділів і управлінь – на «відмінно»"
 date: 2017-01-31
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "vlada"

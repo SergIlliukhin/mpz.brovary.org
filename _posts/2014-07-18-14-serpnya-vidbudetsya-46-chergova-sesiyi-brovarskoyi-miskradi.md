@@ -2,7 +2,7 @@
 title: "14 серпня відбудеться 46 чергова сесія Броварської міськради"
 date: 2014-07-18
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"

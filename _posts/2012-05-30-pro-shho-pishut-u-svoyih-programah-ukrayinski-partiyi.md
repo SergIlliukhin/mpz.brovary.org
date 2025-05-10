@@ -2,7 +2,7 @@
 title: "Про що пишуть у своїх програмах українські партії?"
 date: 2012-05-30
 author: 
-  username: "SergIlliukhin"
+  username: "sergilliukhin"
   display_name: "Сергій Іллюхін"
 categories: 
   - "kolonka-avtora"

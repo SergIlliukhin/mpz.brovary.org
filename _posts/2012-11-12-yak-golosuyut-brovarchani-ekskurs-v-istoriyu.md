@@ -2,7 +2,7 @@
 title: "Як голосують броварчани: екскурс в історію"
 date: 2012-11-12
 author: 
-  username: "SergIlliukhin"
+  username: "sergilliukhin"
   display_name: "Сергій Іллюхін"
 categories: 
   - "rozsliduvannya"

@@ -2,7 +2,7 @@
 title: "Суд розглядатиме позов Павла Різаненка проти газети «Броварська панорама»"
 date: 2012-06-19
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "brovarski-zmi"

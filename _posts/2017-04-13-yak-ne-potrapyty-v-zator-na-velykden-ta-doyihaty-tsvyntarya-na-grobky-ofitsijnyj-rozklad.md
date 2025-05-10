@@ -2,7 +2,7 @@
 title: "Як не потрапити в затор на Великдень та доїхати до цвинтаря на Гробки – ОФІЦІЙНИЙ РОЗКЛАД"
 date: 2017-04-13
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 categories: 
   - "announce"
