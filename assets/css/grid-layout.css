@@ -55,8 +55,8 @@
   padding: 15px;
 }
 
-.video-post-card.no-cover .post-content,
-.video-page-card.no-cover .page-content {
+.video-post-card.no-cover .post-card-content,
+.video-page-card.no-cover .page-card-content {
   margin: 0;
 }
 
@@ -80,8 +80,8 @@
   color: #666;
 }
 
-.post-content,
-.page-content {
+.post-card-content,
+.page-card-content {
   margin-top: 10px;
 }
 
