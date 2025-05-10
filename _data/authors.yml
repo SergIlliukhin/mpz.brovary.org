@@ -277,3 +277,8 @@
   login: "ochrimoff"
   avatarUrl: "/avatars/z_147002c9-avatar.jpg"
   description: "Житель этого города, который смотрит на него со стороны" 
+
+- name: "Маєш право знати"
+  login: "pravoznaty"
+  avatarUrl: "/avatars/v3-avatar.jpg"
+  description: "Команда \"Маєш право знати\"" 
