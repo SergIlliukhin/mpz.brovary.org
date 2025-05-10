@@ -3,30 +3,36 @@
   {% assign posts = posts | slice: 0, include.limit %}
 {% endif %}
 
+{% assign posts_with_cover = posts | where_exp: "post", "post.coverImage" %}
+{% assign posts_without_cover = posts | where_exp: "post", "post.coverImage == nil" %}
+
 <div class="video-posts-grid">
   {% assign cover_count = 0 %}
-  {% for post in posts %}
-    <div class="video-post-card {% unless post.coverImage %}no-cover{% endunless %}">
+  {% for post in posts_with_cover %}
+    {% if include.countOfCovers == nil or cover_count < include.countOfCovers %}
+      <div class="video-post-card">
         <a href="{{ post.url | relative_url }}">
-          {% if post.coverImage %}
-            {% if include.countOfCovers == nil or cover_count < include.countOfCovers %}
-              <img src="{{ post.coverImage | relative_url}}" alt="{{ post.title | escape }}" class="video-thumbnail">
-              {% assign cover_count = cover_count | plus: 1 %}
-            {% else %}
-              <div class="no-thumbnail">
-                <span class="post-icon">📄</span>
-              </div>
-            {% endif %}
-          {% else %}
-            <div class="no-thumbnail">
-              <span class="post-icon">📄</span>
-            </div>
-          {% endif %}
+          <img src="{{ post.coverImage | relative_url}}" alt="{{ post.title | escape }}" class="video-thumbnail">
           <div class="post-content">
             <h3>{{ post.title | escape }}</h3>
             <p class="post-date">{{ post.date | date: "%d.%m.%Y" }}</p>
           </div>
         </a>
-    </div>
+      </div>
+      {% assign cover_count = cover_count | plus: 1 %}
+    {% endif %}
   {% endfor %}
 </div>
+
+{% if posts_without_cover.size > 0 %}
+  <div class="posts-list">
+    {% for post in posts_without_cover %}
+      <div class="post-list-item">
+        <a href="{{ post.url | relative_url }}">
+          <span class="post-title">{{ post.title | escape }}</span>
+          <span class="post-date">{{ post.date | date: "%d.%m.%Y" }}</span>
+        </a>
+      </div>
+    {% endfor %}
+  </div>
+{% endif %}
