@@ -1,0 +1,39 @@
+- term_id: 7
+  name: "Відео"
+  slug: "video"
+
+- term_id: 84
+  name: "Блоги"
+  slug: "kolonka-avtora"
+
+- term_id: 100
+  name: "Аналітика"
+  slug: "rozsliduvannya"
+
+- term_id: 102
+  name: "Репортажі"
+  slug: "aktsiyi-zahodi"
+
+- term_id: 389
+  name: "Анонси"
+  slug: "announce"
+
+- term_id: 2817
+  name: "Інтерв'ю"
+  slug: "interview"
+
+- term_id: 2818
+  name: "Влада"
+  slug: "vlada"
+
+- term_id: 2819
+  name: "Громада"
+  slug: "hromada"
+
+- term_id: 2820
+  name: "Місто"
+  slug: "brovary"
+
+- term_id: 2903
+  name: "Новини"
+  slug: "novyny"
