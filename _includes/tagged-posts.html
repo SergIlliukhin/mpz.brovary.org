@@ -3,8 +3,9 @@
   {% assign posts = posts | slice: 0, include.limit %}
 {% endif %}
 
-{% assign featured_posts = posts | slice: 0, include.countOfCovers %}
-{% assign remaining_posts = posts | slice: include.countOfCovers, posts.size %}
+{% assign count = include.countOfCovers | default: 9 | plus: 0 %}
+{% assign featured_posts = posts | slice: 0, count %}
+{% assign remaining_posts = posts | slice: count, posts.size %}
 
 <div class="video-posts-grid">
   {% for post in featured_posts %}
