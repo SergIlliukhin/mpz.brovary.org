@@ -32,13 +32,23 @@ def generate_category_pages(categories_file='_data/wp_categories.yml', output_di
         # Create index.html in the category directory
         output_file = os.path.join(category_dir, 'index.html')
         
-        # Replace placeholders in template
-        content = template.replace('{{ page.title }}', category['name'])
-        content = content.replace('{{ page.category }}', category['slug'])
+        # Create front matter with category
+        front_matter = f"""---
+layout: default
+title: "{category['name']}"
+category: "{category['slug']}"
+---
+
+"""
+        # Get the content part of the template (everything after the front matter)
+        content = template.split('---', 2)[-1].strip()
+        
+        # Combine front matter and content
+        final_content = front_matter + content
         
         # Write the file
         with open(output_file, 'w', encoding='utf-8') as f:
-            f.write(content)
+            f.write(final_content)
         
         print(f"Generated category page: {output_file}")
 
