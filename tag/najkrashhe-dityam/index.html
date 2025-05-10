@@ -1,0 +1,11 @@
+---
+layout: default
+title: "Найкраще дітям"
+tag: "najkrashhe-dityam"
+---
+
+<div class="tag-header">
+  <h1>{{ include.title }}</h1>
+</div>
+
+{% include tagged-posts.html tag=include.tag countOfCovers=9 %}
