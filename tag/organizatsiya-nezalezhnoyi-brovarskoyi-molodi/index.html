@@ -4,8 +4,6 @@ title: "організація незалежної броварської мо�
 tag: "organizatsiya-nezalezhnoyi-brovarskoyi-molodi"
 ---
 
-<div class="tag-header">
-  <h1>{{ page.title }}</h1>
-</div>
+<h1>Тег: {{ page.title | escape }}</h1>
 
 {% include tagged-posts.html tag=page.tag countOfCovers=9 %}

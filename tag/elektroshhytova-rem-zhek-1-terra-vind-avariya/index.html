@@ -4,8 +4,6 @@ title: "електрощитова; РЕМ; ЖЕК-1; Терра-Вінд; ав�
 tag: "elektroshhytova-rem-zhek-1-terra-vind-avariya"
 ---
 
-<div class="tag-header">
-  <h1>{{ page.title }}</h1>
-</div>
+<h1>Тег: {{ page.title | escape }}</h1>
 
 {% include tagged-posts.html tag=page.tag countOfCovers=9 %}
