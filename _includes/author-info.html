@@ -1,0 +1,13 @@
+{% assign author = site.data.authors | where: "login", include.author | first %}
+
+<div class="author-profile">
+  <div class="author-header">
+    <img src="{{ author.avatarUrl | relative_url }}" alt="{{ author.name | escape }}" class="author-avatar">
+    <div class="author-info">
+      <h1>{{ author.name | escape }}</h1>
+      {% if author.description %}
+        <p class="author-description">{{ author.description | escape }}</p>
+      {% endif %}
+    </div>
+  </div>
+</div> 

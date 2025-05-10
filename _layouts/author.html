@@ -1,0 +1,73 @@
+---
+layout: default
+---
+
+{% assign author = site.data.authors | where: "login", page.author | first %}
+
+<div class="author-profile">
+  <div class="author-header">
+    <img src="{{ author.avatarUrl | relative_url }}" alt="{{ author.name }}" class="author-avatar">
+    <div class="author-info">
+      <h1>{{ author.name }}</h1>
+      {% if author.description %}
+        <p class="author-description">{{ author.description }}</p>
+      {% endif %}
+    </div>
+  </div>
+
+  <div class="author-posts">
+    {% include authored-posts.html author=page.author countOfCovers=9 %}
+  </div>
+</div>
+
+<style>
+.author-profile {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+.author-header {
+  display: flex;
+  gap: 2rem;
+  margin-bottom: 3rem;
+  align-items: center;
+}
+
+.author-avatar {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.author-info {
+  flex: 1;
+}
+
+.author-info h1 {
+  margin: 0 0 1rem 0;
+  font-size: 2rem;
+  color: #333;
+}
+
+.author-description {
+  margin: 0;
+  font-size: 1.1rem;
+  line-height: 1.6;
+  color: #666;
+}
+
+@media (max-width: 768px) {
+  .author-header {
+    flex-direction: column;
+    text-align: center;
+    gap: 1rem;
+  }
+
+  .author-avatar {
+    width: 120px;
+    height: 120px;
+  }
+}
+</style> 

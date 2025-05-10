@@ -1,0 +1,41 @@
+{% assign posts = site.posts | where_exp: "post", "post.author.username == include.author" | sort: "date" | reverse %}
+{% if include.limit %}
+  {% assign posts = posts | slice: 0, include.limit %}
+{% endif %}
+
+{% assign count = include.countOfCovers | default: 100 | plus: 0 %}
+{% assign featured_posts = posts | slice: 0, count %}
+{% assign remaining_posts = posts | slice: count, posts.size %}
+
+<div class="video-posts-grid">
+  {% for post in featured_posts %}
+    <div class="video-post-card">
+      <a href="{{ post.url | relative_url }}">
+        {% if post.coverImage %}
+          <img src="{{ post.coverImage | relative_url}}" alt="{{ post.title | escape }}" class="video-thumbnail">
+        {% else %}
+          <div class="no-thumbnail">
+            <span class="post-icon">📄</span>
+          </div>
+        {% endif %}
+        <div class="post-content">
+          <h3>{{ post.title | escape }}</h3>
+          <p class="post-date">{{ post.date | date: "%d.%m.%Y" }}</p>
+        </div>
+      </a>
+    </div>
+  {% endfor %}
+</div>
+
+{% if remaining_posts.size > 0 %}
+  <div class="posts-list">
+    {% for post in remaining_posts %}
+      <div class="post-list-item">
+        <a href="{{ post.url | relative_url }}">
+          <span class="post-title">{{ post.title | escape }}</span>
+          <span class="post-date">{{ post.date | date: "%d.%m.%Y" }}</span>
+        </a>
+      </div>
+    {% endfor %}
+  </div>
+{% endif %} 
