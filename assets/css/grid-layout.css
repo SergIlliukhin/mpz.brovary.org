@@ -125,8 +125,8 @@
   color: #007bff;
 }
 
-.post-title,
-.page-title {
+.post-list-title,
+.page-list-title {
   font-size: 0.9rem;
   font-weight: 400;
   color: #666;

@@ -32,7 +32,7 @@
     {% for post in remaining_posts %}
       <div class="post-list-item">
         <a href="{{ post.url | relative_url }}">
-          <span class="post-title">{{ post.title | escape }}</span>
+          <span class="post-list-title">{{ post.title | escape }}</span>
           <span class="post-date">{{ post.date | date: "%d.%m.%Y" }}</span>
         </a>
       </div>

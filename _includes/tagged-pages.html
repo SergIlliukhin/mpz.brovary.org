@@ -32,7 +32,7 @@
     {% for page in remaining_pages %}
       <div class="page-list-item">
         <a href="{{ page.url | relative_url }}">
-          <span class="page-title">{{ page.title | escape }}</span>
+          <span class="page-list-title">{{ page.title | escape }}</span>
           <span class="page-date">{{ page.date | date: "%d.%m.%Y" }}</span>
         </a>
       </div>
