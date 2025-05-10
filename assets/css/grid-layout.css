@@ -86,12 +86,7 @@
 }
 
 /* List layout for posts/pages without thumbnails */
-.posts-list,
-.pages-list {
-  margin-top: 2rem;
-  border-top: 1px solid #eee;
-  padding-top: 1rem;
-}
+/* Removed .posts-list and .pages-list rules */
 
 .post-list-item,
 .page-list-item {
