@@ -3,7 +3,7 @@
   {% assign pages = pages | slice: 0, include.limit %}
 {% endif %}
 
-{% assign count = include.countOfCovers | default: 9 | plus: 0 %}
+{% assign count = include.countOfCovers | default: 100 | plus: 0 %}
 {% assign featured_pages = pages | slice: 0, count %}
 {% assign remaining_pages = pages | slice: count, pages.size %}
 

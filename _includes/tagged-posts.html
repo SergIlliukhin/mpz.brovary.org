@@ -3,7 +3,7 @@
   {% assign posts = posts | slice: 0, include.limit %}
 {% endif %}
 
-{% assign count = include.countOfCovers | default: 9 | plus: 0 %}
+{% assign count = include.countOfCovers | default: 100 | plus: 0 %}
 {% assign featured_posts = posts | slice: 0, count %}
 {% assign remaining_posts = posts | slice: count, posts.size %}
 
