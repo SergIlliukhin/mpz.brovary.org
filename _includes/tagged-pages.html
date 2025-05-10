@@ -3,30 +3,32 @@
   {% assign pages = pages | slice: 0, include.limit %}
 {% endif %}
 
-{% assign pages_with_cover = pages | where_exp: "page", "page.coverImage" %}
-{% assign pages_without_cover = pages | where_exp: "page", "page.coverImage == nil" %}
+{% assign featured_pages = pages | slice: 0, include.countOfCovers %}
+{% assign remaining_pages = pages | slice: include.countOfCovers, pages.size %}
 
 <div class="video-pages-grid">
-  {% assign cover_count = 0 %}
-  {% for page in pages_with_cover %}
-    {% if include.countOfCovers == nil or cover_count < include.countOfCovers %}
-      <div class="video-page-card">
-        <a href="{{ page.url | relative_url }}">
+  {% for page in featured_pages %}
+    <div class="video-page-card">
+      <a href="{{ page.url | relative_url }}">
+        {% if page.coverImage %}
           <img src="{{ page.coverImage | relative_url}}" alt="{{ page.title | escape }}" class="video-thumbnail">
-          <div class="page-content">
-            <h3>{{ page.title | escape }}</h3>
-            <p class="page-date">{{ page.date | date: "%d.%m.%Y" }}</p>
+        {% else %}
+          <div class="no-thumbnail">
+            <span class="page-icon">📄</span>
           </div>
-        </a>
-      </div>
-      {% assign cover_count = cover_count | plus: 1 %}
-    {% endif %}
+        {% endif %}
+        <div class="page-content">
+          <h3>{{ page.title | escape }}</h3>
+          <p class="page-date">{{ page.date | date: "%d.%m.%Y" }}</p>
+        </div>
+      </a>
+    </div>
   {% endfor %}
 </div>
 
-{% if pages_without_cover.size > 0 %}
+{% if remaining_pages.size > 0 %}
   <div class="pages-list">
-    {% for page in pages_without_cover %}
+    {% for page in remaining_pages %}
       <div class="page-list-item">
         <a href="{{ page.url | relative_url }}">
           <span class="page-title">{{ page.title | escape }}</span>
