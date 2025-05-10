@@ -19,4 +19,4 @@ coverImage: "wp-content/uploads/2012/06/kashirina.jpg"
 
 Більш детально доповню цю ж статтю в четвер.
 
-\[media url="https://mpz.brovary.org/wp-content/uploads/2012/06/Kashirina-15.mp4" width="600" height="400"\]
+<video src="https://mpz.brovary.org/wp-content/uploads/2012/06/Kashirina-15.mp4" width="600" height="400" controls></video>
