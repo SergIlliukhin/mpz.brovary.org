@@ -4,7 +4,8 @@ title: "Новини"
 category: "novyny"
 ---
 
-<div class="category-page">
-  <h1>{{ page.title }}</h1>
-  {% include categorized-posts.html category=page.category %}
+<div class="category-header">
+  <h1>{{ include.title }}</h1>
 </div>
+
+{% include categorized-posts.html category=include.category countOfCovers=9 %}

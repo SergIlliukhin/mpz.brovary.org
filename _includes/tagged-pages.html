@@ -4,14 +4,28 @@
 {% endif %}
 
 <div class="video-pages-grid">
+  {% assign cover_count = 0 %}
   {% for page in pages %}
-    <div class="video-page-card">
+    <div class="video-page-card {% unless page.coverImage %}no-cover{% endunless %}">
         <a href="{{ page.url | relative_url }}">
           {% if page.coverImage %}
-            <img src="{{ page.coverImage | relative_url}}" alt="{{ page.title | escape }}" class="video-thumbnail">
+            {% if include.countOfCovers == nil or cover_count < include.countOfCovers %}
+              <img src="{{ page.coverImage | relative_url}}" alt="{{ page.title | escape }}" class="video-thumbnail">
+              {% assign cover_count = cover_count | plus: 1 %}
+            {% else %}
+              <div class="no-thumbnail">
+                <span class="page-icon">📄</span>
+              </div>
+            {% endif %}
+          {% else %}
+            <div class="no-thumbnail">
+              <span class="page-icon">📄</span>
+            </div>
           {% endif %}
-          <h3>{{ page.title | escape }}</h3>
-          <p class="page-date">{{ page.date | date: "%d.%m.%Y" }}</p>
+          <div class="page-content">
+            <h3>{{ page.title | escape }}</h3>
+            <p class="page-date">{{ page.date | date: "%d.%m.%Y" }}</p>
+          </div>
         </a>
     </div>
   {% endfor %}

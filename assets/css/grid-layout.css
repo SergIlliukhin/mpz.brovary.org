@@ -48,6 +48,45 @@
   font-size: 0.9em;
 }
 
+/* New styles for no-cover cards */
+.video-post-card.no-cover,
+.video-page-card.no-cover {
+  background-color: #f5f5f5;
+  padding: 15px;
+}
+
+.video-post-card.no-cover .post-content,
+.video-page-card.no-cover .page-content {
+  margin: 0;
+}
+
+.video-post-card.no-cover h3,
+.video-page-card.no-cover h3 {
+  margin: 0 0 10px 0;
+  font-size: 1.1em;
+}
+
+.no-thumbnail {
+  background-color: #e0e0e0;
+  border-radius: 8px;
+  height: 160px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.post-icon,
+.page-icon {
+  font-size: 2em;
+  color: #666;
+}
+
+.post-content,
+.page-content {
+  margin-top: 10px;
+}
+
 @media (max-width: 768px) {
   .video-posts-grid,
   .video-pages-grid {

@@ -11,16 +11,16 @@ coverImage: /wp-content/uploads/2025/05/mpz3.png
 {% include tagged-pages.html tag="homepage" %}
 
 ## Головне
-{% include tagged-posts.html tag="vibir-redaktsiyi" limit=6 %} 
+{% include tagged-posts.html tag="vibir-redaktsiyi" limit=6 countOfCovers=3 %} 
 
 ## Місто
-{% include categorized-posts.html category="brovary" limit=6 %}
+{% include categorized-posts.html category="brovary" limit=6 countOfCovers=3 %}
 
 ## Громада
-{% include categorized-posts.html category="hromada" limit=6 %}
+{% include categorized-posts.html category="hromada" limit=6 countOfCovers=3 %}
 
 ## Влада
-{% include categorized-posts.html category="vlada" limit=6 %}
+{% include categorized-posts.html category="vlada" limit=6 countOfCovers=3 %}
 
 ## Блоги
-{% include categorized-posts.html category="kolonka-avtora" limit=6 %}
+{% include categorized-posts.html category="kolonka-avtora" limit=6 countOfCovers=3 %}
