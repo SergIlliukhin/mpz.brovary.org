@@ -95,8 +95,14 @@
 
 .post-list-item,
 .page-list-item {
-  padding: 0.75rem 0;
-  border-bottom: 1px solid #eee;
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #f5f5f5;
+  transition: background-color 0.2s;
+}
+
+.post-list-item:hover,
+.page-list-item:hover {
+  background-color: #f9f9f9;
 }
 
 .post-list-item:last-child,
@@ -111,6 +117,7 @@
   align-items: center;
   text-decoration: none;
   color: inherit;
+  padding: 0.25rem 1rem;
 }
 
 .post-list-item a:hover,
@@ -120,8 +127,16 @@
 
 .post-title,
 .page-title {
-  font-size: 1.1rem;
-  font-weight: 500;
+  font-size: 0.9rem;
+  font-weight: 400;
+  color: #666;
+}
+
+.post-date,
+.page-date {
+  color: #999;
+  font-size: 0.8rem;
+  font-weight: 300;
 }
 
 @media (max-width: 768px) {
