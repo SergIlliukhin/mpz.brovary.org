@@ -4,6 +4,7 @@ import requests
 from bs4 import BeautifulSoup
 import time
 import re
+import os
 
 def get_page_links(url):
     """Get all publication links from a single page"""
@@ -30,10 +31,35 @@ def get_page_links(url):
         print(f"Error fetching page {url}: {str(e)}")
         return []
 
+def create_issuu_html(doc_url, output_folder):
+    """Create an HTML file with an embedded Issuu document"""
+    # Extract docname from the URL
+    docname = doc_url.rstrip('/').split('/')[-1]
+    embed_url = f"{doc_url}/embed"
+    html_content = f'''<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{docname}</title>
+</head>
+<body>
+    <iframe src="{embed_url}" width="100%" height="600" frameborder="0" allowfullscreen></iframe>
+</body>
+</html>'''
+    # Write to file
+    output_path = os.path.join(output_folder, f"{docname}.html")
+    with open(output_path, 'w', encoding='utf-8') as f:
+        f.write(html_content)
+    print(f"Created {output_path}")
+
 def scrape_issuu_profile(base_url, max_pages):
     """Scrape all publication links from an Issuu profile, grouped by page"""
     all_links_by_page = []
     seen_links = set()
+    
+    # Create issuu directory if it doesn't exist
+    if not os.path.exists('issuu'):
+        os.makedirs('issuu')
     
     for page in range(1, max_pages + 1):
         page_url = f"{base_url}/{page}"
@@ -45,6 +71,8 @@ def scrape_issuu_profile(base_url, max_pages):
             if link not in seen_links:
                 unique_links.append(link)
                 seen_links.add(link)
+                # Create HTML file for this publication
+                create_issuu_html(link, 'issuu')
         all_links_by_page.append((page, unique_links))
         time.sleep(2)
     return all_links_by_page
