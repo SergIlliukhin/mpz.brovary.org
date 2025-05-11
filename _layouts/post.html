@@ -17,7 +17,29 @@ layout: default
     </div>
   </header>
 
+  {% if page.categories.size > 0 %}
+  <div class="post-categories">
+    <h3>Категорії:</h3>
+    <ul>
+      {% for category in page.categories %}
+      <li><a href="{{ '/action/' | append: category | relative_url }}">{{ category }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+
   <div class="post-content">
     {% include process_youtube_links.html %}
   </div>
+
+  {% if page.tags.size > 0 %}
+  <div class="post-tags">
+    <h3>Теги:</h3>
+    <ul>
+      {% for tag in page.tags %}
+      <li><a href="{{ '/tag/' | append: tag | relative_url }}">{{ tag }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
 </article> 
