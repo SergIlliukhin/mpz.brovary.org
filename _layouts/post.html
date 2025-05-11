@@ -29,7 +29,11 @@ layout: default
   </header>
 
   {% if page.author %}
-    {% assign author = site.data.authors | where: "login", page.author | first %}
+    {% if page.author.username %}
+      {% assign author = site.data.authors | where: "login", page.author.username | first %}
+    {% else %}
+      {% assign author = site.data.authors | where: "login", page.author | first %}
+    {% endif %}
     <div class="post-author">
       <img src="{{ author.avatarUrl | relative_url }}" alt="{{ author.name | escape }}" class="post-author-avatar">
       <div class="post-author-info">
