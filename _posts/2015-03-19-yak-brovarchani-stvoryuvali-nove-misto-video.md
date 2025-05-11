@@ -26,3 +26,5 @@ coverImage: "wp-content/uploads/2015/03/screen2.jpg"
 Як відбувалась «Велика Розвіртуалізація активних броварчан», хто зібрався того дня під одним дахом, про що і як спілкувались та до чого домовились – в нашому [великому репортажі з події](https://mpz.brovary.org/viziya-novih-brovariv-pershiy-krok-na-pochatku-velikogo-shlyahu/). А сьогодні - власне, відео. Приємного перегляду вам і друзям, а також не забувайте, що [реєстрація](https://docs.google.com/forms/d/1RdzgW8sbSZzKjgKxLlAWGskcSl6y9l7-aBaRMZ59ofw/viewform) на [проектну сесію](https://mpz.brovary.org/vid-mriy-do-proektiv-brovarchani-prodovzhuyut-stvoryuvati-viziyu-novogo-mista/) 21 та 22 березня [триває і завершиться уже цієї п’ятниці о 18:00.](https://docs.google.com/forms/d/1RdzgW8sbSZzKjgKxLlAWGskcSl6y9l7-aBaRMZ59ofw/viewform) Поспішайте!
 
 Дякуємо за «лайки» та «репости»! ;)
+
+https://www.youtube.com/watch?v=3liL6eanFxw
