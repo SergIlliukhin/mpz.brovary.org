@@ -28,10 +28,13 @@ def generate_category_pages(categories_file='_data/wp_categories.yml', output_di
         # Create direct HTML file for the category
         output_file = os.path.join(output_dir, f"{category['slug']}.html")
         
-        # Create front matter with category
+        # Escape double quotes in the title
+        safe_title = category['name'].replace('"', '\"')
+        
+        # Create front matter with category and escaped title
         front_matter = f"""---
 layout: default
-title: "{category['name']}"
+title: "{safe_title}"
 category: "{category['slug']}"
 ---
 

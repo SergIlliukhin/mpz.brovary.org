@@ -28,14 +28,17 @@ def generate_tag_pages(tags_file='_data/wp_tags.yml', output_dir='tag'):
         # Create direct HTML file for the tag
         output_file = os.path.join(output_dir, f"{tag['slug']}.html")
         
-        # Create front matter with tag
-        front_matter = f"""---
+        # Escape quotes in the title for YAML front matter
+        safe_title = tag['name'].replace('"', '\\"')
+        
+        # Create front matter with tag and escaped title
+        front_matter = f'''---
 layout: default
-title: "{tag['name']}"
+title: "{safe_title}"
 tag: "{tag['slug']}"
 ---
 
-"""
+'''
         # Get the content part of the template (everything after the front matter)
         content = template.split('---', 2)[-1].strip()
         
