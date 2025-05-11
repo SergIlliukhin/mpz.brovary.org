@@ -11,8 +11,8 @@ coverImage: /wp-content/uploads/2025/05/mpz3.png
 ## [Головне]({{ "/tag/vibir-redaktsiyi/" | relative_url }})
 {% include tagged-posts.html tag="vibir-redaktsiyi" limit=6 countOfCovers=3 %} 
 
-## Сторінки і проекти
-{% include tagged-pages.html tag="homepage" %}
+## [Сторінки і проекти]({{ "/tag/homepage/" | relative_url }})
+{% include tagged-pages.html tag="homepage" limit=6 countOfCovers=3 %}
 
 ## [Аналітика]({{ "/action/rozsliduvannya/" | relative_url }})
 {% include categorized-posts.html category="rozsliduvannya" limit=6 countOfCovers=3 %}

@@ -1,3 +1,7 @@
+- term_id: 0
+  name: "Сторінки і проекти"
+  slug: "homepage"
+
 - term_id: 1
   name: "Новини"
   slug: "novini"
