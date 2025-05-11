@@ -41,6 +41,12 @@ layout: default
     </div>
   {% endif %}
 
+  {% if page.categories contains 'kolonka-avtora' %}
+    <div class="post-disclaimer">
+      <p>Команда сайту «МПЗ» може не поділяти погляди авторів та не несе відповідальності за інформацію, опубліковану у розділі «Блоги». Відповідальність за зміст, достовірність фактів, цитат, власних назв та інших відомостей несуть автори текстів, розміщених у розділі «Блоги»</p>
+    </div>
+  {% endif %}
+
   <div class="post-content">
     {% include process_youtube_links.html %}
   </div>

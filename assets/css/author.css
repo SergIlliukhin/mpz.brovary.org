@@ -71,6 +71,22 @@
   line-height: 1.4;
 }
 
+/* Post disclaimer styles */
+.post-disclaimer {
+  margin: 1rem 0;
+  padding: 0.75rem 1rem;
+  background-color: #fcf8e3;
+  border-radius: 4px;
+}
+
+.post-disclaimer p {
+  margin: 0;
+  font-size: 0.875rem;
+  font-style: italic;
+  line-height: 1.4;
+  color: #666;
+}
+
 @media (max-width: 768px) {
   .author-header {
     flex-direction: column;
@@ -85,5 +101,9 @@
 
   .post-author {
     padding: 0.75rem 0.5rem;
+  }
+
+  .post-disclaimer {
+    padding: 0.5rem 0.75rem;
   }
 } 
