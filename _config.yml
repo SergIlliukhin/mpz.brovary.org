@@ -1,7 +1,7 @@
 title: Бровари - Маєш право знати
 description: Новини громадсько-політичного життя міста
-baseurl: "/mpz.brovary.org" # the subpath of your site, e.g. /blog
-url: "https://sergilliukhin.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://mpz.brovary.org" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
