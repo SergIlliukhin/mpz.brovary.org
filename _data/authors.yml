@@ -286,4 +286,214 @@
 - name: "Ольга Романенко"
   login: "scientific_view"
   avatarUrl: "/avatars/13438985_1354213777929234_7825635446760044125_n-avatar.jpg"
-  description: "Доктор філософії в економіці, викладач університету, член Ради молодих вчених при Міністерстві освіти і науки України" 
+  description: "Доктор філософії в економіці, викладач університету, член Ради молодих вчених при Міністерстві освіти і науки України"
+
+- name: "admin"
+  login: "admin"
+  avatarUrl: "/avatars/v3-avatar.jpg"
+  description: "Автор публікацій МПЗ Бровари admin"
+
+- name: "annadrana"
+  login: "annadrana"
+  avatarUrl: "/avatars/v3-avatar.jpg"
+  description: "Автор публікацій МПЗ Бровари annadrana"
+
+- name: "balabaev"
+  login: "balabaev"
+  avatarUrl: "/avatars/v3-avatar.jpg"
+  description: "Автор публікацій МПЗ Бровари balabaev"
+
+- name: "bazir"
+  login: "bazir"
+  avatarUrl: "/avatars/v3-avatar.jpg"
+  description: "Автор публікацій МПЗ Бровари bazir"
+
+- name: "bilokin"
+  login: "bilokin"
+  avatarUrl: "/avatars/v3-avatar.jpg"
+  description: "Автор публікацій МПЗ Бровари bilokin"
+
+- name: "gorbatenko"
+  login: "gorbatenko"
+  avatarUrl: "/avatars/v3-avatar.jpg"
+  description: "Автор публікацій МПЗ Бровари gorbatenko"
+
+- name: "iovenko"
+  login: "iovenko"
+  avatarUrl: "/avatars/v3-avatar.jpg"
+  description: "Автор публікацій МПЗ Бровари iovenko"
+
+- name: "korolenko"
+  login: "korolenko"
+  avatarUrl: "/avatars/v3-avatar.jpg"
+  description: "Автор публікацій МПЗ Бровари korolenko"
+
+- name: "kozak35"
+  login: "kozak35"
+  avatarUrl: "/avatars/v3-avatar.jpg"
+  description: "Автор публікацій МПЗ Бровари kozak35"
+
+- name: "kupriy"
+  login: "kupriy"
+  avatarUrl: "/avatars/v3-avatar.jpg"
+  description: "Автор публікацій МПЗ Бровари kupriy"
+
+- name: "leszczyk"
+  login: "leszczyk"
+  avatarUrl: "/avatars/v3-avatar.jpg"
+  description: "Автор публікацій МПЗ Бровари leszczyk"
+
+- name: "los"
+  login: "los"
+  avatarUrl: "/avatars/v3-avatar.jpg"
+  description: "Автор публікацій МПЗ Бровари los"
+
+- name: "mzpl"
+  login: "mzpl"
+  avatarUrl: "/avatars/v3-avatar.jpg"
+  description: "Автор публікацій МПЗ Бровари mzpl"
+
+- name: "nafcom"
+  login: "nafcom"
+  avatarUrl: "/avatars/v3-avatar.jpg"
+  description: "Автор публікацій МПЗ Бровари nafcom"
+
+- name: "nakonechna"
+  login: "nakonechna"
+  avatarUrl: "/avatars/v3-avatar.jpg"
+  description: "Автор публікацій МПЗ Бровари nakonechna"
+
+- name: "onum"
+  login: "onum"
+  avatarUrl: "/avatars/v3-avatar.jpg"
+  description: "Автор публікацій МПЗ Бровари onum"
+
+- name: "ostapkovych"
+  login: "ostapkovych"
+  avatarUrl: "/avatars/v3-avatar.jpg"
+  description: "Автор публікацій МПЗ Бровари ostapkovych"
+
+- name: "ovdienko"
+  login: "ovdienko"
+  avatarUrl: "/avatars/v3-avatar.jpg"
+  description: "Автор публікацій МПЗ Бровари ovdienko"
+
+- name: "plakhovalex"
+  login: "plakhovalex"
+  avatarUrl: "/avatars/v3-avatar.jpg"
+  description: "Автор публікацій МПЗ Бровари plakhovalex"
+
+- name: "pravoZnaty"
+  login: "pravoZnaty"
+  avatarUrl: "/avatars/v3-avatar.jpg"
+  description: "Автор публікацій МПЗ Бровари pravoZnaty"
+
+- name: "rodzina"
+  login: "rodzina"
+  avatarUrl: "/avatars/v3-avatar.jpg"
+  description: "Автор публікацій МПЗ Бровари rodzina"
+
+- name: "samooborona"
+  login: "samooborona"
+  avatarUrl: "/avatars/v3-avatar.jpg"
+  description: "Автор публікацій МПЗ Бровари samooborona"
+
+- name: "sereda"
+  login: "sereda"
+  avatarUrl: "/avatars/v3-avatar.jpg"
+  description: "Автор публікацій МПЗ Бровари sereda"
+
+- name: "serhij batuk"
+  login: "serhij batuk"
+  avatarUrl: "/avatars/v3-avatar.jpg"
+  description: "Автор публікацій МПЗ Бровари serhij batuk"
+
+- name: "shevtsov"
+  login: "shevtsov"
+  avatarUrl: "/avatars/v3-avatar.jpg"
+  description: "Автор публікацій МПЗ Бровари shevtsov"
+
+- name: "shvec_yana"
+  login: "shvec_yana"
+  avatarUrl: "/avatars/v3-avatar.jpg"
+  description: "Автор публікацій МПЗ Бровари shvec_yana"
+
+- name: "sikora"
+  login: "sikora"
+  avatarUrl: "/avatars/v3-avatar.jpg"
+  description: "Автор публікацій МПЗ Бровари sikora"
+
+- name: "siverska"
+  login: "siverska"
+  avatarUrl: "/avatars/v3-avatar.jpg"
+  description: "Автор публікацій МПЗ Бровари siverska"
+
+- name: "slobodyan"
+  login: "slobodyan"
+  avatarUrl: "/avatars/v3-avatar.jpg"
+  description: "Автор публікацій МПЗ Бровари slobodyan"
+
+- name: "sokil"
+  login: "sokil"
+  avatarUrl: "/avatars/v3-avatar.jpg"
+  description: "Автор публікацій МПЗ Бровари sokil"
+
+- name: "solidarnistbpp"
+  login: "solidarnistbpp"
+  avatarUrl: "/avatars/v3-avatar.jpg"
+  description: "Автор публікацій МПЗ Бровари solidarnistbpp"
+
+- name: "strakhov"
+  login: "strakhov"
+  avatarUrl: "/avatars/v3-avatar.jpg"
+  description: "Автор публікацій МПЗ Бровари strakhov"
+
+- name: "stretovich"
+  login: "stretovich"
+  avatarUrl: "/avatars/v3-avatar.jpg"
+  description: "Автор публікацій МПЗ Бровари stretovich"
+
+- name: "t.lemishevska"
+  login: "t.lemishevska"
+  avatarUrl: "/avatars/v3-avatar.jpg"
+  description: "Автор публікацій МПЗ Бровари t.lemishevska"
+
+- name: "turovsky"
+  login: "turovsky"
+  avatarUrl: "/avatars/v3-avatar.jpg"
+  description: "Автор публікацій МПЗ Бровари turovsky"
+
+- name: "veremchuk"
+  login: "veremchuk"
+  avatarUrl: "/avatars/v3-avatar.jpg"
+  description: "Автор публікацій МПЗ Бровари veremchuk"
+
+- name: "vetrinskiy"
+  login: "vetrinskiy"
+  avatarUrl: "/avatars/v3-avatar.jpg"
+  description: "Автор публікацій МПЗ Бровари vetrinskiy"
+
+- name: "yaremchuk"
+  login: "yaremchuk"
+  avatarUrl: "/avatars/v3-avatar.jpg"
+  description: "Автор публікацій МПЗ Бровари yaremchuk"
+
+- name: "zagadum"
+  login: "zagadum"
+  avatarUrl: "/avatars/v3-avatar.jpg"
+  description: "Автор публікацій МПЗ Бровари zagadum"
+
+- name: "zaharevych"
+  login: "zaharevych"
+  avatarUrl: "/avatars/v3-avatar.jpg"
+  description: "Автор публікацій МПЗ Бровари zaharevych"
+
+- name: "zivilive"
+  login: "zivilive"
+  avatarUrl: "/avatars/v3-avatar.jpg"
+  description: "Автор публікацій МПЗ Бровари zivilive"
+
+- name: "zolotariov"
+  login: "zolotariov"
+  avatarUrl: "/avatars/v3-avatar.jpg"
+  description: "Автор публікацій МПЗ Бровари zolotariov"
