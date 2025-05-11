@@ -1,0 +1,43 @@
+Authors found in markdown files but missing from _data/authors.yml:
+
+- admin
+- annadrana
+- balabaev
+- bazir
+- bilokin
+- gorbatenko
+- iovenko
+- korolenko
+- kozak35
+- kupriy
+- leszczyk
+- los
+- mzpl
+- nafcom
+- nakonechna
+- onum
+- ostapkovych
+- ovdienko
+- plakhovalex
+- rodzina
+- samooborona
+- sereda
+- serhij batuk
+- shevtsov
+- shvec_yana
+- sikora
+- siverska
+- slobodyan
+- sokil
+- solidarnistbpp
+- strakhov
+- stretovich
+- t.lemishevska
+- turovsky
+- veremchuk
+- vetrinskiy
+- yaremchuk
+- zagadum
+- zaharevych
+- zivilive
+- zolotariov
