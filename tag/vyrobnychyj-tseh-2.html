@@ -1,0 +1,9 @@
+---
+layout: default
+title: "виробничий цех №2"
+tag: "vyrobnychyj-tseh-2"
+---
+
+<h1>Тег: {{ page.title | escape }}</h1>
+
+{% include tagged-posts.html tag=page.tag countOfCovers=9 %}

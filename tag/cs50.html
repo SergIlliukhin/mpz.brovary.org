@@ -1,0 +1,9 @@
+---
+layout: default
+title: "CS50"
+tag: "cs50"
+---
+
+<h1>Тег: {{ page.title | escape }}</h1>
+
+{% include tagged-posts.html tag=page.tag countOfCovers=9 %}

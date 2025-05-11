@@ -1,0 +1,9 @@
+---
+layout: default
+title: "прес-служба"
+tag: "pres-sluzhba"
+---
+
+<h1>Тег: {{ page.title | escape }}</h1>
+
+{% include tagged-posts.html tag=page.tag countOfCovers=9 %}

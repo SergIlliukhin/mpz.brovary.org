@@ -1,0 +1,9 @@
+---
+layout: default
+title: "не хочу в камеру!"
+tag: "ne-hochu-v-kameru"
+---
+
+<h1>Тег: {{ page.title | escape }}</h1>
+
+{% include tagged-posts.html tag=page.tag countOfCovers=9 %}

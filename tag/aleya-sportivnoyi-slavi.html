@@ -1,0 +1,9 @@
+---
+layout: default
+title: "алея спортивної слави"
+tag: "aleya-sportivnoyi-slavi"
+---
+
+<h1>Тег: {{ page.title | escape }}</h1>
+
+{% include tagged-posts.html tag=page.tag countOfCovers=9 %}

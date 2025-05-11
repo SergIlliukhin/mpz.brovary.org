@@ -1,0 +1,9 @@
+---
+layout: default
+title: "школа №10"
+tag: "shkola-10"
+---
+
+<h1>Тег: {{ page.title | escape }}</h1>
+
+{% include tagged-posts.html tag=page.tag countOfCovers=9 %}

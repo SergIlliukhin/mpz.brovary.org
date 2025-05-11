@@ -25,12 +25,8 @@ def generate_tag_pages(tags_file='_data/wp_tags.yml', output_dir='tag'):
     
     # Generate a page for each tag
     for tag in tags:
-        # Create tag directory
-        tag_dir = os.path.join(output_dir, tag['slug'])
-        os.makedirs(tag_dir, exist_ok=True)
-        
-        # Create index.html in the tag directory
-        output_file = os.path.join(tag_dir, 'index.html')
+        # Create direct HTML file for the tag
+        output_file = os.path.join(output_dir, f"{tag['slug']}.html")
         
         # Create front matter with tag
         front_matter = f"""---

@@ -1,0 +1,9 @@
+---
+layout: default
+title: "Партія простих людей"
+tag: "partiya-prostyh-lyudej"
+---
+
+<h1>Тег: {{ page.title | escape }}</h1>
+
+{% include tagged-posts.html tag=page.tag countOfCovers=9 %}

@@ -1,0 +1,9 @@
+---
+layout: default
+title: "пам'ятні знаки"
+tag: "pamyatni-znaky"
+---
+
+<h1>Тег: {{ page.title | escape }}</h1>
+
+{% include tagged-posts.html tag=page.tag countOfCovers=9 %}

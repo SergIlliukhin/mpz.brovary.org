@@ -25,12 +25,8 @@ def generate_category_pages(categories_file='_data/wp_categories.yml', output_di
     
     # Generate a page for each category
     for category in categories:
-        # Create category directory
-        category_dir = os.path.join(output_dir, category['slug'])
-        os.makedirs(category_dir, exist_ok=True)
-        
-        # Create index.html in the category directory
-        output_file = os.path.join(category_dir, 'index.html')
+        # Create direct HTML file for the category
+        output_file = os.path.join(output_dir, f"{category['slug']}.html")
         
         # Create front matter with category
         front_matter = f"""---

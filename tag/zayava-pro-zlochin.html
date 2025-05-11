@@ -1,0 +1,9 @@
+---
+layout: default
+title: "заява про злочин"
+tag: "zayava-pro-zlochin"
+---
+
+<h1>Тег: {{ page.title | escape }}</h1>
+
+{% include tagged-posts.html tag=page.tag countOfCovers=9 %}

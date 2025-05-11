@@ -1,0 +1,9 @@
+---
+layout: default
+title: "Петра і Павла"
+tag: "petra-i-pavla"
+---
+
+<h1>Тег: {{ page.title | escape }}</h1>
+
+{% include tagged-posts.html tag=page.tag countOfCovers=9 %}
