@@ -1,0 +1,12 @@
+---
+layout: default
+title: admin
+description: Автор публікацій МПЗ Бровари admin
+author: admin
+---
+
+{% include author-info.html author=page.author %}
+
+<div class="author-posts">
+  {% include authored-posts.html author=page.author countOfCovers=9 %}
+</div>
