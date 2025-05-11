@@ -32,7 +32,7 @@ coverImage: "wp-content/uploads/2012/08/kohanivskiy.jpg"
 
 P.S. Нижче додаю скан звернення Броварського ГУМВС до інформагенції "Поряд з Вами" та відповідь агенції Броварському ГУМВС.
 
-[http://bilozerska.livejournal.com/673276.html](http://bilozerska.livejournal.com/673276.html)
+[https://bilozerska.livejournal.com/673276.html](https://bilozerska.livejournal.com/673276.html)
 
 Також  додаю свою заяву до обласної прокуратури.
 

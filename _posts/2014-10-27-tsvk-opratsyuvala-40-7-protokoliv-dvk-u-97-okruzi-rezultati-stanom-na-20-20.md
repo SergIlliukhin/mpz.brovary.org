@@ -29,4 +29,4 @@ coverImage: "wp-content/uploads/2014/10/TSVK-rezultati-20-00.jpg"
 
 [![ЦВК результати 20-00 парт](https://mpz.brovary.org/wp-content/uploads/2014/10/TSVK-rezultati-20-00-part.png)](https://mpz.brovary.org/wp-content/uploads/2014/10/TSVK-rezultati-20-00-part.png)
 
-> Усі результати можна дивтись в режимі онлайн на офіційному сайті Центрвиборчкому: [за партійними списками](http://cvk.gov.ua/pls/vnd2014/wp304pt001f01=910pf7331=97.html) та по [мажоритарних кандидатах](http://cvk.gov.ua/pls/vnd2014/wp040pt001f01=910pf7331=97.html).
+> Усі результати можна дивтись в режимі онлайн на офіційному сайті Центрвиборчкому: [за партійними списками](https://cvk.gov.ua/pls/vnd2014/wp304pt001f01=910pf7331=97.html) та по [мажоритарних кандидатах](https://cvk.gov.ua/pls/vnd2014/wp040pt001f01=910pf7331=97.html).

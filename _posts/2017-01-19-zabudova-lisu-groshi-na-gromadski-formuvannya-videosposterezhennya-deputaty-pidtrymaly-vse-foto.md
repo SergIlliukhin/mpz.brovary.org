@@ -67,7 +67,7 @@ coverImage: "wp-content/uploads/2017/01/24-pozachergova-sesiya-BMR_00068.jpg"
 
 [![](https://mpz.brovary.org/wp-content/uploads/2017/01/24-pozachergova-sesiya-BMR_00085.jpg)](https://mpz.brovary.org/wp-content/uploads/2017/01/24-pozachergova-sesiya-BMR_00085.jpg)
 
-Депутат **Андрій Саук** тезово зачитав відповідну [заяву](http://brovary.dem-alliance.org/zayava-brovarskogo-oseredku-politychnoyi-partiyi-demalyans-shhodo-memorandumu-z-zabudovnykom-tov-alyans-novobud/) із переліком порушень. Також обранець звернув увагу на те, що з численними процедурними порушеннями відбулися і громадські слухання. Отож їхні результати будуть скасовувати в судовому порядку.
+Депутат **Андрій Саук** тезово зачитав відповідну [заяву](https://brovary.dem-alliance.org/zayava-brovarskogo-oseredku-politychnoyi-partiyi-demalyans-shhodo-memorandumu-z-zabudovnykom-tov-alyans-novobud/) із переліком порушень. Також обранець звернув увагу на те, що з численними процедурними порушеннями відбулися і громадські слухання. Отож їхні результати будуть скасовувати в судовому порядку.
 
 Міській голова Ігор Сапожко, секретар ради **Петро Бабич** (Укроп) та депутат **Сергій Більський** (Батьківщина) такі закиди заперечували. Зрештою мер, головуючий на засіданні, поставив питання на голосування. За проект рішення віддали **22 голоси**.
 

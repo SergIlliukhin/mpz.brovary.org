@@ -37,4 +37,4 @@ coverImage: "wp-content/uploads/2014/10/9d8ee129cba8b709086a7563469578c7.jpg"
 
 Якщо ж виявиться, що чоловік не є довіреною особою кандидата, то це також порушення ЗУ «Про вибори народних депутатів».
 
-За матеріалами сайту [мережі ОПОРА](http://oporaua.org/news/6520-na-ovk-u97-okruzi-molodyk-pereshkodzhav-dijalnosti-oficijnogo-sposterigacha-opory)
+За матеріалами сайту [мережі ОПОРА](https://oporaua.org/news/6520-na-ovk-u97-okruzi-molodyk-pereshkodzhav-dijalnosti-oficijnogo-sposterigacha-opory)

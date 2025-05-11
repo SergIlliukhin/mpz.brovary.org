@@ -22,7 +22,7 @@ tags:
 
 Сподіваючись, ця стаття зупинить тих наївних броварчан, котрі виявлять бажання вкладати гроші у ці об’єкти.
 
-[http://kravec.org/?p=439](http://kravec.org/?p=439) - _матеріал "Броварська Еліта-Центр"_ 
+[https://kravec.org/?p=439](https://kravec.org/?p=439) - _матеріал "Броварська Еліта-Центр"_ 
 
 [Броварська Еліта центр.avi](https://mpz.brovary.org/wp-content/uploads/2012/04/Brovarska-Elita-tsentr.avi.mp4)
 

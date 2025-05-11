@@ -17,4 +17,4 @@ tags:
 
 <iframe width="480" height="360" src="https://www.youtube.com/embed/5lizC-W0Zs0" frameborder="0" allowfullscreen></iframe>
 
-**Камера:** [Сергій Іллюхін](http://botaniki.org.ua "Сергій Іллюхін")
+**Камера:** [Сергій Іллюхін](https://botaniki.org.ua "Сергій Іллюхін")

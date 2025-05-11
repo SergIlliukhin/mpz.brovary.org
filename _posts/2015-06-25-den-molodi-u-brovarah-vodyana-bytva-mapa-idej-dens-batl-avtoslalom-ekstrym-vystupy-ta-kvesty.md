@@ -34,7 +34,7 @@ coverImage: "wp-content/uploads/2015/04/Muzvechir-11-.jpg"
 
 [![День молоді Самопоміч](https://mpz.brovary.org/wp-content/uploads/2015/06/Den-molodi-Samopomich.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/06/Den-molodi-Samopomich.jpg)
 
-Також на сайті Броварської міської ради [оприлюднено](http://www.brovary.kiev.ua/rozporyadzhennya-m%D1%96skogo-golovi-v%D1%96d-22062015-%E2%84%96106-od-pro-provedennya-zagalnom%D1%96skikh-zakhod%D1%96v-z-nagod) офіційну програму святкових заходів до Дня молоді 2015: спортивні змагання, показові виступи з екстремальних видів спорту на скейт-майданчику, автослалом, благодійні та інформаційні акції, флеш-моб та молодіжний концерт
+Також на сайті Броварської міської ради [оприлюднено](https://www.brovary.kiev.ua/rozporyadzhennya-m%D1%96skogo-golovi-v%D1%96d-22062015-%E2%84%96106-od-pro-provedennya-zagalnom%D1%96skikh-zakhod%D1%96v-z-nagod) офіційну програму святкових заходів до Дня молоді 2015: спортивні змагання, показові виступи з екстремальних видів спорту на скейт-майданчику, автослалом, благодійні та інформаційні акції, флеш-моб та молодіжний концерт
 
 \[table\]
 

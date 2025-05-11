@@ -31,4 +31,4 @@ coverImage: "wp-content/uploads/2014/11/Ogoloshennya-Militsiya-1-.jpg"
 
 [![Оголошення Міліція 4](https://mpz.brovary.org/wp-content/uploads/2014/11/Ogoloshennya-Militsiya-4.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/11/Ogoloshennya-Militsiya-4.jpg)
 
-> ГО «Броварський народний контроль» закликає мешканців міста долучатися до співпраці. Детальніша інформація на сайті громадської організації: http://nk.mybrovary.com.
+> ГО «Броварський народний контроль» закликає мешканців міста долучатися до співпраці. Детальніша інформація на сайті громадської організації: https://nk.mybrovary.com.

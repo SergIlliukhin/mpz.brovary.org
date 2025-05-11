@@ -34,7 +34,7 @@ coverImage: "wp-content/uploads/2015/05/gromadska-rada-upravlinnya-osviti-16.jpg
 
 [![громадська рада управління освіти (18)](https://mpz.brovary.org/wp-content/uploads/2015/05/gromadska-rada-upravlinnya-osviti-18.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/05/gromadska-rada-upravlinnya-osviti-18.jpg)
 
-Від громадських організацій були: **Ігор Романенко**, голова [«Асоціації батьків міста Бровари»](https://www.facebook.com/groups/607262956074041/?fref=ts), **Руслан Яремчук**, **Надія Лещик** та **Ганна Хмуренко**, представники [«Броварського народного контролю»](http://nk.mybrovary.com/). Від управління освіти – Спичак Марія Дмитрівна (головний спеціаліст відділу загальної, середньої, професійно-технічної та вищої освіти). Начальник управління освіти пан Онищенко захід не відвідав – «був зайнятий на виконкомі», як пояснила Марія Дмитрівна.
+Від громадських організацій були: **Ігор Романенко**, голова [«Асоціації батьків міста Бровари»](https://www.facebook.com/groups/607262956074041/?fref=ts), **Руслан Яремчук**, **Надія Лещик** та **Ганна Хмуренко**, представники [«Броварського народного контролю»](https://nk.mybrovary.com/). Від управління освіти – Спичак Марія Дмитрівна (головний спеціаліст відділу загальної, середньої, професійно-технічної та вищої освіти). Начальник управління освіти пан Онищенко захід не відвідав – «був зайнятий на виконкомі», як пояснила Марія Дмитрівна.
 
 \[caption id="attachment\_37767" align="aligncenter" width="600"\][![громадська рада управління освіти (7)](https://mpz.brovary.org/wp-content/uploads/2015/05/gromadska-rada-upravlinnya-osviti-7.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/05/gromadska-rada-upravlinnya-osviti-7.jpg) "Народний контроль": Ганна Хмуренко, Надія Лещик, Руслан Яремчук\[/caption\]
 
@@ -80,4 +80,4 @@ _«Розподіл коштів на цей рік ми вже контролю
 
 \[caption id="attachment\_37768" align="aligncenter" width="600"\][![громадська рада управління освіти (8)](https://mpz.brovary.org/wp-content/uploads/2015/05/gromadska-rada-upravlinnya-osviti-8.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/05/gromadska-rada-upravlinnya-osviti-8.jpg) "Квіти життя" радіють життю і не підозрюють, які важливі проблеми вирішують їх батьки\[/caption\]
 
-**Фото - [Микола Кожемяко](http://fotokray.com.ua/)**
+**Фото - [Микола Кожемяко](https://fotokray.com.ua/)**

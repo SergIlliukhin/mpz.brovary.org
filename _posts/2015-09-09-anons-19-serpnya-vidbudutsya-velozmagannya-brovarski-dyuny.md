@@ -24,7 +24,7 @@ tags:
 > 
 > - Броварська міська рада,
 > - велоспільнота м.Броварів,
-> - велоклуб «44х11» ([www.velobrovary.org.ua](http://l.facebook.com/l.php?u=http%3A%2F%2Fwww.velobrovary.org.ua%2F&h=CAQEno2fi&enc=AZO0GfClwZ8aozjyM4lV9ZS-3esx7XoOGP3UQYegdpyi0PaSMvHOKtKTRLe3X-m55YI&s=1)),
+> - велоклуб «44х11» ([www.velobrovary.org.ua](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.velobrovary.org.ua%2F&h=CAQEno2fi&enc=AZO0GfClwZ8aozjyM4lV9ZS-3esx7XoOGP3UQYegdpyi0PaSMvHOKtKTRLe3X-m55YI&s=1)),
 > - оргкомітет велоперегонів в особі: головного судді Слюсара Б.О. головного секретаря Крушельницької Г.І.
 > 
 > Фінансування здійснюється за рахунок добровільних стартових внесків.

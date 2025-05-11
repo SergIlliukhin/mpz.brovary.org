@@ -68,7 +68,7 @@ coverImage: "wp-content/uploads/2016/03/DSC_8186.jpg"
 
 Звідти Здоровця силоміць почали витягати «свободівці», а сам Здоровець намагався втекти із зали.
 
-Відеозапис сесії від [проекту "Відеопрозорість"](http://video.brovary.org/)
+Відеозапис сесії від [проекту "Відеопрозорість"](https://video.brovary.org/)
 
 <iframe src="https://www.youtube.com/embed/xe73Mzzhi8Y" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 

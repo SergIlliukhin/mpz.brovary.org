@@ -50,7 +50,7 @@ coverImage: "wp-content/uploads/2015/05/parad-4-e1432570427272.jpg"
 
 [![ярмарка-єва (15)](https://mpz.brovary.org/wp-content/uploads/2015/05/yarmarka-yeva-15-e1432570897611.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/05/yarmarka-yeva-15.jpg)
 
-У центрі міста, на головній площі, відбувся благодійний ярмарок для збору коштів на лікування Єви, якій [потрібна термінова пересадка кісткового мозку закордоном](http://evadyachenko.com.ua/).
+У центрі міста, на головній площі, відбувся благодійний ярмарок для збору коштів на лікування Єви, якій [потрібна термінова пересадка кісткового мозку закордоном](https://evadyachenko.com.ua/).
 
 [![ярмарка-єва (1)](https://mpz.brovary.org/wp-content/uploads/2015/05/yarmarka-yeva-1-e1432571018914.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/05/yarmarka-yeva-1.jpg)
 

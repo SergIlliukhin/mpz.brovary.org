@@ -34,7 +34,7 @@ coverImage: "wp-content/uploads/2016/12/gatsko-ptashnyk-10.jpg"
 
 [![](https://mpz.brovary.org/wp-content/uploads/2016/12/gatsko-ptashnyk-17.jpg)](https://mpz.brovary.org/wp-content/uploads/2016/12/gatsko-ptashnyk-17.jpg)
 
-Головні "демальянсівці" зазначили, що великими реформами займаються великі партії влади, але вони можуть точково проводити корисні ініціативи, що вони й роблять. Зокрема, Вікторія Пташник згадала [закон 4496](http://www.pravda.com.ua/rus/news/2016/11/3/7125647/) "щодо усунення адміністративних бар'єрів для експорту послуг", який спростив умови роботи фрілансерів та їхніх грошових розрахунків.
+Головні "демальянсівці" зазначили, що великими реформами займаються великі партії влади, але вони можуть точково проводити корисні ініціативи, що вони й роблять. Зокрема, Вікторія Пташник згадала [закон 4496](https://www.pravda.com.ua/rus/news/2016/11/3/7125647/) "щодо усунення адміністративних бар'єрів для експорту послуг", який спростив умови роботи фрілансерів та їхніх грошових розрахунків.
 
 [![](https://mpz.brovary.org/wp-content/uploads/2016/12/gatsko-ptashnyk-13.jpg)](https://mpz.brovary.org/wp-content/uploads/2016/12/gatsko-ptashnyk-13.jpg)
 
@@ -42,8 +42,8 @@ coverImage: "wp-content/uploads/2016/12/gatsko-ptashnyk-10.jpg"
 
 [![](https://mpz.brovary.org/wp-content/uploads/2016/12/gatsko-ptashnyk-9.jpg)](https://mpz.brovary.org/wp-content/uploads/2016/12/gatsko-ptashnyk-9.jpg)
 
-Партія "Демократичний Альянс" створена у 2010 році та загалом спирається на середній клас. Влітку цього року на її базі було [створено](http://dem-alliance.org/news/demalyans-peretvoryuetsya-na-ob-ednavchu) так звану Платформу єднання, замість одного голови (Василь Гацько) було обрано співголів та правління (близько 10 осіб, зокрема до нової політсили увійшли Мустафа Найем та Сергій Лещенко). У Броварській міській раді партія представлена **3** депутатами (Андрій Саук, Олег Берестовий та [донедавна](https://mpz.brovary.org/andrij-vasylenko-alina-dyachenko-bilshe-ne-deputaty/) Аліна Дяченко - на заміну їй до міськради вже скоро зайде Сергій Іллюхін).
+Партія "Демократичний Альянс" створена у 2010 році та загалом спирається на середній клас. Влітку цього року на її базі було [створено](https://dem-alliance.org/news/demalyans-peretvoryuetsya-na-ob-ednavchu) так звану Платформу єднання, замість одного голови (Василь Гацько) було обрано співголів та правління (близько 10 осіб, зокрема до нової політсили увійшли Мустафа Найем та Сергій Лещенко). У Броварській міській раді партія представлена **3** депутатами (Андрій Саук, Олег Берестовий та [донедавна](https://mpz.brovary.org/andrij-vasylenko-alina-dyachenko-bilshe-ne-deputaty/) Аліна Дяченко - на заміну їй до міськради вже скоро зайде Сергій Іллюхін).
 
-> Відео із зустрічі можна подивтися за [посиланням](http://brovary.dem-alliance.org/zustrich-zi-spivgolovamy-demalyansu-viktoriyeyu-ptashnyk-ta-vasylem-gatskom/).
+> Відео із зустрічі можна подивтися за [посиланням](https://brovary.dem-alliance.org/zustrich-zi-spivgolovamy-demalyansu-viktoriyeyu-ptashnyk-ta-vasylem-gatskom/).
 
 **Фото - Світлана Яцив**

@@ -30,7 +30,7 @@ coverImage: "wp-content/uploads/2016/11/1024px-Brovary_blok-post.jpg"
 
 [![yevromajdan-gidnosti-2016_00010](https://mpz.brovary.org/wp-content/uploads/2016/11/YEvromajdan-Gidnosti-2016_00010.jpg)](https://mpz.brovary.org/wp-content/uploads/2016/11/YEvromajdan-Gidnosti-2016_00010.jpg)
 
-Раніше відділ культури Броварської міської ради також [проанонсував](http://www.kulturabr.kiev.ua/content/den-gidnosti-ta-svobody-pokladannya-kvitiv-do-pamyatnogo-znaku-geroya-nebesnoyi-sotni) покладання квітів до пам’ятних знаків на майдані Свободи. Однак, у вказаний час жодні офіційні делегації до меморіалів не підходили.
+Раніше відділ культури Броварської міської ради також [проанонсував](https://www.kulturabr.kiev.ua/content/den-gidnosti-ta-svobody-pokladannya-kvitiv-do-pamyatnogo-znaku-geroya-nebesnoyi-sotni) покладання квітів до пам’ятних знаків на майдані Свободи. Однак, у вказаний час жодні офіційні делегації до меморіалів не підходили.
 
 [![yevromajdan-gidnosti-2016_00002](https://mpz.brovary.org/wp-content/uploads/2016/11/YEvromajdan-Gidnosti-2016_00002.jpg)](https://mpz.brovary.org/wp-content/uploads/2016/11/YEvromajdan-Gidnosti-2016_00002.jpg)
 

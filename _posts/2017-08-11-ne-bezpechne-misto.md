@@ -52,9 +52,9 @@ coverImage: "wp-content/uploads/2017/08/20786292_1410358892334204_1985412578_n.j
 1. Encyclopedia of Crime and Justice // Prevention: Police Role.
 2. Джекобс Д. Смерть и жизнь больших американских городов / Пер. с англ. – М.: Новое издательство, 2011.
 3. Newman O. Defensible space: crime prevention through urban design / Newman. – New York: Macmillan, 1972.
-4. Wilson J.Q., Kelling G. L. Broken Windows // The police and neighborhood safety. [http://www.manhattan-institute.org/pdf/\_atlantic\_monthly-broken\_windows.pdf](http://www.manhattan-institute.org/pdf/_atlantic_monthly-broken_windows.pdf)
+4. Wilson J.Q., Kelling G. L. Broken Windows // The police and neighborhood safety. [https://www.manhattan-institute.org/pdf/\_atlantic\_monthly-broken\_windows.pdf](https://www.manhattan-institute.org/pdf/_atlantic_monthly-broken_windows.pdf)
 5. Newman O. Creating defensible space / O. Newman. – Washington, D.C.: U.S. Department of Housing and Urban Development, Office of Policy Development and Research, 1996.
-6. Grönlund B. Sibeliusparken Crime Prevention / Rødovre (Denmark): Bo Grönlund [http://www.veilig-ontwerp-beheer.nl/publicaties/sibeliusparken-rodovre-denmark/view](http://www.veilig-ontwerp-beheer.nl/publicaties/sibeliusparken-rodovre-denmark/view)
+6. Grönlund B. Sibeliusparken Crime Prevention / Rødovre (Denmark): Bo Grönlund [https://www.veilig-ontwerp-beheer.nl/publicaties/sibeliusparken-rodovre-denmark/view](https://www.veilig-ontwerp-beheer.nl/publicaties/sibeliusparken-rodovre-denmark/view)
 7. Шнайдер Г. Криминология.М., 1994. С. 219.
 8. О массовых беспорядках в Великобритании // Борьба с преступностью за рубежом. 1993. №3.
 9. Van Dijk J. Crime across the World. Boston, 1991.

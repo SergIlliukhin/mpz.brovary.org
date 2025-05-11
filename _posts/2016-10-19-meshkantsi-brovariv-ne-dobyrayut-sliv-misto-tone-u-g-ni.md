@@ -27,7 +27,7 @@ coverImage: "wp-content/uploads/2016/10/Proryv_Grushevskogo_GNS_00024.jpg"
 
 [![14721634_1305145686185728_1825377445417521221_n](https://mpz.brovary.org/wp-content/uploads/2016/10/14721634_1305145686185728_1825377445417521221_n.jpg)](https://mpz.brovary.org/wp-content/uploads/2016/10/14721634_1305145686185728_1825377445417521221_n.jpg)
 
-Як [повідомляє](http://brovary.net.ua/reportazhi/kanalizatsiyu-prorvalo-i-vulytsi-grushevskogo/) видання "Трибуна Бровари",  на перехресті Грушевського та Героїв Небесної сотні вода тече з трьох люків, а у повітрі відчувається сморід.
+Як [повідомляє](https://brovary.net.ua/reportazhi/kanalizatsiyu-prorvalo-i-vulytsi-grushevskogo/) видання "Трибуна Бровари",  на перехресті Грушевського та Героїв Небесної сотні вода тече з трьох люків, а у повітрі відчувається сморід.
 
 <iframe src="https://www.youtube.com/embed/YNeChGH1fkg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 

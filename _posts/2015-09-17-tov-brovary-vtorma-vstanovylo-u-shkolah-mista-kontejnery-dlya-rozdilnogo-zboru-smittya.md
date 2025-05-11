@@ -17,7 +17,7 @@ tags:
   - "shkoli"
 ---
 
-**[ТОВ "Бровари-Вторма"](http://www.vtorma.ua/news/konteyneri-dlya-rozdilnogo-zboru-smittya-kozhniy-s-6.html) встановило у всіх школах міста контейнери для роздільного збору сміття. У сітку-контейнер пропонується збирати відходи, які підлягають вторинній переробці: папір, пластик, плівку. Звільняти від сміття контейнери будуть по мірі наповнюваності.**
+**[ТОВ "Бровари-Вторма"](https://www.vtorma.ua/news/konteyneri-dlya-rozdilnogo-zboru-smittya-kozhniy-s-6.html) встановило у всіх школах міста контейнери для роздільного збору сміття. У сітку-контейнер пропонується збирати відходи, які підлягають вторинній переробці: папір, пластик, плівку. Звільняти від сміття контейнери будуть по мірі наповнюваності.**
 
 \[caption id="attachment\_45611" align="aligncenter" width="375"\][![konteyneri-dlya-rozdilnogo-zboru-smittya-kozhniy-s-9350-r500x500](https://mpz.brovary.org/wp-content/uploads/2015/09/konteyneri-dlya-rozdilnogo-zboru-smittya-kozhniy-s-9350-r500x500.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/09/konteyneri-dlya-rozdilnogo-zboru-smittya-kozhniy-s-9350-r500x500.jpg) 60 кг макулатури зберігає одне дерево\[/caption\]
 

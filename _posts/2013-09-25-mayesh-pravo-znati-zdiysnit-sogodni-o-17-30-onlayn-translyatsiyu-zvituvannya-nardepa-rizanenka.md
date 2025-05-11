@@ -19,7 +19,7 @@ tags:
 coverImage: "wp-content/uploads/2013/09/Onlayn.jpg"
 ---
 
-**[![Онлайн](https://mpz.brovary.org/wp-content/uploads/2013/09/Onlayn.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/09/Onlayn.jpg)Команда "Маєш право знати" проведе пряму онлайн-трансляцію звітування народного депутата України Павла Різаненка, яке [відбудеться](https://mpz.brovary.org/25-veresnya-narodniy-deputat-pavlo-rizanenko-zvituvatime-pered-brovarchanami/) сьогодні, 25 вересня, з 17:30 до 19:30. У режимі реального часу за звітуванням можна буде спостерігати на нашому [ustream-каналі](http://www.ustream.tv/channel/pravoznaty) або у [розділі "Онлайн-трансляції"](https://mpz.brovary.org/online) на сайті.**
+**[![Онлайн](https://mpz.brovary.org/wp-content/uploads/2013/09/Onlayn.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/09/Onlayn.jpg)Команда "Маєш право знати" проведе пряму онлайн-трансляцію звітування народного депутата України Павла Різаненка, яке [відбудеться](https://mpz.brovary.org/25-veresnya-narodniy-deputat-pavlo-rizanenko-zvituvatime-pered-brovarchanami/) сьогодні, 25 вересня, з 17:30 до 19:30. У режимі реального часу за звітуванням можна буде спостерігати на нашому [ustream-каналі](https://www.ustream.tv/channel/pravoznaty) або у [розділі "Онлайн-трансляції"](https://mpz.brovary.org/online) на сайті.**
 
 Як повідомили у громадській приймальні депутата, Павло Різаненко розповість виборцям про свою роботу на першій та другій сесіях Верховної Ради України VII скликання. Усіх бажаючих почути звіт народного обранця та поставити йому свої запитання організатори зустрічі запрошують до актової зали ЗОШ № 7 (вул. Гагаріна, 23а).
 

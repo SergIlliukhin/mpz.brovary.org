@@ -22,7 +22,7 @@ tags:
 coverImage: "wp-content/uploads/2016/10/14682080_10210546570122272_8141164871771626194_o.jpg"
 ---
 
-**13 жовтня мешканці Броварів, що виступають проти забудови на місці лісопаркової зони на розі Симоненка-Чорновола, провели [прес-конференцію](http://press.unian.net/press/1570997-jiteli-brovarov-namerenyi-trebovat-v-sude-otmenyi-stroitelstva-jilogo-kompleksa-na-territorii-sosnovogo-lesa.html) в УНІАН. Про це [зазначають](http://save.brovary.org/pres-konferentsiya-v-unian/) активісти на новоствореному сайті save.brovary.org.**
+**13 жовтня мешканці Броварів, що виступають проти забудови на місці лісопаркової зони на розі Симоненка-Чорновола, провели [прес-конференцію](https://press.unian.net/press/1570997-jiteli-brovarov-namerenyi-trebovat-v-sude-otmenyi-stroitelstva-jilogo-kompleksa-na-territorii-sosnovogo-lesa.html) в УНІАН. Про це [зазначають](https://save.brovary.org/pres-konferentsiya-v-unian/) активісти на новоствореному сайті save.brovary.org.**
 
 Перед журналістами виступили члени ініціативної групи **Павло Дубленич**, **Микола Ткач, Людмила Черних**, а також юристка та правозахисниця **Анна Малиновська**, архітектор **Ірина Нікітчина** та депутат міської ради **Андрій Саук** (ДемАльянс).
 

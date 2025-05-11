@@ -16,7 +16,7 @@ tags:
 coverImage: "wp-content/uploads/2013/01/collage1.jpg"
 ---
 
-**[![](https://mpz.brovary.org/wp-content/uploads/2013/01/collage1.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/01/collage1.jpg)На сайті Броварської міської ради [оприлюднено](http://docs.brovary.org/p6617/25.01.2013) проект нового статуту КП «Оздоровчо-реабілітаційний центр», відповідно до якого територіальна громада майже повністю втрачає контроль над басейном «Схід» (школа №9), а школярі більше не зможуть відвідувати басейн в рамках шкільної програми.**
+**[![](https://mpz.brovary.org/wp-content/uploads/2013/01/collage1.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/01/collage1.jpg)На сайті Броварської міської ради [оприлюднено](https://docs.brovary.org/p6617/25.01.2013) проект нового статуту КП «Оздоровчо-реабілітаційний центр», відповідно до якого територіальна громада майже повністю втрачає контроль над басейном «Схід» (школа №9), а школярі більше не зможуть відвідувати басейн в рамках шкільної програми.**
 
 Ще не так давно ми раділи тому, що прокуратура таки [взялася за порушення](https://mpz.brovary.org/prokuratura-viyavila-porushennya-u-roboti-kp-ozdorovcho-reabilitatsiyniy-tsentr/) з боку КП «Оздоровчо-реабілітаційний центр» (далі – КП ОРЦ) і визнала, що підприємство проводить свою діяльність з порушенням закону.
 
@@ -51,4 +51,4 @@ _Порівняльна таблиця_ \[table\]
 
 **Броварчани, однодумці, ми збираємось це терпіти? Я - ні!**
 
-\[spoiler title="Довідкова інформація" open="0" style="2"\] - [Діючий статут](https://mpz.brovary.org/wp-content/uploads/2012/11/Statut.pdf) КП ОРЦ 2004 р. - [Проект статуту](http://docs.brovary.org/f?u=https%3A%2F%2Fskydrive.live.com%2Fredir%3Fresid%3D72571393D4771099!281%26amp%3Bauthkey%3D!AChK93KWlgXFf0A) КП ОРЦ 2013 р. \[/spoiler\]
+\[spoiler title="Довідкова інформація" open="0" style="2"\] - [Діючий статут](https://mpz.brovary.org/wp-content/uploads/2012/11/Statut.pdf) КП ОРЦ 2004 р. - [Проект статуту](https://docs.brovary.org/f?u=https%3A%2F%2Fskydrive.live.com%2Fredir%3Fresid%3D72571393D4771099!281%26amp%3Bauthkey%3D!AChK93KWlgXFf0A) КП ОРЦ 2013 р. \[/spoiler\]

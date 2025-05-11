@@ -15,4 +15,4 @@ tags:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3IeZav5eyMA" frameborder="0" allowfullscreen></iframe>
 
-**Камера:** [Павло Різаненко](http://rizanenko.org "Павло Різаненко")
+**Камера:** [Павло Різаненко](https://rizanenko.org "Павло Різаненко")

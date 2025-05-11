@@ -54,7 +54,7 @@ coverImage: "wp-content/uploads/2016/12/zvit-demalyansu-1.jpg"
 - [**Форум ОСББ**](https://mpz.brovary.org/forum-osbb-u-brovarah-zibrav-ekspertiv-ta-novachkiv-dlya-navchannya-ta-obminu-dosvidom/): подія всеукраїнського рівня в Броварах, на якому розповідали про заснування та розвиток ОСББ та як керувати спільним майном.
 - **Комплексна програма розвитку [«Молодь 2020»](https://mpz.brovary.org/brovarska-molod-na-odyn-den-peretvoryly-miskradu-u-world-cafe/)**, яка була розроблена разом з молодіжними організаціями міста. Але, на жаль, влада не виділяє бюджет на цю програму.
 - **Рекреаційні зони**: команда активно бере [участь](https://mpz.brovary.org/brovarskyh-deputativ-na-sesiyi-prosyly-zberegty-lis-foto/) з активістами міста у заходах із збереження лісових насаджень на розі вулиць Чорновола/Симоненка (парк «Сосновий»), продовжує роботи над [стратегією](https://mpz.brovary.org/rezultaty-opytuvannya-v-parku-tak-zoni-relaksu-ni-pam-yatnykam-ta-kafe-foto/) розвитку парку «Перемога» із залученням кращих в Україні експертів з урбаністики.
-- **Електронні сервіси**: роботи над впровадженням [електронних петицій](http://petition.brovary.org/) та онлайн державних послуг IGov.
+- **Електронні сервіси**: роботи над впровадженням [електронних петицій](https://petition.brovary.org/) та онлайн державних послуг IGov.
 - **Громадські ініціативи**: розвиток та підтримка освітніх та волонтерських проектів «English speaking club», «Java-курси», «Школа ОСББ», «Let’s do it, Ukraine», «Відеопрозорість» та інше.
 
 [![zvit-demalyansu-10](https://mpz.brovary.org/wp-content/uploads/2016/12/zvit-demalyansu-10.jpg)](https://mpz.brovary.org/wp-content/uploads/2016/12/zvit-demalyansu-10.jpg)

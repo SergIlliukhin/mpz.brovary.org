@@ -31,7 +31,7 @@ coverImage: "wp-content/uploads/2015/08/DSC_0491-1024x680.jpg"
 
 <iframe src="https://www.youtube.com/embed/uq_mEvB7DZ8" width="420" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-Днями Самопоміч [оприлюднила імена своїх потенційних кандидатів](http://samopomich.ua/vybory2015/#kyiv) на місцеві вибори майже в кожному регіоні України. Є серед них і Київська область, однак розділ «Бровари» - на відміну від інших міст Київщини – досі порожній.
+Днями Самопоміч [оприлюднила імена своїх потенційних кандидатів](https://samopomich.ua/vybory2015/#kyiv) на місцеві вибори майже в кожному регіоні України. Є серед них і Київська область, однак розділ «Бровари» - на відміну від інших міст Київщини – досі порожній.
 
 [![smpmch2](https://mpz.brovary.org/wp-content/uploads/2015/08/smpmch2.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/08/smpmch2.jpg)
 

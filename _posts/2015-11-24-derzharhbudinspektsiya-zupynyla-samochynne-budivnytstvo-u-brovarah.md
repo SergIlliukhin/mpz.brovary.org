@@ -13,7 +13,7 @@ tags:
   - "novini"
 ---
 
-**Департамент Держархбудінспекції у Київській області [повідомляє](http://www.dabi.gov.ua/index.php/pres-sluzhba/novini/1579-u-brovarakh-dabi-zupinila-samochinne-budivnitstvo), що зупинив виконання самочинних будівельних робіт у м. Бровари по вул. Василя Симоненка, 41. Саме за цією адресою [проводив будівництво](https://mpz.brovary.org/roman-bagmut-nezakonno-buduye-bagatopoverhivku-v-pryvatnomu-sektori-susidy-shokovani/) Роман Багмут, на якого скаржилися сусіди.**
+**Департамент Держархбудінспекції у Київській області [повідомляє](https://www.dabi.gov.ua/index.php/pres-sluzhba/novini/1579-u-brovarakh-dabi-zupinila-samochinne-budivnitstvo), що зупинив виконання самочинних будівельних робіт у м. Бровари по вул. Василя Симоненка, 41. Саме за цією адресою [проводив будівництво](https://mpz.brovary.org/roman-bagmut-nezakonno-buduye-bagatopoverhivku-v-pryvatnomu-sektori-susidy-shokovani/) Роман Багмут, на якого скаржилися сусіди.**
 
 На підставі звернення виконавчого комітету Броварської міської ради та колективного звернення жителів м. Бровари ДАБІ здійснила позапланову перевірку на вказаному об’єкті та виявила, що замовник будівництва влаштував збірний стрічковий монолітний залізобетонний фундамент без отримання документа, що надає право на виконання будівельних робіт.
 

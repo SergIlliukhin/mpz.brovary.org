@@ -109,4 +109,4 @@ coverImage: "wp-content/uploads/2015/06/pidtoplennya-Malofiyenko-82.jpg"
 
 [![підтоплення-Малофієнко (5)](https://mpz.brovary.org/wp-content/uploads/2015/06/pidtoplennya-Malofiyenko-51.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/06/pidtoplennya-Malofiyenko-51.jpg)
 
-**Фото - [Микола Кожемяко](http://fotokray.com.ua)**
+**Фото - [Микола Кожемяко](https://fotokray.com.ua)**

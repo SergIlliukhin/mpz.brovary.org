@@ -31,8 +31,8 @@ coverImage: "wp-content/uploads/2015/03/tUtDrfSWJ9I.jpg"
 -   **_Благодійний фонд розвитку громад «Лівобережна_** **_Київщина»_** - [www.elbook.net](www.elbook.net)
 -   **_Доставка питної води "Айсберг"_** _068-0-190-190_
 -   **_Крамничка натуральної SPA-косметики та засобів догляду "Зелена Роса"-_** [vk.com/club75208525](vk.com/club75208525)
--  **_Міжнародне бюро подорожей_** - [uaibt.com](http://uaibt.com)
--  **_Студія ИДЕЯ_** - [ideas.kiev.ua](http://ideas.kiev.ua)
+-  **_Міжнародне бюро подорожей_** - [uaibt.com](https://uaibt.com)
+-  **_Студія ИДЕЯ_** - [ideas.kiev.ua](https://ideas.kiev.ua)
 -  **_Фонд громад Броварщини_** - [vk.com/club67856952](vk.com/club67856952)
 -   **_Lita Akhmetova. Portable art, personal totems_** - [vk.com/lita\_yeah](vk.com/lita_yeah)
 

@@ -19,7 +19,7 @@ coverImage: "wp-content/uploads/2016/12/peremogy-ta-zrady-molodi-demokra.jpg"
 
 > Міжнародні обміни:
 
-5 членів нашої організації взяли участь у молодіжних міжнародних обмінах до Грузії ["Theatre: Express yourself. It's time to play your role"](http://molod-da.org/events/event.php?id=3357), та Естонії [“Don\`t tweet try to communicate"](http://molod-da.org/events/event.php?id=3349&return_page=&region=)по програмі Еразмус.
+5 членів нашої організації взяли участь у молодіжних міжнародних обмінах до Грузії ["Theatre: Express yourself. It's time to play your role"](https://molod-da.org/events/event.php?id=3357), та Естонії [“Don\`t tweet try to communicate"](https://molod-da.org/events/event.php?id=3349&return_page=&region=)по програмі Еразмус.
 
 > Міжнародна конференція:
 
@@ -76,7 +76,7 @@ coverImage: "wp-content/uploads/2016/12/peremogy-ta-zrady-molodi-demokra.jpg"
 
 > Благодійність:
 
-Ми зібрали 6605 грн шляхом онлайн [аукціону побачень](https://vk.com/event113495088) для [Благодійного фонду допомоги онкохворим "Інна"](http://www.fond-inna.org/), зібрали 996 грн для маленького хлопчика Єгора з діагнозом - порок серця, 300 грн зібрали для [Єви з мієлоїдним лейкозом.](http://photofixation.wixsite.com/evadyachenko)
+Ми зібрали 6605 грн шляхом онлайн [аукціону побачень](https://vk.com/event113495088) для [Благодійного фонду допомоги онкохворим "Інна"](https://www.fond-inna.org/), зібрали 996 грн для маленького хлопчика Єгора з діагнозом - порок серця, 300 грн зібрали для [Єви з мієлоїдним лейкозом.](https://photofixation.wixsite.com/evadyachenko)
 
 > [Вуличні покази кінофільмів:](https://www.facebook.com/KiwiKino-292837514439664/?fref=ts)
 

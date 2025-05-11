@@ -51,4 +51,4 @@ Bloom Twins відкривали усі шоу та були чудово при
 
 Зараз Bloom Twins працюють над власним репертуаром. Навесні близнята з Броварів обіцяють випустити свій черговий сингл, слідом за ним - дебютний EP (extended play) мініальбом, а восени у співачок запланований вихід повноцінного альбому.
 
-_За матеріалами ["Обозреватель"](http://show.obozrevatel.com/), офіційного сайту [Duran Duran](http://www.duranduran.com/wordpress/2016/nick-and-bloom-twins/), [Kyiv Music Labs](http://kyivmusiclabs.com/2016/02/18/%D1%89%D0%BE%D0%B4%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8-%D1%82%D1%83%D1%80%D1%83-bloom-twins-%D0%B7-duran-duran/) та [Facebook-сторінки Bloom Twins](https://www.facebook.com/TheBloomTwins/)_
+_За матеріалами ["Обозреватель"](https://show.obozrevatel.com/), офіційного сайту [Duran Duran](https://www.duranduran.com/wordpress/2016/nick-and-bloom-twins/), [Kyiv Music Labs](https://kyivmusiclabs.com/2016/02/18/%D1%89%D0%BE%D0%B4%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8-%D1%82%D1%83%D1%80%D1%83-bloom-twins-%D0%B7-duran-duran/) та [Facebook-сторінки Bloom Twins](https://www.facebook.com/TheBloomTwins/)_

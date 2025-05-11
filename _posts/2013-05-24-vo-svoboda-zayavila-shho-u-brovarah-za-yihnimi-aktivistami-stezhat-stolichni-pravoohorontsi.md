@@ -15,9 +15,9 @@ tags:
 coverImage: "wp-content/uploads/2013/05/kartu-narusheniy-vo-vremya-parlamentskikh-vyborakh.jpg"
 ---
 
-[![kartu-narusheniy-vo-vremya-parlamentskikh-vyborakh](https://mpz.brovary.org/wp-content/uploads/2013/05/kartu-narusheniy-vo-vremya-parlamentskikh-vyborakh.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/05/kartu-narusheniy-vo-vremya-parlamentskikh-vyborakh.jpg)**За активістами Броварської районної організації ВО «Свобода» встановлено стеження, несанкціоновано прослуховують їхні мобільні телефони, [повідомляє](http://www.pravda.com.ua/news/2013/05/24/6990618/) «Українська правда» із посиланням на прес-службу партії.**
+[![kartu-narusheniy-vo-vremya-parlamentskikh-vyborakh](https://mpz.brovary.org/wp-content/uploads/2013/05/kartu-narusheniy-vo-vremya-parlamentskikh-vyborakh.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/05/kartu-narusheniy-vo-vremya-parlamentskikh-vyborakh.jpg)**За активістами Броварської районної організації ВО «Свобода» встановлено стеження, несанкціоновано прослуховують їхні мобільні телефони, [повідомляє](https://www.pravda.com.ua/news/2013/05/24/6990618/) «Українська правда» із посиланням на прес-службу партії.**
 
-Як [повідомляє](http://www.kyiv.svoboda.org.ua/diyalnist/novyny/039383/) «Свобода», 22 травня у Броварах київський активіст партії, який приїхав до родичів, помітив, що біля будинку, де він перебував, чатували підозрілі особи. Вони ще зранку розпитували сусідів та рідних про свободівця.
+Як [повідомляє](https://www.kyiv.svoboda.org.ua/diyalnist/novyny/039383/) «Свобода», 22 травня у Броварах київський активіст партії, який приїхав до родичів, помітив, що біля будинку, де він перебував, чатували підозрілі особи. Вони ще зранку розпитували сусідів та рідних про свободівця.
 
 Прибувши на допомогу побратиму, націоналісти місцевої районної Броварської «Свободи», а також журналіст «Маєш право знати», що дізнався про стеження, «відлякали» підозрілих осіб фото- та відеокамерами. Ті спішно сіли в автівку (номерний знак: СА 5575 ВС) і забралися геть. Активісти також зазначили, що під час перебування невідомих біля під'їзду, на місці та у будинку був відсутній мобільний зв'язок.
 

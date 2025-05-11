@@ -28,13 +28,13 @@ coverImage: "wp-content/uploads/2013/05/f73uAtKHuNE.jpg"
 
 Зарядку проводили чемпіони України, Європи та світу, Олімпійські чемпіони серед яких Ірина Мерлені, Сергій Бреус, Людмила Блонська, Яна Сидоренко та інші. Про деякі зарядки ви можете дізнатись з репортажів АфішіБровари:
 
-Бойова зарядка - [http://afisha-brovary.net/index.php?option=com\_zoo&task=item&item\_id=3121&Itemid=112](http://afisha-brovary.net/index.php?option=com_zoo&task=item&item_id=3121&Itemid=112)
+Бойова зарядка - [https://afisha-brovary.net/index.php?option=com\_zoo&task=item&item\_id=3121&Itemid=112](https://afisha-brovary.net/index.php?option=com_zoo&task=item&item_id=3121&Itemid=112)
 
-Танці під дощем - [http://afisha-brovary.net/index.php?option=com\_zoo&task=item&item\_id=3237&Itemid=112](http://afisha-brovary.net/index.php?option=com_zoo&task=item&item_id=3237&Itemid=112)
+Танці під дощем - [https://afisha-brovary.net/index.php?option=com\_zoo&task=item&item\_id=3237&Itemid=112](https://afisha-brovary.net/index.php?option=com_zoo&task=item&item_id=3237&Itemid=112)
 
-Зарядка справжніх плавців - [http://afisha-brovary.net/index.php?option=com\_zoo&task=item&item\_id=3312&Itemid=110](http://afisha-brovary.net/index.php?option=com_zoo&task=item&item_id=3312&Itemid=110)
+Зарядка справжніх плавців - [https://afisha-brovary.net/index.php?option=com\_zoo&task=item&item\_id=3312&Itemid=110](https://afisha-brovary.net/index.php?option=com_zoo&task=item&item_id=3312&Itemid=110)
 
-Всеміська зарядка з Іриною Мерлені - [http://afisha-brovary.net/index.php?option=com\_zoo&task=item&item\_id=3540&Itemid=112](http://afisha-brovary.net/index.php?option=com_zoo&task=item&item_id=3540&Itemid=112)
+Всеміська зарядка з Іриною Мерлені - [https://afisha-brovary.net/index.php?option=com\_zoo&task=item&item\_id=3540&Itemid=112](https://afisha-brovary.net/index.php?option=com_zoo&task=item&item_id=3540&Itemid=112)
 
 А також відео та фотографії із зарядок є у групі вк: [https://vk.com/mobi\_groza](https://vk.com/mobi_groza)
 

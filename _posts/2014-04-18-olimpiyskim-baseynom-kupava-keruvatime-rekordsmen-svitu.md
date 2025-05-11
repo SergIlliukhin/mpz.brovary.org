@@ -16,7 +16,7 @@ coverImage: "wp-content/uploads/2014/04/breus3.jpg"
 
 <iframe src="//www.youtube.com/embed/0hRC-uorPTU" height="315" width="560" allowfullscreen frameborder="0"></iframe>
 
-[**Відкрита статистика, взята із сайту kupava.cobat.com.ua**](http://kupava.cobat.com.ua/statistic)
+[**Відкрита статистика, взята із сайту kupava.cobat.com.ua**](https://kupava.cobat.com.ua/statistic)
 
 [![tabl_test1](https://mpz.brovary.org/wp-content/uploads/2014/04/tabl_test1.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/04/tabl_test1.jpg)
 
@@ -28,7 +28,7 @@ coverImage: "wp-content/uploads/2014/04/breus3.jpg"
 
 [![результати купава05](https://mpz.brovary.org/wp-content/uploads/2014/04/rezultati-kupava05.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/04/rezultati-kupava05.jpg)
 
-Зрештою, координатор самого процесу громадського обговорення **Олександр Тарасов** заявив, що кожен, хто взяв участь в опитуванні і пройшов реєстрацію на сайті, де відбувалось голосування, може ознайомитись із [протоколом](http://kupava.cobat.com.ua/protocol) голосування. В даному протоколі, зі слів Тарасова та ІТ-спеціаліста, котрий безпосередньо проводив підрахунок, в даному протоколі вказані всі прийняті голоси (із зазначенням частини персональних даних), а також голоси, котрі не були враховані – із вказанням причини, чому їх не зарахували.
+Зрештою, координатор самого процесу громадського обговорення **Олександр Тарасов** заявив, що кожен, хто взяв участь в опитуванні і пройшов реєстрацію на сайті, де відбувалось голосування, може ознайомитись із [протоколом](https://kupava.cobat.com.ua/protocol) голосування. В даному протоколі, зі слів Тарасова та ІТ-спеціаліста, котрий безпосередньо проводив підрахунок, в даному протоколі вказані всі прийняті голоси (із зазначенням частини персональних даних), а також голоси, котрі не були враховані – із вказанням причини, чому їх не зарахували.
 
 [![результати купава10](https://mpz.brovary.org/wp-content/uploads/2014/04/rezultati-kupava10.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/04/rezultati-kupava10.jpg)
 

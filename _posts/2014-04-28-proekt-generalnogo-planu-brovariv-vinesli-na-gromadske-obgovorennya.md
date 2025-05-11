@@ -15,7 +15,7 @@ tags:
 coverImage: "wp-content/uploads/2014/04/genplan-kartinka.jpg"
 ---
 
-**[![генплан картинка](https://mpz.brovary.org/wp-content/uploads/2014/04/genplan-kartinka.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/04/genplan-kartinka.jpg)25 квітня на офіційному веб-сайті міськради [оприлюднили](http://brovary.kiev.ua/pov%D1%96domlennya-pro-oprilyudnennya-p%D1%96d-chas-rozroblennya-na-m%D1%96stsevomu-r%D1%96vn%D1%96-proektu-m%D1%96stobud%D1%96vno%D1%97-d-0) проект «Генерального плану міста Бровари Київської області». Документ, який довгий час залишався недоступним для громадськості, нині проходить широке обговорення для врахування інтересів броварчан.**
+**[![генплан картинка](https://mpz.brovary.org/wp-content/uploads/2014/04/genplan-kartinka.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/04/genplan-kartinka.jpg)25 квітня на офіційному веб-сайті міськради [оприлюднили](https://brovary.kiev.ua/pov%D1%96domlennya-pro-oprilyudnennya-p%D1%96d-chas-rozroblennya-na-m%D1%96stsevomu-r%D1%96vn%D1%96-proektu-m%D1%96stobud%D1%96vno%D1%97-d-0) проект «Генерального плану міста Бровари Київської області». Документ, який довгий час залишався недоступним для громадськості, нині проходить широке обговорення для врахування інтересів броварчан.**
 
 Як сказано у повідомленні, ознайомитись з проектом містобудівної документації «Генеральний план міста Бровари Київської області» можна на [офіційному сайті Броварської міської ради](https://onedrive.live.com/redir?resid=72571393D4771099!1753&authkey=!AGBPozf_d1G_PHE&v=3&ithint=photo%2c.jpg), а також в приміщені виконавчого комітету Броварської міської ради протягом місяця.
 

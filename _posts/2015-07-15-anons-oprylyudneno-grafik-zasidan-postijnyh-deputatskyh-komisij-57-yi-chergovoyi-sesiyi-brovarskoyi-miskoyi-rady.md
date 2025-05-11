@@ -16,7 +16,7 @@ tags:
 coverImage: "wp-content/uploads/2012/07/gerb-Brovari.jpg"
 ---
 
-****На офіційному веб-сайті Броварської міської ради [оприлюднено](http://www.brovary.kiev.ua/ogoloshennya-pro-graf%D1%96k-zas%D1%96dan-post%D1%96inikh-deputatskikh-kom%D1%96s%D1%96i-brovarsko%D1%97-m%D1%96sko%D1%97-radi) графік засідань постійних депутатських комісій у рамках 57-ї чергової сесії міськради. [Нагадаємо](https://mpz.brovary.org/6-serpnya-vidbudetsya-56-a-chergova-sesiya-brovarskoyi-miskoyi-rady/), саме пленарне засідання Броварської міської ради відбудеться 6 серпня 2015 року о 14:00, на розгляд депутатів виноситься 45 питань порядку денного.****
+****На офіційному веб-сайті Броварської міської ради [оприлюднено](https://www.brovary.kiev.ua/ogoloshennya-pro-graf%D1%96k-zas%D1%96dan-post%D1%96inikh-deputatskikh-kom%D1%96s%D1%96i-brovarsko%D1%97-m%D1%96sko%D1%97-radi) графік засідань постійних депутатських комісій у рамках 57-ї чергової сесії міськради. [Нагадаємо](https://mpz.brovary.org/6-serpnya-vidbudetsya-56-a-chergova-sesiya-brovarskoyi-miskoyi-rady/), саме пленарне засідання Броварської міської ради відбудеться 6 серпня 2015 року о 14:00, на розгляд депутатів виноситься 45 питань порядку денного.****
 
 **У четвер, 30 липня 2015 року о 10:00** відбудеться засідання постійної комісії Броварської міської ради з питань освіти, науки, культури та релігії.
 

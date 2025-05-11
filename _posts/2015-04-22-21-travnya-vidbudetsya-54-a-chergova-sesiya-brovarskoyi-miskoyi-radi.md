@@ -16,80 +16,80 @@ tags:
 coverImage: "wp-content/uploads/2012/07/gerb-Brovari.jpg"
 ---
 
-**[![герб Бровари](https://mpz.brovary.org/wp-content/uploads/2012/07/gerb-Brovari.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/07/gerb-Brovari.jpg)21 травня 2015 року о 14:00 у приміщенні малої зали броварського міськвиконкому (вул. Гагаріна, 15) відбудеться п’ятдесят четверта чергова сесія Броварської міської ради VІ скликання. Відповідне розпорядження міського голови опубліковано [на офіційному веб-сайті міськради.](http://www.brovary.kiev.ua/rozporyadzhennya-m%D1%96skogo-golovi-v%D1%96d-20042015-%E2%84%9664-od-pro-sklikannya-p%E2%80%99yatdesyat-chetverto%D1%97-chergovo%D1%97)**
+**[![герб Бровари](https://mpz.brovary.org/wp-content/uploads/2012/07/gerb-Brovari.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/07/gerb-Brovari.jpg)21 травня 2015 року о 14:00 у приміщенні малої зали броварського міськвиконкому (вул. Гагаріна, 15) відбудеться п’ятдесят четверта чергова сесія Броварської міської ради VІ скликання. Відповідне розпорядження міського голови опубліковано [на офіційному веб-сайті міськради.](https://www.brovary.kiev.ua/rozporyadzhennya-m%D1%96skogo-golovi-v%D1%96d-20042015-%E2%84%9664-od-pro-sklikannya-p%E2%80%99yatdesyat-chetverto%D1%97-chergovo%D1%97)**
 
 На розгляд депутатів виноситься більш ніж **36 питань порядку денного**:
 
-> 1.[Про надання дозволу на списання комунального   майна територіальної громади м. Бровари.](http://www.brovary.kiev.ua/proekt-r%D1%96shen-m%D1%96sko%D1%97-radi-pro-nadannya-dozvolu-na-spisannya-komunalnogo-maina-teritor%D1%96alno%D1%97-gromad-1)
+> 1.[Про надання дозволу на списання комунального   майна територіальної громади м. Бровари.](https://www.brovary.kiev.ua/proekt-r%D1%96shen-m%D1%96sko%D1%97-radi-pro-nadannya-dozvolu-na-spisannya-komunalnogo-maina-teritor%D1%96alno%D1%97-gromad-1)
 > 
-> 2.[Про приватизацію житлових приміщень гуртожитків.](http://www.brovary.kiev.ua/proekt-r%D1%96shen-m%D1%96sko%D1%97-radi-pro-privatizats%D1%96yu-zhitlovikh-prim%D1%96shchen-gurtozhitk%D1%96v-0)
+> 2.[Про приватизацію житлових приміщень гуртожитків.](https://www.brovary.kiev.ua/proekt-r%D1%96shen-m%D1%96sko%D1%97-radi-pro-privatizats%D1%96yu-zhitlovikh-prim%D1%96shchen-gurtozhitk%D1%96v-0)
 > 
 > 3.Про затвердження Програми  відшкодування витрат на утримання тимчасово вільних об’єктів комунальної власності територіальної громади м.Бровари.
 > 
-> 4.[Про безоплатне прийняття у комунальну власність територіальної громади м.Бровари  лічильника теплової енергії в житловому будинку по вул.Короленка,68-А.](http://www.brovary.kiev.ua/proekt-r%D1%96shen-m%D1%96sko%D1%97-radi-pro-bezoplatne-priinyattya-u-komunalnu-vlasn%D1%96st-teritor%D1%96alno%D1%97-gromadi-mb-0)
+> 4.[Про безоплатне прийняття у комунальну власність територіальної громади м.Бровари  лічильника теплової енергії в житловому будинку по вул.Короленка,68-А.](https://www.brovary.kiev.ua/proekt-r%D1%96shen-m%D1%96sko%D1%97-radi-pro-bezoplatne-priinyattya-u-komunalnu-vlasn%D1%96st-teritor%D1%96alno%D1%97-gromadi-mb-0)
 > 
 > 5.Про внесення змін в додаток до рішення Броварської міської ради від 25.12.2014 № 1348-50-06.
 > 
-> 6.[Про надання згоди на зняття з балансу комунального підприємства Броварської міської ради «Житлово-експлуатаційна контора-4» житлового будинку по вул.Лесі Українки,10.](http://www.brovary.kiev.ua/proekt-r%D1%96shen-m%D1%96sko%D1%97-radi-pro-nadannya-zgodi-na-znyattya-z-balansu-komunalnogo-p%D1%96dpri%D1%94mstva-brovarsk)
+> 6.[Про надання згоди на зняття з балансу комунального підприємства Броварської міської ради «Житлово-експлуатаційна контора-4» житлового будинку по вул.Лесі Українки,10.](https://www.brovary.kiev.ua/proekt-r%D1%96shen-m%D1%96sko%D1%97-radi-pro-nadannya-zgodi-na-znyattya-z-balansu-komunalnogo-p%D1%96dpri%D1%94mstva-brovarsk)
 > 
 > 7.Про безоплатне прийняття квартири № 35 по вул.Київський, 294 у комунальну власність територіальної громади м.Бровари.
 > 
-> 8.[Про передачу в орендне користування комунального майна, що перебуває у спільній сумісній власності територіальної громади міста Бровари Київської області та територіальних громад сіл та селищ Броварського району.](http://www.brovary.kiev.ua/proekt-r%D1%96shen-m%D1%96sko%D1%97-radi-pro-peredachu-v-orendne-koristuvannya-komunalnogo-maina-shcho-perebuva%D1%94-u)
+> 8.[Про передачу в орендне користування комунального майна, що перебуває у спільній сумісній власності територіальної громади міста Бровари Київської області та територіальних громад сіл та селищ Броварського району.](https://www.brovary.kiev.ua/proekt-r%D1%96shen-m%D1%96sko%D1%97-radi-pro-peredachu-v-orendne-koristuvannya-komunalnogo-maina-shcho-perebuva%D1%94-u)
 > 
-> 9.[Про внесення змін до договорів оренди комунального майна, що перебуває у спільній сумісній власності територіальної громади міста Бровари Київської області та територіальних громад сіл та селищ Броварського району.](http://www.brovary.kiev.ua/proekt-r%D1%96shen-m%D1%96sko%D1%97-radi-pro-vnesennya-zm%D1%96n-do-dogovor%D1%96v-orendi-komunalnogo-maina-shcho-perebuva%D1%94-u)
+> 9.[Про внесення змін до договорів оренди комунального майна, що перебуває у спільній сумісній власності територіальної громади міста Бровари Київської області та територіальних громад сіл та селищ Броварського району.](https://www.brovary.kiev.ua/proekt-r%D1%96shen-m%D1%96sko%D1%97-radi-pro-vnesennya-zm%D1%96n-do-dogovor%D1%96v-orendi-komunalnogo-maina-shcho-perebuva%D1%94-u)
 > 
-> 10.[Про внесення змін до Міської програми та розвитку об’єктів житлово-комунального господарства на 2011-2015 роки, затвердженої рішенням Броварської міської ради від 03.02.2011 № 127-06-06 із змінами та доповненнями.](http://www.brovary.kiev.ua/proekt-r%D1%96shen-m%D1%96sko%D1%97-radi-pro-vnesennya-zm%D1%96n-do-m%D1%96sko%D1%97-programi-utrimannya-ta-rozvitku-ob%E2%80%99%D1%94kt%D1%96v-zhit)
+> 10.[Про внесення змін до Міської програми та розвитку об’єктів житлово-комунального господарства на 2011-2015 роки, затвердженої рішенням Броварської міської ради від 03.02.2011 № 127-06-06 із змінами та доповненнями.](https://www.brovary.kiev.ua/proekt-r%D1%96shen-m%D1%96sko%D1%97-radi-pro-vnesennya-zm%D1%96n-do-m%D1%96sko%D1%97-programi-utrimannya-ta-rozvitku-ob%E2%80%99%D1%94kt%D1%96v-zhit)
 > 
 > 11.Про затвердження плану витрат грошових надходжень до міського фонду «Інші природоохоронні заходи» на 2015 рік в новій редакції.
 > 
-> 12.[Про внесення змін до Програми запобігання та ліквідації наслідків підтоплення території міста Бровари на період 2012-2015 років, затвердженої рішенням Броварської міської ради від 26.07.2012 № 680-22-06.](http://www.brovary.kiev.ua/proekt-r%D1%96shen-m%D1%96sko%D1%97-radi-pro-vnesennya-zm%D1%96n-do-programi-zapob%D1%96gannya-ta-l%D1%96kv%D1%96dats%D1%96%D1%97-nasl%D1%96dk%D1%96v-p%D1%96dto)
+> 12.[Про внесення змін до Програми запобігання та ліквідації наслідків підтоплення території міста Бровари на період 2012-2015 років, затвердженої рішенням Броварської міської ради від 26.07.2012 № 680-22-06.](https://www.brovary.kiev.ua/proekt-r%D1%96shen-m%D1%96sko%D1%97-radi-pro-vnesennya-zm%D1%96n-do-programi-zapob%D1%96gannya-ta-l%D1%96kv%D1%96dats%D1%96%D1%97-nasl%D1%96dk%D1%96v-p%D1%96dto)
 > 
-> 13.[Про внесення змін до Статуту комунального підприємства Броварської міської ради Київської області«Житлово-експлуатаційна контора - 1».](http://www.brovary.kiev.ua/proekt-r%D1%96shennya-m%D1%96sko%D1%97-radi-pro-vnesennya-zm%D1%96n-do-statutu-komunalnogo-p%D1%96dpri%D1%94mstva-brovarsko%D1%97-m%D1%96s-0)
+> 13.[Про внесення змін до Статуту комунального підприємства Броварської міської ради Київської області«Житлово-експлуатаційна контора - 1».](https://www.brovary.kiev.ua/proekt-r%D1%96shennya-m%D1%96sko%D1%97-radi-pro-vnesennya-zm%D1%96n-do-statutu-komunalnogo-p%D1%96dpri%D1%94mstva-brovarsko%D1%97-m%D1%96s-0)
 > 
-> 14.[Про внесення змін до Статуту комунального підприємства «Житлово-експлуатаційна контора -2».](http://www.brovary.kiev.ua/proekt-r%D1%96shennya-m%D1%96sko%D1%97-radi-pro-vnesennya-zm%D1%96n-do-statutu-komunalnogo-p%D1%96dpri%D1%94mstva-brovarsko%D1%97-m%D1%96s-1)
+> 14.[Про внесення змін до Статуту комунального підприємства «Житлово-експлуатаційна контора -2».](https://www.brovary.kiev.ua/proekt-r%D1%96shennya-m%D1%96sko%D1%97-radi-pro-vnesennya-zm%D1%96n-do-statutu-komunalnogo-p%D1%96dpri%D1%94mstva-brovarsko%D1%97-m%D1%96s-1)
 > 
 > 15.Про внесення змін до Статуту комунального підприємства «Житлово-експлуатаційна контора -3».
 > 
-> 16.[Про внесення змін до Статуту комунального підприємства Броварської міської ради Київської області «Житлово-експлуатаційна контора – 4».](http://www.brovary.kiev.ua/proekt-r%D1%96shen-m%D1%96sko%D1%97-radi-pro-vnesennya-zm%D1%96n-do-statutu-komunalnogo-p%D1%96dpri%D1%94mstva-brovarsko%D1%97-m%D1%96sko%D1%97-r)
+> 16.[Про внесення змін до Статуту комунального підприємства Броварської міської ради Київської області «Житлово-експлуатаційна контора – 4».](https://www.brovary.kiev.ua/proekt-r%D1%96shen-m%D1%96sko%D1%97-radi-pro-vnesennya-zm%D1%96n-do-statutu-komunalnogo-p%D1%96dpri%D1%94mstva-brovarsko%D1%97-m%D1%96sko%D1%97-r)
 > 
-> 17.[Про внесення доповнень до рішення Броварської міської ради  від 20.12.2012 року №796-27-06 “Про затвердження міської Програми відпочинку та оздоровлення дітей  на період 2013-2015 років» (із змінами від 04.07.2013 р. №970-36-06).](http://www.brovary.kiev.ua/proekt-r%D1%96shen-m%D1%96sko%D1%97-radi-pro-vnesennya-dopovnen-do-r%D1%96shennya-brovarsko%D1%97-m%D1%96sko%D1%97-radi-v%D1%96d-20122012-ro)
+> 17.[Про внесення доповнень до рішення Броварської міської ради  від 20.12.2012 року №796-27-06 “Про затвердження міської Програми відпочинку та оздоровлення дітей  на період 2013-2015 років» (із змінами від 04.07.2013 р. №970-36-06).](https://www.brovary.kiev.ua/proekt-r%D1%96shen-m%D1%96sko%D1%97-radi-pro-vnesennya-dopovnen-do-r%D1%96shennya-brovarsko%D1%97-m%D1%96sko%D1%97-radi-v%D1%96d-20122012-ro)
 > 
 > 18.Про затвердження міської Програми з надання соціальної та правової допомоги демобілізованим військовослужбовцям, які брали участь в антитерористичній операції, та їх сім’ям у 2015 році.
 > 
-> 19.[Про внесення змін та доповнень до рішення Броварської міської ради від 25.12.2014р. № 1367-50-06 «Про затвердження міської програми «З турботою про кожного» на 2015-2017 роки.](http://www.brovary.kiev.ua/proekt-r%D1%96shen-m%D1%96sko%D1%97-radi-pro-vnesennya-zm%D1%96n-ta-dopovnen-do-r%D1%96shennya-brovarsko%D1%97-m%D1%96sko%D1%97-radi-v%D1%96d-251)
+> 19.[Про внесення змін та доповнень до рішення Броварської міської ради від 25.12.2014р. № 1367-50-06 «Про затвердження міської програми «З турботою про кожного» на 2015-2017 роки.](https://www.brovary.kiev.ua/proekt-r%D1%96shen-m%D1%96sko%D1%97-radi-pro-vnesennya-zm%D1%96n-ta-dopovnen-do-r%D1%96shennya-brovarsko%D1%97-m%D1%96sko%D1%97-radi-v%D1%96d-251)
 > 
-> 20.[Про внесення змін до рішення Броварської міської ради від 30 січня 2015 р. № 1405-52-06 до Додатку №1 Програми діяльності та фінансової підтримки комунального закладу Броварської міської ради «Броварський міський центр первинної медико-санітарної допомоги» у 2015 році.](http://www.brovary.kiev.ua/proekt-r%D1%96shen-m%D1%96sko%D1%97-radi-pro-vnesennya-zm%D1%96n-do-r%D1%96shennya-brovarsko%D1%97-m%D1%96sko%D1%97-radi-v%D1%96d-30-s%D1%96chnya-2015)
+> 20.[Про внесення змін до рішення Броварської міської ради від 30 січня 2015 р. № 1405-52-06 до Додатку №1 Програми діяльності та фінансової підтримки комунального закладу Броварської міської ради «Броварський міський центр первинної медико-санітарної допомоги» у 2015 році.](https://www.brovary.kiev.ua/proekt-r%D1%96shen-m%D1%96sko%D1%97-radi-pro-vnesennya-zm%D1%96n-do-r%D1%96shennya-brovarsko%D1%97-m%D1%96sko%D1%97-radi-v%D1%96d-30-s%D1%96chnya-2015)
 > 
 > 21.Про створення загальноосвітньої школи І-ІІ ступенів Броварського навчально – виховного об’єднання.
 > 
-> 22.[Про припинення права користування земельними ділянками, затвердження документації із землеустрою щодо надання земельних ділянок у користування, надання дозволів на розроблення документації із землеустрою, поновлення договорів оренди,внесення змін до рішень Броварської міської ради.](http://www.brovary.kiev.ua/proekt-r%D1%96shen-m%D1%96sko%D1%97-radi-pro-pripinennya-prava-koristuvannya-zemelnimi-d%D1%96lyankami-zatverdzhennya--0)
+> 22.[Про припинення права користування земельними ділянками, затвердження документації із землеустрою щодо надання земельних ділянок у користування, надання дозволів на розроблення документації із землеустрою, поновлення договорів оренди,внесення змін до рішень Броварської міської ради.](https://www.brovary.kiev.ua/proekt-r%D1%96shen-m%D1%96sko%D1%97-radi-pro-pripinennya-prava-koristuvannya-zemelnimi-d%D1%96lyankami-zatverdzhennya--0)
 > 
 > 23.Про передачу земельних ділянок громадянам у власність та користування, надання дозволів на розроблення документації їз землеустрою, внесення змін до рішень Броварської міської ради.
 > 
 > 24.Про продаж земельних  ділянок.
 > 
-> 25.[Про затвердження договорів оренди земельних ділянок, договорів про внесення змін до договорів оренди договорів купівлі-продажу земельних ділянок, договору про право користування земельною ділянкою для забудови (суперфіцій).](http://www.brovary.kiev.ua/proekt-r%D1%96shen-m%D1%96sko%D1%97-radi-pro-zatverdzhennya-dogovor%D1%96v-orendi-zemelnikh-d%D1%96lyanok-dogovor%D1%96v-pro-vne-0)
+> 25.[Про затвердження договорів оренди земельних ділянок, договорів про внесення змін до договорів оренди договорів купівлі-продажу земельних ділянок, договору про право користування земельною ділянкою для забудови (суперфіцій).](https://www.brovary.kiev.ua/proekt-r%D1%96shen-m%D1%96sko%D1%97-radi-pro-zatverdzhennya-dogovor%D1%96v-orendi-zemelnikh-d%D1%96lyanok-dogovor%D1%96v-pro-vne-0)
 > 
-> 26.[Про внесення змін до  «Міської програми по будівництву та реконструкції об’єктів соціального призначення на 2008 – 2015 роки», затвердженої рішенням Броварської міської ради від 14січня 2008 року № 591-32-05.](http://www.brovary.kiev.ua/proekt-r%D1%96shen-m%D1%96sko%D1%97-radi-pro-vnesennya-zm%D1%96n-do-%C2%ABm%D1%96sko%D1%97-programi-po-bud%D1%96vnitstvu-ta-rekonstrukts%D1%96%D1%97-o)
+> 26.[Про внесення змін до  «Міської програми по будівництву та реконструкції об’єктів соціального призначення на 2008 – 2015 роки», затвердженої рішенням Броварської міської ради від 14січня 2008 року № 591-32-05.](https://www.brovary.kiev.ua/proekt-r%D1%96shen-m%D1%96sko%D1%97-radi-pro-vnesennya-zm%D1%96n-do-%C2%ABm%D1%96sko%D1%97-programi-po-bud%D1%96vnitstvu-ta-rekonstrukts%D1%96%D1%97-o)
 > 
-> 27.[Про внесення змін до  «Міської програми по будівництву та реконструкції магістральних вулиць загальноміського призначення на 2008 – 2015 роки», затвердженої  рішенням Броварської міської ради від 14 січня 2008 року за        № 593-32-05.](http://www.brovary.kiev.ua/proekt-r%D1%96shen-m%D1%96sko%D1%97-radi-pro-vnesennya-zm%D1%96n-do-%C2%ABm%D1%96sko%D1%97-programi-po-bud%D1%96vnitstvu-ta-rekonstrukts%D1%96%D1%97-m)
+> 27.[Про внесення змін до  «Міської програми по будівництву та реконструкції магістральних вулиць загальноміського призначення на 2008 – 2015 роки», затвердженої  рішенням Броварської міської ради від 14 січня 2008 року за        № 593-32-05.](https://www.brovary.kiev.ua/proekt-r%D1%96shen-m%D1%96sko%D1%97-radi-pro-vnesennya-zm%D1%96n-do-%C2%ABm%D1%96sko%D1%97-programi-po-bud%D1%96vnitstvu-ta-rekonstrukts%D1%96%D1%97-m)
 > 
 > 28.Про внесення змін у додаток до рішення Броварської міської ради від 26.11.2009 №1332-75-05 «Про затвердження Програми відзначення державних та професійних свят, ювілейних дат, заохочення за заслуги перед громадою міста Бровари на 2010 – 2015 роки".
 > 
-> 29.[Про  затвердження  змін до структури, загальної чисельності апарату міської ради та виконавчого комітету, виконавчих органів ради.](http://www.brovary.kiev.ua/proekt-r%D1%96shen-m%D1%96sko%D1%97-radi-pro-zatverdzhennya-zm%D1%96n-do-strukturi-zagalno%D1%97-chiselnost%D1%96-aparatu-m%D1%96sko%D1%97-r)
+> 29.[Про  затвердження  змін до структури, загальної чисельності апарату міської ради та виконавчого комітету, виконавчих органів ради.](https://www.brovary.kiev.ua/proekt-r%D1%96shen-m%D1%96sko%D1%97-radi-pro-zatverdzhennya-zm%D1%96n-do-strukturi-zagalno%D1%97-chiselnost%D1%96-aparatu-m%D1%96sko%D1%97-r)
 > 
-> 30.[Про доповнення до плану діяльності з підготовки проектів регуляторних актів на 2015 рік.](http://www.brovary.kiev.ua/proekt-r%D1%96shen-m%D1%96sko%D1%97-radi-pro-dopovnennya-do-planu-d%D1%96yalnost%D1%96-z-p%D1%96dgotovki-proekt%D1%96v-regulyatornikh-a)
+> 30.[Про доповнення до плану діяльності з підготовки проектів регуляторних актів на 2015 рік.](https://www.brovary.kiev.ua/proekt-r%D1%96shen-m%D1%96sko%D1%97-radi-pro-dopovnennya-do-planu-d%D1%96yalnost%D1%96-z-p%D1%96dgotovki-proekt%D1%96v-regulyatornikh-a)
 > 
-> 31.[Про підсумки виконання Програми соціально-економічного та культурного розвитку м. Бровари за 2014 рік](http://www.brovary.kiev.ua/proekt-r%D1%96shen-m%D1%96sko%D1%97-radi-pro-p%D1%96dsumki-vikonannya-programi-sots%D1%96alno-ekonom%D1%96chnogo-ta-kulturnogo-roz).
+> 31.[Про підсумки виконання Програми соціально-економічного та культурного розвитку м. Бровари за 2014 рік](https://www.brovary.kiev.ua/proekt-r%D1%96shen-m%D1%96sko%D1%97-radi-pro-p%D1%96dsumki-vikonannya-programi-sots%D1%96alno-ekonom%D1%96chnogo-ta-kulturnogo-roz).
 > 
-> 32.[Про внесення змін та доповнень до рішення Броварської міської ради від 05.03.2015 № 1431-53-06 «Про затвердження Програми соціально-економічного та культурного розвитку міста Бровари на 2015 рік» (з наступними змінами).](http://www.brovary.kiev.ua/proekt-r%D1%96shen-m%D1%96sko%D1%97-radi-pro-vnesennya-zm%D1%96n-ta-dopovnen-do-r%D1%96shennya-brovarsko%D1%97-m%D1%96sko%D1%97-radi-v%D1%96d-050)
+> 32.[Про внесення змін та доповнень до рішення Броварської міської ради від 05.03.2015 № 1431-53-06 «Про затвердження Програми соціально-економічного та культурного розвитку міста Бровари на 2015 рік» (з наступними змінами).](https://www.brovary.kiev.ua/proekt-r%D1%96shen-m%D1%96sko%D1%97-radi-pro-vnesennya-zm%D1%96n-ta-dopovnen-do-r%D1%96shennya-brovarsko%D1%97-m%D1%96sko%D1%97-radi-v%D1%96d-050)
 > 
-> 33.[Про затвердження «Програми розвитку малого та середнього підприємництва в м. Бровари на 2015-2016 роки».](http://www.brovary.kiev.ua/proekt-r%D1%96shen-m%D1%96sko%D1%97-radi-pro-zatverdzhennya-%C2%ABprogrami-rozvitku-malogo-%D1%96-serednogo-p%D1%96dpri%D1%94mnitstva-v)
+> 33.[Про затвердження «Програми розвитку малого та середнього підприємництва в м. Бровари на 2015-2016 роки».](https://www.brovary.kiev.ua/proekt-r%D1%96shen-m%D1%96sko%D1%97-radi-pro-zatverdzhennya-%C2%ABprogrami-rozvitku-malogo-%D1%96-serednogo-p%D1%96dpri%D1%94mnitstva-v)
 > 
-> 34.[Про затвердження звіту про виконання бюджету міста Бровари за І квартал 2015 року.](http://www.brovary.kiev.ua/proekt-r%D1%96shen-m%D1%96sko%D1%97-radi-pro-zatverdzhennya-zv%D1%96tu-pro-vikonannya-byudzhetu-m%D1%96sta-brovari-za-%D1%96-kvart)
+> 34.[Про затвердження звіту про виконання бюджету міста Бровари за І квартал 2015 року.](https://www.brovary.kiev.ua/proekt-r%D1%96shen-m%D1%96sko%D1%97-radi-pro-zatverdzhennya-zv%D1%96tu-pro-vikonannya-byudzhetu-m%D1%96sta-brovari-za-%D1%96-kvart)
 > 
 > 35.Про внесення змін до рішення Броварської міської ради від 31.12.2014 року №1391-51-06 «Про бюджет міста на 2015 рік» та додатків 1,2,3,4,5,6,7.
 > 
-> 36.[Про присвоєння звання «Почесний громадянин міста Бровари».](http://www.brovary.kiev.ua/proekt-r%D1%96shennya-m%D1%96sko%D1%97-radi-pro-prisvo%D1%94nnya-zvannya-%E2%80%9Cpochesnii-gromadyanin-m%D1%96sta-brovari%E2%80%9D)
+> 36.[Про присвоєння звання «Почесний громадянин міста Бровари».](https://www.brovary.kiev.ua/proekt-r%D1%96shennya-m%D1%96sko%D1%97-radi-pro-prisvo%D1%94nnya-zvannya-%E2%80%9Cpochesnii-gromadyanin-m%D1%96sta-brovari%E2%80%9D)
 > 
 > 37\. Різне.

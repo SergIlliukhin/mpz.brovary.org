@@ -41,4 +41,4 @@ coverImage: "wp-content/uploads/2014/09/Bez-imeni.jpg"
 
 **P.S.** 
 
-Інформація про інцидент [вже опублікована](http://imi.org.ua/news/45858-u-brovarah-do-jurnalistiv-zastosuvali-silu-abi-ne-pustiti-na-agitatsiyniy-zahid-kandidata-vid-batkivschini.html) на головній сторінці сайту Інституту Масової Інформації. Дякуємо колегам за допомогу!
+Інформація про інцидент [вже опублікована](https://imi.org.ua/news/45858-u-brovarah-do-jurnalistiv-zastosuvali-silu-abi-ne-pustiti-na-agitatsiyniy-zahid-kandidata-vid-batkivschini.html) на головній сторінці сайту Інституту Масової Інформації. Дякуємо колегам за допомогу!

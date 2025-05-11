@@ -36,7 +36,7 @@ coverImage: "wp-content/uploads/2017/02/KlXXqpo2LJE.jpg"
 
 ![](https://mpz.brovary.org/wp-content/uploads/2017/02/a09kw8Rc25s.jpg)
 
-Усі подробиці, а також про те, як придбати квитки на цю виставу, можна дізнатись на [сайті](http://1000letie.com.ua/index.php/teatr/repertuar/269-remont-ili-restavratsiya-chuvstv) театру. Замовити білети та ознайомитися із схемою глядацького залу можна за [цим посиланням](https://arm.frontmanager.com.ua/PublicAPI/WidgetStep1.aspx?__uid=XPPPzsgRpyncPpfZp2mQSw&event=1122438396). Справки та бронювання за телефоном: **(067) 537-38-47**.
+Усі подробиці, а також про те, як придбати квитки на цю виставу, можна дізнатись на [сайті](https://1000letie.com.ua/index.php/teatr/repertuar/269-remont-ili-restavratsiya-chuvstv) театру. Замовити білети та ознайомитися із схемою глядацького залу можна за [цим посиланням](https://arm.frontmanager.com.ua/PublicAPI/WidgetStep1.aspx?__uid=XPPPzsgRpyncPpfZp2mQSw&event=1122438396). Справки та бронювання за телефоном: **(067) 537-38-47**.
 
 Театр на своїй [сторінці у VK](https://vk.com/teatr_1000letie?w=wall-94897642_678) також пропонує бажаючим випробувати удачу і виграти квитки на виставу. Підсумки будуть підведені **24 лютого**: переможців буде двоє, кожний із них отримає пару запрошень.
 

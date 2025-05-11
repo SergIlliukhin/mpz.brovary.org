@@ -27,10 +27,10 @@ coverImage: "wp-content/uploads/2012/06/sud-nad-bramoyu.jpg"
 
 «**Маєш право знати**» планує здійснювати аудіо- та твітер-трансляцію судового засідання.
 
-Нагадаємо, 2 лютого 2012 року на депутата Павла Різаненка невідомі [здійснили напад](https://mpz.brovary.org/pobito-opozitsiynogo-deputata-brovar/), в результаті чого він отримав значні тілесні ушкодження. Постраждалий [пов’язує](http://rizanenko.org/ya-povyazuyu-napad-vyklyuchno-z-deputatskoyu-diyalnistyu.html) це зі своєю депутатською та громадською діяльністю. По даному факту міліцією було порушено кримінальну справу. При цьому 9 лютого 2012 року газета «Броварська панорама» [опублікувала статтю](https://mpz.brovary.org/paralelni-realnosti-brovarskoyi-p/) «Били чи не били?», в якій журналіст під псевдонімом стверджував, що Різаненко сам інсценував напад на себе.
+Нагадаємо, 2 лютого 2012 року на депутата Павла Різаненка невідомі [здійснили напад](https://mpz.brovary.org/pobito-opozitsiynogo-deputata-brovar/), в результаті чого він отримав значні тілесні ушкодження. Постраждалий [пов’язує](https://rizanenko.org/ya-povyazuyu-napad-vyklyuchno-z-deputatskoyu-diyalnistyu.html) це зі своєю депутатською та громадською діяльністю. По даному факту міліцією було порушено кримінальну справу. При цьому 9 лютого 2012 року газета «Броварська панорама» [опублікувала статтю](https://mpz.brovary.org/paralelni-realnosti-brovarskoyi-p/) «Били чи не били?», в якій журналіст під псевдонімом стверджував, що Різаненко сам інсценував напад на себе.
 
 **Твіттер-трансляція** буде доступна за тегом [#bramasud](https://twitter.com/search/bramasud "Твіттер #bramasud") 
 
-<script charset="utf-8" type="text/javascript" src="http://widgets.twimg.com/j/2/widget.js"></script>
+<script charset="utf-8" type="text/javascript" src="https://widgets.twimg.com/j/2/widget.js"></script>
 
 <script type="text/javascript">// <![CDATA[ new TWTR.Widget({ version: 2, type: 'search', search: 'bramasud', interval: 30000, title: 'Судове засідання: Різаненко проти Броварської панорами', subject: 'Маєш Право Знати Бровари', width: 'auto', height: 250, theme: { shell: { background: '#8ec1da', color: '#ffffff' }, tweets: { background: '#ffffff', color: '#444444', links: '#1985b5' } }, features: { scrollbar: true, loop: false, live: true, behavior: 'default' } }).render().start(); // ]]></script>

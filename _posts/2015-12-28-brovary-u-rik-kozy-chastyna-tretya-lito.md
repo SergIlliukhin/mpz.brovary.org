@@ -71,7 +71,7 @@ coverImage: "wp-content/uploads/2015/12/kako-bo-v-letu-koze015-01.jpg"
 
 Проте вже за кілька місяців, перебуваючи в стадії активного розвитку, перспективний проект [був закритий по причині відсутності фінансування.](https://mpz.brovary.org/hromadskebro-v-rezhymi-stop-kadru/)
 
-Менш, ніж за півроку Громадське телебачення Броварів випустило в ефір понад сотню сюжетів які переглянули понад 130 тис. разів, канал налагодив виробництво [випусків новин](http://<iframe width="560" height="315" src="https://www.youtube.com/embed/6k-JjqzGa8Q?list=PLlEVmBZxyDaCYQMdKjFi_I9Glqk_ZxVFB" frameborder="0" allowfullscreen></iframe>), д[окументальних короткометражок](https://www.youtube.com/watch?v=OUBvYA0d68U), [соціальних роликів](https://www.youtube.com/watch?v=BUFpUe4c3BA), [студійних інтерв’ю](https://www.youtube.com/watch?v=y0HdNU6aTbY) і провело перші в історії міста дебати кандидатів в мери відразу у прямому ефірі.
+Менш, ніж за півроку Громадське телебачення Броварів випустило в ефір понад сотню сюжетів які переглянули понад 130 тис. разів, канал налагодив виробництво [випусків новин](https://<iframe width="560" height="315" src="https://www.youtube.com/embed/6k-JjqzGa8Q?list=PLlEVmBZxyDaCYQMdKjFi_I9Glqk_ZxVFB" frameborder="0" allowfullscreen></iframe>), д[окументальних короткометражок](https://www.youtube.com/watch?v=OUBvYA0d68U), [соціальних роликів](https://www.youtube.com/watch?v=BUFpUe4c3BA), [студійних інтерв’ю](https://www.youtube.com/watch?v=y0HdNU6aTbY) і провело перші в історії міста дебати кандидатів в мери відразу у прямому ефірі.
 
 <iframe src="https://www.youtube.com/embed/b2NOJRcn1k4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 

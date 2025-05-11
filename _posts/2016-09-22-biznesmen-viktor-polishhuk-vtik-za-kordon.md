@@ -28,7 +28,7 @@ coverImage: "wp-content/uploads/2016/09/poliscuk0111.jpg"
 
 \[caption id="attachment\_60638" align="aligncenter" width="600"\][![](https://mpz.brovary.org/wp-content/uploads/2016/09/poliscuk0111.jpg)](https://mpz.brovary.org/wp-content/uploads/2016/09/poliscuk0111.jpg) Віктор Поліщук\[/caption\]
 
-_«Банкрутство банку «Михайлівський» - результат шахрайства власника і команди топ-менеджерів фінансового закладу,_ - зазначила в інтерв’ю виданню [«Гордон»](http://gordonua.com/publications/io-zamglavy-nbu-rozhkova-pik-infliatsii-my-perezhili-eto-bylo-strashnoe-vremia-teper-nuzhny-reformy-142389.html) в.о. заступника голови Нацбанку України **Катерина Рожкова.**
+_«Банкрутство банку «Михайлівський» - результат шахрайства власника і команди топ-менеджерів фінансового закладу,_ - зазначила в інтерв’ю виданню [«Гордон»](https://gordonua.com/publications/io-zamglavy-nbu-rozhkova-pik-infliatsii-my-perezhili-eto-bylo-strashnoe-vremia-teper-nuzhny-reformy-142389.html) в.о. заступника голови Нацбанку України **Катерина Рожкова.**
 
 Зі свого боку голова підкомітету з питань цінних паперів, фондового ринку, діяльності рейтингових агентств і електронної комерції **Павло Різаненко** на засіданні зазначив, що Нацбанк частково несе відповідальність за ситуацію, а також відзначив важливість доведення розслідування даної справи до конфіскації майна бізнесмена В.Поліщука, аби цими коштами хоча б частково розрахуватись із вкладниками.
 

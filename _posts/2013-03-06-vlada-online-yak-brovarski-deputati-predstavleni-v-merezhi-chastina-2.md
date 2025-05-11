@@ -32,7 +32,7 @@ coverImage: "wp-content/uploads/2013/03/Buzz_tracking_social_media_monitoring_eg
 
 Як і минулого разу, йдемо за алфавітним покажчиком депутатського корпусу і перший, кого знаходимо: депутат від УДАРу Михайло Бабін.
 
-[![getImage](https://mpz.brovary.org/wp-content/uploads/2013/03/getImage.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/getImage.jpg)На сторінці 46-річного [«Михаила Бабина»](http://www.odnoklassniki.ru/profile/175367930673), як він сам себе називає в «Однокласниках», якої-небудь активності, що пов’язана з його депутатською діяльністю, не помітно. Натомість Михайло Якович бере участь в опитуваннях типу «Какая блондинка вам больше всего нравиться?», «Какой у вас телефон?» та ін. Взагалі, проглянувши сторінку Бабіна, неозброєним оком помітно ностальгію депутата за часами СРСР.
+[![getImage](https://mpz.brovary.org/wp-content/uploads/2013/03/getImage.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/getImage.jpg)На сторінці 46-річного [«Михаила Бабина»](https://www.odnoklassniki.ru/profile/175367930673), як він сам себе називає в «Однокласниках», якої-небудь активності, що пов’язана з його депутатською діяльністю, не помітно. Натомість Михайло Якович бере участь в опитуваннях типу «Какая блондинка вам больше всего нравиться?», «Какой у вас телефон?» та ін. Взагалі, проглянувши сторінку Бабіна, неозброєним оком помітно ностальгію депутата за часами СРСР.
 
 [![babin1](https://mpz.brovary.org/wp-content/uploads/2013/03/babin1.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/babin1.jpg)
 
@@ -40,7 +40,7 @@ coverImage: "wp-content/uploads/2013/03/Buzz_tracking_social_media_monitoring_eg
 
  
 
-[![getImage (1)](https://mpz.brovary.org/wp-content/uploads/2013/03/getImage-1.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/getImage-1.jpg)Другою за абеткою з-поміж броварських обранців в «Однокласниках» вдалось виявити не кого-небудь, а начальника відділу культури, одіозну регіоналку [Наталію Багмут.](http://www.odnoklassniki.ru/profile/355967590496) Наталія Андріївна також явно не використовує свою сторінку для спілкування з виборцями, позаяк востаннє була на сайті майже рік тому – 8 березня 2012-го. Проте «головна по культурі» в Броварах має 68 друзів та є учасником двох груп: «Лосинівка і лосинівці», а також групи підприємства свого сина, скандального кафе «Мюзік Хол» що в «Прометеї».
+[![getImage (1)](https://mpz.brovary.org/wp-content/uploads/2013/03/getImage-1.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/getImage-1.jpg)Другою за абеткою з-поміж броварських обранців в «Однокласниках» вдалось виявити не кого-небудь, а начальника відділу культури, одіозну регіоналку [Наталію Багмут.](https://www.odnoklassniki.ru/profile/355967590496) Наталія Андріївна також явно не використовує свою сторінку для спілкування з виборцями, позаяк востаннє була на сайті майже рік тому – 8 березня 2012-го. Проте «головна по культурі» в Броварах має 68 друзів та є учасником двох груп: «Лосинівка і лосинівці», а також групи підприємства свого сина, скандального кафе «Мюзік Хол» що в «Прометеї».
 
 [![Без імені](https://mpz.brovary.org/wp-content/uploads/2013/03/Bez-imeni2.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/Bez-imeni2.jpg)
 
@@ -48,7 +48,7 @@ coverImage: "wp-content/uploads/2013/03/Buzz_tracking_social_media_monitoring_eg
 
  
 
-[![getImage (1)](https://mpz.brovary.org/wp-content/uploads/2013/03/getImage-11.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/getImage-11.jpg)Перший знайдений нами в «Однокласниках» міський депутат від «Фронту змін» [Олександр Велем](http://www.odnoklassniki.ru/profile/500284433830) значно менш активний за двох попередніх «піддослідних»: Олександр завантажив на сайт всього три власних фото (офіційне, з полювання та із сім'єю) має лише 29 друзів, не бере участь в жодній групі та й взагалі інших записів на його сторінці немає.
+[![getImage (1)](https://mpz.brovary.org/wp-content/uploads/2013/03/getImage-11.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/getImage-11.jpg)Перший знайдений нами в «Однокласниках» міський депутат від «Фронту змін» [Олександр Велем](https://www.odnoklassniki.ru/profile/500284433830) значно менш активний за двох попередніх «піддослідних»: Олександр завантажив на сайт всього три власних фото (офіційне, з полювання та із сім'єю) має лише 29 друзів, не бере участь в жодній групі та й взагалі інших записів на його сторінці немає.
 
 [![Без імені](https://mpz.brovary.org/wp-content/uploads/2013/03/Bez-imeni3.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/Bez-imeni3.jpg)
 
@@ -56,7 +56,7 @@ coverImage: "wp-content/uploads/2013/03/Buzz_tracking_social_media_monitoring_eg
 
  
 
-[![getImage (1)](https://mpz.brovary.org/wp-content/uploads/2013/03/getImage-12.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/getImage-12.jpg)Нарешті вдалося знайти в соціальних мережах одного з небагатьох броварських політиків, котрий не боїться публічності. Депутат від УСДП [Олег Іваненко](http://www.odnoklassniki.ru/profile/518282164578), більше відомий як керівник центру реабілітації інвалідів «Прагнення» має власне представництво в «Однокласниках» і серед усіх своїх колег – єдиний, хто хоча б згадує про власну депутатську діяльність на своєму акаунті.
+[![getImage (1)](https://mpz.brovary.org/wp-content/uploads/2013/03/getImage-12.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/getImage-12.jpg)Нарешті вдалося знайти в соціальних мережах одного з небагатьох броварських політиків, котрий не боїться публічності. Депутат від УСДП [Олег Іваненко](https://www.odnoklassniki.ru/profile/518282164578), більше відомий як керівник центру реабілітації інвалідів «Прагнення» має власне представництво в «Однокласниках» і серед усіх своїх колег – єдиний, хто хоча б згадує про власну депутатську діяльність на своєму акаунті.
 
 [![Без імені](https://mpz.brovary.org/wp-content/uploads/2013/03/Bez-imeni.png)](https://mpz.brovary.org/wp-content/uploads/2013/03/Bez-imeni.png)
 
@@ -64,7 +64,7 @@ coverImage: "wp-content/uploads/2013/03/Buzz_tracking_social_media_monitoring_eg
 
  
 
-[![getImage](https://mpz.brovary.org/wp-content/uploads/2013/03/getImage1.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/getImage1.jpg)Наступним зустрічаємо висунутого на виборах «Батківщиною» члена Партії регіонів, учасника неформальної «групи Трощенка» в міській раді [Юрія Кужима](http://www.odnoklassniki.ru/profile/238777367295). Депутата за прикладом своїх колег сприймає сторінку в «Однокласникаах» виключно як спосіб спілкування з друзями, і аж ніяк не з виборцями. Водночас Кужим опублікував у відкритому доступі цілих 48 власних фотографій зі всього світу і періодично поповнює колекцію.
+[![getImage](https://mpz.brovary.org/wp-content/uploads/2013/03/getImage1.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/getImage1.jpg)Наступним зустрічаємо висунутого на виборах «Батківщиною» члена Партії регіонів, учасника неформальної «групи Трощенка» в міській раді [Юрія Кужима](https://www.odnoklassniki.ru/profile/238777367295). Депутата за прикладом своїх колег сприймає сторінку в «Однокласникаах» виключно як спосіб спілкування з друзями, і аж ніяк не з виборцями. Водночас Кужим опублікував у відкритому доступі цілих 48 власних фотографій зі всього світу і періодично поповнює колекцію.
 
 [![Без імені1](https://mpz.brovary.org/wp-content/uploads/2013/03/Bez-imeni13.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/Bez-imeni13.jpg)
 
@@ -72,7 +72,7 @@ coverImage: "wp-content/uploads/2013/03/Buzz_tracking_social_media_monitoring_eg
 
  
 
-[![getImage (2)](https://mpz.brovary.org/wp-content/uploads/2013/03/getImage-2.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/getImage-2.jpg)В середині алфавітного переліку міських депутатів в «Однокласниках» нас зустрічає боксер-чемпіон, а за сумісництвом – висуванець від Європейської партії [Юрій Нужненко.](http://www.odnoklassniki.ru/profile/240831238706) Видатний спортсмен і малопомітний депутат має в соцмережі 394 друга та є учасником 11 груп. Цікаві Нужненку групи переважно стосуються боксу та Броварів. Впала в око група з мало не локально-націоналістичною назвою «Бровари – для броварчан!», адміністратором якої досі є сумнозвісний Дмитро Ратніков.
+[![getImage (2)](https://mpz.brovary.org/wp-content/uploads/2013/03/getImage-2.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/getImage-2.jpg)В середині алфавітного переліку міських депутатів в «Однокласниках» нас зустрічає боксер-чемпіон, а за сумісництвом – висуванець від Європейської партії [Юрій Нужненко.](https://www.odnoklassniki.ru/profile/240831238706) Видатний спортсмен і малопомітний депутат має в соцмережі 394 друга та є учасником 11 груп. Цікаві Нужненку групи переважно стосуються боксу та Броварів. Впала в око група з мало не локально-націоналістичною назвою «Бровари – для броварчан!», адміністратором якої досі є сумнозвісний Дмитро Ратніков.
 
 [![Без імені1](https://mpz.brovary.org/wp-content/uploads/2013/03/Bez-imeni14.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/Bez-imeni14.jpg)
 
@@ -80,7 +80,7 @@ coverImage: "wp-content/uploads/2013/03/Buzz_tracking_social_media_monitoring_eg
 
  
 
-[![getImage (3)](https://mpz.brovary.org/wp-content/uploads/2013/03/getImage-3.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/getImage-3.jpg)Крім Фейсбуку в Однокласниках зареєстраований ще один депутат від партії Яценюка [Юрій Плакся.](http://www.odnoklassniki.ru/profile/463368946837) Сторінка в російській соцмережі виглядає більш приватно, ніж на ФБ: Плакся публікує багато фото з подорожей, бере участь в опитуваннях на тему водіння жінками автомобіля і має 15 друзів.
+[![getImage (3)](https://mpz.brovary.org/wp-content/uploads/2013/03/getImage-3.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/getImage-3.jpg)Крім Фейсбуку в Однокласниках зареєстраований ще один депутат від партії Яценюка [Юрій Плакся.](https://www.odnoklassniki.ru/profile/463368946837) Сторінка в російській соцмережі виглядає більш приватно, ніж на ФБ: Плакся публікує багато фото з подорожей, бере участь в опитуваннях на тему водіння жінками автомобіля і має 15 друзів.
 
 [![Без імені1](https://mpz.brovary.org/wp-content/uploads/2013/03/Bez-imeni15.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/Bez-imeni15.jpg)
 
@@ -88,7 +88,7 @@ coverImage: "wp-content/uploads/2013/03/Buzz_tracking_social_media_monitoring_eg
 
  
 
-[![getImage (3)](https://mpz.brovary.org/wp-content/uploads/2013/03/getImage-31.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/getImage-31.jpg)Коли в мережі Фейсбук нам не вдалось знайти місцевого депутата від УДАРу [Ярослава Погарського](http://www.odnoklassniki.ru/profile/134354639783), це здивувало нас більше, ніж щодо інших броварських обранців. Колись відомий експерт-євроатлантист, один з керівників блоку ПОРА-ПРП, по ідеї, мав би бути присутнім в найбільшій світовій соцмережі. Проте виявлення Погарського в «Однокласниках» наразі більше відповідає його нинішньому статусу «тушки» Партії регіонів в броварській міській раді.
+[![getImage (3)](https://mpz.brovary.org/wp-content/uploads/2013/03/getImage-31.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/getImage-31.jpg)Коли в мережі Фейсбук нам не вдалось знайти місцевого депутата від УДАРу [Ярослава Погарського](https://www.odnoklassniki.ru/profile/134354639783), це здивувало нас більше, ніж щодо інших броварських обранців. Колись відомий експерт-євроатлантист, один з керівників блоку ПОРА-ПРП, по ідеї, мав би бути присутнім в найбільшій світовій соцмережі. Проте виявлення Погарського в «Однокласниках» наразі більше відповідає його нинішньому статусу «тушки» Партії регіонів в броварській міській раді.
 
 [![Без імені1](https://mpz.brovary.org/wp-content/uploads/2013/03/Bez-imeni16.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/Bez-imeni16.jpg)
 
@@ -96,7 +96,7 @@ coverImage: "wp-content/uploads/2013/03/Buzz_tracking_social_media_monitoring_eg
 
  
 
-[![getImage (6)](https://mpz.brovary.org/wp-content/uploads/2013/03/getImage-6.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/getImage-6.jpg)Так само дивно було зустріти в «Однокласниках» і малопублічну депутатку від Партії регіонів [Лідію Сенько.](http://www.odnoklassniki.ru/profile/525821757231) Як і в міській раді, начальник управління пенсійного фонду в «Однокласниках» поводиться досить скромно: лише одне приватне фото, 12 друзів та єдина група, де Лідія Іванівна бере участь: «Жителі та відвідувачі села Бурімка».
+[![getImage (6)](https://mpz.brovary.org/wp-content/uploads/2013/03/getImage-6.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/getImage-6.jpg)Так само дивно було зустріти в «Однокласниках» і малопублічну депутатку від Партії регіонів [Лідію Сенько.](https://www.odnoklassniki.ru/profile/525821757231) Як і в міській раді, начальник управління пенсійного фонду в «Однокласниках» поводиться досить скромно: лише одне приватне фото, 12 друзів та єдина група, де Лідія Іванівна бере участь: «Жителі та відвідувачі села Бурімка».
 
 [![Без імені1](https://mpz.brovary.org/wp-content/uploads/2013/03/Bez-imeni17.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/Bez-imeni17.jpg)
 
@@ -104,7 +104,7 @@ coverImage: "wp-content/uploads/2013/03/Buzz_tracking_social_media_monitoring_eg
 
  
 
-[![298747_101019360010908_1265460908_n](https://mpz.brovary.org/wp-content/uploads/2013/03/298747_101019360010908_1265460908_n1.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/298747_101019360010908_1265460908_n1.jpg)Депутат [Роман Сімутін](http://www.odnoklassniki.ru/profile/134295915887) як і в попередньому нашому огляді замикає перелік міських обранців, представлених в «Однокласниках».  Сторінка Сімутіна мало чим відрізняється від аналогічної у Фейсбуці, хіба що трохи більше особистих фото.
+[![298747_101019360010908_1265460908_n](https://mpz.brovary.org/wp-content/uploads/2013/03/298747_101019360010908_1265460908_n1.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/298747_101019360010908_1265460908_n1.jpg)Депутат [Роман Сімутін](https://www.odnoklassniki.ru/profile/134295915887) як і в попередньому нашому огляді замикає перелік міських обранців, представлених в «Однокласниках».  Сторінка Сімутіна мало чим відрізняється від аналогічної у Фейсбуці, хіба що трохи більше особистих фото.
 
 [![Без імені](https://mpz.brovary.org/wp-content/uploads/2013/03/Bez-imeni4.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/03/Bez-imeni4.jpg)
 

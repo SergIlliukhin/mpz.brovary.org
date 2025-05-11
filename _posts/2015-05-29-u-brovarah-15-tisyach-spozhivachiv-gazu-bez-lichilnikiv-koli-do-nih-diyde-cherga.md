@@ -69,7 +69,7 @@ _«Ажіотаж із замовленням проектів почався д
 
 [![Київоблгаз (8)](https://mpz.brovary.org/wp-content/uploads/2015/05/Kiyivoblgaz-8.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/05/Kiyivoblgaz-8.jpg)
 
-Не могли ми оминути увагою і **службу розрахунків** і поспілкувалися з її **начальником Оленою Василівною Болілою****.** Вона підтвердила, що з травня цього року вводяться [нові норми споживання](http://kv.104.ua/ua/for-clients/news/id/urjad-vdvichi-zmenshiv-normi-spozhivannja-gazu-12011).
+Не могли ми оминути увагою і **службу розрахунків** і поспілкувалися з її **начальником Оленою Василівною Болілою****.** Вона підтвердила, що з травня цього року вводяться [нові норми споживання](https://kv.104.ua/ua/for-clients/news/id/urjad-vdvichi-zmenshiv-normi-spozhivannja-gazu-12011).
 
 \[table\]
 

@@ -29,7 +29,7 @@ coverImage: "wp-content/uploads/2016/06/2-5.jpg"
 6. За зверненням мешканців проведено _[демонтаж «лежачих поліцейських»](https://www.facebook.com/permalink.php?story_fbid=1648469328751803&id=1622812914650778)_
 7. Проведене _[громадське обговорення проблеми незадовільної роботи ТОВ «КОМУНТРАНС-БРОВАРИ»](https://www.facebook.com/permalink.php?story_fbid=1650033011928768&id=1622812914650778)_ із участю представника самого підприємства та посадових осіб Броварської міської ради.
 
-8. Піднято питання можливості обговорення _[програми патрулювання міста громадськими формуваннями](http://brovary.net.ua/golovni-novyny/u-brovarah-z-velykodnya-pochynaye-diyaty-gromadskyj-avtomobilnyj-patrul/)_ «Правопорядок», «Руєвіт» та «Комкон».
+8. Піднято питання можливості обговорення _[програми патрулювання міста громадськими формуваннями](https://brovary.net.ua/golovni-novyny/u-brovarah-z-velykodnya-pochynaye-diyaty-gromadskyj-avtomobilnyj-patrul/)_ «Правопорядок», «Руєвіт» та «Комкон».
 
 9. Постійно приймається _[активна участь у обговореннях](https://www.facebook.com/permalink.php?story_fbid=1687939728138096&id=1622812914650778)_ проблемної забудови ІІ-го мікрорайону м. Бровари.
 

@@ -15,7 +15,7 @@ tags:
 coverImage: "wp-content/uploads/2015/08/Ukr-jitnitsa.jpg"
 ---
 
-**Перші святкування відбудуться вже завтра, 22 серпня. Однак головні події анонсують на День Державного Прапора України 23 серпня та на День Незалежності України 24 серпня. Погодинний графік заходів на своєму сайті [виклав](http://www.kulturabr.kiev.ua/afisha/viddil-kultury/afisha-do-dnya-derzhavnogo-prapora-ukrayiny-ta-dnya-nezalezhnosti-ukrayiny) відділ культури Броварської міської ради.**
+**Перші святкування відбудуться вже завтра, 22 серпня. Однак головні події анонсують на День Державного Прапора України 23 серпня та на День Незалежності України 24 серпня. Погодинний графік заходів на своєму сайті [виклав](https://www.kulturabr.kiev.ua/afisha/viddil-kultury/afisha-do-dnya-derzhavnogo-prapora-ukrayiny-ta-dnya-nezalezhnosti-ukrayiny) відділ культури Броварської міської ради.**
 
 **22 серпня**
 
@@ -25,9 +25,9 @@ coverImage: "wp-content/uploads/2015/08/Ukr-jitnitsa.jpg"
 
  **23 серпня** **– День Державного Прапора України**
 
-**09:00 - 10:00. Майданчик біля міськвиконкому.** [Урочистий мітинг - підняття Державного Прапора України, молитва за Україну, вручення паспортів молодим громадянам міста Бровари.](http://www.kulturabr.kiev.ua/content/pidnyattya-derzhavnogo-praporu-ukrayiny)
+**09:00 - 10:00. Майданчик біля міськвиконкому.** [Урочистий мітинг - підняття Державного Прапора України, молитва за Україну, вручення паспортів молодим громадянам міста Бровари.](https://www.kulturabr.kiev.ua/content/pidnyattya-derzhavnogo-praporu-ukrayiny)
 
-**10:00. Парк Тараса Шевченка,  місця поховань.** [Урочистість із нагоди відзначення Дня Незалежності України. Покладання квітів до пам’ятників Тарасу Шевченку; воїнів, загиблих в АТО; місця поховання Антоніни Дворянець, героя Небесної сотні.](http://www.kulturabr.kiev.ua/content/urochystist-z-nagody-vidznachennya-dnya-nezalezhnosti-ukrayiny-pokladannya-kvitiv-do)
+**10:00. Парк Тараса Шевченка,  місця поховань.** [Урочистість із нагоди відзначення Дня Незалежності України. Покладання квітів до пам’ятників Тарасу Шевченку; воїнів, загиблих в АТО; місця поховання Антоніни Дворянець, героя Небесної сотні.](https://www.kulturabr.kiev.ua/content/urochystist-z-nagody-vidznachennya-dnya-nezalezhnosti-ukrayiny-pokladannya-kvitiv-do)
 
 **12:00. Шаховий майданчик у парку «Перемога».** Турнір із шахів.
 
@@ -43,4 +43,4 @@ coverImage: "wp-content/uploads/2015/08/Ukr-jitnitsa.jpg"
 
 **18:00. Майдан Свободи.** Молебень за Україну за участі священників та пасторів релігійних громад міста; святковий концерт «Україна Єдина!» за участі народних художніх колективів та творчої молоді міста.
 
-**Джерело - [Відділ культури Броварської міської ради](http://www.kulturabr.kiev.ua/afisha/viddil-kultury/afisha-do-dnya-derzhavnogo-prapora-ukrayiny-ta-dnya-nezalezhnosti-ukrayiny)**
+**Джерело - [Відділ культури Броварської міської ради](https://www.kulturabr.kiev.ua/afisha/viddil-kultury/afisha-do-dnya-derzhavnogo-prapora-ukrayiny-ta-dnya-nezalezhnosti-ukrayiny)**

@@ -17,13 +17,13 @@ tags:
 coverImage: "wp-content/uploads/2013/10/sapojko24_2.png"
 ---
 
-[![24tv](https://mpz.brovary.org/wp-content/uploads/2013/10/24tv.png)](https://mpz.brovary.org/wp-content/uploads/2013/10/24tv.png)**Міськрада Броварів подарувала 95 гектарів сільгоспземель - [повідомляє](http://24tv.ua/home/showSingleNews.do?krupnim_planom_miskrada_brovariv_podaruvala_95_gektariv_silgospzemel&objectId=375890) "Телеканал новин 24". Сюжет про наше місто нещодавно вийшов у програмі "Крупним планом".**
+[![24tv](https://mpz.brovary.org/wp-content/uploads/2013/10/24tv.png)](https://mpz.brovary.org/wp-content/uploads/2013/10/24tv.png)**Міськрада Броварів подарувала 95 гектарів сільгоспземель - [повідомляє](https://24tv.ua/home/showSingleNews.do?krupnim_planom_miskrada_brovariv_podaruvala_95_gektariv_silgospzemel&objectId=375890) "Телеканал новин 24". Сюжет про наше місто нещодавно вийшов у програмі "Крупним планом".**
 
 Засідання міськради Броварів 1 жовтня скликали позачергово, бо вирішувалося питання про виділення понад 95 гектарів броварської землі під будівництво фармацевтичного заводу.
 
 Мер міста Ігор Сапожко привів на зібрання жінку. Навіщо, стало зрозуміло, коли виникло питання про виділення понад 95 гектарів броварської землі під будівництво фармацевтичного заводу.
 
-<iframe src="https://24tv.ua/jsp/nodecorate/jwpvideo.html?dns=http://24tv.ua&amp;siteDns=http://24tv.ua&amp;videoUrl=2013/10/375890&amp;imgUrl=_main.mp4.jpeg&amp;stream=http://stream1.luxnet.ua&amp;h=475&amp;w=600" height="475" width="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://24tv.ua/jsp/nodecorate/jwpvideo.html?dns=https://24tv.ua&amp;siteDns=https://24tv.ua&amp;videoUrl=2013/10/375890&amp;imgUrl=_main.mp4.jpeg&amp;stream=https://stream1.luxnet.ua&amp;h=475&amp;w=600" height="475" width="600" frameborder="0" scrolling="no"></iframe>
 
 З проханням змінити цільове призначення майже ста гектарів сільськогосподарських земель до міськради звернулась компанія "Інтер-профіт", яку створили вісім місяців тому і яка стала власником ділянки. Жанну Денисову мер назвав представником цієї компанії, хоча представляла жінка, за її словами, компанію-забудовника. Говорила вона про виробництво до 16 тисяч найменувань ліків, презентувала навіть схему будівництва.
 
@@ -51,6 +51,6 @@ coverImage: "wp-content/uploads/2013/10/sapojko24_2.png"
 
 Утім, проекту рішення ніхто не бачив, копії угоди з іноземною компанією ніхто не надав, але мер переконував, що місту потрібні інвестиції і переважна більшість депутатів проголосувала "за". Цільове призначення майже ста гектарів землі змінили.
 
-**Джерело: "[Телеканал новин 24](http://24tv.ua/home/showSingleNews.do?krupnim_planom_miskrada_brovariv_podaruvala_95_gektariv_silgospzemel&objectId=375890)"**
+**Джерело: "[Телеканал новин 24](https://24tv.ua/home/showSingleNews.do?krupnim_planom_miskrada_brovariv_podaruvala_95_gektariv_silgospzemel&objectId=375890)"**
 
 > Нагадаємо, 1 жовтня 2013 року депутати Броварської міської ради [погодились змінити](https://mpz.brovary.org/brovarski-deputati-bezkoshtovno-viddali-96-gektariv-pid-budivnitstvo-farmatsevtichnogo-zavodu/) цільове призначення 96 га землі з сільськогосподарського на землі промисловості – для будівництва виробництва та складів концерну “Bayer”. Однак вже наступного дня представники концерну офіційно [спростували цю інформацію](https://mpz.brovary.org/bayyer-zayaviv-shho-ne-buduvatime-zavod-u-brovarah-hto-prikrivsya-mizhnarodnim-brendom-na-sesiyi/) і заявили, що жодних намірів будувати виробництво на броварських землях вони не мають.

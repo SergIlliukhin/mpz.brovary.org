@@ -15,7 +15,7 @@ tags:
 coverImage: "wp-content/uploads/2012/09/Rozdacha-paykiv.jpg"
 ---
 
-[![](https://mpz.brovary.org/wp-content/uploads/2012/09/Rozdacha-paykiv.jpg "Роздача пайків")](https://mpz.brovary.org/wp-content/uploads/2012/09/Rozdacha-paykiv.jpg)Не зважаючи на [ганебне викриття ще на Великодень](https://mpz.brovary.org/fedorenko-rozpochav-peredviborchu-rozdachu-produktovih-naboriv-video/), коли масажист **Федоренко** на всю країну прославився роздачею продуктових наборів пенсіонерам, кандидат від **Партії регіонів** вирішив продовжити практику підкупу виборців вже за півтора місяці до дня голосування, - [повідомляє](http://www.nastup.info/?p=267) на своєму сайті броварська громадянська кампанія "**Наступ**".
+[![](https://mpz.brovary.org/wp-content/uploads/2012/09/Rozdacha-paykiv.jpg "Роздача пайків")](https://mpz.brovary.org/wp-content/uploads/2012/09/Rozdacha-paykiv.jpg)Не зважаючи на [ганебне викриття ще на Великодень](https://mpz.brovary.org/fedorenko-rozpochav-peredviborchu-rozdachu-produktovih-naboriv-video/), коли масажист **Федоренко** на всю країну прославився роздачею продуктових наборів пенсіонерам, кандидат від **Партії регіонів** вирішив продовжити практику підкупу виборців вже за півтора місяці до дня голосування, - [повідомляє](https://www.nastup.info/?p=267) на своєму сайті броварська громадянська кампанія "**Наступ**".
 
 12 вересня активісти "Наступу" зловили Федоренка на гарячому під час чергової роздачі продуктових наборів літнім броварчанам в тому ж самому місці, як і попереднього разу – в МКЦ «Прометей» – знову в центрі міста і знову посеред білого дня. Як і на Великдень, Федоренко вирішив «спустити собак» на тих, хто виявив та намагався зафіксувати його злочин.
 
@@ -27,8 +27,8 @@ coverImage: "wp-content/uploads/2012/09/Rozdacha-paykiv.jpg"
 
 Тому, враховуючи те, що ні міська влада, ні міліція, ні окружна виборча комісія абсолютно не реагує на будь-які порушення з боку провладних кандидатів, в броварчан залишається єдина зброя проти злочинного режиму: прийти на вибори та проголосувати за чесного кандидата.
 
-Також, нагадаємо, минулого тижня даний факт [оприлюднили](http://groza.org/brovarskyj-rehional-serhij-fedorenko-kupuje-vybortsiv-video/) у своєму відео активісти громадської організації "**Громадський захист Київщини**":
+Також, нагадаємо, минулого тижня даний факт [оприлюднили](https://groza.org/brovarskyj-rehional-serhij-fedorenko-kupuje-vybortsiv-video/) у своєму відео активісти громадської організації "**Громадський захист Київщини**":
 
 <iframe src="https://www.youtube.com/embed/zhZNv9ufvi8" frameborder="0" width="560" height="315"></iframe>
 
-Повідомлення "ГроЗи" передрукували численні всеукраїнські ЗМІ: "[Українська правда](http://www.pravda.com.ua/news/2012/09/13/6972648/)",  "[Газета.ЮА](https://gazeta.ua/articles/politics/_masazhist-azarova-pidkupovue-viborciv-produktovimi-naborami/455731)", "[Український тиждень](https://tyzhden.ua/News/59932)" тощо.
+Повідомлення "ГроЗи" передрукували численні всеукраїнські ЗМІ: "[Українська правда](https://www.pravda.com.ua/news/2012/09/13/6972648/)",  "[Газета.ЮА](https://gazeta.ua/articles/politics/_masazhist-azarova-pidkupovue-viborciv-produktovimi-naborami/455731)", "[Український тиждень](https://tyzhden.ua/News/59932)" тощо.

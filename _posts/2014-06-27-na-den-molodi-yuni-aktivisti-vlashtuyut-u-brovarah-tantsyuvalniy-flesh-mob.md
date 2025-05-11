@@ -24,9 +24,9 @@ coverImage: "wp-content/uploads/2013/06/Den-molodi.jpg"
 
 [![діти для дітей07](https://mpz.brovary.org/wp-content/uploads/2014/04/diti-dlya-ditey07.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/04/diti-dlya-ditey07.jpg)
 
-> Як проходив попередній танцювальний флеш-моб "Діти для дітей", читайте [за посиланням](https://mpz.brovary.org/diti-dlya-ditey-tantsyuvalniy-fleshmob-vid-brovarskih-shkolyariv-foto-video/) (+ [ВІДЕО](http://youtu.be/R4hkfx1jwVY)).
+> Як проходив попередній танцювальний флеш-моб "Діти для дітей", читайте [за посиланням](https://mpz.brovary.org/diti-dlya-ditey-tantsyuvalniy-fleshmob-vid-brovarskih-shkolyariv-foto-video/) (+ [ВІДЕО](https://youtu.be/R4hkfx1jwVY)).
 
-Розпорядженням міського голови [№ 112](http://docs.brovary.org/p12353/19.06.2014/112) затверджено наступний перелік загальноміських заходів з нагоди Дня молоді, які проходитимуть на Майдані Свободи:
+Розпорядженням міського голови [№ 112](https://docs.brovary.org/p12353/19.06.2014/112) затверджено наступний перелік загальноміських заходів з нагоди Дня молоді, які проходитимуть на Майдані Свободи:
 
 > 8:00 - 10:00 - спортивно-оздоровчі заходи «Фітнес-Бум»
 > 

@@ -59,4 +59,4 @@ coverImage: "wp-content/uploads/2016/03/Zbory-koordynatsijnoyi-rady-gromadskyh-o
 
 Однак присутні на сцені, користуючись наявністю мікрофону, не дали депутатам скінчити репліки, а перейшли до фінальної його частини: прийняття резолюції. Сам процес прийнятті відбувся в досить оригінальний спосіб: Тетяна Немчина запропонувала присутнім проголосувати за текст резолюції, який «робоча група» напише… потім, вже після голосування. Абсолютна більшість присутніх підтримали такий «проект резолюції».
 
-Фото Бажена Левковця via ["Відеопрозорість"](http://video.brovary.org/zbory-koordynatsijnoyi-rady-gromadskyh-organizatsij-v-mkts-prometej-2-bereznya-2016-roku/)
+Фото Бажена Левковця via ["Відеопрозорість"](https://video.brovary.org/zbory-koordynatsijnoyi-rady-gromadskyh-organizatsij-v-mkts-prometej-2-bereznya-2016-roku/)

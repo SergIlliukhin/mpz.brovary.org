@@ -26,4 +26,4 @@ coverImage: "wp-content/uploads/2017/01/energoaudyt-teplozberezhennya-energozber
 
 Захід відбудеться цього понеділка, **23 січня**, о **10:00** в малій залі виконкому Броварської міської ради, що за адресою: **вул. Гагаріна, 15**.
 
-Як зазначив Олександр Короленко, головним доповідачем буде [ТОВ "Гідрозахист"](http://euroizol.ua). Окрім того, присутні почують доповіді компаній ["Danfoss](http://heating.danfoss.ua)" і ["Ceresit"](http://www.ceresit.ua).
+Як зазначив Олександр Короленко, головним доповідачем буде [ТОВ "Гідрозахист"](https://euroizol.ua). Окрім того, присутні почують доповіді компаній ["Danfoss](https://heating.danfoss.ua)" і ["Ceresit"](https://www.ceresit.ua).

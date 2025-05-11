@@ -18,7 +18,7 @@ tags:
 coverImage: "wp-content/uploads/2016/06/prozorro.jpg"
 ---
 
-**З початку 2016 року Бровари зареєстрували проведення 70 тендерів в електронній системі закупівель [«Prozorro»](https://mpz.brovary.org/systema-prozorro-yak-bez-vidkativ-zaroblyaty-na-derzhavnomu-tenderi/). Із них 50 вже завершили. Ці показники не відносять ані до лідерів, ані до аутсайдерів серед решти міст обласного підпорядкування Київщини. Таку аналітику із посиланням на ГПО «Права людини» [наводить](http://blogs.lb.ua/vitaliy_drobotun/337708_de_kiivskiy_oblasti_prozorro.html?utm_source=local&utm_medium=cpm&utm_campaign=lenta) правозахисник Віталій Дроботун.**
+**З початку 2016 року Бровари зареєстрували проведення 70 тендерів в електронній системі закупівель [«Prozorro»](https://mpz.brovary.org/systema-prozorro-yak-bez-vidkativ-zaroblyaty-na-derzhavnomu-tenderi/). Із них 50 вже завершили. Ці показники не відносять ані до лідерів, ані до аутсайдерів серед решти міст обласного підпорядкування Київщини. Таку аналітику із посиланням на ГПО «Права людини» [наводить](https://blogs.lb.ua/vitaliy_drobotun/337708_de_kiivskiy_oblasti_prozorro.html?utm_source=local&utm_medium=cpm&utm_campaign=lenta) правозахисник Віталій Дроботун.**
 
 Організація у своєму дослідженні проаналізувала публічні закупівлі у 12 містах Київської області за період від 1 січня по 31 травня 2016 року. За кількістю тендерів Бровари посіли **5 місце**. Водночас, за кількістю завершених публічних закупівель – **3 місце**.
 

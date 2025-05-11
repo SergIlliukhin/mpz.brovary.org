@@ -32,4 +32,4 @@ coverImage: "wp-content/uploads/2013/08/vybrane1.jpg"
 
 \[caption id="attachment\_20178" align="aligncenter" width="569"\][![Міліціонери в цивільному в залі суду](https://mpz.brovary.org/wp-content/uploads/2013/08/Drugiy-sud-nad-svobodivtsyami-za-park-6.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/08/Drugiy-sud-nad-svobodivtsyami-za-park-6.jpg) Міліціонери в цивільному в залі суду\[/caption\]
 
-> Нагадаємо, що «Маєш право знати» **[здійснювало пряму відеотрансляцію](https://mpz.brovary.org/zavtra-mpz-zdiysnit-pryamu-translyatsiyu-aktsiyi-protestu-pid-brovarskim-sudom/)** всіх подій навколо суду та безпосередньо із зали, де відбувався судовий розгляд. Відеозапис «МПЗ» доступний нашим читачам [за цим посиланням.](http://www.ustream.tv/recorded/37244049)
+> Нагадаємо, що «Маєш право знати» **[здійснювало пряму відеотрансляцію](https://mpz.brovary.org/zavtra-mpz-zdiysnit-pryamu-translyatsiyu-aktsiyi-protestu-pid-brovarskim-sudom/)** всіх подій навколо суду та безпосередньо із зали, де відбувався судовий розгляд. Відеозапис «МПЗ» доступний нашим читачам [за цим посиланням.](https://www.ustream.tv/recorded/37244049)

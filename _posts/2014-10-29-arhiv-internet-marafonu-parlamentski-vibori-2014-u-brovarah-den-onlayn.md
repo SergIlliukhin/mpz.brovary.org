@@ -32,7 +32,7 @@ coverImage: "wp-content/uploads/2014/10/marafon-vybory-2014-4451.jpg"
 
 ![](https://fbexternal-a.akamaihd.net/safe_image.php?d=AQDVaX7MQRVbn90_&w=437&h=229&url=https%3A%2F%2Ffbcdn-sphotos-a-a.akamaihd.net%2Fhphotos-ak-xpa1%2Ft31.0-8%2Fs720x720%2F10662076_675656809209235_6003802116648894576_o.jpg&cfs=1&upscale=1&sx=0&sy=31&sw=720&sh=377)
 
-[Роботу ОВК заблоковано: керівництво комісії не приймає протоколи з дільниць за вимогою Семеняки...](http://l.facebook.com/l.php?u=http%3A%2F%2Fmpz.brovary.org%2Frobotu-ovk-zablokovano-kerivnitstvo-komisiyi-ne-priymaye-protokoli-z-dilnits-za-vimogoyu-semenyaki&h=WAQHCb8ir&s=1)
+[Роботу ОВК заблоковано: керівництво комісії не приймає протоколи з дільниць за вимогою Семеняки...](https://l.facebook.com/l.php?u=http%3A%2F%2Fmpz.brovary.org%2Frobotu-ovk-zablokovano-kerivnitstvo-komisiyi-ne-priymaye-protokoli-z-dilnits-za-vimogoyu-semenyaki&h=WAQHCb8ir&s=1)
 
 Загострюється ситуації в роботі Окружної виборчої комісії №97 у Броварах: керівництво
 
@@ -48,7 +48,7 @@ mpz.brovary.org
 
 ![](https://fbexternal-a.akamaihd.net/safe_image.php?d=AQAIgGBzFdwBGXES&w=437&h=229&url=https%3A%2F%2Ffbcdn-sphotos-e-a.akamaihd.net%2Fhphotos-ak-xaf1%2Fv%2Ft1.0-9%2F1904167_675604855881097_2361040632622134462_n.jpg%3Foh%3D8ec87430dd9dcdcfdcff0ddfc7c01e14%26oe%3D54E3D1DA%26__gda__%3D1423984292_b28e0b85c44b6bc8caf7347f217ed539&cfs=1&upscale=1&sx=0&sy=0&sw=445&sh=233)
 
-[В окрузі №97 ЦВК опрацювала близько 20% протоколів: лідирують Павло Різаненко та Блок Петра...](http://l.facebook.com/l.php?u=http%3A%2F%2Fmpz.brovary.org%2Fv-okruzi-97-tsvk-opratsyuvalo-blizko-20-byuleteniv-lidiruyut-pavlo-rizanenko-ta-blok-petra-poroshenka&h=vAQHb6sMi&s=1)
+[В окрузі №97 ЦВК опрацювала близько 20% протоколів: лідирують Павло Різаненко та Блок Петра...](https://l.facebook.com/l.php?u=http%3A%2F%2Fmpz.brovary.org%2Fv-okruzi-97-tsvk-opratsyuvalo-blizko-20-byuleteniv-lidiruyut-pavlo-rizanenko-ta-blok-petra-poroshenka&h=vAQHb6sMi&s=1)
 
 Станом на 14:00 Центральна виборча комісія опрацювала приблизно п’яту частину
 
@@ -106,9 +106,9 @@ mpz.brovary.org
 
 [13 год.](https://www.facebook.com/pravo.znaty.brovary/photos/a.550155501759367.1073741839.156562511118670/675445019230414/?type=1)
 
-...А тим часом в ОВК продовжують приймати бюлетені і протоколи з дільниць. Черга членів ДВК не дуже велика, люди приїжджають, записуються і їдуть. Біля окружкому стоять переважно ті, чия черга підходить. Цього разу біля ОВК - "новація": лоток, де можна серед ночі придбати їжу. До речі, нагадуємо, що за цим посиланням триває наша пряма трансляція з ОВК - [http://www.ustream.tv/channel/pravoznaty](http://l.facebook.com/l.php?u=http%3A%2F%2Fwww.ustream.tv%2Fchannel%2Fpravoznaty&h=YAQH80GPa&enc=AZPGI-K4kk-eEAaVhA9Dk7hcwKXWFf0f574AHsHeWbWl2MU5DiE4n_JSPsQm75vdXJNPXDLAeR5cFXqVTFFJlm-HrHiTFfwienNnFOqLAXYaPDWiuX-V5TBUB3MupNHMfXRzjTLMbUvBUgPIQv_de_tr&s=1)
+...А тим часом в ОВК продовжують приймати бюлетені і протоколи з дільниць. Черга членів ДВК не дуже велика, люди приїжджають, записуються і їдуть. Біля окружкому стоять переважно ті, чия черга підходить. Цього разу біля ОВК - "новація": лоток, де можна серед ночі придбати їжу. До речі, нагадуємо, що за цим посиланням триває наша пряма трансляція з ОВК - [https://www.ustream.tv/channel/pravoznaty](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.ustream.tv%2Fchannel%2Fpravoznaty&h=YAQH80GPa&enc=AZPGI-K4kk-eEAaVhA9Dk7hcwKXWFf0f574AHsHeWbWl2MU5DiE4n_JSPsQm75vdXJNPXDLAeR5cFXqVTFFJlm-HrHiTFfwienNnFOqLAXYaPDWiuX-V5TBUB3MupNHMfXRzjTLMbUvBUgPIQv_de_tr&s=1)
 
-![...А тим часом в ОВК продовжують приймати бюлетені і протоколи з дільниць. Черга членів ДВК не дуже велика, люди приїжджають, записуються і їдуть. Біля окружкому стоять переважно ті, чия черга підходить. Цього разу біля ОВК - "новація": лоток, де можна серед ночі придбати їжу.<br /> До речі, нагадуємо, що за цим посиланням триває наша пряма трансляція з ОВК - http://www.ustream.tv/channel/pravoznaty](https://scontent-b-cdg.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/p235x350/10411896_675445019230414_2762741719865281209_n.jpg?oh=544b68b4bd77b58804828eea365cc2ad&oe=54B03755)
+![...А тим часом в ОВК продовжують приймати бюлетені і протоколи з дільниць. Черга членів ДВК не дуже велика, люди приїжджають, записуються і їдуть. Біля окружкому стоять переважно ті, чия черга підходить. Цього разу біля ОВК - "новація": лоток, де можна серед ночі придбати їжу.<br /> До речі, нагадуємо, що за цим посиланням триває наша пряма трансляція з ОВК - https://www.ustream.tv/channel/pravoznaty](https://scontent-b-cdg.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/p235x350/10411896_675445019230414_2762741719865281209_n.jpg?oh=544b68b4bd77b58804828eea365cc2ad&oe=54B03755)
 
 [![](https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash2/v/t1.0-1/e2/c12.12.155.155/s50x50/553605_292129157562004_1118544668_n.jpg?oh=ac75cfc5decf1e89f45f171802e6295d&oe=54ABBC1E&__gda__=1420555045_00e47f61bf902c3b95d9e155576ee9b0)](https://www.facebook.com/pravo.znaty.brovary)
 
@@ -132,11 +132,11 @@ mpz.brovary.org
 
 [27 жовтня  0:25](https://www.facebook.com/pravo.znaty.brovary/posts/675349689239947)
 
-Ми відновили пряму трансляцію з Окружної виборчої комісії, куди вже починають приходити перші результати з дільниць. Трансляція триватиме безперервно за цим посиланням. РЕПОСТ! [‪#‎округ97‬](https://www.facebook.com/hashtag/%D0%BE%D0%BA%D1%80%D1%83%D0%B397?source=feed_text&story_id=675349689239947), [‪#‎Бровари‬](https://www.facebook.com/hashtag/%D0%B1%D1%80%D0%BE%D0%B2%D0%B0%D1%80%D0%B8?source=feed_text&story_id=675349689239947) [http://www.ustream.tv/channel/pravoznaty](http://l.facebook.com/l.php?u=http%3A%2F%2Fwww.ustream.tv%2Fchannel%2Fpravoznaty&h=MAQFvpxhQ&enc=AZNNwo-vYKAQ61siWmC1ybAPrGABYdi7RJsUMZftTeBe4ay2UpBOkvY12KQmDNZvdd9GXZBdwB9BGNTEntTnrjFUbzFKKYLNkLETuz4HNM8IUXkRATijkW-jjwxSf7Sk1joip-KqJ4WNBivBo3PdKK3O25MM8jUEnbeNDK2Uw8Tsyg&s=1)
+Ми відновили пряму трансляцію з Окружної виборчої комісії, куди вже починають приходити перші результати з дільниць. Трансляція триватиме безперервно за цим посиланням. РЕПОСТ! [‪#‎округ97‬](https://www.facebook.com/hashtag/%D0%BE%D0%BA%D1%80%D1%83%D0%B397?source=feed_text&story_id=675349689239947), [‪#‎Бровари‬](https://www.facebook.com/hashtag/%D0%B1%D1%80%D0%BE%D0%B2%D0%B0%D1%80%D0%B8?source=feed_text&story_id=675349689239947) [https://www.ustream.tv/channel/pravoznaty](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.ustream.tv%2Fchannel%2Fpravoznaty&h=MAQFvpxhQ&enc=AZNNwo-vYKAQ61siWmC1ybAPrGABYdi7RJsUMZftTeBe4ay2UpBOkvY12KQmDNZvdd9GXZBdwB9BGNTEntTnrjFUbzFKKYLNkLETuz4HNM8IUXkRATijkW-jjwxSf7Sk1joip-KqJ4WNBivBo3PdKK3O25MM8jUEnbeNDK2Uw8Tsyg&s=1)
 
 ![](https://fbexternal-a.akamaihd.net/safe_image.php?d=AQAXA7GHOwv9bEf_&w=437&h=229&url=http%3A%2F%2Fstatic-cdn2.ustream.tv%2Fi%2Fchannel%2Fpicture%2F1%2F5%2F4%2F7%2F15478577%2F15478577_553605_29212915756200_1375597492%2C640x360%2Cr%3A1.jpg&cfs=1&upscale=1)
 
-[Маєш право знати - Бровари](http://l.facebook.com/l.php?u=http%3A%2F%2Fwww.ustream.tv%2Fchannel%2Fpravoznaty&h=OAQGcmaL8&s=1)
+[Маєш право знати - Бровари](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.ustream.tv%2Fchannel%2Fpravoznaty&h=OAQGcmaL8&s=1)
 
 Броварський Інтернет-сайт "Маєш право знати". Актуальні новини, журналістські розслідування, репортажі з броварських подій
 
@@ -166,7 +166,7 @@ ustream.tv
 
 [26 жовтня 21:47](https://www.facebook.com/pravo.znaty.brovary/posts/675296525911930)
 
-На завершення цього непростого дня голосування та напередодні ще більш непростої ночі підрахунку голосів пропонуємо вам подивитись, як голосували Бровари у нашому спеціальному фоторепортажі. За посиланням – ВЕЛИКИЙ ФОТОРЕПОРТАЖ (36 фото)! Цілком вірогідно, що на цих фото ви знайдете своїх друзів, родичів, знайомих або й себе! ДЯКУЄМО ЗА РЕПОСТИ! [https://mpz.brovary.org/yak-golosuvali-brovari-fotoreportazh](http://l.facebook.com/l.php?u=http%3A%2F%2Fmpz.brovary.org%2Fyak-golosuvali-brovari-fotoreportazh&h=2AQFss1wt&enc=AZNj5KZxDLjgDDS0wWZ7kBUgSVxmg3QwevbrYRlv3obvZm9TIUc22Y4anOQPQq_jHLqcCwZxUrGNfcGCxS2lZQGm9I_FrKoUyAnVsj6hKsm2c2bGVqXFPAGIMtIxcsGn_OMf8vmqhi7JydfbLbUy9Ia_dwuYQsm4nhMzGD2xptH8cw&s=1)
+На завершення цього непростого дня голосування та напередодні ще більш непростої ночі підрахунку голосів пропонуємо вам подивитись, як голосували Бровари у нашому спеціальному фоторепортажі. За посиланням – ВЕЛИКИЙ ФОТОРЕПОРТАЖ (36 фото)! Цілком вірогідно, що на цих фото ви знайдете своїх друзів, родичів, знайомих або й себе! ДЯКУЄМО ЗА РЕПОСТИ! [https://mpz.brovary.org/yak-golosuvali-brovari-fotoreportazh](https://l.facebook.com/l.php?u=http%3A%2F%2Fmpz.brovary.org%2Fyak-golosuvali-brovari-fotoreportazh&h=2AQFss1wt&enc=AZNj5KZxDLjgDDS0wWZ7kBUgSVxmg3QwevbrYRlv3obvZm9TIUc22Y4anOQPQq_jHLqcCwZxUrGNfcGCxS2lZQGm9I_FrKoUyAnVsj6hKsm2c2bGVqXFPAGIMtIxcsGn_OMf8vmqhi7JydfbLbUy9Ia_dwuYQsm4nhMzGD2xptH8cw&s=1)
 
 ![](https://fbexternal-a.akamaihd.net/safe_image.php?d=AQBynhbi0EDGXgoF&w=437&h=229&url=https%3A%2F%2Ffbcdn-sphotos-c-a.akamaihd.net%2Fhphotos-ak-xpa1%2Ft31.0-8%2Fs720x720%2F10710230_675296459245270_3519573714865056712_o.jpg&cfs=1&upscale=1&sx=0&sy=0&sw=720&sh=377)
 
@@ -182,11 +182,11 @@ mpz.brovary.org
 
 [26 жовтня 21:42](https://www.facebook.com/pravo.znaty.brovary/posts/675295125912070)
 
-Як розпочала своє засідання ДВК, розташована у 9 школі, та як вчинили члени виборчої комісії зі спостерігачами від одного кандидата, які весь день втручались у роботу ДВК, дивіться у відеозаписі прямого включення нашого журналіста Тараса Шако за посиланням: [http://www.ustream.tv/recorded/54533720](http://l.facebook.com/l.php?u=http%3A%2F%2Fwww.ustream.tv%2Frecorded%2F54533720&h=RAQF6kMcn&enc=AZMPY-ngnYgjXfFskz3_rl4kHFGB3Z2_KetRy8FiIh65P6C4Ef9xcWPCp_n0hjM32gUuJyVIk8SMWq_dMcP6OdEtNPPHBrToj0GMah-wpG3Z4MBTRfL25d57YFVYJ01pXiKgvZyLesOu2wF3L0vhR8e18b1AOvIa2XCFf5Wm6BVx_w&s=1)
+Як розпочала своє засідання ДВК, розташована у 9 школі, та як вчинили члени виборчої комісії зі спостерігачами від одного кандидата, які весь день втручались у роботу ДВК, дивіться у відеозаписі прямого включення нашого журналіста Тараса Шако за посиланням: [https://www.ustream.tv/recorded/54533720](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.ustream.tv%2Frecorded%2F54533720&h=RAQF6kMcn&enc=AZMPY-ngnYgjXfFskz3_rl4kHFGB3Z2_KetRy8FiIh65P6C4Ef9xcWPCp_n0hjM32gUuJyVIk8SMWq_dMcP6OdEtNPPHBrToj0GMah-wpG3Z4MBTRfL25d57YFVYJ01pXiKgvZyLesOu2wF3L0vhR8e18b1AOvIa2XCFf5Wm6BVx_w&s=1)
 
 ![](https://fbexternal-a.akamaihd.net/safe_image.php?d=AQCthqSp6lEv7Ece&w=437&h=229&url=http%3A%2F%2Fstatic-cdn1.ustream.tv%2Fi%2Fvideo%2Fpicture%2F0%2F1%2F54%2F54533%2F54533720%2F1_15478577_54533720%2C640x360%2Cb%2C1%3A2.jpg&cfs=1&upscale=1)
 
-[26 жовтня - 20:30 - включення з ДВК у 9 школі](http://l.facebook.com/l.php?u=http%3A%2F%2Fwww.ustream.tv%2Frecorded%2F54533720&h=JAQHDureX&s=1)
+[26 жовтня - 20:30 - включення з ДВК у 9 школі](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.ustream.tv%2Frecorded%2F54533720&h=JAQHDureX&s=1)
 
 Recorded live on my iPhone on 26.10.14 at 20:30 GMT+2
 
@@ -206,11 +206,11 @@ ustream.tv
 
 [26 жовтня 20:43](https://www.facebook.com/pravo.znaty.brovary/posts/675272742580975)
 
-Повний відеозапис прямого включення з міськвідділку міліції. Броварська міліція дала журналістам "Маєш право знати" ексклюзивний офіційний коментар щодо перебігу дня голосування у Броварах. Начальник відділу зв'язків з громадськістю Броварського МВ Юлія Барабаш розповіла про те, які та скільки порушень виборчого законодавства зафіксовано в нашому місті та чого очікують правоохоронці від ночі підрахунку голосів [http://www.ustream.tv/recorded/54529169](http://l.facebook.com/l.php?u=http%3A%2F%2Fwww.ustream.tv%2Frecorded%2F54529169&h=wAQHoDsYr&enc=AZO0FeBU42vKWW5RxuAyg4uUeuivkRTpgO_P_bbeZ7ABW8fnqUK05Bq8L_zcTG6uku0SjSL1gYRO5S8T5SMCp3uXqu9z2Gz23668lYxkBRcUgU82HjngUOE-afK8KrTpIoY27m37tZJhSUs-JyLlXhGRvA027zgvwtX9IDM2q7A6aQ&s=1)
+Повний відеозапис прямого включення з міськвідділку міліції. Броварська міліція дала журналістам "Маєш право знати" ексклюзивний офіційний коментар щодо перебігу дня голосування у Броварах. Начальник відділу зв'язків з громадськістю Броварського МВ Юлія Барабаш розповіла про те, які та скільки порушень виборчого законодавства зафіксовано в нашому місті та чого очікують правоохоронці від ночі підрахунку голосів [https://www.ustream.tv/recorded/54529169](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.ustream.tv%2Frecorded%2F54529169&h=wAQHoDsYr&enc=AZO0FeBU42vKWW5RxuAyg4uUeuivkRTpgO_P_bbeZ7ABW8fnqUK05Bq8L_zcTG6uku0SjSL1gYRO5S8T5SMCp3uXqu9z2Gz23668lYxkBRcUgU82HjngUOE-afK8KrTpIoY27m37tZJhSUs-JyLlXhGRvA027zgvwtX9IDM2q7A6aQ&s=1)
 
 ![](https://fbexternal-a.akamaihd.net/safe_image.php?d=AQCI49MsZeel5VjK&w=437&h=229&url=http%3A%2F%2Fstatic-cdn2.ustream.tv%2Fi%2Fvideo%2Fpicture%2F0%2F1%2F54%2F54529%2F54529169%2F1_15478577_54529169%2C640x360%2Cb%2C1%3A3.jpg&cfs=1&upscale=1&sx=0&sy=5&sw=640&sh=335)
 
-[26 жовтня - 19:00 - включення з відділку міліції](http://www.ustream.tv/recorded/54529169)
+[26 жовтня - 19:00 - включення з відділку міліції](https://www.ustream.tv/recorded/54529169)
 
 Маєш право знати - Бровари
 
@@ -222,7 +222,7 @@ ustream.tv
 
 [26 жовтня 20:20](https://www.facebook.com/pravo.znaty.brovary/posts/675261709248745)
 
-О 20:30 очікуємо пряме включення нашого кореспондента Тараса Шако з виборчої дільниці в ЗОШ №9, де сьогодні увесь день напружена обстановка. За інформацією нашого журналіста, члени комісії щойно проголосували за видворення з дільниці спостерігачів від "Батьківщини" та Кищука, які сьогодні увесь день інспірували провокативні ситуації. Трансляція відбудеться за цим посиланням о 20:30 [http://www.ustream.tv/channel/pravoznaty](http://l.facebook.com/l.php?u=http%3A%2F%2Fwww.ustream.tv%2Fchannel%2Fpravoznaty&h=0AQEmzdZo&enc=AZMPaXUDz9u5o5lrbUWCZ2O4b0h94rnVQ_Rja9RQtMlm1914KSNcVs-KRUTV_ARGiqARILkT446k2NFvMqw2wcLxg8frM6i8Vg1A67q7WdwDzz8BRX8qJkkoHNPeigNB5edPIICzADtZsNftCEmAy8AntZT7HQKVKe1rcwlzn7UZUA&s=1)
+О 20:30 очікуємо пряме включення нашого кореспондента Тараса Шако з виборчої дільниці в ЗОШ №9, де сьогодні увесь день напружена обстановка. За інформацією нашого журналіста, члени комісії щойно проголосували за видворення з дільниці спостерігачів від "Батьківщини" та Кищука, які сьогодні увесь день інспірували провокативні ситуації. Трансляція відбудеться за цим посиланням о 20:30 [https://www.ustream.tv/channel/pravoznaty](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.ustream.tv%2Fchannel%2Fpravoznaty&h=0AQEmzdZo&enc=AZMPaXUDz9u5o5lrbUWCZ2O4b0h94rnVQ_Rja9RQtMlm1914KSNcVs-KRUTV_ARGiqARILkT446k2NFvMqw2wcLxg8frM6i8Vg1A67q7WdwDzz8BRX8qJkkoHNPeigNB5edPIICzADtZsNftCEmAy8AntZT7HQKVKe1rcwlzn7UZUA&s=1)
 
 [![](https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash2/v/t1.0-1/e2/c12.12.155.155/s50x50/553605_292129157562004_1118544668_n.jpg?oh=ac75cfc5decf1e89f45f171802e6295d&oe=54ABBC1E&__gda__=1420555045_00e47f61bf902c3b95d9e155576ee9b0)](https://www.facebook.com/pravo.znaty.brovary)
 
@@ -230,11 +230,11 @@ ustream.tv
 
 [26 жовтня 19:38](https://www.facebook.com/pravo.znaty.brovary/posts/675234292584820)
 
-Фінал історії про "ляшкомобіль", який здійснював незаконну агітацію: на водія складено адмінпротокол, за інформацією з броварської міліції, чоловіка вже оштрафовано на 510 гривень. На завершення історії - відео, як водій пояснює свої дії при спілкуванні з представниками Блоку Петра Порошенка в присутності терміново прибулих представників Радикальної партії України Олега Ляшка [http://youtu.be/0PXCdAOmkv0](http://l.facebook.com/l.php?u=http%3A%2F%2Fyoutu.be%2F0PXCdAOmkv0&h=pAQGRR8V3&enc=AZOo0CzYUOARkWZiWDk-BQkrqKVq3d0jthOt-KMEWp8rjHGF3prKel69K0Tc2t7RgoEyLM2PYywhE7ef_6-6IagDjYPOPCs10Y9-KZsyeYIdEC4n4WCQxbFvUnrxXKO4E6duzXZWmp52k__6M5WIdfOgdNmazxMs-p4WPnhsssAbfg&s=1)
+Фінал історії про "ляшкомобіль", який здійснював незаконну агітацію: на водія складено адмінпротокол, за інформацією з броварської міліції, чоловіка вже оштрафовано на 510 гривень. На завершення історії - відео, як водій пояснює свої дії при спілкуванні з представниками Блоку Петра Порошенка в присутності терміново прибулих представників Радикальної партії України Олега Ляшка [https://youtu.be/0PXCdAOmkv0](https://l.facebook.com/l.php?u=http%3A%2F%2Fyoutu.be%2F0PXCdAOmkv0&h=pAQGRR8V3&enc=AZOo0CzYUOARkWZiWDk-BQkrqKVq3d0jthOt-KMEWp8rjHGF3prKel69K0Tc2t7RgoEyLM2PYywhE7ef_6-6IagDjYPOPCs10Y9-KZsyeYIdEC4n4WCQxbFvUnrxXKO4E6duzXZWmp52k__6M5WIdfOgdNmazxMs-p4WPnhsssAbfg&s=1)
 
 ![](https://fbexternal-a.akamaihd.net/safe_image.php?d=AQDmgbfnTJfjLkLi&w=158&h=158&url=http%3A%2F%2Fi.ytimg.com%2Fvi%2F0PXCdAOmkv0%2Fmaxresdefault.jpg&cfs=1&upscale=1&sx=292&sy=0&sw=720&sh=720)
 
-[Затримання агітмобілю РПЛ Олега Ляшка: «розборки» представників БПП з представниками РПЛ](http://youtu.be/0PXCdAOmkv0)
+[Затримання агітмобілю РПЛ Олега Ляшка: «розборки» представників БПП з представниками РПЛ](https://youtu.be/0PXCdAOmkv0)
 
 Знайшовся водій агітавтомобіля Радикальної партії України Олега Ляшка, що здійснював незаконну агітацію біля однієї з виборчих дільниць на вулиці Марії Лагун...
 
@@ -246,11 +246,11 @@ youtube.com
 
 [26 жовтня 18:52](https://www.facebook.com/pravo.znaty.brovary/posts/675218382586411)
 
-О 19:00 ми плануємо зробити пряме включення з відділку міліції. Ми попросили прокоментувати ситуацію щодо дотримання виборчого законодавства та громадського порядку у нашому місті правоохоронців. "Вмикайте" наш юстрім-канал через 10 хвилин - [http://www.ustream.tv/channel/pravoznaty](http://l.facebook.com/l.php?u=http%3A%2F%2Fwww.ustream.tv%2Fchannel%2Fpravoznaty&h=kAQE_KzBm&enc=AZMhMThnZLutS6heA1irDjY1lVTKOCJMSrHSK9f_q74u5GOa4DjiPkDfYZvX-3lOyoahtzVG8VyCaJdW_ZjEK9whkErr3OerubHvKEEQGtqhGbdN4jiERIMsPsaRFBle00zKDFUK7xzh1SYmh0uiHSkKc1n_jEiqks_sz_-8l6UuPQ&s=1) ПЕРЕПОСТ, будь ласка!
+О 19:00 ми плануємо зробити пряме включення з відділку міліції. Ми попросили прокоментувати ситуацію щодо дотримання виборчого законодавства та громадського порядку у нашому місті правоохоронців. "Вмикайте" наш юстрім-канал через 10 хвилин - [https://www.ustream.tv/channel/pravoznaty](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.ustream.tv%2Fchannel%2Fpravoznaty&h=kAQE_KzBm&enc=AZMhMThnZLutS6heA1irDjY1lVTKOCJMSrHSK9f_q74u5GOa4DjiPkDfYZvX-3lOyoahtzVG8VyCaJdW_ZjEK9whkErr3OerubHvKEEQGtqhGbdN4jiERIMsPsaRFBle00zKDFUK7xzh1SYmh0uiHSkKc1n_jEiqks_sz_-8l6UuPQ&s=1) ПЕРЕПОСТ, будь ласка!
 
 ![](https://fbexternal-a.akamaihd.net/safe_image.php?d=AQAXA7GHOwv9bEf_&w=437&h=229&url=http%3A%2F%2Fstatic-cdn2.ustream.tv%2Fi%2Fchannel%2Fpicture%2F1%2F5%2F4%2F7%2F15478577%2F15478577_553605_29212915756200_1375597492%2C640x360%2Cr%3A1.jpg&cfs=1&upscale=1)
 
-[Маєш право знати - Бровари](http://l.facebook.com/l.php?u=http%3A%2F%2Fwww.ustream.tv%2Fchannel%2Fpravoznaty&h=nAQHjbmnK&s=1)
+[Маєш право знати - Бровари](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.ustream.tv%2Fchannel%2Fpravoznaty&h=nAQHjbmnK&s=1)
 
 Броварський Інтернет-сайт "Маєш право знати". Актуальні новини, журналістські розслідування, репортажі з броварських подій
 
@@ -262,11 +262,11 @@ ustream.tv
 
 [26 жовтня 18:45](https://www.facebook.com/pravo.znaty.brovary/posts/675215872586662)
 
-Відеозапис нашого чергового прямого включення - з ДВК у 9 школі. Як з'ясували наші журналісти, там спостерігач від одного з кандидатів намагався скласти акт про порушення, якого ніхто не бачив. У чому саме запідозрив спостерігач членів виборчої комісії та як на це відрегували інші присутні на дільниці - дивіться за посиланням: [http://www.ustream.tv/recorded/54525781](http://l.facebook.com/l.php?u=http%3A%2F%2Fwww.ustream.tv%2Frecorded%2F54525781&h=pAQGRR8V3&enc=AZM4zW2VjdfWJMjoUHA8Uks1XHgGIsGhLMgidmNHc9tPyrHtdj1Q7uHHXd0kXUav_k5kXLVZpfgM-_1OG-Ng3ZtspuyciCadZ45LK-64pkk-ObENaCGe4GplW4JPJvE7xWhivoaqFGDZtA3OW1uA6UfnuIF9KjI1M8IyH6GKotS9-w&s=1)
+Відеозапис нашого чергового прямого включення - з ДВК у 9 школі. Як з'ясували наші журналісти, там спостерігач від одного з кандидатів намагався скласти акт про порушення, якого ніхто не бачив. У чому саме запідозрив спостерігач членів виборчої комісії та як на це відрегували інші присутні на дільниці - дивіться за посиланням: [https://www.ustream.tv/recorded/54525781](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.ustream.tv%2Frecorded%2F54525781&h=pAQGRR8V3&enc=AZM4zW2VjdfWJMjoUHA8Uks1XHgGIsGhLMgidmNHc9tPyrHtdj1Q7uHHXd0kXUav_k5kXLVZpfgM-_1OG-Ng3ZtspuyciCadZ45LK-64pkk-ObENaCGe4GplW4JPJvE7xWhivoaqFGDZtA3OW1uA6UfnuIF9KjI1M8IyH6GKotS9-w&s=1)
 
 ![](https://fbexternal-a.akamaihd.net/safe_image.php?d=AQDdbgJONhJcqyFx&w=437&h=229&url=http%3A%2F%2Fstatic-cdn2.ustream.tv%2Fi%2Fvideo%2Fpicture%2F0%2F1%2F54%2F54525%2F54525781%2F1_15478577_54525781%2C640x360%2Cb%2C1%3A2.jpg&cfs=1&upscale=1&sx=0&sy=5&sw=640&sh=335)
 
-[26 жовтня - 18:00 - пряме включення з ДВК у 9 школі](http://www.ustream.tv/recorded/54525781)
+[26 жовтня - 18:00 - пряме включення з ДВК у 9 школі](https://www.ustream.tv/recorded/54525781)
 
 Recorded live from Ukraine, Kyyivs'ka Oblast', Brovary on my iPhone on 26.10.14 at 18:04 GMT+2
 
@@ -278,11 +278,11 @@ ustream.tv
 
 [26 жовтня 17:50](https://www.facebook.com/pravo.znaty.brovary/posts/675177752590474)
 
-О 18:00 журналісти "Маєш право знати" планують здійснити чергове пряме включення. Щойно нам стало відомо про надзвичайну ситуацію на дільниці у 9 школі, де сьогодні підозрілі "журналісти" закрились у підсобному приміщенні. Наша знімальна група уже вирушила туди, щоб через 10 хвилин зробити пряму трансляцію та розповісти детальніше, що там відбувається зараз. Дивіться наш юстрім-канал за цим посиланням: [http://www.ustream.tv/channel/pravoznaty](http://l.facebook.com/l.php?u=http%3A%2F%2Fwww.ustream.tv%2Fchannel%2Fpravoznaty&h=MAQFvpxhQ&enc=AZN3znjQTdD7E_44nzSdOERrZb_UtHGOuA6wqdCtPoNNFX50EUewGMix9FyA9mVBnT5uTr-yc4hXEQwGYa7DNrCO71WlMIZdyuKm4OQy-JxTN5tGUfTyZHltuDbgyndDLAAYaxcx-uW9teStbXs1c6cRPkYljNvbpbOps9haU3euLg&s=1) ПЕРЕПОСТ, будь ласка!
+О 18:00 журналісти "Маєш право знати" планують здійснити чергове пряме включення. Щойно нам стало відомо про надзвичайну ситуацію на дільниці у 9 школі, де сьогодні підозрілі "журналісти" закрились у підсобному приміщенні. Наша знімальна група уже вирушила туди, щоб через 10 хвилин зробити пряму трансляцію та розповісти детальніше, що там відбувається зараз. Дивіться наш юстрім-канал за цим посиланням: [https://www.ustream.tv/channel/pravoznaty](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.ustream.tv%2Fchannel%2Fpravoznaty&h=MAQFvpxhQ&enc=AZN3znjQTdD7E_44nzSdOERrZb_UtHGOuA6wqdCtPoNNFX50EUewGMix9FyA9mVBnT5uTr-yc4hXEQwGYa7DNrCO71WlMIZdyuKm4OQy-JxTN5tGUfTyZHltuDbgyndDLAAYaxcx-uW9teStbXs1c6cRPkYljNvbpbOps9haU3euLg&s=1) ПЕРЕПОСТ, будь ласка!
 
 ![](https://fbexternal-a.akamaihd.net/safe_image.php?d=AQAXA7GHOwv9bEf_&w=437&h=229&url=http%3A%2F%2Fstatic-cdn2.ustream.tv%2Fi%2Fchannel%2Fpicture%2F1%2F5%2F4%2F7%2F15478577%2F15478577_553605_29212915756200_1375597492%2C640x360%2Cr%3A1.jpg&cfs=1&upscale=1)
 
-[Маєш право знати - Бровари](http://www.ustream.tv/channel/pravoznaty)
+[Маєш право знати - Бровари](https://www.ustream.tv/channel/pravoznaty)
 
 Броварський Інтернет-сайт "Маєш право знати". Актуальні новини, журналістські розслідування, репортажі з броварських подій
 
@@ -298,7 +298,7 @@ ustream.tv
 
 ![](https://fbexternal-a.akamaihd.net/safe_image.php?d=AQCz1PfmCrtPibXt&w=158&h=158&url=http%3A%2F%2Fi.ytimg.com%2Fvi%2FrmryZRwnpw0%2Fmaxresdefault.jpg&cfs=1&upscale=1)
 
-[Міліція зупинила автобус, що возив по різних дільницях групу молодих осіб.](http://l.facebook.com/l.php?u=http%3A%2F%2Fyoutu.be%2FrmryZRwnpw0&h=2AQFss1wt&s=1)
+[Міліція зупинила автобус, що возив по різних дільницях групу молодих осіб.](https://l.facebook.com/l.php?u=http%3A%2F%2Fyoutu.be%2FrmryZRwnpw0&h=2AQFss1wt&s=1)
 
 Підозрілий автобус спочатку помітили біля одної з дільниць в районі "Інтернату". Молоді люди колективно зайшли на виборчу дільницю, вочевидь, щоб проголосува...
 
@@ -318,11 +318,11 @@ youtube.com
 
 [26 жовтня 14:55](https://www.facebook.com/pravo.znaty.brovary/posts/675096775931905)
 
-Підозрілі "журналісти", більш схожі на спортсменів, реєструються відразу на кількох дільницях, після чого відразу їх полишають. Подивіться відео - відразу стане зрозумілим їхніх "журналістський хист". Питання - для чого це робиться? Що це за схема? [http://youtu.be/w-oAVDY3ZL0](http://l.facebook.com/l.php?u=http%3A%2F%2Fyoutu.be%2Fw-oAVDY3ZL0&h=vAQHb6sMi&enc=AZMb-BMzCrQQlMAfgYk7VPLYVj28cGWg3gwSwXCyN0cqOU_iywzMikAbYygVSfqKGoTFxM7mpHEjCnYuPXpNsWp9WU0-bIMxCtzLfV7asHSa8e6sFAF30u_G5UwsVByT5nYWE-ptJ1zsmRWAGnFRuuwZiotyIjDWKojf4R9-fZWYsA&s=1)
+Підозрілі "журналісти", більш схожі на спортсменів, реєструються відразу на кількох дільницях, після чого відразу їх полишають. Подивіться відео - відразу стане зрозумілим їхніх "журналістський хист". Питання - для чого це робиться? Що це за схема? [https://youtu.be/w-oAVDY3ZL0](https://l.facebook.com/l.php?u=http%3A%2F%2Fyoutu.be%2Fw-oAVDY3ZL0&h=vAQHb6sMi&enc=AZMb-BMzCrQQlMAfgYk7VPLYVj28cGWg3gwSwXCyN0cqOU_iywzMikAbYygVSfqKGoTFxM7mpHEjCnYuPXpNsWp9WU0-bIMxCtzLfV7asHSa8e6sFAF30u_G5UwsVByT5nYWE-ptJ1zsmRWAGnFRuuwZiotyIjDWKojf4R9-fZWYsA&s=1)
 
 ![](https://fbexternal-a.akamaihd.net/safe_image.php?d=AQBEJ5bsMVvHwXQ6&w=158&h=158&url=http%3A%2F%2Fi.ytimg.com%2Fvi%2Fw-oAVDY3ZL0%2Fhqdefault.jpg&cfs=1&upscale=1&sx=63&sy=0&sw=360&sh=360)
 
-[На виборчих дільницях у Броварах реєструються підозрілі "журналісти"](http://l.facebook.com/l.php?u=http%3A%2F%2Fyoutu.be%2Fw-oAVDY3ZL0&h=GAQHsmwL2&s=1)
+[На виборчих дільницях у Броварах реєструються підозрілі "журналісти"](https://l.facebook.com/l.php?u=http%3A%2F%2Fyoutu.be%2Fw-oAVDY3ZL0&h=GAQHsmwL2&s=1)
 
 На дільниці в ЗОШ №9 – підозрілі «журналісти» зачинились в підсобному приміщенні дільниці. Напружена ситуація виникла на одній з виборчих дільниць, що розташ...
 
@@ -338,7 +338,7 @@ youtube.com
 
 ![](https://fbexternal-a.akamaihd.net/safe_image.php?d=AQCnZeMEX9Iz0v2B&w=437&h=229&url=http%3A%2F%2Fstatic-cdn2.ustream.tv%2Fi%2Fvideo%2Fpicture%2F0%2F1%2F54%2F54509%2F54509541%2F1_15478577_54509541%2C640x360%2Cb%2C1%3A2.jpg&cfs=1&upscale=1&sx=0&sy=5&sw=640&sh=335)
 
-[26 жовтня - 14:00 - включення з ОВК № 97](http://l.facebook.com/l.php?u=http%3A%2F%2Fwww.ustream.tv%2Frecorded%2F54509541&h=uAQFL3VBt&s=1)
+[26 жовтня - 14:00 - включення з ОВК № 97](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.ustream.tv%2Frecorded%2F54509541&h=uAQFL3VBt&s=1)
 
 Recorded live from Ukraine, Kyyivs'ka Oblast', Brovary on my iPhone on 26.10.14 at 14:00 GMT+2
 
@@ -350,11 +350,11 @@ ustream.tv
 
 [26 жовтня 13:55](https://www.facebook.com/pravo.znaty.brovary/posts/675074252600824)
 
-О 14:00. тобто через 5 хвилин, дивіться на нашому юстрім-каналі "Маєш право знати" пряме включення наших журналістів з ОВК. Яка явка виборів станом на 12:00, як проходить голосування на броварських дільницях, які порушення уже зафіксовано - дивіться за посиланням: [http://www.ustream.tv/channel/pravoznaty](http://l.facebook.com/l.php?u=http%3A%2F%2Fwww.ustream.tv%2Fchannel%2Fpravoznaty&h=kAQE_KzBm&enc=AZNG-nEtq00WfVVP9jXMYaLt9_XO9Q0pi6jYE8uWrmab6pZ2xy4GDxwY-70-3W4ovhJcr3pUAHpvepAA05E0QyoCmZPVDcEZdgLVMgerfQojuBt9svgarbP5Sq1_3vBiPSg8JS8qZo-6CFD4CgCsb-x8aP-aamGxMf1T8fWFrcjV4w&s=1)
+О 14:00. тобто через 5 хвилин, дивіться на нашому юстрім-каналі "Маєш право знати" пряме включення наших журналістів з ОВК. Яка явка виборів станом на 12:00, як проходить голосування на броварських дільницях, які порушення уже зафіксовано - дивіться за посиланням: [https://www.ustream.tv/channel/pravoznaty](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.ustream.tv%2Fchannel%2Fpravoznaty&h=kAQE_KzBm&enc=AZNG-nEtq00WfVVP9jXMYaLt9_XO9Q0pi6jYE8uWrmab6pZ2xy4GDxwY-70-3W4ovhJcr3pUAHpvepAA05E0QyoCmZPVDcEZdgLVMgerfQojuBt9svgarbP5Sq1_3vBiPSg8JS8qZo-6CFD4CgCsb-x8aP-aamGxMf1T8fWFrcjV4w&s=1)
 
 ![](https://fbexternal-a.akamaihd.net/safe_image.php?d=AQAXA7GHOwv9bEf_&w=437&h=229&url=http%3A%2F%2Fstatic-cdn2.ustream.tv%2Fi%2Fchannel%2Fpicture%2F1%2F5%2F4%2F7%2F15478577%2F15478577_553605_29212915756200_1375597492%2C640x360%2Cr%3A1.jpg&cfs=1&upscale=1)
 
-[Маєш право знати - Бровари](http://l.facebook.com/l.php?u=http%3A%2F%2Fwww.ustream.tv%2Fchannel%2Fpravoznaty&h=LAQHyYQlp&s=1)
+[Маєш право знати - Бровари](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.ustream.tv%2Fchannel%2Fpravoznaty&h=LAQHyYQlp&s=1)
 
 Броварський Інтернет-сайт "Маєш право знати". Актуальні новини, журналістські розслідування, репортажі з броварських подій
 
@@ -382,11 +382,11 @@ ustream.tv
 
 [26 жовтня 12:39](https://www.facebook.com/pravo.znaty.brovary/posts/675051059269810)
 
-Відеозапис другого прямого включення журналістів "Маєш право знати", зроблений об 11:00. НАСТУПНЕ ВКЛЮЧЕНЯ - о 14:00! Знайшовся водій агітавтомобіля "Радикальної партії Олега Ляшка", що здійснював незаконну агітацію біля однієї з виборчих дільниць на вулиці Марії Лагунової. З його слів, на агітаційному автомобілі він їхав… щоб проголосувати на дільниці. [http://youtu.be/YHA3\_bAenQs](http://l.facebook.com/l.php?u=http%3A%2F%2Fyoutu.be%2FYHA3_bAenQs&h=7AQGwqC6s&enc=AZOeLMPPVeQQQoqgCOF4mI0fbdugkH0rOoXf_75uDIu86E2PkQAFkVsdqTtm7jZf2jpb5D3pI83wUQJutMfKbsYpQ11Vn29zDur0PEH9mS5TH4XnqGkQofsuDbwcJftZ0HxKNCxsyChVdWz0OG9kQPS6DBNV3a6FXudrcwdtHxHz_w&s=1)
+Відеозапис другого прямого включення журналістів "Маєш право знати", зроблений об 11:00. НАСТУПНЕ ВКЛЮЧЕНЯ - о 14:00! Знайшовся водій агітавтомобіля "Радикальної партії Олега Ляшка", що здійснював незаконну агітацію біля однієї з виборчих дільниць на вулиці Марії Лагунової. З його слів, на агітаційному автомобілі він їхав… щоб проголосувати на дільниці. [https://youtu.be/YHA3\_bAenQs](https://l.facebook.com/l.php?u=http%3A%2F%2Fyoutu.be%2FYHA3_bAenQs&h=7AQGwqC6s&enc=AZOeLMPPVeQQQoqgCOF4mI0fbdugkH0rOoXf_75uDIu86E2PkQAFkVsdqTtm7jZf2jpb5D3pI83wUQJutMfKbsYpQ11Vn29zDur0PEH9mS5TH4XnqGkQofsuDbwcJftZ0HxKNCxsyChVdWz0OG9kQPS6DBNV3a6FXudrcwdtHxHz_w&s=1)
 
 ![](https://fbexternal-a.akamaihd.net/safe_image.php?d=AQD9NqBCWTQMkbZ7&w=158&h=158&url=http%3A%2F%2Fi.ytimg.com%2Fvi%2FYHA3_bAenQs%2Fmaxresdefault.jpg&cfs=1&upscale=1)
 
-[Затримано водія агітмобіля Радикальної партії Олега Ляшка](http://l.facebook.com/l.php?u=http%3A%2F%2Fyoutu.be%2FYHA3_bAenQs&h=KAQHAGFdd&s=1)
+[Затримано водія агітмобіля Радикальної партії Олега Ляшка](https://l.facebook.com/l.php?u=http%3A%2F%2Fyoutu.be%2FYHA3_bAenQs&h=KAQHAGFdd&s=1)
 
 2 пряме включення журналістів "Маєш парво знат" біля 8 школи (НВК). Знайшовся водій агітавтомобіля Радикальної партії України Олега Ляшка, що здійснював неза...
 
@@ -406,13 +406,13 @@ youtube.com
 
 [26 жовтня 11:16](https://www.facebook.com/pravo.znaty.brovary/posts/675019245939658)
 
-На дільниці у «Прометеї» виборець спробував сфотографувати бюлетень у кабінці - ВІДЕО. На виборчій дільниці №321236, що розташована в приміщенні МКЦ «Прометей» по бульвару Незалежності у Броварах, зафіксована перша спроба здійснити серйозне порушення виборчого законодавства. Як повідомляють члени цієї виборчої комісії, в першу годину роботи дільниці один з виборців намагався сфотографувати результати власного голосування. Так, чоловік зайшов в кабінку для голосування з бюлет...енем у руках і в кабінці витягнув фотокамеру, намагаючись сфотографувати бюлетень. Член комісії Євген Христенко помітив даний факт і заявив виборцю, що подібні дії заборонені законодавством. Також члени комісії відразу звернулись щодо даного факту до міліції. Згаданий виборець таки проголосував в бюлетені та кинув його у виборчу урну, але не сфотографував. Після цього громадянин, який намагався порушити виборче законодавство, мав профілактичну розмову з правоохоронцями. [http://youtu.be/-UOFUeFym5E](http://l.facebook.com/l.php?u=http%3A%2F%2Fyoutu.be%2F-UOFUeFym5E&h=QAQF6pTKS&enc=AZOclpDYKS0mpJRwcSjP1c4cf30o5kDlH30NmHFY78XTVRqDyCJrOpxObTG6fhZlInR1mVz5FwPg_pL_gErRP81Vso8YZFtEdTgjlSD5s_MwGsmvFXauptkYgU74H359ZIthbKfxY44CiKHr1HUyXV9E5EO2Vm7xvObJV97THfHcaw&s=1)
+На дільниці у «Прометеї» виборець спробував сфотографувати бюлетень у кабінці - ВІДЕО. На виборчій дільниці №321236, що розташована в приміщенні МКЦ «Прометей» по бульвару Незалежності у Броварах, зафіксована перша спроба здійснити серйозне порушення виборчого законодавства. Як повідомляють члени цієї виборчої комісії, в першу годину роботи дільниці один з виборців намагався сфотографувати результати власного голосування. Так, чоловік зайшов в кабінку для голосування з бюлет...енем у руках і в кабінці витягнув фотокамеру, намагаючись сфотографувати бюлетень. Член комісії Євген Христенко помітив даний факт і заявив виборцю, що подібні дії заборонені законодавством. Також члени комісії відразу звернулись щодо даного факту до міліції. Згаданий виборець таки проголосував в бюлетені та кинув його у виборчу урну, але не сфотографував. Після цього громадянин, який намагався порушити виборче законодавство, мав профілактичну розмову з правоохоронцями. [https://youtu.be/-UOFUeFym5E](https://l.facebook.com/l.php?u=http%3A%2F%2Fyoutu.be%2F-UOFUeFym5E&h=QAQF6pTKS&enc=AZOclpDYKS0mpJRwcSjP1c4cf30o5kDlH30NmHFY78XTVRqDyCJrOpxObTG6fhZlInR1mVz5FwPg_pL_gErRP81Vso8YZFtEdTgjlSD5s_MwGsmvFXauptkYgU74H359ZIthbKfxY44CiKHr1HUyXV9E5EO2Vm7xvObJV97THfHcaw&s=1)
 
 [Показати більше...](https://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2F156562511118670&width=500&colorscheme=light&show_faces=false&border_color&stream=true&header=false&height=800#)
 
 ![](https://fbexternal-a.akamaihd.net/safe_image.php?d=AQCIcD9KFVHNdrxg&w=158&h=158&url=http%3A%2F%2Fi.ytimg.com%2Fvi%2F-UOFUeFym5E%2Fhqdefault.jpg&cfs=1&upscale=1&sx=15&sy=0&sw=360&sh=360)
 
-[Спроба сфотографувати бюлетень у виборчій кабінці на ДВК в "Прометеї"](http://l.facebook.com/l.php?u=http%3A%2F%2Fyoutu.be%2F-UOFUeFym5E&h=TAQE4ds0F&s=1)
+[Спроба сфотографувати бюлетень у виборчій кабінці на ДВК в "Прометеї"](https://l.facebook.com/l.php?u=http%3A%2F%2Fyoutu.be%2F-UOFUeFym5E&h=TAQE4ds0F&s=1)
 
 На дільниці у «Прометеї» виборець спробував сфотографувати бюлетень у кабінці На виборчій дільниці №321236, що знаходиться в приміщенні МКЦ «Прометей» по бул...
 
@@ -424,9 +424,9 @@ youtube.com
 
 [26 жовтня 10:55](https://www.facebook.com/pravo.znaty.brovary/photos/a.158079620966959.34424.156562511118670/675012519273664/?type=1)
 
-НАСТУПНЕ ПРЯМЕ ВКЛЮЧЕННЯ "МПЗ" - об 11:00: [http://www.ustream.tv/channel/pravoznaty](http://l.facebook.com/l.php?u=http%3A%2F%2Fwww.ustream.tv%2Fchannel%2Fpravoznaty&h=vAQHb6sMi&enc=AZNFhYUBrL882ROyKlXImrO8a4DGfCsM1uD9iGDCVEoBlC4Ds6jI6XaJo5EhcLzDOEqEihp3akfkEKlsDTy0ExX_u_EhA7pfZAA_HqfV8kmI7JffWh6ghf3GpL4qPnfgCATo_ge_7TeZTcx31mvSZTkP&s=1) На місце незаконної агітації автомобілем "Радикальної партії Олега Ляшка" після приїзду правоохоронців прибула й броварська самооборона. Зважаючи на те, що водій машини злякався правоохоронців і втік, присутні вирішують, що робити, щоб припинити порушення виборчого законодавства. Також, як повідомляють наші кореспонденти, у двір 8 школи невдовзі прийшла довірена особа кандидидата-мажоритарника від Партії Ляшка й заявила, що це все "провокація". Наша знімальна група вже виїхала на місце, що зробити ПРЯМЕ ВКЛЮЧЕННЯ з цієї "гарячої точки" виборів у Броварах. Кажуть, там сталась неочікувала подія, яка додає оптимізму ПЕРЕПОСТ, будь ласка!
+НАСТУПНЕ ПРЯМЕ ВКЛЮЧЕННЯ "МПЗ" - об 11:00: [https://www.ustream.tv/channel/pravoznaty](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.ustream.tv%2Fchannel%2Fpravoznaty&h=vAQHb6sMi&enc=AZNFhYUBrL882ROyKlXImrO8a4DGfCsM1uD9iGDCVEoBlC4Ds6jI6XaJo5EhcLzDOEqEihp3akfkEKlsDTy0ExX_u_EhA7pfZAA_HqfV8kmI7JffWh6ghf3GpL4qPnfgCATo_ge_7TeZTcx31mvSZTkP&s=1) На місце незаконної агітації автомобілем "Радикальної партії Олега Ляшка" після приїзду правоохоронців прибула й броварська самооборона. Зважаючи на те, що водій машини злякався правоохоронців і втік, присутні вирішують, що робити, щоб припинити порушення виборчого законодавства. Також, як повідомляють наші кореспонденти, у двір 8 школи невдовзі прийшла довірена особа кандидидата-мажоритарника від Партії Ляшка й заявила, що це все "провокація". Наша знімальна група вже виїхала на місце, що зробити ПРЯМЕ ВКЛЮЧЕННЯ з цієї "гарячої точки" виборів у Броварах. Кажуть, там сталась неочікувала подія, яка додає оптимізму ПЕРЕПОСТ, будь ласка!
 
-![НАСТУПНЕ ПРЯМЕ ВКЛЮЧЕННЯ "МПЗ" - об 11:00: http://www.ustream.tv/channel/pravoznaty<br /> На місце незаконної агітації автомобілем "Радикальної партії Олега Ляшка" після приїзду правоохоронців прибула й броварська самооборона. Зважаючи на те, що водій машини злякався правоохоронців і втік, присутні вирішують, що робити, щоб припинити порушення виборчого законодавства.<br /> Також, як повідомляють наші кореспонденти, у двір 8 школи невдовзі прийшла довірена особа кандидидата-мажоритарника від Партії Ляшка й заявила, що це все "провокація".<br /> Наша знімальна група вже виїхала на місце, що зробити ПРЯМЕ ВКЛЮЧЕННЯ з цієї "гарячої точки" виборів у Броварах. Кажуть, там сталась неочікувала подія, яка додає оптимізму ;-)<br /> ПЕРЕПОСТ, будь ласка!](https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xaf1/v/t1.0-9/p235x350/10354070_675012519273664_1546792500531894349_n.jpg?oh=3531685a5cc52e8d609fc3b03089107f&oe=54EC7040&__gda__=1424178343_fa2aaa5e716af3d1d502ee906d7b861d)
+![НАСТУПНЕ ПРЯМЕ ВКЛЮЧЕННЯ "МПЗ" - об 11:00: https://www.ustream.tv/channel/pravoznaty<br /> На місце незаконної агітації автомобілем "Радикальної партії Олега Ляшка" після приїзду правоохоронців прибула й броварська самооборона. Зважаючи на те, що водій машини злякався правоохоронців і втік, присутні вирішують, що робити, щоб припинити порушення виборчого законодавства.<br /> Також, як повідомляють наші кореспонденти, у двір 8 школи невдовзі прийшла довірена особа кандидидата-мажоритарника від Партії Ляшка й заявила, що це все "провокація".<br /> Наша знімальна група вже виїхала на місце, що зробити ПРЯМЕ ВКЛЮЧЕННЯ з цієї "гарячої точки" виборів у Броварах. Кажуть, там сталась неочікувала подія, яка додає оптимізму ;-)<br /> ПЕРЕПОСТ, будь ласка!](https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xaf1/v/t1.0-9/p235x350/10354070_675012519273664_1546792500531894349_n.jpg?oh=3531685a5cc52e8d609fc3b03089107f&oe=54EC7040&__gda__=1424178343_fa2aaa5e716af3d1d502ee906d7b861d)
 
 [![](https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash2/v/t1.0-1/e2/c12.12.155.155/s50x50/553605_292129157562004_1118544668_n.jpg?oh=ac75cfc5decf1e89f45f171802e6295d&oe=54ABBC1E&__gda__=1420555045_00e47f61bf902c3b95d9e155576ee9b0)](https://www.facebook.com/pravo.znaty.brovary)
 
@@ -434,11 +434,11 @@ youtube.com
 
 [26 жовтня 10:41](https://www.facebook.com/pravo.znaty.brovary/posts/675010982607151)
 
-Відеозапис першого прямого включення наших журналістів, на якому голова окружної виборчої комісії Костянтин Кукоз коментує початок Дня виборів у Броварах та розповідає, з якими труднощями довелось стикнутись членам ОВК і ДВК напередодні виборів: [http://youtu.be/EJx8pxGFQdQ](http://l.facebook.com/l.php?u=http%3A%2F%2Fyoutu.be%2FEJx8pxGFQdQ&h=iAQHixiB1&enc=AZOuQBA3cshTYpR2oVIHcNtqtWeryf3u24cPqcPSkP1OceD3KOtNARNSlhTH4pKK_IaLrC7zcrZBvpcsaK3LY0NojM4rcpw6UQtkYRfscdwrIdFY2aIqCre09CW6s_ILRjWaJ2qAoyIjV7pLeHcCrnZwaYt7xifCcDF2iSw8aqgi8Q&s=1) ПЕРЕПОСТ, будь ласка!
+Відеозапис першого прямого включення наших журналістів, на якому голова окружної виборчої комісії Костянтин Кукоз коментує початок Дня виборів у Броварах та розповідає, з якими труднощями довелось стикнутись членам ОВК і ДВК напередодні виборів: [https://youtu.be/EJx8pxGFQdQ](https://l.facebook.com/l.php?u=http%3A%2F%2Fyoutu.be%2FEJx8pxGFQdQ&h=iAQHixiB1&enc=AZOuQBA3cshTYpR2oVIHcNtqtWeryf3u24cPqcPSkP1OceD3KOtNARNSlhTH4pKK_IaLrC7zcrZBvpcsaK3LY0NojM4rcpw6UQtkYRfscdwrIdFY2aIqCre09CW6s_ILRjWaJ2qAoyIjV7pLeHcCrnZwaYt7xifCcDF2iSw8aqgi8Q&s=1) ПЕРЕПОСТ, будь ласка!
 
 ![](https://fbexternal-a.akamaihd.net/safe_image.php?d=AQCATxB3j7VuaHss&w=158&h=158&url=http%3A%2F%2Fi.ytimg.com%2Fvi%2FEJx8pxGFQdQ%2Fmaxresdefault.jpg&cfs=1&upscale=1&sx=29&sy=0&sw=720&sh=720)
 
-[Голова ОВК №97 Кукоз коментує початок дня виборів в окрузі](http://l.facebook.com/l.php?u=http%3A%2F%2Fyoutu.be%2FEJx8pxGFQdQ&h=MAQFvpxhQ&s=1)
+[Голова ОВК №97 Кукоз коментує початок дня виборів в окрузі](https://l.facebook.com/l.php?u=http%3A%2F%2Fyoutu.be%2FEJx8pxGFQdQ&h=MAQFvpxhQ&s=1)
 
 Відео з першого прямого включення з Окружкому в рамках інтернет-марафону «Маєш право знати» - «Парламентські вибори 2014». Голова ОВК №97 Костянтин Кукоз роз...
 
@@ -488,11 +488,11 @@ youtube.com
 
 [26 жовтня о 8:57](https://www.facebook.com/pravo.znaty.brovary/posts/674984019276514)
 
-Через 3 хвилини дивіться наше перше пряме включення на юстрім-каналі "Маєш право знати" за цим посиланням: [http://www.ustream.tv/channel/pravoznaty](http://l.facebook.com/l.php?u=http%3A%2F%2Fwww.ustream.tv%2Fchannel%2Fpravoznaty&h=LAQHyYQlp&enc=AZP0EO3bJrgycer0BxQ_tM-2diet55-XsUu1kCy8BtypAmT9Jrzw1sBx5hg1jlXH6pwFT-T4rZNaRKE3Uf5jZ6ebVVy5T7HvZjS_LaeiSZcdOKd21sQpJFs3zJOrWMYJWSQhU9skMlDCDWWl8i7BV9yZFDI05Va55wUdwWTKqDjyKQ&s=1). Наші журналісти вирушили до окружної виборчої комісії, де планують взяти коментар у голови ОВК № 97. ПЕРЕПОСТ!
+Через 3 хвилини дивіться наше перше пряме включення на юстрім-каналі "Маєш право знати" за цим посиланням: [https://www.ustream.tv/channel/pravoznaty](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.ustream.tv%2Fchannel%2Fpravoznaty&h=LAQHyYQlp&enc=AZP0EO3bJrgycer0BxQ_tM-2diet55-XsUu1kCy8BtypAmT9Jrzw1sBx5hg1jlXH6pwFT-T4rZNaRKE3Uf5jZ6ebVVy5T7HvZjS_LaeiSZcdOKd21sQpJFs3zJOrWMYJWSQhU9skMlDCDWWl8i7BV9yZFDI05Va55wUdwWTKqDjyKQ&s=1). Наші журналісти вирушили до окружної виборчої комісії, де планують взяти коментар у голови ОВК № 97. ПЕРЕПОСТ!
 
 ![](https://fbexternal-a.akamaihd.net/safe_image.php?d=AQAXA7GHOwv9bEf_&w=437&h=229&url=http%3A%2F%2Fstatic-cdn2.ustream.tv%2Fi%2Fchannel%2Fpicture%2F1%2F5%2F4%2F7%2F15478577%2F15478577_553605_29212915756200_1375597492%2C640x360%2Cr%3A1.jpg&cfs=1&upscale=1)
 
-[Маєш право знати - Бровари](http://l.facebook.com/l.php?u=http%3A%2F%2Fwww.ustream.tv%2Fchannel%2Fpravoznaty&h=JAQHDureX&s=1)
+[Маєш право знати - Бровари](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.ustream.tv%2Fchannel%2Fpravoznaty&h=JAQHDureX&s=1)
 
 Броварський Інтернет-сайт "Маєш право знати". Актуальні новини, журналістські розслідування, репортажі з броварських подій
 

@@ -26,4 +26,4 @@ coverImage: "wp-content/uploads/2012/11/marchenko.jpg"
 
 У партійному зібранні взяв участь заступник Голови ВО "Свобода" з політичних питань Андрій Мохник та член Політради партії Олег Галевей.
 
-[http://www.svoboda.org.ua/diyalnist/novyny/034741/](http://www.svoboda.org.ua/diyalnist/novyny/034741/)
+[https://www.svoboda.org.ua/diyalnist/novyny/034741/](https://www.svoboda.org.ua/diyalnist/novyny/034741/)

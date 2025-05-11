@@ -26,7 +26,7 @@ coverImage: "wp-content/uploads/2016/06/kp-orts-629x357.jpg"
 
 <iframe style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="//www.slideshare.net/slideshow/embed_code/key/6CwMhKN3DL5jvk" width="668" height="714" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
 
-Нагадаємо, у пояснювальній записці до проекту відповідного [рішення](http://brovary.kiev.ua/proekt-r%D1%96shen-m%D1%96sko%D1%97-radi-pro-vnesennya-zm%D1%96n-do-r%D1%96shennya-brovarsko%D1%97-m%D1%96sko%D1%97-radi-v%D1%96d-06082015-roku-0), опублікованого на сайті міськраді, йдеться про таке:
+Нагадаємо, у пояснювальній записці до проекту відповідного [рішення](https://brovary.kiev.ua/proekt-r%D1%96shen-m%D1%96sko%D1%97-radi-pro-vnesennya-zm%D1%96n-do-r%D1%96shennya-brovarsko%D1%97-m%D1%96sko%D1%97-radi-v%D1%96d-06082015-roku-0), опублікованого на сайті міськраді, йдеться про таке:
 
 > "Проект рішення розроблений на підставі звернення комунального підприємства «Оздоровчо-реабілітаційний центр» від 25.04.2016 року № 36 про надання фінансової підтримки для забезпечення безперебійної діяльності по наданню оздоровчих послуг громаді міста, оскільки є заборгованість перед кредиторами, зокрема, постачальниками електроенергії, теплової енергії, водопостачання та водовідведення та інше на загальну суму **1 256 703,82 грн**.
 > 

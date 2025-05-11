@@ -26,7 +26,7 @@ coverImage: "wp-content/uploads/2012/05/Trollface_HD.png"
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/05/krupy3.jpg "фракції та крупи")](https://mpz.brovary.org/wp-content/uploads/2012/05/krupy3.jpg)
 
-Очевидно, що після даної публікації влада зреагує та виправить кумедну помилку. Проте поки сторінку можуть бачити всі за цією адресою [http://brovary.kiev.ua/frakcii\_ta\_grupy](http://brovary.kiev.ua/frakcii_ta_grupy)
+Очевидно, що після даної публікації влада зреагує та виправить кумедну помилку. Проте поки сторінку можуть бачити всі за цією адресою [https://brovary.kiev.ua/frakcii\_ta\_grupy](https://brovary.kiev.ua/frakcii_ta_grupy)
 
 Цей, без сумніву, найбільш помітний «прокол» зі стану міської влади спонукав нас організувати конкурс для наших читачів на пошук та створення дотепних пародій, карикатур, мемів чи демотиваторів. В конкурсі будуть дві номінації:
 

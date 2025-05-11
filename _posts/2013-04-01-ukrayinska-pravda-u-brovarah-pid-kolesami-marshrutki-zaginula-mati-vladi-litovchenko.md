@@ -14,7 +14,7 @@ tags:
 coverImage: "wp-content/uploads/2013/04/litovchenko.jpg"
 ---
 
-**[![литовченко](https://mpz.brovary.org/wp-content/uploads/2013/04/litovchenko.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/04/litovchenko.jpg)У Броварах на Київщині під колесами маршрутки загинула мати колишньої моделі Влади Литовченко. Про це [повідомив](http://www.pravda.com.ua/news/2013/03/31/6986854/) сайт "Українська правда" з посиланням на ТСН.**
+**[![литовченко](https://mpz.brovary.org/wp-content/uploads/2013/04/litovchenko.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/04/litovchenko.jpg)У Броварах на Київщині під колесами маршрутки загинула мати колишньої моделі Влади Литовченко. Про це [повідомив](https://www.pravda.com.ua/news/2013/03/31/6986854/) сайт "Українська правда" з посиланням на ТСН.**
 
 [ТСН](https://tsn.ua/kyiv/u-brovarah-pid-kolesami-marshrutki-zaginula-matir-vladi-litovchenko-dzherela-288475.html) у свою чергу посилається на джерела, близькі до родини Литовченко.
 
@@ -38,4 +38,4 @@ coverImage: "wp-content/uploads/2013/04/litovchenko.jpg"
 
 Колишня модель, а нині радник гендиректора Національного Києво-Печерського заповідника Литовченко народилась у Броварах.
 
-**Джерело: "[Українська правда](http://www.pravda.com.ua/news/2013/03/31/6986854/)"**
+**Джерело: "[Українська правда](https://www.pravda.com.ua/news/2013/03/31/6986854/)"**

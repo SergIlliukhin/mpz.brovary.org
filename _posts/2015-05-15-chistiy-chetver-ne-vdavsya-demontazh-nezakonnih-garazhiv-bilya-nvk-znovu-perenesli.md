@@ -29,7 +29,7 @@ coverImage: "wp-content/uploads/2015/05/Garazhi-NVK-SHkola-8-05.2015_00050.jpg"
 
 <iframe src="https://www.youtube.com/embed/IIR78s2y5Uo" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-Очистити території закладів освіти від металевих коробок спочатку обіцяли **до 19 лютого**. Однак в оголошений термін цього не сталося. Дату переносили незважаючи на те, що активісти пропонували провести знесення [своїми силами і за власний кошт](http://nk.mybrovary.com/proponuyemo-dopomogu-u-demontazhi-samovilno-vstanovlenih-mafiv/). Тим не менше, більшість гаражів стоять на своїх місцях і донині.
+Очистити території закладів освіти від металевих коробок спочатку обіцяли **до 19 лютого**. Однак в оголошений термін цього не сталося. Дату переносили незважаючи на те, що активісти пропонували провести знесення [своїми силами і за власний кошт](https://nk.mybrovary.com/proponuyemo-dopomogu-u-demontazhi-samovilno-vstanovlenih-mafiv/). Тим не менше, більшість гаражів стоять на своїх місцях і донині.
 
 [![Гаражі НВК Школа 8 - 05.2015_00013](https://mpz.brovary.org/wp-content/uploads/2015/05/Garazhi-NVK-SHkola-8-05.2015_00013.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/05/Garazhi-NVK-SHkola-8-05.2015_00013.jpg)
 
@@ -143,4 +143,4 @@ coverImage: "wp-content/uploads/2015/05/Garazhi-NVK-SHkola-8-05.2015_00050.jpg"
 
 > _Журналісти "Маєш право знати" продовжують відстежувати тему демонтажу незаконних гаражів біля броварських шкіл та інформуватимуть читачів про подальші дії активістів та чиновників._
 
-**Фото - [Микола Кожемяко](http://fotokray.com.ua/)**
+**Фото - [Микола Кожемяко](https://fotokray.com.ua/)**

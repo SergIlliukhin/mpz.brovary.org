@@ -34,7 +34,7 @@ coverImage: "wp-content/uploads/2014/01/svobodivtsi_sud5.jpg"
 
 [![свободівці_суд5](https://mpz.brovary.org/wp-content/uploads/2014/01/svobodivtsi_sud5.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/01/svobodivtsi_sud5.jpg)
 
-До суду не зміг прийти один із адвокатів підсудних –  Сидір Кізін. Як відомо, нещодавно [його та нардепа Андрія Іллєнка побили](http://www.pravda.com.ua/news/2014/01/3/7009000/) біля одного зі столичних відділків міліції. За згодою сторін процесу суддя почала засідіння без присутності  Кізіна.
+До суду не зміг прийти один із адвокатів підсудних –  Сидір Кізін. Як відомо, нещодавно [його та нардепа Андрія Іллєнка побили](https://www.pravda.com.ua/news/2014/01/3/7009000/) біля одного зі столичних відділків міліції. За згодою сторін процесу суддя почала засідіння без присутності  Кізіна.
 
 [![суд_свобода5](https://mpz.brovary.org/wp-content/uploads/2014/01/sud_svoboda5.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/01/sud_svoboda5.jpg)
 

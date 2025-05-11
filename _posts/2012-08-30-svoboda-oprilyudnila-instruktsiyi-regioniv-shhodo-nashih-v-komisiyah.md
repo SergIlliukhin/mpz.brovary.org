@@ -24,4 +24,4 @@ tags:
 [![](https://mpz.brovary.org/wp-content/uploads/2012/08/1dae66e-2.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/08/1dae66e-2.jpg)  
 [![](https://mpz.brovary.org/wp-content/uploads/2012/08/2a08318-3.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/08/2a08318-3.jpg)
 
-Постійне посилання: [http://www.pravda.com.ua/news/2012/08/29/6971675/](http://www.pravda.com.ua/news/2012/08/29/6971675/)
+Постійне посилання: [https://www.pravda.com.ua/news/2012/08/29/6971675/](https://www.pravda.com.ua/news/2012/08/29/6971675/)

@@ -16,4 +16,4 @@ tags:
 
 <iframe src="https://www.youtube.com/embed/SW8yFmMegik" height="315" width="560" allowfullscreen frameborder="0"></iframe>
 
-Також можете почитати мої роздуми з цього приводу у блозі на сайті телеканалу "ТВі" - **[Пантеон богів броварської влади: Ленін та Мазох](http://tvi.ua/blog/2013/02/13/panteon_bohiv_brovarskoyi_vlady_lenin_ta_mazokh)**
+Також можете почитати мої роздуми з цього приводу у блозі на сайті телеканалу "ТВі" - **[Пантеон богів броварської влади: Ленін та Мазох](https://tvi.ua/blog/2013/02/13/panteon_bohiv_brovarskoyi_vlady_lenin_ta_mazokh)**

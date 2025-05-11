@@ -19,7 +19,7 @@ coverImage: "wp-content/uploads/2012/06/sud-brovari.jpg"
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/06/sud-brovari.jpg "суд бровари")](https://mpz.brovary.org/wp-content/uploads/2012/06/sud-brovari.jpg)**12 червня о 9 годині ранку** у Броварському міськрайонному суді Київської області розпочнеться розгляд судового позову активіста "Маєш Право Знати" Сергія Іллюхіна до Броварської міської ради щодо протиправного обмеження права на інформацію (деталі позову [вже повідомлялись раніше](https://mpz.brovary.org/brovarskih-chinovnikiv-suditimut-za-vidmovu-nadati-informatsiyu/ "Броварських чиновників судитимуть за відмову надати інформацію")). Справу розглядатиме суддя Телепенько.
 
-З метою забезпечення прозорості судового процесу активісти "Маєш Право Знати" проводитимуть Twitter-трансляцію та спробують здійснювати пряму відеотрансляцію. Twitter-трансляція буде доступна за **тегом [#mpzsud](https://twitter.com/search/mpzsud "Твітер #mpzsud")**. Відеотрансляція буде налагоджена за допомогою **UStream-каналу [SergIlliukhin](http://www.ustream.tv/channel/sergilliukhin "Ustream SergIlliukhin")**.
+З метою забезпечення прозорості судового процесу активісти "Маєш Право Знати" проводитимуть Twitter-трансляцію та спробують здійснювати пряму відеотрансляцію. Twitter-трансляція буде доступна за **тегом [#mpzsud](https://twitter.com/search/mpzsud "Твітер #mpzsud")**. Відеотрансляція буде налагоджена за допомогою **UStream-каналу [SergIlliukhin](https://www.ustream.tv/channel/sergilliukhin "Ustream SergIlliukhin")**.
 
 **Лог твіттер-трансляції засідання:**
 
@@ -27,10 +27,10 @@ coverImage: "wp-content/uploads/2012/06/sud-brovari.jpg"
 - Примiщення суду в жахливому станi, подивимось що там в кабiнетi суддi Телепенька #mpzsud
 - Бачу юриста мiськради Прилепко #mpzsud
 - Представникiв Сектора по доступу до Iнформацii поки що немае #mpzsud
-- Броварський суд #mpzsud [http://t.co/SToGFUIG](http://t.co/SToGFUIG)
+- Броварський суд #mpzsud [https://t.co/SToGFUIG](https://t.co/SToGFUIG)
 - Пишемо клопотання щодо фото та вiдеозйомки #mpzsud
 - Всерединi суду дуже темно та душно - жахливi умови #mpzsud
-- Примiщення суду всерединi #mpzsud [http://t.co/XBLiFI4B](http://t.co/XBLiFI4B)
+- Примiщення суду всерединi #mpzsud [https://t.co/XBLiFI4B](https://t.co/XBLiFI4B)
 - Судове засiдання затримуеться, суддя поки що не запрошуе #mpzsud
 - Туалет в примiщеннi суду е, але вiн не працюе... Все для блага людей #mpzsud
 - Ми в залі засідань, чекаємо суддю #mpzsud

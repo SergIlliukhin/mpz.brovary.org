@@ -18,7 +18,7 @@ tags:
 coverImage: "wp-content/uploads/2012/07/gerb-Brovari.jpg"
 ---
 
-**[![GorodBrovory_gerb](https://mpz.brovary.org/wp-content/uploads/2012/04/GorodBrovory_gerb.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/04/GorodBrovory_gerb.jpg)30 січня о 9:00 в приміщенні малої зали броварського міськвиконкому за адресою вул. Гагаріна, 15 відбудеться п’ятдесят друга позачергова сесія Броварської міської ради VІ скликання. Відповідне розпорядження міського голови опубліковано [на офіційному веб-сайті міськради.](http://www.brovary.kiev.ua/rozporyadzhennya-m%D1%96skogo-golovi-v%D1%96d-29012015-%E2%84%9613-od-pro-sklikannya-p%E2%80%99yatdesyat-drugo%D1%97-pozachergovo%D1%97)**
+**[![GorodBrovory_gerb](https://mpz.brovary.org/wp-content/uploads/2012/04/GorodBrovory_gerb.jpg)](https://mpz.brovary.org/wp-content/uploads/2012/04/GorodBrovory_gerb.jpg)30 січня о 9:00 в приміщенні малої зали броварського міськвиконкому за адресою вул. Гагаріна, 15 відбудеться п’ятдесят друга позачергова сесія Броварської міської ради VІ скликання. Відповідне розпорядження міського голови опубліковано [на офіційному веб-сайті міськради.](https://www.brovary.kiev.ua/rozporyadzhennya-m%D1%96skogo-golovi-v%D1%96d-29012015-%E2%84%9613-od-pro-sklikannya-p%E2%80%99yatdesyat-drugo%D1%97-pozachergovo%D1%97)**
 
 На розгляд сесії виноситься **14 питань порядку денного**:
 

@@ -29,4 +29,4 @@ tags:
 
 <iframe src="//www.youtube.com/embed/fTl86N92Gys" height="315" width="420" allowfullscreen frameborder="0"></iframe>
 
-_Фото взяте з [amer-lamer.livejournal.com](http://amer-lamer.livejournal.com/)_
+_Фото взяте з [amer-lamer.livejournal.com](https://amer-lamer.livejournal.com/)_

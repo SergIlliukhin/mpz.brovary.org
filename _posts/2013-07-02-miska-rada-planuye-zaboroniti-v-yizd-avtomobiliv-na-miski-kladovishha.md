@@ -17,7 +17,7 @@ tags:
 coverImage: "wp-content/uploads/2013/06/Golovna-zaborona-vyizdu.jpg"
 ---
 
-[![Головна заборона кладовище](https://mpz.brovary.org/wp-content/uploads/2013/06/Golovna-zaborona-kladovishhe.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/06/Golovna-zaborona-kladovishhe.jpg)**На пленарному засіданні Броварської міської ради, що [відбудеться 4 липня](https://mpz.brovary.org/4-lipnya-vidbudetsya-36-a-chergova-sesiya-brovarskoyi-miskoyi-radi/), депутати збираються розглянути [проект рішення](http://docs.brovary.org/p7705/04.07.2013), яким буде заборонено в'їзд авто-мототранспорту на територію броварських кладовищ.**
+[![Головна заборона кладовище](https://mpz.brovary.org/wp-content/uploads/2013/06/Golovna-zaborona-kladovishhe.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/06/Golovna-zaborona-kladovishhe.jpg)**На пленарному засіданні Броварської міської ради, що [відбудеться 4 липня](https://mpz.brovary.org/4-lipnya-vidbudetsya-36-a-chergova-sesiya-brovarskoyi-miskoyi-radi/), депутати збираються розглянути [проект рішення](https://docs.brovary.org/p7705/04.07.2013), яким буде заборонено в'їзд авто-мототранспорту на територію броварських кладовищ.**
 
 Даний проект рішення винесено на розгляд за поданням директора спеціалізованого комунального підприємства Броварської міської ради Київської області «Броварська ритуальна служба» Корнієнка В.О. Очільник ритуальної служби просить заборонити в'їзд на міські кладовща усього транспорту, окрім транспорту ритуального призначення і обслуговування кладовищ та транспорту, задіяного у будівельних роботах (будівельні роботи на кладовищах, монтаж або демонтаж пам’ятників тощо).
 

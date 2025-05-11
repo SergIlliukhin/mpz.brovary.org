@@ -12,7 +12,7 @@ tags:
 coverImage: "wp-content/uploads/2014/09/Bomboshovishha-SAM_0933.jpg"
 ---
 
-**[![Бомбосховища SAM_0933](https://mpz.brovary.org/wp-content/uploads/2014/09/Bomboshovishha-SAM_0933.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/09/Bomboshovishha-SAM_0933.jpg)Сьогодні на сайті Броварської міської ради оприлюднили [перелік найпростіших укриттів на випадок небезпеки](http://www.brovary.kiev.ua/do-uvagi-brovarchan-perel%D1%96k-naiprost%D1%96shikh-ukritt%D1%96v-p%D1%96dval%D1%96v-yak%D1%96-mozhut-buti-vikoristan%D1%96-dlya-zakhi). Виявилося, що це переважно підвали житлових будинків.**
+**[![Бомбосховища SAM_0933](https://mpz.brovary.org/wp-content/uploads/2014/09/Bomboshovishha-SAM_0933.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/09/Bomboshovishha-SAM_0933.jpg)Сьогодні на сайті Броварської міської ради оприлюднили [перелік найпростіших укриттів на випадок небезпеки](https://www.brovary.kiev.ua/do-uvagi-brovarchan-perel%D1%96k-naiprost%D1%96shikh-ukritt%D1%96v-p%D1%96dval%D1%96v-yak%D1%96-mozhut-buti-vikoristan%D1%96-dlya-zakhi). Виявилося, що це переважно підвали житлових будинків.**
 
 У документі вказано адреси будинків з підвалами та місткість укриття (площа підвалу). Найбільше укриття має площу 3382,5 кв. м і розташоване по вул. Постишева, 1В, а найменше - 4,9 кв. м за адресою: вул. Гонти, 2. У якому стані знаходяться ці підвали-укриття з документу не відомо. Про [реальні бомбосховища](https://mpz.brovary.org/bomboshovishha-brovariv-miskrada-prihovuye-a-sud-ruki-umivaye/), які можуть вберегти людей у тому числі від радіологічної загрози, на разі інформації від броварської влади немає.
 

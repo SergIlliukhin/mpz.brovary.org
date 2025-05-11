@@ -14,7 +14,7 @@ tags:
 coverImage: "wp-content/uploads/2015/04/title_14.png"
 ---
 
-[![title_14](https://mpz.brovary.org/wp-content/uploads/2015/04/title_14.png)](https://mpz.brovary.org/wp-content/uploads/2015/04/title_14.png)**[Офіційний веб-сайт головного управління МВС України в Київській області](http://www.mvs.gov.ua/mvs/control/kyivska/uk/publish/article/155173;jsessionid=73661FB0DF27D98EB5EDCD3CCC2D9C40) інформує, що в Броварах закрито два підпільних гральних заклади.**
+[![title_14](https://mpz.brovary.org/wp-content/uploads/2015/04/title_14.png)](https://mpz.brovary.org/wp-content/uploads/2015/04/title_14.png)**[Офіційний веб-сайт головного управління МВС України в Київській області](https://www.mvs.gov.ua/mvs/control/kyivska/uk/publish/article/155173;jsessionid=73661FB0DF27D98EB5EDCD3CCC2D9C40) інформує, що в Броварах закрито два підпільних гральних заклади.**
 
 Як сказано у повідомленні, працівники Управління державної служби боротьби з економічною злочинністю Київської області спільно з співробітниками Білоцерківського слідчого відділу викрили та припинили функціонування двох гральних закладів у місті Бровари.
 

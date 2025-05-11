@@ -19,7 +19,7 @@ coverImage: "wp-content/uploads/2012/05/fedor1.jpg"
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/05/982373_scho-znovu-ne-vstigli_demotivators_ru.jpg "знову не встигли?")](https://mpz.brovary.org/wp-content/uploads/2012/05/982373_scho-znovu-ne-vstigli_demotivators_ru.jpg)
 
-Наостанок - просто кумедна публікація із кумедним заголовком в стилі українського Президента. Статтю на сайті в оригіналі поки можна бачити [за цим посиланням](http://brovary.kiev.ua/%C2%AB%D1%94vro-qvest-2012%C2%BB), допоки адміністратори після нашої публікації не виправили помилки.
+Наостанок - просто кумедна публікація із кумедним заголовком в стилі українського Президента. Статтю на сайті в оригіналі поки можна бачити [за цим посиланням](https://brovary.kiev.ua/%C2%AB%D1%94vro-qvest-2012%C2%BB), допоки адміністратори після нашої публікації не виправили помилки.
 
 [![](https://mpz.brovary.org/wp-content/uploads/2012/05/686500_uvknt-dlya-sebe-brovari_demotivators_ru.jpg "qvest")](https://mpz.brovary.org/wp-content/uploads/2012/05/686500_uvknt-dlya-sebe-brovari_demotivators_ru.jpg)
 

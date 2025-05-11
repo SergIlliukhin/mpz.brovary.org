@@ -21,6 +21,6 @@ coverImage: "wp-content/uploads/2012/09/Sitenkov.jpg"
 
 Однак, як помітили в організації, Ситенков все ж пообіцяв, що "знайде будь-який привід, щоб вивести зі складу ОВК" Греня.
 
-Як повідомлялося вчора, 11 вересня, в Броварах після засідання окружної виборчої комісії (ОВК) 97-го виборчого округу активісти [закидали яйцями](http://ua.korrespondent.net/ukraine/politics/1393817-u-brovarah-golovu-okruzhnoyi-komisiyi-zakidali-yajcyami) голову комісії Максима Ситєнкова.
+Як повідомлялося вчора, 11 вересня, в Броварах після засідання окружної виборчої комісії (ОВК) 97-го виборчого округу активісти [закидали яйцями](https://ua.korrespondent.net/ukraine/politics/1393817-u-brovarah-golovu-okruzhnoyi-komisiyi-zakidali-yajcyami) голову комісії Максима Ситєнкова.
 
-Передрук публікації з сайту "**[Кореспондент](http://ua.korrespondent.net/ukraine/politics/1394340-u-brovarah-skandalnij-golova-okruzhnoyi-komisiyi-poobicyav-pribrati-spivrobitnika)**".
+Передрук публікації з сайту "**[Кореспондент](https://ua.korrespondent.net/ukraine/politics/1394340-u-brovarah-skandalnij-golova-okruzhnoyi-komisiyi-poobicyav-pribrati-spivrobitnika)**".

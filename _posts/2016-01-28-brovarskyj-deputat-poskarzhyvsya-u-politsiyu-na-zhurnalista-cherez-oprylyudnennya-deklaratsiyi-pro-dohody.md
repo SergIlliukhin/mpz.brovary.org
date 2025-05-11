@@ -19,7 +19,7 @@ tags:
 coverImage: "wp-content/uploads/2016/01/Vadym-Andriyevskyj-RPL.jpg"
 ---
 
-**Вадим Андрієвський, депутат Броварської міської ради від Радикальної партії Олега Ляшка, подав до поліції скаргу на журналіста видання «Трибуна – Бровари» Олексія Комаровського. Це підтверджують обидві сторони конфлікту. Причиною невдоволення політика стала** [**опублікована**](http://brovary.net.ua/golovni-novyny/deklaratsiya-deputata-brovarskoyi-miskrady-vadyma-andriyevskogo/deklaratsiya-deputata-brovarskoyi-miskrady-vadyma-andriyevskogo/) **на сайті мас-медіа декларація про його доходи за 2014 рік.**
+**Вадим Андрієвський, депутат Броварської міської ради від Радикальної партії Олега Ляшка, подав до поліції скаргу на журналіста видання «Трибуна – Бровари» Олексія Комаровського. Це підтверджують обидві сторони конфлікту. Причиною невдоволення політика стала** [**опублікована**](https://brovary.net.ua/golovni-novyny/deklaratsiya-deputata-brovarskoyi-miskrady-vadyma-andriyevskogo/deklaratsiya-deputata-brovarskoyi-miskrady-vadyma-andriyevskogo/) **на сайті мас-медіа декларація про його доходи за 2014 рік.**
 
 Як зазначив **Вадим Андрієвський**, журналіст оприлюднив його персональні дані – адреси, номери телефонів. Саме через це депутат подав скаргу до поліції. Зі слів політика, претензій щодо публікування іншої інформації із декларації – зокрема про суми доходів – він не має.
 
@@ -29,7 +29,7 @@ coverImage: "wp-content/uploads/2016/01/Vadym-Andriyevskyj-RPL.jpg"
 
 \[caption id="attachment\_51110" align="aligncenter" width="600"\][![](https://mpz.brovary.org/wp-content/uploads/2016/01/andriyevskyj-1-2.jpg)](https://mpz.brovary.org/wp-content/uploads/2016/01/andriyevskyj-1-2.jpg) Із декларації, оприлюдненої на сайті «Трибуни – Бровари»\[/caption\]
 
-Журналісти видання «Трибуна – Бровари» переконують, що [мають право](http://brovary.net.ua/aktualno/trybuna-brovary-deputatam-yaki-proty-oprylyudnennya-deklaratsij/trybuna-brovary-deputatam-yaki-proty-oprylyudnennya-deklaratsij/) публікувати декларації місцевих депутатів відповідно до законодавства. А дії Вадима Андрієвського вважають [перешкоджанням](http://brovary.net.ua/aktualno/trybuna-brovary-deputatam-yaki-proty-oprylyudnennya-deklaratsij/trybuna-brovary-deputatam-yaki-proty-oprylyudnennya-deklaratsij/) журналістській діяльності. Однак, інші питання навколо конфлікту представник медіаспільноти **Олексій Комаровський** наразі не коментує.
+Журналісти видання «Трибуна – Бровари» переконують, що [мають право](https://brovary.net.ua/aktualno/trybuna-brovary-deputatam-yaki-proty-oprylyudnennya-deklaratsij/trybuna-brovary-deputatam-yaki-proty-oprylyudnennya-deklaratsij/) публікувати декларації місцевих депутатів відповідно до законодавства. А дії Вадима Андрієвського вважають [перешкоджанням](https://brovary.net.ua/aktualno/trybuna-brovary-deputatam-yaki-proty-oprylyudnennya-deklaratsij/trybuna-brovary-deputatam-yaki-proty-oprylyudnennya-deklaratsij/) журналістській діяльності. Однак, інші питання навколо конфлікту представник медіаспільноти **Олексій Комаровський** наразі не коментує.
 
 Тим часом, на захист журналіста стали броварські депутати від «Демократичного альянсу» та «Солідарності». Вони так само [називають](https://www.facebook.com/groups/brovary/permalink/1181307978565833/) дії Вадима Андрієвського перешкоджанням журналістській діяльності та пропонують розглянути поведінку депутата на засіданні постійної комісії з питань регламенту, правопорядку, депутатської етики та інформаційної політики.
 

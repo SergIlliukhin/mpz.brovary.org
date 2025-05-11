@@ -40,7 +40,7 @@ coverImage: "wp-content/uploads/2013/06/Avto-Simutin-1.jpg"
 
 [![Авто Сімутін 3](https://mpz.brovary.org/wp-content/uploads/2013/06/Avto-Simutin-3.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/06/Avto-Simutin-3.jpg)
 
-Народний депутат **Павло Різаненко** [переконаний](http://www.pravda.com.ua/news/2013/06/10/6991837/), що даний підпал є продовженням тиску влади на міську організацію УДАР. "_Про яку випадковість можна говорити, якщо напередодні Романа Сімутіна [позбавили адвокатського свідоцтва](https://mpz.brovary.org/deputata-simutina-oshtrafuvali-za-nepokoru-militsiyi-ta-pozbavili-advokatskogo-posvidchennya/), незаконно [утримували у міліції](https://mpz.brovary.org/deputat-simutin-obitsyaye-prityagti-militsioneriv-do-vidpovidalnosti-za-svoye-nezakonne-zatrimannya-sogodni/)?_", - повідомив нардеп.
+Народний депутат **Павло Різаненко** [переконаний](https://www.pravda.com.ua/news/2013/06/10/6991837/), що даний підпал є продовженням тиску влади на міську організацію УДАР. "_Про яку випадковість можна говорити, якщо напередодні Романа Сімутіна [позбавили адвокатського свідоцтва](https://mpz.brovary.org/deputata-simutina-oshtrafuvali-za-nepokoru-militsiyi-ta-pozbavili-advokatskogo-posvidchennya/), незаконно [утримували у міліції](https://mpz.brovary.org/deputat-simutin-obitsyaye-prityagti-militsioneriv-do-vidpovidalnosti-za-svoye-nezakonne-zatrimannya-sogodni/)?_", - повідомив нардеп.
 
 Сам Сімутін не надто вірить, що справа буде розслідувана, а злочинців знайдуть, не кажучи вже про замовників.
 

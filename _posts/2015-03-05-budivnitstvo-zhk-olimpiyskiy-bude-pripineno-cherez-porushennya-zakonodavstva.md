@@ -15,7 +15,7 @@ tags:
 coverImage: "wp-content/uploads/2015/03/P3010046.jpg"
 ---
 
-[![O](https://mpz.brovary.org/wp-content/uploads/2015/03/P3010046.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/03/P3010046.jpg)**Як [повідомляє](http://www.dabi.gov.ua/index.php/pres-sluzhba/novini/1013-budivnitstvo-kvartalu-olimpijskij-u-brovarakh-vedetsya-z-porushennyami-i-nezabarom-bude-zupinene) Державна архітектурно-будівельна інспекція, багатоповерховий житловий комплекс "Олімпійський" на Торгмаші будується з порушенням містобудівного законодавства.**
+[![O](https://mpz.brovary.org/wp-content/uploads/2015/03/P3010046.jpg)](https://mpz.brovary.org/wp-content/uploads/2015/03/P3010046.jpg)**Як [повідомляє](https://www.dabi.gov.ua/index.php/pres-sluzhba/novini/1013-budivnitstvo-kvartalu-olimpijskij-u-brovarakh-vedetsya-z-porushennyami-i-nezabarom-bude-zupinene) Державна архітектурно-будівельна інспекція, багатоповерховий житловий комплекс "Олімпійський" на Торгмаші будується з порушенням містобудівного законодавства.**
 
 > Департамент Державної архітектурно-будівельної інспекції у Київській області виявив значні порушення містобудівного законодавства під час багатоповерхової забудови кварталу «Олімпійський» у м. Бровари. Найближчим часом він скасує декларацію про початок виконання будівельних робіт з боку замовника будівництва - TOB «Броварський домобудівельний комбінат «Меркурій».
 > 

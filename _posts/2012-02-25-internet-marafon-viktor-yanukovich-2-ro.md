@@ -20,6 +20,6 @@ tags:
 
 > Інтернет-трансляція марафону розпочнеться у понеділок 27 лютого о 14:00. На нашому сайті трансляція вестиметься на сторінці ["Онлайн-трансляція: Інтернет-марафон"](https://mpz.brovary.org/online/internet-marafon/ "Онлайн-трансляція") - не пропустіть!
 
-Докладніше про марафон можна прочитати в [блозі Мустафи Найєма](http://blogs.pravda.com.ua/authors/nayem/4f476775c2ff5/ "Мустафа Найєм").
+Докладніше про марафон можна прочитати в [блозі Мустафи Найєма](https://blogs.pravda.com.ua/authors/nayem/4f476775c2ff5/ "Мустафа Найєм").
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XfUU_CMQgmo" frameborder="0" allowfullscreen></iframe>

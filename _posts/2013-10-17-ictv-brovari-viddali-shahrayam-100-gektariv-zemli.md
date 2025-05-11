@@ -19,7 +19,7 @@ tags:
 coverImage: "wp-content/uploads/2013/10/sapozhko_ictv.jpg"
 ---
 
-**[![сапожко_ictv](https://mpz.brovary.org/wp-content/uploads/2013/10/sapozhko_ictv.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/10/sapozhko_ictv.jpg)З екранів центральних телеканалів не сходить новина про земельний скандал в Броварах. Цього разу сюжет вийшов у ["Фактах ICTV"](http://fakty.ictv.ua/ua/index/read-news/id/1490516).**
+**[![сапожко_ictv](https://mpz.brovary.org/wp-content/uploads/2013/10/sapozhko_ictv.jpg)](https://mpz.brovary.org/wp-content/uploads/2013/10/sapozhko_ictv.jpg)З екранів центральних телеканалів не сходить новина про земельний скандал в Броварах. Цього разу сюжет вийшов у ["Фактах ICTV"](https://fakty.ictv.ua/ua/index/read-news/id/1490516).**
 
 На відео представниця комерційної фірми просить дозволу на будівництво трьох промислових об’єктів і зокрема заводу міжнародної компанії Bayer.
 
@@ -47,6 +47,6 @@ coverImage: "wp-content/uploads/2013/10/sapozhko_ictv.jpg"
 
 Аби привернути увагу до земельної оборудки, депутат Різаненко, обраний у Броварах, направив запит до генеральної прокуратури. Там його прийняли. Але поки жодної реакції нема.
 
-Джерело: [Факти ICTV](<object id='zl_player' name='zl_player' type='application/x-shockwave-flash' data='http://fakty.ictv.ua/public/swfobject/zl_player.swf' width='628' height='502'><param name='movie' value='http://fakty.ictv.ua/public/swfobject/zl_player.swf'/><param name='bgcolor' value='#000000'/><param name='quality' value='high'/><param name='wmode' value='transparent'/><param name='allowScriptAccess' value='always'/><param name='allowFullScreen' value='true'/><param name='flashvars' value='stream_url=rtmp://stream.ictv.ua:80/vod/ictv/2013/10/16/mp4:20131016200828.mp4&amp;thumbnail_url=/public/images/gallery/2013/10/16/thumbnail-20131016200828.jpg&amp;stype=rtmp&amp;image_id=46786&amp;lnk=http://fakty.ictv.ua&amp;auto=true&amp;config={}'/></object>)
+Джерело: [Факти ICTV](<object id='zl_player' name='zl_player' type='application/x-shockwave-flash' data='https://fakty.ictv.ua/public/swfobject/zl_player.swf' width='628' height='502'><param name='movie' value='https://fakty.ictv.ua/public/swfobject/zl_player.swf'/><param name='bgcolor' value='#000000'/><param name='quality' value='high'/><param name='wmode' value='transparent'/><param name='allowScriptAccess' value='always'/><param name='allowFullScreen' value='true'/><param name='flashvars' value='stream_url=rtmp://stream.ictv.ua:80/vod/ictv/2013/10/16/mp4:20131016200828.mp4&amp;thumbnail_url=/public/images/gallery/2013/10/16/thumbnail-20131016200828.jpg&amp;stype=rtmp&amp;image_id=46786&amp;lnk=https://fakty.ictv.ua&amp;auto=true&amp;config={}'/></object>)
 
 > Нагадаємо, 1 жовтня 2013 року депутати Броварської міської ради [погодились змінити](https://mpz.brovary.org/brovarski-deputati-bezkoshtovno-viddali-96-gektariv-pid-budivnitstvo-farmatsevtichnogo-zavodu/) цільове призначення 96 га землі з сільськогосподарського на землі промисловості – для будівництва виробництва та складів концерну “Bayer”. Однак вже наступного дня представники концерну офіційно [спростували цю інформацію](https://mpz.brovary.org/bayyer-zayaviv-shho-ne-buduvatime-zavod-u-brovarah-hto-prikrivsya-mizhnarodnim-brendom-na-sesiyi/) і заявили, що жодних намірів будувати виробництво на броварських землях вони не мають.

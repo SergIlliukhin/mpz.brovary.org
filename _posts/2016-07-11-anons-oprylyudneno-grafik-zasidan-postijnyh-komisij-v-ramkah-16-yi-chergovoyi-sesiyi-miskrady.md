@@ -16,7 +16,7 @@ tags:
 coverImage: "wp-content/uploads/2016/07/Tablichka-miskoyi-radi-2.jpg"
 ---
 
-**На офіційному сайті Броварської міської ради** [**оприлюднено**](http://www.brovary.kiev.ua/graf%D1%96k-provedennya-zas%D1%96dan-post%D1%96inikh-deputatskikh-kom%D1%96s%D1%96i-po-rozglyadu-pitan-yak%D1%96-zaplanovan%D1%96-do-ro) **графік засідань постійних депутатських комісій, які відбуватимуться з 20 по 26 липня у рамках підготовки до чергової 16-ї сесії. Саме засідання сесії Броварської міської ради VII** **скликання, як [повідомлялося](https://mpz.brovary.org/anons-4-serpnya-vidbudetsya-chergova-sesiya-brovarskoyi-miskoyi-rady/) раніше, призначено на 4 серпня 2016 року. На розгляд депутатів винесено 59 питань.**
+**На офіційному сайті Броварської міської ради** [**оприлюднено**](https://www.brovary.kiev.ua/graf%D1%96k-provedennya-zas%D1%96dan-post%D1%96inikh-deputatskikh-kom%D1%96s%D1%96i-po-rozglyadu-pitan-yak%D1%96-zaplanovan%D1%96-do-ro) **графік засідань постійних депутатських комісій, які відбуватимуться з 20 по 26 липня у рамках підготовки до чергової 16-ї сесії. Саме засідання сесії Броварської міської ради VII** **скликання, як [повідомлялося](https://mpz.brovary.org/anons-4-serpnya-vidbudetsya-chergova-sesiya-brovarskoyi-miskoyi-rady/) раніше, призначено на 4 серпня 2016 року. На розгляд депутатів винесено 59 питань.**
 
 **У середу, 20 липня** **2016 року, о** **10:00** відбудеться засідання постійної комісії Броварської міської ради з питань регламенту, правопорядку, депутатської етики та інформаційної політики.
 

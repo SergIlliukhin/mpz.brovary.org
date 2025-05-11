@@ -77,6 +77,6 @@ coverImage: "wp-content/uploads/2016/07/113932093_large_4979645_Ws9fYwu87Ro_1_.j
 
 **Джерела:**
 
-1.Електронний ресурс. http://www.president.gov.ua/documents/5802015-19494
+1.Електронний ресурс. https://www.president.gov.ua/documents/5802015-19494
 
 2\. Проект рішень міської ради "Про затвердження міської програми «Національно-патріотичне виховання у навчальних закладах м. Бровари» на 2016-2020 р.р."  Електронний ресурс. https://onedrive.live.com/view.aspx?resid=72571393D4771099!7873&ithint=file%2Cdocx&app=Word&authkey=!AL9UBhyF3\_84kAw

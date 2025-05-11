@@ -15,7 +15,7 @@ tags:
 coverImage: "wp-content/uploads/2014/01/Rizanenko-Insayder.jpg"
 ---
 
-![Різаненко Інсайдер](https://mpz.brovary.org/wp-content/uploads/2014/01/Rizanenko-Insayder.jpg)**На сайті INSIDER вийшло [продовження інтерв’ю](http://www.theinsider.com.ua/politics/52cd66ce6308f/) з народним депутатом України, обраним по виборчому округу № 97, Павло Різаненком. Першу частину розмови можна прочитати за [цим посиланням](https://mpz.brovary.org/internet-sayt-insider-opublikuvav-interv-yu-z-nardepom-pavlom-rizanenkom/).**
+![Різаненко Інсайдер](https://mpz.brovary.org/wp-content/uploads/2014/01/Rizanenko-Insayder.jpg)**На сайті INSIDER вийшло [продовження інтерв’ю](https://www.theinsider.com.ua/politics/52cd66ce6308f/) з народним депутатом України, обраним по виборчому округу № 97, Павло Різаненком. Першу частину розмови можна прочитати за [цим посиланням](https://mpz.brovary.org/internet-sayt-insider-opublikuvav-interv-yu-z-nardepom-pavlom-rizanenkom/).**
 
 _Пропонуємо другу частину інтерв'ю УДАРівця Павла Різаненка про те, що може депутат-мажоритарник, якщо не погоджується на співпрацю з владою, чи є російські гроші в бюджеті і чи враховано там ціну на газ, про яку начебто домовилися Путін і Янукович, і навіщо олігархам "поправка Кличка"._
 
@@ -187,4 +187,4 @@ _Пропонуємо другу частину інтерв'ю УДАРівця
 
 Виходить, що ми будемо купувати і споживати імпортних товарів більше. А виробляти будемо менше. Тобто ми запозичимо і з'їмо більше, ніж минулого року.
 
-**Джерело: [Insider](http://www.theinsider.com.ua/politics/52cd66ce6308f/)**
+**Джерело: [Insider](https://www.theinsider.com.ua/politics/52cd66ce6308f/)**

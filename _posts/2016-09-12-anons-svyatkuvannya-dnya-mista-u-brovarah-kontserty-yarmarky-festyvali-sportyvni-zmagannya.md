@@ -34,7 +34,7 @@ coverImage: "wp-content/uploads/2016/09/image.jpg"
 
 - **10:00** – змагання з плавання серед дітей у басейні «Купава;
 - **11:00** – у міському культурному центрі «Прометей» пройде концерт «Дорогі мої батьки» для ветеранів війни та праці;
-- **15:00** \- [відкриття](http://www.bdut.org.ua/zaproshujemo-urochystoji-peredachi-novoho-prymischennja-budynku-dytjachoji-ta-junackoji-tvorchosti/) нового приміщення Будинку юнацької та дитячої творчості на Грушевського, 21А (робота майстер-класів та виставка розпочнеться о 14:00, урочиста церемонія передачі приміщення відбудеться о 15:00);
+- **15:00** \- [відкриття](https://www.bdut.org.ua/zaproshujemo-urochystoji-peredachi-novoho-prymischennja-budynku-dytjachoji-ta-junackoji-tvorchosti/) нового приміщення Будинку юнацької та дитячої творчості на Грушевського, 21А (робота майстер-класів та виставка розпочнеться о 14:00, урочиста церемонія передачі приміщення відбудеться о 15:00);
 - **18:00** – також у «Прометеї» буде [презентована](https://mpz.brovary.org/anons-sontemporary-dance-performance-tectum-16-veresnya-u-brovarah/) сучасна танцювальна вистава «ТЕСТUМ» у виконанні представників сірійської національної спільноти із студії «МІХВАР».
 
 Основні ж розважальні і спортивні заходи заплановані на вихідні дні, **17 і 18 вересня.**
@@ -60,7 +60,7 @@ coverImage: "wp-content/uploads/2016/09/image.jpg"
 
 ![velo](https://mpz.brovary.org/wp-content/uploads/2016/09/velo.jpg)
 
-О **10:00** в парку розпочнеться баскетбольний марафон, - [повідомляє](http://streetball.in.ua/featured/1182-usl-3h3-fiba-endorsed-marafon-mob-brovari-17-veresnya.html) ГО "МОБІ". У програмі: змагання серед юніорів, жінок та чоловіків, також конкурси для глядачів.
+О **10:00** в парку розпочнеться баскетбольний марафон, - [повідомляє](https://streetball.in.ua/featured/1182-usl-3h3-fiba-endorsed-marafon-mob-brovari-17-veresnya.html) ГО "МОБІ". У програмі: змагання серед юніорів, жінок та чоловіків, також конкурси для глядачів.
 
 [![14232561_1103564123063303_2027488212675334841_n](https://mpz.brovary.org/wp-content/uploads/2016/09/14232561_1103564123063303_2027488212675334841_n.jpg)](https://mpz.brovary.org/wp-content/uploads/2016/09/14232561_1103564123063303_2027488212675334841_n.jpg)
 

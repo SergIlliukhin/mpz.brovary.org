@@ -22,7 +22,7 @@ coverImage: "wp-content/uploads/2014/05/kirponosa-11.jpg"
 
 \[caption id="attachment\_26284" align="aligncenter" width="600"\][![кирпоноса 02](https://mpz.brovary.org/wp-content/uploads/2014/05/kirponosa-02.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/05/kirponosa-02.jpg) Ігор Бічевий\[/caption\]
 
-Бічевий наполягає на іншому: каже, що має необхідні документи, а саме – [дозвіл виконкому на реконструкцію з розширенням нежитлового приміщення](http://www.brovary.kiev.ua/r%D1%96shennya-vikonavchogo-kom%D1%96tetu-648) по вул. Кирпоноса, 3, а також відповідну декларацію з держархбудконтролю на початок будівельних робіт.
+Бічевий наполягає на іншому: каже, що має необхідні документи, а саме – [дозвіл виконкому на реконструкцію з розширенням нежитлового приміщення](https://www.brovary.kiev.ua/r%D1%96shennya-vikonavchogo-kom%D1%96tetu-648) по вул. Кирпоноса, 3, а також відповідну декларацію з держархбудконтролю на початок будівельних робіт.
 
 \[caption id="attachment\_26300" align="aligncenter" width="600"\][![рішення бічевой](https://mpz.brovary.org/wp-content/uploads/2014/05/rishennya-bichevoy.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/05/rishennya-bichevoy.jpg) Натисніть для збільшення\[/caption\]
 

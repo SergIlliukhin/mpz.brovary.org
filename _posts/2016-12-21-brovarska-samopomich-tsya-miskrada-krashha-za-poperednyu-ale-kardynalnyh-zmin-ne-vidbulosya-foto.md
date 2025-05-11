@@ -57,6 +57,6 @@ _"Мені не соромно ні за одне рішення фракції,
 
 \[caption id="attachment\_64334" align="aligncenter" width="600"\][![](https://mpz.brovary.org/wp-content/uploads/2016/12/samopomich-20.jpg)](https://mpz.brovary.org/wp-content/uploads/2016/12/samopomich-20.jpg) Людмила Кулініч\[/caption\]
 
-Хто замість Андрія Василенка стане головою фракції - наразі не повідомляють, кажуть, ще не визначилися всередині команди. Версія від "Маєш право знати": ним стане [**Володимир Чаюн**](http://samopomich.ua/councils/chayun-volodymyr-hryhorovych/), як старожил у міській раді.
+Хто замість Андрія Василенка стане головою фракції - наразі не повідомляють, кажуть, ще не визначилися всередині команди. Версія від "Маєш право знати": ним стане [**Володимир Чаюн**](https://samopomich.ua/councils/chayun-volodymyr-hryhorovych/), як старожил у міській раді.
 
 **Фото - Світлана Яцив**

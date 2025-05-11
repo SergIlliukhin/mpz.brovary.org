@@ -16,7 +16,7 @@ tags:
 coverImage: "wp-content/uploads/2016/06/zyk.jpg"
 ---
 
-**Броварська центральна районна лікарня обурена сюжетами телеканалу ZIK та виступила з [відкритим листом](http://brovcrl.in.ua/vidkrytyy-lyst-trudovogo-kolektyvu-brovarskoyi-crl) від колективу медзакладу. У своєму [зверненні](https://onedrive.live.com/view.aspx?resid=6F250EB0E4524FFC!527&ithint=file%2cdocx&app=Word&authkey=!AHR5WWsuliMM8oI) медики спростовують обвинувачення в їхній бік та називають роботу журналістів непрофесійною.**
+**Броварська центральна районна лікарня обурена сюжетами телеканалу ZIK та виступила з [відкритим листом](https://brovcrl.in.ua/vidkrytyy-lyst-trudovogo-kolektyvu-brovarskoyi-crl) від колективу медзакладу. У своєму [зверненні](https://onedrive.live.com/view.aspx?resid=6F250EB0E4524FFC!527&ithint=file%2cdocx&app=Word&authkey=!AHR5WWsuliMM8oI) медики спростовують обвинувачення в їхній бік та називають роботу журналістів непрофесійною.**
 
 Телесюжети "Лікарські таємниці: Чому вмирають пацієнти у Броварській районній лікарні?" ([Частина 1](https://mpz.brovary.org/zhurnalisty-zik-zrobyly-pidbirku-vypadkiv-halatnosti-brovarskyh-likariv-videosyuzhet/), [Частина 2](https://mpz.brovary.org/likarski-tayemnytsi-znovu-shukaly-porushennya-u-brovarskij-likarni-video/)) демонструвалися по телебаченню 1 та 8 червня. Мова в них йшла про випадки смертей паціентів у лікарні, також журналісти звинувачували броварських медиків у шахрайствах з ліками.
 

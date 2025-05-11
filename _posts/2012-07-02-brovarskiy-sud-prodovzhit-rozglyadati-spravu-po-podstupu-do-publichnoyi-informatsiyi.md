@@ -21,6 +21,6 @@ coverImage: "wp-content/uploads/2012/07/Brovarskiy-miskrayonniy-sud.jpg"
 
 Як завжди, журналісти МПЗ будуть забезпечувати інтернет-трансляцію цього судового процесу. Слідкуйте за твіттер-трансляцією на поточній сторінці або використовуйте тег **#mpzsud** для пошуку: [https://twitter.com/search/mpzsud](https://twitter.com/search/mpzsud "https://twitter.com/search/mpzsud")
 
-<script charset="utf-8" type="text/javascript" src="http://widgets.twimg.com/j/2/widget.js"></script>
+<script charset="utf-8" type="text/javascript" src="https://widgets.twimg.com/j/2/widget.js"></script>
 
 <script type="text/javascript">// <![CDATA[ new TWTR.Widget({ version: 2, type: 'search', search: 'mpzsud', interval: 30000, title: 'Судове засідання: Іллюхін проти Броварської міської ради', subject: 'Маєш Право Знати Бровари', width: 'auto', height: 250, theme: { shell: { background: '#8ec1da', color: '#ffffff' }, tweets: { background: '#ffffff', color: '#444444', links: '#1985b5' } }, features: { scrollbar: true, loop: false, live: true, behavior: 'default' } }).render().start(); // ]]></script>

@@ -39,7 +39,7 @@ coverImage: "wp-content/uploads/2015/11/20151102-DSC_3357.jpg"
 
 <iframe src="https://www.youtube.com/embed/Cyvy-6FJQD0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-](http://<iframe width="560" height="315" src="https://www.youtube.com/embed/Cyvy-6FJQD0" frameborder="0" allowfullscreen></iframe>)
+](https://<iframe width="560" height="315" src="https://www.youtube.com/embed/Cyvy-6FJQD0" frameborder="0" allowfullscreen></iframe>)
 
 Виглядало так, що Сапожко вкотре «всіх переграв», а в розпорядженні «демсил» лишався тільки один козир: посада секретаря міської ради, фактично «другої людини» у міській владі, адже саме секретар стає в.о. мера, раптом останній іде у відставку. Кандидатуру на посаду секретаря лідери «демократичних» фракцій мали погодити між собою і вже потім винести її на голосування сесії. Однак і тут виникли проблеми.
 
