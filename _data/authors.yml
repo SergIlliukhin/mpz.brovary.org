@@ -398,11 +398,6 @@
   avatarUrl: "/avatars/v3-avatar.jpg"
   description: "Автор публікацій МПЗ Бровари sereda"
 
-- name: "serhij batuk"
-  login: "serhij batuk"
-  avatarUrl: "/avatars/v3-avatar.jpg"
-  description: "Автор публікацій МПЗ Бровари serhij batuk"
-
 - name: "shevtsov"
   login: "shevtsov"
   avatarUrl: "/avatars/v3-avatar.jpg"
