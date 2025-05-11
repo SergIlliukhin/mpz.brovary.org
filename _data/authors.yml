@@ -383,11 +383,6 @@
   avatarUrl: "/avatars/v3-avatar.jpg"
   description: "Автор публікацій МПЗ Бровари plakhovalex"
 
-- name: "pravoZnaty"
-  login: "pravoZnaty"
-  avatarUrl: "/avatars/v3-avatar.jpg"
-  description: "Автор публікацій МПЗ Бровари pravoZnaty"
-
 - name: "rodzina"
   login: "rodzina"
   avatarUrl: "/avatars/v3-avatar.jpg"

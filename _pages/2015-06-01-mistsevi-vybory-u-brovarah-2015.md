@@ -2,7 +2,7 @@
 title: "Місцеві вибори у Броварах - 2015"
 date: 2015-06-01
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 tags: 
   - "homepage"

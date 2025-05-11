@@ -2,7 +2,7 @@
 title: "Міський голова"
 date: 2012-01-07
 author: 
-  username: "pravoZnaty"
+  username: "pravoznaty"
   display_name: "Маєш право знати"
 ---
 
