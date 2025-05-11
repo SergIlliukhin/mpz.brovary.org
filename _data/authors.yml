@@ -276,9 +276,14 @@
 - name: "Владимир Охримов"
   login: "ochrimoff"
   avatarUrl: "/avatars/z_147002c9-avatar.jpg"
-  description: "Житель этого города, который смотрит на него со стороны" 
+  description: "Житель этого города, который смотрит на него со стороны"
 
 - name: "Маєш право знати"
   login: "pravoznaty"
   avatarUrl: "/avatars/v3-avatar.jpg"
-  description: "Команда \"Маєш право знати\"" 
+  description: "Команда \"Маєш право знати\""
+
+- name: "Ольга Романенко"
+  login: "scientific_view"
+  avatarUrl: "/avatars/13438985_1354213777929234_7825635446760044125_n-avatar.jpg"
+  description: "Доктор філософії в економіці, викладач університету, член Ради молодих вчених при Міністерстві освіти і науки України" 
