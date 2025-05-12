@@ -288,11 +288,6 @@
   avatarUrl: "/avatars/13438985_1354213777929234_7825635446760044125_n-avatar.jpg"
   description: "Доктор філософії в економіці, викладач університету, \nчлен Ради молодих вчених при Міністерстві освіти і науки України"
 
-- name: "admin"
-  login: "admin"
-  avatarUrl: "/avatars/logo-cropped.jpg"
-  description: "Super Admin"
-
 - name: "Драна Анна"
   login: "annadrana"
   avatarUrl: "/avatars/ozxah90upxa-avatar.jpg"
@@ -542,11 +537,6 @@
   login: "wild"
   avatarUrl: "/avatars/vse-e`to-byilo-avatar.jpg"
   description: "43 роки, вища освіта, мешкаю в Броварах"
-
-- name: "Батюк Сергій"
-  login: "serhij batuk"
-  avatarUrl: "/avatars/11079659_819774864765229_6983104994720849544_n-cropped.jpg"
-  description: "Автор публікацій МПЗ Бровари serhij batuk"
 
 - name: "Левковець Бажен"
   login: "bazhen"

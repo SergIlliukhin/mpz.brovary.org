@@ -93,10 +93,21 @@ def main():
     # Track statistics
     updated_count = 0
     added_count = 0
+    removed_count = 0
+    
+    # List of users to exclude
+    excluded_users = ['serhij batuk', 'admin']
     
     print("Processing users...")
+    # First, remove excluded users
+    existing_authors = [author for author in existing_authors if author['login'].lower() not in excluded_users]
+    removed_count = len(excluded_users)
+    
     for user in csv_users:
         login = user['user_login'].lower()
+        if login in excluded_users:
+            continue
+            
         if login in existing_authors_dict:
             # Update existing author
             existing_author = existing_authors_dict[login]
@@ -116,6 +127,7 @@ def main():
             existing_authors.append(new_author)
             added_count += 1
     
+    print(f"Removed {removed_count} excluded authors")
     print(f"Updated {updated_count} existing authors")
     print(f"Added {added_count} new authors")
     
