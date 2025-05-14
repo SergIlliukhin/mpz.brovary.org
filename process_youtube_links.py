@@ -9,8 +9,8 @@ def process_file(file_path):
     # Handles youtube.com, m.youtube.com, and youtu.be formats
     pattern = r'\((https?://(?:www\.|m\.)?(?:youtube\.com/watch\?v=|youtu\.be/)[^)]+)\)'
     
-    # Replace with just the URL (removing brackets)
-    new_content = re.sub(pattern, r'\1', content)
+    # Replace with URL surrounded by spaces (replacing brackets with spaces)
+    new_content = re.sub(pattern, r' \1 ', content)
     
     if content != new_content:
         with open(file_path, 'w', encoding='utf-8') as f:
