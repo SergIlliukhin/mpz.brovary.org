@@ -5,8 +5,8 @@ def process_file(file_path):
     with open(file_path, 'r', encoding='utf-8') as f:
         content = f.read()
     
-    # Pattern to match markdown links with YouTube URLs
-    pattern = r'\[([^\]]+)\]\((https?://(?:www\.|m\.)?(?:youtube\.com/watch\?v=|youtu\.be/)[^)]+)\)'
+    # Pattern to match markdown links with YouTube URLs, including additional parameters
+    pattern = r'\[([^\]]+)\]\((https?://(?:www\.|m\.)?(?:youtube\.com/watch\?(?:[^&]*&)*v=|youtu\.be/)[^)]+)\)'
     
     # Replace with text in brackets followed by space and URL
     new_content = re.sub(pattern, r'[\1] \2 ', content)
