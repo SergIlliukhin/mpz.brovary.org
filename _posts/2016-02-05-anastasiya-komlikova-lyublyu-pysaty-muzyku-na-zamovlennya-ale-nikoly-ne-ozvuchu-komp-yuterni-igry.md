@@ -59,7 +59,7 @@ coverImage: "wp-content/uploads/2016/01/foto-ojka.jpg"
 
 <iframe src="https://www.youtube.com/embed/q5l2HpAMUcM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-"Радію, що тісно співпрацюю з народним дитячим хором «Веснянка»  центру «Арт», також із народним ансамблем танцю [«Україна»](https://www.youtube.com/watch?v=BBmKa1fEvP4)".
+"Радію, що тісно співпрацюю з народним дитячим хором «Веснянка»  центру «Арт», також із народним ансамблем танцю [«Україна»] https://www.youtube.com/watch?v=BBmKa1fEvP4 ".
 
 **\-**    **_Скільки майстер класів Ви провели в Броварах?_**
 

@@ -9,7 +9,7 @@ def process_file(file_path):
     pattern = r'\[([^\]]+)\]\((https?://(?:www\.|m\.)?(?:youtube\.com/watch\?v=|youtu\.be/)[^)]+)\)'
     
     # Replace with text in brackets followed by space and URL
-    new_content = re.sub(pattern, r'[\1] \2', content)
+    new_content = re.sub(pattern, r'[\1] \2 ', content)
     
     if content != new_content:
         with open(file_path, 'w', encoding='utf-8') as f:

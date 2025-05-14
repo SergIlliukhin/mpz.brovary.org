@@ -36,6 +36,6 @@ tags:
 
 Фінал конкурсу відбудеться 5 вересня у кінозалі кінотеатру "Прометей" по бульв. Незалежності, 4. Організатори сформують журі, яке має визначити переможців, йдеться у повідомленні організаторів.
 
-Варто зазначити, що кінофестиваль короткометражного українського молодого кіно у Броварах Володимир Бугай [анонсував](https://www.youtube.com/watch?v=yQpUy_QZcvw) ще у травні цього року, під час відзначення [Дня Героїв](https://mpz.brovary.org/patriotichni-vihidni-u-brovarah-parad-vishivanok-kinopokaz-pro-dobrovoltsiv-ta-marsh-geroyiv/). Однак тоді актор не назвав точних дат і місць проведення.
+Варто зазначити, що кінофестиваль короткометражного українського молодого кіно у Броварах Володимир Бугай [анонсував] https://www.youtube.com/watch?v=yQpUy_QZcvw  ще у травні цього року, під час відзначення [Дня Героїв](https://mpz.brovary.org/patriotichni-vihidni-u-brovarah-parad-vishivanok-kinopokaz-pro-dobrovoltsiv-ta-marsh-geroyiv/). Однак тоді актор не назвав точних дат і місць проведення.
 
 **Зображення - зі [сторінки](https://www.facebook.com/groups/kometr/) на Фейсбуку.**

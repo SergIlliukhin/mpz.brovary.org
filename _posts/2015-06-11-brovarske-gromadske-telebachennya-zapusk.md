@@ -15,7 +15,7 @@ tags:
 coverImage: "wp-content/uploads/2015/06/grobromain2.jpg"
 ---
 
-**Інтрига поступово розкривається. Тепер стає зрозуміло, до чого були ті [загадкові «партизанські акції»](https://www.youtube.com/watch?v=HjlNE_CgCS0) на кшталт «анонімного» банеру на вході до парку «Перемога» та [різноманітні чутки-здогадки броварчан.](https://www.facebook.com/groups/brovary/permalink/1042261035803862/?hc_location=ufi)**
+**Інтрига поступово розкривається. Тепер стає зрозуміло, до чого були ті [загадкові «партизанські акції»] https://www.youtube.com/watch?v=HjlNE_CgCS0  на кшталт «анонімного» банеру на вході до парку «Перемога» та [різноманітні чутки-здогадки броварчан.](https://www.facebook.com/groups/brovary/permalink/1042261035803862/?hc_location=ufi)**
 
 Сьогодні, 11 червня – реліз першого відео від Броварського Громадського Телебачення: сюжет про [нещодавній концерт гурту BRUTTO](https://mpz.brovary.org/krov-z-molotkom-brutto-mihalok-porvali-brovari-robochim-pank-rokom/) в ТРЦ «Термінал».
 

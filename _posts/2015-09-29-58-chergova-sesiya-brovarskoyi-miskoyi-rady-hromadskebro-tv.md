@@ -19,4 +19,4 @@ tags:
 coverImage: "wp-content/uploads/2015/09/sesiya58.jpg"
 ---
 
-Громадське Бровари [виклало](https://www.youtube.com/watch?v=XZOclqS-zVI) у мережу повний відеозапис [засідання](https://mpz.brovary.org/58-sesiya-miskrady-pidtrymka-gromadskyh-formuvan-borotba-z-pidtoplennyam-i-novyj-pochesnyj-gromadyanyn/) 58-ої чергової сесії Броварської міської ради, яка відбулась 24 вересня.
+Громадське Бровари [виклало] https://www.youtube.com/watch?v=XZOclqS-zVI  у мережу повний відеозапис [засідання](https://mpz.brovary.org/58-sesiya-miskrady-pidtrymka-gromadskyh-formuvan-borotba-z-pidtoplennyam-i-novyj-pochesnyj-gromadyanyn/) 58-ої чергової сесії Броварської міської ради, яка відбулась 24 вересня.

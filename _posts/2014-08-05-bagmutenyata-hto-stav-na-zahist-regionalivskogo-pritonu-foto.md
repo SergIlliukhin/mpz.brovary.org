@@ -30,7 +30,7 @@ categories:
 
  
 
-На підтримку свого шефа вийшла й одна з офіціанток "Мюзік Холу", вже відома нашим читачам [по відеоролику з "антиалкогольного рейду"](https://www.youtube.com/watch?v=YwHY_sD_384)
+На підтримку свого шефа вийшла й одна з офіціанток "Мюзік Холу", вже відома нашим читачам [по відеоролику з "антиалкогольного рейду"] https://www.youtube.com/watch?v=YwHY_sD_384 
 
 [![t2](https://mpz.brovary.org/wp-content/uploads/2014/08/t2.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/08/t2.jpg)
 

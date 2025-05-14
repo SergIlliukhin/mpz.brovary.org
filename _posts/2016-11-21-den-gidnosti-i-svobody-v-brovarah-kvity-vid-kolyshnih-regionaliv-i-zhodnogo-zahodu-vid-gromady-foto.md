@@ -44,12 +44,12 @@ coverImage: "wp-content/uploads/2016/11/1024px-Brovary_blok-post.jpg"
 
 \[caption id="attachment\_63209" align="aligncenter" width="600"\][![1024px-brovary_blok-post](https://mpz.brovary.org/wp-content/uploads/2016/11/1024px-Brovary_blok-post.jpg)](https://mpz.brovary.org/wp-content/uploads/2016/11/1024px-Brovary_blok-post.jpg) На в'їзді з Києва місцеві мешканці влаштували блок-пост\[/caption\]
 
-Одразу після перемоги місто стало одним із перших в Україні, де [повалили](https://www.youtube.com/watch?v=5TTWEd8Lsoo) пам’ятник Володимиру Леніну. За декілька днів активісти [взяли під контроль](https://mpz.brovary.org/brovarchani-perezavantazhili-miske-telebachennya/) комунальну телестудію «Наше місто» (ЕКТА), однак згодом їх «вибили» із приміщення. 24 лютого на майдані Свободи зібрався [декількатисячний мітинг](https://mpz.brovary.org/brovarchani-na-viche-vislovili-nedoviru-miskomu-golovi-sapozhku/) за відставку мера Ігоря Сапожка.
+Одразу після перемоги місто стало одним із перших в Україні, де [повалили] https://www.youtube.com/watch?v=5TTWEd8Lsoo  пам’ятник Володимиру Леніну. За декілька днів активісти [взяли під контроль](https://mpz.brovary.org/brovarchani-perezavantazhili-miske-telebachennya/) комунальну телестудію «Наше місто» (ЕКТА), однак згодом їх «вибили» із приміщення. 24 лютого на майдані Свободи зібрався [декількатисячний мітинг](https://mpz.brovary.org/brovarchani-na-viche-vislovili-nedoviru-miskomu-golovi-sapozhku/) за відставку мера Ігоря Сапожка.
 
 _Хронологія революції у Броварах_
 
 <iframe src="https://www.youtube.com/embed/Sd97e5_eu7k" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-Слід нагадати, що під час подій Євромайдану представники влади міста [не підтримували](https://www.youtube.com/watch?v=Hd6hpn5BZhQ) протестувальників Революції Гідності. Водночас, одразу після втечі Віктора Януковича з України, Ігор Сапожко [оголосив](https://www.youtube.com/watch?v=luC7b2Y2Qhw) про свій вихід із лав Партії регіонів та про ліквідацію фракції політсили в міськраді.
+Слід нагадати, що під час подій Євромайдану представники влади міста [не підтримували] https://www.youtube.com/watch?v=Hd6hpn5BZhQ  протестувальників Революції Гідності. Водночас, одразу після втечі Віктора Януковича з України, Ігор Сапожко [оголосив] https://www.youtube.com/watch?v=luC7b2Y2Qhw  про свій вихід із лав Партії регіонів та про ліквідацію фракції політсили в міськраді.
 
 **Фото - Андрій Качор, Броварська міська рада, Дмитро Карпій**

@@ -23,6 +23,6 @@ coverImage: "wp-content/uploads/2015/06/TB-3.jpg"
 
 <iframe src="https://www.youtube.com/embed/Q8EQbML2EQk" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-Нагадаємо, запуску нового телеканалу у Броварах передувала низка партизанських акцій («анонімний» [банер](https://www.facebook.com/groups/brovary/permalink/1042261035803862/?hc_location=ufi) на вході до парку «Перемога» та [вірусне відео](https://www.youtube.com/watch?v=HjlNE_CgCS0)).
+Нагадаємо, запуску нового телеканалу у Броварах передувала низка партизанських акцій («анонімний» [банер](https://www.facebook.com/groups/brovary/permalink/1042261035803862/?hc_location=ufi) на вході до парку «Перемога» та [вірусне відео] https://www.youtube.com/watch?v=HjlNE_CgCS0 ).
 
 > Команда "Маєш право знати" вітає колег з дебютом, сподівається на цікаві, збалансовані та якісні телесюжети про події у Броварах, а також очікує на запрошення на офіційну презентацію Броварського Громадського Телебачення.

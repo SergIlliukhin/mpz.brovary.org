@@ -234,7 +234,7 @@ ustream.tv
 
 ![](https://fbexternal-a.akamaihd.net/safe_image.php?d=AQDmgbfnTJfjLkLi&w=158&h=158&url=http%3A%2F%2Fi.ytimg.com%2Fvi%2F0PXCdAOmkv0%2Fmaxresdefault.jpg&cfs=1&upscale=1&sx=292&sy=0&sw=720&sh=720)
 
-[Затримання агітмобілю РПЛ Олега Ляшка: «розборки» представників БПП з представниками РПЛ](https://youtu.be/0PXCdAOmkv0)
+[Затримання агітмобілю РПЛ Олега Ляшка: «розборки» представників БПП з представниками РПЛ] https://youtu.be/0PXCdAOmkv0 
 
 Знайшовся водій агітавтомобіля Радикальної партії України Олега Ляшка, що здійснював незаконну агітацію біля однієї з виборчих дільниць на вулиці Марії Лагун...
 

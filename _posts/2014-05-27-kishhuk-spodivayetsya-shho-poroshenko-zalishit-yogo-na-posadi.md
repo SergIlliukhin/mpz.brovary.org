@@ -42,7 +42,7 @@ coverImage: "wp-content/uploads/2014/05/foto-12.jpg"
 
 <iframe src="//www.youtube.com/embed/9BkiKORvdKo" width="480" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-Однак виявилось, що роботи щодо звільнення РДА від представників поваленого режиму – не початий край. Журналісти МПЗ зі здивуванням виявили в оточенні Кищука ще одну цікаву персону: [**Руслана Мишко** – координатора «тітушок»](https://mpz.brovary.org/brovarski-rayonni-titushki-hto-zvidki-i-za-skilki/), що [перебували в приміщенні РДА під час мітингу 27 січня](https://mpz.brovary.org/brovarchanam-vdalos-u-mirniy-sposib-vignati-titushok-z-miskradi-foto-video/), а згодом – [виведених з будівлі крізь «коридор ганьби».](https://www.youtube.com/watch?v=uZkDFvgGa_A)
+Однак виявилось, що роботи щодо звільнення РДА від представників поваленого режиму – не початий край. Журналісти МПЗ зі здивуванням виявили в оточенні Кищука ще одну цікаву персону: [**Руслана Мишко** – координатора «тітушок»](https://mpz.brovary.org/brovarski-rayonni-titushki-hto-zvidki-i-za-skilki/), що [перебували в приміщенні РДА під час мітингу 27 січня](https://mpz.brovary.org/brovarchanam-vdalos-u-mirniy-sposib-vignati-titushok-z-miskradi-foto-video/), а згодом – [виведених з будівлі крізь «коридор ганьби».] https://www.youtube.com/watch?v=uZkDFvgGa_A 
 
 [![jxtXkzG_nVQ](https://mpz.brovary.org/wp-content/uploads/2014/05/jxtXkzG_nVQ.jpg)](https://mpz.brovary.org/wp-content/uploads/2014/05/jxtXkzG_nVQ.jpg)
 

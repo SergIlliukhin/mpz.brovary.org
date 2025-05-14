@@ -61,6 +61,6 @@ coverImage: "wp-content/uploads/2016/03/664483_1408614.jpg"
 
 <iframe src="https://www.youtube.com/embed/EpMSK5Fe1Rk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-Зазначимо, що попри низку [задокументованих фактів](https://mpz.brovary.org/pratsivniki-vikonkomu-ne-zmogli-pereshkoditi-potrapiti-zhurnalistam-na-sesiyu-video/) [грубого перешкоджання журналістській діяльності](https://www.youtube.com/watch?v=wT7SeNc1I4k) (в т.ч. пов’язаних із застосуванням насильства) з боку багатьох [посадових осіб та правоохоронців](https://www.youtube.com/watch?v=-p7IRNU_Ne4) у Броварах, жоден з них досі не притягнутий до відповідальності, а більшість – продовжує перебувати на своїх посадах, працюючи в органах влади.
+Зазначимо, що попри низку [задокументованих фактів](https://mpz.brovary.org/pratsivniki-vikonkomu-ne-zmogli-pereshkoditi-potrapiti-zhurnalistam-na-sesiyu-video/) [грубого перешкоджання журналістській діяльності] https://www.youtube.com/watch?v=wT7SeNc1I4k  (в т.ч. пов’язаних із застосуванням насильства) з боку багатьох [посадових осіб та правоохоронців] https://www.youtube.com/watch?v=-p7IRNU_Ne4  у Броварах, жоден з них досі не притягнутий до відповідальності, а більшість – продовжує перебувати на своїх посадах, працюючи в органах влади.
 
 Фото автора та "каналу 24"
