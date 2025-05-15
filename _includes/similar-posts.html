@@ -1,5 +1,5 @@
 {% assign sourcePost = include.sourcePost %}
-{% assign posts = site.posts | where_exp: "post", "post.url != sourcePost.url" | sort: "date" | reverse %}
+{% assign posts = site.posts | where_exp: "post", "post.url != sourcePost.url" | sample: site.posts.size %}
 {% assign similar_posts = "" | split: "" %}
 {% assign limit = include.limit | default: 100 %}
 
