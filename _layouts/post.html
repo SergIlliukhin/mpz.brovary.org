@@ -56,6 +56,7 @@ layout: default
   </div>
 
   {% if page.tags.size > 0 %}
+    <hr class="post-separator">
     <div class="similar-posts-section">
       <h2 class="similar-posts-title">Схожі публікації</h2>
       {% include similar-posts.html sourcePost=page limit=6 countOfCovers=3 %}
