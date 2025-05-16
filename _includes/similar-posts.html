@@ -1,4 +1,5 @@
 {% assign sourcePost = include.sourcePost %}
+{% assign excluded_tags = "breaking-news,vibir-redaktsiyi,brovary,novini" | split: "," %}
 {% assign posts = site.posts | where_exp: "post", "post.url != sourcePost.url" | sample: site.posts.size %}
 {% assign similar_posts = "" | split: "" %}
 {% assign limit = include.limit | default: 100 %}
@@ -8,6 +9,9 @@
     {% break %}
   {% endif %}
   {% for tag in post.tags %}
+    {% if excluded_tags contains tag %}
+      {% continue %}
+    {% endif %}
     {% if sourcePost.tags contains tag %}
       {% assign similar_posts = similar_posts | push: post %}
       {% break %}
